@@ -3,3 +3,8 @@ node_modules/
 *.log
 .env
 .env.*
+
+# Restos de locks de git creados desde un mount sin permiso de borrado.
+# Se puede borrar la carpeta a mano sin ningún riesgo.
+_git-basura/
+.test-backup/

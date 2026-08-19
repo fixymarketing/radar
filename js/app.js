@@ -469,7 +469,7 @@ function renderHoy() {
         <p class="hero__eyebrow">Fixy Radar</p>
         <h2 class="hero__title">${esc(longDate(meta.date))}</h2>
         <p class="hero__date">Última actualización automática: <strong>${esc(meta.last_updated_ar || '—')}</strong> (hora de Argentina)</p>
-        ${meta.summary_line ? `<p class="hero__summary">${esc(meta.summary_line)}</p>` : ''}
+        ${meta.summary_line ? `<p class="hero__summary">${esc(meta.summary_line)}${meta.summary_from_previous_day ? ' <em style="color:var(--yellow);font-style:normal;font-size:12.5px">· resumen del día anterior: el análisis de hoy no se pudo generar</em>' : ''}</p>` : ''}
         <p class="hero__stamp">
           ${meta.next_event ? `<span>Próximo evento: <strong>${esc(meta.next_event.name)}</strong> · ${esc(shortDate(meta.next_event.date_start))} (${esc(relativeDays(meta.next_event.date_start))})</span>` : '<span>Sin eventos próximos cargados</span>'}
           <span>${esc(c.news_total ?? 0)} novedades vigentes · ${esc(c.events_upcoming ?? 0)} eventos activos</span>

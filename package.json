@@ -9,7 +9,10 @@
     "update": "node scripts/update.mjs",
     "dry-run": "node scripts/update.mjs --dry-run",
     "check": "node scripts/check.mjs",
-    "serve": "node scripts/serve.mjs"
+    "serve": "node scripts/serve.mjs",
+    "test": "node scripts/test/simulate-run.mjs && node scripts/test/simulate-run.mjs --falla-sintesis"
   },
-  "engines": { "node": ">=20" }
+  "engines": {
+    "node": ">=20"
+  }
 }

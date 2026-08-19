@@ -56,7 +56,8 @@ async function request(path, body, { retries = 4, beta = null } = {}) {
     // 400/401/403/404 no se reintentan: son errores de configuración.
     if (res.status < 429 && res.status !== 408) throw lastError;
 
-    const wait = Math.min(60000, 2000 * 2 ** attempt) + Math.floor(Math.random() * 1000);
+    const base = Number(process.env.FIXY_RETRY_BASE_MS || 2000);
+    const wait = Math.min(60000, base * 2 ** attempt) + Math.floor(Math.random() * 1000);
     console.warn(`  ↻ reintento ${attempt + 1}/${retries} tras HTTP ${res.status} (espera ${wait} ms)`);
     await sleep(wait);
   }

@@ -178,6 +178,11 @@ function pick(prompt) {
   return REPLIES.novedades;
 }
 
+// Con --falla-sintesis se simula que el análisis del día no responde, para
+// verificar que la home conserva el resumen anterior en lugar de degradarse.
+const FALLA_SINTESIS = process.argv.includes('--falla-sintesis');
+const metaAntes = await readJson('data/meta.json', {});
+
 let calls = 0;
 globalThis.fetch = async (url, init) => {
   const target = String(url);
@@ -187,6 +192,9 @@ globalThis.fetch = async (url, init) => {
   calls += 1;
   const body = JSON.parse(init.body);
   const prompt = body.messages[0].content;
+  if (FALLA_SINTESIS && prompt.includes('DESTACADOS DEL DÍA')) {
+    return new Response(JSON.stringify({ error: { message: 'fallo simulado del análisis' } }), { status: 500 });
+  }
   return new Response(
     JSON.stringify({
       content: [{ type: 'text', text: `Acá va el JSON:\n\`\`\`json\n${JSON.stringify(pick(prompt))}\n\`\`\`` }],
@@ -198,8 +206,9 @@ globalThis.fetch = async (url, init) => {
 
 process.env.ANTHROPIC_API_KEY = 'clave-de-prueba';
 
-await import('../update.mjs');
-await new Promise((r) => setTimeout(r, 400));
+process.env.FIXY_RETRY_BASE_MS = '10';
+const { run } = await import('../update.mjs');
+await run();
 
 const after = {
   events: await readJson('data/events.json', []),
@@ -209,6 +218,23 @@ const after = {
   meta: await readJson('data/meta.json', {}),
   internal: await readJson('data/internal/event-status.json', {})
 };
+
+if (FALLA_SINTESIS) {
+  assert(after.meta.summary_from_previous_day === true, 'se marcó que el resumen viene del día anterior');
+  assert(after.meta.summary_line === metaAntes.summary_line, 'se conservó el resumen curado del día anterior');
+  assert(
+    JSON.stringify(after.meta.highlights.map((h) => h.title)) === JSON.stringify(metaAntes.highlights.map((h) => h.title)),
+    'se conservaron los destacados del día anterior'
+  );
+  assert(after.meta.run_status === 'parcial', `estado de la corrida: ${after.meta.run_status} (esperado parcial)`);
+  assert(after.news.length === news.length + 1, 'las novedades se actualizaron igual, aunque falló el análisis');
+  await restore();
+  console.log('\n--- Simulación con análisis caído ---');
+  ok.forEach((m) => console.log(`  ✓ ${m}`));
+  failures.forEach((m) => console.log(`  ✗ ${m}`));
+  console.log(failures.length ? `\n${failures.length} verificaciones fallaron.` : '\nTodas las verificaciones pasaron. Datos originales restaurados.');
+  process.exit(failures.length ? 1 : 0);
+}
 
 assert(calls === 5, `se hicieron ${calls} llamadas a la API (esperado 5)`);
 assert(after.news.length === news.length + 1, `las novedades pasaron de ${news.length} a ${after.news.length} (esperado +1: la duplicada con UTM se fusionó)`);

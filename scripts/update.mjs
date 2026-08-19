@@ -11,6 +11,8 @@
  *   node scripts/update.mjs --dry-run  no escribe archivos, solo informa
  */
 
+import { pathToFileURL } from 'node:url';
+
 import { askForJson } from './lib/claude.js';
 import {
   digestAi,
@@ -81,7 +83,7 @@ async function task(name, fn) {
   }
 }
 
-async function main() {
+export async function run() {
   console.log(`\nFixy Radar · actualización ${today}${DRY ? ' (dry-run)' : ''}\n`);
   await ensureDirs();
 
@@ -188,9 +190,28 @@ async function main() {
 
   const incomingOpps = sanitizeOpportunities(synthesis?.data?.opportunities, { issues });
   const incomingContent = sanitizeContent(synthesis?.data?.content, { issues });
-  const highlights = sanitizeHighlights(synthesis?.data?.highlights);
-  const summaryLine =
+
+  // Si el análisis del día falla, se conserva el resumen anterior en lugar de
+  // degradar la home a destacados genéricos. Se avisa que es del día previo.
+  let highlights = sanitizeHighlights(synthesis?.data?.highlights);
+  let summaryLine =
     typeof synthesis?.data?.summary_line === 'string' ? synthesis.data.summary_line.trim() : null;
+  let carriedOver = false;
+
+  if (!synthesis || (!highlights.length && !summaryLine)) {
+    const previous = await readJson('data/meta.json', null);
+    if (previous?.highlights?.length) {
+      highlights = previous.highlights.map((h) => ({
+        title: h.title,
+        kind: h.kind,
+        priority: h.priority,
+        one_liner: h.one_liner
+      }));
+      summaryLine = previous.summary_line;
+      carriedOver = true;
+      console.log('  · el análisis del día no se pudo generar: se conserva el resumen anterior');
+    }
+  }
 
   const mergedOpps = mergeOpportunities(opportunities, incomingOpps.slice(0, 3), today);
   const mergedContent = mergeContent(content, incomingContent, today);
@@ -232,6 +253,8 @@ async function main() {
       discarded_quality: issues.length
     }
   });
+
+  if (carriedOver) meta.summary_from_previous_day = true;
 
   const summary = {
     date: today,
@@ -280,9 +303,17 @@ async function main() {
   console.log(`  estado de la corrida: ${meta.run_status}\n`);
 
   if (meta.run_status === 'error') process.exitCode = 1;
+  return meta;
 }
 
-main().catch((err) => {
-  console.error(`\nFallo general: ${err.stack || err.message}`);
-  process.exitCode = 1;
-});
+// Se ejecuta solo cuando se lo invoca directamente, así las pruebas pueden
+// importar run() y esperarlo de verdad en lugar de adivinar cuánto tarda.
+const invocadoDirectamente =
+  process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
+
+if (invocadoDirectamente) {
+  run().catch((err) => {
+    console.error(`\nFallo general: ${err.stack || err.message}`);
+    process.exitCode = 1;
+  });
+}
