@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Fixy Radar · radar ejecutivo diario de eCommerce, logística, retail, tecnología e IA para el equipo de Fixy.">
+<meta name="theme-color" content="#0F1C2D">
+<meta name="robots" content="noindex, nofollow">
+<title>Fixy Radar</title>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Ir al contenido</a>
+
+<div class="app" id="app">
+
+  <!-- ============ SIDEBAR (desktop) ============ -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar__brand">
+      <img class="brand__logo" id="brandLogo" src="assets/logo-fixy.png" alt="Fixy Logística">
+      <span class="brand__product">RADAR</span>
+    </div>
+
+    <nav class="nav" aria-label="Secciones">
+      <p class="nav__group">Radar</p>
+      <a class="nav__item" href="#hoy" data-nav="hoy"><span class="nav__icon" aria-hidden="true">◎</span>Hoy<span class="nav__badge" data-badge="hoy"></span></a>
+
+      <p class="nav__group">Agenda</p>
+      <a class="nav__item" href="#agenda" data-nav="agenda"><span class="nav__icon" aria-hidden="true">▤</span>Agenda Argentina<span class="nav__badge" data-badge="agenda"></span></a>
+      <a class="nav__item" href="#internacional" data-nav="internacional"><span class="nav__icon" aria-hidden="true">◈</span>Internacional<span class="nav__badge" data-badge="internacional"></span></a>
+
+      <p class="nav__group">Inteligencia</p>
+      <a class="nav__item" href="#novedades" data-nav="novedades"><span class="nav__icon" aria-hidden="true">≡</span>Novedades<span class="nav__badge" data-badge="novedades"></span></a>
+      <a class="nav__item" href="#ia" data-nav="ia"><span class="nav__icon" aria-hidden="true">✳</span>AI Radar<span class="nav__badge" data-badge="ia"></span></a>
+      <a class="nav__item" href="#mercado" data-nav="mercado"><span class="nav__icon" aria-hidden="true">◫</span>Mercado</a>
+
+      <p class="nav__group">Acción</p>
+      <a class="nav__item" href="#oportunidades" data-nav="oportunidades"><span class="nav__icon" aria-hidden="true">◆</span>Oportunidades<span class="nav__badge" data-badge="oportunidades"></span></a>
+      <a class="nav__item" href="#contenido" data-nav="contenido"><span class="nav__icon" aria-hidden="true">✎</span>Content Radar<span class="nav__badge" data-badge="contenido"></span></a>
+
+      <p class="nav__group">Histórico</p>
+      <a class="nav__item" href="#archivo" data-nav="archivo"><span class="nav__icon" aria-hidden="true">▦</span>Archivo</a>
+    </nav>
+
+    <div class="sidebar__foot">
+      <p class="sidebar__status" id="sidebarStatus">Cargando…</p>
+      <p class="sidebar__note">Actualización automática diaria</p>
+    </div>
+  </aside>
+
+  <!-- ============ MAIN ============ -->
+  <main class="main" id="main">
+    <header class="topbar">
+      <div class="topbar__left">
+        <button class="topbar__menu" id="menuBtn" type="button" aria-label="Abrir menú">≡</button>
+        <div>
+          <h1 class="topbar__title" id="sectionTitle">Hoy en Fixy</h1>
+          <p class="topbar__meta" id="sectionMeta"></p>
+        </div>
+      </div>
+      <div class="topbar__right">
+        <label class="search" id="searchWrap">
+          <span class="search__icon" aria-hidden="true">⌕</span>
+          <input type="search" id="search" placeholder="Buscar en esta sección" autocomplete="off" aria-label="Buscar en esta sección">
+        </label>
+      </div>
+    </header>
+
+    <div class="content" id="content">
+      <div class="loading" id="loading"><span class="spinner" aria-hidden="true"></span> Cargando el radar…</div>
+    </div>
+
+    <footer class="footer">
+      <p>Fixy Radar · herramienta interna. Los datos se actualizan solos todos los días.
+      Las marcas <strong>Vamos / Evaluar / No vamos</strong> son internas y no se sobrescriben nunca.</p>
+    </footer>
+  </main>
+
+  <!-- ============ NAV MOBILE ============ -->
+  <nav class="tabbar" aria-label="Navegación principal">
+    <a class="tabbar__item" href="#hoy" data-nav="hoy"><span aria-hidden="true">◎</span>Hoy</a>
+    <a class="tabbar__item" href="#agenda" data-nav="agenda"><span aria-hidden="true">▤</span>Agenda</a>
+    <a class="tabbar__item" href="#novedades" data-nav="novedades"><span aria-hidden="true">≡</span>Novedades</a>
+    <a class="tabbar__item" href="#oportunidades" data-nav="oportunidades"><span aria-hidden="true">◆</span>Acción</a>
+    <button class="tabbar__item" id="moreBtn" type="button"><span aria-hidden="true">⋯</span>Más</button>
+  </nav>
+
+  <div class="sheet" id="sheet" hidden>
+    <div class="sheet__backdrop" data-close-sheet></div>
+    <div class="sheet__panel" role="dialog" aria-label="Más secciones">
+      <p class="sheet__title">Más secciones</p>
+      <a class="sheet__item" href="#internacional" data-nav="internacional">Radar internacional</a>
+      <a class="sheet__item" href="#ia" data-nav="ia">AI Radar</a>
+      <a class="sheet__item" href="#mercado" data-nav="mercado">Mercado</a>
+      <a class="sheet__item" href="#contenido" data-nav="contenido">Content Radar</a>
+      <a class="sheet__item" href="#archivo" data-nav="archivo">Archivo</a>
+      <button class="sheet__close" type="button" data-close-sheet>Cerrar</button>
+    </div>
+  </div>
+
+  <div class="scrim" id="scrim" hidden></div>
+</div>
+
+<script src="js/app.js" type="module"></script>
+</body>
+</html>

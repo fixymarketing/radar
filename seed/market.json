@@ -1,0 +1,326 @@
+{
+  "stats": [
+    {
+      "label": "Facturación eCommerce Argentina",
+      "value": "$35,3 billones (+60% nominal)",
+      "period": "Año 2025",
+      "source_name": "CACE / Kantar – Estudio Anual",
+      "source_url": "https://mercado.com.ar/tendencias/cace-el-ecommerce-facturo-35-326-983-millones-en-2025-y-subio-60/",
+      "note": "La página oficial de Estadísticas de CACE publica una cifra alternativa de $34,03 billones (+55%). Verificar la serie final antes de comunicar."
+    },
+    {
+      "label": "Unidades vendidas online",
+      "value": "645 millones (+28%)",
+      "period": "Año 2025",
+      "source_name": "CACE – Estudio Anual",
+      "source_url": "https://cace.org.ar/pages/estadisticas",
+      "note": "Las unidades crecen mucho más que las órdenes (+3%): más productos por carrito."
+    },
+    {
+      "label": "Ticket promedio",
+      "value": "$143.128 (+55%)",
+      "period": "Año 2025",
+      "source_name": "CACE / Kantar",
+      "source_url": "https://mercado.com.ar/tendencias/cace-el-ecommerce-facturo-35-326-983-millones-en-2025-y-subio-60/",
+      "note": "CACE informa un valor alternativo de $134.519 (+46%) en su página de Estadísticas. Discrepancia sin resolver."
+    },
+    {
+      "label": "Entregas en menos de 24 h",
+      "value": "37% de las entregas",
+      "period": "Año 2025",
+      "source_name": "CACE – Estudio Anual",
+      "source_url": "https://cace.org.ar/blogs/news/estudio-anual-de-cace-2025-el-ecommerce-como-canal-estructural-del-consumo-argentino",
+      "note": "No se encontró medición 2026 equivalente publicada."
+    },
+    {
+      "label": "Modalidad de entrega preferida",
+      "value": "Domicilio 59% · Retiro en punto 29%",
+      "period": "Año 2025",
+      "source_name": "CACE – Estudio Anual",
+      "source_url": "https://cace.org.ar/pages/estadisticas",
+      "note": "El pickup gana terreno como alternativa de menor costo."
+    },
+    {
+      "label": "Concentración geográfica de la facturación",
+      "value": "AMBA 52% · Litoral 12% · Centro 9% · Sur 9% · NOA 7% · Cuyo 5%",
+      "period": "Año 2025",
+      "source_name": "CACE – Estudio Anual",
+      "source_url": "https://cace.org.ar/blogs/news/estudio-anual-de-cace-2025-el-ecommerce-como-canal-estructural-del-consumo-argentino",
+      "note": "Casi la mitad del volumen está fuera de AMBA: oportunidad de red federal."
+    },
+    {
+      "label": "Índice de costos logísticos CEDOL (con transporte)",
+      "value": "+2,25% mensual · +24,95% acumulado 2026",
+      "period": "Julio 2026",
+      "source_name": "CEDOL / UTN",
+      "source_url": "https://prensamercosur.org/2026/08/05/la-logistica-sin-transporte-subio-229-en-julio-impulsada-por-energia-y-seguridad/",
+      "note": "Drivers: energía +6,65%, mano de obra +2,79% (61% del movimiento), peajes +18,32%."
+    },
+    {
+      "label": "Costo de última milla (AECAUM)",
+      "value": "+2,16% mensual · +26,50% acumulado 2026",
+      "period": "Julio 2026",
+      "source_name": "CEDOL / AECAUM",
+      "source_url": "https://prensamercosur.org/2026/08/05/la-logistica-sin-transporte-subio-229-en-julio-impulsada-por-energia-y-seguridad/",
+      "note": "La última milla acumula más suba que el índice general: es el eslabón más inflacionario de la cadena."
+    },
+    {
+      "label": "Envío gratis en tiendas propias",
+      "value": "46,6% de las órdenes (5,6 millones de envíos)",
+      "period": "1er semestre 2026",
+      "source_name": "Tiendanube (vía Infobae)",
+      "source_url": "https://www.infobae.com/economia/2026/07/29/mas-productos-vendidos-menos-facturacion-el-comercio-electronico-crece-en-volumen-pero-ajusta-por-precio/",
+      "note": "Casi la mitad del costo de envío queda del lado del comercio."
+    },
+    {
+      "label": "Unidades por carrito (tiendas propias)",
+      "value": "4,6 unidades por orden (era 4,3)",
+      "period": "1er semestre 2026",
+      "source_name": "Tiendanube (vía Infobae)",
+      "source_url": "https://www.infobae.com/economia/2026/07/29/mas-productos-vendidos-menos-facturacion-el-comercio-electronico-crece-en-volumen-pero-ajusta-por-precio/",
+      "note": "Paquetes más grandes y pesados por orden, con facturación real en baja."
+    },
+    {
+      "label": "Categorías que más crecen en órdenes",
+      "value": "Juguetería +52% · Hogar/Deco y Deportes +32% · Alimentos +29%",
+      "period": "1er semestre 2026 i.a.",
+      "source_name": "Tiendanube (vía Infobae)",
+      "source_url": "https://www.infobae.com/economia/2026/07/29/mas-productos-vendidos-menos-facturacion-el-comercio-electronico-crece-en-volumen-pero-ajusta-por-precio/",
+      "note": "Hogar/Deco y Alimentos son categorías de bulto y peso: impacto directo en costo por envío."
+    },
+    {
+      "label": "Consumo masivo por canal (volumen)",
+      "value": "eCommerce +41,0% · Súper de cadena -2,6% · Kioscos -4,6%",
+      "period": "Junio 2026",
+      "source_name": "Scentia (vía Infobae)",
+      "source_url": "https://www.infobae.com/economia/2026/07/23/el-consumo-masivo-cayo-27-en-junio-y-acumula-una-baja-de-casi-3-en-2026/",
+      "note": "El eCommerce fue el único canal en alza y creció en todas las categorías relevadas."
+    },
+    {
+      "label": "Ventas minoristas pyme (CAME)",
+      "value": "-3,8% i.a. · -2,7% acumulado 2026",
+      "period": "Julio 2026",
+      "source_name": "CAME",
+      "source_url": "https://www.aer.org.ar/las-ventas-pyme-de-julio-2026-bajaron-38-interanual/",
+      "note": "Séptimo mes consecutivo en baja."
+    },
+    {
+      "label": "Importaciones vía courier (puerta a puerta)",
+      "value": "US$518 millones (+113,2% i.a.)",
+      "period": "Enero-mayo 2026",
+      "source_name": "INDEC, procesado por Analytica y Abeceb",
+      "source_url": "https://www.infobae.com/economia/2026/06/19/record-de-compras-al-exterior-las-importaciones-via-courier-se-duplicaron-y-ya-superan-los-usd-500-millones-en-2026/",
+      "note": "Serie: 2024 US$239 M · 2025 US$894 M (+274%)."
+    },
+    {
+      "label": "Hot Sale 2026",
+      "value": "$673.000 M (+19%) · 6 M de órdenes · ticket $109.780 · 93,4% mobile",
+      "period": "11-13 de mayo de 2026",
+      "source_name": "CACE",
+      "source_url": "https://cace.org.ar/blogs/news/hot-sale-2026-la-mitad-de-las-empresas-participantes-vendieron-lo-mismo-que-en-tres-semanas-o-mas",
+      "note": "La mitad de las empresas vendió en 3 días el equivalente a 3 semanas de abril. Pico de transacciones entre 22 y 23 h."
+    },
+    {
+      "label": "Red de última milla de Mercado Libre en Argentina",
+      "value": "40 centros de última milla (Brasil: más de 150)",
+      "period": "Estado a 2026",
+      "source_name": "Mercado Libre (vía El Cronista)",
+      "source_url": "https://www.cronista.com/apertura/empresas/mercado-libre-puso-primera-en-el-desarrollo-logistico-en-la-argentina-y-apuesta-a-mas/",
+      "note": "Inversión prevista 2026 en Argentina: US$3.400 millones (~+30% vs 2025)."
+    },
+    {
+      "label": "Penetración digital del retail argentino",
+      "value": "15% del retail total es digital",
+      "period": "Estimación 2026",
+      "source_name": "Mercado Libre Argentina (vía El Cronista)",
+      "source_url": "https://www.cronista.com/apertura/empresas/mercado-libre-puso-primera-en-el-desarrollo-logistico-en-la-argentina-y-apuesta-a-mas/",
+      "note": "Estimación de la compañía, no una medición oficial de INDEC o CACE."
+    },
+    {
+      "label": "Sector de última milla (AECAUM)",
+      "value": "31 empresas socias · +40% del mercado postal privado · ~262 M de piezas anuales",
+      "period": "Publicado junio 2026",
+      "source_name": "AECAUM (vía Infobae)",
+      "source_url": "https://www.infobae.com/inhouse/2026/06/10/logistica-de-ultima-milla-un-segmento-que-crece-al-ritmo-del-ecommerce/",
+      "note": "Empleo de las socias +12,9%, mientras el mercado postal consolidado perdió 1,8% de empleo en 2025."
+    }
+  ],
+  "trends": [
+    {
+      "title": "El eCommerce crece en volumen pero se contrae en valor real: más paquetes, menos plata por paquete",
+      "summary": "En el primer semestre de 2026 las tiendas propias de Tiendanube vendieron 14,1% más unidades y recibieron 8,9% más órdenes, pero facturaron 26,9% más nominal contra una inflación de 33,5%. Eso implica una caída real de alrededor de 17% en el precio por unidad.",
+      "why_it_matters_fixy": "El volumen de paquetes a mover crece más rápido que el dinero disponible del comercio para pagar por moverlos: el precio por envío se vuelve el campo de batalla. Hay que apoyarse en densidad de red y eficiencia por ruta, no en aumentos de tarifa.",
+      "source_url": "https://www.infobae.com/economia/2026/07/29/mas-productos-vendidos-menos-facturacion-el-comercio-electronico-crece-en-volumen-pero-ajusta-por-precio/",
+      "source_name": "Tiendanube (vía Infobae)"
+    },
+    {
+      "title": "El canal online es el único que crece mientras todo el retail físico cae",
+      "summary": "Según Scentia, en junio de 2026 el consumo masivo cayó 2,7% i.a., con caídas en kioscos (-4,6%), mayoristas (-3,3%), supermercados de cadena (-2,6%) y autoservicios (-1,6%). El eCommerce creció 41% y fue el único canal en alza. INDEC muestra supermercados en -0,7% i.a. y CAME ventas pyme en -3,8%.",
+      "why_it_matters_fixy": "La demanda logística de Fixy está anclada al único canal que crece en un mercado de consumo en contracción. Es el argumento comercial más fuerte para convencer a marcas tradicionales de migrar volumen al canal online.",
+      "source_url": "https://www.infobae.com/economia/2026/07/23/el-consumo-masivo-cayo-27-en-junio-y-acumula-una-baja-de-casi-3-en-2026/",
+      "source_name": "Scentia (vía Infobae)"
+    },
+    {
+      "title": "La última milla es el eslabón más inflacionario de la cadena logística",
+      "summary": "En julio de 2026 el índice de última milla subió 2,16% mensual y acumula 26,50% en el año, por encima del índice general con transporte (24,95%). La distribución urbana subió aún más: 3,53% mensual con acompañante. Los drivers son energía, mano de obra y peajes (+18,32%).",
+      "why_it_matters_fixy": "Los costos de Fixy suben más rápido que los del resto de la cadena, justo cuando los clientes tienen menos capacidad de absorber aumentos. Hay que revisar la fórmula de ajuste de contratos y atacar mano de obra y energía por eficiencia operativa.",
+      "source_url": "https://prensamercosur.org/2026/08/05/la-logistica-sin-transporte-subio-229-en-julio-impulsada-por-energia-y-seguridad/",
+      "source_name": "CEDOL / AECAUM (vía Prensa Mercosur)"
+    },
+    {
+      "title": "El envío gratis ya es estándar de mercado y lo paga el comercio",
+      "summary": "En el primer semestre de 2026, 46,6% de las órdenes en tiendas propias se despacharon con envío gratis: 5,6 millones de envíos. Ocurre en simultáneo con una caída real del precio por unidad de ~17% y con un aumento de las unidades por carrito de 4,3 a 4,6.",
+      "why_it_matters_fixy": "Casi la mitad del costo de envío es un costo directo del comercio, lo que convierte la tarifa de Fixy en una línea que el cliente mira con lupa todos los meses. Consolidación de bultos, peso volumétrico y puntos de retiro son las palancas para que el envío gratis siga siendo viable para el vendedor.",
+      "source_url": "https://www.infobae.com/economia/2026/07/29/mas-productos-vendidos-menos-facturacion-el-comercio-electronico-crece-en-volumen-pero-ajusta-por-precio/",
+      "source_name": "Tiendanube (vía Infobae)"
+    },
+    {
+      "title": "Boom del courier internacional: las compras puerta a puerta se duplicaron",
+      "summary": "Las importaciones vía courier alcanzaron US$518 millones entre enero y mayo de 2026, +113,2% i.a., con abril en un récord de US$118 millones. La serie muestra una escalada de US$239 millones en 2024 a US$894 millones en 2025.",
+      "why_it_matters_fixy": "Cada paquete internacional que entra necesita última milla doméstica: es demanda incremental directa. Al mismo tiempo compite con el producto nacional que Fixy mueve, así que conviene capturar el tramo doméstico del courier en vez de solo defender el volumen local.",
+      "source_url": "https://www.infobae.com/economia/2026/06/19/record-de-compras-al-exterior-las-importaciones-via-courier-se-duplicaron-y-ya-superan-los-usd-500-millones-en-2026/",
+      "source_name": "INDEC / Analytica / Abeceb (vía Infobae)"
+    },
+    {
+      "title": "Shein y Temu ya capturaron doble dígito de share y erosionan el margen de las marcas locales",
+      "summary": "En un solo año Temu alcanzó 10% y Shein 8% de participación entre los usuarios argentinos de marketplaces. En moda, el crecimiento nominal fue 53,1% pero a tiendas comparables igualó exactamente la inflación. Las marcas locales respondieron compitiendo por experiencia, velocidad de entrega e identidad.",
+      "why_it_matters_fixy": "La velocidad de entrega es explícitamente una de las tres armas con las que las marcas locales se defienden de las plataformas asiáticas, y eso es exactamente lo que Fixy vende. Posicionar a Fixy como la ventaja competitiva contra el envío lento de Asia es un mensaje comercial directo.",
+      "source_url": "https://es-us.noticias.yahoo.com/ventas-online-marcas-tienda-facturaron-095700476.html",
+      "source_name": "Tiendanube – Informe anual (vía Yahoo Noticias)"
+    },
+    {
+      "title": "Mercado Libre acelera infraestructura y sube la vara de servicio para todo el mercado",
+      "summary": "Mercado Libre anunció US$3.400 millones de inversión en Argentina para 2026 y 1.900 nuevos empleos, con un nuevo centro en Escobar de US$115 millones previsto para 2027 y otro en Córdoba por US$91 millones. Hoy opera 40 centros de última milla contra más de 150 en Brasil, y lanzó entregas por avión a cuatro destinos de la Patagonia.",
+      "why_it_matters_fixy": "Mercado Libre fija el estándar de plazo que los compradores luego exigen a todas las tiendas, incluidas las que operan con Fixy. La contracara es que su red sigue siendo delgada frente a Brasil: el interior y los envíos fuera de su footprint quedan como espacio real.",
+      "source_url": "https://www.cronista.com/apertura/empresas/mercado-libre-puso-primera-en-el-desarrollo-logistico-en-la-argentina-y-apuesta-a-mas/",
+      "source_name": "Mercado Libre Argentina (vía El Cronista)"
+    },
+    {
+      "title": "Same-day y next-day pasaron de diferencial a expectativa básica",
+      "summary": "El análisis sectorial de marzo de 2026 sostiene que same-day y next-day dejaron de ser un diferencial para transformarse en una expectativa básica, con impacto en conversión de checkout, abandono de carrito, recompra y reclamos posventa. En 2025, 37% de las entregas ya se hacían en menos de 24 horas.",
+      "why_it_matters_fixy": "La velocidad ya no genera premium de precio, pero su ausencia genera pérdida de cliente: el cumplimiento de plazos es requisito de retención más que upsell. El crecimiento del retiro en sucursal (29%) da una vía para bajar costo por entrega sin degradar la experiencia.",
+      "source_url": "https://negociosdeargentina.com.ar/same-day-next-day-velocidad-logistica-argentina/",
+      "source_name": "Negocios de Argentina y CACE Estudio Anual 2025"
+    },
+    {
+      "title": "Los picos comerciales concentran demanda de forma cada vez más violenta",
+      "summary": "En el Hot Sale 2026 la mitad de las empresas participantes vendió en tres días el equivalente a tres semanas o más de abril, con más de 6 millones de órdenes. El 93,4% de las compras se hizo por celular y el pico de transacciones ocurrió entre las 22 y las 23 horas.",
+      "why_it_matters_fixy": "Hay que dimensionar capacidad para absorber en 72 horas un volumen equivalente a tres semanas de operación normal, con el agravante de que el pico de generación de órdenes es nocturno y comprime la ventana de despacho. Conviene vender capacidad reservada para eventos en lugar de tarifa spot en el CyberMonday.",
+      "source_url": "https://cace.org.ar/blogs/news/hot-sale-2026-la-mitad-de-las-empresas-participantes-vendieron-lo-mismo-que-en-tres-semanas-o-mas",
+      "source_name": "CACE"
+    },
+    {
+      "title": "Casi la mitad del eCommerce argentino ocurre fuera del AMBA",
+      "summary": "Según el Estudio Anual 2025 de CACE, el AMBA concentra 52% de la facturación del eCommerce; el 48% restante se reparte entre Litoral (12%), Centro (9%), Sur (9%), NOA (7%), Cuyo (5%) y resto de Buenos Aires (5%).",
+      "why_it_matters_fixy": "Casi la mitad del mercado está en plazas donde la cobertura y los plazos son estructuralmente peores, y ahí un operador enfocado puede diferenciarse frente a redes pensadas para AMBA. Es el argumento para priorizar expansión federal antes que más densidad en Buenos Aires.",
+      "source_url": "https://cace.org.ar/blogs/news/estudio-anual-de-cace-2025-el-ecommerce-como-canal-estructural-del-consumo-argentino",
+      "source_name": "CACE – Estudio Anual 2025"
+    },
+    {
+      "title": "Amazon disputa a Mercado Libre el rol de puerta de salida exportadora de las pymes argentinas",
+      "summary": "Tras el Decreto 604/2026, que simplifica las exportaciones por correo, Amazon apunta a convertir pymes argentinas en exportadoras digitales apalancando Fulfillment by Amazon, con Argentina habilitada como país elegible. Shopee también reapareció en el mercado argentino con envíos gratis y descuentos fuertes.",
+      "why_it_matters_fixy": "Si las pymes argentinas empiezan a vender al exterior, aparece una demanda nueva de primera milla y consolidación hacia hubs de exportación que hoy Fixy no atiende. Vale evaluar un servicio de recolección y preparación para exportación por courier antes de que lo capturen las plataformas.",
+      "source_url": "https://www.rosario3.com/ecos365/noticias/la-guerra-que-faltaba-amazon-desafia-a-mercado-libre-en-argentina-20260810-0005.html",
+      "source_name": "Ecos365 / Rosario3"
+    },
+    {
+      "title": "El comprador paga cada vez más al contado y por transferencia",
+      "summary": "En el primer semestre de 2026 la transferencia bancaria llegó a 27,2% de los pagos en tiendas propias (+4,7 p.p.), la tarjeta de crédito cayó a 46,6% (-4 p.p.) y el pago en una sola cuota subió a 67,1% (+4 p.p.).",
+      "why_it_matters_fixy": "El paso a pago contado acelera la conciliación pero achica el ticket financiado, lo que refuerza la presión sobre el costo de envío como porcentaje de la venta. Implica clientes con menos colchón financiero y más sensibilidad a la tarifa.",
+      "source_url": "https://www.infobae.com/economia/2026/07/29/mas-productos-vendidos-menos-facturacion-el-comercio-electronico-crece-en-volumen-pero-ajusta-por-precio/",
+      "source_name": "Tiendanube (vía Infobae)"
+    }
+  ],
+  "commercial_dates": [
+    {
+      "name": "CyberMonday 2026",
+      "date_start": "2026-11-02",
+      "date_end": "2026-11-04",
+      "confirmed": true,
+      "note": "Confirmado por la home oficial de CACE: 2, 3 y 4 de noviembre. Una subpágina del mismo sitio y algunas notas mencionan 3, 4 y 5. Usar 2 al 4 y reconfirmar antes de comunicar.",
+      "source_url": "https://www.cybermonday.com.ar/"
+    },
+    {
+      "name": "Cyber Week 2026 (extensión)",
+      "date_start": "2026-11-05",
+      "date_end": "2026-11-08",
+      "confirmed": false,
+      "note": "Extensión informal reportada por prensa. No es un evento con fechas oficiales de CACE: fechas estimadas.",
+      "source_url": "https://www.diariouno.com.ar/economia/ofertas-y-descuentos-fechas-confirmadas-del-black-friday-y-cyber-monday-2026-argentina-n1552547"
+    },
+    {
+      "name": "Black Friday 2026",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-27",
+      "confirmed": true,
+      "note": "Viernes 27 de noviembre. En Argentina no lo organiza CACE: no hay convocatoria única y cada retailer define su participación y duración.",
+      "source_url": "https://www.diariouno.com.ar/economia/ofertas-y-descuentos-fechas-confirmadas-del-black-friday-y-cyber-monday-2026-argentina-n1552547"
+    },
+    {
+      "name": "Black Week 2026 (extensión)",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-29",
+      "confirmed": false,
+      "note": "Extensión de fin de semana reportada por prensa. Sin organizador único ni confirmación oficial.",
+      "source_url": "https://www.c5n.com/economia/descuentos-y-ofertas-confirmaron-las-fechas-del-black-friday-y-cyber-week-2026-n237316"
+    },
+    {
+      "name": "Navidad 2026",
+      "date_start": "2026-12-25",
+      "date_end": "2026-12-25",
+      "confirmed": true,
+      "note": "Fecha fija. Por confirmar: las fechas de corte de despacho para entrega pre-Navidad, no anunciadas al 19/08/2026. Entre CyberMonday, Black Friday y Navidad hay una ventana de pico sostenido de unas ocho semanas.",
+      "source_url": null
+    },
+    {
+      "name": "Hot Sale 2026 (ya ocurrió)",
+      "date_start": "2026-05-11",
+      "date_end": "2026-05-13",
+      "confirmed": true,
+      "note": "Resultados: $673.000 millones (+19% i.a.), más de 6 millones de órdenes, ticket promedio $109.780, 93,4% de compras por mobile.",
+      "source_url": "https://cace.org.ar/blogs/news/hot-sale-2026-la-mitad-de-las-empresas-participantes-vendieron-lo-mismo-que-en-tres-semanas-o-mas"
+    }
+  ],
+  "regulation": [
+    {
+      "title": "Decreto 604/2026: unificación del régimen courier y puerta a puerta",
+      "summary": "Publicado el 17 de julio de 2026, elimina la distinción entre el operador postal designado y los servicios PSP/Courier privados, aplicando tratamiento tributario uniforme. Los envíos de hasta US$400 quedan exentos de derechos de importación y tasa de estadística, con un límite de cinco envíos por año y por persona.",
+      "status": "vigente",
+      "source_url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344470/20260717",
+      "source_name": "Boletín Oficial – Decreto 604/2026",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Decreto 604/2026: simplificación de exportaciones por correo",
+      "summary": "El mismo decreto libera el canal exportador: las exportaciones postales comerciales dejan de tener límite de valor. Los envíos no comerciales mantienen la exención con tope de US$5.000 por mes y por remitente. Es el marco que Amazon está usando para captar vendedores argentinos vía FBA.",
+      "status": "vigente",
+      "source_url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344470/20260717",
+      "source_name": "Boletín Oficial – Decreto 604/2026",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "RG ARCA 5.884/2026: control aduanero selectivo de paquetes",
+      "summary": "ARCA reglamentó el nuevo régimen courier y facultó a la Aduana a abrir y revisar paquetes de forma selectiva ante criterios de riesgo. Los couriers quedan obligados a poner los envíos a disposición de la inspección y a presentar declaraciones anticipadas. El régimen simplificado sigue con tope de US$3.000 por envío para uso personal.",
+      "status": "vigente",
+      "source_url": "https://www.iprofesional.com/impuestos/461145-aduana-podra-abrir-paquetes-shein-temu-amazon",
+      "source_name": "iProfesional (fuente secundaria: validar el texto en el Boletín Oficial)",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "RG ARCA 5886/2026: Declaración de Exportación Simplificada Postal (DESP)",
+      "summary": "Habilita exportaciones comerciales por correo sin tope de valor, elimina el límite anual de US$600.000 por exportador y suprime la presentación física de documentación. Quien usa el régimen simplificado renuncia a reintegros y beneficios de exportación.",
+      "status": "vigente",
+      "source_url": "https://www.cronista.com/negocios/como-exportar-por-correo-sin-limite-de-monto-y-a-quienes-alcanza-el-nuevo-regimen-de-arca/",
+      "source_name": "El Cronista",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "Datos de CACE del primer semestre 2026 (Mid Term): no publicados",
+      "summary": "Al 19 de agosto de 2026 la biblioteca oficial de estadísticas de CACE solo ofrece el Mid Term 2025 y el Estudio Anual 2025. El dato semestral 2026 más reciente y citable es el informe de Tiendanube (~10% del eCommerce argentino). Cualquier cifra de CACE para el 1er semestre 2026 debe tratarse como no disponible.",
+      "status": "Por confirmar",
+      "source_url": "https://cace.org.ar/pages/estadisticas",
+      "source_name": "CACE – Biblioteca de Estadísticas (verificada el 19/08/2026)",
+      "date": null
+    }
+  ]
+}

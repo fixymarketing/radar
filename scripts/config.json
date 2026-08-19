@@ -1,0 +1,179 @@
+{
+  "company": {
+    "name": "Fixy Logística",
+    "what": "Operador logístico argentino especializado en eCommerce: fulfillment, almacenamiento, última milla y envíos para tiendas online y marketplaces.",
+    "team": "Equipo chico: marketing, comercial, operaciones, atención al cliente y management.",
+    "questions_that_matter": [
+      "¿Esto ayuda a Fixy a aprender algo que no sabía?",
+      "¿Esto le permite anticiparse a un cambio del mercado?",
+      "¿Esto le sirve para vender mejor?",
+      "¿Esto le sirve para operar mejor o bajar costos?",
+      "¿Esto le sirve para comunicar mejor?",
+      "¿Esto revela una oportunidad concreta?"
+    ]
+  },
+  "editorial": {
+    "reject": [
+      "noticias genéricas sin información nueva",
+      "notas escritas para SEO sin dato propio",
+      "clickbait o titulares sin sustancia",
+      "contenido sin fuente identificable",
+      "refritos de noticias ya publicadas antes",
+      "webinars menores y cursos comerciales sin valor estratégico",
+      "eventos sin relación con el ecosistema de eCommerce, logística, retail, pagos o tecnología aplicada",
+      "notas de opinión sin datos"
+    ],
+    "never": [
+      "inventar fechas, lugares, cifras, organizadores o citas",
+      "publicar un ítem sin URL verificable",
+      "afirmar como confirmado algo que no está confirmado"
+    ],
+    "unconfirmed_label": "Por confirmar"
+  },
+  "windows": {
+    "agenda_days": 90,
+    "news_lookback_days": 4,
+    "ai_lookback_days": 14
+  },
+  "limits": {
+    "news_per_run": 8,
+    "events_ar_per_run": 10,
+    "events_intl_per_run": 6,
+    "ai_per_run": 5,
+    "opportunities_total": 8,
+    "content_per_run": 3,
+    "highlights": 5
+  },
+  "search_budget": {
+    "news": 10,
+    "events_ar": 12,
+    "events_intl": 10,
+    "ai": 10,
+    "synthesis": 2
+  },
+  "topics": {
+    "news": [
+      "eCommerce",
+      "Logística",
+      "Última milla",
+      "Fulfillment",
+      "Marketplaces",
+      "Retail",
+      "Consumo",
+      "Pagos",
+      "Fintech",
+      "Tecnología",
+      "Marketing digital",
+      "Regulación",
+      "IA aplicada",
+      "Tendencias"
+    ],
+    "events": [
+      "eCommerce",
+      "Logística",
+      "Retail",
+      "Marketplaces",
+      "Tecnología",
+      "Marketing",
+      "Pagos y Fintech",
+      "Emprendimiento",
+      "SaaS",
+      "Innovación"
+    ],
+    "ai_uses": [
+      "Marketing",
+      "Comercial",
+      "Organización",
+      "Productividad",
+      "Gestión del tiempo",
+      "Contenido",
+      "Análisis",
+      "Operaciones",
+      "Logística",
+      "Automatización",
+      "Management"
+    ]
+  },
+  "ecosystem_hints": {
+    "note": "Referencias para orientar la búsqueda. NO es una lista cerrada: hay que buscar también fuera de esta lista.",
+    "argentina": [
+      "CACE",
+      "Mercado Libre",
+      "Tiendanube",
+      "VTEX",
+      "Dropi",
+      "Andreani",
+      "Correo Argentino",
+      "ARLOG",
+      "CEDOL",
+      "AECAUM",
+      "CAME",
+      "AmCham",
+      "IAB Argentina",
+      "Endeavor",
+      "eCommerce Institute",
+      "Expo Logisti-k",
+      "Cámara Argentina Fintech",
+      "Consejo Federal de Inversiones",
+      "universidades y aceleradoras",
+      "cámaras empresariales provinciales",
+      "clusters logísticos y polos tecnológicos"
+    ],
+    "cities": [
+      "CABA y Gran Buenos Aires",
+      "Mar del Plata",
+      "Córdoba",
+      "Rosario",
+      "Mendoza",
+      "Tucumán",
+      "Salta",
+      "Santa Fe",
+      "Neuquén",
+      "La Plata",
+      "Bahía Blanca",
+      "Corrientes"
+    ],
+    "international": [
+      "EFFIX (Colombia)",
+      "eCommerce Day / eRetail Day (eCommerce Institute)",
+      "VTEX Day (Brasil)",
+      "Fórum E-Commerce Brasil",
+      "Intermodal South America",
+      "Expo Logística Panamá",
+      "Parcel+Post Expo",
+      "Home Delivery World",
+      "Manifest",
+      "NRF Big Show",
+      "Shoptalk",
+      "LogiMAT",
+      "Web Summit Rio",
+      "Money20/20"
+    ]
+  },
+  "priority_sources": [
+    "cace.org.ar",
+    "indec.gob.ar",
+    "boletinoficial.gob.ar",
+    "arlog.org",
+    "cedol.org.ar",
+    "webpicking.com",
+    "enretail.com",
+    "americaretail.com",
+    "infobae.com",
+    "lanacion.com.ar",
+    "cronista.com",
+    "ambito.com",
+    "iproup.com",
+    "forbesargentina.com",
+    "bloomberglinea.com",
+    "retaildive.com",
+    "moderrnretail.co",
+    "supplychaindive.com",
+    "ecommercebrasil.com.br",
+    "reuters.com",
+    "claude.com",
+    "openai.com",
+    "blog.google",
+    "workspaceupdates.googleblog.com"
+  ]
+}

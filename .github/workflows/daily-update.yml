@@ -1,0 +1,97 @@
+name: Radar diario
+
+# Corre solo, todos los días. No hay que apretar ningún botón.
+# 10:00 UTC = 07:00 en Argentina (UTC-3).
+on:
+  schedule:
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Probar sin escribir archivos'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fixy-radar-daily
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Traer el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Buscar, analizar y actualizar los datos
+        id: radar
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            node scripts/update.mjs --dry-run
+          else
+            node scripts/update.mjs
+          fi
+
+      - name: Chequear integridad de los datos
+        id: check
+        continue-on-error: true
+        run: node scripts/check.mjs
+
+      - name: Publicar los cambios
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name  "fixy-radar-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Ojo: data/internal/ queda deliberadamente fuera del add.
+          # El estado interno de Fixy (Vamos / Evaluar / No vamos) nunca se toca acá.
+          git add data/events.json data/news.json data/ai.json \
+                  data/opportunities.json data/content.json \
+                  data/meta.json data/runs.json data/archive
+
+          if git diff --cached --quiet; then
+            echo "Sin cambios en los datos: no hay nada que publicar."
+            exit 0
+          fi
+
+          FECHA=$(TZ=America/Argentina/Buenos_Aires date +%Y-%m-%d)
+          RESUMEN=$(node scripts/summary.mjs --line)
+          git commit -m "Radar ${FECHA}: ${RESUMEN}"
+
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" \
+              && git push origin "HEAD:${GITHUB_REF_NAME}" \
+              && exit 0
+            echo "Reintentando push (${i}/3)…"
+            sleep 6
+          done
+          echo "No se pudo publicar el commit."
+          exit 1
+
+      - name: Resumen de la corrida
+        run: node scripts/summary.mjs --markdown >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Marcar la corrida como fallida si hubo errores
+        run: |
+          STATUS=$(node scripts/summary.mjs --status)
+          echo "Estado interno de la corrida: ${STATUS}"
+          if [ "${{ steps.radar.outcome }}" != "success" ] \
+            || [ "${{ steps.check.outcome }}" != "success" ] \
+            || [ "${STATUS}" = "error" ]; then
+            echo "::error::La corrida terminó con errores. Revisá el log del paso 'Buscar, analizar y actualizar los datos'."
+            exit 1
+          fi

@@ -1,0 +1,15 @@
+{
+  "name": "fixy-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Radar ejecutivo diario de eCommerce, logistica, retail, tecnologia e IA para Fixy.",
+  "scripts": {
+    "seed": "node scripts/seed.mjs",
+    "update": "node scripts/update.mjs",
+    "dry-run": "node scripts/update.mjs --dry-run",
+    "check": "node scripts/check.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

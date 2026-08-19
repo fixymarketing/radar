@@ -1,0 +1,26 @@
+[
+  {
+    "topic": "Quién paga realmente el envío gratis",
+    "why_now": "El dato es nuevo y contundente: 46,6% de las órdenes en tiendas propias se despacharon con envío gratis en el primer semestre de 2026, unos 5,6 millones de envíos, mientras el precio real por unidad cayó cerca de 17% y las unidades por carrito subieron de 4,3 a 4,6. Nadie está explicando esa matemática desde el lado del comercio.",
+    "fixy_angle": "Fixy puede mostrar, con números y sin vender, cómo se compone el costo de un envío gratis y qué palancas tiene una tienda para que siga siendo viable: consolidación de bultos, peso volumétrico, puntos de retiro. Posiciona a Fixy como quien entiende el negocio del cliente, no solo el flete.",
+    "formats": ["LinkedIn", "carrusel"],
+    "priority": "alta",
+    "source_url": "https://www.infobae.com/economia/2026/07/29/mas-productos-vendidos-menos-facturacion-el-comercio-electronico-crece-en-volumen-pero-ajusta-por-precio/"
+  },
+  {
+    "topic": "Cómo exportar por correo ahora que no hay tope de monto",
+    "why_now": "El Decreto 604/2026 y la reglamentación de ARCA de comienzos de agosto abrieron la exportación comercial postal sin límite de valor. La cobertura periodística fue mayormente institucional: falta la explicación operativa de qué tiene que hacer una tienda online para usarlo.",
+    "fixy_angle": "Una guía práctica en clave logística: qué es la DESP, qué documentación se necesita, qué se pierde al usar el régimen simplificado (reintegros) y qué productos tienen sentido. Es contenido útil, indexable y llega antes de que el tema se sature.",
+    "formats": ["nota", "artículo", "LinkedIn"],
+    "priority": "alta",
+    "source_url": "https://www.cronista.com/negocios/como-exportar-por-correo-sin-limite-de-monto-y-a-quienes-alcanza-el-nuevo-regimen-de-arca/"
+  },
+  {
+    "topic": "El interior dejó de esperar: la logística argentina se federaliza",
+    "why_now": "Mercado Libre anunció su primer centro de almacenamiento fuera del AMBA (Córdoba, US$91 millones) y entregas por avión a la Patagonia, justo cuando los datos de CACE muestran que 48% de la facturación del eCommerce ocurre fuera del AMBA. La Cumbre Federal de Logística del CFI es el 16 de octubre: el tema va a estar en agenda.",
+    "fixy_angle": "Una lectura de Fixy sobre qué significa federalizar de verdad la logística: no es abrir un depósito, es densidad de reparto, plazos sostenibles y costo por entrega en plazas chicas. Buen contenido para voz institucional o del fundador, con anclaje en la agenda pública.",
+    "formats": ["LinkedIn", "prensa", "video"],
+    "priority": "relevante",
+    "source_url": "https://www.datadiario.com/cordoba/politica-y-economia-cba/mercado-libre-invertira-us-91-millones-en-cordoba-y-creara-2-000-puestos-de-trabajo-202681110270"
+  }
+]

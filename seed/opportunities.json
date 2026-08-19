@@ -1,0 +1,65 @@
+[
+  {
+    "title": "33.000 empresas importadoras nuevas necesitan almacenar y distribuir en Argentina",
+    "context": "Las importaciones de bienes de consumo llegaron a un récord de US$5.362 millones en el primer semestre y la cantidad de empresas importadoras se duplicó: +33.108 firmas desde 2023. Indumentaria creció 86% y electrodomésticos 109%. Muchas de esas empresas son nuevas en el comercio de bienes y no tienen estructura logística propia.",
+    "action": "Construir una lista de prospectos de importadores recientes por rubro (indumentaria, hogar, electro) y salir con una propuesta específica de recepción de contenedor, almacenamiento, picking y distribución nacional, no con la tarifa genérica de última milla.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.ambito.com/economia/record-importaciones-bienes-consumo-que-productos-registraron-subas-530-n6311906",
+    "linked": ["Récord de importaciones de bienes de consumo"]
+  },
+  {
+    "title": "La exportación postal comercial quedó libre de tope: hay espacio para un producto \"Fixy Export\"",
+    "context": "El Decreto 604/2026 y las RG ARCA 5886/2026 y 5884/2026 habilitaron la exportación comercial por correo sin límite de monto, con declaración simplificada (DESP) y sin documentación física. Es la primera vez en 45 años que el canal queda operativo, y Amazon ya está captando vendedores argentinos con Fulfillment by Amazon.",
+    "action": "Armar un piloto de exportación puerta a puerta con 3 clientes de indumentaria, marroquinería o diseño: recolección, preparación documental DESP y despacho. Es un servicio que hoy casi ningún operador local ofrece empaquetado y permite cobrar por asesoría, no solo por flete.",
+    "type": "nueva línea de negocio",
+    "priority": "alta",
+    "source_url": "https://www.cronista.com/negocios/como-exportar-por-correo-sin-limite-de-monto-y-a-quienes-alcanza-el-nuevo-regimen-de-arca/",
+    "linked": ["ARCA reglamentó la exportación comercial por vía postal"]
+  },
+  {
+    "title": "El interior entra en juego: hay una ventana de 12 a 18 meses antes de que Mercado Libre opere en Córdoba",
+    "context": "Mercado Libre confirmó un centro de almacenamiento de US$91 millones en Estación Juárez Celman (Córdoba) con operación prevista para fines de 2027, su primer depósito fuera del AMBA. Hoy tiene 40 centros de última milla en Argentina contra más de 150 en Brasil, y casi la mitad de la facturación del eCommerce (48%) ocurre fuera del AMBA.",
+    "action": "Evaluar ahora capacidad de cross-docking o almacenamiento propio en Córdoba y Rosario, y comunicarlo como cobertura federal antes de que el estándar de 24-48 h en el interior se vuelva exigible. Es una decisión de inversión con fecha límite conocida.",
+    "type": "estratégica",
+    "priority": "alta",
+    "source_url": "https://www.datadiario.com/cordoba/politica-y-economia-cba/mercado-libre-invertira-us-91-millones-en-cordoba-y-creara-2-000-puestos-de-trabajo-202681110270",
+    "linked": ["Mercado Libre construirá en Córdoba su primer centro de almacenamiento"]
+  },
+  {
+    "title": "Tres semanas con casi todos los decisores de eCommerce del país en un mismo lugar",
+    "context": "eCommerce Day Argentina el 27 de agosto en el CEC (edición 200 del tour, agenda con logística inteligente y fulfillment) y Mercado Libre Experience el 10 de septiembre en La Rural (8.000+ asistentes, mayoría sellers PyME). Son las dos concentraciones más densas de clientes potenciales del año, separadas por dos semanas.",
+    "action": "Tratarlo como un sprint comercial único, no como dos eventos: definir hoy quién va, con qué material y con qué oferta puntual para sellers (por ejemplo, capacidad reservada para CyberMonday). Agendar reuniones antes, no improvisar en el pasillo.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://ecommerceday.org.ar/2026/",
+    "linked": ["eCommerce Day Argentina 2026", "Mercado Libre Experience 2026"]
+  },
+  {
+    "title": "Vender capacidad reservada para el CyberMonday en lugar de tarifa spot",
+    "context": "El CyberMonday es del 2 al 4 de noviembre y en el Hot Sale 2026 la mitad de las empresas participantes vendió en tres días el equivalente a tres semanas de abril, con pico de transacciones entre las 22 y 23 h. En paralelo, las ventas del Día del Niño cayeron 2,5%: los picos son intensos pero la base es más floja de lo proyectado.",
+    "action": "Lanzar en septiembre una oferta de capacidad reservada para el CyberMonday con SLA y ventana de corte nocturna definida. Se vende antes del pico, ordena la planificación de capacidad de Fixy y evita competir por precio en la semana caliente.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://cace.org.ar/blogs/news/hot-sale-2026-la-mitad-de-las-empresas-participantes-vendieron-lo-mismo-que-en-tres-semanas-o-mas",
+    "linked": ["CyberMonday 2026"]
+  },
+  {
+    "title": "La logística inversa se volvió argumento de conversión, no un costo",
+    "context": "Un estudio de RTB House muestra que 42% de los millennials dejaría que un agente de IA compre por ellos hasta US$250 solo si hay 7 días de devolución garantizada; sin esa protección la disposición cae a un tercio. En paralelo, el abandono de carrito en Argentina está en 80%.",
+    "action": "Empaquetar un producto de devoluciones con SLA explícito y trazabilidad, y venderlo a las tiendas como herramienta de conversión (no como servicio postventa). Es un diferencial comunicable y todavía poco explotado en el mercado local.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://www.retaildive.com/news/retail-shoppers-warm-up-agentic-ai-purchases/827563/",
+    "linked": ["Los consumidores empiezan a delegar compras a agentes de IA"]
+  },
+  {
+    "title": "TecWeek Buenos Aires tiene convocatoria abierta: Fixy puede organizar su propio evento a costo casi cero",
+    "context": "TecWeek Buenos Aires (fechas informadas: 21 al 31 de octubre, por confirmar en el sitio oficial) es una semana distribuida con múltiples sedes y convocatoria abierta a propuestas. Rosario TechWeek (19 al 23 de octubre) tiene un formato descentralizado equivalente.",
+    "action": "Postular un side event propio sobre logística para eCommerce, con un caso de cliente y datos de mercado. Genera posicionamiento como referente, lista de asistentes calificados y contenido reutilizable, con inversión mucho menor que un stand.",
+    "type": "marketing",
+    "priority": "relevante",
+    "source_url": "https://www.tecweek.com.ar",
+    "linked": ["TecWeek Buenos Aires 2026", "Rosario TechWeek 2026"]
+  }
+]

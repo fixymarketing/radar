@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-08-19T15:00:00.000Z",
+  "last_updated_ar": "19/08/2026, 12:00",
+  "date": "2026-08-19",
+  "run_status": "ok",
+  "run_errors": [],
+  "summary_line": "Se abrió la exportación postal sin tope, Mercado Libre invierte en Córdoba y el costo de última milla sigue corriendo por encima de la inflación: hay agenda comercial y agenda de costos en la misma semana.",
+  "counters": {
+    "news_today": 16,
+    "news_total": 16,
+    "events_upcoming": 27,
+    "events_ar_upcoming": 16,
+    "events_intl_upcoming": 11,
+    "events_later": 11,
+    "opportunities_open": 7,
+    "opportunities_today": 7,
+    "ai_today": 13,
+    "ai_to_try": 9,
+    "content_ideas": 3,
+    "seeded": true
+  },
+  "next_event": {
+    "id": "ev-assets-digital-latam-2026",
+    "name": "Latam Digital Assets Conf 2026",
+    "date_start": "2026-08-20",
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "days_away": 1
+  },
+  "highlights": [
+    {
+      "id": "ev-argentina-day-ecommerce-2026",
+      "kind": "event",
+      "title": "eCommerce Day Argentina 2026",
+      "priority": "alta",
+      "one_liner": "Es el 27 de agosto: la mayor concentración de decisores de eCommerce del país en un solo día."
+    },
+    {
+      "id": "nw-54024ee877",
+      "kind": "news",
+      "title": "ARCA reglamentó la exportación comercial por vía postal sin límite de monto",
+      "priority": "alta",
+      "one_liner": "Habilita una línea de negocio nueva: exportación puerta a puerta para tiendas online argentinas."
+    },
+    {
+      "id": "nw-06abe56b48",
+      "kind": "news",
+      "title": "Mercado Libre construirá en Córdoba su primer centro de almacenamiento fuera del AMBA: US$91 millones",
+      "priority": "alta",
+      "one_liner": "Marca el reloj: hay 12 a 18 meses para posicionarse en el interior antes de que opere."
+    },
+    {
+      "id": "nw-64d29af6f8",
+      "kind": "news",
+      "title": "Los costos logísticos subieron 2,25% en julio, con peajes +18,3%",
+      "priority": "alta",
+      "one_liner": "La última milla acumula 26,5% en el año, por encima del índice general: argumento duro para renegociar tarifas."
+    },
+    {
+      "id": "ai-anthropic-claude-cowork-en-el-panel-lateral-de-chrome",
+      "kind": "ai",
+      "title": "Claude Cowork en el panel lateral de Chrome",
+      "priority": "alta",
+      "one_liner": "Permite automatizar los portales de couriers que no tienen API, sin desarrollo."
+    }
+  ]
+}
