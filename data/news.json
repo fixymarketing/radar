@@ -138,13 +138,13 @@
     "first_seen": "2026-08-19"
   },
   {
-    "title": "El 37% de los envíos de eCommerce en Argentina se entrega en 24 horas y el AMBA concentra más de la mitad del volumen",
-    "what_happened": "Un informe publicado el 16 de agosto sobre la logística del Día del Niño detalla que el eCommerce argentino facturó $35,3 billones en 2025 (+60% i.a.) con 645 millones de productos vendidos, que 37% de los envíos llegan en 24 horas y que el AMBA maneja más de la mitad de la logística nacional.",
-    "why_it_matters": "Cuantifica el estándar de servicio vigente y la concentración geográfica del volumen: la competencia real se juega en velocidad dentro del AMBA y en cobertura fuera de él.",
-    "fixy_impact": "Referencia directa de SLA para propuestas comerciales: si Fixy no entrega en 24 h en AMBA está por debajo del promedio del mercado. También valida el refuerzo previo a feriados como práctica estándar.",
+    "title": "La logística de la semana del Día del Niño: 37% de los envíos en 24 horas y la industria del juguete profundiza su crisis",
+    "what_happened": "Un informe publicado el 16 de agosto sobre la logística del Día del Niño detalla que el eCommerce argentino facturó $35,3 billones en 2025 (+60% i.a.) con 645 millones de productos vendidos, que 37% de los envíos llegan en 24 horas y que el AMBA maneja más de la mitad de la logística nacional. La misma cobertura señala que la Cámara Argentina de la Industria del Juguete reportó una caída de ventas cercana al 10% en el primer semestre, fábricas operando al 30% de su capacidad instalada y cinco plantas en proceso de cierre, con el Día del Niño (60% de la facturación anual del rubro) cayendo por cuarto año consecutivo.",
+    "why_it_matters": "Cuantifica el estándar de servicio vigente y la concentración geográfica del volumen, y muestra que ni la fecha comercial más fuerte del año alcanza para revertir la caída estructural de una categoría clave: la competencia se juega en velocidad dentro del AMBA, en cobertura fuera de él y en flexibilidad para rubros con picos muy agudos sobre una base en baja.",
+    "fixy_impact": "Referencia directa de SLA para propuestas comerciales (si Fixy no entrega en 24 h en AMBA está por debajo del promedio del mercado) y, a la vez, evidencia que categorías como juguetería necesitan fulfillment variabilizado en lugar de capacidad fija todo el año, dado el riesgo de sobredimensionar recursos para un pico que se debilita.",
     "category": "Última milla",
     "geo": "Argentina",
-    "source_name": "Infobae (Movant Connection)",
+    "source_name": "Infobae (Movant Connection / Cámara Argentina de la Industria del Juguete)",
     "source_url": "https://www.infobae.com/movant/2026/08/16/la-logistica-de-juguetes-y-la-ultima-milla-en-la-semana-clave-del-ano/",
     "published_date": "2026-08-16",
     "priority": "alta",
@@ -153,12 +153,14 @@
       "SLA",
       "24 horas",
       "AMBA",
-      "picos estacionales"
+      "picos estacionales",
+      "juguetes"
     ],
     "id": "nw-1d8ac2bb0d",
     "source_kind": "auto",
     "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "first_seen": "2026-08-19",
+    "updated_flag": true
   },
   {
     "title": "Récord de importaciones de bienes de consumo: US$5.362 millones en el primer semestre, con indumentaria +86%",

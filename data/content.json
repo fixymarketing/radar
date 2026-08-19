@@ -45,5 +45,35 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "topic": "Cuando el pico de siempre ya no alcanza: la logística de un rubro en caída estructural",
+    "why_now": "La industria del juguete reportó fábricas al 30% de capacidad y una caída del 10% en ventas del semestre, mientras el Día del Niño (60% de su facturación anual) cayó por cuarto año consecutivo. Es un caso con datos duros y verificables, publicado esta misma semana.",
+    "fixy_angle": "Fixy puede explicar, con este caso real, por qué dimensionar capacidad logística para un pico único y decreciente es distinto a operar todo el año, y qué modelo de costo variable evita el sobredimensionamiento cuando el pico se debilita.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/movant/2026/08/16/la-logistica-de-juguetes-y-la-ultima-milla-en-la-semana-clave-del-ano/",
+    "id": "ct-d26dbf37",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "topic": "Lo que un balance trimestral de VTEX dice del humor real del retail argentino",
+    "why_now": "VTEX bajó su guía de GMV para el segundo semestre y mencionó explícitamente ciclos de decisión más largos y demanda más débil en Argentina en su call de resultados del 14 de agosto: es una lectura de mercado independiente y verificable, poco explotada fuera de medios financieros.",
+    "fixy_angle": "Fixy puede traducir ese dato financiero a lenguaje operativo para sus clientes: qué implica que los retailers estiren decisiones de inversión tecnológica para la planificación de stock, promociones y capacidad logística del cierre de año.",
+    "formats": [
+      "LinkedIn",
+      "artículo"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.fool.com/earnings/call-transcripts/2026/08/14/vtex-vtex-q2-2026-earnings-call-transcript/",
+    "id": "ct-e839b3a5",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
   }
 ]

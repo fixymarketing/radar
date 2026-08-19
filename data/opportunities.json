@@ -1,5 +1,36 @@
 [
   {
+    "title": "El sector juguetero necesita logística flexible, no capacidad fija todo el año",
+    "context": "La Cámara Argentina de la Industria del Juguete reportó fábricas operando al 30% de su capacidad instalada y una caída de ventas cercana al 10% en el primer semestre, mientras el Día del Niño sigue concentrando el 60% de la facturación anual del rubro pese a caer por cuarto año consecutivo. Es un negocio de pico muy agudo sobre una base en baja estructural.",
+    "action": "Acercarse a jugueterías y distribuidores del rubro con una propuesta de fulfillment variabilizado, sin costo fijo de depósito propio, pensada para un pico concentrado en pocas semanas del año, en lugar de ofrecer la tarifa genérica de última milla.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/movant/2026/08/16/la-logistica-de-juguetes-y-la-ultima-milla-en-la-semana-clave-del-ano/",
+    "linked": [
+      "La logística de la semana del Día del Niño: 37% de los envíos en 24 horas y la industria del juguete profundiza su crisis"
+    ],
+    "id": "op-84e2299f",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Una semana en San Pablo cubre automatización de depósitos y retail regional en un solo viaje",
+    "context": "INTRA-LOG Expo South America y Latam Retail Show se realizan la misma semana (15 al 17 de septiembre) en San Pablo: la primera es la feria de referencia de LATAM en automatización de intralogística y fulfillment, la segunda concentra retailers y marketplaces de la región que tercerizan logística.",
+    "action": "Planificar un único viaje que cubra ambos eventos: relevar proveedores de automatización de depósitos en INTRA-LOG y generar reuniones comerciales con retailers y marketplaces en Latam Retail Show, maximizando el retorno de un solo pasaje.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://logweb.com.br/intra-log-expo-2026-automacao-logistica-intralogistica-sao-paulo/",
+    "linked": [
+      "INTRA-LOG Expo South America 2026",
+      "Latam Retail Show 2026"
+    ],
+    "id": "op-a6462f44",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
     "title": "33.000 empresas importadoras nuevas necesitan almacenar y distribuir en Argentina",
     "context": "Las importaciones de bienes de consumo llegaron a un récord de US$5.362 millones en el primer semestre y la cantidad de empresas importadoras se duplicó: +33.108 firmas desde 2023. Indumentaria creció 86% y electrodomésticos 109%. Muchas de esas empresas son nuevas en el comercio de bienes y no tienen estructura logística propia.",
     "action": "Construir una lista de prospectos de importadores recientes por rubro (indumentaria, hogar, electro) y salir con una propuesta específica de recepción de contenedor, almacenamiento, picking y distribución nacional, no con la tarifa genérica de última milla.",
@@ -86,22 +117,6 @@
       "Los consumidores empiezan a delegar compras a agentes de IA"
     ],
     "id": "op-a626f189",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "title": "TecWeek Buenos Aires tiene convocatoria abierta: Fixy puede organizar su propio evento a costo casi cero",
-    "context": "TecWeek Buenos Aires (fechas informadas: 21 al 31 de octubre, por confirmar en el sitio oficial) es una semana distribuida con múltiples sedes y convocatoria abierta a propuestas. Rosario TechWeek (19 al 23 de octubre) tiene un formato descentralizado equivalente.",
-    "action": "Postular un side event propio sobre logística para eCommerce, con un caso de cliente y datos de mercado. Genera posicionamiento como referente, lista de asistentes calificados y contenido reutilizable, con inversión mucho menor que un stand.",
-    "type": "marketing",
-    "priority": "relevante",
-    "source_url": "https://www.tecweek.com.ar",
-    "linked": [
-      "TecWeek Buenos Aires 2026",
-      "Rosario TechWeek 2026"
-    ],
-    "id": "op-859657ed",
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"

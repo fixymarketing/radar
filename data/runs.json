@@ -1,6 +1,32 @@
 [
   {
     "date": "2026-08-19",
+    "at": "2026-08-19T23:26:18.729Z",
+    "status": "ok",
+    "added": {
+      "news": 0,
+      "events": 7,
+      "ai": 2,
+      "opportunities": 2,
+      "content": 2
+    },
+    "updated": {
+      "news": 1,
+      "events": 0,
+      "ai": 0
+    },
+    "archived": {
+      "events": 0,
+      "news": 0,
+      "ai": 0,
+      "opportunities": 1,
+      "content": 0
+    },
+    "discarded": 0,
+    "errors": []
+  },
+  {
+    "date": "2026-08-19",
     "at": "2026-08-19T01:18:48.273Z",
     "status": "ok",
     "note": "Carga inicial curada a mano con búsqueda web verificada.",

@@ -1,30 +1,36 @@
 {
-  "generated_at": "2026-08-19T15:00:00.000Z",
-  "last_updated_ar": "19/08/2026, 12:00",
+  "generated_at": "2026-08-19T23:26:18.729Z",
+  "last_updated_ar": "19/08/2026, 20:26",
   "date": "2026-08-19",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Se abrió la exportación postal sin tope, Mercado Libre invierte en Córdoba y el costo de última milla sigue corriendo por encima de la inflación: hay agenda comercial y agenda de costos en la misma semana.",
+  "summary_line": "Arranca ExportLog en Rosario, el sector juguetero confirma que ni el Día del Niño alcanza para un consumo en baja, y San Pablo concentra en la misma semana de septiembre automatización de depósitos e intercambio comercial de retail regional.",
   "counters": {
     "news_today": 16,
     "news_total": 16,
-    "events_upcoming": 27,
-    "events_ar_upcoming": 16,
-    "events_intl_upcoming": 11,
-    "events_later": 11,
-    "opportunities_open": 7,
-    "opportunities_today": 7,
-    "ai_today": 13,
-    "ai_to_try": 9,
-    "content_ideas": 3,
-    "seeded": true
+    "events_upcoming": 33,
+    "events_ar_upcoming": 20,
+    "events_intl_upcoming": 13,
+    "events_later": 12,
+    "opportunities_open": 8,
+    "opportunities_today": 8,
+    "ai_today": 15,
+    "ai_to_try": 10,
+    "content_ideas": 5,
+    "added_news": 0,
+    "updated_news": 1,
+    "added_events": 7,
+    "updated_events": 0,
+    "added_ai": 2,
+    "archived": 1,
+    "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-assets-digital-latam-2026",
-    "name": "Latam Digital Assets Conf 2026",
-    "date_start": "2026-08-20",
-    "city": "Ciudad Autónoma de Buenos Aires",
-    "days_away": 1
+    "id": "ev-exportlog-2026",
+    "name": "ExportLog 2026",
+    "date_start": "2026-08-19",
+    "city": "Rosario",
+    "days_away": 0
   },
   "highlights": [
     {
@@ -32,35 +38,35 @@
       "kind": "event",
       "title": "eCommerce Day Argentina 2026",
       "priority": "alta",
-      "one_liner": "Es el 27 de agosto: la mayor concentración de decisores de eCommerce del país en un solo día."
+      "one_liner": "Quedan ocho días para el evento con mayor densidad de decisores de eCommerce del país: momento de confirmar agenda de reuniones."
     },
     {
-      "id": "nw-54024ee877",
+      "id": "nw-1d8ac2bb0d",
       "kind": "news",
-      "title": "ARCA reglamentó la exportación comercial por vía postal sin límite de monto",
+      "title": "La logística de la semana del Día del Niño: 37% de los envíos en 24 horas y la industria del juguete profundiza su crisis",
       "priority": "alta",
-      "one_liner": "Habilita una línea de negocio nueva: exportación puerta a puerta para tiendas online argentinas."
+      "one_liner": "Fábricas de juguetes al 30% de capacidad confirman que ni el Día del Niño alcanza, mientras el mismo informe fija el estándar de SLA: 37% de los envíos en 24 horas."
     },
     {
-      "id": "nw-06abe56b48",
-      "kind": "news",
-      "title": "Mercado Libre construirá en Córdoba su primer centro de almacenamiento fuera del AMBA: US$91 millones",
-      "priority": "alta",
-      "one_liner": "Marca el reloj: hay 12 a 18 meses para posicionarse en el interior antes de que opere."
+      "id": "op-a6462f44",
+      "kind": "opportunity",
+      "title": "Una semana en San Pablo cubre automatización de depósitos y retail regional en un solo viaje",
+      "priority": "relevante",
+      "one_liner": "INTRA-LOG Expo y Latam Retail Show caen la misma semana de septiembre en San Pablo: un solo viaje cubre tecnología de depósito y generación de negocios regional."
     },
     {
-      "id": "nw-64d29af6f8",
-      "kind": "news",
-      "title": "Los costos logísticos subieron 2,25% en julio, con peajes +18,3%",
+      "id": "ev-exportlog-2026",
+      "kind": "event",
+      "title": "ExportLog 2026",
       "priority": "alta",
-      "one_liner": "La última milla acumula 26,5% en el año, por encima del índice general: argumento duro para renegociar tarifas."
+      "one_liner": "Arranca hoy en Rosario la primera expo de puertos y logística multimodal del Litoral, con agenda directa para alianzas fuera del AMBA."
     },
     {
-      "id": "ai-anthropic-claude-cowork-en-el-panel-lateral-de-chrome",
+      "id": "ai-google-workspace-importacion-mejorada-de-excel-en-google-she",
       "kind": "ai",
-      "title": "Claude Cowork en el panel lateral de Chrome",
-      "priority": "alta",
-      "one_liner": "Permite automatizar los portales de couriers que no tienen API, sin desarrollo."
+      "title": "Importación mejorada de Excel en Google Sheets (tablas y tablas dinámicas vinculadas)",
+      "priority": "relevante",
+      "one_liner": "Los reportes en Excel de couriers y marketplaces ya se importan a Sheets como tablas dinámicas vivas, sin romperse ni tener que rearmarlas a mano."
     }
   ]
 }
