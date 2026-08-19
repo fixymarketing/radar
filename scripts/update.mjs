@@ -7,13 +7,17 @@
  * No requiere intervención manual. Lo ejecuta .github/workflows/daily-update.yml
  *
  * Modos:
- *   node scripts/update.mjs            actualización normal
+ *   node scripts/update.mjs            actualización normal (busca vía API de Claude)
  *   node scripts/update.mjs --dry-run  no escribe archivos, solo informa
+ *   node scripts/update.mjs --research <dir>
+ *       toma el material ya buscado y curado de <dir>/{news,events-ar,events-intl,ai,synthesis}.json
+ *       en lugar de llamar a la API. Todo el resto del proceso es idéntico.
  */
 
 import { pathToFileURL } from 'node:url';
 
 import { askForJson } from './lib/claude.js';
+import { oppId } from './lib/ids.js';
 import {
   digestAi,
   digestEvents,
@@ -29,6 +33,13 @@ import {
   rotate
 } from './lib/merge.js';
 import {
+  RESEARCH_KEYS,
+  hasResearch,
+  readResearch,
+  researchDir,
+  writeSynthesisPrompt
+} from './lib/research.js';
+import {
   aiPrompt,
   eventsArPrompt,
   eventsIntlPrompt,
@@ -40,6 +51,7 @@ import {
   addDays,
   ensureDirs,
   isoNow,
+  pushToArchive,
   readInternal,
   readJson,
   rebuildArchiveIndex,
@@ -56,6 +68,7 @@ import {
 } from './lib/validate.js';
 
 const DRY = process.argv.includes('--dry-run');
+const RESEARCH = researchDir();
 const today = process.env.FIXY_TODAY || todayAR();
 const errors = [];
 const issues = [];
@@ -83,8 +96,18 @@ async function task(name, fn) {
   }
 }
 
+/**
+ * Trae el material de un bloque: del directorio de investigación si se pasó
+ * --research, o de la API de Claude si no. Un bloque nunca tumba a los otros.
+ */
+function ask(key) {
+  if (!RESEARCH_KEYS.includes(key)) throw new Error(`bloque desconocido: ${key}`);
+  return (opts) => (RESEARCH ? readResearch(RESEARCH, key) : askForJson(opts));
+}
+
 export async function run() {
   console.log(`\nFixy Radar · actualización ${today}${DRY ? ' (dry-run)' : ''}\n`);
+  if (RESEARCH) console.log(`  material de investigación: ${RESEARCH}\n`);
   await ensureDirs();
 
   const cfg = await readJson('scripts/config.json');
@@ -120,7 +143,7 @@ export async function run() {
   // --- Recolección: cada bloque falla de forma aislada ---
   const [newsRaw, eventsArRaw, eventsIntlRaw, aiRaw] = await Promise.all([
     task('Novedades', () =>
-      askForJson({
+      ask('news')({
         system,
         prompt: newsPrompt(cfg, ctx),
         maxSearches: cfg.search_budget.news,
@@ -128,7 +151,7 @@ export async function run() {
       })
     ),
     task('Agenda Argentina', () =>
-      askForJson({
+      ask('events-ar')({
         system,
         prompt: eventsArPrompt(cfg, ctx),
         maxSearches: cfg.search_budget.events_ar,
@@ -136,7 +159,7 @@ export async function run() {
       })
     ),
     task('Radar internacional', () =>
-      askForJson({
+      ask('events-intl')({
         system,
         prompt: eventsIntlPrompt(cfg, ctx),
         maxSearches: cfg.search_budget.events_intl,
@@ -144,7 +167,7 @@ export async function run() {
       })
     ),
     task('AI Radar', () =>
-      askForJson({
+      ask('ai')({
         system,
         prompt: aiPrompt(cfg, ctx),
         maxSearches: cfg.search_budget.ai,
@@ -179,8 +202,22 @@ export async function run() {
     eventsDigest: digestEvents(mergedEvents.items, today),
     aiDigest: digestAi(mergedAi.items, today)
   };
+  // En modo investigación el análisis transversal necesita los digests del día,
+  // que recién existen acá. Si todavía no está escrito, se emite el prompt y se
+  // corta sin escribir nada: los datos publicados quedan intactos.
+  if (RESEARCH && !(await hasResearch(RESEARCH, 'synthesis'))) {
+    const file = await writeSynthesisPrompt(
+      RESEARCH,
+      `${system}\n\n=== TAREA ===\n\n${synthesisPrompt(cfg, synthCtx)}\n`
+    );
+    console.log(`\n  falta synthesis.json: prompt del análisis del día escrito en\n  ${file}`);
+    console.log('  no se escribió ningún archivo de data/. Escribí synthesis.json y volvé a correr.\n');
+    process.exitCode = 2;
+    return;
+  }
+
   const synthesis = await task('Oportunidades y contenido', () =>
-    askForJson({
+    ask('synthesis')({
       system,
       prompt: synthesisPrompt(cfg, synthCtx),
       maxSearches: cfg.search_budget.synthesis,
@@ -213,7 +250,9 @@ export async function run() {
     }
   }
 
-  const mergedOpps = mergeOpportunities(opportunities, incomingOpps.slice(0, 3), today);
+  // Máximo 3 oportunidades nuevas por día (el resto del criterio está en config.json).
+  const oppsDelDia = incomingOpps.slice(0, 3);
+  const mergedOpps = mergeOpportunities(opportunities, oppsDelDia, today);
   const mergedContent = mergeContent(content, incomingContent, today);
 
   // --- Rotación al histórico ---
@@ -228,9 +267,35 @@ export async function run() {
     today
   );
 
-  const trimmedOpps = rotated.opportunities
-    .sort((a, b) => (b.first_seen || '').localeCompare(a.first_seen || ''))
-    .slice(0, cfg.limits.opportunities_total);
+  // El tablero muestra un máximo de oportunidades abiertas a la vez. Las que
+  // sobran NO se pierden: pasan al histórico igual que el resto.
+  //
+  // Lo detectado HOY nunca se cae por el límite: si no entrara, la corrida del
+  // día se archivaría a sí misma sin que nadie la haya visto. El límite lo
+  // absorben las más viejas, y a igual fecha de detección desempata la prioridad.
+  const PESO_PRIORIDAD = { alta: 3, relevante: 2, informativo: 1 };
+  const porPrioridad = (a, b) => (PESO_PRIORIDAD[b.priority] || 0) - (PESO_PRIORIDAD[a.priority] || 0);
+  const idsDelDia = new Set(oppsDelDia.map((o) => oppId(o)));
+  const deHoy = rotated.opportunities.filter((o) => idsDelDia.has(o.id)).sort(porPrioridad);
+  const anteriores = rotated.opportunities
+    .filter((o) => !idsDelDia.has(o.id))
+    .sort((a, b) => {
+      const porFecha = (b.first_seen || '').localeCompare(a.first_seen || '');
+      return porFecha !== 0 ? porFecha : porPrioridad(a, b);
+    });
+  const oppsOrdenadas = [...deHoy, ...anteriores];
+  const trimmedOpps = oppsOrdenadas.slice(0, cfg.limits.opportunities_total);
+  const excedentes = oppsOrdenadas.slice(cfg.limits.opportunities_total);
+  if (excedentes.length) {
+    const archivadas = await pushToArchive(
+      `opportunities-${today.slice(0, 7)}.json`,
+      excedentes
+    );
+    rotated.moved.opportunities += archivadas;
+    console.log(
+      `  · ${archivadas} oportunidad(es) por encima del límite de ${cfg.limits.opportunities_total} pasaron al histórico`
+    );
+  }
 
   const meta = buildMeta({
     events: rotated.events,

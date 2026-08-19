@@ -22,16 +22,28 @@ const FILES = [
   'data/runs.json', 'data/internal/event-status.json'
 ];
 
+// data/archive/ es un directorio y la prueba puede escribir ahí (rotación al
+// histórico y oportunidades por encima del límite), así que se respalda entero.
+const ARCHIVE_REL = 'data/archive';
+const ARCHIVE_BACKUP = path.join(BACKUP, '__archive');
+
 async function backup() {
   await fs.mkdir(BACKUP, { recursive: true });
   for (const f of FILES) {
     try { await fs.copyFile(path.join(ROOT, f), path.join(BACKUP, f.replace(/\//g, '__'))); } catch {}
   }
+  try {
+    await fs.cp(path.join(ROOT, ARCHIVE_REL), ARCHIVE_BACKUP, { recursive: true });
+  } catch {}
 }
 async function restore() {
   for (const f of FILES) {
     try { await fs.copyFile(path.join(BACKUP, f.replace(/\//g, '__')), path.join(ROOT, f)); } catch {}
   }
+  try {
+    await fs.rm(path.join(ROOT, ARCHIVE_REL), { recursive: true, force: true });
+    await fs.cp(ARCHIVE_BACKUP, path.join(ROOT, ARCHIVE_REL), { recursive: true });
+  } catch {}
   await fs.rm(BACKUP, { recursive: true, force: true });
 }
 
