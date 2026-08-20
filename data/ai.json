@@ -116,6 +116,27 @@
     "first_seen": "2026-08-19"
   },
   {
+    "name": "Canva AI 2.0",
+    "vendor": "Canva",
+    "what_it_is": "Rediseño de Canva con IA conversacional integrada en el editor: se puede crear y modificar diseños completos chateando con la IA, que ahora recuerda el estilo de marca del usuario.",
+    "what_changed": "Canva lo presentó el 12/8/2026 en su evento Canva Create como la evolución más grande desde 2013: agrega diseño conversacional, una 'Memory Library' que aprende la identidad visual propia, conectores de IA a Slack/Gmail/Drive y aplicación automática de guías de marca. Las funciones nuevas quedan en planes pagos; gratis se mantiene la versión anterior de Canva IA con uso limitado.",
+    "fixy_use": "El equipo de marketing podría pedirle por chat piezas para fechas clave (Día del Niño, CyberMonday, promos de fulfillment) ya con la identidad de marca de Fixy aplicada, sin arrancar cada diseño de cero. También sirve para generar variantes rápidas de un mismo flyer para distintos clientes o campañas sin depender de un diseñador para cada ajuste.",
+    "verdict": "probar",
+    "verdict_reason": "Uso directo y de bajo riesgo para el equipo de marketing, sin curva de aprendizaje técnica.",
+    "categories": [
+      "Marketing",
+      "Contenido"
+    ],
+    "pricing_note": "pago - funciones de Canva AI 2.0 solo en planes pagos; el plan gratuito conserva la IA anterior con uso limitado",
+    "source_url": "https://www.canva.com/newsroom/news/canva-create-2026-ai/",
+    "published_date": "2026-08-12",
+    "priority": "alta",
+    "id": "ai-canva-canva-ai-2-0",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
+  },
+  {
     "name": "Lumi y Chat Nube: la IA nativa de Tiendanube",
     "vendor": "Tiendanube / Nuvemshop",
     "what_it_is": "Lumi es la IA integrada de Tiendanube para gestionar la tienda (insights, descripciones de producto desde fotos, SEO, cálculo de peso y dimensiones de envío). Chat Nube es el asistente de atención en WhatsApp e Instagram para consultas, seguimiento de pedidos y recupero de carritos.",
@@ -274,6 +295,28 @@
     "first_seen": "2026-08-19"
   },
   {
+    "name": "ChatGPT Work en la app de escritorio unificada",
+    "vendor": "OpenAI",
+    "what_it_is": "Modo agente de ChatGPT que completa tareas de oficina de punta a punta (armar planillas, presentaciones o documentos) navegando la web y trabajando en apps conectadas, dentro de la nueva app de escritorio de ChatGPT.",
+    "what_changed": "El 9/8/2026 OpenAI discontinuó definitivamente su navegador Atlas y unificó esas funciones dentro de la app de escritorio de ChatGPT (gratuita, para Mac y Windows), que ahora combina en un solo lugar el chat normal, el modo agente 'Work' para tareas de oficina y Codex.",
+    "fixy_use": "El equipo comercial o de atención al cliente podría pedirle que arme un cuadro comparativo de tarifas de couriers o un resumen de reclamos recorriendo varias páginas y documentos conectados, en vez de hacerlo manualmente pestaña por pestaña. Conviene arrancar con una tarea acotada y de bajo riesgo antes de delegarle procesos críticos, porque al ser agéntico conviene supervisar sus pasos.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratuito, ya viene incluido en ChatGPT y automatiza tareas de oficina que hoy se hacen a mano.",
+    "categories": [
+      "Productividad",
+      "Automatización",
+      "Análisis"
+    ],
+    "pricing_note": "gratis - incluido en la app de escritorio de ChatGPT para Mac y Windows",
+    "source_url": "https://help.openai.com/en/articles/20001371-evolving-atlas-into-chatgpt-for-browser-based-agentic-work",
+    "published_date": "2026-08-09",
+    "priority": "relevante",
+    "id": "ai-openai-chatgpt-work-en-la-app-de-escritorio-unificada",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
+  },
+  {
     "name": "Workspace Studio: paso \"Add a source to Gemini Notebook\"",
     "vendor": "Google",
     "what_it_is": "Workspace Studio es el creador de automatizaciones recurrentes de Google Workspace, tipo Zapier pero nativo. El paso nuevo agrega automáticamente textos, archivos de Drive, URLs web o de YouTube como fuentes de un Gemini Notebook.",
@@ -367,6 +410,27 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "Researcher reemplaza a Deep Research en Copilot",
+    "vendor": "Microsoft",
+    "what_it_is": "Researcher es la herramienta de Copilot que genera informes de investigación profunda cruzando múltiples fuentes web y documentos, y pasa a ser la sucesora de la función gratuita 'Deep Research'.",
+    "what_changed": "Desde el 18/8/2026 Microsoft retiró Deep Research de la app gratuita de Copilot y la reemplazó por Researcher, que solo está disponible para suscriptores de Microsoft 365 Premium (USD 19,99/mes) o con licencias business/enterprise; los informes ya generados siguen accesibles en el historial de chat.",
+    "fixy_use": "Si alguien en Fixy usaba Copilot gratis para investigar proveedores, tarifas de courier o competencia, esa función deja de estar disponible sin pagar la suscripción Premium. Antes de pagarla conviene evaluar alternativas gratuitas equivalentes (por ejemplo Gemini o Perplexity) para el mismo tipo de investigación.",
+    "verdict": "no_prioritario",
+    "verdict_reason": "La función gratuita que se podía aprovechar desaparece y pagar la alternativa no se justifica para un equipo chico con opciones gratuitas similares disponibles.",
+    "categories": [
+      "Management",
+      "Análisis"
+    ],
+    "pricing_note": "pago - Researcher solo en Microsoft 365 Premium (USD 19,99/mes) o licencias business/enterprise; Deep Research gratuita se discontinúa",
+    "source_url": "https://support.microsoft.com/en-us/microsoft-copilot/deep-research-in-microsoft-copilot",
+    "published_date": "2026-08-18",
+    "priority": "informativo",
+    "id": "ai-microsoft-researcher-reemplaza-a-deep-research-en-copilot",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
   },
   {
     "name": "Copilot unificado (AutoPilot)",

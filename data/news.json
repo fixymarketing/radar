@@ -410,5 +410,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
+  },
+  {
+    "title": "Diputados piden investigar a Mercado Pago, Ualá y otras 90 billeteras por tasas de crédito y algoritmos discriminatorios",
+    "what_happened": "Un grupo de diputados peronistas presentó ante la Autoridad Nacional de la Competencia (ANC) un pedido formal para investigar a 91 billeteras virtuales y más de 680 proveedores no financieros por presuntas prácticas anticompetitivas en tasas y condiciones de crédito. La presentación nombra a Mercado Pago, Ualá, Naranja X, Personal Pay, Prex, Cocos, Claro Pay y AstroPay, y menciona tasas efectivas anuales de hasta 700% en algunos casos. También solicita auditar los algoritmos de scoring para determinar si discriminan precios usando datos transaccionales no financieros.",
+    "why_it_matters": "Pone bajo la lupa regulatoria al negocio de crédito y comisiones de las billeteras que procesan buena parte de los cobros del e-commerce argentino, lo que podría derivar en cambios de tasas o condiciones para comercios y consumidores en los próximos meses.",
+    "fixy_impact": null,
+    "category": "Pagos",
+    "geo": "Argentina",
+    "source_name": "iProUP",
+    "source_url": "https://www.iproup.com/finanzas/70806-diputados-pedido-investigacion-billeteras-mercado-pago-uala-competencia-desleal-tasas-mora-agosto-2026",
+    "published_date": "2026-08-18",
+    "priority": "relevante",
+    "tags": [
+      "billeteras virtuales",
+      "Mercado Pago",
+      "regulación",
+      "pagos",
+      "crédito"
+    ],
+    "id": "nw-21f11273fd",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
   }
 ]

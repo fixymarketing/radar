@@ -120,5 +120,51 @@
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
+  },
+  {
+    "topic": "Qué pasa con el cobro contra entrega si cambian las reglas a las billeteras",
+    "why_now": "El pedido de investigación de Diputados a Mercado Pago, Ualá y otras 90 billeteras por tasas y algoritmos todavía no tiene cobertura que conecte ese debate con el día a día del cobro en el e-commerce.",
+    "fixy_angle": "Fixy opera la última milla donde se concreta buena parte de esos cobros: puede explicar en términos simples qué pasaría con el vendedor y el comprador si cambian las condiciones de esas billeteras.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.iproup.com/finanzas/70806-diputados-pedido-investigacion-billeteras-mercado-pago-uala-competencia-desleal-tasas-mora-agosto-2026",
+    "id": "ct-c4c3780b",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "topic": "El ruteo dinámico con IA ya es la apuesta de mayor retorno en última milla a escala postal: ¿qué aplica a un operador mediano argentino?",
+    "why_now": "El caso del correo de EE.UU. es reciente y todavía no fue traducido a la escala y realidad de un operador local como Fixy.",
+    "fixy_angle": "Fixy puede mostrar liderazgo técnico explicando qué de esa tecnología es viable hoy para una flota mixta argentina y qué es todavía prematuro, sin prometer algo que no tiene.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.supplychaindive.com/news/where-usps-could-benefit-the-most-from-ai/827694/",
+    "id": "ct-f7b9ce51",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "topic": "Exportlog y el nuevo mapa ferial del Litoral: qué significa para la logística de exportación desde el interior",
+    "why_now": "La nota de Global Ports es reciente y todavía no hay una lectura propia desde la logística sobre qué implica que Rosario tenga su propia expo de puertos y comercio exterior.",
+    "fixy_angle": "Fixy puede posicionarse como conocedor temprano del corredor Rosario-Santa Fe antes de que se vuelva un tema masivo, aportando la mirada de quien mueve la mercadería y no solo la del puerto.",
+    "formats": [
+      "nota",
+      "LinkedIn",
+      "prensa"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.globalports.com.ar/exportlog-2026-reordena-mapa-logistico/",
+    "id": "ct-030f6d02",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
   }
 ]
