@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-20T02:08:18.671Z",
-  "last_updated_ar": "19/08/2026, 23:08",
+  "generated_at": "2026-08-20T10:31:11.918Z",
+  "last_updated_ar": "20/08/2026, 07:31",
   "date": "2026-08-20",
-  "run_status": "ok",
-  "run_errors": [],
+  "run_status": "error",
+  "run_errors": [
+    {
+      "task": "Novedades",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "Agenda Argentina",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "Radar internacional",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "AI Radar",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "Oportunidades y contenido",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    }
+  ],
   "summary_line": "El día confirma que la última milla argentina se juega en dos frentes a la vez: la coordinación tecnológica de flotas variables para sostener picos, y la descentralización del stock fuera del AMBA que Mercado Libre acaba de acelerar en Córdoba.",
   "counters": {
     "news_today": 2,
@@ -17,12 +38,12 @@
     "ai_today": 5,
     "ai_to_try": 11,
     "content_ideas": 8,
-    "added_news": 2,
-    "updated_news": 1,
-    "added_events": 1,
-    "updated_events": 15,
-    "added_ai": 5,
-    "archived": 3,
+    "added_news": 0,
+    "updated_news": 0,
+    "added_events": 0,
+    "updated_events": 0,
+    "added_ai": 0,
+    "archived": 0,
     "discarded_quality": 0
   },
   "next_event": {
@@ -68,5 +89,6 @@
       "priority": "relevante",
       "one_liner": "Es el evento de comercio electrónico más grande y transversal del país, en una semana, ideal para prospección comercial y benchmarking de fulfillment y última milla."
     }
-  ]
+  ],
+  "summary_from_previous_day": true
 }
