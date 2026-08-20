@@ -8,3 +8,7 @@ node_modules/
 # Se puede borrar la carpeta a mano sin ningún riesgo.
 _git-basura/
 .test-backup/
+
+# Material de investigación temporario del modo --research (scripts/lib/research.js).
+# Nunca se commitea: es insumo de la corrida, no dato publicado.
+.radar-research/
