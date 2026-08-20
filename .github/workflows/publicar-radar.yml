@@ -1,0 +1,73 @@
+name: Publicar radar en main
+on:
+  push:
+    branches:
+      - 'claude/**'
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: publicar-radar
+  cancel-in-progress: false
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Asegurar refs
+        run: git fetch --no-tags origin main "${GITHUB_REF_NAME}"
+
+      - name: Validar que la corrida solo toca datos del radar
+        id: guard
+        run: |
+          set -euo pipefail
+          if git merge-base --is-ancestor "${GITHUB_SHA}" origin/main; then
+            echo "Ya esta en main. Nada que publicar."
+            echo "publicar=no" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if ! git merge-base --is-ancestor origin/main "${GITHUB_SHA}"; then
+            echo "::error::La rama no desciende de main. Revisar a mano."; exit 1
+          fi
+          CAMBIOS="$(git diff --name-only origin/main.."${GITHUB_SHA}")"
+          echo "${CAMBIOS}"
+          if [ -z "${CAMBIOS}" ]; then echo "publicar=no" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if echo "${CAMBIOS}" | grep -q '^data/internal/'; then
+            echo "::error::Modifica data/internal/. No se publica."; exit 1
+          fi
+          if echo "${CAMBIOS}" | grep -vE '^(data/|\.gitignore$)'; then
+            echo "::error::Toca archivos fuera de data/. Revisar por PR."; exit 1
+          fi
+          echo "publicar=si" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-node@v4
+        if: steps.guard.outputs.publicar == 'si'
+        with:
+          node-version: '20'
+
+      - name: Validaciones del proyecto
+        if: steps.guard.outputs.publicar == 'si'
+        run: |
+          set -euo pipefail
+          git checkout --detach "${GITHUB_SHA}"
+          npm run check
+          npm test
+
+      - name: Fast-forward de main
+        if: steps.guard.outputs.publicar == 'si'
+        run: git push origin "${GITHUB_SHA}:refs/heads/main"
+
+      - name: Pedir reconstruccion de Pages
+        if: steps.guard.outputs.publicar == 'si'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds" || true
+
+      - name: Borrar la rama ya publicada
+        if: steps.guard.outputs.publicar == 'si'
+        continue-on-error: true
+        run: git push origin --delete "${GITHUB_REF_NAME}"
