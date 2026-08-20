@@ -138,27 +138,26 @@
     "first_seen": "2026-08-19"
   },
   {
-    "title": "La logística de la semana del Día del Niño: 37% de los envíos en 24 horas y la industria del juguete profundiza su crisis",
-    "what_happened": "Un informe publicado el 16 de agosto sobre la logística del Día del Niño detalla que el eCommerce argentino facturó $35,3 billones en 2025 (+60% i.a.) con 645 millones de productos vendidos, que 37% de los envíos llegan en 24 horas y que el AMBA maneja más de la mitad de la logística nacional. La misma cobertura señala que la Cámara Argentina de la Industria del Juguete reportó una caída de ventas cercana al 10% en el primer semestre, fábricas operando al 30% de su capacidad instalada y cinco plantas en proceso de cierre, con el Día del Niño (60% de la facturación anual del rubro) cayendo por cuarto año consecutivo.",
-    "why_it_matters": "Cuantifica el estándar de servicio vigente y la concentración geográfica del volumen, y muestra que ni la fecha comercial más fuerte del año alcanza para revertir la caída estructural de una categoría clave: la competencia se juega en velocidad dentro del AMBA, en cobertura fuera de él y en flexibilidad para rubros con picos muy agudos sobre una base en baja.",
-    "fixy_impact": "Referencia directa de SLA para propuestas comerciales (si Fixy no entrega en 24 h en AMBA está por debajo del promedio del mercado) y, a la vez, evidencia que categorías como juguetería necesitan fulfillment variabilizado en lugar de capacidad fija todo el año, dado el riesgo de sobredimensionar recursos para un pico que se debilita.",
+    "title": "Día del Niño y feriado de San Martín pusieron a prueba la última milla",
+    "what_happened": "El domingo 16 de agosto, Día del Niño, coincidió con el feriado nacional del lunes 17 por el Paso a la Inmortalidad del General San Martín, generando un fin de semana largo de tres días que obligó a jugueterías, plataformas de ecommerce y operadores de reparto a anticipar entregas y reforzar turnos antes del corte. Según la Cámara Argentina de la Industria del Juguete, las ventas del sector cayeron cerca de 10% en el primer semestre de 2026 frente a igual período de 2025, pero la fecha sigue concentrando alrededor del 60% de la facturación anual de las jugueterías. El artículo señala además que el stock importado en exceso durante el año previo todavía se está procesando en depósitos y centr",
+    "why_it_matters": "Muestra que la ventana de despacho se acorta cada vez que un feriado se pega a una fecha comercial fuerte, y que sostener los tiempos de entrega —más allá de que el volumen de ventas caiga— es el verdadero termómetro de madurez de la última milla en el ecommerce argentino.",
+    "fixy_impact": "Confirma la necesidad de planificar con anticipación turnos de reparto, picking y stock antes de fines de semana largos que coinciden con fechas pico (Día del Niño, Navidad, Hot Sale), algo directamente aplicable a la operación diaria de Fixy.",
     "category": "Última milla",
     "geo": "Argentina",
-    "source_name": "Infobae (Movant Connection / Cámara Argentina de la Industria del Juguete)",
+    "source_name": "Infobae (Movant)",
     "source_url": "https://www.infobae.com/movant/2026/08/16/la-logistica-de-juguetes-y-la-ultima-milla-en-la-semana-clave-del-ano/",
     "published_date": "2026-08-16",
-    "priority": "alta",
+    "priority": "relevante",
     "tags": [
       "última milla",
-      "SLA",
-      "24 horas",
-      "AMBA",
-      "picos estacionales",
-      "juguetes"
+      "Día del Niño",
+      "fulfillment",
+      "peak season",
+      "jugueterías"
     ],
     "id": "nw-1d8ac2bb0d",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
+    "last_updated": "2026-08-20",
     "first_seen": "2026-08-19",
     "updated_flag": true
   },
@@ -365,5 +364,51 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Rosario estrenó Exportlog, su primera expo de puertos y logística del Litoral",
+    "what_happened": "Los días 19 y 20 de agosto se realizó en la Terminal Fluvial de Rosario la primera edición de Exportlog, exposición integral de puertos, logística y transporte fluvio-marítimo del Litoral argentino, con 46 stands confirmados y más de 80 oradores en rondas de negocios y paneles. El evento fue organizado por el Instituto de Desarrollo Regional (IDR) y GlobalPorts, con apoyo del Gobierno de Santa Fe y la Municipalidad de Rosario, en un contexto de récord de exportaciones agroindustriales (40 millones de toneladas embarcadas entre enero y abril de 2026, +11% sobre el registro histórico previo).",
+    "why_it_matters": "Consolida a Rosario y a la hidrovía Paraná-Paraguay como un nuevo polo ferial propio para discutir competitividad logística y de comercio exterior del Centro y el Litoral, un rol que hasta ahora se concentraba casi exclusivamente en Buenos Aires.",
+    "fixy_impact": null,
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "GlobalPorts / Webpicking",
+    "source_url": "https://www.globalports.com.ar/exportlog-2026-reordena-mapa-logistico/",
+    "published_date": "2026-08-19",
+    "priority": "informativo",
+    "tags": [
+      "Exportlog",
+      "Rosario",
+      "puertos",
+      "hidrovía",
+      "comercio exterior"
+    ],
+    "id": "nw-e4f19551d3",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "title": "La 'uberización' avanza en la última milla del ecommerce",
+    "what_happened": "Un análisis publicado por Ámbito describe cómo los operadores logísticos argentinos combinan flota propia, operadores tercerizados y repartidores independientes conectados a plataformas como Uber, Rappi, PedidosYa y Uber Direct para escalar la capacidad de reparto según el volumen de pedidos, en especial en picos de demanda. La nota cita una proyección de IMARC Group según la cual el mercado de última milla en América Latina pasaría de USD 13.700 millones en 2025 a USD 47.500 millones en 2034 (CAGR de 14,38%).",
+    "why_it_matters": "El desafío deja de ser cuántos vehículos tiene una empresa y pasa a ser cómo coordina, con tecnología, una red variable de conductores y flotas mixtas, algo clave para sostener picos de demanda sin inmovilizar capital en flota propia y permanente.",
+    "fixy_impact": "Refuerza la validez de modelos híbridos de reparto (flota propia + terceros + plataformas on-demand) para escalar capacidad en fechas pico sin aumentar costos fijos de flota, algo que Fixy puede usar como argumento comercial frente a clientes que preguntan por su capacidad en picos.",
+    "category": "Última milla",
+    "geo": "LATAM",
+    "source_name": "Ámbito",
+    "source_url": "https://www.ambito.com/negocios/la-logistica-acelera-el-uso-tecnologia-automatizacion-y-modelos-uberizados-sostener-el-boom-del-ecommerce-n6312398",
+    "published_date": "2026-08-20",
+    "priority": "alta",
+    "tags": [
+      "última milla",
+      "uberización",
+      "tendencias",
+      "LATAM",
+      "tecnología"
+    ],
+    "id": "nw-5e8cdd7657",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
   }
 ]

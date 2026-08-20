@@ -1,5 +1,27 @@
 [
   {
+    "name": "n8n MCP nativo (Server y Client)",
+    "vendor": "n8n",
+    "what_it_is": "n8n es la plataforma de automatización de flujos de trabajo (workflows) que conecta sistemas y apps sin programar mucho código.",
+    "what_changed": "La actualización del 18 de agosto de 2026 hace nativo el Protocolo de Contexto de Modelo (MCP): n8n puede actuar como cliente MCP (usar herramientas externas de IA) y como servidor MCP (exponer cualquier flujo de n8n para que Claude, ChatGPT u otros agentes lo llamen directamente), sumando además memoria y nodos de IA de primera clase sin necesidad de sub-workflows separados.",
+    "fixy_use": "Operaciones podría exponer como \"herramienta MCP\" el flujo que consulta el estado de un envío o el stock, para que un agente de IA lo consulte directamente y responda a un cliente o vendedor sin que nadie entre al sistema manualmente. También simplifica armar un asistente interno que dispare automatizaciones (generar una etiqueta, avisar una demora) con lenguaje natural en vez de configurar cada paso a mano.",
+    "verdict": "probar",
+    "verdict_reason": "Encaja directo con la automatización que ya se usa en pymes de logística y baja la fricción para conectar IA con los sistemas internos.",
+    "categories": [
+      "Automatización",
+      "Operaciones",
+      "Productividad"
+    ],
+    "pricing_note": "freemium - self-hosted con límites gratis, planes cloud pagos",
+    "source_url": "https://docs.n8n.io/release-notes/",
+    "published_date": "2026-08-18",
+    "priority": "alta",
+    "id": "ai-n8n-n8n-mcp-nativo-server-y-client",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
+  },
+  {
     "name": "\"Take notes for me\" de Google Meet para reuniones presenciales",
     "vendor": "Google",
     "what_it_is": "Gemini graba una reunión cara a cara desde el celular o la web y genera transcripción, resumen y lista de acciones en un Google Doc que queda en Drive.",
@@ -116,6 +138,49 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "Meta Business Agent (WhatsApp AI)",
+    "vendor": "Meta",
+    "what_it_is": "Es el agente de IA generativa de Meta integrado en WhatsApp, Messenger e Instagram que responde consultas, recomienda productos y agenda turnos de forma automática usando el catálogo y el contenido propio de cada negocio.",
+    "what_changed": "Desde el 1 de agosto de 2026 Meta empezó a cobrar su uso por tokens (USD 2 cada millón, unos 4 a 5 centavos de dólar por conversación), terminando la ventana gratuita de prueba y unificando en una sola tarifa el procesamiento de IA y el envío de mensajes.",
+    "fixy_use": "Fixy podría usarlo para automatizar respuestas de seguimiento de pedidos y estados de envío por WhatsApp a los clientes finales de las tiendas que fulfillea, liberando al equipo de atención al cliente de las consultas repetitivas de \"¿dónde está mi pedido?\". Antes de escalarlo conviene estimar el volumen mensual de conversaciones para calcular el costo real, porque ahora tiene un precio directo por uso.",
+    "verdict": "seguir",
+    "verdict_reason": "Es potente para atención masiva por WhatsApp, pero ahora tiene un costo variable que hay que dimensionar antes de adoptarlo.",
+    "categories": [
+      "Comercial",
+      "Operaciones",
+      "Automatización"
+    ],
+    "pricing_note": "pago - USD 2 por millón de tokens, aprox. 4-5 centavos de dólar por conversación",
+    "source_url": "https://www.techtimes.com/articles/320787/20260716/meta-business-agent-billing-starts-aug-1-free-test-window-ends-days.htm",
+    "published_date": "2026-08-01",
+    "priority": "alta",
+    "id": "ai-meta-meta-business-agent-whatsapp-ai",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "name": "Zendesk Copilot intelligent triage",
+    "vendor": "Zendesk",
+    "what_it_is": "Es una función de Zendesk que clasifica automáticamente los tickets de soporte entrantes por tema, sentimiento, idioma y entidades usando IA, sin que un agente tenga que leerlos primero para priorizarlos.",
+    "what_changed": "Desde agosto de 2026 pasó a estar incluida sin costo adicional en los planes Suite y Support Professional o superiores, cuando antes era un complemento pago aparte.",
+    "fixy_use": "Si Fixy centraliza en una mesa de ayuda tipo Zendesk los reclamos de \"pedido demorado\", \"producto dañado\" o \"falta de stock\", esta función priorizaría automáticamente los casos urgentes o de clientes enojados para que atención al cliente los atienda primero, sin armar reglas manuales de clasificación.",
+    "verdict": "seguir",
+    "verdict_reason": "Solo tiene sentido si Fixy usa o evalúa Zendesk como mesa de ayuda; vale la pena tenerlo en cuenta al elegir herramienta de soporte.",
+    "categories": [
+      "Operaciones",
+      "Automatización"
+    ],
+    "pricing_note": "freemium - incluida sin costo extra en planes Suite/Support Professional en adelante, antes era un add-on pago",
+    "source_url": "https://support.zendesk.com/hc/en-us/articles/11068070409882-What-s-new-in-Zendesk-August-2026",
+    "published_date": "2026-08-14",
+    "priority": "relevante",
+    "id": "ai-zendesk-zendesk-copilot-intelligent-triage",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
   },
   {
     "name": "Google Drive dentro de la Library de ChatGPT",
@@ -302,6 +367,49 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "Copilot unificado (AutoPilot)",
+    "vendor": "Microsoft",
+    "what_it_is": "Es la app unificada de Microsoft que junta el chat de Copilot, GitHub Copilot, Copilot Cowork y los agentes autónomos AutoPilot en una sola experiencia dentro del ecosistema Microsoft 365 (Outlook, Teams, OneDrive, SharePoint).",
+    "what_changed": "A mediados de agosto de 2026 arrancó el lanzamiento de la app unificada (primero en celular y web) y se confirmó un nivel pago de AutoPilot: agentes que trabajan en segundo plano en tareas como preparar reuniones, hacer seguimiento de plazos y organizar archivos, sin que haya que pedírselo paso a paso.",
+    "fixy_use": "Si Fixy usa Outlook, Teams o SharePoint, management podría delegarle a un AutoPilot el armado de la agenda semanal, el resumen de mails pendientes de comercial o el seguimiento de vencimientos con clientes, sin sumar otra herramienta al equipo. Conviene esperar a que se publique el precio final del nivel AutoPilot antes de sumarlo.",
+    "verdict": "seguir",
+    "verdict_reason": "Todavía no está confirmado el precio del nivel AutoPilot y la fusión de apps recién está empezando a desplegarse.",
+    "categories": [
+      "Management",
+      "Organización",
+      "Productividad"
+    ],
+    "pricing_note": "no confirmado - habrá un nivel AutoPilot pago separado, precio aún no publicado",
+    "source_url": "https://www.geekwire.com/2026/microsoft-starts-merging-its-copilot-consumer-and-business-apps-in-advance-of-super-app-rollout/",
+    "published_date": "2026-08-14",
+    "priority": "informativo",
+    "id": "ai-microsoft-copilot-unificado-autopilot",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "name": "Gemini 3.7 Flash",
+    "vendor": "Google",
+    "what_it_is": "Es el modelo más nuevo y económico de Google para tareas de programación y construcción de agentes de IA, disponible en Google AI Studio.",
+    "what_changed": "Se lanzó el 13 de agosto de 2026, apenas tres semanas después del modelo anterior, con mejor precisión en código y un precio introductorio de la mitad respecto al modelo previo (USD 0,75 cada millón de tokens de entrada).",
+    "fixy_use": "Sirve para quien arme las automatizaciones internas de Fixy (scripts que cruzan datos de envíos, integraciones con n8n, prototipos rápidos en AI Studio): permite construir y probar agentes o mini-herramientas a menor costo antes de llevarlas a producción. No es una herramienta de uso directo para marketing o atención al cliente.",
+    "verdict": "no_prioritario",
+    "verdict_reason": "Es relevante solo para quien programa o arma automatizaciones técnicas en Fixy, no para el uso diario del resto del equipo.",
+    "categories": [
+      "Automatización",
+      "Análisis"
+    ],
+    "pricing_note": "pago - uso por API, USD 0,75 por millón de tokens de entrada, precio introductorio hasta fin de año",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "published_date": "2026-08-13",
+    "priority": "informativo",
+    "id": "ai-google-gemini-3-7-flash",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
   },
   {
     "name": "Asientos Premium para ChatGPT Business",

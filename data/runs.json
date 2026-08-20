@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-08-20",
+    "at": "2026-08-20T02:08:18.672Z",
+    "status": "ok",
+    "added": {
+      "news": 2,
+      "events": 1,
+      "ai": 5,
+      "opportunities": 3,
+      "content": 3
+    },
+    "updated": {
+      "news": 1,
+      "events": 15,
+      "ai": 0
+    },
+    "archived": {
+      "events": 0,
+      "news": 0,
+      "ai": 0,
+      "opportunities": 3,
+      "content": 0
+    },
+    "discarded": 0,
+    "errors": []
+  },
+  {
     "date": "2026-08-19",
     "at": "2026-08-19T23:26:18.729Z",
     "status": "ok",

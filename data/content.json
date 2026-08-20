@@ -75,5 +75,50 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "topic": "La ventana de despacho que se encoge: sostener los tiempos de entrega cuando un feriado se pega a una fecha comercial fuerte",
+    "why_now": "El Día del Niño y el feriado de San Martín coincidieron esta semana y mostraron que, aunque las ventas caigan, la exigencia de tiempos de entrega no baja: es el verdadero termómetro de madurez de la última milla.",
+    "fixy_angle": "Fixy puede mostrar con datos propios cómo sostuvo los plazos de entrega en esa semana crítica, usándolo como prueba de confiabilidad operativa frente a clientes y prospectos.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/movant/2026/08/16/la-logistica-de-juguetes-y-la-ultima-milla-en-la-semana-clave-del-ano/",
+    "id": "ct-0364bebe",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "topic": "Cuando el costo logístico sube más rápido que lo que el retail puede cobrar",
+    "why_now": "La inflación de julio fue 2,1% y se espera 1,8% para agosto, mientras los costos logísticos subieron 2,25%: la industria está perdiendo capacidad de trasladar aumentos a tarifa, un dato nuevo sobre la presión de márgenes del sector.",
+    "fixy_angle": "Fixy puede posicionarse con contenido educativo sobre cómo eficientizar la operación logística (consolidación, ruteo, tercerización) cuando ya no se puede subir el precio del envío al cliente final.",
+    "formats": [
+      "LinkedIn",
+      "artículo"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.lanacion.com.ar/economia/inflacion-de-julio-cual-fue-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-este-ano-nid13082026/",
+    "id": "ct-adb70ce8",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "topic": "El comercio agéntico ya se discute afuera: qué necesita la logística argentina para no quedar afuera de esa conversación",
+    "why_now": "Retail Dive reporta que los consumidores empiezan a delegar compras a agentes de IA, pero exigen un paso humano vinculado a la política de devoluciones: la confianza se construye con logística inversa, no con mejor modelo.",
+    "fixy_angle": "Fixy puede explicar por qué la logística inversa y los datos de tracking estructurados son la puerta de entrada para integrarse a estos flujos agénticos, posicionándose como partner técnico antes de que el tema se masifique en Argentina.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.retaildive.com/news/retail-shoppers-warm-up-agentic-ai-purchases/827563/",
+    "id": "ct-9678a606",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
   }
 ]

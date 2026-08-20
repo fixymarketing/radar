@@ -1,34 +1,50 @@
 [
   {
-    "title": "El sector juguetero necesita logística flexible, no capacidad fija todo el año",
-    "context": "La Cámara Argentina de la Industria del Juguete reportó fábricas operando al 30% de su capacidad instalada y una caída de ventas cercana al 10% en el primer semestre, mientras el Día del Niño sigue concentrando el 60% de la facturación anual del rubro pese a caer por cuarto año consecutivo. Es un negocio de pico muy agudo sobre una base en baja estructural.",
-    "action": "Acercarse a jugueterías y distribuidores del rubro con una propuesta de fulfillment variabilizado, sin costo fijo de depósito propio, pensada para un pico concentrado en pocas semanas del año, en lugar de ofrecer la tarifa genérica de última milla.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/movant/2026/08/16/la-logistica-de-juguetes-y-la-ultima-milla-en-la-semana-clave-del-ano/",
+    "title": "Flota variable coordinada por tecnología en lugar de sumar unidades propias",
+    "context": "La última milla del ecommerce argentino avanza hacia modelos 'uberizados': el desafío ya no es cuántos vehículos tiene un operador sino cómo coordina con tecnología una red variable de conductores y flotas mixtas para sostener picos de demanda sin inmovilizar capital en flota propia.",
+    "action": "Evaluar o pilotear una plataforma de gestión de red de fleteros/conductores freelance para absorber picos estacionales (Día del Niño, CyberMonday) sin inversión en unidades propias adicionales.",
+    "type": "estratégica",
+    "priority": "alta",
+    "source_url": "https://www.ambito.com/negocios/la-logistica-acelera-el-uso-tecnologia-automatizacion-y-modelos-uberizados-sostener-el-boom-del-ecommerce-n6312398",
     "linked": [
-      "La logística de la semana del Día del Niño: 37% de los envíos en 24 horas y la industria del juguete profundiza su crisis"
+      "La 'uberización' avanza en la última milla del ecommerce",
+      "Vender capacidad reservada para el CyberMonday en lugar de tarifa spot"
     ],
-    "id": "op-84e2299f",
+    "id": "op-2a31930e",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
   },
   {
-    "title": "Una semana en San Pablo cubre automatización de depósitos y retail regional en un solo viaje",
-    "context": "INTRA-LOG Expo South America y Latam Retail Show se realizan la misma semana (15 al 17 de septiembre) en San Pablo: la primera es la feria de referencia de LATAM en automatización de intralogística y fulfillment, la segunda concentra retailers y marketplaces de la región que tercerizan logística.",
-    "action": "Planificar un único viaje que cubra ambos eventos: relevar proveedores de automatización de depósitos en INTRA-LOG y generar reuniones comerciales con retailers y marketplaces en Latam Retail Show, maximizando el retorno de un solo pasaje.",
+    "title": "Preparar un feed de cotización y tracking legible por agentes de IA",
+    "context": "Retail Dive muestra que los consumidores empiezan a delegar compras a agentes de IA condicionados a una política de devoluciones clara, y en Argentina Mercado Pago, Tiendanube, Visa, Mastercard y Pomelo ya avanzan en pagos agénticos. Si las compras empiezan a cerrarse dentro de un chat de IA, el dato de envío de Fixy (plazo, costo, cobertura por CP) tiene que poder ser consumido por una máquina.",
+    "action": "Diseñar una API o feed estructurado y documentado de cotización y estado de envío, pensado para ser consumido por agentes de IA de terceros (no solo por humanos vía web).",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://www.retaildive.com/news/retail-shoppers-warm-up-agentic-ai-purchases/827563/",
+    "linked": [
+      "Los consumidores empiezan a delegar compras a agentes de IA, pero exigen un paso humano",
+      "Compras y pagos agénticos en Argentina"
+    ],
+    "id": "op-714a175e",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "title": "Tercerización logística como alternativa a la inversión tecnológica que los retailers están postergando",
+    "context": "VTEX reportó demanda más débil en Argentina y desaceleró su guía de GMV para el segundo semestre, señal independiente de que los grandes retailers están estirando decisiones de inversión en tecnología propia, no solo recortando consumo.",
+    "action": "Armar un argumento comercial dirigido a retailers medianos/grandes que estén posponiendo proyectos de plataforma propia: tercerizar fulfillment y última milla como forma de escalar sin comprometer capex tecnológico este semestre.",
     "type": "comercial",
     "priority": "relevante",
-    "source_url": "https://logweb.com.br/intra-log-expo-2026-automacao-logistica-intralogistica-sao-paulo/",
+    "source_url": "https://www.fool.com/earnings/call-transcripts/2026/08/14/vtex-vtex-q2-2026-earnings-call-transcript/",
     "linked": [
-      "INTRA-LOG Expo South America 2026",
-      "Latam Retail Show 2026"
+      "VTEX reporta demanda más débil en Argentina y desacelera su guía de GMV para el segundo semestre"
     ],
-    "id": "op-a6462f44",
+    "id": "op-1604f5ea",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
   },
   {
     "title": "33.000 empresas importadoras nuevas necesitan almacenar y distribuir en Argentina",
@@ -102,21 +118,6 @@
       "CyberMonday 2026"
     ],
     "id": "op-5e6edff1",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "title": "La logística inversa se volvió argumento de conversión, no un costo",
-    "context": "Un estudio de RTB House muestra que 42% de los millennials dejaría que un agente de IA compre por ellos hasta US$250 solo si hay 7 días de devolución garantizada; sin esa protección la disposición cae a un tercio. En paralelo, el abandono de carrito en Argentina está en 80%.",
-    "action": "Empaquetar un producto de devoluciones con SLA explícito y trazabilidad, y venderlo a las tiendas como herramienta de conversión (no como servicio postventa). Es un diferencial comunicable y todavía poco explotado en el mercado local.",
-    "type": "producto",
-    "priority": "relevante",
-    "source_url": "https://www.retaildive.com/news/retail-shoppers-warm-up-agentic-ai-purchases/827563/",
-    "linked": [
-      "Los consumidores empiezan a delegar compras a agentes de IA"
-    ],
-    "id": "op-a626f189",
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
