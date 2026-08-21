@@ -1,5 +1,35 @@
 [
   {
+    "title": "Las franquicias que digitalizan sus canales de venta son una cantera de leads B2B poco explotada",
+    "context": "Expo Franquicias Argentina 2026 (9 y 10 de septiembre, La Rural) reúne a marcas franquiciantes e inversores que buscan escalar canales online. Las cadenas con múltiples puntos de venta que digitalizan sus ventas necesitan fulfillment y última milla multipunto, un perfil de cliente que Fixy todavía no prospecta de forma sistemática.",
+    "action": "Armar una oferta de fulfillment pensada para redes de franquicias (múltiples puntos de retiro, stock distribuido por local) y usar Expo Franquicias Argentina 2026 como canal de prospección comercial directa.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://aamf.com.ar/evento/",
+    "linked": [
+      "Expo Franquicias Argentina 2026"
+    ],
+    "id": "op-446bcb3c",
+    "source_kind": "auto",
+    "last_updated": "2026-08-21",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "title": "El eCommerce crece en pedidos de menor ticket: la tarifa por envío necesita ajustarse al nuevo mix de productos",
+    "context": "El balance de mitad de año de CACE muestra que el eCommerce argentino creció 21% en órdenes y 22% en unidades, pero la facturación real cayó 5% porque el mix se corrió hacia alimentos, bebidas y herramientas de menor ticket. Eso significa más órdenes y más picking por cada peso de venta.",
+    "action": "Revisar con comercial y operaciones si la estructura tarifaria actual de Fixy compensa el mayor volumen de pedidos chicos, antes de que la rentabilidad por envío se erosione con el nuevo mix de productos.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/08/20/las-ventas-online-crecieron-21-en-un-ano-pero-cayo-la-facturacion-cuales-fueron-los-productos-mas-buscados/",
+    "linked": [
+      "El comercio electrónico argentino creció en volumen pero su facturación cayó 5% en términos reales en el primer semestre"
+    ],
+    "id": "op-0b27a8e4",
+    "source_kind": "auto",
+    "last_updated": "2026-08-21",
+    "first_seen": "2026-08-21"
+  },
+  {
     "title": "Flota variable coordinada por tecnología en lugar de sumar unidades propias",
     "context": "La última milla del ecommerce argentino avanza hacia modelos 'uberizados': el desafío ya no es cuántos vehículos tiene un operador sino cómo coordina con tecnología una red variable de conductores y flotas mixtas para sostener picos de demanda sin inmovilizar capital en flota propia.",
     "action": "Evaluar o pilotear una plataforma de gestión de red de fleteros/conductores freelance para absorber picos estacionales (Día del Niño, CyberMonday) sin inversión en unidades propias adicionales.",
@@ -94,35 +124,5 @@
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
-  },
-  {
-    "title": "33.000 empresas importadoras nuevas necesitan almacenar y distribuir en Argentina",
-    "context": "Las importaciones de bienes de consumo llegaron a un récord de US$5.362 millones en el primer semestre y la cantidad de empresas importadoras se duplicó: +33.108 firmas desde 2023. Indumentaria creció 86% y electrodomésticos 109%. Muchas de esas empresas son nuevas en el comercio de bienes y no tienen estructura logística propia.",
-    "action": "Construir una lista de prospectos de importadores recientes por rubro (indumentaria, hogar, electro) y salir con una propuesta específica de recepción de contenedor, almacenamiento, picking y distribución nacional, no con la tarifa genérica de última milla.",
-    "type": "comercial",
-    "priority": "alta",
-    "source_url": "https://www.ambito.com/economia/record-importaciones-bienes-consumo-que-productos-registraron-subas-530-n6311906",
-    "linked": [
-      "Récord de importaciones de bienes de consumo"
-    ],
-    "id": "op-07dd93cd",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "title": "La exportación postal comercial quedó libre de tope: hay espacio para un producto \"Fixy Export\"",
-    "context": "El Decreto 604/2026 y las RG ARCA 5886/2026 y 5884/2026 habilitaron la exportación comercial por correo sin límite de monto, con declaración simplificada (DESP) y sin documentación física. Es la primera vez en 45 años que el canal queda operativo, y Amazon ya está captando vendedores argentinos con Fulfillment by Amazon.",
-    "action": "Armar un piloto de exportación puerta a puerta con 3 clientes de indumentaria, marroquinería o diseño: recolección, preparación documental DESP y despacho. Es un servicio que hoy casi ningún operador local ofrece empaquetado y permite cobrar por asesoría, no solo por flete.",
-    "type": "nueva línea de negocio",
-    "priority": "alta",
-    "source_url": "https://www.cronista.com/negocios/como-exportar-por-correo-sin-limite-de-monto-y-a-quienes-alcanza-el-nuevo-regimen-de-arca/",
-    "linked": [
-      "ARCA reglamentó la exportación comercial por vía postal"
-    ],
-    "id": "op-c590bc55",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
   }
 ]

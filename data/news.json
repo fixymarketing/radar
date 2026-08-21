@@ -433,5 +433,51 @@
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
+  },
+  {
+    "title": "El comercio electrónico argentino creció en volumen pero su facturación cayó 5% en términos reales en el primer semestre",
+    "what_happened": "La Cámara Argentina de Comercio Electrónico (CACE) presentó su estudio de balance de mitad de año: la facturación nominal del sector subió 28% interanual, a $19.533.815 millones, pero ajustada por inflación retrocedió 5%. Se realizaron 181,5 millones de órdenes de compra (+21% interanual) y se vendieron 248 millones de productos (+22%), con un ticket promedio de $107.597. Los rubros con mayor facturación fueron alimentos y bebidas, electro (línea blanca) y herramientas y construcción.",
+    "why_it_matters": "El dato oficial de la cámara confirma que el crecimiento del eCommerce argentino es hoy un fenómeno de volumen y de productos de menor ticket unitario, no de facturación real, un patrón distinto al que muestran reportes de plataformas individuales.",
+    "fixy_impact": "Implica planificar capacidad para más órdenes y más unidades de bajo ticket (alimentos, bebidas, herramientas), lo que presiona la rentabilidad por envío si las tarifas de fulfillment y última milla no se ajustan al nuevo mix de productos.",
+    "category": "eCommerce",
+    "geo": "Argentina",
+    "source_name": "Infobae (con datos de CACE)",
+    "source_url": "https://www.infobae.com/economia/2026/08/20/las-ventas-online-crecieron-21-en-un-ano-pero-cayo-la-facturacion-cuales-fueron-los-productos-mas-buscados/",
+    "published_date": "2026-08-20",
+    "priority": "alta",
+    "tags": [
+      "CACE",
+      "eCommerce",
+      "facturación",
+      "consumo",
+      "primer semestre"
+    ],
+    "id": "nw-2ecb7eee40",
+    "source_kind": "auto",
+    "last_updated": "2026-08-21",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "title": "La confianza del consumidor volvió a caer en agosto, con retroceso marcado en la intención de compra de bienes durables",
+    "what_happened": "El Índice de Confianza del Consumidor de la Universidad Torcuato Di Tella se ubicó en 40,23 puntos en agosto, una baja mensual de 1,08% y el segundo mes consecutivo en terreno negativo tras la caída de 4,78% de julio. El subíndice de bienes durables e inmuebles fue el que más retrocedió (-4,03%) y la situación personal cayó 3,31%, mientras que la percepción macroeconómica mejoró 3,06%. El interior del país registró el mayor deterioro mensual (-3,79%), frente a leves mejoras en CABA y el Gran Buenos Aires.",
+    "why_it_matters": "Es un indicador adelantado de la disposición de los hogares a gastar; el retroceso en bienes durables y el deterioro más pronunciado en el interior son señales de alerta para categorías de mayor ticket y para la demanda fuera del AMBA.",
+    "fixy_impact": "Sirve como insumo para calibrar previsiones de volumen y ticket promedio por región, especialmente en el interior del país, donde la caída de confianza fue más fuerte que en AMBA.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae (con datos de UTDT)",
+    "source_url": "https://www.infobae.com/economia/2026/08/20/la-confianza-del-consumidor-volvio-a-caer-en-agosto-por-el-deterioro-de-la-situacion-personal/",
+    "published_date": "2026-08-20",
+    "priority": "relevante",
+    "tags": [
+      "consumo",
+      "confianza",
+      "UTDT",
+      "bienes durables",
+      "demanda"
+    ],
+    "id": "nw-2d50914431",
+    "source_kind": "auto",
+    "last_updated": "2026-08-21",
+    "first_seen": "2026-08-21"
   }
 ]

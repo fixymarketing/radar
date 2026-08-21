@@ -1,49 +1,28 @@
 {
-  "generated_at": "2026-08-21T10:31:25.839Z",
-  "last_updated_ar": "21/08/2026, 07:31",
+  "generated_at": "2026-08-21T12:30:01.129Z",
+  "last_updated_ar": "21/08/2026, 09:30",
   "date": "2026-08-21",
-  "run_status": "error",
-  "run_errors": [
-    {
-      "task": "Novedades",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "Agenda Argentina",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "Radar internacional",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "AI Radar",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "Oportunidades y contenido",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    }
-  ],
-  "summary_line": "Un día con dos señales estructurales fuertes -Mercado Libre invirtiendo en Córdoba y un récord de importadores nuevos sin logística propia- conviviendo con una alerta regulatoria sobre las billeteras que procesan buena parte de los cobros del e-commerce argentino.",
+  "run_status": "ok",
+  "run_errors": [],
+  "summary_line": "El balance semestral de CACE confirma que el eCommerce argentino crece en pedidos pero pierde plata real por el corrimiento hacia productos de menor ticket, justo cuando se acerca el eCommerce Day Argentina 2026 y sigue creciendo la presión regulatoria sobre las billeteras que procesan el cobro contra entrega.",
   "counters": {
-    "news_today": 0,
-    "news_total": 19,
-    "events_upcoming": 41,
-    "events_ar_upcoming": 26,
-    "events_intl_upcoming": 15,
-    "events_later": 11,
+    "news_today": 2,
+    "news_total": 21,
+    "events_upcoming": 43,
+    "events_ar_upcoming": 27,
+    "events_intl_upcoming": 16,
+    "events_later": 15,
     "opportunities_open": 8,
-    "opportunities_today": 0,
-    "ai_today": 0,
-    "ai_to_try": 13,
-    "content_ideas": 11,
-    "added_news": 0,
+    "opportunities_today": 2,
+    "ai_today": 2,
+    "ai_to_try": 14,
+    "content_ideas": 14,
+    "added_news": 2,
     "updated_news": 0,
-    "added_events": 0,
-    "updated_events": 0,
-    "added_ai": 0,
-    "archived": 0,
+    "added_events": 7,
+    "updated_events": 9,
+    "added_ai": 2,
+    "archived": 2,
     "discarded_quality": 0
   },
   "next_event": {
@@ -55,18 +34,25 @@
   },
   "highlights": [
     {
+      "id": "nw-2ecb7eee40",
+      "kind": "news",
+      "title": "El comercio electrónico argentino creció en volumen pero su facturación cayó 5% en términos reales en el primer semestre",
+      "priority": "alta",
+      "one_liner": "El dato oficial de CACE confirma que el eCommerce argentino crece en pedidos de menor ticket, no en plata real, lo que presiona el margen por envío si las tarifas no se ajustan."
+    },
+    {
       "id": "nw-06abe56b48",
       "kind": "news",
       "title": "Mercado Libre construirá en Córdoba su primer centro de almacenamiento fuera del AMBA: US$91 millones",
       "priority": "alta",
-      "one_liner": "Es el primer quiebre real de la centralización logística en AMBA y marca el reloj de la ventana de 12 a 18 meses que tiene el interior antes de que Mercado Libre opere ahí."
+      "one_liner": "Es el primer quiebre real de la centralización logística en AMBA y marca el reloj de la ventana que tiene el interior antes de que Mercado Libre opere ahí."
     },
     {
-      "id": "nw-b946fea6cb",
-      "kind": "news",
-      "title": "Récord de importaciones de bienes de consumo: US$5.362 millones en el primer semestre, con indumentaria +86%",
+      "id": "ev-argentina-day-ecommerce-2026",
+      "kind": "event",
+      "title": "eCommerce Day Argentina 2026",
       "priority": "alta",
-      "one_liner": "Aparece una masa de importadores-vendedores nuevos, muchos sin experiencia logística, que necesita nacionalizar, almacenar y distribuir producto: es un target directo para el fulfillment de Fixy."
+      "one_liner": "Es la edición número 200 del tour y el evento de mayor concentración de retailers y marketplaces del país: clave para prospección comercial directa de Fixy."
     },
     {
       "id": "nw-21f11273fd",
@@ -76,19 +62,11 @@
       "one_liner": "Pone bajo la lupa regulatoria a las billeteras que procesan buena parte de los cobros del e-commerce argentino, con impacto potencial en el cobro contra entrega."
     },
     {
-      "id": "ev-argentina-day-ecommerce-2026",
-      "kind": "event",
-      "title": "eCommerce Day Argentina 2026",
-      "priority": "alta",
-      "one_liner": "Es el evento de comercio electrónico más grande y transversal de Argentina, con la mayor concentración de decisores del sector en un solo lugar."
-    },
-    {
-      "id": "nw-d80d3b40d9",
-      "kind": "news",
-      "title": "VTEX reporta demanda más débil en Argentina y desacelera su guía de GMV para el segundo semestre",
+      "id": "ai-meta-meta-business-agent-whatsapp-ai",
+      "kind": "ai",
+      "title": "Meta Business Agent (WhatsApp AI)",
       "priority": "relevante",
-      "one_liner": "Confirma con datos de balance que los grandes retailers argentinos están estirando la inversión tecnológica, lo que abre espacio para que Fixy ofrezca tercerización como alternativa."
+      "one_liner": "El agente de WhatsApp de Meta pasó a cobrar por token desde el 1° de agosto: quien lo use para seguimiento de pedidos ahora tiene que presupuestar el costo por conversación."
     }
-  ],
-  "summary_from_previous_day": true
+  ]
 }

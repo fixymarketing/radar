@@ -161,26 +161,26 @@
     "first_seen": "2026-08-19"
   },
   {
-    "name": "Meta Business Agent (WhatsApp AI)",
-    "vendor": "Meta",
-    "what_it_is": "Es el agente de IA generativa de Meta integrado en WhatsApp, Messenger e Instagram que responde consultas, recomienda productos y agenda turnos de forma automática usando el catálogo y el contenido propio de cada negocio.",
-    "what_changed": "Desde el 1 de agosto de 2026 Meta empezó a cobrar su uso por tokens (USD 2 cada millón, unos 4 a 5 centavos de dólar por conversación), terminando la ventana gratuita de prueba y unificando en una sola tarifa el procesamiento de IA y el envío de mensajes.",
-    "fixy_use": "Fixy podría usarlo para automatizar respuestas de seguimiento de pedidos y estados de envío por WhatsApp a los clientes finales de las tiendas que fulfillea, liberando al equipo de atención al cliente de las consultas repetitivas de \"¿dónde está mi pedido?\". Antes de escalarlo conviene estimar el volumen mensual de conversaciones para calcular el costo real, porque ahora tiene un precio directo por uso.",
-    "verdict": "seguir",
-    "verdict_reason": "Es potente para atención masiva por WhatsApp, pero ahora tiene un costo variable que hay que dimensionar antes de adoptarlo.",
+    "name": "Ask Gemini en Google Chat",
+    "vendor": "Google",
+    "what_it_is": "Es una barra de comando dentro de Google Chat, impulsada por Workspace Intelligence, que permite buscar información en Gmail, Drive y Calendar, generar imágenes y redactar mensajes sin salir de la conversación.",
+    "what_changed": "Google anunció el despliegue gradual a partir del 26 de agosto de 2026: reemplaza el panel lateral de Gemini en Chat por un acceso directo (atajo Ctrl+G / Cmd+G) disponible para cuentas con Workspace Smart Features habilitado.",
+    "fixy_use": "El equipo de Fixy podría usarlo para encontrar en segundos un archivo compartido, un mail o un evento de calendario sin cambiar de pestaña mientras coordina una entrega o resuelve un reclamo por el chat interno. También sirve para redactar avisos rápidos a comercial u operaciones sin salir de la conversación grupal.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratuito para cuentas con Workspace Smart Features y no requiere configuración técnica, así que se puede evaluar sin costo adicional en el uso diario del equipo.",
     "categories": [
-      "Comercial",
-      "Operaciones",
-      "Automatización"
+      "Organización",
+      "Productividad",
+      "Gestión del tiempo"
     ],
-    "pricing_note": "pago - USD 2 por millón de tokens, aprox. 4-5 centavos de dólar por conversación",
-    "source_url": "https://www.techtimes.com/articles/320787/20260716/meta-business-agent-billing-starts-aug-1-free-test-window-ends-days.htm",
-    "published_date": "2026-08-01",
-    "priority": "alta",
-    "id": "ai-meta-meta-business-agent-whatsapp-ai",
+    "pricing_note": "freemium — incluido para cuentas Workspace con Smart Features habilitado; acceso promocional a límites más altos hasta el 1° de octubre de 2026, después aplican límites de uso",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html",
+    "published_date": "2026-08-20",
+    "priority": "relevante",
+    "id": "ai-google-ask-gemini-en-google-chat",
     "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
+    "last_updated": "2026-08-21",
+    "first_seen": "2026-08-21"
   },
   {
     "name": "Zendesk Copilot intelligent triage",
@@ -364,6 +364,27 @@
     "first_seen": "2026-08-19"
   },
   {
+    "name": "Meta Business Agent (WhatsApp AI)",
+    "vendor": "Meta",
+    "what_it_is": "Es el agente de IA nativo de Meta para WhatsApp Business, Messenger e Instagram, que responde consultas de catálogo, hace seguimiento de pedidos y puede cerrar ventas sin herramientas externas.",
+    "what_changed": "Terminó la ventana de prueba gratuita y desde el 1° de agosto de 2026 Meta empezó a cobrar por uso: 2 USD por cada millón de tokens procesados (entrada y salida), equivalente a entre 4 y 5 centavos de dólar por mensaje automatizado, en un cobro unificado que incluye el procesamiento de IA y el envío del mensaje.",
+    "fixy_use": "Si Fixy evalúa o ya usa este agente para atención de primera línea por WhatsApp (consultas de stock, seguimiento de pedidos), ahora hay que presupuestar el costo por conversación antes de escalarlo a todo el volumen diario de consultas. Conviene medir cuántos mensajes automáticos generaría por mes antes de habilitarlo sin restricciones.",
+    "verdict": "seguir",
+    "verdict_reason": "El paso de gratis a pago por token obliga a recalcular el caso de negocio antes de ampliar su uso, sobre todo si el volumen de consultas por WhatsApp es alto.",
+    "categories": [
+      "Comercial",
+      "Automatización"
+    ],
+    "pricing_note": "pago — 2 USD por millón de tokens (aprox. 4-5 centavos de dólar por mensaje), vigente desde el 1° de agosto de 2026",
+    "source_url": "https://www.techtimes.com/articles/320787/20260716/meta-business-agent-billing-starts-aug-1-free-test-window-ends-days.htm",
+    "published_date": "2026-08-01",
+    "priority": "relevante",
+    "id": "ai-meta-meta-business-agent-whatsapp-ai",
+    "source_kind": "auto",
+    "last_updated": "2026-08-21",
+    "first_seen": "2026-08-20"
+  },
+  {
     "name": "Gemini Enterprise Business edition: servidores MCP propios",
     "vendor": "Google",
     "what_it_is": "Gemini Enterprise Business edition es la versión de la plataforma agéntica de Google para empresas chicas y equipos. Ahora permite conectar servidores MCP propios para que los agentes accedan a datos privados y herramientas internas.",
@@ -474,6 +495,27 @@
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
+  },
+  {
+    "name": "Grok Bot (agentes con computadora propia)",
+    "vendor": "xAI",
+    "what_it_is": "Es una aplicación de xAI que convierte a Grok en un equipo de agentes autónomos, cada uno con su propia computadora en la nube que inicia sesión en aplicaciones web (Gmail, CRMs, sitios) tomando capturas de pantalla y manejando mouse y teclado, igual que lo haría una persona, sin necesidad de integraciones por API.",
+    "what_changed": "xAI abrió la beta el 11 de agosto de 2026, integrada dentro de las suscripciones SuperGrok Heavy, Cursor Ultra y Cursor Teams Premium, coincidiendo con la fusión de xAI con la startup Cursor.",
+    "fixy_use": "Es un anticipo de hacia dónde va la automatización de tareas repetitivas en apps sin API propia, como actualizar un estado de pedido en un panel web o completar una planilla online, sin necesitar desarrollo técnico. Hoy no conviene adoptarlo en Fixy porque es beta cerrada, atado a suscripciones de programación (Cursor) y sin plan pensado para pymes.",
+    "verdict": "seguir",
+    "verdict_reason": "La idea de agentes que operan cualquier aplicación sin integración por API es prometedora para automatizar tareas manuales, pero hoy es una beta cerrada orientada a equipos de desarrollo, no a pymes.",
+    "categories": [
+      "Automatización",
+      "Operaciones"
+    ],
+    "pricing_note": "no confirmado — incluido dentro de suscripciones SuperGrok Heavy, Cursor Ultra o Cursor Teams Premium; sin plan independiente anunciado",
+    "source_url": "https://www.unite.ai/xai-launches-grok-bot-always-on-ai-teammates-with-their-own-cloud-computers/",
+    "published_date": "2026-08-11",
+    "priority": "informativo",
+    "id": "ai-xai-grok-bot-agentes-con-computadora-propia",
+    "source_kind": "auto",
+    "last_updated": "2026-08-21",
+    "first_seen": "2026-08-21"
   },
   {
     "name": "Asientos Premium para ChatGPT Business",

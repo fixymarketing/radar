@@ -106,5 +106,35 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "title": "33.000 empresas importadoras nuevas necesitan almacenar y distribuir en Argentina",
+    "context": "Las importaciones de bienes de consumo llegaron a un récord de US$5.362 millones en el primer semestre y la cantidad de empresas importadoras se duplicó: +33.108 firmas desde 2023. Indumentaria creció 86% y electrodomésticos 109%. Muchas de esas empresas son nuevas en el comercio de bienes y no tienen estructura logística propia.",
+    "action": "Construir una lista de prospectos de importadores recientes por rubro (indumentaria, hogar, electro) y salir con una propuesta específica de recepción de contenedor, almacenamiento, picking y distribución nacional, no con la tarifa genérica de última milla.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.ambito.com/economia/record-importaciones-bienes-consumo-que-productos-registraron-subas-530-n6311906",
+    "linked": [
+      "Récord de importaciones de bienes de consumo"
+    ],
+    "id": "op-07dd93cd",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "La exportación postal comercial quedó libre de tope: hay espacio para un producto \"Fixy Export\"",
+    "context": "El Decreto 604/2026 y las RG ARCA 5886/2026 y 5884/2026 habilitaron la exportación comercial por correo sin límite de monto, con declaración simplificada (DESP) y sin documentación física. Es la primera vez en 45 años que el canal queda operativo, y Amazon ya está captando vendedores argentinos con Fulfillment by Amazon.",
+    "action": "Armar un piloto de exportación puerta a puerta con 3 clientes de indumentaria, marroquinería o diseño: recolección, preparación documental DESP y despacho. Es un servicio que hoy casi ningún operador local ofrece empaquetado y permite cobrar por asesoría, no solo por flete.",
+    "type": "nueva línea de negocio",
+    "priority": "alta",
+    "source_url": "https://www.cronista.com/negocios/como-exportar-por-correo-sin-limite-de-monto-y-a-quienes-alcanza-el-nuevo-regimen-de-arca/",
+    "linked": [
+      "ARCA reglamentó la exportación comercial por vía postal"
+    ],
+    "id": "op-c590bc55",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
   }
 ]
