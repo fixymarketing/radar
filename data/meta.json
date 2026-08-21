@@ -1,35 +1,56 @@
 {
-  "generated_at": "2026-08-20T12:33:05.720Z",
-  "last_updated_ar": "20/08/2026, 09:33",
-  "date": "2026-08-20",
-  "run_status": "ok",
-  "run_errors": [],
+  "generated_at": "2026-08-21T10:31:25.839Z",
+  "last_updated_ar": "21/08/2026, 07:31",
+  "date": "2026-08-21",
+  "run_status": "error",
+  "run_errors": [
+    {
+      "task": "Novedades",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "Agenda Argentina",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "Radar internacional",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "AI Radar",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "Oportunidades y contenido",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    }
+  ],
   "summary_line": "Un día con dos señales estructurales fuertes -Mercado Libre invirtiendo en Córdoba y un récord de importadores nuevos sin logística propia- conviviendo con una alerta regulatoria sobre las billeteras que procesan buena parte de los cobros del e-commerce argentino.",
   "counters": {
-    "news_today": 3,
+    "news_today": 0,
     "news_total": 19,
     "events_upcoming": 41,
     "events_ar_upcoming": 26,
     "events_intl_upcoming": 15,
-    "events_later": 12,
+    "events_later": 11,
     "opportunities_open": 8,
-    "opportunities_today": 6,
-    "ai_today": 8,
+    "opportunities_today": 0,
+    "ai_today": 0,
     "ai_to_try": 13,
     "content_ideas": 11,
-    "added_news": 1,
+    "added_news": 0,
     "updated_news": 0,
-    "added_events": 7,
-    "updated_events": 3,
-    "added_ai": 3,
-    "archived": 3,
+    "added_events": 0,
+    "updated_events": 0,
+    "added_ai": 0,
+    "archived": 0,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-exportlog-2026",
-    "name": "ExportLog 2026",
-    "date_start": "2026-08-19",
-    "city": "Rosario",
+    "id": "ev-assets-digital-latam-2026",
+    "name": "Latam Digital Assets Conf 2026",
+    "date_start": "2026-08-20",
+    "city": "Ciudad Autónoma de Buenos Aires",
     "days_away": 0
   },
   "highlights": [
@@ -68,5 +89,6 @@
       "priority": "relevante",
       "one_liner": "Confirma con datos de balance que los grandes retailers argentinos están estirando la inversión tecnológica, lo que abre espacio para que Fixy ofrezca tercerización como alternativa."
     }
-  ]
+  ],
+  "summary_from_previous_day": true
 }

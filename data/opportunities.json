@@ -1,5 +1,21 @@
 [
   {
+    "title": "Flota variable coordinada por tecnología en lugar de sumar unidades propias",
+    "context": "La última milla del ecommerce argentino avanza hacia modelos 'uberizados': el desafío ya no es cuántos vehículos tiene un operador sino cómo coordina con tecnología una red variable de conductores y flotas mixtas para sostener picos de demanda sin inmovilizar capital en flota propia.",
+    "action": "Evaluar o pilotear una plataforma de gestión de red de fleteros/conductores freelance para absorber picos estacionales (Día del Niño, CyberMonday) sin inversión en unidades propias adicionales.",
+    "type": "estratégica",
+    "priority": "alta",
+    "source_url": "https://www.ambito.com/negocios/la-logistica-acelera-el-uso-tecnologia-automatizacion-y-modelos-uberizados-sostener-el-boom-del-ecommerce-n6312398",
+    "linked": [
+      "La 'uberización' avanza en la última milla del ecommerce",
+      "Vender capacidad reservada para el CyberMonday en lugar de tarifa spot"
+    ],
+    "id": "op-2a31930e",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
+  },
+  {
     "title": "Mapear la exposición de Fixy a un cambio regulatorio en billeteras virtuales",
     "context": "Diputados pidió investigar a Mercado Pago, Ualá y otras 90 billeteras por tasas de crédito y algoritmos de mora, lo que pone bajo la lupa el negocio de comisiones que procesa buena parte de los cobros del e-commerce argentino. Un cambio regulatorio en los próximos meses podría alterar las condiciones del cobro contra entrega que muchos clientes de Fixy usan hoy.",
     "action": "Relevar qué billeteras usan los clientes de Fixy para cobrar contra entrega y estimar el impacto de un eventual cambio de tasas antes de que haya una resolución concreta.",
@@ -44,22 +60,6 @@
       "Compras y pagos agénticos en Argentina (Mercado Pago, Tiendanube, Visa, Mastercard, Pomelo)"
     ],
     "id": "op-d256d4e1",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "title": "Flota variable coordinada por tecnología en lugar de sumar unidades propias",
-    "context": "La última milla del ecommerce argentino avanza hacia modelos 'uberizados': el desafío ya no es cuántos vehículos tiene un operador sino cómo coordina con tecnología una red variable de conductores y flotas mixtas para sostener picos de demanda sin inmovilizar capital en flota propia.",
-    "action": "Evaluar o pilotear una plataforma de gestión de red de fleteros/conductores freelance para absorber picos estacionales (Día del Niño, CyberMonday) sin inversión en unidades propias adicionales.",
-    "type": "estratégica",
-    "priority": "alta",
-    "source_url": "https://www.ambito.com/negocios/la-logistica-acelera-el-uso-tecnologia-automatizacion-y-modelos-uberizados-sostener-el-boom-del-ecommerce-n6312398",
-    "linked": [
-      "La 'uberización' avanza en la última milla del ecommerce",
-      "Vender capacidad reservada para el CyberMonday en lugar de tarifa spot"
-    ],
-    "id": "op-2a31930e",
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
