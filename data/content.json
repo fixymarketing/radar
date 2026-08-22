@@ -211,5 +211,35 @@
     "source_kind": "auto",
     "last_updated": "2026-08-21",
     "first_seen": "2026-08-21"
+  },
+  {
+    "topic": "Qué hacer si sos vendedor de Mercado Libre y en septiembre te sube el costo fijo",
+    "why_now": "El aumento entra en vigencia el 1° de septiembre: es una ventana corta donde los sellers están buscando activamente alternativas para no resignar margen.",
+    "fixy_angle": "Fixy puede mostrar cómo un esquema de fulfillment propio da costos más previsibles que depender solo de la tarifa de la plataforma.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "alta",
+    "source_url": "https://www.iprofesional.com/negocios/462755-mercado-libre-sube-los-costos-a-vendedores-y-aumenta-la-presion-en-plena-caida-del-consumo",
+    "id": "ct-dd90ec62",
+    "source_kind": "auto",
+    "last_updated": "2026-08-22",
+    "first_seen": "2026-08-22"
+  },
+  {
+    "topic": "El Belgrano Cargas vuelve a licitarse: qué haría falta para que el tren le saque camiones a la ruta",
+    "why_now": "El Gobierno acaba de abrir la licitación por 50 años de las tres líneas de trenes de carga, un tema con poca cobertura desde la óptica logística y de eCommerce.",
+    "fixy_angle": "Fixy puede posicionarse como voz analítica sobre el futuro del transporte de larga distancia y su eventual impacto en costos de distribución hacia el interior.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.ambito.com/economia/privatizaciones-el-gobierno-llamo-licitacion-concesionar-50-anos-el-belgrano-cargas-n6312660",
+    "id": "ct-69798f21",
+    "source_kind": "auto",
+    "last_updated": "2026-08-22",
+    "first_seen": "2026-08-22"
   }
 ]

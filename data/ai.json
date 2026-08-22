@@ -161,6 +161,29 @@
     "first_seen": "2026-08-19"
   },
   {
+    "name": "Gemini Spark",
+    "vendor": "Google",
+    "what_it_is": "Es un agente de IA de Google, dentro de la app Gemini, que ejecuta tareas de varios pasos por su cuenta (mandar mails, armar informes, reservar turnos, navegar sitios) sin que haya que estar chateando todo el tiempo para que avance.",
+    "what_changed": "Llegó de forma oficial a Argentina y al resto de Latinoamérica a fines de julio/comienzos de agosto, y a principios de agosto sumó navegación paso a paso por Chrome y conexión con apps como Canva y Dropbox, ampliando lo que puede resolver solo.",
+    "fixy_use": "Se le puede pedir que arme y mande el reporte semanal de despachos a partir de una planilla de Sheets, que redacte los mails de seguimiento a clientes con pedidos demorados, o que monitoree una casilla y avise cuando entra un reclamo urgente. Como pide confirmación antes de acciones sensibles, conviene probarlo primero en tareas administrativas de bajo riesgo.",
+    "verdict": "probar",
+    "verdict_reason": "Automatiza tareas repetitivas de oficina en Gmail, Sheets y Calendar sin armar un flujo en n8n, aunque por ahora requiere suscripción paga de Google.",
+    "categories": [
+      "Automatización",
+      "Productividad",
+      "Gestión del tiempo",
+      "Organización"
+    ],
+    "pricing_note": "pago: exclusivo por ahora para suscriptores de Google AI Ultra (y AI Pro)",
+    "source_url": "https://www.rosario3.com/tecnologia/ya-esta-disponible-gemini-spark-la-nueva-inteligencia-artificial-autonoma-de-google-llego-a-la-argentina-20260801-0012.html",
+    "published_date": "2026-08-01",
+    "priority": "alta",
+    "id": "ai-google-gemini-spark",
+    "source_kind": "auto",
+    "last_updated": "2026-08-22",
+    "first_seen": "2026-08-22"
+  },
+  {
     "name": "Ask Gemini en Google Chat",
     "vendor": "Google",
     "what_it_is": "Es una barra de comando dentro de Google Chat, impulsada por Workspace Intelligence, que permite buscar información en Gmail, Drive y Calendar, generar imágenes y redactar mensajes sin salir de la conversación.",
@@ -183,6 +206,28 @@
     "first_seen": "2026-08-21"
   },
   {
+    "name": "Gemini Notebook: copiar notebooks y analizar datos con código",
+    "vendor": "Google",
+    "what_it_is": "Gemini Notebook (la ex NotebookLM) es la herramienta de Google para subir documentos propios y hacerle preguntas, generar resúmenes e informes, y ahora también correr análisis de datos ejecutando código en la nube.",
+    "what_changed": "El 17 de agosto Google sumó la posibilidad de copiar un notebook entero, con sus fuentes y los informes o gráficos ya generados incluidos, algo que se apoya en la actualización reciente que le dio a los planes Pro ejecución de código para producir gráficos, PDFs y planillas automáticamente a partir de las fuentes cargadas.",
+    "fixy_use": "Se puede armar un notebook plantilla con la estructura del análisis mensual de KPIs logísticos (entregas a tiempo, devoluciones, costo por envío) y copiarlo cada mes cambiando solo la planilla de origen, sin rearmar todo de cero. También sirve para que alguien sin perfil de analista cargue el Excel de despachos y pida directamente el gráfico o la planilla resumen.",
+    "verdict": "probar",
+    "verdict_reason": "Achica el trabajo manual de armar reportes mensuales, aunque el análisis con código todavía está limitado a cuentas Pro o Ultra.",
+    "categories": [
+      "Análisis",
+      "Productividad",
+      "Operaciones"
+    ],
+    "pricing_note": "freemium: copiar notebooks es amplio, pero la ejecución de código para generar gráficos y planillas es de los planes Pro/Ultra de Google AI",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/08/make-copy-of-notebook-in-gemini-notebook.html",
+    "published_date": "2026-08-17",
+    "priority": "relevante",
+    "id": "ai-google-gemini-notebook-copiar-notebooks-y-analizar-datos-con",
+    "source_kind": "auto",
+    "last_updated": "2026-08-22",
+    "first_seen": "2026-08-22"
+  },
+  {
     "name": "Zendesk Copilot intelligent triage",
     "vendor": "Zendesk",
     "what_it_is": "Es una función de Zendesk que clasifica automáticamente los tickets de soporte entrantes por tema, sentimiento, idioma y entidades usando IA, sin que un agente tenga que leerlos primero para priorizarlos.",
@@ -202,6 +247,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
+  },
+  {
+    "name": "ChatGPT edita Google Docs, Sheets y Slides sin salir del chat",
+    "vendor": "OpenAI",
+    "what_it_is": "Función que permite abrir un Google Doc, Sheet o Slide propio al lado de la conversación de ChatGPT y editarlo charlando, sin copiar y pegar ni cambiar de pestaña.",
+    "what_changed": "OpenAI empezó a lanzarla el 13 de agosto para usuarios Plus, Pro, Business y Enterprise que ya tengan conectado Google Drive; antes había que pegar el contenido a mano o pasar por la Library.",
+    "fixy_use": "El equipo comercial puede pedirle a ChatGPT que actualice directamente la planilla de seguimiento de cuentas o el Doc de una propuesta mientras charla, en vez de exportar e importar. También sirve para pulir el informe semanal de atención al cliente que ya vive en Sheets sin duplicar el archivo.",
+    "verdict": "probar",
+    "verdict_reason": "Ahorra pasos concretos de copiar y pegar en el trabajo diario con Sheets y Docs, que es donde el equipo ya guarda casi todo.",
+    "categories": [
+      "Productividad",
+      "Contenido",
+      "Organización"
+    ],
+    "pricing_note": "pago: requiere plan Plus, Pro, Business o Enterprise de ChatGPT con Google Drive conectado",
+    "source_url": "https://nerdschalk.com/chatgpt-can-now-open-google-docs-sheets-and-slides-side-by-side-in-chat/",
+    "published_date": "2026-08-14",
+    "priority": "relevante",
+    "id": "ai-openai-chatgpt-edita-google-docs-sheets-y-slides-sin-salir-d",
+    "source_kind": "auto",
+    "last_updated": "2026-08-22",
+    "first_seen": "2026-08-22"
   },
   {
     "name": "Google Drive dentro de la Library de ChatGPT",
@@ -431,6 +498,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "Claude Academy",
+    "vendor": "Anthropic",
+    "what_it_is": "Centro de aprendizaje gratuito de Anthropic con 26 cursos cortos para aprender a usar Claude, desde lo básico hasta Claude Code y la API, sin pagar suscripción.",
+    "what_changed": "El 20 de agosto Anthropic relanzó lo que antes era Anthropic Academy bajo el nombre Claude Academy, en academy.claude.com, reorganizando los cursos por producto y sumando recomendaciones personalizadas de qué camino seguir.",
+    "fixy_use": "Sirve para destrabar a quienes en el equipo todavía usan Claude solo para preguntas sueltas: con un par de cursos cortos y gratuitos pueden aprender a armar prompts para atención al cliente o a usar Claude Cowork para tareas de fondo, sin depender de que alguien les explique todo a mano.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis y resuelve un problema real de un equipo chico sin tiempo para capacitarse por su cuenta.",
+    "categories": [
+      "Organización",
+      "Management",
+      "Productividad"
+    ],
+    "pricing_note": "gratis: no requiere suscripción paga de Claude",
+    "source_url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+    "published_date": "2026-08-20",
+    "priority": "informativo",
+    "id": "ai-anthropic-claude-academy",
+    "source_kind": "auto",
+    "last_updated": "2026-08-22",
+    "first_seen": "2026-08-22"
   },
   {
     "name": "Researcher reemplaza a Deep Research en Copilot",
