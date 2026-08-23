@@ -570,5 +570,52 @@
     "source_kind": "auto",
     "last_updated": "2026-08-22",
     "first_seen": "2026-08-22"
+  },
+  {
+    "title": "ARCA equipara al Correo Argentino con los couriers privados para las compras en Shein, Temu y Amazon",
+    "what_happened": "En el marco del Decreto 604/2026, ARCA puso en vigencia las nuevas pautas que unifican las condiciones tributarias entre el operador postal oficial y los couriers privados (DHL, FedEx, UPS) para las compras en el exterior por plataformas como Shein, Temu y Amazon. Se mantiene una franquicia de US$400 FOB libre de derechos de importación por envío, con un tope de cinco envíos anuales por persona y un valor máximo de US$3.000 por envío, aunque IVA e impuestos internos siguen aplicando por fuera de esa franquicia.",
+    "why_it_matters": "Al igualar las reglas entre el Correo Argentino y los couriers internacionales, el Gobierno facilita y simplifica el ingreso de compras individuales del exterior, lo que intensifica la presión competitiva sobre el retail y el eCommerce local de productos importables.",
+    "fixy_impact": "Fixy opera en el mismo ecosistema postal y de couriers que ahora queda equiparado por ARCA, por lo que es un dato clave para entender el contexto regulatorio en el que compiten sus clientes retailers frente a Shein, Temu y Amazon.",
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "El Destape",
+    "source_url": "https://www.eldestapeweb.com/economia/arca-reglas-compras-shein-temu-amazon-202681941530",
+    "published_date": "2026-08-19",
+    "priority": "relevante",
+    "tags": [
+      "ARCA",
+      "importaciones",
+      "Shein",
+      "Temu",
+      "Amazon",
+      "courier"
+    ],
+    "id": "nw-480e1beaa8",
+    "source_kind": "auto",
+    "last_updated": "2026-08-23",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "Las fintech ya superan los 10 millones de deudores en Argentina, con 2,4 millones en mora",
+    "what_happened": "Un informe de la consultora Analytica para la Cámara Argentina Fintech, con datos a agosto de 2026, contabilizó 10,1 millones de deudores en el sistema de crédito fintech, de los cuales 2,41 millones registran atrasos en sus pagos. Como comparación, los bancos tradicionales suman 14,3 millones de deudores con 2,45 millones en mora, y el resto de los proveedores no bancarios atiende a 5,2 millones de personas con 2,7 millones en situación irregular.",
+    "why_it_matters": "El dato pone en números concretos el deterioro del crédito al consumo por fuera de la banca tradicional, y ayuda a explicar tanto el impulso regulatorio contra las billeteras virtuales como la debilidad sostenida del consumo minorista.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "Zona Norte Hoy (con datos de Cámara Argentina Fintech / Analytica)",
+    "source_url": "https://www.zonanortehoy.com/economia/mas-de-10-millones-de-argentinos-tienen-deudas-con-fintech-y-2-4-millones-estan-en-mora/",
+    "published_date": "2026-08-21",
+    "priority": "informativo",
+    "tags": [
+      "fintech",
+      "crédito",
+      "mora",
+      "consumo",
+      "billeteras virtuales"
+    ],
+    "id": "nw-1c288a48f6",
+    "source_kind": "auto",
+    "last_updated": "2026-08-23",
+    "first_seen": "2026-08-23"
   }
 ]

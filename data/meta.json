@@ -1,49 +1,28 @@
 {
-  "generated_at": "2026-08-23T10:25:08.959Z",
-  "last_updated_ar": "23/08/2026, 07:25",
+  "generated_at": "2026-08-23T12:33:09.096Z",
+  "last_updated_ar": "23/08/2026, 09:33",
   "date": "2026-08-23",
-  "run_status": "error",
-  "run_errors": [
-    {
-      "task": "Novedades",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "Agenda Argentina",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "Radar internacional",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "AI Radar",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "Oportunidades y contenido",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    }
-  ],
-  "summary_line": "La suba de costos de Mercado Libre a los vendedores desde septiembre y el récord de importaciones de indumentaria abren dos frentes comerciales concretos para Fixy, justo cuando se acerca el eCommerce Day Argentina 2026 y la presión regulatoria sobre las billeteras que procesan el cobro contra entrega se multiplica desde Nación y Provincia.",
+  "run_status": "ok",
+  "run_errors": [],
+  "summary_line": "La equiparación de Correo Argentino con los couriers privados para compras en Shein, Temu y Amazon y el nuevo costo de Meta por su agente de IA en WhatsApp se suman, a días del eCommerce Day Argentina 2026, a la presión de costos que ya trae la suba de Mercado Libre a los vendedores desde septiembre.",
   "counters": {
-    "news_today": 0,
-    "news_total": 25,
-    "events_upcoming": 44,
-    "events_ar_upcoming": 27,
-    "events_intl_upcoming": 17,
+    "news_today": 2,
+    "news_total": 27,
+    "events_upcoming": 51,
+    "events_ar_upcoming": 31,
+    "events_intl_upcoming": 20,
     "events_later": 16,
     "opportunities_open": 8,
-    "opportunities_today": 0,
+    "opportunities_today": 2,
     "ai_today": 0,
     "ai_to_try": 18,
-    "content_ideas": 16,
-    "added_news": 0,
+    "content_ideas": 17,
+    "added_news": 2,
     "updated_news": 0,
-    "added_events": 0,
-    "updated_events": 0,
+    "added_events": 7,
+    "updated_events": 1,
     "added_ai": 0,
-    "archived": 0,
+    "archived": 2,
     "discarded_quality": 0
   },
   "next_event": {
@@ -59,36 +38,35 @@
       "kind": "news",
       "title": "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre",
       "priority": "alta",
-      "one_liner": "Encarece justo los productos de ticket más bajo en medio de una caída del consumo, y abre la puerta a ofrecer fulfillment propio a los sellers golpeados."
+      "one_liner": "La suba entra en vigencia en menos de dos semanas y sigue siendo el argumento comercial más directo para ofrecer fulfillment propio a sellers golpeados."
     },
     {
       "id": "ev-argentina-day-ecommerce-2026",
       "kind": "event",
       "title": "eCommerce Day Argentina 2026",
       "priority": "alta",
-      "one_liner": "Es la edición número 200 del tour y el mayor punto de encuentro de retailers y marketplaces del país, clave para prospección comercial directa de Fixy."
+      "one_liner": "Es en cuatro días y sigue siendo el mayor punto de encuentro de retailers y marketplaces del país para prospección comercial directa."
     },
     {
-      "id": "ai-google-gemini-spark",
+      "id": "nw-480e1beaa8",
+      "kind": "news",
+      "title": "ARCA equipara al Correo Argentino con los couriers privados para las compras en Shein, Temu y Amazon",
+      "priority": "relevante",
+      "one_liner": "Nueva reglamentación que iguala las reglas de importación personal y presiona un poco más al retail y al eCommerce local de productos importables."
+    },
+    {
+      "id": "ai-meta-meta-business-agent-whatsapp-ai",
       "kind": "ai",
-      "title": "Gemini Spark",
+      "title": "Meta Business Agent (WhatsApp AI)",
       "priority": "alta",
-      "one_liner": "Llegó a la Argentina el primer agente de Google capaz de ejecutar tareas administrativas solo, útil para automatizar reportes y seguimientos sin armar un flujo técnico."
+      "one_liner": "Meta ya cobra por su agente de WhatsApp y en octubre suma más cargos, un dato de costo real para cualquiera que use o evalúe automatizar la atención por ese canal."
     },
     {
-      "id": "nw-d29c3ddc59",
-      "kind": "news",
-      "title": "La Provincia de Buenos Aires abre otro frente contra las billeteras virtuales, ahora por hostigamiento a deudores",
+      "id": "ev-iab-now-2026",
+      "kind": "event",
+      "title": "IAB Now 2026",
       "priority": "relevante",
-      "one_liner": "Suma presión regulatoria sobre Mercado Pago y otras billeteras que procesan el cobro contra entrega del eCommerce, ahora también desde la Provincia."
-    },
-    {
-      "id": "nw-b946fea6cb",
-      "kind": "news",
-      "title": "Récord de importaciones de bienes de consumo: US$5.362 millones en el primer semestre, con indumentaria +86%",
-      "priority": "relevante",
-      "one_liner": "Aparece una masa nueva de importadores-vendedores sin experiencia logística que necesita nacionalizar, almacenar y distribuir producto, un segmento comercial para Fixy."
+      "one_liner": "Es el próximo evento en la agenda, en dos días, y marca hacia dónde se mueve la inversión en marketing digital de las marcas que contratan fulfillment."
     }
-  ],
-  "summary_from_previous_day": true
+  ]
 }

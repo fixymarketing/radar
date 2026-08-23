@@ -46,53 +46,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "name": "Sheets canvas: mini-apps con Gemini en Google Sheets",
-    "vendor": "Google",
-    "what_it_is": "Una capa interactiva de lectura y escritura que se arma con Gemini sobre una planilla existente: convierte el Sheet en una mini-app con vistas, tarjetas y drag-and-drop, sincronizada con los datos originales.",
-    "what_changed": "Lanzado globalmente el 13 de agosto de 2026. Se genera desde el panel 'Ask Gemini' con 'Create canvas', sin escribir código ni Apps Script.",
-    "fixy_use": "Convertir la planilla de envíos del día en un tablero operativo con estados arrastrables (pendiente / en ruta / entregado / con incidencia) que operaciones actualiza sin tocar celdas. Armar un panel de pipeline comercial sobre la planilla de cotizaciones sin pagar un CRM. Hacer un tablero de reclamos por zona priorizando los casos más viejos.",
-    "verdict": "probar",
-    "verdict_reason": "Fixy casi seguro ya gestiona operación en planillas: esto les da interfaz usable sin desarrollo ni migrar de herramienta.",
-    "categories": [
-      "Operaciones",
-      "Análisis",
-      "Organización",
-      "Productividad",
-      "Logística"
-    ],
-    "pricing_note": "Pago: Google AI Pro/Ultra o Workspace Business Standard/Plus. Solo en inglés al lanzamiento.",
-    "source_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-    "published_date": "2026-08-13",
-    "priority": "alta",
-    "id": "ai-google-sheets-canvas-mini-apps-con-gemini-en-google-sheets",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "name": "Claude Cowork en el panel lateral de Chrome",
-    "vendor": "Anthropic",
-    "what_it_is": "La extensión Claude in Chrome pasó a ser una sesión completa de Cowork: Claude trabaja dentro del navegador, ve las pestañas abiertas, usa skills y conectores, y puede operar sitios web por vos.",
-    "what_changed": "El 12 de agosto de 2026 Anthropic convirtió el side panel de Chrome en una sesión de Cowork: la conversación, las skills y los conectores se sincronizan entre navegador, escritorio, web y móvil, con un chequeo de seguridad antes de acciones consecuentes.",
-    "fixy_use": "Operaciones puede usarlo sobre los portales web de transportistas y couriers que no tienen API: entrar, buscar guías con demora y armar un listado consolidado sin copiar y pegar. Atención al cliente puede pedirle el estado de varios envíos y recibir un resumen listo para responder. Comercial puede dejarlo extrayendo datos de sitios de prospectos de eCommerce.",
-    "verdict": "probar",
-    "verdict_reason": "Es la forma más directa de automatizar tareas repetitivas en sistemas web sin integración, que es exactamente el cuello de botella de una operación logística chica.",
-    "categories": [
-      "Operaciones",
-      "Logística",
-      "Automatización",
-      "Productividad"
-    ],
-    "pricing_note": "Pago: incluido en planes Claude Max y Team (Pro en rollout progresivo). No hay versión gratuita.",
-    "source_url": "https://claude.com/blog/cowork-chrome-side-panel",
-    "published_date": "2026-08-12",
-    "priority": "alta",
-    "id": "ai-anthropic-claude-cowork-en-el-panel-lateral-de-chrome",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
     "name": "Compras y pagos agénticos en Argentina",
     "vendor": "Mercado Pago, Tiendanube, Visa, Mastercard, Pomelo",
     "what_it_is": "Compras iniciadas y pagadas por un asistente de IA en lugar del usuario navegando una tienda. Incluye el Asistente Personal de IA de Mercado Pago (pagar servicios desde la foto de una boleta) y pilotos de pago con credenciales tokenizadas.",
@@ -182,6 +135,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-22",
     "first_seen": "2026-08-22"
+  },
+  {
+    "name": "Meta Business Agent (WhatsApp AI)",
+    "vendor": "Meta",
+    "what_it_is": "Es el agente de IA nativo de Meta integrado en WhatsApp Business, que responde consultas, recomienda productos y gestiona conversaciones con clientes de forma automática.",
+    "what_changed": "Desde el 1° de agosto de 2026 Meta empezó a cobrar por su uso: 2 dólares por cada millón de tokens (entre operación del agente y entrega de mensajes), lo que equivale a unos 4 o 5 centavos de dólar por conversación. Antes era gratis mientras Meta medía el consumo real, y la tarifa es global, sin diferencias para Argentina.",
+    "fixy_use": "Si Fixy o algún cliente evalúa usar el agente nativo de Meta para atención por WhatsApp (por ejemplo, consultas de seguimiento de pedidos), hay que sumar este costo variable a la cuenta: con volumen alto puede dejar de ser gratis en la práctica. Conviene comparar contra un bot propio armado con n8n u otra herramienta antes de escalarlo, y tener en cuenta que desde el 1° de octubre de 2026 Meta también empieza a cobrar los mensajes de servicio dentro de la ventana de 24 horas.",
+    "verdict": "seguir",
+    "verdict_reason": "No es una función nueva sino un cambio de costos real que conviene monitorear antes de escalar su uso en atención al cliente.",
+    "categories": [
+      "Comercial",
+      "Operaciones",
+      "Automatización"
+    ],
+    "pricing_note": "pago | USD 2 por millón de tokens (aprox. 4-5 centavos por conversación) desde el 1° de agosto de 2026, tarifa global sin diferencias por país",
+    "source_url": "https://www.techtimes.com/articles/320787/20260716/meta-business-agent-billing-starts-aug-1-free-test-window-ends-days.htm",
+    "published_date": "2026-08-01",
+    "priority": "alta",
+    "id": "ai-meta-meta-business-agent-whatsapp-ai",
+    "source_kind": "auto",
+    "last_updated": "2026-08-23",
+    "first_seen": "2026-08-20"
   },
   {
     "name": "Ask Gemini en Google Chat",
@@ -317,6 +292,28 @@
     "first_seen": "2026-08-19"
   },
   {
+    "name": "Claude Cowork en el panel lateral de Chrome",
+    "vendor": "Anthropic",
+    "what_it_is": "Es la extensión de Claude para Chrome: un panel lateral que ve la página que estás mirando y puede actuar sobre ella (hacer clic, completar formularios, navegar) usando tus sesiones ya iniciadas.",
+    "what_changed": "El 12 de agosto de 2026 Anthropic convirtió ese panel en una sesión completa de Cowork: lo que arrancás en el navegador queda guardado en tu cuenta y lo podés seguir después desde la app de escritorio, la web o el celular, con las skills y conectores que ya tenías configurados funcionando también ahí. Por ahora está disponible para planes Max y Team, con Pro sumándose en las próximas semanas.",
+    "fixy_use": "Sirve para pedirle a Claude que recorra los portales de varios couriers o proveedores para juntar tarifas o estados de envío en una planilla, y después retomar esa misma sesión desde la compu del escritorio para armar el informe final. También ahorra tiempo en tareas repetitivas de completar formularios en portales de clientes o de organismos públicos sin copiar y pegar a mano.",
+    "verdict": "probar",
+    "verdict_reason": "El equipo ya usa Claude, así que sumar acciones dentro del navegador con continuidad entre dispositivos es una prueba de costo cero.",
+    "categories": [
+      "Productividad",
+      "Automatización",
+      "Operaciones"
+    ],
+    "pricing_note": "pago | incluido sin costo extra en los planes Claude Max y Team (Pro se suma en las próximas semanas)",
+    "source_url": "https://claude.com/blog/cowork-chrome-side-panel",
+    "published_date": "2026-08-12",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-cowork-en-el-panel-lateral-de-chrome",
+    "source_kind": "auto",
+    "last_updated": "2026-08-23",
+    "first_seen": "2026-08-19"
+  },
+  {
     "name": "n8n 2.35: Agent Builder con test runs y human-in-the-loop",
     "vendor": "n8n",
     "what_it_is": "n8n es una plataforma de automatización visual, autohospedable, que compite con Zapier y Make y además permite armar agentes de IA. Agent Builder es su constructor de agentes.",
@@ -359,6 +356,29 @@
     "id": "ai-google-workspace-importacion-mejorada-de-excel-en-google-she",
     "source_kind": "auto",
     "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "name": "Sheets canvas: mini-apps con Gemini en Google Sheets",
+    "vendor": "Google",
+    "what_it_is": "Es una función de Gemini dentro de Google Sheets que arma, a partir de instrucciones en lenguaje natural, mini-aplicaciones interactivas tipo dashboard, tablero kanban, calendario o formulario que leen y escriben directo sobre los datos de la planilla.",
+    "what_changed": "Google amplió el despliegue a partir del 10 de agosto de 2026 (antes era una vista previa limitada): ya está disponible en inglés para todos los suscriptores de Google AI Pro y Ultra, y se está habilitando para cuentas de Workspace Business Standard, Business Plus y Enterprise Standard/Plus con las funciones inteligentes activadas.",
+    "fixy_use": "Permite armar, sin programar, un tablero interactivo sobre una planilla que ya usa el equipo para trackear pedidos o incidencias, por ejemplo un kanban de estados de envío o un panel de reclamos por cliente, que lee y actualiza directamente las filas de Sheets. Es útil para operaciones y atención al cliente que hoy dependen de planillas armadas a mano, sin necesidad de migrar a otra herramienta.",
+    "verdict": "probar",
+    "verdict_reason": "Si el equipo ya usa Sheets para seguimiento operativo, armar un mini-dashboard con un prompt es una prueba de bajo costo y alto impacto potencial.",
+    "categories": [
+      "Operaciones",
+      "Logística",
+      "Productividad",
+      "Análisis"
+    ],
+    "pricing_note": "freemium | incluido en Google AI Pro/Ultra y en planes Workspace Business/Enterprise con funciones inteligentes activadas, con límites de uso por usuario",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/08/use-google-sheets-canvas-to-visualize-data.html",
+    "published_date": "2026-08-10",
+    "priority": "relevante",
+    "id": "ai-google-sheets-canvas-mini-apps-con-gemini-en-google-sheets",
+    "source_kind": "auto",
+    "last_updated": "2026-08-23",
     "first_seen": "2026-08-19"
   },
   {
@@ -429,27 +449,6 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
-  },
-  {
-    "name": "Meta Business Agent (WhatsApp AI)",
-    "vendor": "Meta",
-    "what_it_is": "Es el agente de IA nativo de Meta para WhatsApp Business, Messenger e Instagram, que responde consultas de catálogo, hace seguimiento de pedidos y puede cerrar ventas sin herramientas externas.",
-    "what_changed": "Terminó la ventana de prueba gratuita y desde el 1° de agosto de 2026 Meta empezó a cobrar por uso: 2 USD por cada millón de tokens procesados (entrada y salida), equivalente a entre 4 y 5 centavos de dólar por mensaje automatizado, en un cobro unificado que incluye el procesamiento de IA y el envío del mensaje.",
-    "fixy_use": "Si Fixy evalúa o ya usa este agente para atención de primera línea por WhatsApp (consultas de stock, seguimiento de pedidos), ahora hay que presupuestar el costo por conversación antes de escalarlo a todo el volumen diario de consultas. Conviene medir cuántos mensajes automáticos generaría por mes antes de habilitarlo sin restricciones.",
-    "verdict": "seguir",
-    "verdict_reason": "El paso de gratis a pago por token obliga a recalcular el caso de negocio antes de ampliar su uso, sobre todo si el volumen de consultas por WhatsApp es alto.",
-    "categories": [
-      "Comercial",
-      "Automatización"
-    ],
-    "pricing_note": "pago — 2 USD por millón de tokens (aprox. 4-5 centavos de dólar por mensaje), vigente desde el 1° de agosto de 2026",
-    "source_url": "https://www.techtimes.com/articles/320787/20260716/meta-business-agent-billing-starts-aug-1-free-test-window-ends-days.htm",
-    "published_date": "2026-08-01",
-    "priority": "relevante",
-    "id": "ai-meta-meta-business-agent-whatsapp-ai",
-    "source_kind": "auto",
-    "last_updated": "2026-08-21",
-    "first_seen": "2026-08-20"
   },
   {
     "name": "Gemini Enterprise Business edition: servidores MCP propios",

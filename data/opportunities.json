@@ -1,5 +1,37 @@
 [
   {
+    "title": "Ofrecer un bot propio de seguimiento de pedidos por WhatsApp, más barato que el agente nativo de Meta",
+    "context": "Desde el 1° de agosto Meta cobra USD 2 por millón de tokens por su Business Agent de WhatsApp (unos 4-5 centavos por conversación) y desde el 1° de octubre también cobrará los mensajes de servicio dentro de la ventana de 24 horas. Varios clientes de Fixy ya usan o evalúan bots de WhatsApp para responder '¿dónde está mi pedido?'.",
+    "action": "Armar con n8n (que ya tiene MCP nativo) un bot de estado de envío conectado a la API de tracking de Fixy y ofrecerlo a los clientes como servicio adicional o diferencial comercial, más económico y sin depender de la tarifa de Meta.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://www.techtimes.com/articles/320787/20260716/meta-business-agent-billing-starts-aug-1-free-test-window-ends-days.htm",
+    "linked": [
+      "Meta Business Agent (WhatsApp AI)",
+      "n8n MCP nativo (Server y Client)"
+    ],
+    "id": "op-17cb95dd",
+    "source_kind": "auto",
+    "last_updated": "2026-08-23",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "La primera feria portuaria del país conecta con el récord de importaciones que necesita fulfillment",
+    "context": "En julio se confirmó un récord de importaciones de bienes de consumo (US$5.362 millones en el semestre, indumentaria +86%), y en septiembre se hace en Mar del Plata la Feria Internacional Portuaria Argentina, la primera del país, con foco en cadenas logísticas de comercio exterior.",
+    "action": "Enviar a alguien del equipo comercial a la FIP 2026 a hacer networking directo con navieras, agentes de carga e importadores que necesitan tercerizar el almacenamiento y la distribución nacional del producto que ingresa por los puertos.",
+    "type": "comercial",
+    "priority": "informativo",
+    "source_url": "https://www.0223.com.ar/nota/2026-6-25-12-3-0-lanzan-la-primera-feria-internacional-portuaria-argentina-sera-en-mar-del-plata",
+    "linked": [
+      "Récord de importaciones de bienes de consumo: US$5.362 millones en el primer semestre, con indumentaria +86%",
+      "Feria Internacional Portuaria Argentina (FIP 2026)"
+    ],
+    "id": "op-ded7ec66",
+    "source_kind": "auto",
+    "last_updated": "2026-08-23",
+    "first_seen": "2026-08-23"
+  },
+  {
     "title": "La suba de costos de Mercado Libre a los vendedores es el argumento comercial para ofrecer fulfillment propio",
     "context": "Desde el 1° de septiembre Mercado Libre aumenta el costo fijo por unidad para productos de ticket bajo y el cargo de envío gratis en los de mayor valor, golpeando justo a los sellers más sensibles a precio en un consumo que ya viene cayendo.",
     "action": "Armar una pieza comercial dirigida a sellers de Mercado Libre de ticket bajo ofreciendo un esquema de fulfillment propio con costos más previsibles que la nueva estructura de la plataforma.",
@@ -89,39 +121,6 @@
       "Vender capacidad reservada para el CyberMonday en lugar de tarifa spot"
     ],
     "id": "op-2a31930e",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "title": "Mapear la exposición de Fixy a un cambio regulatorio en billeteras virtuales",
-    "context": "Diputados pidió investigar a Mercado Pago, Ualá y otras 90 billeteras por tasas de crédito y algoritmos de mora, lo que pone bajo la lupa el negocio de comisiones que procesa buena parte de los cobros del e-commerce argentino. Un cambio regulatorio en los próximos meses podría alterar las condiciones del cobro contra entrega que muchos clientes de Fixy usan hoy.",
-    "action": "Relevar qué billeteras usan los clientes de Fixy para cobrar contra entrega y estimar el impacto de un eventual cambio de tasas antes de que haya una resolución concreta.",
-    "type": "estratégica",
-    "priority": "relevante",
-    "source_url": "https://www.iproup.com/finanzas/70806-diputados-pedido-investigacion-billeteras-mercado-pago-uala-competencia-desleal-tasas-mora-agosto-2026",
-    "linked": [
-      "Diputados piden investigar a Mercado Pago, Ualá y otras 90 billeteras por tasas de crédito y algoritmos discriminatorios",
-      "Compras y pagos agénticos en Argentina (Mercado Pago, Tiendanube, Visa, Mastercard, Pomelo)"
-    ],
-    "id": "op-eb8d9ea9",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "title": "Presencia temprana en el corredor Rosario-Santa Fe",
-    "context": "En menos de tres semanas se concentran Exportlog, el Santa Fe Business Forum y Experiencia Endeavor Rosario, todos apuntando al mismo corredor portuario e industrial del Litoral. Es una señal de que se está armando un polo ferial y comercial propio fuera de Buenos Aires, con actores de comercio exterior y pymes exportadoras que hoy no tienen ese servicio resuelto.",
-    "action": "Designar a alguien de comercial para asistir al menos a uno de los eventos del corredor Rosario-Santa Fe y armar un mapeo de contactos de transporte, almacenamiento y sellers exportadores de la región.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.globalports.com.ar/exportlog-2026-reordena-mapa-logistico/",
-    "linked": [
-      "Rosario estrenó Exportlog, su primera expo de puertos y logística del Litoral",
-      "Santa Fe Business Forum 2026",
-      "Experiencia Endeavor Rosario 2026"
-    ],
-    "id": "op-c9a258ee",
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"

@@ -183,5 +183,38 @@
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
+  },
+  {
+    "title": "Mapear la exposición de Fixy a un cambio regulatorio en billeteras virtuales",
+    "context": "Diputados pidió investigar a Mercado Pago, Ualá y otras 90 billeteras por tasas de crédito y algoritmos de mora, lo que pone bajo la lupa el negocio de comisiones que procesa buena parte de los cobros del e-commerce argentino. Un cambio regulatorio en los próximos meses podría alterar las condiciones del cobro contra entrega que muchos clientes de Fixy usan hoy.",
+    "action": "Relevar qué billeteras usan los clientes de Fixy para cobrar contra entrega y estimar el impacto de un eventual cambio de tasas antes de que haya una resolución concreta.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.iproup.com/finanzas/70806-diputados-pedido-investigacion-billeteras-mercado-pago-uala-competencia-desleal-tasas-mora-agosto-2026",
+    "linked": [
+      "Diputados piden investigar a Mercado Pago, Ualá y otras 90 billeteras por tasas de crédito y algoritmos discriminatorios",
+      "Compras y pagos agénticos en Argentina (Mercado Pago, Tiendanube, Visa, Mastercard, Pomelo)"
+    ],
+    "id": "op-eb8d9ea9",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "title": "Presencia temprana en el corredor Rosario-Santa Fe",
+    "context": "En menos de tres semanas se concentran Exportlog, el Santa Fe Business Forum y Experiencia Endeavor Rosario, todos apuntando al mismo corredor portuario e industrial del Litoral. Es una señal de que se está armando un polo ferial y comercial propio fuera de Buenos Aires, con actores de comercio exterior y pymes exportadoras que hoy no tienen ese servicio resuelto.",
+    "action": "Designar a alguien de comercial para asistir al menos a uno de los eventos del corredor Rosario-Santa Fe y armar un mapeo de contactos de transporte, almacenamiento y sellers exportadores de la región.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.globalports.com.ar/exportlog-2026-reordena-mapa-logistico/",
+    "linked": [
+      "Rosario estrenó Exportlog, su primera expo de puertos y logística del Litoral",
+      "Santa Fe Business Forum 2026",
+      "Experiencia Endeavor Rosario 2026"
+    ],
+    "id": "op-c9a258ee",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
   }
 ]
