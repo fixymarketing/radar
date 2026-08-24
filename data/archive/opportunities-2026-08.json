@@ -216,5 +216,36 @@
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
+  },
+  {
+    "title": "El eCommerce crece en pedidos de menor ticket: la tarifa por envío necesita ajustarse al nuevo mix de productos",
+    "context": "El balance de mitad de año de CACE muestra que el eCommerce argentino creció 21% en órdenes y 22% en unidades, pero la facturación real cayó 5% porque el mix se corrió hacia alimentos, bebidas y herramientas de menor ticket. Eso significa más órdenes y más picking por cada peso de venta.",
+    "action": "Revisar con comercial y operaciones si la estructura tarifaria actual de Fixy compensa el mayor volumen de pedidos chicos, antes de que la rentabilidad por envío se erosione con el nuevo mix de productos.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/08/20/las-ventas-online-crecieron-21-en-un-ano-pero-cayo-la-facturacion-cuales-fueron-los-productos-mas-buscados/",
+    "linked": [
+      "El comercio electrónico argentino creció en volumen pero su facturación cayó 5% en términos reales en el primer semestre"
+    ],
+    "id": "op-0b27a8e4",
+    "source_kind": "auto",
+    "last_updated": "2026-08-21",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "title": "Flota variable coordinada por tecnología en lugar de sumar unidades propias",
+    "context": "La última milla del ecommerce argentino avanza hacia modelos 'uberizados': el desafío ya no es cuántos vehículos tiene un operador sino cómo coordina con tecnología una red variable de conductores y flotas mixtas para sostener picos de demanda sin inmovilizar capital en flota propia.",
+    "action": "Evaluar o pilotear una plataforma de gestión de red de fleteros/conductores freelance para absorber picos estacionales (Día del Niño, CyberMonday) sin inversión en unidades propias adicionales.",
+    "type": "estratégica",
+    "priority": "alta",
+    "source_url": "https://www.ambito.com/negocios/la-logistica-acelera-el-uso-tecnologia-automatizacion-y-modelos-uberizados-sostener-el-boom-del-ecommerce-n6312398",
+    "linked": [
+      "La 'uberización' avanza en la última milla del ecommerce",
+      "Vender capacidad reservada para el CyberMonday en lugar de tarifa spot"
+    ],
+    "id": "op-2a31930e",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
   }
 ]

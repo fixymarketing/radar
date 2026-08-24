@@ -22,6 +22,28 @@
     "first_seen": "2026-08-20"
   },
   {
+    "name": "ElevenLabs Conversational AI (voz)",
+    "vendor": "ElevenLabs",
+    "what_it_is": "Plataforma de agentes de voz con IA que atiende llamadas telefónicas reales con una voz que suena humana, entendiendo y respondiendo en conversación natural las 24 horas.",
+    "what_changed": "A mediados de agosto de 2026 el Gobierno de la Ciudad de Buenos Aires adjudicó una licitación de más de 3.000 millones de pesos para reemplazar parte de su atención telefónica humana por esta tecnología, contratando una suscripción a la plataforma de ElevenLabs junto con un integrador local.",
+    "fixy_use": "Es la primera implementación pública a gran escala de voz IA conversacional en español rioplatense en Argentina, prueba de que la tecnología ya está lista para producción acá. Fixy podría evaluar un piloto acotado para atender por teléfono consultas repetitivas como '¿dónde está mi pedido?' o reprogramar una entrega, derivando a una persona sólo los casos que lo requieran.",
+    "verdict": "probar",
+    "verdict_reason": "Es una categoría de herramienta que la mayoría de las pymes argentinas todavía no conoce y ya está validada en producción a gran escala en el país.",
+    "categories": [
+      "Operaciones",
+      "Automatización",
+      "Logística"
+    ],
+    "pricing_note": "pago — plataforma SaaS por suscripción, sin plan gratuito para uso comercial de llamadas telefónicas",
+    "source_url": "https://seccionciudad.com.ar/2026/08/18/las-llamadas-de-vecinos-al-gobierno-de-la-ciudad-ahora-seran-atendidas-por-ia-que-imita-la-voz-humana/",
+    "published_date": "2026-08-18",
+    "priority": "alta",
+    "id": "ai-elevenlabs-elevenlabs-conversational-ai-voz",
+    "source_kind": "auto",
+    "last_updated": "2026-08-24",
+    "first_seen": "2026-08-24"
+  },
+  {
     "name": "\"Take notes for me\" de Google Meet para reuniones presenciales",
     "vendor": "Google",
     "what_it_is": "Gemini graba una reunión cara a cara desde el celular o la web y genera transcripción, resumen y lista de acciones en un Google Doc que queda en Drive.",
@@ -246,6 +268,28 @@
     "first_seen": "2026-08-22"
   },
   {
+    "name": "Mago, el asistente financiero con IA",
+    "vendor": "Mercado Pago",
+    "what_it_is": "Es la evolución del Asistente Personal de Mercado Pago: un asistente de IA integrado en la app que funciona como un 'banquero personal', con más de 100 funciones para pagar, transferir, categorizar gastos y simular proyecciones financieras por texto o voz.",
+    "what_changed": "El 14 de agosto de 2026 Mercado Pago anunció esta evolución bajo el nombre Mago y la habilitó para todos los usuarios de la app en Argentina, sumando simulación de rendimientos y detección automática de oportunidades dentro de la billetera.",
+    "fixy_use": "Fixy podría usar Mago en su cuenta comercial de Mercado Pago para automatizar el control de cobros por envíos con pago contra entrega, recibir alertas de vencimientos de pagos a transportistas y detectar si conviene mover el efectivo ocioso a un fondo que rinda más, sin armar una planilla manual.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis, ya está activo en una cuenta que Fixy probablemente usa, y ataca una tarea real de gestión de caja diaria.",
+    "categories": [
+      "Gestión del tiempo",
+      "Management",
+      "Análisis"
+    ],
+    "pricing_note": "gratis — incluido dentro de la app de Mercado Pago, sin costo adicional",
+    "source_url": "https://news.mercadolibre.com/asistente-virtual-mercado-pago-argentina-2026",
+    "published_date": "2026-08-14",
+    "priority": "relevante",
+    "id": "ai-mercado-pago-mago-el-asistente-financiero-con-ia",
+    "source_kind": "auto",
+    "last_updated": "2026-08-24",
+    "first_seen": "2026-08-24"
+  },
+  {
     "name": "Google Drive dentro de la Library de ChatGPT",
     "vendor": "OpenAI",
     "what_it_is": "Los archivos de Google Drive se navegan desde la barra lateral de ChatGPT: Docs, Sheets y Slides quedan abiertos al lado de la conversación, incluso a nivel carpeta, y ChatGPT puede actualizar el archivo original con permiso.",
@@ -384,23 +428,23 @@
   {
     "name": "ChatGPT Work en la app de escritorio unificada",
     "vendor": "OpenAI",
-    "what_it_is": "Modo agente de ChatGPT que completa tareas de oficina de punta a punta (armar planillas, presentaciones o documentos) navegando la web y trabajando en apps conectadas, dentro de la nueva app de escritorio de ChatGPT.",
-    "what_changed": "El 9/8/2026 OpenAI discontinuó definitivamente su navegador Atlas y unificó esas funciones dentro de la app de escritorio de ChatGPT (gratuita, para Mac y Windows), que ahora combina en un solo lugar el chat normal, el modo agente 'Work' para tareas de oficina y Codex.",
-    "fixy_use": "El equipo comercial o de atención al cliente podría pedirle que arme un cuadro comparativo de tarifas de couriers o un resumen de reclamos recorriendo varias páginas y documentos conectados, en vez de hacerlo manualmente pestaña por pestaña. Conviene arrancar con una tarea acotada y de bajo riesgo antes de delegarle procesos críticos, porque al ser agéntico conviene supervisar sus pasos.",
-    "verdict": "probar",
-    "verdict_reason": "Es gratuito, ya viene incluido en ChatGPT y automatiza tareas de oficina que hoy se hacen a mano.",
+    "what_it_is": "La app de escritorio de ChatGPT que reúne en un solo lugar el chat, Codex, un navegador con capacidad de navegar solo por internet y el modo 'ChatGPT Work' pensado para tareas de oficina.",
+    "what_changed": "OpenAI discontinuó Atlas, su navegador con IA aparte, el 9 de agosto de 2026, y trasladó esa navegación agéntica (varias pestañas a la vez, completar formularios, iniciar sesión, descargar archivos) al navegador integrado de la app de escritorio de ChatGPT, unificando en un solo producto lo que antes eran productos separados.",
+    "fixy_use": "El equipo de Fixy puede pedirle a ChatGPT que navegue por su cuenta en portales de transportistas o marketplaces para chequear estados de envío, completar formularios repetitivos o bajar reportes, sin instalar un navegador aparte ni copiar y pegar datos a mano entre pestañas.",
+    "verdict": "seguir",
+    "verdict_reason": "Simplifica una tarea operativa concreta, pero conviene ver cómo madura antes de depender de ella para procesos críticos.",
     "categories": [
-      "Productividad",
+      "Operaciones",
       "Automatización",
-      "Análisis"
+      "Productividad"
     ],
-    "pricing_note": "gratis - incluido en la app de escritorio de ChatGPT para Mac y Windows",
+    "pricing_note": "no confirmado — el navegador viene incluido en la app de escritorio de ChatGPT, no está claro si la navegación agéntica completa requiere un plan pago",
     "source_url": "https://help.openai.com/en/articles/20001371-evolving-atlas-into-chatgpt-for-browser-based-agentic-work",
     "published_date": "2026-08-09",
     "priority": "relevante",
     "id": "ai-openai-chatgpt-work-en-la-app-de-escritorio-unificada",
     "source_kind": "auto",
-    "last_updated": "2026-08-20",
+    "last_updated": "2026-08-24",
     "first_seen": "2026-08-20"
   },
   {

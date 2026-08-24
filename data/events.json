@@ -1131,16 +1131,27 @@
     "format": "presencial",
     "category": "Retail",
     "url": "https://nrfbigshow.nrf.com/",
-    "source_url": "https://nrfbigshow.nrf.com/",
-    "description": "Mayor evento mundial de retail: más de 41.000 profesionales y expo masiva de tecnología para tiendas, supply chain y comercio unificado.",
-    "fixy_relevance": "Referencia obligada para entender hacia dónde va el retail y qué exigirán los clientes de Fixy en 2 o 3 años. Concentra delegaciones argentinas y latinoamericanas, lo que suma networking con clientes locales en contexto internacional.",
+    "source_url": "https://nrfbigshow.nrf.com/expo/reverse-logistics",
+    "description": "Novedad confirmada: para la edición 2027, NRF absorbió su evento independiente 'NRF Rev' de logística inversa dentro del Big Show, sumando un Reverse Logistics Stage y un Reverse Logistics Pavilion dedicados dentro de la expo, con foco en devoluciones y recuperación de valor.",
+    "fixy_relevance": "La incorporación de un pabellón y agenda dedicados a logística inversa (devoluciones) dentro del evento de retail más grande del mundo es directamente relevante para Fixy como operador de fulfillment; conviene monitorear proveedores y tendencias de gestión de devoluciones que se presenten ahí.",
     "justification_type": "aprendizaje",
-    "priority": "alta",
+    "priority": "relevante",
     "beyond_90": true,
     "id": "ev-big-nrf-retail-show-2027",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-08-24",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-08-24",
+        "fields": [
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -1498,29 +1509,45 @@
   {
     "scope": "ar",
     "name": "Emprendimiento Argentino 2026 (Final Nacional)",
-    "organizer": "Ministerio de Economía de la Nación (Secretaría de Industria y Desarrollo Productivo)",
+    "organizer": "Secretaría de Industria, Comercio y la Pequeña y Mediana Empresa – Ministerio de Economía de la Nación",
     "date_start": "2026-11-19",
     "date_end": "2026-11-20",
     "date_confirmed": true,
     "date_note": "Corresponde a la final nacional del concurso; las instancias provinciales se desarrollan entre agosto y octubre en distintas provincias del país.",
-    "city": "Buenos Aires",
-    "province": null,
+    "city": "Mar del Plata",
+    "province": "Buenos Aires",
     "country": "Argentina",
     "venue": "Por confirmar",
     "venue_confirmed": false,
     "format": "presencial",
     "category": "Emprendimiento",
-    "url": "https://www.argentina.gob.ar/noticias/el-gobierno-nacional-lanza-emprendimiento-argentino-2026-el-concurso-federal-que-impulsa",
-    "source_url": "https://www.argentina.gob.ar/noticias/el-gobierno-nacional-lanza-emprendimiento-argentino-2026-el-concurso-federal-que-impulsa",
-    "description": "Final nacional del concurso federal que premia emprendimientos tradicionales con modelo innovador y proyectos tecnológicos de todo el país, con mentorías y becas de formación como premio para los ganadores.",
-    "fixy_relevance": "Vidriera de emprendimientos y pymes de base tecnológica de todo el país en expansión, potenciales clientes de servicios de fulfillment y logística eCommerce a medida que escalan sus ventas online.",
+    "url": "https://www.argentina.gob.ar/economia/pymes-emprendedores-y-economia-del-conocimiento/ecosistema-emprendedor/concurso-emprendimiento",
+    "source_url": "https://www.infobrisas.com/noticias/2026/07/11/100921-muro-destaco-la-eleccion-de-mar-del-plata-como-sede-del-concurso-que-premiara-a-los-mejores-emprendimientos-del-pais",
+    "description": "El municipio de General Pueyrredon confirmó que Mar del Plata será la sede de la final nacional del concurso federal Emprendimiento Argentino 2026, que se realizará el 19 y 20 de noviembre luego de cerrarse la etapa de inscripciones el 18 de agosto.",
+    "fixy_relevance": "Reúne a los mejores emprendimientos de todo el país, incluidos proyectos de eCommerce, tecnología y logística: es una oportunidad para detectar potenciales clientes, partners o señales tempranas de negocios digitales en el interior.",
     "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": true,
+    "priority": "relevante",
+    "beyond_90": false,
     "id": "ev-argentino-emprendimiento-final-nacional-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-08-24",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-08-24",
+        "fields": [
+          "organizer",
+          "city",
+          "province",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority",
+          "beyond_90"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -2284,5 +2311,32 @@
     "source_kind": "auto",
     "last_updated": "2026-08-23",
     "first_seen": "2026-08-23"
+  },
+  {
+    "scope": "intl",
+    "name": "PARCEL Forum 2026",
+    "organizer": "PARCEL Media / CloserStill Media",
+    "date_start": "2026-09-14",
+    "date_end": "2026-09-16",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Kissimmee (Orlando), Florida",
+    "province": null,
+    "country": "Estados Unidos",
+    "venue": "Gaylord Palms Resort & Convention Center",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.parcelforum.com/",
+    "source_url": "https://www.e2open.com/events/parcel-forum-2026",
+    "description": "Conferencia estadounidense enfocada exclusivamente en estrategia de envíos de paquetería (parcel): negociación de tarifas con couriers, auditoría de fletes, peso dimensional y gestión de devoluciones, dirigida a áreas de operaciones, transporte y fulfillment.",
+    "fixy_relevance": "Es uno de los pocos eventos globales centrados 100% en la operación de última milla y paquetería —el corazón del negocio de Fixy— con contenido aplicable directo a negociación con couriers y reducción de costos de envío y devoluciones; útil como benchmark aunque no implique viaje inmediato.",
+    "justification_type": "aprendizaje",
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-forum-parcel-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-24",
+    "first_seen": "2026-08-24"
   }
 ]

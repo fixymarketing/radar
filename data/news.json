@@ -505,26 +505,27 @@
   },
   {
     "title": "El Gobierno lanzó la licitación para concesionar por 50 años el Belgrano Cargas, San Martín y Urquiza",
-    "what_happened": "El Gobierno oficializó el llamado a licitación pública nacional e internacional para concesionar por 50 años las líneas de trenes de carga Belgrano, San Martín y Urquiza, que suman 7.594 km de vías en 16 provincias con conexión a puertos y a Brasil, Bolivia, Chile, Paraguay y Uruguay. Las consultas sobre el pliego se reciben hasta el 28 de octubre y las ofertas se abren el 11 de noviembre, con acceso a los beneficios del RIGI para quien invierta en infraestructura ferroviaria.",
-    "why_it_matters": "Es el intento más grande en décadas de recuperar el ferrocarril de cargas, hoy subutilizado frente al camión; si el proceso avanza, en el mediano plazo podría abaratar el transporte de larga distancia hacia y desde el interior del país.",
+    "what_happened": "A través de la Resolución 1350/2026, publicada el 20 de agosto en el Boletín Oficial, el Gobierno autorizó formalmente la Licitación Pública Nacional e Internacional N° 504/2-0004-LPU26 para privatizar el Belgrano Cargas bajo un esquema de \"desintegración vertical\": el material rodante, las vías e inmuebles, y los talleres se concesionarán o rematarán por separado, con contratos de hasta 50 años. Las empresas interesadas podrán presentar consultas hasta el 28 de octubre y ofertas hasta el 11 de noviembre.",
+    "why_it_matters": "El anuncio pasó a tener fechas, reglas y un mecanismo de financiamiento concretos (un fideicomiso alimentado por los remates de bienes), lo que permite dimensionar mejor el eventual impacto en el transporte ferroviario de cargas de mediana y larga distancia.",
     "fixy_impact": null,
-    "category": "Regulación",
+    "category": "Logística",
     "geo": "Argentina",
-    "source_name": "Ámbito Financiero",
-    "source_url": "https://www.ambito.com/economia/privatizaciones-el-gobierno-llamo-licitacion-concesionar-50-anos-el-belgrano-cargas-n6312660",
+    "source_name": "Infobae / Boletín Oficial",
+    "source_url": "https://www.infobae.com/economia/2026/08/20/belgrano-cargas-el-circulo-vicioso-que-promete-romper-el-gobierno-la-comparacion-con-chile-y-otras-claves-de-la-privatizacion/",
     "published_date": "2026-08-20",
-    "priority": "relevante",
+    "priority": "informativo",
     "tags": [
       "Belgrano Cargas",
-      "ferrocarril",
-      "concesión",
-      "infraestructura",
-      "costos logísticos"
+      "ferrocarriles",
+      "privatización",
+      "licitación",
+      "transporte de cargas"
     ],
     "id": "nw-fd8d91857a",
     "source_kind": "auto",
-    "last_updated": "2026-08-22",
-    "first_seen": "2026-08-22"
+    "last_updated": "2026-08-24",
+    "first_seen": "2026-08-22",
+    "updated_flag": true
   },
   {
     "title": "El superávit comercial de julio fue de US$2.115 millones, pero las importaciones cayeron 1,7% interanual",
@@ -617,5 +618,51 @@
     "source_kind": "auto",
     "last_updated": "2026-08-23",
     "first_seen": "2026-08-23"
+  },
+  {
+    "title": "La Ciudad de Buenos Aires habilita pruebas con autos sin conductor y robots de reparto en la vía pública",
+    "what_happened": "La Ciudad de Buenos Aires, mediante la Resolución 170/SECT/26 publicada el 18 de agosto en el Boletín Oficial porteño, creó un régimen experimental para probar en la vía pública vehículos autónomos de nivel 4 SAE y robots terrestres autónomos, incluidos los diseñados para reparto de paquetes (categoría internacional ADD, Automated Delivery Devices). Cada prueba requerirá autorización previa caso por caso y condiciones de seguridad específicas, y los robots podrán circular por veredas, parques, zonas industriales y corredores logísticos.",
+    "why_it_matters": "Es la primera normativa porteña que habilita formalmente experimentar con robots de reparto en la calle, un antecedente regulatorio que puede acelerar en los próximos años la llegada de esta tecnología a la última milla del AMBA.",
+    "fixy_impact": "Vale la pena seguir de cerca los primeros pilotos autorizados: si el régimen avanza, podría abrir una ventana para testear robots de reparto en zonas acotadas de CABA antes que la competencia.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/sociedad/2026/08/21/la-ciudad-de-buenos-aires-habilito-pruebas-de-autos-sin-conductor-y-robots-de-reparto/",
+    "published_date": "2026-08-21",
+    "priority": "relevante",
+    "tags": [
+      "última milla",
+      "robots de reparto",
+      "CABA",
+      "regulación",
+      "vehículos autónomos"
+    ],
+    "id": "nw-b5766a9c5d",
+    "source_kind": "auto",
+    "last_updated": "2026-08-24",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Mercado Libre negocia con la Municipalidad de La Plata su mayor centro logístico de la región",
+    "what_happened": "Mercado Libre inició gestiones con la Municipalidad de La Plata, reuniéndose con el intendente Julio Alak, para instalar un centro de distribución de 12.500 m² en la zona de 31 y 520, con una inversión que generaría unos 900 puestos de trabajo directos e indirectos. El proyecto busca conectar el predio con el Puerto de La Plata, la Ruta 2 y la Autopista La Plata-Buenos Aires para abastecer al AMBA y la provincia; el trámite de habilitación ya fue iniciado ante el municipio.",
+    "why_it_matters": "Es un movimiento distinto y adicional a la inversión ya anunciada en Córdoba: confirma que Mercado Libre sigue densificando su red logística cerca del AMBA, la zona de mayor volumen de última milla del país.",
+    "fixy_impact": "Un nuevo nodo logístico de Mercado Libre pegado al AMBA puede acortar sus tiempos de entrega y subir la vara de servicio que los clientes esperan de cualquier operador, Fixy incluido.",
+    "category": "Fulfillment",
+    "geo": "Argentina",
+    "source_name": "El Día",
+    "source_url": "https://www.eldia.com/politica-y-economia/mercado-libre-con-un-megaproyecto-logistico-para-instalar-en-la-ciudad-politica-y-economia_1787028735",
+    "published_date": "2026-08-18",
+    "priority": "alta",
+    "tags": [
+      "Mercado Libre",
+      "fulfillment",
+      "La Plata",
+      "centro logístico",
+      "AMBA"
+    ],
+    "id": "nw-114576549c",
+    "source_kind": "auto",
+    "last_updated": "2026-08-24",
+    "first_seen": "2026-08-24"
   }
 ]
