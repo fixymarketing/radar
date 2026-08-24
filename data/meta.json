@@ -1,28 +1,49 @@
 {
-  "generated_at": "2026-08-23T12:33:09.096Z",
-  "last_updated_ar": "23/08/2026, 09:33",
-  "date": "2026-08-23",
-  "run_status": "ok",
-  "run_errors": [],
+  "generated_at": "2026-08-24T10:37:44.444Z",
+  "last_updated_ar": "24/08/2026, 07:37",
+  "date": "2026-08-24",
+  "run_status": "error",
+  "run_errors": [
+    {
+      "task": "Novedades",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "Agenda Argentina",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "Radar internacional",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "AI Radar",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "Oportunidades y contenido",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    }
+  ],
   "summary_line": "La equiparación de Correo Argentino con los couriers privados para compras en Shein, Temu y Amazon y el nuevo costo de Meta por su agente de IA en WhatsApp se suman, a días del eCommerce Day Argentina 2026, a la presión de costos que ya trae la suba de Mercado Libre a los vendedores desde septiembre.",
   "counters": {
-    "news_today": 2,
+    "news_today": 0,
     "news_total": 27,
     "events_upcoming": 51,
     "events_ar_upcoming": 31,
     "events_intl_upcoming": 20,
     "events_later": 16,
     "opportunities_open": 8,
-    "opportunities_today": 2,
+    "opportunities_today": 0,
     "ai_today": 0,
     "ai_to_try": 18,
     "content_ideas": 17,
-    "added_news": 2,
+    "added_news": 0,
     "updated_news": 0,
-    "added_events": 7,
-    "updated_events": 1,
+    "added_events": 0,
+    "updated_events": 0,
     "added_ai": 0,
-    "archived": 2,
+    "archived": 1,
     "discarded_quality": 0
   },
   "next_event": {
@@ -30,7 +51,7 @@
     "name": "IAB Now 2026",
     "date_start": "2026-08-25",
     "city": "Ciudad Autónoma de Buenos Aires",
-    "days_away": 2
+    "days_away": 1
   },
   "highlights": [
     {
@@ -68,5 +89,6 @@
       "priority": "relevante",
       "one_liner": "Es el próximo evento en la agenda, en dos días, y marca hacia dónde se mueve la inversión en marketing digital de las marcas que contratan fulfillment."
     }
-  ]
+  ],
+  "summary_from_previous_day": true
 }

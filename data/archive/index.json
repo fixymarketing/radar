@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-23T12:33:09.104Z",
+  "updated_at": "2026-08-24T10:37:44.449Z",
   "files": [
+    {
+      "file": "events-2026.json",
+      "kind": "events",
+      "count": 1
+    },
     {
       "file": "opportunities-2026-08.json",
       "kind": "opportunities",

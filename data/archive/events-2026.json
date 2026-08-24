@@ -1,0 +1,29 @@
+[
+  {
+    "scope": "ar",
+    "name": "ExportLog 2026",
+    "organizer": "Instituto de Desarrollo Regional (IDR) y GlobalPorts",
+    "date_start": "2026-08-19",
+    "date_end": "2026-08-20",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Rosario",
+    "province": "Santa Fe",
+    "country": "Argentina",
+    "venue": "Terminal Fluvial de Rosario",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.globalports.com.ar/events/exportlog-rosario-2026/",
+    "source_url": "https://www.globalports.com.ar/exportlog-2026-reordena-mapa-logistico/",
+    "description": "Primera exposición integral del Litoral y Centro del país dedicada a puertos, logística multimodal y transporte fluvio-marítimo, con más de 80 expositores, conferencias y rondas de negocios; inaugurada por el gobernador de Santa Fe.",
+    "fixy_relevance": "Punto de encuentro con actores portuarios, logísticos y de comercio exterior del corredor Rosario-Santa Fe, útil para explorar alianzas de transporte y almacenamiento fuera del AMBA.",
+    "justification_type": null,
+    "priority": "alta",
+    "beyond_90": false,
+    "id": "ev-exportlog-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  }
+]
