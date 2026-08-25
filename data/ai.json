@@ -161,23 +161,23 @@
   {
     "name": "Meta Business Agent (WhatsApp AI)",
     "vendor": "Meta",
-    "what_it_is": "Es el agente de IA nativo de Meta integrado en WhatsApp Business, que responde consultas, recomienda productos y gestiona conversaciones con clientes de forma automática.",
-    "what_changed": "Desde el 1° de agosto de 2026 Meta empezó a cobrar por su uso: 2 dólares por cada millón de tokens (entre operación del agente y entrega de mensajes), lo que equivale a unos 4 o 5 centavos de dólar por conversación. Antes era gratis mientras Meta medía el consumo real, y la tarifa es global, sin diferencias para Argentina.",
-    "fixy_use": "Si Fixy o algún cliente evalúa usar el agente nativo de Meta para atención por WhatsApp (por ejemplo, consultas de seguimiento de pedidos), hay que sumar este costo variable a la cuenta: con volumen alto puede dejar de ser gratis en la práctica. Conviene comparar contra un bot propio armado con n8n u otra herramienta antes de escalarlo, y tener en cuenta que desde el 1° de octubre de 2026 Meta también empieza a cobrar los mensajes de servicio dentro de la ventana de 24 horas.",
+    "what_it_is": "El agente de IA de Meta que responde consultas de clientes y puede cerrar ventas de forma automática dentro de WhatsApp, Messenger e Instagram, aprendiendo del catálogo, la web y las conversaciones previas del negocio.",
+    "what_changed": "Desde el 1° de agosto de 2026 Meta empezó a cobrar su uso: pasó de ser gratis durante julio (ventana de prueba) a un esquema por tokens de 2 dólares cada millón, que incluye tanto el procesamiento de IA como el envío del mensaje. Una conversación típica consume entre 20.000 y 25.000 tokens, es decir unos 4 a 5 centavos de dólar por interacción.",
+    "fixy_use": "Si Fixy evalúa usar este agente para responder consultas de \"dónde está mi pedido\" en WhatsApp, el costo por interacción ya es un dato de negocio concreto que hay que sumar antes de escalarlo: con el volumen de atención al cliente de un operador de eCommerce, el gasto mensual puede crecer rápido si el agente no se acota a preguntas simples y repetitivas. Conviene simular el costo mensual con el volumen real de consultas de Fixy antes de decidir si conviene frente a un flujo propio en n8n con un modelo más económico.",
     "verdict": "seguir",
-    "verdict_reason": "No es una función nueva sino un cambio de costos real que conviene monitorear antes de escalar su uso en atención al cliente.",
+    "verdict_reason": "El cambio de precio es el dato clave para decidir si conviene adoptarlo, pero conviene primero simular el costo con volumen real antes de comprometerse.",
     "categories": [
       "Comercial",
-      "Operaciones",
-      "Automatización"
+      "Automatización",
+      "Operaciones"
     ],
-    "pricing_note": "pago | USD 2 por millón de tokens (aprox. 4-5 centavos por conversación) desde el 1° de agosto de 2026, tarifa global sin diferencias por país",
+    "pricing_note": "pago — 2 USD por millón de tokens desde el 1/8/2026 (julio fue gratis como período de prueba)",
     "source_url": "https://www.techtimes.com/articles/320787/20260716/meta-business-agent-billing-starts-aug-1-free-test-window-ends-days.htm",
     "published_date": "2026-08-01",
     "priority": "alta",
     "id": "ai-meta-meta-business-agent-whatsapp-ai",
     "source_kind": "auto",
-    "last_updated": "2026-08-23",
+    "last_updated": "2026-08-25",
     "first_seen": "2026-08-20"
   },
   {
@@ -669,6 +669,27 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "ElevenLabs Dubbing v2 API",
+    "vendor": "ElevenLabs",
+    "what_it_is": "Una API de doblaje automático que traduce audio o video a otro idioma conservando la voz, la emoción y el ritmo de quien habla, con soporte para más de 90 idiomas y sincronización de inicios y finales de frase con el audio original.",
+    "what_changed": "ElevenLabs liberó el 10 de agosto de 2026 el acceso vía API a su modelo Dubbing v2 (presentado en mayo con interfaz propia), permitiendo integrarlo directamente en productos y flujos de trabajo propios en vez de usar solo la web de ElevenLabs.",
+    "fixy_use": "Le sirve al equipo de contenido si Fixy produce videos explicativos o institucionales (onboarding de nuevos clientes, tutoriales de uso del panel de seguimiento) y quiere ofrecer versiones en otro idioma —por ejemplo portugués, para clientes que venden a Brasil vía Mercado Libre Full— sin recontratar locución. No es una prioridad operativa, pero es una herramienta barata de tener anotada para cuando surja esa necesidad puntual de contenido multilingüe.",
+    "verdict": "no_prioritario",
+    "verdict_reason": "Es útil solo si Fixy necesita contenido en otro idioma, algo que hoy no es una necesidad central del negocio.",
+    "categories": [
+      "Contenido",
+      "Marketing"
+    ],
+    "pricing_note": "pago — por uso vía API, consumo de créditos ElevenLabs según minutos procesados",
+    "source_url": "https://elevenlabs.io/blog/dubbing-api",
+    "published_date": "2026-08-10",
+    "priority": "informativo",
+    "id": "ai-elevenlabs-elevenlabs-dubbing-v2-api",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
   },
   {
     "name": "MCP 2026-07-28: el protocolo pasa a ser stateless",

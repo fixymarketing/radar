@@ -1525,7 +1525,7 @@
   {
     "scope": "intl",
     "name": "INTRA-LOG Expo South America 2026",
-    "organizer": "INTERLINK Exhibitions, en alianza con Grupo IMAM",
+    "organizer": "Feiras & Negócios",
     "date_start": "2026-09-15",
     "date_end": "2026-09-17",
     "date_confirmed": true,
@@ -1533,26 +1533,37 @@
     "city": "São Paulo",
     "province": null,
     "country": "Brasil",
-    "venue": "Expo Center Norte (Pavilhão Azul)",
+    "venue": "Expo Center Norte, Pavilhão Azul",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
     "url": "https://intralogexpo.com.br/",
     "source_url": "https://logweb.com.br/intra-log-expo-2026-automacao-logistica-intralogistica-sao-paulo/",
-    "description": "Feria de intralogística y automación de Sudamérica, en su 3ra edición: robótica, automatización de centros de distribución, operaciones de e-commerce y supply chain, con más de 8.000 visitantes y 400 marcas esperadas.",
-    "fixy_relevance": "Es el evento de referencia en LATAM sobre automatización de almacenes y operaciones de fulfillment/e-commerce, justo el core de negocio de Fixy; permite relevar tecnología aplicable a los CDs propios y hacer networking con proveedores y operadores logísticos regionales.",
+    "description": "Tercera edición de la feria de automatización logística e intralogística de Brasil, que este año suma una sección de packaging; se esperan más de 8.000 visitantes y 400 marcas nacionales e internacionales.",
+    "fixy_relevance": "Vidriera de tecnología de automatización de almacenes, picking y fulfillment; relevante para evaluar proveedores e innovación operativa que ayuden a bajar costos de almacenamiento.",
     "justification_type": "aprendizaje",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-america-intra-log-south-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-08-25",
+        "fields": [
+          "organizer",
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
     "name": "Latam Retail Show 2026",
-    "organizer": "Gouvêa Experience",
+    "organizer": "Sindilojas-SP / Latam Retail Show",
     "date_start": "2026-09-15",
     "date_end": "2026-09-17",
     "date_confirmed": true,
@@ -1565,16 +1576,27 @@
     "format": "presencial",
     "category": "Retail",
     "url": "https://latamretailshow.com/",
-    "source_url": "https://cndl.org.br/varejosa/latam-retail-show-coloca-servicos-e-inteligencia-artificial-no-centro-da-transformacao-do-varejo/",
-    "description": "11ª edición del principal evento de retail y consumo de América Latina, con foco este año en \"Everything as a Service\" potenciado por IA; reúne a retailers, marketplaces, operadores logísticos e industria con más de 200 speakers.",
-    "fixy_relevance": "Punto de encuentro de retailers y marketplaces de la región que tercerizan fulfillment y última milla; oportunidad de generación de negocios y benchmarking sobre tendencias de retail que impactan directamente la demanda de servicios logísticos de Fixy.",
+    "source_url": "https://sindilojas-sp.org.br/eventos/15-a-17-09-2026-latam-retail-show-2026/",
+    "description": "11ª edición del mayor evento de retail de América Latina, con foco en contenido, networking y generación de negocios; se esperan unos 4.000 congresistas y más de 200 oradores.",
+    "fixy_relevance": "Reúne a retailers y marcas de la región que evalúan proveedores logísticos; oportunidad de networking comercial y generación de negocios con potenciales clientes de fulfillment y última milla.",
     "justification_type": "negocios",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-latam-retail-show-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-08-25",
+        "fields": [
+          "organizer",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -2107,21 +2129,32 @@
     "city": "Mar del Plata",
     "province": "Buenos Aires",
     "country": "Argentina",
-    "venue": "Sheraton Mar del Plata Hotel (actividades técnicas en zona portuaria, Av. Alem 4221)",
-    "venue_confirmed": false,
+    "venue": "Sheraton Mar del Plata Hotel",
+    "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
     "url": "https://www.expofip.com/",
     "source_url": "https://www.0223.com.ar/nota/2026-6-25-12-3-0-lanzan-la-primera-feria-internacional-portuaria-argentina-sera-en-mar-del-plata",
-    "description": "Primera edición de una feria portuaria internacional en Argentina, impulsada por la Fundación Desarrollo Portuario Argentino, con más de 80 empresas expositoras y foco en infraestructura portuaria, cadenas logísticas, industria naval e innovación tecnológica aplicada al comercio exterior.",
-    "fixy_relevance": "Espacio de networking con actores de la logística del Atlántico y el comercio exterior; útil para entender cómo evolucionan las cadenas de importación que después impactan en el fulfillment y los tiempos de entrega del eCommerce.",
+    "description": "Primera edición de la Feria Internacional Portuaria Argentina, impulsada por la Fundación Desarrollo Portuario Argentino en el Sheraton Mar del Plata Hotel. Reúne a más de 1.500 profesionales y más de 80 empresas expositoras vinculadas a puertos, logística, energía, industria naval y pesca, con dos días de conferencias y networking y un tercer día de recorridas técnicas por terminal logísticas y astilleros.",
+    "fixy_relevance": "Reúne a referentes de logística y cadena de suministro del corredor Atlántico; útil para relevar tendencias de infraestructura portuaria y multimodalidad que afectan los costos y tiempos de transporte de larga distancia que usa Fixy para abastecer sus centros de fulfillment.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-argentina-feria-fip-internacional-portuaria-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-23",
-    "first_seen": "2026-08-23"
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-23",
+    "change_log": [
+      {
+        "date": "2026-08-25",
+        "fields": [
+          "venue",
+          "venue_confirmed",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -2215,21 +2248,33 @@
     "city": "São Paulo",
     "province": null,
     "country": "Brasil",
-    "venue": "São Paulo Expo",
+    "venue": "São Paulo Expo (Rodovia dos Imigrantes, km 1,5, Vila Água Funda)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Marketplaces",
     "url": "https://mercadolivreexperience.mercadolivre.com.br/",
     "source_url": "https://www.sympla.com.br/evento/mercado-livre-experience-2026/3372991",
-    "description": "Décima edición del evento insignia de Mercado Livre en Brasil, con foco en retail digital, marketplaces, medios de pago y logística de última milla, dirigido a vendedores y a todo el ecosistema del comercio digital de la región.",
-    "fixy_relevance": "Mercado Libre es el actor de referencia (y en parte competidor de fulfillment) para cualquier operador logístico de eCommerce en LATAM; entender en la mayor economía de la región sus anuncios de logística, fulfillment propio y reglas para vendedores permite anticipar cambios que luego llegan a la operación argentina.",
-    "justification_type": "aprendizaje",
-    "priority": "alta",
+    "description": "Edición aniversario de 10 años del mayor evento del ecosistema de venta online de América Latina, organizado por Mercado Livre, con foco en IA, aceleración de ventas y logística para eCommerce.",
+    "fixy_relevance": "Concentra a miles de sellers, marcas y proveedores de tecnología y logística de la región en dos días; oportunidad concreta de networking comercial y sponsorship para un operador de fulfillment y última milla.",
+    "justification_type": "networking",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-experience-livre-mercado-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-23",
-    "first_seen": "2026-08-23"
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-23",
+    "change_log": [
+      {
+        "date": "2026-08-25",
+        "fields": [
+          "venue",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -2311,5 +2356,86 @@
     "source_kind": "auto",
     "last_updated": "2026-08-24",
     "first_seen": "2026-08-24"
+  },
+  {
+    "scope": "ar",
+    "name": "Food Delivery Day 2026",
+    "organizer": "Atomic Kitchens",
+    "date_start": "2026-11-12",
+    "date_end": "2026-11-12",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "country": "Argentina",
+    "venue": "Centro Costa Salguero",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.fooddeliveryday.com.ar/",
+    "source_url": "https://mercado.com.ar/agenda/food-delivery-day-2026-concentrara-en-buenos-aires-a-actores-de-la-gastronomia-digital/",
+    "description": "Segunda edición del evento sobre delivery y gastronomía digital, organizado por Atomic Kitchens con Mercado Libre Restaurantes y Rappi como sponsors principales. Convoca a dueños de restaurantes, dark kitchens, apps de delivery y responsables de logística de última milla para discutir rentabilidad y operación del reparto.",
+    "fixy_relevance": "Foco directo en última milla y logística de reparto urbano, el núcleo del negocio de Fixy; sirve para relevar benchmarks de tiempos de entrega, modelos de dark kitchens y expectativas de servicio que también se trasladan al eCommerce general.",
+    "justification_type": null,
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-day-delivery-food-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "scope": "ar",
+    "name": "eCommerce Go Mendoza 2026",
+    "organizer": "CACE (Cámara Argentina de Comercio Electrónico)",
+    "date_start": "2026-09-17",
+    "date_end": "2026-09-17",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Mendoza",
+    "province": "Mendoza",
+    "country": "Argentina",
+    "venue": "Hilton Mendoza Hotel",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "eCommerce",
+    "url": "https://cace.org.ar/prensa/llega-el-ecommerce-go-a-mendoza-tendencias-y-oportunidades-de-negocio-en-el-evento-federal-mas-importante-de-la-economia-digital/",
+    "source_url": "https://www.eventbrite.com.ar/e/ecommerce-go-mendoza-2026-tickets-1997982893619",
+    "description": "Décima edición regional del ciclo eCommerce Go de CACE, con foco en rentabilidad, omnicanalidad, integración de marketplaces e inteligencia artificial aplicada a comercios digitales de la región de Cuyo.",
+    "fixy_relevance": "Espacio de networking con pymes y marcas de Cuyo que venden online; oportunidad para que Fixy identifique potenciales clientes de fulfillment y última milla fuera del AMBA.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-ecommerce-go-mendoza-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "scope": "intl",
+    "name": "The Logistics World Summit & Expo 2027",
+    "organizer": "T21 / The Logistics World",
+    "date_start": "2027-04-07",
+    "date_end": "2027-04-08",
+    "date_confirmed": false,
+    "date_note": "Fecha publicada por directorios de ferias (neventum, ntradeshows, showsbee, vendelux) para la edición 2027; no se pudo verificar en el sitio oficial (expo.thelogisticsworld.com bloqueó el acceso automatizado). Confirmar antes de organizar viaje.",
+    "city": "Ciudad de México",
+    "province": null,
+    "country": "México",
+    "venue": "Centro Banamex (Av. del Conscripto 311, CDMX)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://expo.thelogisticsworld.com/",
+    "source_url": "https://www.ntradeshows.com/logistic-summit-expo-2/",
+    "description": "Feria y summit líder en logística, transporte y comercio internacional de México y Centroamérica, organizada por el grupo T21, con más de 650 expositores y unos 26.000 profesionales esperados.",
+    "fixy_relevance": "Es el mayor punto de encuentro de la industria logística mexicana y centroamericana: útil para evaluar expansión regional, conocer proveedores de tecnología de última milla y fulfillment, y hacer benchmarking operativo fuera de Argentina.",
+    "justification_type": "expansión regional",
+    "priority": "relevante",
+    "beyond_90": true,
+    "id": "ev-logistics-summit-world-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
   }
 ]

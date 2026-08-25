@@ -1,5 +1,51 @@
 [
   {
+    "title": "Evaluar un modelo de flota variable (\"uberizada\") para la última milla",
+    "context": "La logística argentina avanza hacia redes de conductores y flotas mixtas coordinadas por tecnología, en lugar de flota propia fija, como forma de sostener picos de demanda sin inmovilizar capital. Es la misma lógica que ya puso a prueba el Día del Niño y el feriado de San Martín, cuando la ventana de despacho se achicó.",
+    "action": "Armar un piloto acotado con un pool de conductores externos coordinados por app para los próximos picos de demanda (CyberMonday, Navidad), sin ampliar la flota fija de Fixy, y medir el impacto en costo por envío y cumplimiento de plazos.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.ambito.com/negocios/la-logistica-acelera-el-uso-tecnologia-automatizacion-y-modelos-uberizados-sostener-el-boom-del-ecommerce-n6312398",
+    "linked": [
+      "La 'uberización' avanza en la última milla del ecommerce",
+      "Día del Niño y feriado de San Martín pusieron a prueba la última milla"
+    ],
+    "id": "op-a5a74ff3",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "Ofrecer entrega más rápida que Shein como argumento contra la importación directa",
+    "context": "ARCA equiparó al Correo Argentino con los couriers privados para las compras en Shein, Temu y Amazon, lo que facilita y acelera el ingreso de compras individuales del exterior y presiona al retail y al eCommerce local de productos importables.",
+    "action": "Armar un pitch comercial dirigido a vendedores locales que compiten con esas plataformas, destacando el tiempo de entrega de Fixy dentro del país frente a los plazos de envío internacional como diferencial de venta.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.eldestapeweb.com/economia/arca-reglas-compras-shein-temu-amazon-202681941530",
+    "linked": [
+      "ARCA equipara al Correo Argentino con los couriers privados para las compras en Shein, Temu y Amazon"
+    ],
+    "id": "op-0c139d86",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "Usar el crecimiento del 39,9% del eCommerce como argumento ante retailers que todavía dudan en digitalizarse",
+    "context": "El consumo masivo cayó en julio por séptimo mes consecutivo mientras el comercio electrónico creció 39,9%, ampliando la brecha entre el canal físico y el online. Es un dato contundente para convencer a comercios que todavía dudan en invertir en logística para su canal digital.",
+    "action": "Incorporar este dato en el material comercial de Fixy para la prospección de clientes que operan solo en el canal físico, como evidencia de que el eCommerce es hoy el canal de crecimiento real.",
+    "type": "marketing",
+    "priority": "informativo",
+    "source_url": "https://www.lanacion.com.ar/economia/el-consumo-masivo-volvio-a-caer-en-julio-aunque-modero-la-baja-con-respecto-al-mes-anterior-nid21082026/",
+    "linked": [
+      "El consumo masivo cayó en julio por séptimo mes consecutivo, pero el comercio electrónico creció 39,9%"
+    ],
+    "id": "op-75a4af37",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
+  },
+  {
     "title": "Asegurar condiciones de depósito en el AMBA antes de que la demanda de Mercado Libre en La Plata presione los alquileres",
     "context": "Mercado Libre negocia con la Municipalidad de La Plata la instalación de su mayor centro logístico de la región, un movimiento adicional a la inversión ya anunciada en Córdoba. Esa expansión densifica todavía más la demanda de naves industriales cerca del AMBA, la zona de mayor volumen de última milla del país, lo que puede empujar hacia arriba el costo de los depósitos disponibles en esa franja.",
     "action": "Revisar ahora los contratos de alquiler de los depósitos de Fixy en el AMBA y evaluar renegociar o extender condiciones antes de que la demanda adicional de Mercado Libre en La Plata presione los precios de la zona.",
@@ -78,52 +124,5 @@
     "source_kind": "auto",
     "last_updated": "2026-08-22",
     "first_seen": "2026-08-22"
-  },
-  {
-    "title": "El récord de importaciones de indumentaria crea un segmento de importadores-vendedores sin logística propia",
-    "context": "Las importaciones de bienes de consumo tocaron un récord semestral con indumentaria +86%, lo que suma una masa nueva de importadores-vendedores que necesitan nacionalizar, almacenar y distribuir producto sin tener experiencia ni infraestructura logística.",
-    "action": "Diseñar una oferta de onboarding para importadores nuevos (nacionalización a almacén, primer despacho) y llevarla a los canales donde ese segmento se informa (cámaras de comercio exterior, gestorías de importación).",
-    "type": "nueva línea de negocio",
-    "priority": "relevante",
-    "source_url": "https://www.ambito.com/economia/record-importaciones-bienes-consumo-que-productos-registraron-subas-530-n6311906",
-    "linked": [
-      "Récord de importaciones de bienes de consumo: US$5.362 millones en el primer semestre, con indumentaria +86%"
-    ],
-    "id": "op-fe4be106",
-    "source_kind": "auto",
-    "last_updated": "2026-08-22",
-    "first_seen": "2026-08-22"
-  },
-  {
-    "title": "Tres eventos independientes activan el NOA al mismo tiempo: ventana de entrada temprana",
-    "context": "EXPOCON en Tucumán, Experiencia Endeavor NOA en Jujuy y Fintech Meetups en Salta se concentran en las mismas semanas de septiembre, una señal de que el ecosistema de comercio digital del NOA se está moviendo en simultáneo y todavía sin competencia logística instalada.",
-    "action": "Evaluar presencia comercial en al menos uno de estos tres eventos del NOA para relevar demanda de fulfillment y última milla en la región antes de que otros operadores lo hagan.",
-    "type": "estratégica",
-    "priority": "relevante",
-    "source_url": "https://idep.gov.ar/expocon-tucuman-2026/",
-    "linked": [
-      "EXPOCON 2026",
-      "Experiencia Endeavor NOA 2026",
-      "Fintech Meetups 2026 – Salta"
-    ],
-    "id": "op-a52d4a9d",
-    "source_kind": "auto",
-    "last_updated": "2026-08-22",
-    "first_seen": "2026-08-22"
-  },
-  {
-    "title": "Las franquicias que digitalizan sus canales de venta son una cantera de leads B2B poco explotada",
-    "context": "Expo Franquicias Argentina 2026 (9 y 10 de septiembre, La Rural) reúne a marcas franquiciantes e inversores que buscan escalar canales online. Las cadenas con múltiples puntos de venta que digitalizan sus ventas necesitan fulfillment y última milla multipunto, un perfil de cliente que Fixy todavía no prospecta de forma sistemática.",
-    "action": "Armar una oferta de fulfillment pensada para redes de franquicias (múltiples puntos de retiro, stock distribuido por local) y usar Expo Franquicias Argentina 2026 como canal de prospección comercial directa.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://aamf.com.ar/evento/",
-    "linked": [
-      "Expo Franquicias Argentina 2026"
-    ],
-    "id": "op-446bcb3c",
-    "source_kind": "auto",
-    "last_updated": "2026-08-21",
-    "first_seen": "2026-08-21"
   }
 ]

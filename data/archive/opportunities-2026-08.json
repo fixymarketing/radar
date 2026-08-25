@@ -247,5 +247,52 @@
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
+  },
+  {
+    "title": "El récord de importaciones de indumentaria crea un segmento de importadores-vendedores sin logística propia",
+    "context": "Las importaciones de bienes de consumo tocaron un récord semestral con indumentaria +86%, lo que suma una masa nueva de importadores-vendedores que necesitan nacionalizar, almacenar y distribuir producto sin tener experiencia ni infraestructura logística.",
+    "action": "Diseñar una oferta de onboarding para importadores nuevos (nacionalización a almacén, primer despacho) y llevarla a los canales donde ese segmento se informa (cámaras de comercio exterior, gestorías de importación).",
+    "type": "nueva línea de negocio",
+    "priority": "relevante",
+    "source_url": "https://www.ambito.com/economia/record-importaciones-bienes-consumo-que-productos-registraron-subas-530-n6311906",
+    "linked": [
+      "Récord de importaciones de bienes de consumo: US$5.362 millones en el primer semestre, con indumentaria +86%"
+    ],
+    "id": "op-fe4be106",
+    "source_kind": "auto",
+    "last_updated": "2026-08-22",
+    "first_seen": "2026-08-22"
+  },
+  {
+    "title": "Tres eventos independientes activan el NOA al mismo tiempo: ventana de entrada temprana",
+    "context": "EXPOCON en Tucumán, Experiencia Endeavor NOA en Jujuy y Fintech Meetups en Salta se concentran en las mismas semanas de septiembre, una señal de que el ecosistema de comercio digital del NOA se está moviendo en simultáneo y todavía sin competencia logística instalada.",
+    "action": "Evaluar presencia comercial en al menos uno de estos tres eventos del NOA para relevar demanda de fulfillment y última milla en la región antes de que otros operadores lo hagan.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://idep.gov.ar/expocon-tucuman-2026/",
+    "linked": [
+      "EXPOCON 2026",
+      "Experiencia Endeavor NOA 2026",
+      "Fintech Meetups 2026 – Salta"
+    ],
+    "id": "op-a52d4a9d",
+    "source_kind": "auto",
+    "last_updated": "2026-08-22",
+    "first_seen": "2026-08-22"
+  },
+  {
+    "title": "Las franquicias que digitalizan sus canales de venta son una cantera de leads B2B poco explotada",
+    "context": "Expo Franquicias Argentina 2026 (9 y 10 de septiembre, La Rural) reúne a marcas franquiciantes e inversores que buscan escalar canales online. Las cadenas con múltiples puntos de venta que digitalizan sus ventas necesitan fulfillment y última milla multipunto, un perfil de cliente que Fixy todavía no prospecta de forma sistemática.",
+    "action": "Armar una oferta de fulfillment pensada para redes de franquicias (múltiples puntos de retiro, stock distribuido por local) y usar Expo Franquicias Argentina 2026 como canal de prospección comercial directa.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://aamf.com.ar/evento/",
+    "linked": [
+      "Expo Franquicias Argentina 2026"
+    ],
+    "id": "op-446bcb3c",
+    "source_kind": "auto",
+    "last_updated": "2026-08-21",
+    "first_seen": "2026-08-21"
   }
 ]

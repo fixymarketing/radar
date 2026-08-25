@@ -160,27 +160,28 @@
     "first_seen": "2026-08-19"
   },
   {
-    "title": "La inflación de julio fue 2,1% y el mercado espera 1,8% para agosto",
-    "what_happened": "El INDEC informó una inflación de 2,1% en julio de 2026, con 19,3% acumulado en el año y cerca de 33% interanual. Recreación y cultura lideró (+5,0%); indumentaria fue el único rubro en baja (-1,3%). El REM del BCRA proyecta 1,8% para agosto.",
-    "why_it_matters": "Con inflación de un dígito bajo mensual y costos logísticos subiendo 2,25%, la industria pierde capacidad de trasladar aumentos a tarifa.",
-    "fixy_impact": "Escenario de márgenes ajustados: los ajustes tarifarios por índice ya no se absorben tan fácil como en años de inflación alta, por lo que la eficiencia operativa pasa a ser la única palanca de rentabilidad.",
+    "title": "La inflación de julio fue 2,1% y el mercado ahora espera 1,6% para agosto",
+    "what_happened": "Las consultoras privadas recortaron su proyección de inflación para agosto y ahora la ubican cerca de 1,6%, por debajo del 1,8% que se esperaba semanas atrás y del 2,1% de julio. Fundación Libertad y Progreso calculó 1,4% para la tercera semana del mes, Orlando Ferreres y C&T Asesores Económicos coinciden en 1,5% y Analytica proyecta 1,8%, con el rango general entre 1,6% y 1,9%. El dato oficial del INDEC se conoce el 10 de septiembre.",
+    "why_it_matters": "Sería uno de los registros mensuales más bajos del año y reforzaría la desaceleración de precios, con impacto directo en la evolución de costos operativos (combustible, insumos, salarios) del sector logístico.",
+    "fixy_impact": "Una inflación más baja de lo previsto alivia la presión sobre los costos operativos y puede facilitar la planificación de tarifas y contratos con clientes en el corto plazo.",
     "category": "Consumo",
     "geo": "Argentina",
-    "source_name": "La Nación",
-    "source_url": "https://www.lanacion.com.ar/economia/inflacion-de-julio-cual-fue-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-este-ano-nid13082026/",
-    "published_date": "2026-08-13",
+    "source_name": "Infobae / La Nación / El Cronista",
+    "source_url": "https://www.infobae.com/economia/2026/08/24/inflacion-de-agosto-las-consultoras-recortaron-sus-proyecciones-y-ahora-estiman-que-podria-ubicarse-cerca-del-16/",
+    "published_date": "2026-08-24",
     "priority": "relevante",
     "tags": [
-      "INDEC",
       "inflación",
-      "IPC",
-      "REM",
-      "tarifas"
+      "consultoras",
+      "costos",
+      "precios",
+      "macroeconomía"
     ],
     "id": "nw-78ca045e85",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-19",
+    "updated_flag": true
   },
   {
     "title": "VTEX reporta demanda más débil en Argentina y desacelera su guía de GMV para el segundo semestre",
@@ -618,5 +619,51 @@
     "source_kind": "auto",
     "last_updated": "2026-08-24",
     "first_seen": "2026-08-24"
+  },
+  {
+    "title": "El consumo masivo cayó en julio por séptimo mes consecutivo, pero el comercio electrónico creció 39,9%",
+    "what_happened": "Según datos de la consultora Scentia difundidos por La Nación, el consumo masivo cayó 2,6% interanual en julio, la séptima baja mensual consecutiva, aunque moderó el ritmo de caída frente a junio (+4,2% mensual). Por canal, los supermercados bajaron 0,6%, los autoservicios independientes 1,2% y los almacenes y kioscos 6,1%, mientras que las farmacias crecieron 2,7% y el comercio electrónico se disparó 39,9% interanual.",
+    "why_it_matters": "Confirma que, aun con el consumo masivo estancado y siete meses seguidos en baja, el canal online sigue siendo el más dinámico de todos: la brecha entre el desempeño de los canales físicos y el eCommerce se profundiza.",
+    "fixy_impact": "Es un dato a favor del negocio de Fixy: mientras el consumo físico retrocede, el canal online crece muy por encima del resto, lo que sostiene la demanda de fulfillment y última milla para marcas que priorizan la venta digital.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "La Nación (datos de Scentia)",
+    "source_url": "https://www.lanacion.com.ar/economia/el-consumo-masivo-volvio-a-caer-en-julio-aunque-modero-la-baja-con-respecto-al-mes-anterior-nid21082026/",
+    "published_date": "2026-08-21",
+    "priority": "alta",
+    "tags": [
+      "consumo masivo",
+      "eCommerce",
+      "Scentia",
+      "retail",
+      "canales de venta"
+    ],
+    "id": "nw-de93b68e05",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "El eCommerce Day Argentina 2026 llega a su edición número 200 el jueves 27 de agosto",
+    "what_happened": "El eCommerce Day Argentina 2026, organizado por el eCommerce Institute, se realiza el jueves 27 de agosto en el Centro de Convenciones de Buenos Aires, en el marco de los 20 años del Tour y la edición número 200 del evento. Incluye la entrega del eCommerce Award Argentina 2026 en 14 categorías renovadas —entre ellas logística, marketplaces, medios de pago e IA—, con votación pública final abierta desde el 25 de agosto y hasta el 27 a las 12 hs. Al día siguiente, viernes 28, se suma el Retail & Commerce Discovery con visitas técnicas a operaciones reales de empresas de tecnología, logística, home & deco, farmacia y pagos.",
+    "why_it_matters": "Es el mayor encuentro anual del ecosistema digital argentino y un termómetro de las tendencias que van a marcar la agenda del sector: comercio unificado, retail media, logística inteligente y fulfillment, entre otros.",
+    "fixy_impact": "El Roadshow incluye visitas a operaciones reales de logística, y el Award tiene categoría de logística: es una posible oportunidad de networking o de postulación para Fixy.",
+    "category": "eCommerce",
+    "geo": "Argentina",
+    "source_name": "eCommerce Day Argentina / eCommerce Institute",
+    "source_url": "https://ecommerceday.org.ar/2026/",
+    "published_date": "2026-08-21",
+    "priority": "informativo",
+    "tags": [
+      "eCommerce Day",
+      "eCommerce Institute",
+      "eventos",
+      "eCommerce Award",
+      "tendencias"
+    ],
+    "id": "nw-0d59c0b8ec",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
   }
 ]

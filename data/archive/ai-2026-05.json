@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Claude for Small Business",
+    "vendor": "Anthropic",
+    "what_it_is": "Un paquete de conectores y 15 flujos de trabajo listos para usar dentro de Claude Cowork, pensado específicamente para empresas chicas: se conecta con QuickBooks, PayPal, HubSpot, Canva, Docusign, Google Workspace y Microsoft 365 para automatizar tareas de finanzas, operaciones, ventas, marketing, RR.HH. y atención al cliente sin necesitar a nadie técnico.",
+    "what_changed": "Anthropic lo lanzó el 13 de mayo de 2026 como respuesta a que la adopción de IA en pymes viene más lenta que en empresas grandes porque las herramientas no están pensadas para su forma de trabajar; se activa como un toggle dentro de Claude Cowork, sin costo adicional sobre un plan pago de Claude.",
+    "fixy_use": "Fixy podría activarlo para automatizar tareas concretas de back office con un equipo chico: conciliar pagos de QuickBooks/PayPal, armar reportes de management a partir de planillas de Google Workspace, o preparar respuestas de atención al cliente sin depender de un desarrollador. Al no sumar costo extra sobre un plan de Claude ya pagado, es barato de probar con un caso puntual (por ejemplo, automatizar el armado de un reporte semanal de operaciones) antes de decidir si vale la pena ampliarlo.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis para quien ya paga un plan de Claude y ataca justo el problema de un equipo chico sin recursos técnicos para automatizar procesos.",
+    "categories": [
+      "Automatización",
+      "Operaciones",
+      "Management"
+    ],
+    "pricing_note": "freemium — incluido sin costo extra dentro de cualquier plan pago de Claude",
+    "source_url": "https://www.anthropic.com/news/claude-for-small-business",
+    "published_date": "2026-05-13",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-for-small-business",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
+  }
+]

@@ -1,49 +1,28 @@
 {
-  "generated_at": "2026-08-25T10:33:56.681Z",
-  "last_updated_ar": "25/08/2026, 07:33",
+  "generated_at": "2026-08-25T12:35:01.299Z",
+  "last_updated_ar": "25/08/2026, 09:35",
   "date": "2026-08-25",
-  "run_status": "error",
-  "run_errors": [
-    {
-      "task": "Novedades",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "Agenda Argentina",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "Radar internacional",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "AI Radar",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "Oportunidades y contenido",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    }
-  ],
-  "summary_line": "Lunes marcado por la suba de costos de Mercado Libre a los vendedores desde septiembre, en un eCommerce que crece en volumen pero factura menos en términos reales, con el consumo y el crédito fintech siguiendo en deterioro y la Ciudad dando el primer paso regulatorio hacia la última milla autónoma.",
+  "run_status": "ok",
+  "run_errors": [],
+  "summary_line": "El día lo marca Mercado Libre, que sube costos a sus vendedores y avanza con un megacentro logístico en La Plata, mientras el consumo masivo sigue cayendo y el eCommerce crece en volumen pero no en plata real, un combo que convierte al fulfillment propio y a la flexibilidad operativa en el argumento comercial más fuerte de la semana.",
   "counters": {
-    "news_today": 0,
-    "news_total": 27,
-    "events_upcoming": 52,
-    "events_ar_upcoming": 31,
+    "news_today": 2,
+    "news_total": 29,
+    "events_upcoming": 54,
+    "events_ar_upcoming": 33,
     "events_intl_upcoming": 21,
-    "events_later": 16,
+    "events_later": 17,
     "opportunities_open": 8,
-    "opportunities_today": 0,
-    "ai_today": 0,
+    "opportunities_today": 3,
+    "ai_today": 1,
     "ai_to_try": 19,
-    "content_ideas": 20,
-    "added_news": 0,
-    "updated_news": 0,
-    "added_events": 0,
-    "updated_events": 0,
-    "added_ai": 0,
-    "archived": 3,
+    "content_ideas": 23,
+    "added_news": 2,
+    "updated_news": 1,
+    "added_events": 3,
+    "updated_events": 4,
+    "added_ai": 2,
+    "archived": 4,
     "discarded_quality": 0
   },
   "next_event": {
@@ -59,36 +38,35 @@
       "kind": "news",
       "title": "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre",
       "priority": "alta",
-      "one_liner": "Es el hecho más urgente del día: los vendedores de Mercado Libre tienen menos de dos semanas para decidir si suben precio, resignan margen o buscan una alternativa como el fulfillment propio."
+      "one_liner": "Es la suba que golpea más a los productos de ticket bajo y abre la puerta a ofrecerle fulfillment propio a vendedores que ya no quieren resignar margen."
+    },
+    {
+      "id": "nw-114576549c",
+      "kind": "news",
+      "title": "Mercado Libre negocia con la Municipalidad de La Plata su mayor centro logístico de la región",
+      "priority": "alta",
+      "one_liner": "Confirma que Mercado Libre sigue densificando su red cerca del AMBA, lo que puede presionar los alquileres de depósito antes de que Fixy asegure sus propias condiciones."
     },
     {
       "id": "nw-2ecb7eee40",
       "kind": "news",
       "title": "El comercio electrónico argentino creció en volumen pero su facturación cayó 5% en términos reales en el primer semestre",
-      "priority": "alta",
-      "one_liner": "Es el dato oficial que confirma que el crecimiento del eCommerce argentino hoy es de volumen y ticket bajo, no de plata real, y eso tiene que moldear cómo Fixy arma sus tarifas."
-    },
-    {
-      "id": "nw-b946fea6cb",
-      "kind": "news",
-      "title": "Récord de importaciones de bienes de consumo: US$5.362 millones en el primer semestre, con indumentaria +86%",
       "priority": "relevante",
-      "one_liner": "Aparece un segmento nuevo de importadores-vendedores que necesita nacionalizar, almacenar y distribuir producto sin tener logística propia."
+      "one_liner": "El dato oficial confirma que el crecimiento del eCommerce hoy es de volumen y ticket chico, no de facturación real, algo clave para calibrar cualquier proyección comercial."
     },
     {
       "id": "ev-argentina-day-ecommerce-2026",
       "kind": "event",
       "title": "eCommerce Day Argentina 2026",
       "priority": "relevante",
-      "one_liner": "Es la cita de esta semana con retailers, marketplaces y proveedores logísticos del ecosistema argentino, clave para hacer networking comercial."
+      "one_liner": "Es la cita del ecosistema digital argentino para hacer networking comercial y detectar hacia dónde se mueve la demanda de fulfillment y última milla."
     },
     {
-      "id": "nw-b5766a9c5d",
+      "id": "nw-5e8cdd7657",
       "kind": "news",
-      "title": "La Ciudad de Buenos Aires habilita pruebas con autos sin conductor y robots de reparto en la vía pública",
+      "title": "La 'uberización' avanza en la última milla del ecommerce",
       "priority": "informativo",
-      "one_liner": "Es el primer antecedente regulatorio porteño para última milla autónoma, algo que todavía no impacta la operación pero que conviene empezar a seguir."
+      "one_liner": "El desafío para los operadores deja de ser cuántos vehículos tienen y pasa a ser cómo coordinan una red variable de conductores, algo que Fixy debería empezar a evaluar."
     }
-  ],
-  "summary_from_previous_day": true
+  ]
 }
