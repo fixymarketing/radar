@@ -46,52 +46,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "title": "ARCA reglamentó la exportación comercial por vía postal sin límite de monto",
-    "what_happened": "Las Resoluciones Generales 5886/2026 y 5884/2026 de ARCA habilitan exportaciones comerciales por correo sin tope de valor mediante la Declaración de Exportación Simplificada Postal (DESP), eliminan el límite anual de US$600.000 por exportador y suprimen la presentación física de documentación.",
-    "why_it_matters": "Por primera vez en 45 años la exportación postal comercial queda operativa, abriendo un canal de venta al exterior de baja escala para pymes y tiendas online. Quien use el régimen simplificado renuncia a reintegros y beneficios de exportación.",
-    "fixy_impact": "Habilita una línea de negocio concreta: exportación puerta a puerta para tiendas online argentinas (indumentaria, marroquinería, diseño, alimentos), un servicio que hoy pocos operadores locales ofrecen empaquetado.",
-    "category": "Regulación",
-    "geo": "Argentina",
-    "source_name": "El Cronista",
-    "source_url": "https://www.cronista.com/negocios/como-exportar-por-correo-sin-limite-de-monto-y-a-quienes-alcanza-el-nuevo-regimen-de-arca/",
-    "published_date": "2026-08-03",
-    "priority": "alta",
-    "tags": [
-      "ARCA",
-      "exportación postal",
-      "DESP",
-      "courier",
-      "pymes",
-      "comercio exterior"
-    ],
-    "id": "nw-54024ee877",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "title": "Tiendanube: el eCommerce argentino creció 42% en facturación y 32% en unidades en el primer semestre",
-    "what_happened": "El informe NubeCommerce MidTerm 2026, sobre más de 70.000 tiendas argentinas, muestra facturación de $1,23 billones (+42,1% i.a.), 12,05 millones de órdenes (+21,6%) y 56 millones de unidades (+31,9%). En tiendas comparables la facturación creció 26,9%, por debajo de la inflación (33,5%), con precios reales cayendo cerca de 17%.",
-    "why_it_matters": "El canal online crece en volumen físico mucho más que en pesos reales: se venden más unidades a precios más bajos, lo que traslada la presión al costo logístico por paquete.",
-    "fixy_impact": "Más bultos con ticket promedio real más bajo es exactamente el escenario que comprime el margen de la última milla. Hay que defender tarifa por eficiencia operativa (densidad de reparto, consolidación) más que por precio.",
-    "category": "eCommerce",
-    "geo": "Argentina",
-    "source_name": "En Retail",
-    "source_url": "https://www.enretail.com/2026/08/03/tiendanube-ecommerce-argentina-crecimiento-volumen-ia/",
-    "published_date": "2026-08-03",
-    "priority": "alta",
-    "tags": [
-      "Tiendanube",
-      "NubeCommerce",
-      "ticket promedio",
-      "volumen"
-    ],
-    "id": "nw-263d41d078",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
     "title": "Los costos logísticos subieron 2,25% en julio, con peajes +18,3%",
     "what_happened": "El índice CEDOL-UTN marcó un alza de 2,25% en julio de 2026, impulsada por la segunda cuota del acuerdo salarial. En almacenaje pesaron energía (+6,65%) y seguridad (+3,78%); en transporte, peajes (+18,32%), lubricantes (+4,84%) y gastos operativos (+4,14%). El combustible no varió.",
     "why_it_matters": "El costo logístico volvió a correr por encima de la inflación mensual (2,1%) en un mercado donde el consumo cae: la brecha entre costo y capacidad de repactar tarifas se ensancha.",
