@@ -486,3 +486,23 @@ select.chip { appearance: none; padding-right: 26px; background-image: linear-gr
 @media (prefers-reduced-motion: reduce) {
   * { animation-duration: .001ms !important; transition-duration: .001ms !important; }
 }
+
+
+/* ====================== CALENDARIO COMPACTO (AGENDA) ====================== */
+/* El calendario va como tarjeta chica arriba a la derecha y la lista de eventos fluye a su izquierda. */
+.block:has(> .cal) { float: right; width: 316px; margin: 0 0 22px 26px; }
+.block:has(> .cal) .block__head { margin-bottom: 10px; }
+.block:has(> .cal) .block__rule { display: none; }
+.block:has(> .cal) .block__hint { font-size: 11.5px; line-height: 1.35; }
+.cal { padding: 12px 14px; }
+.cal__grid { gap: 3px; }
+.cal__dow { font-size: 9.5px; padding-bottom: 2px; }
+.cal__cell { aspect-ratio: auto; min-height: 30px; font-size: 11.5px; gap: 2px; padding: 3px 2px; border-radius: 6px; }
+.cal__dots { height: 4px; gap: 2px; }
+.cal__dots i { width: 4px; height: 4px; }
+.cal__legend { font-size: 10.5px; gap: 10px; margin-top: 10px; }
+.cal__selected { font-size: 12px; margin-top: 10px; padding-top: 10px; }
+.cal__selected a { padding: 3px 0; }
+/* Debajo de 1080 px no entran dos columnas: vuelve al flujo normal, achicado y a la derecha. */
+@media (max-width: 1080px) { .block:has(> .cal) { float: none; width: 100%; max-width: 340px; margin: 0 0 28px auto; } }
+@media (max-width: 720px) { .block:has(> .cal) { max-width: none; } .cal { padding: 13px; } .cal__cell { font-size: 12px; min-height: 34px; } }
