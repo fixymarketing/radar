@@ -1,5 +1,35 @@
 [
   {
+    "title": "Ofrecer atención de pedidos vía IA conectada al panel de Tiendanube como diferencial de servicio",
+    "context": "Tiendanube lanzó el 16 de agosto un conector MCP oficial que permite operar el panel de una tienda (pedidos, catálogo, métricas) por lenguaje natural desde ChatGPT, Gemini o Claude. Buena parte de la cartera de clientes y prospectos de Fixy opera sobre Tiendanube.",
+    "action": "Elegir 2 o 3 clientes de Tiendanube como piloto y conectar su MCP a un asistente de atención de Fixy para resolver consultas de estado de pedido y stock sin entrar manualmente al panel, ofreciéndolo como diferencial de servicio frente a otros operadores logísticos.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://www.businessempresarial.com.pe/tiendanube-conecta-a-sus-180000-tiendas-con-chatgpt-gemini-claude-y-los-principales-modelos-de-ia-globales/",
+    "linked": [
+      "Tiendanube Admin MCP"
+    ],
+    "id": "op-f42a204e",
+    "source_kind": "auto",
+    "last_updated": "2026-08-26",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "title": "Usar Maia de Make para que el equipo no técnico arme sus propias automatizaciones de despacho",
+    "context": "Make lanzó el 12 de agosto la beta pública de Maia, una copiloto conversacional que arma y depura automatizaciones dentro del propio editor de Make sin necesidad de conocimiento técnico, incluida en los planes pagos.",
+    "action": "Probar con el equipo de operaciones armar, con instrucciones en español, una automatización real de aviso de pedido nuevo por WhatsApp con registro en la planilla de despachos, sin depender de un desarrollador.",
+    "type": "estratégica",
+    "priority": "informativo",
+    "source_url": "https://www.make.com/en/blog/maia-conversational-ai-coworker-for-ai-agents-and-automation",
+    "linked": [
+      "Maia by Make"
+    ],
+    "id": "op-54228ac9",
+    "source_kind": "auto",
+    "last_updated": "2026-08-26",
+    "first_seen": "2026-08-26"
+  },
+  {
     "title": "Evaluar un modelo de flota variable (\"uberizada\") para la última milla",
     "context": "La logística argentina avanza hacia redes de conductores y flotas mixtas coordinadas por tecnología, en lugar de flota propia fija, como forma de sostener picos de demanda sin inmovilizar capital. Es la misma lógica que ya puso a prueba el Día del Niño y el feriado de San Martín, cuando la ventana de despacho se achicó.",
     "action": "Armar un piloto acotado con un pool de conductores externos coordinados por app para los próximos picos de demanda (CyberMonday, Navidad), sin ampliar la flota fija de Fixy, y medir el impacto en costo por envío y cumplimiento de plazos.",
@@ -92,37 +122,5 @@
     "source_kind": "auto",
     "last_updated": "2026-08-23",
     "first_seen": "2026-08-23"
-  },
-  {
-    "title": "La primera feria portuaria del país conecta con el récord de importaciones que necesita fulfillment",
-    "context": "En julio se confirmó un récord de importaciones de bienes de consumo (US$5.362 millones en el semestre, indumentaria +86%), y en septiembre se hace en Mar del Plata la Feria Internacional Portuaria Argentina, la primera del país, con foco en cadenas logísticas de comercio exterior.",
-    "action": "Enviar a alguien del equipo comercial a la FIP 2026 a hacer networking directo con navieras, agentes de carga e importadores que necesitan tercerizar el almacenamiento y la distribución nacional del producto que ingresa por los puertos.",
-    "type": "comercial",
-    "priority": "informativo",
-    "source_url": "https://www.0223.com.ar/nota/2026-6-25-12-3-0-lanzan-la-primera-feria-internacional-portuaria-argentina-sera-en-mar-del-plata",
-    "linked": [
-      "Récord de importaciones de bienes de consumo: US$5.362 millones en el primer semestre, con indumentaria +86%",
-      "Feria Internacional Portuaria Argentina (FIP 2026)"
-    ],
-    "id": "op-ded7ec66",
-    "source_kind": "auto",
-    "last_updated": "2026-08-23",
-    "first_seen": "2026-08-23"
-  },
-  {
-    "title": "La suba de costos de Mercado Libre a los vendedores es el argumento comercial para ofrecer fulfillment propio",
-    "context": "Desde el 1° de septiembre Mercado Libre aumenta el costo fijo por unidad para productos de ticket bajo y el cargo de envío gratis en los de mayor valor, golpeando justo a los sellers más sensibles a precio en un consumo que ya viene cayendo.",
-    "action": "Armar una pieza comercial dirigida a sellers de Mercado Libre de ticket bajo ofreciendo un esquema de fulfillment propio con costos más previsibles que la nueva estructura de la plataforma.",
-    "type": "comercial",
-    "priority": "alta",
-    "source_url": "https://www.iprofesional.com/negocios/462755-mercado-libre-sube-los-costos-a-vendedores-y-aumenta-la-presion-en-plena-caida-del-consumo",
-    "linked": [
-      "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre",
-      "Mercado Libre Experience Argentina 2026"
-    ],
-    "id": "op-115c64dd",
-    "source_kind": "auto",
-    "last_updated": "2026-08-22",
-    "first_seen": "2026-08-22"
   }
 ]

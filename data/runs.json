@@ -1,6 +1,32 @@
 [
   {
     "date": "2026-08-26",
+    "at": "2026-08-26T12:40:51.047Z",
+    "status": "ok",
+    "added": {
+      "news": 0,
+      "events": 7,
+      "ai": 3,
+      "opportunities": 2,
+      "content": 2
+    },
+    "updated": {
+      "news": 1,
+      "events": 4,
+      "ai": 0
+    },
+    "archived": {
+      "events": 0,
+      "news": 0,
+      "ai": 0,
+      "opportunities": 2,
+      "content": 0
+    },
+    "discarded": 0,
+    "errors": []
+  },
+  {
+    "date": "2026-08-26",
     "at": "2026-08-26T10:36:07.677Z",
     "status": "error",
     "added": {

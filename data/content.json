@@ -346,5 +346,35 @@
     "source_kind": "auto",
     "last_updated": "2026-08-25",
     "first_seen": "2026-08-25"
+  },
+  {
+    "topic": "Google le pone ruteo apto para camiones a Google Maps: qué significa para la última milla, aunque todavía no esté en Argentina",
+    "why_now": "Google anunció el 17 de agosto una función de ruteo para flotas que respeta restricciones físicas del vehículo (altura, peso, calles angostas), hoy disponible solo en Estados Unidos.",
+    "fixy_angle": "Fixy puede explicar por qué esta dirección del ruteo de flotas eventualmente va a llegar a la región y qué debería exigirle hoy a sus propias herramientas de ruteo mientras tanto.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.freightwaves.com/news/google-maps-just-launched-truck-aware-routing-that-knows-about-low-bridges-and-weight-limits-here-is-what-it-means-and-what-it-does-not",
+    "id": "ct-54ebc6ff",
+    "source_kind": "auto",
+    "last_updated": "2026-08-26",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "topic": "Cuando el eCommerce se administra hablándole a una IA: qué significa el conector MCP de Tiendanube para la logística",
+    "why_now": "Tiendanube se convirtió en la primera plataforma de eCommerce de la región en sumar un conector MCP oficial a los principales asistentes de IA (16 de agosto), permitiendo operar el panel de la tienda por lenguaje natural.",
+    "fixy_angle": "Fixy puede posicionarse como el operador logístico que ya está listo para que sus datos de tracking y stock sean consultables por esos mismos asistentes, no solo por humanos.",
+    "formats": [
+      "LinkedIn",
+      "artículo"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.businessempresarial.com.pe/tiendanube-conecta-a-sus-180000-tiendas-con-chatgpt-gemini-claude-y-los-principales-modelos-de-ia-globales/",
+    "id": "ct-15997eb8",
+    "source_kind": "auto",
+    "last_updated": "2026-08-26",
+    "first_seen": "2026-08-26"
   }
 ]

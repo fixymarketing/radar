@@ -576,26 +576,27 @@
   },
   {
     "title": "La Ciudad de Buenos Aires habilita pruebas con autos sin conductor y robots de reparto en la vía pública",
-    "what_happened": "La Ciudad de Buenos Aires, mediante la Resolución 170/SECT/26 publicada el 18 de agosto en el Boletín Oficial porteño, creó un régimen experimental para probar en la vía pública vehículos autónomos de nivel 4 SAE y robots terrestres autónomos, incluidos los diseñados para reparto de paquetes (categoría internacional ADD, Automated Delivery Devices). Cada prueba requerirá autorización previa caso por caso y condiciones de seguridad específicas, y los robots podrán circular por veredas, parques, zonas industriales y corredores logísticos.",
-    "why_it_matters": "Es la primera normativa porteña que habilita formalmente experimentar con robots de reparto en la calle, un antecedente regulatorio que puede acelerar en los próximos años la llegada de esta tecnología a la última milla del AMBA.",
-    "fixy_impact": "Vale la pena seguir de cerca los primeros pilotos autorizados: si el régimen avanza, podría abrir una ventana para testear robots de reparto en zonas acotadas de CABA antes que la competencia.",
+    "what_happened": "La Secretaría de Transporte porteña publicó la Resolución 170/SECT/26 (Boletín Oficial de la Ciudad, 18/8) y la Resolución 175/SECT/26 (firmada el 19/8 y publicada el 25/8), que crean un régimen de autorización para probar en la vía pública vehículos autónomos, robots terrestres de reparto y drones aéreos operados por empresas y desarrolladores. Los robots terrestres podrán circular a menos de 20 km/h por veredas, parques y corredores logísticos para tareas como reparto de carga liviana, y los drones podrán operar bajo modalidad BVLOS (sin contacto visual del piloto) en zonas, días y horarios específicamente aprobados, con habilitación previa de ANAC. Cada empresa interesada debe tramitar un",
+    "why_it_matters": "Es la primera vez que una jurisdicción argentina habilita pruebas reales en la vía pública de vehículos autónomos y drones de reparto, lo que abre la puerta a que operadores de última milla empiecen a testear estas tecnologías en Buenos Aires antes que en el resto del país.",
+    "fixy_impact": "Aunque hoy no hay operaciones comerciales confirmadas, el marco recién creado es una ventana para que Fixy explore pilotos de robots o drones de reparto en el AMBA antes que la competencia, y para empezar a monitorear cómo podría evolucionar el costo y la regulación de la última milla urbana en los próximos años.",
     "category": "Última milla",
     "geo": "Argentina",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/sociedad/2026/08/21/la-ciudad-de-buenos-aires-habilito-pruebas-de-autos-sin-conductor-y-robots-de-reparto/",
-    "published_date": "2026-08-21",
-    "priority": "relevante",
+    "source_name": "iProfesional",
+    "source_url": "https://www.iprofesional.com/negocios/463009-la-ciudad-abre-la-puerta-al-delivery-con-drones-y-crea-un-nuevo-negocio-para-las-empresas",
+    "published_date": "2026-08-25",
+    "priority": "informativo",
     "tags": [
       "última milla",
+      "drones",
       "robots de reparto",
-      "CABA",
       "regulación",
-      "vehículos autónomos"
+      "CABA"
     ],
     "id": "nw-b5766a9c5d",
     "source_kind": "auto",
-    "last_updated": "2026-08-24",
-    "first_seen": "2026-08-24"
+    "last_updated": "2026-08-26",
+    "first_seen": "2026-08-24",
+    "updated_flag": true
   },
   {
     "title": "Mercado Libre negocia con la Municipalidad de La Plata su mayor centro logístico de la región",

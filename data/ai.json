@@ -44,6 +44,29 @@
     "first_seen": "2026-08-24"
   },
   {
+    "name": "Tiendanube Admin MCP",
+    "vendor": "Tiendanube / Nuvemshop",
+    "what_it_is": "Un conector oficial que expone la administración de una tienda Tiendanube (catálogo, pedidos, clientes, métricas del negocio) como servidor MCP, para que se pueda operar por lenguaje natural desde ChatGPT, Gemini o Claude sin escribir código.",
+    "what_changed": "Tiendanube lo presentó el 16 de agosto de 2026 y quedó listado en el directorio oficial de Claude (como Nuvemshop), siendo la primera plataforma de eCommerce de Latinoamérica en sumarse a ese directorio; llega a sus más de 65.000 tiendas en Argentina.",
+    "fixy_use": "Muchos clientes y prospectos de Fixy operan sobre Tiendanube: el equipo comercial o de atención al cliente podría, con permiso del cliente, consultar pedidos y estados de catálogo de una tienda directamente desde Claude o ChatGPT para resolver un reclamo o preparar una cotización sin entrar al panel de Tiendanube. También sirve como referencia técnica si Fixy quiere exponer sus propios datos de tracking como servidor MCP.",
+    "verdict": "seguir",
+    "verdict_reason": "Es muy relevante para el ecosistema de clientes de Fixy pero requiere evaluar con qué clientes tiene sentido activarlo y quién administra los permisos de acceso.",
+    "categories": [
+      "Comercial",
+      "Operaciones",
+      "Automatización",
+      "Atención al cliente"
+    ],
+    "pricing_note": "no confirmado — se presenta como conector oficial incluido para tiendas Tiendanube, sin detalle público de costo adicional",
+    "source_url": "https://www.businessempresarial.com.pe/tiendanube-conecta-a-sus-180000-tiendas-con-chatgpt-gemini-claude-y-los-principales-modelos-de-ia-globales/",
+    "published_date": "2026-08-16",
+    "priority": "alta",
+    "id": "ai-tiendanube-nuvemshop-tiendanube-admin-mcp",
+    "source_kind": "auto",
+    "last_updated": "2026-08-26",
+    "first_seen": "2026-08-26"
+  },
+  {
     "name": "\"Take notes for me\" de Google Meet para reuniones presenciales",
     "vendor": "Google",
     "what_it_is": "Gemini graba una reunión cara a cara desde el celular o la web y genera transcripción, resumen y lista de acciones en un Google Doc que queda en Drive.",
@@ -110,6 +133,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
+  },
+  {
+    "name": "Maia by Make",
+    "vendor": "Make",
+    "what_it_is": "Una copiloto conversacional integrada dentro del propio editor de escenarios de Make que arma, modifica y depura automatizaciones a partir de instrucciones escritas en lenguaje simple, sin necesidad de arrastrar módulos manualmente.",
+    "what_changed": "Make la lanzó en beta pública el 12 de agosto de 2026 para todos los planes pagos, con prueba de 30 días para cuentas gratuitas; antes de esto armar o arreglar un escenario en Make requería conocimiento técnico de la herramienta.",
+    "fixy_use": "El equipo de operaciones o comercial de Fixy podría pedirle a Maia, en español, que arme una automatización tipo 'cuando llega un pedido nuevo de Tiendanube, avisar por WhatsApp al cliente y crear una fila en la planilla de despachos', sin depender de que alguien con perfil técnico programe el flujo. También sirve para depurar automatizaciones existentes que fallan, explicando el error en lenguaje natural en vez de leer logs.",
+    "verdict": "probar",
+    "verdict_reason": "Baja fricción para que gente no técnica del equipo arme y arregle automatizaciones reales de Fixy sin depender de un desarrollador.",
+    "categories": [
+      "Automatización",
+      "Operaciones",
+      "Productividad"
+    ],
+    "pricing_note": "freemium — beta pública incluida en planes pagos de Make; en el plan gratuito hay prueba de 30 días",
+    "source_url": "https://www.make.com/en/blog/maia-conversational-ai-coworker-for-ai-agents-and-automation",
+    "published_date": "2026-08-12",
+    "priority": "alta",
+    "id": "ai-make-maia-by-make",
+    "source_kind": "auto",
+    "last_updated": "2026-08-26",
+    "first_seen": "2026-08-26"
   },
   {
     "name": "Lumi y Chat Nube: la IA nativa de Tiendanube",
@@ -223,6 +268,27 @@
     "source_kind": "auto",
     "last_updated": "2026-08-22",
     "first_seen": "2026-08-22"
+  },
+  {
+    "name": "Large Vehicle Routing (LVR) en Google Maps Platform",
+    "vendor": "Google",
+    "what_it_is": "Una capacidad de ruteo para flotas que calcula trayectos considerando las características físicas del vehículo (altura, peso, largo, ancho, ejes, cargas peligrosas) y restricciones viales reales como puentes bajos o límites de peso, disponible vía Routes API, Route Optimization API y el SDK de navegación.",
+    "what_changed": "Google la anunció el 17 de agosto de 2026 con disponibilidad general inicial en Estados Unidos, pensada específicamente para empresas de logística y operadores de flota, algo que la Google Maps estándar no contemplaba hasta ahora.",
+    "fixy_use": "Fixy todavía no puede usarla porque por ahora solo está disponible en EE.UU., pero es la dirección clara hacia la que va el ruteo de flotas: vale la pena seguirla de cerca porque si llega a Argentina permitiría planificar rutas de última milla que respeten restricciones reales de los vehículos de reparto (peso, altura, calles angostas) y transferir esa ruta compatible directamente al conductor.",
+    "verdict": "seguir",
+    "verdict_reason": "Encaja de lleno con la operación de última milla de Fixy, pero todavía no está disponible en Argentina así que no se puede probar hoy.",
+    "categories": [
+      "Logística",
+      "Operaciones"
+    ],
+    "pricing_note": "no confirmado — se ofrece dentro de Google Maps Platform (Routes API / Route Optimization API), con el modelo de precios estándar por uso de esas APIs",
+    "source_url": "https://www.freightwaves.com/news/google-maps-just-launched-truck-aware-routing-that-knows-about-low-bridges-and-weight-limits-here-is-what-it-means-and-what-it-does-not",
+    "published_date": "2026-08-17",
+    "priority": "relevante",
+    "id": "ai-google-large-vehicle-routing-lvr-en-google-maps-platform",
+    "source_kind": "auto",
+    "last_updated": "2026-08-26",
+    "first_seen": "2026-08-26"
   },
   {
     "name": "Zendesk Copilot intelligent triage",

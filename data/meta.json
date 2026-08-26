@@ -1,49 +1,28 @@
 {
-  "generated_at": "2026-08-26T10:36:07.677Z",
-  "last_updated_ar": "26/08/2026, 07:36",
+  "generated_at": "2026-08-26T12:40:51.046Z",
+  "last_updated_ar": "26/08/2026, 09:40",
   "date": "2026-08-26",
-  "run_status": "error",
-  "run_errors": [
-    {
-      "task": "Novedades",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "Agenda Argentina",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "Radar internacional",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "AI Radar",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    },
-    {
-      "task": "Oportunidades y contenido",
-      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-    }
-  ],
-  "summary_line": "El día lo marca Mercado Libre, que sube costos a sus vendedores y avanza con un megacentro logístico en La Plata, mientras el consumo masivo sigue cayendo y el eCommerce crece en volumen pero no en plata real, un combo que convierte al fulfillment propio y a la flexibilidad operativa en el argumento comercial más fuerte de la semana.",
+  "run_status": "ok",
+  "run_errors": [],
+  "summary_line": "El día combina la suba de costos que Mercado Libre le impone a sus vendedores desde septiembre —el argumento comercial más fuerte para el fulfillment propio— con dos señales tecnológicas para seguir de cerca: CABA habilitó pruebas de robots y autos sin conductor en la última milla, y Tiendanube abrió su plataforma a los asistentes de IA, una oportunidad concreta para diferenciar la atención de Fixy.",
   "counters": {
     "news_today": 0,
     "news_total": 29,
-    "events_upcoming": 54,
-    "events_ar_upcoming": 33,
-    "events_intl_upcoming": 21,
-    "events_later": 16,
+    "events_upcoming": 60,
+    "events_ar_upcoming": 36,
+    "events_intl_upcoming": 24,
+    "events_later": 17,
     "opportunities_open": 8,
-    "opportunities_today": 0,
-    "ai_today": 0,
-    "ai_to_try": 19,
-    "content_ideas": 23,
+    "opportunities_today": 2,
+    "ai_today": 3,
+    "ai_to_try": 20,
+    "content_ideas": 25,
     "added_news": 0,
-    "updated_news": 0,
-    "added_events": 0,
-    "updated_events": 0,
-    "added_ai": 0,
-    "archived": 0,
+    "updated_news": 1,
+    "added_events": 7,
+    "updated_events": 4,
+    "added_ai": 3,
+    "archived": 2,
     "discarded_quality": 0
   },
   "next_event": {
@@ -62,33 +41,32 @@
       "one_liner": "Es la suba que golpea más a los productos de ticket bajo y abre la puerta a ofrecerle fulfillment propio a vendedores que ya no quieren resignar margen."
     },
     {
-      "id": "nw-114576549c",
-      "kind": "news",
-      "title": "Mercado Libre negocia con la Municipalidad de La Plata su mayor centro logístico de la región",
-      "priority": "alta",
-      "one_liner": "Confirma que Mercado Libre sigue densificando su red cerca del AMBA, lo que puede presionar los alquileres de depósito antes de que Fixy asegure sus propias condiciones."
-    },
-    {
-      "id": "nw-2ecb7eee40",
-      "kind": "news",
-      "title": "El comercio electrónico argentino creció en volumen pero su facturación cayó 5% en términos reales en el primer semestre",
-      "priority": "relevante",
-      "one_liner": "El dato oficial confirma que el crecimiento del eCommerce hoy es de volumen y ticket chico, no de facturación real, algo clave para calibrar cualquier proyección comercial."
-    },
-    {
       "id": "ev-argentina-day-ecommerce-2026",
       "kind": "event",
       "title": "eCommerce Day Argentina 2026",
       "priority": "relevante",
-      "one_liner": "Es la cita del ecosistema digital argentino para hacer networking comercial y detectar hacia dónde se mueve la demanda de fulfillment y última milla."
+      "one_liner": "Es mañana: la cita del ecosistema digital argentino para hacer networking comercial y detectar hacia dónde se mueve la demanda de fulfillment y última milla."
     },
     {
-      "id": "nw-5e8cdd7657",
+      "id": "nw-b5766a9c5d",
       "kind": "news",
-      "title": "La 'uberización' avanza en la última milla del ecommerce",
+      "title": "La Ciudad de Buenos Aires habilita pruebas con autos sin conductor y robots de reparto en la vía pública",
       "priority": "informativo",
-      "one_liner": "El desafío para los operadores deja de ser cuántos vehículos tienen y pasa a ser cómo coordinan una red variable de conductores, algo que Fixy debería empezar a evaluar."
+      "one_liner": "Es el primer marco regulatorio argentino para probar en la calle vehículos autónomos y robots de reparto: vale la pena seguir de cerca los primeros pilotos autorizados."
+    },
+    {
+      "id": "ai-tiendanube-nuvemshop-tiendanube-admin-mcp",
+      "kind": "ai",
+      "title": "Tiendanube Admin MCP",
+      "priority": "alta",
+      "one_liner": "La plataforma de buena parte de la cartera de Fixy ya deja operar pedidos y catálogo por lenguaje natural desde asistentes de IA."
+    },
+    {
+      "id": "op-f42a204e",
+      "kind": "opportunity",
+      "title": "Ofrecer atención de pedidos vía IA conectada al panel de Tiendanube como diferencial de servicio",
+      "priority": "relevante",
+      "one_liner": "Es la oportunidad concreta que abre ese conector para diferenciar el servicio de atención al cliente de Fixy."
     }
-  ],
-  "summary_from_previous_day": true
+  ]
 }
