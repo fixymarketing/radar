@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026-08-26",
+    "at": "2026-08-26T10:36:07.677Z",
+    "status": "error",
+    "added": {
+      "news": 0,
+      "events": 0,
+      "ai": 0,
+      "opportunities": 0,
+      "content": 0
+    },
+    "updated": {
+      "news": 0,
+      "events": 0,
+      "ai": 0
+    },
+    "archived": {
+      "events": 0,
+      "news": 0,
+      "ai": 0,
+      "opportunities": 0,
+      "content": 0
+    },
+    "discarded": 0,
+    "errors": [
+      {
+        "task": "Novedades",
+        "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+      },
+      {
+        "task": "Agenda Argentina",
+        "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+      },
+      {
+        "task": "Radar internacional",
+        "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+      },
+      {
+        "task": "AI Radar",
+        "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+      },
+      {
+        "task": "Oportunidades y contenido",
+        "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+      }
+    ]
+  },
+  {
     "date": "2026-08-25",
     "at": "2026-08-25T12:35:01.300Z",
     "status": "ok",

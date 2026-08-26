@@ -1,36 +1,57 @@
 {
-  "generated_at": "2026-08-25T12:35:01.299Z",
-  "last_updated_ar": "25/08/2026, 09:35",
-  "date": "2026-08-25",
-  "run_status": "ok",
-  "run_errors": [],
+  "generated_at": "2026-08-26T10:36:07.677Z",
+  "last_updated_ar": "26/08/2026, 07:36",
+  "date": "2026-08-26",
+  "run_status": "error",
+  "run_errors": [
+    {
+      "task": "Novedades",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "Agenda Argentina",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "Radar internacional",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "AI Radar",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    },
+    {
+      "task": "Oportunidades y contenido",
+      "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
+    }
+  ],
   "summary_line": "El día lo marca Mercado Libre, que sube costos a sus vendedores y avanza con un megacentro logístico en La Plata, mientras el consumo masivo sigue cayendo y el eCommerce crece en volumen pero no en plata real, un combo que convierte al fulfillment propio y a la flexibilidad operativa en el argumento comercial más fuerte de la semana.",
   "counters": {
-    "news_today": 2,
+    "news_today": 0,
     "news_total": 29,
     "events_upcoming": 54,
     "events_ar_upcoming": 33,
     "events_intl_upcoming": 21,
-    "events_later": 17,
+    "events_later": 16,
     "opportunities_open": 8,
-    "opportunities_today": 3,
-    "ai_today": 1,
+    "opportunities_today": 0,
+    "ai_today": 0,
     "ai_to_try": 19,
     "content_ideas": 23,
-    "added_news": 2,
-    "updated_news": 1,
-    "added_events": 3,
-    "updated_events": 4,
-    "added_ai": 2,
-    "archived": 4,
+    "added_news": 0,
+    "updated_news": 0,
+    "added_events": 0,
+    "updated_events": 0,
+    "added_ai": 0,
+    "archived": 0,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-iab-now-2026",
-    "name": "IAB Now 2026",
-    "date_start": "2026-08-25",
-    "city": "Ciudad Autónoma de Buenos Aires",
-    "days_away": 0
+    "id": "ev-argentina-day-ecommerce-2026",
+    "name": "eCommerce Day Argentina 2026",
+    "date_start": "2026-08-27",
+    "city": "Buenos Aires",
+    "days_away": 1
   },
   "highlights": [
     {
@@ -68,5 +89,6 @@
       "priority": "informativo",
       "one_liner": "El desafío para los operadores deja de ser cuántos vehículos tienen y pasa a ser cómo coordinan una red variable de conductores, algo que Fixy debería empezar a evaluar."
     }
-  ]
+  ],
+  "summary_from_previous_day": true
 }
