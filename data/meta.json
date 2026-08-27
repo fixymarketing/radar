@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-26T12:40:51.046Z",
-  "last_updated_ar": "26/08/2026, 09:40",
-  "date": "2026-08-26",
+  "generated_at": "2026-08-27T12:33:44.594Z",
+  "last_updated_ar": "27/08/2026, 09:33",
+  "date": "2026-08-27",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El día combina la suba de costos que Mercado Libre le impone a sus vendedores desde septiembre —el argumento comercial más fuerte para el fulfillment propio— con dos señales tecnológicas para seguir de cerca: CABA habilitó pruebas de robots y autos sin conductor en la última milla, y Tiendanube abrió su plataforma a los asistentes de IA, una oportunidad concreta para diferenciar la atención de Fixy.",
+  "summary_line": "El día combina la inminente suba de costos de Mercado Libre a sus vendedores —que entra en vigencia el 1° de septiembre— con la edición número 200 del eCommerce Day Argentina hoy mismo, mientras el BCRA habilita el débito automático de cuotas y un informe advierte que los robos a utilitarios de reparto se duplicaron en el interior del país.",
   "counters": {
-    "news_today": 0,
-    "news_total": 29,
-    "events_upcoming": 60,
-    "events_ar_upcoming": 36,
-    "events_intl_upcoming": 24,
+    "news_today": 2,
+    "news_total": 28,
+    "events_upcoming": 66,
+    "events_ar_upcoming": 39,
+    "events_intl_upcoming": 27,
     "events_later": 17,
     "opportunities_open": 8,
-    "opportunities_today": 2,
-    "ai_today": 3,
+    "opportunities_today": 1,
+    "ai_today": 1,
     "ai_to_try": 20,
-    "content_ideas": 25,
-    "added_news": 0,
-    "updated_news": 1,
-    "added_events": 7,
+    "content_ideas": 27,
+    "added_news": 2,
+    "updated_news": 0,
+    "added_events": 6,
     "updated_events": 4,
-    "added_ai": 3,
-    "archived": 2,
+    "added_ai": 1,
+    "archived": 4,
     "discarded_quality": 0
   },
   "next_event": {
@@ -30,7 +30,7 @@
     "name": "eCommerce Day Argentina 2026",
     "date_start": "2026-08-27",
     "city": "Buenos Aires",
-    "days_away": 1
+    "days_away": 0
   },
   "highlights": [
     {
@@ -38,35 +38,35 @@
       "kind": "news",
       "title": "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre",
       "priority": "alta",
-      "one_liner": "Es la suba que golpea más a los productos de ticket bajo y abre la puerta a ofrecerle fulfillment propio a vendedores que ya no quieren resignar margen."
+      "one_liner": "La suba entra en vigencia en días: vale evaluar la oferta comercial de fulfillment propio antes de esa fecha."
     },
     {
       "id": "ev-argentina-day-ecommerce-2026",
       "kind": "event",
       "title": "eCommerce Day Argentina 2026",
-      "priority": "relevante",
-      "one_liner": "Es mañana: la cita del ecosistema digital argentino para hacer networking comercial y detectar hacia dónde se mueve la demanda de fulfillment y última milla."
-    },
-    {
-      "id": "nw-b5766a9c5d",
-      "kind": "news",
-      "title": "La Ciudad de Buenos Aires habilita pruebas con autos sin conductor y robots de reparto en la vía pública",
-      "priority": "informativo",
-      "one_liner": "Es el primer marco regulatorio argentino para probar en la calle vehículos autónomos y robots de reparto: vale la pena seguir de cerca los primeros pilotos autorizados."
-    },
-    {
-      "id": "ai-tiendanube-nuvemshop-tiendanube-admin-mcp",
-      "kind": "ai",
-      "title": "Tiendanube Admin MCP",
       "priority": "alta",
-      "one_liner": "La plataforma de buena parte de la cartera de Fixy ya deja operar pedidos y catálogo por lenguaje natural desde asistentes de IA."
+      "one_liner": "Es hoy y llega a su edición número 200: la cita del ecosistema digital argentino para hacer networking comercial."
     },
     {
-      "id": "op-f42a204e",
-      "kind": "opportunity",
-      "title": "Ofrecer atención de pedidos vía IA conectada al panel de Tiendanube como diferencial de servicio",
+      "id": "nw-cfa3858ebb",
+      "kind": "news",
+      "title": "El BCRA habilita el débito automático de cuotas de préstamos desde cuentas bancarias y billeteras",
       "priority": "relevante",
-      "one_liner": "Es la oportunidad concreta que abre ese conector para diferenciar el servicio de atención al cliente de Fixy."
+      "one_liner": "Cambia las reglas de cobro del crédito de consumo que financia buena parte de las compras online."
+    },
+    {
+      "id": "nw-3c80278af1",
+      "kind": "news",
+      "title": "Se duplicaron los robos de vehículos en el interior y los utilitarios de reparto son el blanco principal",
+      "priority": "relevante",
+      "one_liner": "El delito se corre hacia el interior, justo donde crece la última milla: vale revisar seguros y rastreo de las flotas."
+    },
+    {
+      "id": "ai-microsoft-python-en-excel-con-copilot",
+      "kind": "ai",
+      "title": "Python en Excel con Copilot",
+      "priority": "relevante",
+      "one_liner": "Permite analizar planillas de pedidos y costos de envío en lenguaje natural, sin depender de alguien que programe."
     }
   ]
 }

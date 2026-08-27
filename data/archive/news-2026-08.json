@@ -44,5 +44,74 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Mercado Libre supera por primera vez los US$10.000 millones de ingresos trimestrales, pero el mercado castiga el gasto en logística",
+    "what_happened": "El 5 de agosto Mercado Libre reportó su Q2 2026 con ingresos de US$10.200 millones (+50% i.a.) y utilidad neta de US$466 millones, el trigésimo trimestre consecutivo creciendo más de 30%. La acción cayó cerca de 7% en el after-hours por la presión de márgenes derivada de inversiones en logística, Mercado Pago e IA.",
+    "why_it_matters": "Confirma que el líder regional está dispuesto a sacrificar margen para consolidar su red logística propia y su ecosistema financiero, elevando el estándar de servicio de toda la región.",
+    "fixy_impact": "El benchmark de entrega y trazabilidad que fija Mercado Libre se traslada a las expectativas de cualquier tienda online argentina: Fixy compite contra ese nivel de servicio, no contra otros couriers.",
+    "category": "Marketplaces",
+    "geo": "LATAM",
+    "source_name": "Bloomberg Línea",
+    "source_url": "https://www.bloomberglinea.com/latinoamerica/argentina/mercadolibre-supera-expectativas-de-facturacion-y-ganancia-neta-en-el-segundo-trimestre/",
+    "published_date": "2026-08-05",
+    "priority": "alta",
+    "tags": [
+      "Mercado Libre",
+      "resultados",
+      "logística propia",
+      "fintech",
+      "IA"
+    ],
+    "id": "nw-c5e843b8fa",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Los costos logísticos subieron 2,25% en julio, con peajes +18,3%",
+    "what_happened": "El índice CEDOL-UTN marcó un alza de 2,25% en julio de 2026, impulsada por la segunda cuota del acuerdo salarial. En almacenaje pesaron energía (+6,65%) y seguridad (+3,78%); en transporte, peajes (+18,32%), lubricantes (+4,84%) y gastos operativos (+4,14%). El combustible no varió.",
+    "why_it_matters": "El costo logístico volvió a correr por encima de la inflación mensual (2,1%) en un mercado donde el consumo cae: la brecha entre costo y capacidad de repactar tarifas se ensancha.",
+    "fixy_impact": "Da argumentos objetivos y auditables para renegociar tarifas con clientes: el índice CEDOL es referencia pública aceptada por la industria y sirve como cláusula de ajuste en contratos.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Webpicking",
+    "source_url": "https://webpicking.com/costos-logisticos-suben-225-en-julio-en-argentina/",
+    "published_date": "2026-08-05",
+    "priority": "alta",
+    "tags": [
+      "CEDOL",
+      "costos logísticos",
+      "peajes",
+      "paritarias",
+      "tarifas"
+    ],
+    "id": "nw-64d29af6f8",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "UPS amplía funciones de retiro para pymes que despachan",
+    "what_happened": "El 5 de agosto UPS anunció mejoras en Smart Pickup y servicios asociados, dando a los clientes más control y transparencia sobre las recolecciones. Las funciones apuntan específicamente al segmento de pequeños comercios que despachan paquetes.",
+    "why_it_matters": "Los grandes carriers globales están compitiendo por el pequeño remitente con herramientas de autogestión, no con precio.",
+    "fixy_impact": "Es una hoja de ruta de producto de bajo costo: visibilidad y control de la recolección (reprogramar, confirmar, trazar) es una mejora de experiencia que Fixy puede replicar y comunicar como diferencial frente a couriers tradicionales.",
+    "category": "Logística",
+    "geo": "Global",
+    "source_name": "Supply Chain Dive",
+    "source_url": "https://www.supplychaindive.com/news/ups-rolls-out-pickup-upgrades-for-small-business-shippers/826965/",
+    "published_date": "2026-08-05",
+    "priority": "relevante",
+    "tags": [
+      "UPS",
+      "pickup",
+      "pymes",
+      "experiencia de cliente",
+      "autogestión"
+    ],
+    "id": "nw-396384087c",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
   }
 ]

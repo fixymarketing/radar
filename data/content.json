@@ -376,5 +376,35 @@
     "source_kind": "auto",
     "last_updated": "2026-08-26",
     "first_seen": "2026-08-26"
+  },
+  {
+    "topic": "El delito se mudó a la ruta: qué significa para la última milla que los robos a utilitarios se duplicaron en el interior",
+    "why_now": "Un informe de agosto muestra que los robos a vehículos de reparto ya se corrieron del AMBA hacia Córdoba, Mendoza, Santa Fe y Neuquén, justo donde crece la última milla del ecommerce.",
+    "fixy_angle": "Fixy puede mostrar cómo protege sus rutas del interior (rastreo, seguros, protocolos) y usarlo como contenido educativo para pymes que reparten con flota propia.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.informeoperadores.com.ar/2026/08/24/en-julio-se-duplicaron-los-robos-de-vehiculos-en-el-interior-del-pais/",
+    "id": "ct-25b4feb1",
+    "source_kind": "auto",
+    "last_updated": "2026-08-27",
+    "first_seen": "2026-08-27"
+  },
+  {
+    "topic": "Débito automático de cuotas: qué cambia para el crédito que financia las compras online",
+    "why_now": "El 31 de agosto entra en vigencia el sistema del BCRA que permite debitar cuotas impagas directamente de cualquier cuenta del deudor, en un contexto de mora récord en fintech.",
+    "fixy_angle": "Sirve para explicarle a sellers y clientes cómo puede afectar la demanda de compras a cuotas y qué previsibilidad de cobro les da a las billeteras que financian parte del consumo online.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.ambito.com/finanzas/debuta-un-nuevo-sistema-cobro-deudores-pese-los-reparos-los-bancos-el-bcra-lo-pone-marcha-n6314846",
+    "id": "ct-9b0b1466",
+    "source_kind": "auto",
+    "last_updated": "2026-08-27",
+    "first_seen": "2026-08-27"
   }
 ]

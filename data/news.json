@@ -1,28 +1,5 @@
 [
   {
-    "title": "Mercado Libre supera por primera vez los US$10.000 millones de ingresos trimestrales, pero el mercado castiga el gasto en logística",
-    "what_happened": "El 5 de agosto Mercado Libre reportó su Q2 2026 con ingresos de US$10.200 millones (+50% i.a.) y utilidad neta de US$466 millones, el trigésimo trimestre consecutivo creciendo más de 30%. La acción cayó cerca de 7% en el after-hours por la presión de márgenes derivada de inversiones en logística, Mercado Pago e IA.",
-    "why_it_matters": "Confirma que el líder regional está dispuesto a sacrificar margen para consolidar su red logística propia y su ecosistema financiero, elevando el estándar de servicio de toda la región.",
-    "fixy_impact": "El benchmark de entrega y trazabilidad que fija Mercado Libre se traslada a las expectativas de cualquier tienda online argentina: Fixy compite contra ese nivel de servicio, no contra otros couriers.",
-    "category": "Marketplaces",
-    "geo": "LATAM",
-    "source_name": "Bloomberg Línea",
-    "source_url": "https://www.bloomberglinea.com/latinoamerica/argentina/mercadolibre-supera-expectativas-de-facturacion-y-ganancia-neta-en-el-segundo-trimestre/",
-    "published_date": "2026-08-05",
-    "priority": "alta",
-    "tags": [
-      "Mercado Libre",
-      "resultados",
-      "logística propia",
-      "fintech",
-      "IA"
-    ],
-    "id": "nw-c5e843b8fa",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
     "title": "Mercado Libre construirá en Córdoba su primer centro de almacenamiento fuera del AMBA: US$91 millones",
     "what_happened": "El 11 de agosto se confirmó una inversión de US$91 millones en Estación Juárez Celman (Córdoba): 60.000 m², capacidad para 6 millones de productos, desarrollado por Plaza Logística y con operación prevista para fines de 2027. Generará 2.000 empleos directos.",
     "why_it_matters": "Es el primer quiebre real del esquema centralizado en AMBA: descentralizar el stock acorta tiempos y abarata el envío al Centro, NOA y NEA.",
@@ -41,29 +18,6 @@
       "Plaza Logística"
     ],
     "id": "nw-06abe56b48",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "title": "Los costos logísticos subieron 2,25% en julio, con peajes +18,3%",
-    "what_happened": "El índice CEDOL-UTN marcó un alza de 2,25% en julio de 2026, impulsada por la segunda cuota del acuerdo salarial. En almacenaje pesaron energía (+6,65%) y seguridad (+3,78%); en transporte, peajes (+18,32%), lubricantes (+4,84%) y gastos operativos (+4,14%). El combustible no varió.",
-    "why_it_matters": "El costo logístico volvió a correr por encima de la inflación mensual (2,1%) en un mercado donde el consumo cae: la brecha entre costo y capacidad de repactar tarifas se ensancha.",
-    "fixy_impact": "Da argumentos objetivos y auditables para renegociar tarifas con clientes: el índice CEDOL es referencia pública aceptada por la industria y sirve como cláusula de ajuste en contratos.",
-    "category": "Logística",
-    "geo": "Argentina",
-    "source_name": "Webpicking",
-    "source_url": "https://webpicking.com/costos-logisticos-suben-225-en-julio-en-argentina/",
-    "published_date": "2026-08-05",
-    "priority": "alta",
-    "tags": [
-      "CEDOL",
-      "costos logísticos",
-      "peajes",
-      "paritarias",
-      "tarifas"
-    ],
-    "id": "nw-64d29af6f8",
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
@@ -225,29 +179,6 @@
       "conversión"
     ],
     "id": "nw-0328d736d7",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "title": "UPS amplía funciones de retiro para pymes que despachan",
-    "what_happened": "El 5 de agosto UPS anunció mejoras en Smart Pickup y servicios asociados, dando a los clientes más control y transparencia sobre las recolecciones. Las funciones apuntan específicamente al segmento de pequeños comercios que despachan paquetes.",
-    "why_it_matters": "Los grandes carriers globales están compitiendo por el pequeño remitente con herramientas de autogestión, no con precio.",
-    "fixy_impact": "Es una hoja de ruta de producto de bajo costo: visibilidad y control de la recolección (reprogramar, confirmar, trazar) es una mejora de experiencia que Fixy puede replicar y comunicar como diferencial frente a couriers tradicionales.",
-    "category": "Logística",
-    "geo": "Global",
-    "source_name": "Supply Chain Dive",
-    "source_url": "https://www.supplychaindive.com/news/ups-rolls-out-pickup-upgrades-for-small-business-shippers/826965/",
-    "published_date": "2026-08-05",
-    "priority": "relevante",
-    "tags": [
-      "UPS",
-      "pickup",
-      "pymes",
-      "experiencia de cliente",
-      "autogestión"
-    ],
-    "id": "nw-396384087c",
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
@@ -666,5 +597,51 @@
     "source_kind": "auto",
     "last_updated": "2026-08-25",
     "first_seen": "2026-08-25"
+  },
+  {
+    "title": "El BCRA habilita el débito automático de cuotas de préstamos desde cuentas bancarias y billeteras",
+    "what_happened": "A partir del 31 de agosto entra en vigencia el sistema \"Cobro con Transferencia\" (CCT) del BCRA, que permite a bancos y billeteras virtuales -como Mercado Pago y Ualá- debitar cuotas de crédito impagas directamente de la cuenta bancaria o virtual del deudor, aunque esté en otra entidad. El mecanismo exige consentimiento previo del usuario, aviso con al menos 24 horas de anticipación y un máximo de tres intentos de débito (el original más dos reintentos a las 48 y 96 horas), y el débito no puede superar el 30% del ingreso declarado. La medida busca frenar la morosidad de créditos otorgados por fintech, que según el BCRA llegó a niveles récord.",
+    "why_it_matters": "Cambia las reglas de cobro del crédito de consumo que financia buena parte de las compras online, endureciendo el cobro a deudores pero dando más previsibilidad de repago a las entidades que prestan a compradores de ecommerce.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "Ámbito Financiero",
+    "source_url": "https://www.ambito.com/finanzas/debuta-un-nuevo-sistema-cobro-deudores-pese-los-reparos-los-bancos-el-bcra-lo-pone-marcha-n6314846",
+    "published_date": "2026-08-26",
+    "priority": "relevante",
+    "tags": [
+      "BCRA",
+      "billeteras virtuales",
+      "crédito",
+      "morosidad",
+      "regulación"
+    ],
+    "id": "nw-cfa3858ebb",
+    "source_kind": "auto",
+    "last_updated": "2026-08-27",
+    "first_seen": "2026-08-27"
+  },
+  {
+    "title": "Se duplicaron los robos de vehículos en el interior y los utilitarios de reparto son el blanco principal",
+    "what_happened": "Un informe difundido esta semana muestra que los operativos de robo de vehículos en el interior de Argentina se duplicaron en julio de 2026 respecto de julio de 2025, con Córdoba, Mendoza, Santa Fe y Neuquén ganando protagonismo; en lo que va de 2026 los robos fuera de la provincia de Buenos Aires ya equivalen al 80% de todo lo registrado en 2025. Sobre 4.490 robos a transporte de mercadería relevados en un período de 12 meses, el 83% recayó sobre camionetas y utilitarios de reparto, contra apenas el 17% de camiones grandes.",
+    "why_it_matters": "El delito contra el transporte de mercadería se está corriendo del AMBA hacia el interior, justo donde crece la última milla del ecommerce, lo que presiona costos de seguro y seguridad para las flotas de reparto en esas provincias.",
+    "fixy_impact": "Vale revisar pólizas de seguro, rastreo satelital y protocolos de seguridad de las camionetas y utilitarios que reparten en el interior, en especial en Córdoba, Mendoza, Santa Fe y Neuquén.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "Informe Operadores de Mercado",
+    "source_url": "https://www.informeoperadores.com.ar/2026/08/24/en-julio-se-duplicaron-los-robos-de-vehiculos-en-el-interior-del-pais/",
+    "published_date": "2026-08-24",
+    "priority": "relevante",
+    "tags": [
+      "seguridad",
+      "última milla",
+      "robo de carga",
+      "interior",
+      "seguros"
+    ],
+    "id": "nw-3c80278af1",
+    "source_kind": "auto",
+    "last_updated": "2026-08-27",
+    "first_seen": "2026-08-27"
   }
 ]

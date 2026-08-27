@@ -1,5 +1,20 @@
 [
   {
+    "title": "Ofrecer seguridad y rastreo satelital como argumento comercial para que vendedores del interior tercericen la última milla",
+    "context": "Un informe de agosto de 2026 mostró que los robos de vehículos utilitarios de reparto se duplicaron en el interior del país, con foco en Córdoba, Mendoza, Santa Fe y Neuquén, y que el 83% de los robos a transporte de mercadería recae sobre camionetas y utilitarios. Los vendedores y pymes que reparten con flota propia en esas provincias quedan expuestos a un riesgo operativo y de seguro creciente, justo donde más crece la última milla del ecommerce.",
+    "action": "Armar una pieza comercial dirigida a sellers y pymes del interior que reparten con flota propia, mostrando el rastreo satelital y los protocolos de seguridad de Fixy como argumento concreto para tercerizar la última milla en las provincias con más robos.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.informeoperadores.com.ar/2026/08/24/en-julio-se-duplicaron-los-robos-de-vehiculos-en-el-interior-del-pais/",
+    "linked": [
+      "Se duplicaron los robos de vehículos en el interior y los utilitarios de reparto son el blanco principal"
+    ],
+    "id": "op-7396c64d",
+    "source_kind": "auto",
+    "last_updated": "2026-08-27",
+    "first_seen": "2026-08-27"
+  },
+  {
     "title": "Ofrecer atención de pedidos vía IA conectada al panel de Tiendanube como diferencial de servicio",
     "context": "Tiendanube lanzó el 16 de agosto un conector MCP oficial que permite operar el panel de una tienda (pedidos, catálogo, métricas) por lenguaje natural desde ChatGPT, Gemini o Claude. Buena parte de la cartera de clientes y prospectos de Fixy opera sobre Tiendanube.",
     "action": "Elegir 2 o 3 clientes de Tiendanube como piloto y conectar su MCP a un asistente de atención de Fixy para resolver consultas de estado de pedido y stock sin entrar manualmente al panel, ofreciéndolo como diferencial de servicio frente a otros operadores logísticos.",
@@ -106,21 +121,5 @@
     "source_kind": "auto",
     "last_updated": "2026-08-24",
     "first_seen": "2026-08-24"
-  },
-  {
-    "title": "Ofrecer un bot propio de seguimiento de pedidos por WhatsApp, más barato que el agente nativo de Meta",
-    "context": "Desde el 1° de agosto Meta cobra USD 2 por millón de tokens por su Business Agent de WhatsApp (unos 4-5 centavos por conversación) y desde el 1° de octubre también cobrará los mensajes de servicio dentro de la ventana de 24 horas. Varios clientes de Fixy ya usan o evalúan bots de WhatsApp para responder '¿dónde está mi pedido?'.",
-    "action": "Armar con n8n (que ya tiene MCP nativo) un bot de estado de envío conectado a la API de tracking de Fixy y ofrecerlo a los clientes como servicio adicional o diferencial comercial, más económico y sin depender de la tarifa de Meta.",
-    "type": "producto",
-    "priority": "relevante",
-    "source_url": "https://www.techtimes.com/articles/320787/20260716/meta-business-agent-billing-starts-aug-1-free-test-window-ends-days.htm",
-    "linked": [
-      "Meta Business Agent (WhatsApp AI)",
-      "n8n MCP nativo (Server y Client)"
-    ],
-    "id": "op-17cb95dd",
-    "source_kind": "auto",
-    "last_updated": "2026-08-23",
-    "first_seen": "2026-08-23"
   }
 ]

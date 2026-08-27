@@ -326,5 +326,21 @@
     "source_kind": "auto",
     "last_updated": "2026-08-22",
     "first_seen": "2026-08-22"
+  },
+  {
+    "title": "Ofrecer un bot propio de seguimiento de pedidos por WhatsApp, más barato que el agente nativo de Meta",
+    "context": "Desde el 1° de agosto Meta cobra USD 2 por millón de tokens por su Business Agent de WhatsApp (unos 4-5 centavos por conversación) y desde el 1° de octubre también cobrará los mensajes de servicio dentro de la ventana de 24 horas. Varios clientes de Fixy ya usan o evalúan bots de WhatsApp para responder '¿dónde está mi pedido?'.",
+    "action": "Armar con n8n (que ya tiene MCP nativo) un bot de estado de envío conectado a la API de tracking de Fixy y ofrecerlo a los clientes como servicio adicional o diferencial comercial, más económico y sin depender de la tarifa de Meta.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://www.techtimes.com/articles/320787/20260716/meta-business-agent-billing-starts-aug-1-free-test-window-ends-days.htm",
+    "linked": [
+      "Meta Business Agent (WhatsApp AI)",
+      "n8n MCP nativo (Server y Client)"
+    ],
+    "id": "op-17cb95dd",
+    "source_kind": "auto",
+    "last_updated": "2026-08-23",
+    "first_seen": "2026-08-23"
   }
 ]
