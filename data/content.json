@@ -406,5 +406,51 @@
     "source_kind": "auto",
     "last_updated": "2026-08-27",
     "first_seen": "2026-08-27"
+  },
+  {
+    "topic": "Los nuevos importadores sin logística: qué significa el boom de indumentaria importada para el fulfillment",
+    "why_now": "Las importaciones de bienes de consumo tocaron un récord semestral (US$5.362 millones) con indumentaria +86%, lo que revela un perfil de importador-vendedor nuevo que todavía no resolvió cómo nacionalizar, guardar y distribuir su mercadería.",
+    "fixy_angle": "Fixy puede mostrarse como el socio que resuelve justamente esa primera etapa que un importador nuevo no sabe cómo armar, con casos concretos aplicados a indumentaria.",
+    "formats": [
+      "LinkedIn",
+      "nota",
+      "artículo"
+    ],
+    "priority": "alta",
+    "source_url": "https://www.ambito.com/economia/record-importaciones-bienes-consumo-que-productos-registraron-subas-530-n6311906",
+    "id": "ct-b248052b",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
+  },
+  {
+    "topic": "Repartidores en la mira: qué implica para el seguro y la seguridad de una flota que se dupliquen los robos de utilitarios en el interior",
+    "why_now": "Los robos de vehículos en el interior se duplicaron en julio y los utilitarios de reparto son el blanco principal, justo en las provincias donde más crece la última milla del ecommerce.",
+    "fixy_angle": "Fixy puede posicionar su expertise en seguridad y rastreo de flota como un tema que todavía pocos vendedores del interior tienen resuelto, mostrando cómo se gestiona el riesgo sin asumirlo con flota propia.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.informeoperadores.com.ar/2026/08/24/en-julio-se-duplicaron-los-robos-de-vehiculos-en-el-interior-del-pais/",
+    "id": "ct-ea7564c6",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
+  },
+  {
+    "topic": "El crédito que financia las compras online cambia de reglas: qué significa el débito automático que habilitó el BCRA",
+    "why_now": "El BCRA habilitó el débito automático de cuotas de préstamos desde cuentas y billeteras, endureciendo el cobro a deudores justo en un contexto de mora récord y de un consumo que se sostiene en buena parte con financiamiento.",
+    "fixy_angle": "Ayuda a explicarle a clientes eCommerce cómo puede afectar la capacidad de pago de sus compradores financiados, y por qué conviene diversificar medios de cobro, incluido el cobro contra entrega que gestiona Fixy.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.ambito.com/finanzas/debuta-un-nuevo-sistema-cobro-deudores-pese-los-reparos-los-bancos-el-bcra-lo-pone-marcha-n6314846",
+    "id": "ct-bcccf755",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
   }
 ]

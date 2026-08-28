@@ -342,5 +342,52 @@
     "source_kind": "auto",
     "last_updated": "2026-08-23",
     "first_seen": "2026-08-23"
+  },
+  {
+    "title": "Usar el crecimiento del 39,9% del eCommerce como argumento ante retailers que todavía dudan en digitalizarse",
+    "context": "El consumo masivo cayó en julio por séptimo mes consecutivo mientras el comercio electrónico creció 39,9%, ampliando la brecha entre el canal físico y el online. Es un dato contundente para convencer a comercios que todavía dudan en invertir en logística para su canal digital.",
+    "action": "Incorporar este dato en el material comercial de Fixy para la prospección de clientes que operan solo en el canal físico, como evidencia de que el eCommerce es hoy el canal de crecimiento real.",
+    "type": "marketing",
+    "priority": "informativo",
+    "source_url": "https://www.lanacion.com.ar/economia/el-consumo-masivo-volvio-a-caer-en-julio-aunque-modero-la-baja-con-respecto-al-mes-anterior-nid21082026/",
+    "linked": [
+      "El consumo masivo cayó en julio por séptimo mes consecutivo, pero el comercio electrónico creció 39,9%"
+    ],
+    "id": "op-75a4af37",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "Asegurar condiciones de depósito en el AMBA antes de que la demanda de Mercado Libre en La Plata presione los alquileres",
+    "context": "Mercado Libre negocia con la Municipalidad de La Plata la instalación de su mayor centro logístico de la región, un movimiento adicional a la inversión ya anunciada en Córdoba. Esa expansión densifica todavía más la demanda de naves industriales cerca del AMBA, la zona de mayor volumen de última milla del país, lo que puede empujar hacia arriba el costo de los depósitos disponibles en esa franja.",
+    "action": "Revisar ahora los contratos de alquiler de los depósitos de Fixy en el AMBA y evaluar renegociar o extender condiciones antes de que la demanda adicional de Mercado Libre en La Plata presione los precios de la zona.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.eldia.com/politica-y-economia/mercado-libre-con-un-megaproyecto-logistico-para-instalar-en-la-ciudad-politica-y-economia_1787028735",
+    "linked": [
+      "Mercado Libre negocia con la Municipalidad de La Plata su mayor centro logístico de la región"
+    ],
+    "id": "op-0bab0b80",
+    "source_kind": "auto",
+    "last_updated": "2026-08-24",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Ofrecer cobro contra entrega gestionado por Fixy como alternativa ante la presión regulatoria sobre las billeteras",
+    "context": "La Provincia de Buenos Aires abrió un frente de Defensa del Consumidor contra las billeteras virtuales por cómo cobran y gestionan la mora, y por separado un grupo de diputados pidió investigar a Mercado Pago, Ualá y otras 90 billeteras por tasas y algoritmos, justo cuando las fintech ya acumulan más de 10 millones de deudores y 2,4 millones en mora. Ese doble frente regulatorio genera incertidumbre sobre cómo van a poder cobrar y gestionar la mora las billeteras que hoy procesan buena parte de los cobros del eCommerce argentino.",
+    "action": "Armar una propuesta comercial de cobro contra entrega gestionado por Fixy para sellers chicos que quieran reducir su dependencia de las billeteras mientras dure la incertidumbre regulatoria.",
+    "type": "nueva línea de negocio",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/08/20/mora-record-kicillof-investiga-a-mercado-pago-y-otras-billeteras-por-hostigamiento-acoso-y-falta-de-informacion-clara/",
+    "linked": [
+      "La Provincia de Buenos Aires abre otro frente contra las billeteras virtuales, ahora por hostigamiento a deudores",
+      "Diputados piden investigar a Mercado Pago, Ualá y otras 90 billeteras por tasas de crédito y algoritmos discriminatorios",
+      "Las fintech ya superan los 10 millones de deudores en Argentina, con 2,4 millones en mora"
+    ],
+    "id": "op-011152fa",
+    "source_kind": "auto",
+    "last_updated": "2026-08-24",
+    "first_seen": "2026-08-24"
   }
 ]

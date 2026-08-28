@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-08-27T12:33:44.594Z",
-  "last_updated_ar": "27/08/2026, 09:33",
-  "date": "2026-08-27",
+  "generated_at": "2026-08-28T12:32:04.358Z",
+  "last_updated_ar": "28/08/2026, 09:32",
+  "date": "2026-08-28",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El día combina la inminente suba de costos de Mercado Libre a sus vendedores —que entra en vigencia el 1° de septiembre— con la edición número 200 del eCommerce Day Argentina hoy mismo, mientras el BCRA habilita el débito automático de cuotas y un informe advierte que los robos a utilitarios de reparto se duplicaron en el interior del país.",
+  "summary_line": "Hoy el dato que más pesa es la suba de costos de Mercado Libre a partir del 1° de septiembre, en un contexto donde el eCommerce sigue siendo el único canal que crece pese a la caída del consumo masivo y donde aparece una nueva ola de importadores sin logística propia.",
   "counters": {
     "news_today": 2,
-    "news_total": 28,
-    "events_upcoming": 66,
-    "events_ar_upcoming": 39,
-    "events_intl_upcoming": 27,
+    "news_total": 29,
+    "events_upcoming": 69,
+    "events_ar_upcoming": 40,
+    "events_intl_upcoming": 29,
     "events_later": 17,
     "opportunities_open": 8,
-    "opportunities_today": 1,
-    "ai_today": 1,
-    "ai_to_try": 20,
-    "content_ideas": 27,
+    "opportunities_today": 3,
+    "ai_today": 2,
+    "ai_to_try": 21,
+    "content_ideas": 30,
     "added_news": 2,
     "updated_news": 0,
-    "added_events": 6,
-    "updated_events": 4,
-    "added_ai": 1,
+    "added_events": 5,
+    "updated_events": 5,
+    "added_ai": 2,
     "archived": 4,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-argentina-day-ecommerce-2026",
-    "name": "eCommerce Day Argentina 2026",
-    "date_start": "2026-08-27",
-    "city": "Buenos Aires",
-    "days_away": 0
+    "id": "ev-business-fe-forum-santa-2026",
+    "name": "Santa Fe Business Forum 2026",
+    "date_start": "2026-08-31",
+    "city": "Rosario",
+    "days_away": 3
   },
   "highlights": [
     {
@@ -38,35 +38,35 @@
       "kind": "news",
       "title": "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre",
       "priority": "alta",
-      "one_liner": "La suba entra en vigencia en días: vale evaluar la oferta comercial de fulfillment propio antes de esa fecha."
+      "one_liner": "Golpea más fuerte a los productos de ticket bajo justo cuando el consumo masivo lleva siete meses cayendo, y es una fecha límite concreta para actuar."
     },
     {
-      "id": "ev-argentina-day-ecommerce-2026",
-      "kind": "event",
-      "title": "eCommerce Day Argentina 2026",
+      "id": "nw-de93b68e05",
+      "kind": "news",
+      "title": "El consumo masivo cayó en julio por séptimo mes consecutivo, pero el comercio electrónico creció 39,9%",
       "priority": "alta",
-      "one_liner": "Es hoy y llega a su edición número 200: la cita del ecosistema digital argentino para hacer networking comercial."
+      "one_liner": "Confirma que el eCommerce es el canal más dinámico incluso con el consumo físico estancado, el mejor argumento comercial del momento."
     },
     {
-      "id": "nw-cfa3858ebb",
+      "id": "nw-114576549c",
       "kind": "news",
-      "title": "El BCRA habilita el débito automático de cuotas de préstamos desde cuentas bancarias y billeteras",
+      "title": "Mercado Libre negocia con la Municipalidad de La Plata su mayor centro logístico de la región",
       "priority": "relevante",
-      "one_liner": "Cambia las reglas de cobro del crédito de consumo que financia buena parte de las compras online."
+      "one_liner": "Mercado Libre sigue densificando su red cerca del AMBA, lo que puede presionar los alquileres de depósito en la zona."
     },
     {
-      "id": "nw-3c80278af1",
+      "id": "nw-b946fea6cb",
       "kind": "news",
-      "title": "Se duplicaron los robos de vehículos en el interior y los utilitarios de reparto son el blanco principal",
+      "title": "Récord de importaciones de bienes de consumo: US$5.362 millones en el primer semestre, con indumentaria +86%",
       "priority": "relevante",
-      "one_liner": "El delito se corre hacia el interior, justo donde crece la última milla: vale revisar seguros y rastreo de las flotas."
+      "one_liner": "Aparece una nueva ola de importadores-vendedores sin experiencia logística que van a necesitar nacionalizar, guardar y distribuir producto."
     },
     {
-      "id": "ai-microsoft-python-en-excel-con-copilot",
-      "kind": "ai",
-      "title": "Python en Excel con Copilot",
-      "priority": "relevante",
-      "one_liner": "Permite analizar planillas de pedidos y costos de envío en lenguaje natural, sin depender de alguien que programe."
+      "id": "ev-argentina-experience-libre-mercado-2026",
+      "kind": "event",
+      "title": "Mercado Libre Experience Argentina 2026",
+      "priority": "alta",
+      "one_liner": "Concentra a miles de sellers de ML que necesitan fulfillment y última milla: la mayor oportunidad de generación de leads del calendario cercano."
     }
   ]
 }

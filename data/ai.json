@@ -45,30 +45,6 @@
     "first_seen": "2026-08-26"
   },
   {
-    "name": "\"Take notes for me\" de Google Meet para reuniones presenciales",
-    "vendor": "Google",
-    "what_it_is": "Gemini graba una reunión cara a cara desde el celular o la web y genera transcripción, resumen y lista de acciones en un Google Doc que queda en Drive.",
-    "what_changed": "Anunciado el 13 de agosto de 2026: dejó de ser solo para videollamadas. Se activa con 'Start taking notes' en una reunión física, apoyando el teléfono sobre la mesa. Rollout en Android y iOS desde fines de agosto.",
-    "fixy_use": "Grabar la reunión comercial semanal y que salga sola la lista de pendientes con responsables. Usarlo en visitas presenciales a clientes eCommerce para tener el acta y los compromisos de servicio (volúmenes, plazos, zonas) documentados sin trabajo extra. En la reunión de operaciones, dejar registro de decisiones y reclamos recurrentes.",
-    "verdict": "probar",
-    "verdict_reason": "Elimina una tarea manual que un equipo chico casi nunca hace bien y no requiere cambiar ninguna herramienta.",
-    "categories": [
-      "Organización",
-      "Comercial",
-      "Productividad",
-      "Gestión del tiempo",
-      "Management"
-    ],
-    "pricing_note": "Pago: requiere Google AI Pro/Ultra o Workspace Business Standard/Plus. Limitación: un solo idioma al lanzamiento y se recomienda reuniones de hasta ~15 minutos.",
-    "source_url": "https://9to5google.com/2026/08/13/google-meet-take-notes-in-person/",
-    "published_date": "2026-08-13",
-    "priority": "alta",
-    "id": "ai-google-take-notes-for-me-de-google-meet-para-reuniones-prese",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
     "name": "Compras y pagos agénticos en Argentina",
     "vendor": "Mercado Pago, Tiendanube, Visa, Mastercard, Pomelo",
     "what_it_is": "Compras iniciadas y pagadas por un asistente de IA en lugar del usuario navegando una tienda. Incluye el Asistente Personal de IA de Mercado Pago (pagar servicios desde la foto de una boleta) y pilotos de pago con credenciales tokenizadas.",
@@ -182,28 +158,6 @@
     "first_seen": "2026-08-22"
   },
   {
-    "name": "Meta Business Agent (WhatsApp AI)",
-    "vendor": "Meta",
-    "what_it_is": "El agente de IA de Meta que responde consultas de clientes y puede cerrar ventas de forma automática dentro de WhatsApp, Messenger e Instagram, aprendiendo del catálogo, la web y las conversaciones previas del negocio.",
-    "what_changed": "Desde el 1° de agosto de 2026 Meta empezó a cobrar su uso: pasó de ser gratis durante julio (ventana de prueba) a un esquema por tokens de 2 dólares cada millón, que incluye tanto el procesamiento de IA como el envío del mensaje. Una conversación típica consume entre 20.000 y 25.000 tokens, es decir unos 4 a 5 centavos de dólar por interacción.",
-    "fixy_use": "Si Fixy evalúa usar este agente para responder consultas de \"dónde está mi pedido\" en WhatsApp, el costo por interacción ya es un dato de negocio concreto que hay que sumar antes de escalarlo: con el volumen de atención al cliente de un operador de eCommerce, el gasto mensual puede crecer rápido si el agente no se acota a preguntas simples y repetitivas. Conviene simular el costo mensual con el volumen real de consultas de Fixy antes de decidir si conviene frente a un flujo propio en n8n con un modelo más económico.",
-    "verdict": "seguir",
-    "verdict_reason": "El cambio de precio es el dato clave para decidir si conviene adoptarlo, pero conviene primero simular el costo con volumen real antes de comprometerse.",
-    "categories": [
-      "Comercial",
-      "Automatización",
-      "Operaciones"
-    ],
-    "pricing_note": "pago — 2 USD por millón de tokens desde el 1/8/2026 (julio fue gratis como período de prueba)",
-    "source_url": "https://www.techtimes.com/articles/320787/20260716/meta-business-agent-billing-starts-aug-1-free-test-window-ends-days.htm",
-    "published_date": "2026-08-01",
-    "priority": "alta",
-    "id": "ai-meta-meta-business-agent-whatsapp-ai",
-    "source_kind": "auto",
-    "last_updated": "2026-08-25",
-    "first_seen": "2026-08-20"
-  },
-  {
     "name": "Python en Excel con Copilot",
     "vendor": "Microsoft",
     "what_it_is": "Una función de Copilot en Excel que permite pedirle en lenguaje natural que ejecute código Python sobre los datos de la planilla, para hacer análisis estadísticos, simulaciones y gráficos más avanzados que con fórmulas tradicionales.",
@@ -224,6 +178,49 @@
     "source_kind": "auto",
     "last_updated": "2026-08-27",
     "first_seen": "2026-08-27"
+  },
+  {
+    "name": "Copilot en Excel: habilidades de gráficos, tablas dinámicas e historial de cambios",
+    "vendor": "Microsoft",
+    "what_it_is": "Nuevas 'habilidades' de Copilot dentro de Excel: @chart-design para armar gráficos y tablas dinámicas automáticamente, y un historial de cambios que resume cómo evolucionó una planilla y quién hizo cada modificación (persona o IA).",
+    "what_changed": "Microsoft las incorporó en la actualización de Excel de agosto de 2026, disponibles en Windows, Mac y web.",
+    "fixy_use": "Alguien de operaciones o comercial puede pedirle a Copilot que arme un gráfico o tabla dinámica de despachos por zona o cliente sin construirla a mano, y usar el historial de cambios para entender rápido qué se modificó en una planilla compartida de tarifas o stock sin revisar celda por celda.",
+    "verdict": "probar",
+    "verdict_reason": "Reduce tiempo armando reportes en Excel, que probablemente es donde vive buena parte de la data operativa de Fixy.",
+    "categories": [
+      "Análisis",
+      "Productividad",
+      "Operaciones"
+    ],
+    "pricing_note": "pago - requiere licencia de Microsoft 365 Copilot",
+    "source_url": "https://techcommunity.microsoft.com/blog/excelblog/whats-new-in-excel-august-2026/4527283",
+    "published_date": "2026-08-25",
+    "priority": "relevante",
+    "id": "ai-microsoft-copilot-en-excel-habilidades-de-graficos-tablas-di",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
+  },
+  {
+    "name": "Simulaciones y visualizaciones interactivas en la app de Gemini",
+    "vendor": "Google",
+    "what_it_is": "Gemini puede convertir una pregunta en una visualización interactiva (tablas, gráficos, simulaciones) directamente en el chat, en vez de devolver solo texto o una imagen fija.",
+    "what_changed": "Google empezó a lanzar esta función el 24 de agosto de 2026 para todos los clientes de Workspace y suscriptores de Gemini; antes las respuestas eran mayormente texto con diagramas estáticos.",
+    "fixy_use": "Sirve para pedirle a Gemini que arme, por ejemplo, una tabla interactiva que explique cómo evoluciona el volumen de despachos por zona o el costo por envío, para mostrarla en una reunión de management sin depender de un diseñador ni armar el gráfico a mano. También puede usarse para explicarle a un cliente de forma visual cómo funciona una tarifa o una promoción de envíos.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis para quien ya usa Gemini y puede mejorar cómo se presentan datos operativos sin herramientas extra.",
+    "categories": [
+      "Análisis",
+      "Contenido"
+    ],
+    "pricing_note": "freemium - incluido en cuentas de Workspace y la app de Gemini, sin costo adicional confirmado",
+    "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/",
+    "published_date": "2026-08-24",
+    "priority": "relevante",
+    "id": "ai-google-simulaciones-y-visualizaciones-interactivas-en-la-app",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
   },
   {
     "name": "Ask Gemini en Google Chat",
@@ -561,6 +558,27 @@
     "first_seen": "2026-08-19"
   },
   {
+    "name": "Meta Business Agent (WhatsApp AI)",
+    "vendor": "Meta",
+    "what_it_is": "Es el agente de IA de Meta que responde consultas, recomienda productos y puede cerrar ventas dentro de WhatsApp, Messenger e Instagram.",
+    "what_changed": "Desde el 1 de agosto de 2026 Meta terminó la ventana gratuita de prueba y pasó a cobrar por tokens: 2 dólares cada millón de tokens, una tarifa única que junta el procesamiento de IA y el envío del mensaje.",
+    "fixy_use": "Si Fixy evalúa usar este agente para atención por WhatsApp (por ejemplo consultas de estado de envío), ya no hay período gratis: conviene estimar cuántas conversaciones y qué tan largas serían antes de activarlo, porque el costo ahora depende de cuánto 'habla' el agente y no de un precio fijo por mensaje. Vale la pena comparar este costo contra el de Fin o un bot armado en n8n con WhatsApp Cloud API.",
+    "verdict": "seguir",
+    "verdict_reason": "Cambia la ecuación de costo de algo que ya está en el radar, pero todavía no es una decisión urgente para Fixy.",
+    "categories": [
+      "Comercial",
+      "Automatización"
+    ],
+    "pricing_note": "pago - USD 2 por millón de tokens desde el 1/8/2026, ya no hay ventana gratuita de prueba",
+    "source_url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/pricing/ai-providers",
+    "published_date": "2026-08-01",
+    "priority": "relevante",
+    "id": "ai-meta-meta-business-agent-whatsapp-ai",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-20"
+  },
+  {
     "name": "Gemini Enterprise Business edition: servidores MCP propios",
     "vendor": "Google",
     "what_it_is": "Gemini Enterprise Business edition es la versión de la plataforma agéntica de Google para empresas chicas y equipos. Ahora permite conectar servidores MCP propios para que los agentes accedan a datos privados y herramientas internas.",
@@ -606,6 +624,27 @@
     "id": "ai-anthropic-claude-cowork-en-web-y-movil-con-ejecucion-en-segu",
     "source_kind": "auto",
     "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "name": "\"Take notes for me\" de Google Meet para reuniones presenciales",
+    "vendor": "Google",
+    "what_it_is": "Función de Gemini en Google Meet que toma notas automáticamente durante reuniones presenciales, usando el hardware de la sala.",
+    "what_changed": "Google anunció que a partir del 26 de agosto (dispositivos Early Preview) y del 2 de septiembre de 2026 (el resto) se puede iniciar, pausar y controlar la toma de notas directamente desde el controlador táctil del hardware de la sala, sin necesitar el modo Companion en un celular o notebook.",
+    "fixy_use": "En una reunión de coordinación diaria entre operaciones y atención al cliente, cualquier persona presente puede pausar la toma de notas con un toque en la pantalla de la sala (por ejemplo al tratar un tema sensible con un cliente puntual) y retomarla después, sin depender de que alguien tenga la laptop abierta.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora de comodidad sobre algo que ya estaba en el radar; solo aplica si Fixy tiene hardware de sala compatible con Google Meet.",
+    "categories": [
+      "Organización",
+      "Gestión del tiempo"
+    ],
+    "pricing_note": "no confirmado - depende de contar con hardware de Google Meet compatible y plan de Workspace con Gemini",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/08/control-take-notes-for-me-directly-from-Google-Meet-hardware-touch-controllers.html",
+    "published_date": "2026-08-24",
+    "priority": "informativo",
+    "id": "ai-google-take-notes-for-me-de-google-meet-para-reuniones-prese",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
     "first_seen": "2026-08-19"
   },
   {

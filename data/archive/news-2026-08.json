@@ -113,5 +113,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Etsy recorta 12% de su plantilla y despide a 220 personas",
+    "what_happened": "El 6 de agosto Etsy anunció el despido de 220 empleados, equivalente al 12% de su personal. El CEO señaló que la IA está cambiando la forma de trabajar, aunque atribuyó los recortes a otros factores del negocio.",
+    "why_it_matters": "Los marketplaces de nicho basados en descubrimiento son los más expuestos a que el tráfico se desplace hacia buscadores y agentes de IA.",
+    "fixy_impact": null,
+    "category": "Marketplaces",
+    "geo": "Global",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/etsy-slashes-workforce-12-percent-laying-off-220-ai-chatgpt/827193/",
+    "published_date": "2026-08-06",
+    "priority": "informativo",
+    "tags": [
+      "Etsy",
+      "marketplaces",
+      "IA",
+      "reestructuración",
+      "tráfico"
+    ],
+    "id": "nw-1dbb0cb280",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
   }
 ]

@@ -207,29 +207,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "title": "Etsy recorta 12% de su plantilla y despide a 220 personas",
-    "what_happened": "El 6 de agosto Etsy anunció el despido de 220 empleados, equivalente al 12% de su personal. El CEO señaló que la IA está cambiando la forma de trabajar, aunque atribuyó los recortes a otros factores del negocio.",
-    "why_it_matters": "Los marketplaces de nicho basados en descubrimiento son los más expuestos a que el tráfico se desplace hacia buscadores y agentes de IA.",
-    "fixy_impact": null,
-    "category": "Marketplaces",
-    "geo": "Global",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/news/etsy-slashes-workforce-12-percent-laying-off-220-ai-chatgpt/827193/",
-    "published_date": "2026-08-06",
-    "priority": "informativo",
-    "tags": [
-      "Etsy",
-      "marketplaces",
-      "IA",
-      "reestructuración",
-      "tráfico"
-    ],
-    "id": "nw-1dbb0cb280",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
     "title": "Expo Transporte y Expo Logisti-k tuvieron su edición récord en La Rural con más de 450 expositores",
     "what_happened": "Del 11 al 13 de agosto se realizó en La Rural la edición conjunta de Expo Transporte y Expo Logisti-k, con 28.000 m² y más de 450 expositores. La agenda incluyó gestión de flotas, energías limpias, equipos autónomos y soluciones de última milla, más un Encuentro de Comercio Exterior.",
     "why_it_matters": "La escala récord del evento en un año de consumo en baja confirma que la inversión en infraestructura y tecnología logística sigue firme, apalancada en eCommerce, minería y energía.",
@@ -643,5 +620,51 @@
     "source_kind": "auto",
     "last_updated": "2026-08-27",
     "first_seen": "2026-08-27"
+  },
+  {
+    "title": "Las importaciones vía courier ya suman US$751 millones en 2026 y podrían superar todo 2025 antes de septiembre",
+    "what_happened": "En los primeros siete meses de 2026 las compras internacionales canalizadas por courier (Shein, Temu, Amazon, entre otras) sumaron US$751 millones, un 84% más que en el mismo período de 2025, según un informe de la consultora Analytica basado en datos de INDEC. La cifra quedó a solo US$143 millones del total importado por esta vía en todo 2025 (US$894 millones) y, de mantenerse el ritmo actual, podría superarlo antes de que termine septiembre.",
+    "why_it_matters": "Confirma que la compra transfronteriza dejó de ser un fenómeno ocasional y se consolidó como un canal de consumo relevante para el comprador argentino, lo que presiona a los operadores locales de última milla y fulfillment que compiten por captar ese volumen creciente de paquetes chicos.",
+    "fixy_impact": "El crecimiento sostenido del canal courier internacional confirma que la demanda de distribución de paquetes pequeños seguirá en alza, un segmento donde Fixy puede diferenciarse ofreciendo tiempos de entrega locales más rápidos que los del courier internacional.",
+    "category": "eCommerce",
+    "geo": "Argentina",
+    "source_name": "Infobae (con datos de Analytica e INDEC)",
+    "source_url": "https://www.infobae.com/economia/2026/08/25/las-importaciones-via-courier-llegaron-a-usd-751-millones-en-los-primeros-7-meses-del-ano-y-se-acercan-al-total-de-2025/",
+    "published_date": "2026-08-25",
+    "priority": "relevante",
+    "tags": [
+      "courier",
+      "importaciones",
+      "Shein",
+      "Temu",
+      "compras internacionales"
+    ],
+    "id": "nw-54a57f97a7",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
+  },
+  {
+    "title": "El consumo masivo cayó 3,7% en el segundo trimestre, con una baja del 6,8% en el AMBA, pero el comercio electrónico creció 41%",
+    "what_happened": "Según un informe de Worldpanel by Numerator, el consumo masivo en Argentina cayó 3,7% interanual en el segundo trimestre de 2026, con una contracción más marcada en los hogares del AMBA (-6,8%) frente a un comportamiento más estable en el interior del país. El primer semestre acumula una caída de 2,5%, mientras que el comercio electrónico registró un alza del 41% frente a junio de 2025, con crecimiento en todas las categorías relevadas.",
+    "why_it_matters": "La brecha entre la caída del consumo físico y el fuerte crecimiento del canal online, particularmente marcada en el AMBA, confirma que el comercio electrónico sigue ganando participación aun en un contexto de consumo retraído.",
+    "fixy_impact": "El diferencial de desempeño entre canal físico y online refuerza el argumento comercial de Fixy ante marcas que todavía priorizan la tienda física: el canal digital es hoy el que sostiene el volumen.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Ámbito Financiero (con datos de Worldpanel by Numerator)",
+    "source_url": "https://www.ambito.com/economia/el-consumo-masivo-se-contrajo-37-el-segundo-trimestre-y-la-caida-se-profundiza-el-amba-n6315577",
+    "published_date": "2026-08-27",
+    "priority": "informativo",
+    "tags": [
+      "consumo masivo",
+      "AMBA",
+      "ecommerce",
+      "segundo trimestre",
+      "Worldpanel"
+    ],
+    "id": "nw-e3509c8c04",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
   }
 ]

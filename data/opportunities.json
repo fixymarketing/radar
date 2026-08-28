@@ -1,5 +1,51 @@
 [
   {
+    "title": "Paquete de arranque logístico para nuevos importadores-vendedores",
+    "context": "Las importaciones de bienes de consumo llegaron a US$5.362 millones en el primer semestre, con indumentaria subiendo 86%, lo que muestra una ola de importadores nuevos que compran afuera pero todavía no tienen experiencia ni infraestructura para nacionalizar, almacenar y distribuir su mercadería en el mercado local.",
+    "action": "Armar una oferta comercial específica de 'primer contenedor' (recepción, almacenamiento y despacho) para importadores que recién empiezan a vender en Argentina, con foco inicial en indumentaria.",
+    "type": "nueva línea de negocio",
+    "priority": "alta",
+    "source_url": "https://www.ambito.com/economia/record-importaciones-bienes-consumo-que-productos-registraron-subas-530-n6311906",
+    "linked": [
+      "Récord de importaciones de bienes de consumo: US$5.362 millones en el primer semestre, con indumentaria +86%"
+    ],
+    "id": "op-2b6b9fe6",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
+  },
+  {
+    "title": "Diagnóstico de costo real para vendedores de Mercado Libre afectados por la suba",
+    "context": "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre, un golpe más fuerte para el ticket bajo justo cuando el consumo masivo lleva siete meses cayendo. Muchos sellers van a evaluar por primera vez si conviene diversificar hacia tienda propia.",
+    "action": "Crear una calculadora o diagnóstico simple (costo de vender en ML vs. tienda propia + fulfillment de Fixy) y usarlo como herramienta de venta consultiva con sellers medianos y grandes de ML.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.iprofesional.com/negocios/462755-mercado-libre-sube-los-costos-a-vendedores-y-aumenta-la-presion-en-plena-caida-del-consumo",
+    "linked": [
+      "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre"
+    ],
+    "id": "op-505aaf5f",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
+  },
+  {
+    "title": "Alianza con couriers internacionales para la última milla local de paquetes importados",
+    "context": "Las importaciones vía courier ya suman US$751 millones en 2026 y podrían superar todo 2025 antes de septiembre, y ARCA además equiparó al Correo Argentino con los couriers privados para compras en Shein, Temu y Amazon, achicando la brecha regulatoria entre ambos canales.",
+    "action": "Explorar una alianza comercial con couriers internacionales o con el Correo Argentino para que Fixy resuelva la distribución de última milla de esos paquetes en zonas del interior donde ya tiene cobertura propia.",
+    "type": "alianza",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/08/25/las-importaciones-via-courier-llegaron-a-usd-751-millones-en-los-primeros-7-meses-del-ano-y-se-acercan-al-total-de-2025/",
+    "linked": [
+      "Las importaciones vía courier ya suman US$751 millones en 2026 y podrían superar todo 2025 antes de septiembre",
+      "ARCA equipara al Correo Argentino con los couriers privados para las compras en Shein, Temu y Amazon"
+    ],
+    "id": "op-69bbc8c4",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
+  },
+  {
     "title": "Ofrecer seguridad y rastreo satelital como argumento comercial para que vendedores del interior tercericen la última milla",
     "context": "Un informe de agosto de 2026 mostró que los robos de vehículos utilitarios de reparto se duplicaron en el interior del país, con foco en Córdoba, Mendoza, Santa Fe y Neuquén, y que el 83% de los robos a transporte de mercadería recae sobre camionetas y utilitarios. Los vendedores y pymes que reparten con flota propia en esas provincias quedan expuestos a un riesgo operativo y de seguro creciente, justo donde más crece la última milla del ecommerce.",
     "action": "Armar una pieza comercial dirigida a sellers y pymes del interior que reparten con flota propia, mostrando el rastreo satelital y los protocolos de seguridad de Fixy como argumento concreto para tercerizar la última milla en las provincias con más robos.",
@@ -74,52 +120,5 @@
     "source_kind": "auto",
     "last_updated": "2026-08-25",
     "first_seen": "2026-08-25"
-  },
-  {
-    "title": "Usar el crecimiento del 39,9% del eCommerce como argumento ante retailers que todavía dudan en digitalizarse",
-    "context": "El consumo masivo cayó en julio por séptimo mes consecutivo mientras el comercio electrónico creció 39,9%, ampliando la brecha entre el canal físico y el online. Es un dato contundente para convencer a comercios que todavía dudan en invertir en logística para su canal digital.",
-    "action": "Incorporar este dato en el material comercial de Fixy para la prospección de clientes que operan solo en el canal físico, como evidencia de que el eCommerce es hoy el canal de crecimiento real.",
-    "type": "marketing",
-    "priority": "informativo",
-    "source_url": "https://www.lanacion.com.ar/economia/el-consumo-masivo-volvio-a-caer-en-julio-aunque-modero-la-baja-con-respecto-al-mes-anterior-nid21082026/",
-    "linked": [
-      "El consumo masivo cayó en julio por séptimo mes consecutivo, pero el comercio electrónico creció 39,9%"
-    ],
-    "id": "op-75a4af37",
-    "source_kind": "auto",
-    "last_updated": "2026-08-25",
-    "first_seen": "2026-08-25"
-  },
-  {
-    "title": "Asegurar condiciones de depósito en el AMBA antes de que la demanda de Mercado Libre en La Plata presione los alquileres",
-    "context": "Mercado Libre negocia con la Municipalidad de La Plata la instalación de su mayor centro logístico de la región, un movimiento adicional a la inversión ya anunciada en Córdoba. Esa expansión densifica todavía más la demanda de naves industriales cerca del AMBA, la zona de mayor volumen de última milla del país, lo que puede empujar hacia arriba el costo de los depósitos disponibles en esa franja.",
-    "action": "Revisar ahora los contratos de alquiler de los depósitos de Fixy en el AMBA y evaluar renegociar o extender condiciones antes de que la demanda adicional de Mercado Libre en La Plata presione los precios de la zona.",
-    "type": "estratégica",
-    "priority": "relevante",
-    "source_url": "https://www.eldia.com/politica-y-economia/mercado-libre-con-un-megaproyecto-logistico-para-instalar-en-la-ciudad-politica-y-economia_1787028735",
-    "linked": [
-      "Mercado Libre negocia con la Municipalidad de La Plata su mayor centro logístico de la región"
-    ],
-    "id": "op-0bab0b80",
-    "source_kind": "auto",
-    "last_updated": "2026-08-24",
-    "first_seen": "2026-08-24"
-  },
-  {
-    "title": "Ofrecer cobro contra entrega gestionado por Fixy como alternativa ante la presión regulatoria sobre las billeteras",
-    "context": "La Provincia de Buenos Aires abrió un frente de Defensa del Consumidor contra las billeteras virtuales por cómo cobran y gestionan la mora, y por separado un grupo de diputados pidió investigar a Mercado Pago, Ualá y otras 90 billeteras por tasas y algoritmos, justo cuando las fintech ya acumulan más de 10 millones de deudores y 2,4 millones en mora. Ese doble frente regulatorio genera incertidumbre sobre cómo van a poder cobrar y gestionar la mora las billeteras que hoy procesan buena parte de los cobros del eCommerce argentino.",
-    "action": "Armar una propuesta comercial de cobro contra entrega gestionado por Fixy para sellers chicos que quieran reducir su dependencia de las billeteras mientras dure la incertidumbre regulatoria.",
-    "type": "nueva línea de negocio",
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/economia/2026/08/20/mora-record-kicillof-investiga-a-mercado-pago-y-otras-billeteras-por-hostigamiento-acoso-y-falta-de-informacion-clara/",
-    "linked": [
-      "La Provincia de Buenos Aires abre otro frente contra las billeteras virtuales, ahora por hostigamiento a deudores",
-      "Diputados piden investigar a Mercado Pago, Ualá y otras 90 billeteras por tasas de crédito y algoritmos discriminatorios",
-      "Las fintech ya superan los 10 millones de deudores en Argentina, con 2,4 millones en mora"
-    ],
-    "id": "op-011152fa",
-    "source_kind": "auto",
-    "last_updated": "2026-08-24",
-    "first_seen": "2026-08-24"
   }
 ]
