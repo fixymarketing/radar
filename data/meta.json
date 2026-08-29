@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-28T12:32:04.358Z",
-  "last_updated_ar": "28/08/2026, 09:32",
-  "date": "2026-08-28",
+  "generated_at": "2026-08-29T12:26:52.694Z",
+  "last_updated_ar": "29/08/2026, 09:26",
+  "date": "2026-08-29",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Hoy el dato que más pesa es la suba de costos de Mercado Libre a partir del 1° de septiembre, en un contexto donde el eCommerce sigue siendo el único canal que crece pese a la caída del consumo masivo y donde aparece una nueva ola de importadores sin logística propia.",
+  "summary_line": "Hoy el freno a la concesión del Correo Argentino choca con la norma que lo iguala a los couriers privados para las compras en Shein, Temu y Amazon, mientras se acerca la suba de costos de Mercado Libre del 1° de septiembre y ya hay sede confirmada para su Experience 2026 en Buenos Aires.",
   "counters": {
-    "news_today": 2,
-    "news_total": 29,
-    "events_upcoming": 69,
-    "events_ar_upcoming": 40,
-    "events_intl_upcoming": 29,
-    "events_later": 17,
+    "news_today": 4,
+    "news_total": 33,
+    "events_upcoming": 74,
+    "events_ar_upcoming": 42,
+    "events_intl_upcoming": 32,
+    "events_later": 16,
     "opportunities_open": 8,
-    "opportunities_today": 3,
-    "ai_today": 2,
-    "ai_to_try": 21,
-    "content_ideas": 30,
-    "added_news": 2,
+    "opportunities_today": 2,
+    "ai_today": 3,
+    "ai_to_try": 22,
+    "content_ideas": 32,
+    "added_news": 4,
     "updated_news": 0,
-    "added_events": 5,
-    "updated_events": 5,
-    "added_ai": 2,
-    "archived": 4,
+    "added_events": 4,
+    "updated_events": 8,
+    "added_ai": 3,
+    "archived": 3,
     "discarded_quality": 0
   },
   "next_event": {
@@ -30,43 +30,43 @@
     "name": "Santa Fe Business Forum 2026",
     "date_start": "2026-08-31",
     "city": "Rosario",
-    "days_away": 3
+    "days_away": 2
   },
   "highlights": [
+    {
+      "id": "nw-95ff1f53f6",
+      "kind": "news",
+      "title": "El Gobierno frenó la concesión del Correo Argentino por las elecciones de 2027",
+      "priority": "alta",
+      "one_liner": "Frena a un actor central de la última milla justo cuando una nueva norma lo iguala a los couriers privados para las compras en Shein, Temu y Amazon."
+    },
     {
       "id": "nw-4ff28ab243",
       "kind": "news",
       "title": "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre",
       "priority": "alta",
-      "one_liner": "Golpea más fuerte a los productos de ticket bajo justo cuando el consumo masivo lleva siete meses cayendo, y es una fecha límite concreta para actuar."
-    },
-    {
-      "id": "nw-de93b68e05",
-      "kind": "news",
-      "title": "El consumo masivo cayó en julio por séptimo mes consecutivo, pero el comercio electrónico creció 39,9%",
-      "priority": "alta",
-      "one_liner": "Confirma que el eCommerce es el canal más dinámico incluso con el consumo físico estancado, el mejor argumento comercial del momento."
-    },
-    {
-      "id": "nw-114576549c",
-      "kind": "news",
-      "title": "Mercado Libre negocia con la Municipalidad de La Plata su mayor centro logístico de la región",
-      "priority": "relevante",
-      "one_liner": "Mercado Libre sigue densificando su red cerca del AMBA, lo que puede presionar los alquileres de depósito en la zona."
-    },
-    {
-      "id": "nw-b946fea6cb",
-      "kind": "news",
-      "title": "Récord de importaciones de bienes de consumo: US$5.362 millones en el primer semestre, con indumentaria +86%",
-      "priority": "relevante",
-      "one_liner": "Aparece una nueva ola de importadores-vendedores sin experiencia logística que van a necesitar nacionalizar, guardar y distribuir producto."
+      "one_liner": "Quedan 3 días para la suba: golpea más fuerte a los productos de ticket bajo justo cuando el consumo masivo lleva siete meses cayendo."
     },
     {
       "id": "ev-argentina-experience-libre-mercado-2026",
       "kind": "event",
       "title": "Mercado Libre Experience Argentina 2026",
       "priority": "alta",
-      "one_liner": "Concentra a miles de sellers de ML que necesitan fulfillment y última milla: la mayor oportunidad de generación de leads del calendario cercano."
+      "one_liner": "Ya tiene sede confirmada (La Rural, 10 de septiembre): el mayor encuentro de vendedores de ML del país y la mejor cantera de leads de fulfillment del calendario cercano."
+    },
+    {
+      "id": "nw-2ecb7eee40",
+      "kind": "news",
+      "title": "El comercio electrónico argentino creció en volumen pero su facturación cayó 5% en términos reales en el primer semestre",
+      "priority": "relevante",
+      "one_liner": "Confirma con datos oficiales que el crecimiento del eCommerce hoy es de volumen y ticket chico, no de facturación real."
+    },
+    {
+      "id": "ai-google-gemini-3-5-transcribe",
+      "kind": "ai",
+      "title": "Gemini 3.5 Transcribe",
+      "priority": "relevante",
+      "one_liner": "Herramienta gratuita de Google para transcribir llamadas y audios de WhatsApp, con aplicación directa en la gestión de reclamos de Fixy."
     }
   ]
 }

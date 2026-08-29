@@ -452,5 +452,35 @@
     "source_kind": "auto",
     "last_updated": "2026-08-28",
     "first_seen": "2026-08-28"
+  },
+  {
+    "topic": "El Correo Argentino, en pausa justo cuando queda en igualdad de condiciones con los couriers privados",
+    "why_now": "El Gobierno frenó la concesión del Correo Argentino por las elecciones de 2027 el mismo mes en que ARCA lo equiparó a los couriers privados para las compras en Shein, Temu y Amazon: dos noticias que chocan y generan confusión en quien importa o vende online.",
+    "fixy_angle": "Fixy puede traducir en lenguaje simple qué cambia (y qué no) para alguien que recibe paquetes importados o compite con el ingreso de productos del exterior, mostrando conocimiento del terreno regulatorio antes que la competencia.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.canal26.com/politica/2026/08/28/el-gobierno-pone-en-pausa-la-concesion-del-correo-argentino-de-las-demoras-a-su-importancia-durante-las-elecciones-de-2027/",
+    "id": "ct-1004c135",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "topic": "Cuenta regresiva a CyberMonday: qué mirar en logística antes del 2 de noviembre",
+    "why_now": "CACE recién confirmó las fechas oficiales (2 al 4 de noviembre, con Cyber Week hasta el 8), lo que abre una ventana de varias semanas para publicar contenido de preparación antes de que el tema se sature en octubre.",
+    "fixy_angle": "Fixy puede posicionarse como la voz técnica sobre cómo un operador de última milla se prepara para el pico: capacidad, SLA, comunicación de demoras, y por qué reservar temprano conviene tanto a Fixy como al cliente.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.diariouno.com.ar/economia/ofertas-y-descuentos-fechas-confirmadas-del-black-friday-y-cyber-monday-2026-argentina-n1552547",
+    "id": "ct-7e2b71a1",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
   }
 ]

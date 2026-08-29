@@ -666,5 +666,97 @@
     "source_kind": "auto",
     "last_updated": "2026-08-28",
     "first_seen": "2026-08-28"
+  },
+  {
+    "title": "El Senado aprobó el protocolo de Mercosur que desregula servicios digitales, billeteras y logística",
+    "what_happened": "El Senado argentino aprobó por unanimidad, el 27 de agosto, un paquete de cinco tratados internacionales que incluye el protocolo modificatorio de Montevideo sobre Comercio de Servicios del Mercosur, junto con el acuerdo de libre comercio Mercosur-EFTA. El protocolo reemplaza una norma de 1997 y elimina barreras burocráticas en servicios financieros, telecomunicaciones y logística entre los países del bloque. La medida se da además en el contexto de la entrada en vigencia, esta semana, del acuerdo de comercio electrónico del Mercosur que Brasil promulgó el 24 de agosto.",
+    "why_it_matters": "Es el primer paso legislativo concreto hacia reglas comunes para eCommerce transfronterizo, fintechs y operadores logísticos dentro del bloque, algo que puede simplificar (o complicar, según cómo se reglamente) las operaciones regionales de players como Mercado Libre o VTEX.",
+    "fixy_impact": "Si se reglamenta, podría facilitar a mediano plazo la habilitación de proveedores logísticos y de pagos en más de un país del Mercosur bajo reglas más uniformes, algo a monitorear para eventuales expansiones regionales.",
+    "category": "Regulación",
+    "geo": "LATAM",
+    "source_name": "Parlamentario / iProUP",
+    "source_url": "https://www.parlamentario.com/2026/08/27/por-unanimidad-el-senado-aprobo-una-serie-de-acuerdos-internacionales/",
+    "published_date": "2026-08-27",
+    "priority": "relevante",
+    "tags": [
+      "Mercosur",
+      "regulación",
+      "eCommerce transfronterizo",
+      "billeteras",
+      "logística"
+    ],
+    "id": "nw-7630a16d64",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "title": "El Gobierno frenó la concesión del Correo Argentino por las elecciones de 2027",
+    "what_happened": "El Ejecutivo puso en pausa el proceso para concesionar la operación del Correo Argentino, según trascendió el 28 de agosto, debido a demoras técnicas y a que la empresa cumple un rol logístico clave en las elecciones de 2027 (traslado de urnas, documentación y telegramas). Desde la Casa Rosada aclararon que el proyecto no se canceló pero perdió prioridad dentro del programa de privatizaciones y no tiene fecha para una licitación. No se contempla una venta directa, sino una nueva concesión del servicio postal.",
+    "why_it_matters": "Correo Argentino es un actor central en la última milla y en el nuevo régimen de importaciones puerta a puerta (Shein, Temu, Amazon); una demora en su reestructuración prolonga la incertidumbre sobre su capacidad operativa y su rol futuro frente a couriers privados.",
+    "fixy_impact": "Mientras se define el futuro del Correo, Fixy y otros operadores privados mantienen ventaja relativa en previsibilidad de servicio frente a un competidor estatal en transición prolongada.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "Canal 26",
+    "source_url": "https://www.canal26.com/politica/2026/08/28/el-gobierno-pone-en-pausa-la-concesion-del-correo-argentino-de-las-demoras-a-su-importancia-durante-las-elecciones-de-2027/",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "tags": [
+      "Correo Argentino",
+      "concesión",
+      "última milla",
+      "regulación",
+      "elecciones"
+    ],
+    "id": "nw-95ff1f53f6",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "title": "Un estudio de CASEL revela que el 83% de los robos a transporte de mercadería golpea a utilitarios de reparto",
+    "what_happened": "La Cámara Argentina de Seguridad Electrónica (CASEL) publicó el 26 de agosto un relevamiento sobre 4.490 robos a transporte de mercadería en un período de 12 meses: el 83% recayó sobre camionetas y utilitarios de reparto, y solo el 17% sobre camiones grandes. El informe detalla que el 54% de los robos ocurre durante la carga o descarga y otro 27% en semáforos o paradas imprevistas.",
+    "why_it_matters": "Confirma con datos concretos que el crecimiento del eCommerce y del reparto puerta a puerta está corriendo el foco de la inseguridad vial hacia los vehículos chicos de última milla, no hacia el transporte de carga pesada, lo que exige repensar protocolos de entrega y tecnología de monitoreo específicamente para ese segmento.",
+    "fixy_impact": "Es un argumento de peso para revisar o reforzar la inversión en telemetría, cámaras y protocolos de carga/descarga en la flota de reparto propia y de terceros, dado que ese es exactamente el punto más vulnerable según el estudio.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "Webpicking / CASEL",
+    "source_url": "https://webpicking.com/el-83-de-los-robos-al-transporte-de-mercaderia-golpea-a-los-vehiculos-utilitarios/",
+    "published_date": "2026-08-26",
+    "priority": "relevante",
+    "tags": [
+      "seguridad",
+      "última milla",
+      "robos",
+      "flota",
+      "CASEL"
+    ],
+    "id": "nw-de69cc8e6c",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "title": "Galperin salió a responder las críticas por la mora en los créditos de Mercado Pago",
+    "what_happened": "Tras la investigación que impulsan diputados de la oposición sobre billeteras virtuales, Marcos Galperin difundió datos propios el 25 de agosto: Mercado Pago concentra el 19% de las personas morosas del sistema pero solo el 2,9% de la deuda impaga total, con una deuda mediana por persona de $116.000, muy por debajo de la mediana de $1,46 millones de la banca pública. El vocero presidencial, por su parte, ratificó que el Gobierno no intervendrá en el mercado crediticio.",
+    "why_it_matters": "Es la primera respuesta pública y con datos propios de Mercado Libre al escrutinio legislativo sobre la mora en fintechs, en momentos en que crece la presión regulatoria sobre las billeteras virtuales por sus políticas de crédito.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "iProUP",
+    "source_url": "https://www.iproup.com/finanzas/70981-marcos-galperin-morosidad-prestamos-mercado-pago-billetera-virtual-critica-respuesta-bancos-agosto-2026",
+    "published_date": "2026-08-25",
+    "priority": "informativo",
+    "tags": [
+      "Mercado Pago",
+      "mora",
+      "fintech",
+      "crédito",
+      "regulación"
+    ],
+    "id": "nw-5d47870392",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
   }
 ]

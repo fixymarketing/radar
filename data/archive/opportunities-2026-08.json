@@ -389,5 +389,36 @@
     "source_kind": "auto",
     "last_updated": "2026-08-24",
     "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Evaluar un modelo de flota variable (\"uberizada\") para la última milla",
+    "context": "La logística argentina avanza hacia redes de conductores y flotas mixtas coordinadas por tecnología, en lugar de flota propia fija, como forma de sostener picos de demanda sin inmovilizar capital. Es la misma lógica que ya puso a prueba el Día del Niño y el feriado de San Martín, cuando la ventana de despacho se achicó.",
+    "action": "Armar un piloto acotado con un pool de conductores externos coordinados por app para los próximos picos de demanda (CyberMonday, Navidad), sin ampliar la flota fija de Fixy, y medir el impacto en costo por envío y cumplimiento de plazos.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.ambito.com/negocios/la-logistica-acelera-el-uso-tecnologia-automatizacion-y-modelos-uberizados-sostener-el-boom-del-ecommerce-n6312398",
+    "linked": [
+      "La 'uberización' avanza en la última milla del ecommerce",
+      "Día del Niño y feriado de San Martín pusieron a prueba la última milla"
+    ],
+    "id": "op-a5a74ff3",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "Ofrecer entrega más rápida que Shein como argumento contra la importación directa",
+    "context": "ARCA equiparó al Correo Argentino con los couriers privados para las compras en Shein, Temu y Amazon, lo que facilita y acelera el ingreso de compras individuales del exterior y presiona al retail y al eCommerce local de productos importables.",
+    "action": "Armar un pitch comercial dirigido a vendedores locales que compiten con esas plataformas, destacando el tiempo de entrega de Fixy dentro del país frente a los plazos de envío internacional como diferencial de venta.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.eldestapeweb.com/economia/arca-reglas-compras-shein-temu-amazon-202681941530",
+    "linked": [
+      "ARCA equipara al Correo Argentino con los couriers privados para las compras en Shein, Temu y Amazon"
+    ],
+    "id": "op-0c139d86",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "name": "Gemini 3.5 Transcribe",
+    "vendor": "Google",
+    "what_it_is": "Un modelo de voz a texto de Google DeepMind que transcribe audio en vivo o grabado, reconoce quién habla en una conversación (diarización), agrega marcas de tiempo y limpia automáticamente muletillas y autocorrecciones.",
+    "what_changed": "Se lanzó a fines de agosto de 2026 y empezó a integrarse en la app de Gemini, Gboard, Docs, Gmail y el navegador Chrome; reconoce más de 85 idiomas con cambio de idioma en la misma conversación y logra una tasa de error muy baja (2.6% en modo no streaming), superando claramente a las versiones anteriores de transcripción de Google.",
+    "fixy_use": "Fixy puede usarlo para transcribir automáticamente llamadas de atención al cliente o audios de WhatsApp de clientes y transportistas, generando un registro escrito del reclamo sin que nadie tenga que escuchar el audio entero. También sirve para pasar a texto reuniones internas de operaciones con varias personas hablando (gracias a la diarización) y armar minutas sin carga manual.",
+    "verdict": "probar",
+    "verdict_reason": "Resuelve un dolor concreto y cotidiano (audios y llamadas sin transcribir) y ya está disponible gratis en productos de Google de uso común.",
+    "categories": [
+      "Operaciones",
+      "Productividad",
+      "Análisis"
+    ],
+    "pricing_note": "freemium: gratis dentro de la app de Gemini, Gboard, Docs y Chrome; el uso vía API tiene costo por token, todavía no confirmado en detalle",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+    "published_date": "2026-08-26",
+    "priority": "alta",
+    "id": "ai-google-gemini-3-5-transcribe",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
+  },
+  {
     "name": "n8n MCP nativo (Server y Client)",
     "vendor": "n8n",
     "what_it_is": "n8n es la plataforma de automatización de flujos de trabajo (workflows) que conecta sistemas y apps sin programar mucho código.",
@@ -156,6 +178,50 @@
     "source_kind": "auto",
     "last_updated": "2026-08-22",
     "first_seen": "2026-08-22"
+  },
+  {
+    "name": "Meta Business Agent: cobro por tokens en WhatsApp",
+    "vendor": "Meta",
+    "what_it_is": "Es una novedad sobre el agente de IA de Meta para WhatsApp Business (ya en el radar de Fixy), que atiende clientes, recomienda productos y puede cerrar ventas de forma autónoma en WhatsApp, Instagram y Messenger.",
+    "what_changed": "Desde el 1° de agosto de 2026 Meta empezó a cobrar el uso de este agente por tokens procesados, a razón de USD 2 por millón de tokens (tarifa única a nivel mundial), lo que equivale a unos 4-5 centavos de dólar por conversación completa; antes había un período de prueba gratuito durante julio de 2026.",
+    "fixy_use": "Si Fixy activa el Business Agent para atender consultas de seguimiento de pedidos o reclamos por WhatsApp, ahora ese uso tiene un costo variable por conversación que hay que presupuestar. Conviene estimar cuántas conversaciones mensuales manejaría el bot (por ejemplo, '¿dónde está mi pedido?') antes de escalarlo a todos los clientes, y usarlo primero solo para las consultas más repetitivas y de bajo riesgo.",
+    "verdict": "seguir",
+    "verdict_reason": "El cambio de precio obliga a hacer números antes de escalar el uso del bot en WhatsApp; no conviene activarlo a full sin estimar el costo mensual.",
+    "categories": [
+      "Comercial",
+      "Análisis",
+      "Automatización"
+    ],
+    "pricing_note": "pago: USD 2 por millón de tokens desde el 1/8/2026 (antes gratuito durante el período de prueba de julio 2026)",
+    "source_url": "https://eltiempolatino.com/2026/08/28/tecnologia/meta-lanza-ia-para-negocios-en-whatsapp-que-hace-y-cuanto-cuesta/",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "id": "ai-meta-meta-business-agent-cobro-por-tokens-en-whatsapp",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "name": "Claude Cowork: memoria unificada con el chat",
+    "vendor": "Anthropic",
+    "what_it_is": "Una actualización de Claude Cowork (el modo de Claude que ejecuta tareas más largas y en segundo plano) que ahora comparte la misma memoria que las conversaciones normales del chat, en vez de tener dos memorias separadas.",
+    "what_changed": "Desde el 25 de agosto de 2026, lo que Claude aprende charlando con un usuario en el chat queda disponible para las tareas que corre Cowork en la nube, y viceversa; la memoria se organiza por temas y se puede revisar, corregir o borrar desde la configuración.",
+    "fixy_use": "Fixy podría explicarle a Claude en una charla normal cómo le gusta a management que se arme el reporte semanal de despachos o qué transportista usa cada zona, y después pedirle a Cowork que genere ese reporte o resuelva un seguimiento sin tener que reexplicar el contexto cada vez. Esto ahorra el tiempo de 'poner en tema' a la IA en cada tarea recurrente de operaciones o atención al cliente.",
+    "verdict": "seguir",
+    "verdict_reason": "Baja la fricción de usar Cowork para tareas repetitivas, pero conviene ver en la práctica cuánto contexto retiene antes de apoyarse en él para algo crítico.",
+    "categories": [
+      "Productividad",
+      "Organización",
+      "Gestión del tiempo"
+    ],
+    "pricing_note": "gratis: la memoria unificada no tiene costo extra en los planes Free, Pro y Max; usar Cowork en sí requiere un plan pago de Claude",
+    "source_url": "https://www.infobae.com/america/agencias/2026/08/26/anthropic-unifica-la-memoria-de-claude-en-el-chat-y-cowork-y-da-mas-control-sobre-la-informacion-que-guarda/",
+    "published_date": "2026-08-26",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-cowork-memoria-unificada-con-el-chat",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
   },
   {
     "name": "Python en Excel con Copilot",
