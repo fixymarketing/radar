@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-29T12:26:52.694Z",
-  "last_updated_ar": "29/08/2026, 09:26",
-  "date": "2026-08-29",
+  "generated_at": "2026-08-30T12:18:38.114Z",
+  "last_updated_ar": "30/08/2026, 09:18",
+  "date": "2026-08-30",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Hoy el freno a la concesión del Correo Argentino choca con la norma que lo iguala a los couriers privados para las compras en Shein, Temu y Amazon, mientras se acerca la suba de costos de Mercado Libre del 1° de septiembre y ya hay sede confirmada para su Experience 2026 en Buenos Aires.",
+  "summary_line": "Faltan solo dos días para la suba de costos de Mercado Libre a los vendedores mientras el freno a la concesión del Correo Argentino prolonga la incertidumbre de la última milla, la inseguridad ya golpea de lleno a los utilitarios de reparto y Mercado Libre Experience Argentina confirma sede en La Rural para el 10 de septiembre.",
   "counters": {
-    "news_today": 4,
+    "news_today": 0,
     "news_total": 33,
     "events_upcoming": 74,
     "events_ar_upcoming": 42,
@@ -15,14 +15,14 @@
     "opportunities_open": 8,
     "opportunities_today": 2,
     "ai_today": 3,
-    "ai_to_try": 22,
-    "content_ideas": 32,
-    "added_news": 4,
+    "ai_to_try": 25,
+    "content_ideas": 34,
+    "added_news": 0,
     "updated_news": 0,
-    "added_events": 4,
-    "updated_events": 8,
+    "added_events": 0,
+    "updated_events": 15,
     "added_ai": 3,
-    "archived": 3,
+    "archived": 2,
     "discarded_quality": 0
   },
   "next_event": {
@@ -30,43 +30,43 @@
     "name": "Santa Fe Business Forum 2026",
     "date_start": "2026-08-31",
     "city": "Rosario",
-    "days_away": 2
+    "days_away": 1
   },
   "highlights": [
-    {
-      "id": "nw-95ff1f53f6",
-      "kind": "news",
-      "title": "El Gobierno frenó la concesión del Correo Argentino por las elecciones de 2027",
-      "priority": "alta",
-      "one_liner": "Frena a un actor central de la última milla justo cuando una nueva norma lo iguala a los couriers privados para las compras en Shein, Temu y Amazon."
-    },
     {
       "id": "nw-4ff28ab243",
       "kind": "news",
       "title": "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre",
       "priority": "alta",
-      "one_liner": "Quedan 3 días para la suba: golpea más fuerte a los productos de ticket bajo justo cuando el consumo masivo lleva siete meses cayendo."
+      "one_liner": "Quedan solo 2 días para la suba, que golpea más fuerte a los productos de ticket bajo justo cuando el consumo sigue cayendo."
+    },
+    {
+      "id": "nw-95ff1f53f6",
+      "kind": "news",
+      "title": "El Gobierno frenó la concesión del Correo Argentino por las elecciones de 2027",
+      "priority": "alta",
+      "one_liner": "Prolonga la incertidumbre sobre un actor central de la última milla justo cuando quedó equiparado a los couriers privados para compras en Shein, Temu y Amazon."
     },
     {
       "id": "ev-argentina-experience-libre-mercado-2026",
       "kind": "event",
       "title": "Mercado Libre Experience Argentina 2026",
       "priority": "alta",
-      "one_liner": "Ya tiene sede confirmada (La Rural, 10 de septiembre): el mayor encuentro de vendedores de ML del país y la mejor cantera de leads de fulfillment del calendario cercano."
+      "one_liner": "Ya tiene sede confirmada en La Rural para el 10 de septiembre: el mayor encuentro de vendedores del país y una cantera clave de leads de fulfillment."
     },
     {
-      "id": "nw-2ecb7eee40",
+      "id": "nw-de69cc8e6c",
       "kind": "news",
-      "title": "El comercio electrónico argentino creció en volumen pero su facturación cayó 5% en términos reales en el primer semestre",
+      "title": "Un estudio de CASEL revela que el 83% de los robos a transporte de mercadería golpea a utilitarios de reparto",
       "priority": "relevante",
-      "one_liner": "Confirma con datos oficiales que el crecimiento del eCommerce hoy es de volumen y ticket chico, no de facturación real."
+      "one_liner": "Confirma con datos que la inseguridad se concentra justamente en los vehículos chicos de última milla, no en el transporte de carga pesada."
     },
     {
-      "id": "ai-google-gemini-3-5-transcribe",
+      "id": "ai-openai-chatgpt-work-tareas-activadas-por-webhooks",
       "kind": "ai",
-      "title": "Gemini 3.5 Transcribe",
+      "title": "ChatGPT Work: tareas activadas por webhooks",
       "priority": "relevante",
-      "one_liner": "Herramienta gratuita de Google para transcribir llamadas y audios de WhatsApp, con aplicación directa en la gestión de reclamos de Fixy."
+      "one_liner": "Permite automatizar avisos y borradores de respuesta apenas llega un reclamo urgente por mail o Slack, sin que nadie tenga que revisar la bandeja todo el día."
     }
   ]
 }

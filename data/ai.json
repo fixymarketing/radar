@@ -22,6 +22,28 @@
     "first_seen": "2026-08-29"
   },
   {
+    "name": "ChatGPT Work: tareas activadas por webhooks",
+    "vendor": "OpenAI",
+    "what_it_is": "Dentro de ChatGPT Work, ahora se pueden crear tareas automáticas que se disparan por un evento en Gmail, Slack o GitHub (por ejemplo, un mail nuevo o un mensaje en un canal), en vez de depender solo de tareas programadas por horario.",
+    "what_changed": "Hasta ahora las tareas programadas de ChatGPT corrían en horarios fijos; desde el 26 de agosto de 2026 se suman disparadores por evento (webhooks) que reaccionan en el momento en que llega un mail nuevo, un mensaje de Slack o se actualiza un pull request de GitHub.",
+    "fixy_use": "Se podría usar para que ChatGPT redacte un borrador de respuesta o avise al equipo apenas llega un mail con palabras clave como \"reclamo\" o \"urgente\" a una casilla compartida, sin que alguien tenga que estar revisando la bandeja todo el día. También sirve para que avise por Slack cuando entra un correo de un proveedor logístico clave. Requiere plan Plus, Pro o Business y conectar la cuenta de Gmail o Slack de Fixy.",
+    "verdict": "probar",
+    "verdict_reason": "Es una forma concreta y de bajo esfuerzo de automatizar avisos y borradores de respuesta a partir del mail o Slack del equipo.",
+    "categories": [
+      "Operaciones",
+      "Automatización",
+      "Productividad"
+    ],
+    "pricing_note": "pago: incluido en los planes Plus, Pro, Business, Enterprise y Edu; no disponible en el plan gratuito ni en Go",
+    "source_url": "https://www.techtimes.com/articles/325576/20260826/chatgpt-work-adds-gmail-webhooks-inbox-login-new-automation-new-attack-route.htm",
+    "published_date": "2026-08-26",
+    "priority": "alta",
+    "id": "ai-openai-chatgpt-work-tareas-activadas-por-webhooks",
+    "source_kind": "auto",
+    "last_updated": "2026-08-30",
+    "first_seen": "2026-08-30"
+  },
+  {
     "name": "n8n MCP nativo (Server y Client)",
     "vendor": "n8n",
     "what_it_is": "n8n es la plataforma de automatización de flujos de trabajo (workflows) que conecta sistemas y apps sin programar mucho código.",
@@ -202,6 +224,27 @@
     "first_seen": "2026-08-29"
   },
   {
+    "name": "Gemini Omni 1.1 Flash",
+    "vendor": "Google",
+    "what_it_is": "Es el nuevo modelo de Google para generar y editar video con IA dentro de la app de Gemini y por API, que arma clips de hasta 40 segundos combinando fragmentos, permite fijar el inicio y el final de una escena a partir de imágenes, y escala el resultado hasta 4K.",
+    "what_changed": "Reemplaza a Veo como motor de video de la app de Gemini y suma extensión de escenas, control de cámara mediante fotogramas clave y un modo de borrador rápido en baja resolución para probar ideas antes de generar la versión final; se lanzó el 27 de agosto de 2026.",
+    "fixy_use": "El equipo de marketing podría generar clips cortos para redes sociales (por ejemplo, mostrando el proceso de packaging o el recorrido de un pedido) a partir de fotos que ya tiene, sin filmar ni contratar edición, y probar variantes rápido con el modo borrador antes de exportar en alta calidad. Conviene revisar primero la calidad en español y qué tan creíble se ve para contenido de marca.",
+    "verdict": "probar",
+    "verdict_reason": "Puede achicar tiempo y costo de producción audiovisual para redes, aunque hay que validar la calidad antes de usarlo en contenido de marca.",
+    "categories": [
+      "Marketing",
+      "Contenido"
+    ],
+    "pricing_note": "pago: incluido para suscriptores de Gemini Plus, Pro y Ultra, y disponible también vía API de pago",
+    "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+    "published_date": "2026-08-27",
+    "priority": "relevante",
+    "id": "ai-google-gemini-omni-1-1-flash",
+    "source_kind": "auto",
+    "last_updated": "2026-08-30",
+    "first_seen": "2026-08-30"
+  },
+  {
     "name": "Claude Cowork: memoria unificada con el chat",
     "vendor": "Anthropic",
     "what_it_is": "Una actualización de Claude Cowork (el modo de Claude que ejecuta tareas más largas y en segundo plano) que ahora comparte la misma memoria que las conversaciones normales del chat, en vez de tener dos memorias separadas.",
@@ -222,6 +265,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-29",
     "first_seen": "2026-08-29"
+  },
+  {
+    "name": "Claude Cowork: navegador integrado sin extensión",
+    "vendor": "Anthropic",
+    "what_it_is": "Un navegador tipo Chrome incorporado directamente en la app de escritorio de Claude Cowork, que se abre en un panel lateral para que Claude navegue páginas web, lea contenido, haga clic y complete formularios sin depender de una extensión de Chrome instalada por separado.",
+    "what_changed": "Hasta ahora Cowork necesitaba la extensión de Chrome para operar sobre sitios web; desde el 26 de agosto de 2026 el navegador viene incluido en la propia app de escritorio (planes Pro, Max y Team, activable por administradores en Enterprise), sin instalar nada extra.",
+    "fixy_use": "Simplifica delegarle a Claude tareas que requieren entrar a sitios externos, por ejemplo consultar el estado de un envío en el sitio de un correo o transportista, revisar precios de la competencia, o completar un formulario en el panel de un marketplace, sin tener que configurar una extensión en cada computadora del equipo.",
+    "verdict": "probar",
+    "verdict_reason": "Baja la barrera de instalación para que cualquiera del equipo delegue tareas de navegación web a Claude.",
+    "categories": [
+      "Operaciones",
+      "Automatización",
+      "Productividad"
+    ],
+    "pricing_note": "pago: incluido en los planes Pro, Max y Team; activable por administradores en Enterprise",
+    "source_url": "https://claude.com/blog/cowork-built-in-browser",
+    "published_date": "2026-08-26",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-cowork-navegador-integrado-sin-extension",
+    "source_kind": "auto",
+    "last_updated": "2026-08-30",
+    "first_seen": "2026-08-30"
   },
   {
     "name": "Python en Excel con Copilot",
