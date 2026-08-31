@@ -136,5 +136,50 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Las ventas minoristas pyme cayeron 3,8% en julio, pero el canal online de los comercios físicos creció 14,9%",
+    "what_happened": "Según CAME, las ventas minoristas pyme bajaron 3,8% interanual en julio y 2,1% frente a junio, con un acumulado de -2,7% en 2026. Seis de siete rubros cayeron. En contraste, las ventas online de los comercios físicos subieron 14,9% interanual.",
+    "why_it_matters": "El dato clave no es la caída general sino la divergencia: el comercio tradicional pierde en el mostrador y compensa migrando al canal digital.",
+    "fixy_impact": "El comercio físico que se digitaliza es el segmento de demanda más caliente para Fixy: necesita operación logística tercerizada y no tiene estructura propia para hacerla.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "El Esquiú (informe CAME)",
+    "source_url": "https://www.elesquiu.com/nacionales/2026/8/9/las-ventas-minoristas-pyme-cayeron-38-en-julio-frente-a-igual-mes-de-592117.html",
+    "published_date": "2026-08-09",
+    "priority": "alta",
+    "tags": [
+      "CAME",
+      "consumo",
+      "pymes",
+      "omnicanalidad",
+      "canal online"
+    ],
+    "id": "nw-3836d14a25",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Expo Transporte y Expo Logisti-k tuvieron su edición récord en La Rural con más de 450 expositores",
+    "what_happened": "Del 11 al 13 de agosto se realizó en La Rural la edición conjunta de Expo Transporte y Expo Logisti-k, con 28.000 m² y más de 450 expositores. La agenda incluyó gestión de flotas, energías limpias, equipos autónomos y soluciones de última milla, más un Encuentro de Comercio Exterior.",
+    "why_it_matters": "La escala récord del evento en un año de consumo en baja confirma que la inversión en infraestructura y tecnología logística sigue firme, apalancada en eCommerce, minería y energía.",
+    "fixy_impact": "Fuente concreta de proveedores y tecnología de última milla, y espacio de captación de clientes importadores y exportadores a través del Encuentro de Comercio Exterior.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Info Pymes",
+    "source_url": "https://www.infopymes.com.ar/este-martes-arranca-una-edicion-record-de-expo-transporte-y-expo-logisti-k-en-la-rural/",
+    "published_date": "2026-08-09",
+    "priority": "informativo",
+    "tags": [
+      "Expo Logisti-k",
+      "Expo Transporte",
+      "última milla",
+      "proveedores"
+    ],
+    "id": "nw-b30c355f49",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
   }
 ]

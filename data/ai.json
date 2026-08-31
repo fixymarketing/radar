@@ -44,6 +44,28 @@
     "first_seen": "2026-08-30"
   },
   {
+    "name": "Claude Cowork: memoria unificada con el chat",
+    "vendor": "Anthropic",
+    "what_it_is": "Cowork es el agente de Claude que ejecuta tareas de varios pasos en la nube (ordenar archivos, investigar, armar reportes). Esta actualización unifica su memoria con la del chat normal de Claude, algo que hasta ahora funcionaba por separado.",
+    "what_changed": "Desde el 25 de agosto de 2026, lo que Claude aprende en una conversación de chat queda disponible automáticamente cuando Cowork ejecuta una tarea, y viceversa, sin tener que reexplicar el contexto cada vez. También cambió cómo se guarda la memoria: ahora se actualiza en vivo durante la charla, no solo al final.",
+    "fixy_use": "Si en el chat le explicás a Claude detalles del negocio (tarifarios, SLA con clientes, particularidades de un depósito), esa info queda disponible cuando después le pedís a Cowork que arme un informe, un mail o un seguimiento sin volver a explicar todo de cero. Para un equipo chico que reutiliza el mismo contexto en tareas distintas, esto ahorra tiempo de preparación real.",
+    "verdict": "probar",
+    "verdict_reason": "Reduce fricción concreta en el uso diario de Claude para tareas repetitivas del equipo.",
+    "categories": [
+      "Productividad",
+      "Gestión del tiempo",
+      "Organización"
+    ],
+    "pricing_note": "freemium — activado por defecto en planes Free, Pro y Max; en Team/Enterprise lo tiene que habilitar el administrador del workspace",
+    "source_url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "published_date": "2026-08-25",
+    "priority": "alta",
+    "id": "ai-anthropic-claude-cowork-memoria-unificada-con-el-chat",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-29"
+  },
+  {
     "name": "n8n MCP nativo (Server y Client)",
     "vendor": "n8n",
     "what_it_is": "n8n es la plataforma de automatización de flujos de trabajo (workflows) que conecta sistemas y apps sin programar mucho código.",
@@ -224,49 +246,6 @@
     "first_seen": "2026-08-29"
   },
   {
-    "name": "Gemini Omni 1.1 Flash",
-    "vendor": "Google",
-    "what_it_is": "Es el nuevo modelo de Google para generar y editar video con IA dentro de la app de Gemini y por API, que arma clips de hasta 40 segundos combinando fragmentos, permite fijar el inicio y el final de una escena a partir de imágenes, y escala el resultado hasta 4K.",
-    "what_changed": "Reemplaza a Veo como motor de video de la app de Gemini y suma extensión de escenas, control de cámara mediante fotogramas clave y un modo de borrador rápido en baja resolución para probar ideas antes de generar la versión final; se lanzó el 27 de agosto de 2026.",
-    "fixy_use": "El equipo de marketing podría generar clips cortos para redes sociales (por ejemplo, mostrando el proceso de packaging o el recorrido de un pedido) a partir de fotos que ya tiene, sin filmar ni contratar edición, y probar variantes rápido con el modo borrador antes de exportar en alta calidad. Conviene revisar primero la calidad en español y qué tan creíble se ve para contenido de marca.",
-    "verdict": "probar",
-    "verdict_reason": "Puede achicar tiempo y costo de producción audiovisual para redes, aunque hay que validar la calidad antes de usarlo en contenido de marca.",
-    "categories": [
-      "Marketing",
-      "Contenido"
-    ],
-    "pricing_note": "pago: incluido para suscriptores de Gemini Plus, Pro y Ultra, y disponible también vía API de pago",
-    "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-    "published_date": "2026-08-27",
-    "priority": "relevante",
-    "id": "ai-google-gemini-omni-1-1-flash",
-    "source_kind": "auto",
-    "last_updated": "2026-08-30",
-    "first_seen": "2026-08-30"
-  },
-  {
-    "name": "Claude Cowork: memoria unificada con el chat",
-    "vendor": "Anthropic",
-    "what_it_is": "Una actualización de Claude Cowork (el modo de Claude que ejecuta tareas más largas y en segundo plano) que ahora comparte la misma memoria que las conversaciones normales del chat, en vez de tener dos memorias separadas.",
-    "what_changed": "Desde el 25 de agosto de 2026, lo que Claude aprende charlando con un usuario en el chat queda disponible para las tareas que corre Cowork en la nube, y viceversa; la memoria se organiza por temas y se puede revisar, corregir o borrar desde la configuración.",
-    "fixy_use": "Fixy podría explicarle a Claude en una charla normal cómo le gusta a management que se arme el reporte semanal de despachos o qué transportista usa cada zona, y después pedirle a Cowork que genere ese reporte o resuelva un seguimiento sin tener que reexplicar el contexto cada vez. Esto ahorra el tiempo de 'poner en tema' a la IA en cada tarea recurrente de operaciones o atención al cliente.",
-    "verdict": "seguir",
-    "verdict_reason": "Baja la fricción de usar Cowork para tareas repetitivas, pero conviene ver en la práctica cuánto contexto retiene antes de apoyarse en él para algo crítico.",
-    "categories": [
-      "Productividad",
-      "Organización",
-      "Gestión del tiempo"
-    ],
-    "pricing_note": "gratis: la memoria unificada no tiene costo extra en los planes Free, Pro y Max; usar Cowork en sí requiere un plan pago de Claude",
-    "source_url": "https://www.infobae.com/america/agencias/2026/08/26/anthropic-unifica-la-memoria-de-claude-en-el-chat-y-cowork-y-da-mas-control-sobre-la-informacion-que-guarda/",
-    "published_date": "2026-08-26",
-    "priority": "relevante",
-    "id": "ai-anthropic-claude-cowork-memoria-unificada-con-el-chat",
-    "source_kind": "auto",
-    "last_updated": "2026-08-29",
-    "first_seen": "2026-08-29"
-  },
-  {
     "name": "Claude Cowork: navegador integrado sin extensión",
     "vendor": "Anthropic",
     "what_it_is": "Un navegador tipo Chrome incorporado directamente en la app de escritorio de Claude Cowork, que se abre en un panel lateral para que Claude navegue páginas web, lea contenido, haga clic y complete formularios sin depender de una extensión de Chrome instalada por separado.",
@@ -354,28 +333,6 @@
     "first_seen": "2026-08-28"
   },
   {
-    "name": "Ask Gemini en Google Chat",
-    "vendor": "Google",
-    "what_it_is": "Es una barra de comando dentro de Google Chat, impulsada por Workspace Intelligence, que permite buscar información en Gmail, Drive y Calendar, generar imágenes y redactar mensajes sin salir de la conversación.",
-    "what_changed": "Google anunció el despliegue gradual a partir del 26 de agosto de 2026: reemplaza el panel lateral de Gemini en Chat por un acceso directo (atajo Ctrl+G / Cmd+G) disponible para cuentas con Workspace Smart Features habilitado.",
-    "fixy_use": "El equipo de Fixy podría usarlo para encontrar en segundos un archivo compartido, un mail o un evento de calendario sin cambiar de pestaña mientras coordina una entrega o resuelve un reclamo por el chat interno. También sirve para redactar avisos rápidos a comercial u operaciones sin salir de la conversación grupal.",
-    "verdict": "probar",
-    "verdict_reason": "Es gratuito para cuentas con Workspace Smart Features y no requiere configuración técnica, así que se puede evaluar sin costo adicional en el uso diario del equipo.",
-    "categories": [
-      "Organización",
-      "Productividad",
-      "Gestión del tiempo"
-    ],
-    "pricing_note": "freemium — incluido para cuentas Workspace con Smart Features habilitado; acceso promocional a límites más altos hasta el 1° de octubre de 2026, después aplican límites de uso",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html",
-    "published_date": "2026-08-20",
-    "priority": "relevante",
-    "id": "ai-google-ask-gemini-en-google-chat",
-    "source_kind": "auto",
-    "last_updated": "2026-08-21",
-    "first_seen": "2026-08-21"
-  },
-  {
     "name": "Gemini Notebook: copiar notebooks y analizar datos con código",
     "vendor": "Google",
     "what_it_is": "Gemini Notebook (la ex NotebookLM) es la herramienta de Google para subir documentos propios y hacerle preguntas, generar resúmenes e informes, y ahora también correr análisis de datos ejecutando código en la nube.",
@@ -400,22 +357,23 @@
   {
     "name": "Large Vehicle Routing (LVR) en Google Maps Platform",
     "vendor": "Google",
-    "what_it_is": "Una capacidad de ruteo para flotas que calcula trayectos considerando las características físicas del vehículo (altura, peso, largo, ancho, ejes, cargas peligrosas) y restricciones viales reales como puentes bajos o límites de peso, disponible vía Routes API, Route Optimization API y el SDK de navegación.",
-    "what_changed": "Google la anunció el 17 de agosto de 2026 con disponibilidad general inicial en Estados Unidos, pensada específicamente para empresas de logística y operadores de flota, algo que la Google Maps estándar no contemplaba hasta ahora.",
-    "fixy_use": "Fixy todavía no puede usarla porque por ahora solo está disponible en EE.UU., pero es la dirección clara hacia la que va el ruteo de flotas: vale la pena seguirla de cerca porque si llega a Argentina permitiría planificar rutas de última milla que respeten restricciones reales de los vehículos de reparto (peso, altura, calles angostas) y transferir esa ruta compatible directamente al conductor.",
+    "what_it_is": "Es una capacidad de las APIs de rutas de Google Maps Platform (Routes API, Route Optimization API y Navigation SDK) pensada para vehículos grandes: se carga el perfil físico del vehículo (altura, peso, largo, ancho, cantidad de ejes, cargas peligrosas) y el sistema calcula rutas que evitan puentes bajos, restricciones de peso y calles prohibidas para camiones.",
+    "what_changed": "Google anunció la disponibilidad general (GA) de LVR el 17 de agosto de 2026, tras un período de preview. Por ahora el lanzamiento es exclusivo para Estados Unidos.",
+    "fixy_use": "Es exactamente el tipo de dato que Fixy necesita para rutear última milla con utilitarios y camiones chicos, evitando calles con restricciones de circulación en CABA y GBA. Hoy no está disponible en Argentina, pero vale la pena monitorear cuándo Google lo habilite acá o si aparece vía integradores locales de ruteo, porque impacta directo en kilómetros recorridos y tiempos muertos.",
     "verdict": "seguir",
-    "verdict_reason": "Encaja de lleno con la operación de última milla de Fixy, pero todavía no está disponible en Argentina así que no se puede probar hoy.",
+    "verdict_reason": "Altísimo potencial para el ruteo de Fixy, pero todavía no está disponible fuera de Estados Unidos.",
     "categories": [
+      "Operaciones",
       "Logística",
-      "Operaciones"
+      "Automatización"
     ],
-    "pricing_note": "no confirmado — se ofrece dentro de Google Maps Platform (Routes API / Route Optimization API), con el modelo de precios estándar por uso de esas APIs",
-    "source_url": "https://www.freightwaves.com/news/google-maps-just-launched-truck-aware-routing-that-knows-about-low-bridges-and-weight-limits-here-is-what-it-means-and-what-it-does-not",
+    "pricing_note": "no confirmado — se factura por uso de las APIs de Google Maps Platform, sin precio específico publicado para LVR",
+    "source_url": "https://mapsplatform.google.com/resources/blog/introducing-large-vehicle-routing-address-the-unique-logistics-needs-of-large-vehicle-fleets/",
     "published_date": "2026-08-17",
     "priority": "relevante",
     "id": "ai-google-large-vehicle-routing-lvr-en-google-maps-platform",
     "source_kind": "auto",
-    "last_updated": "2026-08-26",
+    "last_updated": "2026-08-31",
     "first_seen": "2026-08-26"
   },
   {
@@ -756,6 +714,49 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "Gemini Omni 1.1 Flash",
+    "vendor": "Google",
+    "what_it_is": "Modelo de Google para generar y editar video con IA a través de la API de Gemini, con extensión de escenas, control por keyframes y salida en resolución de hasta 4K.",
+    "what_changed": "Pasó de preview a disponibilidad general (GA) el 27 de agosto de 2026, sumando esas funciones nuevas; Google va a discontinuar la versión preview anterior el 30 de septiembre de 2026.",
+    "fixy_use": "Es una capa técnica (API para desarrolladores), no una app lista para usar por marketing. Le sirve a Fixy si en algún momento se integra en una herramienta de edición o en Google Vids/Flow para generar clips cortos de producto o de operaciones para redes, pero hoy exige capacidad técnica que el equipo no tiene, así que conviene esperar a que llegue empaquetado en una app de consumo.",
+    "verdict": "seguir",
+    "verdict_reason": "Prometedor para contenido en video a futuro, pero hoy requiere integración vía desarrollador que el equipo no tiene.",
+    "categories": [
+      "Contenido",
+      "Productividad"
+    ],
+    "pricing_note": "pago — se factura por uso a través de la API de Gemini, sin tier gratis confirmado para este modelo",
+    "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+    "published_date": "2026-08-27",
+    "priority": "informativo",
+    "id": "ai-google-gemini-omni-1-1-flash",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-30"
+  },
+  {
+    "name": "Ask Gemini en Google Chat",
+    "vendor": "Google",
+    "what_it_is": "Un asistente conversacional integrado en Google Chat que permite buscar y actuar sobre datos de todo Workspace (Gmail, Drive, Calendar) sin salir de la conversación, además de generar imágenes o redactar mensajes al toque.",
+    "what_changed": "Google empezó a distribuirlo el 26 de agosto de 2026, reemplazando el panel lateral clásico de Chat por este nuevo asistente, con acceso promocional a límites más altos hasta el 1 de octubre de 2026.",
+    "fixy_use": "Para el equipo que coordina por Google Chat (management, atención al cliente, operaciones), permite preguntar cosas como qué se habló con un cliente puntual o pedir un resumen de un hilo largo sin saltar entre Gmail, Drive y Chat. Antes de sumarlo hay que confirmar si el plan de Workspace de Fixy incluye Smart Features, que es requisito para usarlo.",
+    "verdict": "seguir",
+    "verdict_reason": "Buena mejora de productividad interna, pero depende de tener habilitado Workspace Smart Features en el plan actual.",
+    "categories": [
+      "Productividad",
+      "Organización",
+      "Gestión del tiempo"
+    ],
+    "pricing_note": "no confirmado — requiere estar inscripto en Workspace Smart Features; acceso promocional a límites más altos hasta octubre de 2026",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html",
+    "published_date": "2026-08-26",
+    "priority": "informativo",
+    "id": "ai-google-ask-gemini-en-google-chat",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-21"
   },
   {
     "name": "\"Take notes for me\" de Google Meet para reuniones presenciales",

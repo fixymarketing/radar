@@ -450,5 +450,51 @@
     "source_kind": "auto",
     "last_updated": "2026-08-26",
     "first_seen": "2026-08-26"
+  },
+  {
+    "title": "Diagnóstico de costo real para vendedores de Mercado Libre afectados por la suba",
+    "context": "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre, un golpe más fuerte para el ticket bajo justo cuando el consumo masivo lleva siete meses cayendo. Muchos sellers van a evaluar por primera vez si conviene diversificar hacia tienda propia.",
+    "action": "Crear una calculadora o diagnóstico simple (costo de vender en ML vs. tienda propia + fulfillment de Fixy) y usarlo como herramienta de venta consultiva con sellers medianos y grandes de ML.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.iprofesional.com/negocios/462755-mercado-libre-sube-los-costos-a-vendedores-y-aumenta-la-presion-en-plena-caida-del-consumo",
+    "linked": [
+      "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre"
+    ],
+    "id": "op-505aaf5f",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
+  },
+  {
+    "title": "Alianza con couriers internacionales para la última milla local de paquetes importados",
+    "context": "Las importaciones vía courier ya suman US$751 millones en 2026 y podrían superar todo 2025 antes de septiembre, y ARCA además equiparó al Correo Argentino con los couriers privados para compras en Shein, Temu y Amazon, achicando la brecha regulatoria entre ambos canales.",
+    "action": "Explorar una alianza comercial con couriers internacionales o con el Correo Argentino para que Fixy resuelva la distribución de última milla de esos paquetes en zonas del interior donde ya tiene cobertura propia.",
+    "type": "alianza",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/08/25/las-importaciones-via-courier-llegaron-a-usd-751-millones-en-los-primeros-7-meses-del-ano-y-se-acercan-al-total-de-2025/",
+    "linked": [
+      "Las importaciones vía courier ya suman US$751 millones en 2026 y podrían superar todo 2025 antes de septiembre",
+      "ARCA equipara al Correo Argentino con los couriers privados para las compras en Shein, Temu y Amazon"
+    ],
+    "id": "op-69bbc8c4",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
+  },
+  {
+    "title": "Ofrecer seguridad y rastreo satelital como argumento comercial para que vendedores del interior tercericen la última milla",
+    "context": "Un informe de agosto de 2026 mostró que los robos de vehículos utilitarios de reparto se duplicaron en el interior del país, con foco en Córdoba, Mendoza, Santa Fe y Neuquén, y que el 83% de los robos a transporte de mercadería recae sobre camionetas y utilitarios. Los vendedores y pymes que reparten con flota propia en esas provincias quedan expuestos a un riesgo operativo y de seguro creciente, justo donde más crece la última milla del ecommerce.",
+    "action": "Armar una pieza comercial dirigida a sellers y pymes del interior que reparten con flota propia, mostrando el rastreo satelital y los protocolos de seguridad de Fixy como argumento concreto para tercerizar la última milla en las provincias con más robos.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.informeoperadores.com.ar/2026/08/24/en-julio-se-duplicaron-los-robos-de-vehiculos-en-el-interior-del-pais/",
+    "linked": [
+      "Se duplicaron los robos de vehículos en el interior y los utilitarios de reparto son el blanco principal"
+    ],
+    "id": "op-7396c64d",
+    "source_kind": "auto",
+    "last_updated": "2026-08-27",
+    "first_seen": "2026-08-27"
   }
 ]

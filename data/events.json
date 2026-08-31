@@ -1,76 +1,8 @@
 [
   {
     "scope": "ar",
-    "name": "eCommerce Day Argentina 2026",
-    "organizer": "eCommerce Institute",
-    "date_start": "2026-08-27",
-    "date_end": "2026-08-27",
-    "date_confirmed": true,
-    "date_note": "La fecha central confirmada es jueves 27/8 (coincide con el día de la semana verificado). Alguna cobertura menciona actividades asociadas entre el 27 y el 29/8, pero el evento principal con entradas es el 27.",
-    "city": "Buenos Aires",
-    "province": "CABA",
-    "country": "Argentina",
-    "venue": "Centro de Convenciones Buenos Aires (CEC)",
-    "venue_confirmed": true,
-    "format": "híbrido",
-    "category": "eCommerce",
-    "url": "https://ecommerceday.org.ar/2026/",
-    "source_url": "https://www.eventbrite.com.ar/e/ecommerce-day-argentina-2026-tickets-1981255255804",
-    "description": "Edición número 200 del tour eCommerce Day y 20° aniversario del ciclo en Argentina, con eje en inteligencia artificial aplicada al comercio electrónico, personalización y logística predictiva.",
-    "fixy_relevance": "Reúne a retailers, marketplaces y proveedores logísticos del ecosistema digital argentino; sirve para hacer networking comercial y detectar hacia dónde se mueve la demanda de fulfillment y última milla.",
-    "justification_type": null,
-    "priority": "alta",
-    "beyond_90": false,
-    "id": "ev-argentina-day-ecommerce-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-22",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-08-20",
-        "fields": [
-          "organizer",
-          "date_end",
-          "date_note",
-          "province",
-          "venue",
-          "format",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-08-21",
-        "fields": [
-          "organizer",
-          "date_end",
-          "venue",
-          "format",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-08-22",
-        "fields": [
-          "organizer",
-          "date_note",
-          "city",
-          "province",
-          "format",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
     "name": "Santa Fe Business Forum 2026",
-    "organizer": "Gobierno de la Provincia de Santa Fe / Cámara de Comercio Exterior de Santa Fe",
+    "organizer": "Gobierno de la Provincia de Santa Fe",
     "date_start": "2026-08-31",
     "date_end": "2026-09-04",
     "date_confirmed": true,
@@ -78,20 +10,20 @@
     "city": "Rosario",
     "province": "Santa Fe",
     "country": "Argentina",
-    "venue": "La Fluvial (Rosario), con actividades en Santa Fe capital y otros circuitos productivos",
+    "venue": "La Fluvial (con actividades adicionales en la ciudad de Santa Fe y circuitos productivos provinciales)",
     "venue_confirmed": true,
     "format": "presencial",
-    "category": "Innovación",
-    "url": "https://comercioexterior.org.ar/evento/santa-fe-business-forum-edicion-2026/",
-    "source_url": "https://www.lacapital.com.ar/expocon/expocon-2026-santa-fe-cuatro-dias-innovacion-negocios-y-construccion-vivo-n10221201.html",
-    "description": "Tercera edición del foro internacional que organiza el Gobierno de Santa Fe para conectar el sector productivo provincial con oportunidades de negocio, ahora confirmado como un evento de cinco días en Rosario.",
-    "fixy_relevance": "Reúne al sector productivo y exportador de la región centro del país; sirve para mapear pymes santafesinas y rosarinas que podrían necesitar servicios de fulfillment y distribución.",
+    "category": "eCommerce",
+    "url": "https://www.santafe.gob.ar/santafeglobal/businessforum",
+    "source_url": "https://www.infobae.com/economia/2026/08/30/santa-fe-business-forum-nueva-edicion-del-ya-tradicional-evento-que-busca-fortalecer-la-competitividad-y-abrir-nuevos-mercados/",
+    "description": "Tercera edición del encuentro internacional de negocios de la provincia de Santa Fe: cinco días de rondas de negocios, foro de inversiones y visitas técnicas, con más de 250 compradores de 40 países y 1.000 proveedores locales de sectores como alimentos, autopartes, maquinaria, biotecnología y economía del conocimiento.",
+    "fixy_relevance": "Reúne pymes exportadoras e importadoras que necesitan resolver logística y fulfillment para vender afuera y adentro del país; buen espacio de networking comercial para Fixy en el centro-litoral.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-business-fe-forum-santa-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -120,6 +52,18 @@
           "description",
           "fixy_relevance"
         ]
+      },
+      {
+        "date": "2026-08-31",
+        "fields": [
+          "organizer",
+          "venue",
+          "category",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
@@ -131,23 +75,23 @@
     "date_end": "2026-09-10",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Buenos Aires",
-    "province": "Buenos Aires (CABA)",
+    "city": "CABA",
+    "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "La Rural (Av. Sarmiento 2704)",
+    "venue": "La Rural, Predio Ferial de Buenos Aires",
     "venue_confirmed": true,
     "format": "presencial",
-    "category": "eCommerce",
+    "category": "Marketplaces",
     "url": "https://www.mercadolibreexperience.com.ar/",
     "source_url": "https://www.cronista.com/finanzas-mercados/mercado-libre-experience-2026-fecha-entradas-y-los-temas-que-marcaran-el-encuentro-de-e-commerce-mas-grande-de-la-region/",
-    "description": "Segunda edición en Argentina del evento de eCommerce de Mercado Libre, con sede ya confirmada en La Rural: más de 50 charlas, 80 oradores y cinco escenarios sobre ventas, marketing, logística, medios de pago e IA, con una convocatoria proyectada de más de 8.000 asistentes.",
-    "fixy_relevance": "Es el punto de encuentro más grande de vendedores y marketplaces de la región: sirve para detectar de primera mano qué esperan los sellers en logística y última milla, y para posicionar a Fixy ante potenciales clientes de fulfillment.",
+    "description": "Segunda edición argentina del evento de e-commerce de Mercado Libre: más de 50 charlas y 80 speakers en cinco escenarios sobre ventas, marketing, logística, medios de pago e IA, con más de 8.000 asistentes esperados.",
+    "fixy_relevance": "Concentra en un día a sellers y pymes de Mercado Libre que buscan resolver logística y fulfillment: espacio clave para escuchar demandas reales de clientes potenciales y detectar tendencias en envíos.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-argentina-experience-libre-mercado-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -189,6 +133,17 @@
           "venue",
           "category",
           "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-08-31",
+        "fields": [
+          "city",
+          "province",
+          "venue",
+          "category",
           "description",
           "fixy_relevance"
         ]
@@ -482,41 +437,30 @@
   {
     "scope": "ar",
     "name": "Cumbre Federal de Logística 2026",
-    "organizer": "Consejo Federal de Inversiones (CFI)",
+    "organizer": "Consejo Federal de Inversiones (CFI) junto a provincias argentinas",
     "date_start": "2026-10-16",
     "date_end": "2026-10-16",
     "date_confirmed": true,
     "date_note": "Una búsqueda mostró una mención aislada a '10 de noviembre' para este evento, pero múltiples fuentes (Webpicking, medios provinciales) confirman de forma consistente el 16 de octubre en el CEC Buenos Aires; se prioriza esta fecha.",
-    "city": "Buenos Aires",
-    "province": "Buenos Aires (CABA)",
+    "city": "CABA",
+    "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro de Convenciones de Buenos Aires (CEC)",
+    "venue": "Centro de Convenciones Buenos Aires (CEC)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
     "url": "https://cfi.org.ar/cumbre_federal_logistica",
     "source_url": "https://webpicking.com/la-cumbre-federal-de-logistica-2026-tiene-fecha/",
-    "description": "El CFI confirmó sede en el Centro de Convenciones de Buenos Aires para esta edición bajo el lema \"Hacia una logística competitiva para el desarrollo federal\", que reunirá a gobernadores, autoridades nacionales y CEOs de empresas productoras y de transporte en el marco de la Estrategia Federal Logística.",
-    "fixy_relevance": "Se define ahí la agenda pública de infraestructura y competitividad logística del país: relevante para anticipar obras, corredores y políticas que afectan costos de transporte y última milla en el interior.",
+    "description": "Bajo el lema \"Hacia una logística competitiva para el desarrollo federal\", el CFI y las provincias presentan los avances de la Estrategia Federal de Logística, con gobernadores, autoridades nacionales y CEOs de transporte y producción.",
+    "fixy_relevance": "Marca la agenda pública de infraestructura logística federal (rutas, puertos, costos) que impacta directo en los costos y tiempos de distribución interior de Fixy.",
     "justification_type": null,
-    "priority": "alta",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-cumbre-federal-logistica-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-20",
-        "fields": [
-          "name",
-          "organizer",
-          "province",
-          "venue",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-21",
         "fields": [
@@ -554,6 +498,18 @@
           "venue",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-08-31",
+        "fields": [
+          "organizer",
+          "city",
+          "province",
+          "venue",
+          "description",
+          "fixy_relevance",
+          "priority"
         ]
       }
     ]
@@ -1958,33 +1914,6 @@
   },
   {
     "scope": "ar",
-    "name": "Fintech Meetups 2026 – Salta",
-    "organizer": "Cámara Argentina Fintech",
-    "date_start": "2026-08-27",
-    "date_end": "2026-08-27",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Salta",
-    "province": "Salta",
-    "country": "Argentina",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
-    "format": "presencial",
-    "category": "Pagos y Fintech",
-    "url": "https://camarafintech.org/eventos/fintech-meetups-2026-salta/",
-    "source_url": "https://www.salta.gob.ar/prensa/noticias/salta-sera-sede-de-un-encuentro-para-acercar-el-mundo-fintech-a-empresas-y-emprendedores-109379",
-    "description": "Encuentro regional de la Cámara Argentina Fintech con empresas fintech, entidades financieras y emprendedores del NOA, con apoyo del gobierno de Salta, sobre medios de pago y servicios financieros digitales.",
-    "fixy_relevance": "Da visibilidad sobre qué medios de pago y crédito digital se adoptan en el NOA, útil para acuerdos de cobro contra entrega y financiamiento a sellers de esa región.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-fintech-meetups-salta-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "scope": "ar",
     "name": "Fintech Meetups 2026 – Córdoba",
     "organizer": "Cámara Argentina Fintech",
     "date_start": "2026-09-24",
@@ -3242,17 +3171,30 @@
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Marketplaces",
-    "url": "https://www.mercadolibreexperience.com.mx",
-    "source_url": "https://www.merca20.com/mercado-libre-experience-2026-fecha-que-encontraras-y-donde-sera-el-evento-de-ecommerce-de-mexico/",
-    "description": "Sexta edición del evento insignia de Mercado Libre en México, con foco en herramientas de e-commerce, digitalización financiera, social commerce e IA, con una expectativa de 12.000 asistentes.",
-    "fixy_relevance": "Mercado Libre es el marketplace dominante en la región, incluida Argentina; el evento reúne al ecosistema de vendedores, integradores y Mercado Envíos, clave para relevar tendencias de fulfillment y última milla y para explorar oportunidades de partnership o expansión hacia México.",
-    "justification_type": "networking",
-    "priority": "relevante",
+    "url": "https://www.mercadolibreexperience.com.mx/",
+    "source_url": "https://www.informabtl.com/mercado-libre-experience-2026-mexico-expo-santa-fe/",
+    "description": "Sexta edición del evento de e-commerce y fintech de Mercado Libre en México, con cerca de 12.000 asistentes esperados y paneles sobre marketplaces, logística y crecimiento de negocios digitales.",
+    "fixy_relevance": "Es el evento de e-commerce más grande de México con foco en sellers y marketplaces: una vidriera de negocios y networking si Fixy evalúa presencia, alianzas o expansión comercial hacia el mercado mexicano.",
+    "justification_type": "negocios",
+    "priority": "alta",
     "beyond_90": false,
     "id": "ev-experience-libre-mercado-mexico-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-28",
-    "first_seen": "2026-08-28"
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-28",
+    "change_log": [
+      {
+        "date": "2026-08-31",
+        "fields": [
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -3338,7 +3280,7 @@
   {
     "scope": "intl",
     "name": "FINNOSUMMIT 2026",
-    "organizer": "Finnovista",
+    "organizer": "Finnovista Frontier",
     "date_start": "2026-09-23",
     "date_end": "2026-09-24",
     "date_confirmed": true,
@@ -3351,16 +3293,28 @@
     "format": "presencial",
     "category": "Pagos y Fintech",
     "url": "https://www.finnosummit.com/en/",
-    "source_url": "https://www.notimx.mx/2026/06/finnosummit-2026-reunira-retail.html",
-    "description": "10ª edición del principal encuentro de innovación financiera de América Latina, organizado por Finnovista en Ciudad de México; en 2026 suma por primera vez a su agenda a sectores como retail, logística y salud.",
-    "fixy_relevance": "Al incorporar por primera vez retail y logística a su agenda, abre networking con actores de pagos y fintech que definen infraestructura de checkout, medios de pago y financiamiento para el comercio electrónico regional.",
-    "justification_type": "networking",
+    "source_url": "https://www.finnosummit.com/en/insights-hub-a-four-stage-strategic-ecosystem-and-an-impact-driven-program-designed-to-move-from-listening-to-meaningful-connection-at-finnosummit-2026/",
+    "description": "Décima edición de FINNOSUMMIT, el principal evento de fintech de América Latina, que este año suma un eje específico de tecnología financiera aplicada a retail, logística y cadena de suministro.",
+    "fixy_relevance": "Aborda financiamiento embebido y fintech aplicada a logística: útil para entender cómo los medios de pago y el crédito digital están cambiando la operación de e-commerce y la última milla en la región.",
+    "justification_type": "aprendizaje",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-finnosummit-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-29",
-    "first_seen": "2026-08-29"
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-29",
+    "change_log": [
+      {
+        "date": "2026-08-31",
+        "fields": [
+          "organizer",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -3388,5 +3342,32 @@
     "source_kind": "auto",
     "last_updated": "2026-08-29",
     "first_seen": "2026-08-29"
+  },
+  {
+    "scope": "intl",
+    "name": "Mercado Libre Experience Colombia 2026",
+    "organizer": "Mercado Libre",
+    "date_start": "2026-09-16",
+    "date_end": "2026-09-16",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Bogotá",
+    "province": null,
+    "country": "Colombia",
+    "venue": "Movistar Arena",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Marketplaces",
+    "url": "https://mercadolibrexperience.com.co/",
+    "source_url": "https://www.acis.org.co/blog/noticias-2/llega-a-colombia-mercado-libre-experience-el-evento-de-comercio-electronico-mas-importante-de-america-latina-7822",
+    "description": "Primera edición de Mercado Libre Experience en Colombia, en el Movistar Arena de Bogotá, con más de 90 charlas sobre marketplace, logística y ecosistema digital.",
+    "fixy_relevance": "Debut del evento insignia de Mercado Libre en un mercado en fuerte expansión (Mercado Libre anunció una inversión de USD 600 millones en Colombia para 2026): oportunidad de negocios y networking con sellers que necesitan soluciones de fulfillment.",
+    "justification_type": "expansión regional",
+    "priority": "alta",
+    "beyond_90": false,
+    "id": "ev-colombia-experience-libre-mercado-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-31"
   }
 ]

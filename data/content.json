@@ -512,5 +512,35 @@
     "source_kind": "auto",
     "last_updated": "2026-08-30",
     "first_seen": "2026-08-30"
+  },
+  {
+    "topic": "Cuando el cuello de botella no es un puerto argentino: lo que un paro en Montevideo le enseña a la importación nacional",
+    "why_now": "La Terminal Cuenca del Plata de Montevideo sufrió su sexta interrupción del año y varias navieras ya redirigen carga hacia Buenos Aires, mostrando en tiempo real cómo un conflicto en un puerto vecino golpea directo los tiempos de reposición del importador argentino.",
+    "fixy_angle": "Fixy puede explicar en lenguaje simple cómo funciona el transbordo por el Río de la Plata y qué puede hacer un importador o vendedor para no quedar expuesto a este tipo de demoras, como diversificar puertos de entrada o anticipar pedidos.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.infobae.com/movant/2026/08/28/el-puerto-de-montevideo-enfrenta-una-nueva-interrupcion-en-su-terminal-de-contenedores/",
+    "id": "ct-a8434eac",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-31"
+  },
+  {
+    "topic": "Qué cambia (y qué no) para la logística con el protocolo de Mercosur que acaba de aprobar el Senado",
+    "why_now": "El Senado aprobó por unanimidad un protocolo que apunta a desregular servicios digitales, billeteras y logística dentro del bloque, un primer paso legislativo hacia reglas comunes para el eCommerce transfronterizo en la región.",
+    "fixy_angle": "Fixy puede traducir en términos prácticos qué implica esto para un vendedor o marketplace que opera en varios países del Mercosur, más allá del anuncio político, y qué hay que mirar antes de sacar conclusiones.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.parlamentario.com/2026/08/27/por-unanimidad-el-senado-aprobo-una-serie-de-acuerdos-internacionales/",
+    "id": "ct-9208fef5",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-31"
   }
 ]

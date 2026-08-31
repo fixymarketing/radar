@@ -23,29 +23,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "title": "Las ventas minoristas pyme cayeron 3,8% en julio, pero el canal online de los comercios físicos creció 14,9%",
-    "what_happened": "Según CAME, las ventas minoristas pyme bajaron 3,8% interanual en julio y 2,1% frente a junio, con un acumulado de -2,7% en 2026. Seis de siete rubros cayeron. En contraste, las ventas online de los comercios físicos subieron 14,9% interanual.",
-    "why_it_matters": "El dato clave no es la caída general sino la divergencia: el comercio tradicional pierde en el mostrador y compensa migrando al canal digital.",
-    "fixy_impact": "El comercio físico que se digitaliza es el segmento de demanda más caliente para Fixy: necesita operación logística tercerizada y no tiene estructura propia para hacerla.",
-    "category": "Consumo",
-    "geo": "Argentina",
-    "source_name": "El Esquiú (informe CAME)",
-    "source_url": "https://www.elesquiu.com/nacionales/2026/8/9/las-ventas-minoristas-pyme-cayeron-38-en-julio-frente-a-igual-mes-de-592117.html",
-    "published_date": "2026-08-09",
-    "priority": "alta",
-    "tags": [
-      "CAME",
-      "consumo",
-      "pymes",
-      "omnicanalidad",
-      "canal online"
-    ],
-    "id": "nw-3836d14a25",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
     "title": "Día del Niño y feriado de San Martín pusieron a prueba la última milla",
     "what_happened": "El domingo 16 de agosto, Día del Niño, coincidió con el feriado nacional del lunes 17 por el Paso a la Inmortalidad del General San Martín, generando un fin de semana largo de tres días que obligó a jugueterías, plataformas de ecommerce y operadores de reparto a anticipar entregas y reforzar turnos antes del corte. Según la Cámara Argentina de la Industria del Juguete, las ventas del sector cayeron cerca de 10% en el primer semestre de 2026 frente a igual período de 2025, pero la fecha sigue concentrando alrededor del 60% de la facturación anual de las jugueterías. El artículo señala además que el stock importado en exceso durante el año previo todavía se está procesando en depósitos y centr",
     "why_it_matters": "Muestra que la ventana de despacho se acorta cada vez que un feriado se pega a una fecha comercial fuerte, y que sostener los tiempos de entrega —más allá de que el volumen de ventas caiga— es el verdadero termómetro de madurez de la última milla en el ecommerce argentino.",
@@ -202,28 +179,6 @@
       "eficiencia"
     ],
     "id": "nw-bc5ee21757",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "title": "Expo Transporte y Expo Logisti-k tuvieron su edición récord en La Rural con más de 450 expositores",
-    "what_happened": "Del 11 al 13 de agosto se realizó en La Rural la edición conjunta de Expo Transporte y Expo Logisti-k, con 28.000 m² y más de 450 expositores. La agenda incluyó gestión de flotas, energías limpias, equipos autónomos y soluciones de última milla, más un Encuentro de Comercio Exterior.",
-    "why_it_matters": "La escala récord del evento en un año de consumo en baja confirma que la inversión en infraestructura y tecnología logística sigue firme, apalancada en eCommerce, minería y energía.",
-    "fixy_impact": "Fuente concreta de proveedores y tecnología de última milla, y espacio de captación de clientes importadores y exportadores a través del Encuentro de Comercio Exterior.",
-    "category": "Logística",
-    "geo": "Argentina",
-    "source_name": "Info Pymes",
-    "source_url": "https://www.infopymes.com.ar/este-martes-arranca-una-edicion-record-de-expo-transporte-y-expo-logisti-k-en-la-rural/",
-    "published_date": "2026-08-09",
-    "priority": "informativo",
-    "tags": [
-      "Expo Logisti-k",
-      "Expo Transporte",
-      "última milla",
-      "proveedores"
-    ],
-    "id": "nw-b30c355f49",
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
@@ -758,5 +713,74 @@
     "source_kind": "auto",
     "last_updated": "2026-08-29",
     "first_seen": "2026-08-29"
+  },
+  {
+    "title": "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo volvió a paralizar la operatoria",
+    "what_happened": "La Terminal Cuenca del Plata (TCP), la principal terminal de contenedores de Montevideo, detuvo sus actividades el viernes 28 de agosto por un conflicto entre el Sindicato Único Portuario y Ramas Afines (Supra) y el consorcio belga Katoen Natie, operador de la concesión, por la renovación de un convenio colectivo vencido que afecta a unos 550 trabajadores. Es la sexta interrupción del año y al 31 de agosto el conflicto seguía sin resolverse, aunque la terminal operaba con relativa normalidad. Navieras como MSC, Maersk y Ocean Network Express ya redirigieron parte de su operatoria hacia Buenos Aires, Rio Grande y Santos.",
+    "why_it_matters": "Montevideo es un nodo clave de transbordo para el comercio exterior argentino que usa el Río de la Plata, y cada paro suma entre US$700 y US$1.000 de sobrecosto por contenedor además de demoras, según operadores del sector.",
+    "fixy_impact": "Si el conflicto se agrava puede encarecer y demorar la llegada de mercadería importada que hoy transita por Montevideo antes de llegar a depósitos en Argentina, afectando los tiempos de reposición de stock de clientes de fulfillment.",
+    "category": "Logística",
+    "geo": "LATAM",
+    "source_name": "Infobae (Movant)",
+    "source_url": "https://www.infobae.com/movant/2026/08/28/el-puerto-de-montevideo-enfrenta-una-nueva-interrupcion-en-su-terminal-de-contenedores/",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "tags": [
+      "puertos",
+      "comercio exterior",
+      "Uruguay",
+      "contenedores",
+      "hidrovía"
+    ],
+    "id": "nw-787ba1c861",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-31"
+  },
+  {
+    "title": "Peajes, trenes y colectivos del AMBA suben en septiembre y presionan el costo de la última milla",
+    "what_happened": "El Gobierno confirmó esta semana que desde septiembre los peajes de las autopistas de acceso a CABA suben en promedio 4%, los colectivos porteños 4,1%, los de la Provincia de Buenos Aires 4,3% y los trenes del AMBA hasta 14,29%. Los aumentos se suman a los incrementos de combustible y neumáticos ya acumulados durante 2026 en el costo del transporte de cargas.",
+    "why_it_matters": "Estos incrementos impactan de forma directa en la estructura de costos de los repartos urbanos, que dependen de autopistas de peaje y de una flota que ya venía absorbiendo subas de combustible durante el año.",
+    "fixy_impact": "Encarece el costo operativo de los repartos en el AMBA y obliga a revisar tarifas a clientes o márgenes en las rutas que más peajes utilizan.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/08/28/uno-por-uno-los-aumentos-que-llegan-en-septiembre-transporte-prepagas-colegios-y-tarifas/",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "tags": [
+      "peajes",
+      "costos logísticos",
+      "transporte",
+      "AMBA",
+      "tarifas"
+    ],
+    "id": "nw-b06819e408",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-31"
+  },
+  {
+    "title": "CACE detalló los números del primer semestre: 181,5 millones de órdenes y un ticket promedio que le pierde a la inflación",
+    "what_happened": "En el Estudio Mid Term 2026, presentado en el eCommerce Day Argentina del 27 de agosto, la CACE informó que la facturación del comercio electrónico creció 28% interanual en el primer semestre, alcanzando unos $19,5 billones de pesos corrientes. Las órdenes de compra treparon a 181,5 millones (+21% interanual) y se comercializaron 248 millones de artículos, mientras que el ticket promedio subió apenas 5%, muy por debajo de la inflación del período. El universo de compradores online llegó a 25 millones de personas, tras sumar 1,34 millones de nuevos usuarios durante 2025.",
+    "why_it_matters": "El crecimiento en volumen de órdenes muy por encima del ticket promedio confirma que el consumidor compra más seguido pero productos más baratos o de menor valor, un patrón que ya viene marcando el año y que redefine qué significa 'crecer' en eCommerce.",
+    "fixy_impact": "Más órdenes de menor ticket implican más operaciones de picking y despacho por cada peso facturado, lo que exige revisar el costo operativo por unidad antes que mirar solo la facturación de los clientes.",
+    "category": "eCommerce",
+    "geo": "Argentina",
+    "source_name": "CACE / DefOnline",
+    "source_url": "https://defonline.com.ar/ciencia-tecnologia/el-crecimiento-del-ecommerce-argentino-ya-roza-los-20-billones-en-el-primer-semestre-de-2026/",
+    "published_date": "2026-08-27",
+    "priority": "relevante",
+    "tags": [
+      "CACE",
+      "eCommerce Day",
+      "facturación",
+      "órdenes de compra",
+      "ticket promedio"
+    ],
+    "id": "nw-e6becf31e5",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-31"
   }
 ]

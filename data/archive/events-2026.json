@@ -99,5 +99,100 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "eCommerce Day Argentina 2026",
+    "organizer": "eCommerce Institute",
+    "date_start": "2026-08-27",
+    "date_end": "2026-08-27",
+    "date_confirmed": true,
+    "date_note": "La fecha central confirmada es jueves 27/8 (coincide con el día de la semana verificado). Alguna cobertura menciona actividades asociadas entre el 27 y el 29/8, pero el evento principal con entradas es el 27.",
+    "city": "Buenos Aires",
+    "province": "CABA",
+    "country": "Argentina",
+    "venue": "Centro de Convenciones Buenos Aires (CEC)",
+    "venue_confirmed": true,
+    "format": "híbrido",
+    "category": "eCommerce",
+    "url": "https://ecommerceday.org.ar/2026/",
+    "source_url": "https://www.eventbrite.com.ar/e/ecommerce-day-argentina-2026-tickets-1981255255804",
+    "description": "Edición número 200 del tour eCommerce Day y 20° aniversario del ciclo en Argentina, con eje en inteligencia artificial aplicada al comercio electrónico, personalización y logística predictiva.",
+    "fixy_relevance": "Reúne a retailers, marketplaces y proveedores logísticos del ecosistema digital argentino; sirve para hacer networking comercial y detectar hacia dónde se mueve la demanda de fulfillment y última milla.",
+    "justification_type": null,
+    "priority": "alta",
+    "beyond_90": false,
+    "id": "ev-argentina-day-ecommerce-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-22",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-08-20",
+        "fields": [
+          "organizer",
+          "date_end",
+          "date_note",
+          "province",
+          "venue",
+          "format",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-08-21",
+        "fields": [
+          "organizer",
+          "date_end",
+          "venue",
+          "format",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-08-22",
+        "fields": [
+          "organizer",
+          "date_note",
+          "city",
+          "province",
+          "format",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "Fintech Meetups 2026 – Salta",
+    "organizer": "Cámara Argentina Fintech",
+    "date_start": "2026-08-27",
+    "date_end": "2026-08-27",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Salta",
+    "province": "Salta",
+    "country": "Argentina",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Pagos y Fintech",
+    "url": "https://camarafintech.org/eventos/fintech-meetups-2026-salta/",
+    "source_url": "https://www.salta.gob.ar/prensa/noticias/salta-sera-sede-de-un-encuentro-para-acercar-el-mundo-fintech-a-empresas-y-emprendedores-109379",
+    "description": "Encuentro regional de la Cámara Argentina Fintech con empresas fintech, entidades financieras y emprendedores del NOA, con apoyo del gobierno de Salta, sobre medios de pago y servicios financieros digitales.",
+    "fixy_relevance": "Da visibilidad sobre qué medios de pago y crédito digital se adoptan en el NOA, útil para acuerdos de cobro contra entrega y financiamiento a sellers de esa región.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-fintech-meetups-salta-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
   }
 ]

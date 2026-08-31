@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-30T12:18:38.114Z",
-  "last_updated_ar": "30/08/2026, 09:18",
-  "date": "2026-08-30",
+  "generated_at": "2026-08-31T12:35:22.912Z",
+  "last_updated_ar": "31/08/2026, 09:35",
+  "date": "2026-08-31",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Faltan solo dos días para la suba de costos de Mercado Libre a los vendedores mientras el freno a la concesión del Correo Argentino prolonga la incertidumbre de la última milla, la inseguridad ya golpea de lleno a los utilitarios de reparto y Mercado Libre Experience Argentina confirma sede en La Rural para el 10 de septiembre.",
+  "summary_line": "Mañana entra en vigencia la suba de costos de Mercado Libre a los vendedores justo cuando un nuevo paro en el puerto de Montevideo y las subas de peajes de septiembre presionan más los costos de última milla, mientras el freno a la concesión del Correo Argentino sigue sin resolverse y Mercado Libre Experience Argentina se acerca con fecha y sede confirmadas en La Rural.",
   "counters": {
-    "news_today": 0,
-    "news_total": 33,
-    "events_upcoming": 74,
+    "news_today": 3,
+    "news_total": 34,
+    "events_upcoming": 75,
     "events_ar_upcoming": 42,
-    "events_intl_upcoming": 32,
+    "events_intl_upcoming": 33,
     "events_later": 16,
     "opportunities_open": 8,
-    "opportunities_today": 2,
-    "ai_today": 3,
-    "ai_to_try": 25,
-    "content_ideas": 34,
-    "added_news": 0,
+    "opportunities_today": 3,
+    "ai_today": 0,
+    "ai_to_try": 24,
+    "content_ideas": 36,
+    "added_news": 3,
     "updated_news": 0,
-    "added_events": 0,
-    "updated_events": 15,
-    "added_ai": 3,
-    "archived": 2,
+    "added_events": 1,
+    "updated_events": 5,
+    "added_ai": 0,
+    "archived": 7,
     "discarded_quality": 0
   },
   "next_event": {
@@ -30,7 +30,7 @@
     "name": "Santa Fe Business Forum 2026",
     "date_start": "2026-08-31",
     "city": "Rosario",
-    "days_away": 1
+    "days_away": 0
   },
   "highlights": [
     {
@@ -38,7 +38,7 @@
       "kind": "news",
       "title": "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre",
       "priority": "alta",
-      "one_liner": "Quedan solo 2 días para la suba, que golpea más fuerte a los productos de ticket bajo justo cuando el consumo sigue cayendo."
+      "one_liner": "Mañana entra en vigencia el aumento: quedan horas para que los vendedores más chicos ajusten precios o resignen margen."
     },
     {
       "id": "nw-95ff1f53f6",
@@ -48,25 +48,25 @@
       "one_liner": "Prolonga la incertidumbre sobre un actor central de la última milla justo cuando quedó equiparado a los couriers privados para compras en Shein, Temu y Amazon."
     },
     {
+      "id": "nw-787ba1c861",
+      "kind": "news",
+      "title": "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo volvió a paralizar la operatoria",
+      "priority": "relevante",
+      "one_liner": "Ya es la sexta interrupción del año y varias navieras redirigen carga hacia Buenos Aires, con sobrecostos de hasta US$1.000 por contenedor."
+    },
+    {
       "id": "ev-argentina-experience-libre-mercado-2026",
       "kind": "event",
       "title": "Mercado Libre Experience Argentina 2026",
       "priority": "alta",
-      "one_liner": "Ya tiene sede confirmada en La Rural para el 10 de septiembre: el mayor encuentro de vendedores del país y una cantera clave de leads de fulfillment."
+      "one_liner": "Confirmada para el 10 de septiembre en La Rural: el mayor encuentro de sellers del país y una cantera clave de leads de fulfillment."
     },
     {
-      "id": "nw-de69cc8e6c",
-      "kind": "news",
-      "title": "Un estudio de CASEL revela que el 83% de los robos a transporte de mercadería golpea a utilitarios de reparto",
-      "priority": "relevante",
-      "one_liner": "Confirma con datos que la inseguridad se concentra justamente en los vehículos chicos de última milla, no en el transporte de carga pesada."
-    },
-    {
-      "id": "ai-openai-chatgpt-work-tareas-activadas-por-webhooks",
+      "id": "ai-anthropic-claude-cowork-memoria-unificada-con-el-chat",
       "kind": "ai",
-      "title": "ChatGPT Work: tareas activadas por webhooks",
+      "title": "Claude Cowork: memoria unificada con el chat",
       "priority": "relevante",
-      "one_liner": "Permite automatizar avisos y borradores de respuesta apenas llega un reclamo urgente por mail o Slack, sin que nadie tenga que revisar la bandeja todo el día."
+      "one_liner": "Deja disponible en Cowork lo que el equipo ya le explicó a Claude en el chat, ahorrando tiempo de preparación en tareas repetitivas."
     }
   ]
 }
