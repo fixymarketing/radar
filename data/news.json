@@ -532,26 +532,27 @@
   },
   {
     "title": "El BCRA habilita el débito automático de cuotas de préstamos desde cuentas bancarias y billeteras",
-    "what_happened": "A partir del 31 de agosto entra en vigencia el sistema \"Cobro con Transferencia\" (CCT) del BCRA, que permite a bancos y billeteras virtuales -como Mercado Pago y Ualá- debitar cuotas de crédito impagas directamente de la cuenta bancaria o virtual del deudor, aunque esté en otra entidad. El mecanismo exige consentimiento previo del usuario, aviso con al menos 24 horas de anticipación y un máximo de tres intentos de débito (el original más dos reintentos a las 48 y 96 horas), y el débito no puede superar el 30% del ingreso declarado. La medida busca frenar la morosidad de créditos otorgados por fintech, que según el BCRA llegó a niveles récord.",
-    "why_it_matters": "Cambia las reglas de cobro del crédito de consumo que financia buena parte de las compras online, endureciendo el cobro a deudores pero dando más previsibilidad de repago a las entidades que prestan a compradores de ecommerce.",
+    "what_happened": "El sistema de Cobro con Transferencia (CCT) del BCRA entró en vigencia el 31 de agosto, permitiendo a bancos, fintech y billeteras virtuales debitar cuotas de préstamos impagas directamente de la cuenta donde el cliente recibió el dinero, aunque sea de otra entidad. El mecanismo exige autorización previa y expresa del usuario, notificación al menos un día hábil antes de cada débito, un máximo de tres intentos de cobro por cuota, y un tope de débito que no puede superar el 30% del ingreso declarado del cliente. La autorización puede revocarse en cualquier momento sin trámites.",
+    "why_it_matters": "Formaliza y pone en marcha un mecanismo de cobro compulsivo de deudas de consumo justo cuando la mora de las fintech ya supera los 10 millones de deudores, lo que puede tensionar la relación entre billeteras y usuarios morosos y generar más reclamos de consumidores.",
     "fixy_impact": null,
     "category": "Fintech",
     "geo": "Argentina",
-    "source_name": "Ámbito Financiero",
-    "source_url": "https://www.ambito.com/finanzas/debuta-un-nuevo-sistema-cobro-deudores-pese-los-reparos-los-bancos-el-bcra-lo-pone-marcha-n6314846",
-    "published_date": "2026-08-26",
-    "priority": "relevante",
+    "source_name": "Perfil",
+    "source_url": "https://www.perfil.com/noticias/economia/bcra-cambia-cobro-prestamos-desde-31-agosto-funcionaran-debitos-bancos-billeteras-virtuales-a40.phtml",
+    "published_date": "2026-08-31",
+    "priority": "informativo",
     "tags": [
       "BCRA",
       "billeteras virtuales",
-      "crédito",
-      "morosidad",
-      "regulación"
+      "créditos",
+      "cobranza",
+      "regulación financiera"
     ],
     "id": "nw-cfa3858ebb",
     "source_kind": "auto",
-    "last_updated": "2026-08-27",
-    "first_seen": "2026-08-27"
+    "last_updated": "2026-09-01",
+    "first_seen": "2026-08-27",
+    "updated_flag": true
   },
   {
     "title": "Se duplicaron los robos de vehículos en el interior y los utilitarios de reparto son el blanco principal",
@@ -782,5 +783,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-31",
     "first_seen": "2026-08-31"
+  },
+  {
+    "title": "El Gobierno postergó hasta octubre el aumento de impuestos a los combustibles",
+    "what_happened": "Mediante el Decreto 829/2026, publicado el 31 de agosto en el Boletín Oficial y firmado por Milei, Santilli y Caputo, el Gobierno pospuso hasta el 1° de octubre la suba pendiente del Impuesto sobre los Combustibles Líquidos y del Impuesto al Dióxido de Carbono sobre naftas y gasoil, que estaba prevista para el 1° de septiembre. El ajuste acumula actualizaciones postergadas de 2024, 2025 y los dos primeros trimestres de 2026. Con la medida, septiembre mantiene la misma carga impositiva que rigió en agosto.",
+    "why_it_matters": "Es la segunda vez en el año que el Gobierno frena esta suba para contener el impacto en la inflación, lo que da un respiro transitorio a los costos de combustible del transporte de cargas pero anticipa una actualización más fuerte y acumulada en octubre.",
+    "fixy_impact": "Para Fixy, que depende de flota propia y de terceros para la última milla, implica un mes más sin presión impositiva adicional sobre el gasoil, pero conviene anticipar en las tarifas de octubre el ajuste que se viene acumulando.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/08/31/el-gobierno-postergo-hasta-octubre-el-aumento-de-los-impuestos-a-los-combustibles-para-evitar-un-salto-en-la-inflacion/",
+    "published_date": "2026-08-31",
+    "priority": "relevante",
+    "tags": [
+      "combustible",
+      "gasoil",
+      "costos logísticos",
+      "impuestos",
+      "transporte de cargas"
+    ],
+    "id": "nw-1b36dcd0f3",
+    "source_kind": "auto",
+    "last_updated": "2026-09-01",
+    "first_seen": "2026-09-01"
   }
 ]

@@ -542,5 +542,35 @@
     "source_kind": "auto",
     "last_updated": "2026-08-31",
     "first_seen": "2026-08-31"
+  },
+  {
+    "topic": "El impuesto a los combustibles que el Gobierno sigue postergando: qué significa para el costo del transporte de carga",
+    "why_now": "El Gobierno pateó por segunda vez en el año esta suba, ahora hasta octubre, acumulando ajustes pendientes de 2024, 2025 y lo que va de 2026.",
+    "fixy_angle": "Fixy puede explicarle a sus clientes por qué conviene anticipar en las tarifas de octubre un ajuste que ya se viene acumulando, en vez de esperar el salto de golpe.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.infobae.com/economia/2026/08/31/el-gobierno-postergo-hasta-octubre-el-aumento-de-los-impuestos-a-los-combustibles-para-evitar-un-salto-en-la-inflacion/",
+    "id": "ct-2cdae085",
+    "source_kind": "auto",
+    "last_updated": "2026-09-01",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "topic": "Atención por WhatsApp: se termina la ventana gratis y alguien tiene que decidir quién paga la conversación",
+    "why_now": "Desde el 1° de octubre, cada mensaje de servicio por WhatsApp Business API pasa a tener costo, sea que lo responda una persona o un bot, justo cuando más marcas tercerizan su atención de pedidos por ese canal.",
+    "fixy_angle": "Fixy puede posicionarse como el operador que ya avisó del cambio a sus clientes vendedores y les ofrece alternativas de seguimiento de pedidos que no dependen solo de WhatsApp.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.wati.io/en/blog/whatsapp-service-message-pricing/",
+    "id": "ct-aab1faac",
+    "source_kind": "auto",
+    "last_updated": "2026-09-01",
+    "first_seen": "2026-09-01"
   }
 ]

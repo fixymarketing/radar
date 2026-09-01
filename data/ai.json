@@ -44,6 +44,28 @@
     "first_seen": "2026-08-30"
   },
   {
+    "name": "ChatGPT Work: inicio de sesión en sitios con contraseña",
+    "vendor": "OpenAI",
+    "what_it_is": "ChatGPT Work, el agente de tareas de ChatGPT, ahora puede iniciar sesión en sitios web que piden usuario y contraseña para terminar una tarea, usando las credenciales que el usuario carga desde su gestor de contraseñas o tipea una sola vez.",
+    "what_changed": "Antes, el agente se frenaba apenas aparecía una pantalla de login. Desde el 26 de agosto de 2026, OpenAI habilitó ese paso: ChatGPT no ve ni guarda la contraseña, pero la sesión iniciada puede quedar activa para tareas futuras en el mismo sitio.",
+    "fixy_use": "Fixy podría pedirle a ChatGPT Work que entre a paneles con login que hoy se revisan a mano —el admin de Tiendanube o Mercado Libre, el sitio de seguimiento de un courier, AFIP— y traiga un dato puntual o baje un reporte, sin armar una integración por API. Conviene arrancar con cuentas de prueba o permisos acotados, porque dejar una sesión abierta en un agente de IA es un riesgo de seguridad a tener en cuenta.",
+    "verdict": "probar",
+    "verdict_reason": "Ahorra tiempo real en consultas repetitivas sobre portales con login y ya está disponible para planes pagos.",
+    "categories": [
+      "Operaciones",
+      "Automatización",
+      "Productividad"
+    ],
+    "pricing_note": "pago — incluido en ChatGPT Plus, Pro y Business, no en el plan gratuito",
+    "source_url": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
+    "published_date": "2026-08-26",
+    "priority": "alta",
+    "id": "ai-openai-chatgpt-work-inicio-de-sesion-en-sitios-con-contrasen",
+    "source_kind": "auto",
+    "last_updated": "2026-09-01",
+    "first_seen": "2026-09-01"
+  },
+  {
     "name": "Claude Cowork: memoria unificada con el chat",
     "vendor": "Anthropic",
     "what_it_is": "Cowork es el agente de Claude que ejecuta tareas de varios pasos en la nube (ordenar archivos, investigar, armar reportes). Esta actualización unifica su memoria con la del chat normal de Claude, algo que hasta ahora funcionaba por separado.",
@@ -222,6 +244,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-22",
     "first_seen": "2026-08-22"
+  },
+  {
+    "name": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
+    "vendor": "Meta",
+    "what_it_is": "Es un cambio en cómo Meta cobra el uso de WhatsApp Business Platform (la API de negocios, no la app gratuita): a partir de una fecha confirmada, todos los mensajes de servicio —las respuestas libres dentro de la ventana de 24 horas, las escriba una persona, un bot propio o una IA— van a tener costo.",
+    "what_changed": "Estos mensajes eran gratis desde noviembre de 2024. Meta anunció el 1° de julio de 2026, junto con el lanzamiento de su Meta Business Agent, que desde el 1° de octubre de 2026 se van a cobrar al mismo valor por mensaje que ya rige para las plantillas de utilidad y autenticación de cada país, y que iba a publicar las tarifas exactas por país antes del 1° de septiembre de 2026.",
+    "fixy_use": "Si Fixy atiende clientes por la API de WhatsApp Business (directo o a través de un proveedor tipo Zendesk, Chatwoot o similar), este cambio encarece cada conversación de atención que hoy es gratis dentro de las 24 horas, la maneje una persona o un bot. Conviene chequear ahora con el proveedor de WhatsApp de Fixy qué tarifa va a regir en Argentina y evaluar si conviene resolver más consultas con un asistente propio más acotado (o derivar a otro canal) antes del 1° de octubre. El cambio no afecta a la app gratuita de WhatsApp Business, solo a la API.",
+    "verdict": "seguir",
+    "verdict_reason": "Es un cambio de costos con fecha cierta que impacta el presupuesto de atención al cliente, aunque la tarifa final para Argentina todavía no está confirmada.",
+    "categories": [
+      "Comercial",
+      "Management",
+      "Operaciones"
+    ],
+    "pricing_note": "pago — tarifa por país todavía no publicada por Meta",
+    "source_url": "https://www.wati.io/en/blog/whatsapp-service-message-pricing/",
+    "published_date": "2026-07-01",
+    "priority": "alta",
+    "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
+    "source_kind": "auto",
+    "last_updated": "2026-09-01",
+    "first_seen": "2026-09-01"
   },
   {
     "name": "Meta Business Agent: cobro por tokens en WhatsApp",
@@ -823,6 +867,29 @@
     "first_seen": "2026-08-20"
   },
   {
+    "name": "Copilot unificado (AutoPilot)",
+    "vendor": "Microsoft",
+    "what_it_is": "Microsoft empezó a fusionar sus apps de Copilot (chat, código, agentes) en una sola aplicación y sumó una nueva categoría de agentes llamados \"Autopilots\": IA que trabaja sola en segundo plano, sin que alguien le vaya dando instrucciones paso a paso.",
+    "what_changed": "La migración a la app unificada arrancó el 18 de agosto de 2026 y de paso Microsoft dio de baja funciones poco usadas (Podcasts, Group Chat, Deep Research). El primer Autopilot, Microsoft Scout, está en vista previa privada para organizaciones \"Frontier\" y se encarga de organizar reuniones, preparar material y avisar vencimientos en Teams, Outlook, OneDrive y SharePoint.",
+    "fixy_use": "Si Fixy usa Microsoft 365, un Autopilot tipo Scout podría sacarle a management/operaciones tareas administrativas repetitivas —armar la agenda con contexto de mails y archivos, avisar vencimientos de contratos u obligaciones— sin que nadie tenga que pedírselo cada vez. Hoy no se puede probar porque está en preview privado, pero Microsoft apunta a la app completa para fines de septiembre de 2026 y adelantó que estos agentes se cobrarían aparte del abono habitual, así que conviene tenerlo anotado para presupuestar.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una capacidad prometedora para tareas administrativas, pero sigue en preview privado y sin precio público confirmado.",
+    "categories": [
+      "Management",
+      "Organización",
+      "Productividad",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado — Microsoft adelantó que los Autopilots tendrían costo aparte del abono de Copilot, sin tarifa publicada",
+    "source_url": "https://theaicareerlab.com/blog/microsoft-copilot-autopilot-agents-professionals-2026",
+    "published_date": "2026-08-18",
+    "priority": "informativo",
+    "id": "ai-microsoft-copilot-unificado-autopilot",
+    "source_kind": "auto",
+    "last_updated": "2026-09-01",
+    "first_seen": "2026-08-20"
+  },
+  {
     "name": "ElevenLabs Conversational AI (voz)",
     "vendor": "ElevenLabs",
     "what_it_is": "La plataforma de ElevenLabs para crear agentes de voz conversacionales que pueden atender llamados, responder preguntas y derivar casos a una persona.",
@@ -842,28 +909,6 @@
     "source_kind": "auto",
     "last_updated": "2026-08-27",
     "first_seen": "2026-08-24"
-  },
-  {
-    "name": "Copilot unificado (AutoPilot)",
-    "vendor": "Microsoft",
-    "what_it_is": "La app única de Copilot que reemplaza a las distintas apps sueltas de Microsoft 365 (chat, notebooks, agentes) en una sola interfaz para toda la empresa.",
-    "what_changed": "El 18 de agosto de 2026 Microsoft completó la fusión de apps: se apagaron definitivamente Copilot Podcasts, Group Chat y el viejo Deep Research (ya reemplazado por Researcher), y la app unificada sumó la posibilidad de elegir modelo —incluyendo GPT-5 y modelos de Anthropic (Claude)— además de Copilot Notebooks disponible para todos los usuarios.",
-    "fixy_use": "Si el equipo usa Microsoft 365, esto simplifica no tener que buscar la función correcta entre varias apps: desde una sola Copilot pueden pedir una investigación de mercado, armar notas de una reunión de operaciones o comparar respuestas entre modelos para una decisión comercial. Conviene revisar si algún flujo dependía de Podcasts o Group Chat, porque ya no están disponibles.",
-    "verdict": "seguir",
-    "verdict_reason": "Es una consolidación útil pero recién se estabiliza, mejor esperar antes de rearmar procesos alrededor de ella.",
-    "categories": [
-      "Productividad",
-      "Organización",
-      "Management"
-    ],
-    "pricing_note": "pago — incluido en licencias de Microsoft 365 Copilot",
-    "source_url": "https://wwwhatsnew.com/2026/08/14/microsoft-fusiona-copilot-apps-elimina-funciones-agosto-2026/",
-    "published_date": "2026-08-14",
-    "priority": "informativo",
-    "id": "ai-microsoft-copilot-unificado-autopilot",
-    "source_kind": "auto",
-    "last_updated": "2026-08-27",
-    "first_seen": "2026-08-20"
   },
   {
     "name": "Gemini 3.7 Flash",

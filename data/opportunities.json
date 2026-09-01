@@ -1,5 +1,20 @@
 [
   {
+    "title": "Auditar el consumo de WhatsApp Business antes de que empiece a cobrarse cada conversación",
+    "context": "Meta confirmó que desde el 1° de octubre de 2026 va a cobrar todos los mensajes de servicio de WhatsApp Business Platform —las respuestas dentro de la ventana de 24 horas, las escriba una persona o un bot— al mismo valor que ya rige para las plantillas de utilidad y autenticación. Hoy ese canal es gratis y tanto Fixy como sus clientes lo usan para atención de pedidos y reclamos.",
+    "action": "Relevar antes de octubre cuántas conversaciones de servicio genera Fixy por WhatsApp y consultar con el proveedor qué tarifa va a regir en Argentina, para decidir si conviene derivar consultas repetitivas de seguimiento a otro canal o a un asistente más acotado.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.wati.io/en/blog/whatsapp-service-message-pricing/",
+    "linked": [
+      "WhatsApp Business: cobro de mensajes de servicio desde octubre"
+    ],
+    "id": "op-9afc0080",
+    "source_kind": "auto",
+    "last_updated": "2026-09-01",
+    "first_seen": "2026-09-01"
+  },
+  {
     "title": "Revisar tarifas de reparto ante la suba de peajes y transporte de septiembre",
     "context": "Desde septiembre suben los peajes de acceso a CABA (+4%), los colectivos porteños y bonaerenses (+4,1%/+4,3%) y los trenes del AMBA (hasta 14,29%), justo cuando el último informe de CACE muestra que las órdenes de eCommerce crecen mucho más rápido (+21%) que el ticket promedio (+5%): hay más operaciones logísticas por cada peso facturado.",
     "action": "Recalcular el costo operativo por entrega en las rutas con más uso de autopistas de peaje del AMBA y ajustar tarifas o mínimos de facturación a los clientes antes de que el aumento de septiembre erosione el margen de octubre.",
@@ -106,20 +121,5 @@
     "source_kind": "auto",
     "last_updated": "2026-08-29",
     "first_seen": "2026-08-29"
-  },
-  {
-    "title": "Paquete de arranque logístico para nuevos importadores-vendedores",
-    "context": "Las importaciones de bienes de consumo llegaron a US$5.362 millones en el primer semestre, con indumentaria subiendo 86%, lo que muestra una ola de importadores nuevos que compran afuera pero todavía no tienen experiencia ni infraestructura para nacionalizar, almacenar y distribuir su mercadería en el mercado local.",
-    "action": "Armar una oferta comercial específica de 'primer contenedor' (recepción, almacenamiento y despacho) para importadores que recién empiezan a vender en Argentina, con foco inicial en indumentaria.",
-    "type": "nueva línea de negocio",
-    "priority": "alta",
-    "source_url": "https://www.ambito.com/economia/record-importaciones-bienes-consumo-que-productos-registraron-subas-530-n6311906",
-    "linked": [
-      "Récord de importaciones de bienes de consumo: US$5.362 millones en el primer semestre, con indumentaria +86%"
-    ],
-    "id": "op-2b6b9fe6",
-    "source_kind": "auto",
-    "last_updated": "2026-08-28",
-    "first_seen": "2026-08-28"
   }
 ]
