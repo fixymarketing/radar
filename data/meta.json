@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-01T12:39:34.647Z",
-  "last_updated_ar": "01/09/2026, 09:39",
-  "date": "2026-09-01",
+  "generated_at": "2026-09-02T12:30:38.895Z",
+  "last_updated_ar": "02/09/2026, 09:30",
+  "date": "2026-09-02",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El Gobierno postergó hasta octubre la suba de impuestos a los combustibles justo cuando el freno a la concesión del Correo Argentino sigue sin resolverse y un nuevo paro en el puerto de Montevideo repite los sobrecostos, mientras desde octubre cada conversación de atención por WhatsApp empieza a costar y Mercado Libre Experience Argentina se acerca a apenas nueve días.",
+  "summary_line": "El día quedó marcado por la incertidumbre en la última milla estatal con el Correo Argentino en pausa hasta 2027 y por la confirmación, con números, de que el eCommerce sigue creciendo en pedidos aunque el consumo físico se derrumbe, con el SAP NOW AI Tour de hoy en Buenos Aires como oportunidad concreta para mirar IA aplicada a fulfillment.",
   "counters": {
     "news_today": 1,
     "news_total": 35,
-    "events_upcoming": 79,
-    "events_ar_upcoming": 46,
-    "events_intl_upcoming": 33,
-    "events_later": 17,
+    "events_upcoming": 82,
+    "events_ar_upcoming": 48,
+    "events_intl_upcoming": 34,
+    "events_later": 20,
     "opportunities_open": 8,
-    "opportunities_today": 1,
-    "ai_today": 2,
-    "ai_to_try": 25,
-    "content_ideas": 38,
+    "opportunities_today": 3,
+    "ai_today": 4,
+    "ai_to_try": 28,
+    "content_ideas": 41,
     "added_news": 1,
-    "updated_news": 1,
-    "added_events": 4,
+    "updated_news": 2,
+    "added_events": 6,
     "updated_events": 1,
-    "added_ai": 2,
-    "archived": 1,
+    "added_ai": 4,
+    "archived": 4,
     "discarded_quality": 0
   },
   "next_event": {
@@ -38,35 +38,35 @@
       "kind": "news",
       "title": "El Gobierno frenó la concesión del Correo Argentino por las elecciones de 2027",
       "priority": "alta",
-      "one_liner": "Sigue sin resolución y prolonga la incertidumbre sobre un actor central de la última milla."
+      "one_liner": "Prolonga la incertidumbre sobre el actor estatal central de la última milla justo cuando crecen las importaciones puerta a puerta."
     },
     {
-      "id": "nw-1b36dcd0f3",
+      "id": "nw-e3509c8c04",
       "kind": "news",
-      "title": "El Gobierno postergó hasta octubre el aumento de impuestos a los combustibles",
-      "priority": "relevante",
-      "one_liner": "Da un respiro transitorio a los costos de combustible del transporte de cargas, pero anticipa una suba más fuerte y acumulada en octubre."
-    },
-    {
-      "id": "nw-787ba1c861",
-      "kind": "news",
-      "title": "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo volvió a paralizar la operatoria",
-      "priority": "relevante",
-      "one_liner": "Ya es la sexta interrupción del año y redirige carga hacia Buenos Aires con sobrecostos de hasta US$1.000 por contenedor."
-    },
-    {
-      "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
-      "kind": "ai",
-      "title": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
+      "title": "El consumo masivo cayó 3,7% en el segundo trimestre, con una baja del 6,8% en el AMBA, pero el comercio electrónico creció 41%",
       "priority": "alta",
-      "one_liner": "Desde el 1° de octubre, cada conversación de atención por WhatsApp empieza a tener costo, la maneje una persona o un bot."
+      "one_liner": "Confirma con números que el canal online sigue ganando terreno incluso mientras el consumo físico se derrumba."
     },
     {
-      "id": "ev-argentina-experience-libre-mercado-2026",
+      "id": "ev-ai-argentina-now-sap-tour-2026",
       "kind": "event",
-      "title": "Mercado Libre Experience Argentina 2026",
+      "title": "SAP NOW AI Tour Argentina 2026",
+      "priority": "relevante",
+      "one_liner": "Se hace hoy mismo en Buenos Aires y es la ventana más concreta del día para evaluar IA y ERP aplicados a stock, forecasting y fulfillment."
+    },
+    {
+      "id": "nw-de69cc8e6c",
+      "kind": "news",
+      "title": "Un estudio de CASEL revela que el 83% de los robos a transporte de mercadería golpea a utilitarios de reparto",
       "priority": "alta",
-      "one_liner": "En apenas nueve días, el mayor encuentro de sellers del país y una cantera clave de leads de fulfillment."
+      "one_liner": "Confirma con datos que la inseguridad vial ya se concentró en los vehículos chicos de última milla, no en la carga pesada."
+    },
+    {
+      "id": "nw-54a57f97a7",
+      "kind": "news",
+      "title": "Las importaciones vía courier ya suman US$751 millones en 2026 y podrían superar todo 2025 antes de septiembre",
+      "priority": "relevante",
+      "one_liner": "La compra transfronteriza se consolidó como canal relevante y presiona a los operadores locales que compiten por ese volumen de paquetes chicos."
     }
   ]
 }

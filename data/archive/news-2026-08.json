@@ -181,5 +181,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Mercado Libre construirá en Córdoba su primer centro de almacenamiento fuera del AMBA: US$91 millones",
+    "what_happened": "El 11 de agosto se confirmó una inversión de US$91 millones en Estación Juárez Celman (Córdoba): 60.000 m², capacidad para 6 millones de productos, desarrollado por Plaza Logística y con operación prevista para fines de 2027. Generará 2.000 empleos directos.",
+    "why_it_matters": "Es el primer quiebre real del esquema centralizado en AMBA: descentralizar el stock acorta tiempos y abarata el envío al Centro, NOA y NEA.",
+    "fixy_impact": "Anticipa una guerra por los tiempos de entrega en el interior. Conviene evaluar ahora capacidad de almacenamiento o cross-docking en Córdoba y Rosario, antes de que el estándar de 24-48 h se vuelva exigible fuera de Buenos Aires.",
+    "category": "Fulfillment",
+    "geo": "Argentina",
+    "source_name": "Data Diario",
+    "source_url": "https://www.datadiario.com/cordoba/politica-y-economia-cba/mercado-libre-invertira-us-91-millones-en-cordoba-y-creara-2-000-puestos-de-trabajo-202681110270",
+    "published_date": "2026-08-11",
+    "priority": "alta",
+    "tags": [
+      "Mercado Libre",
+      "centro de distribución",
+      "Córdoba",
+      "interior",
+      "Plaza Logística"
+    ],
+    "id": "nw-06abe56b48",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
   }
 ]

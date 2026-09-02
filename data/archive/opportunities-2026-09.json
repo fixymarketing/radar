@@ -13,5 +13,51 @@
     "source_kind": "auto",
     "last_updated": "2026-08-28",
     "first_seen": "2026-08-28"
+  },
+  {
+    "title": "Evaluar un esquema de conductores variables para picos de demanda, sin sumar flota propia permanente",
+    "context": "La última milla del ecommerce avanza hacia modelos 'uberizados' que combinan flota propia con una red de conductores variable coordinada por tecnología, pensada para sostener picos de demanda sin inmovilizar capital.",
+    "action": "Diseñar y probar un esquema piloto de conductores externos activables solo para picos (CyberMonday, Black Friday, Navidad), coordinado desde el sistema de gestión de Fixy.",
+    "type": "producto",
+    "priority": "informativo",
+    "source_url": "https://www.ambito.com/negocios/la-logistica-acelera-el-uso-tecnologia-automatizacion-y-modelos-uberizados-sostener-el-boom-del-ecommerce-n6312398",
+    "linked": [
+      "La 'uberización' avanza en la última milla del ecommerce"
+    ],
+    "id": "op-549d08a9",
+    "source_kind": "auto",
+    "last_updated": "2026-08-30",
+    "first_seen": "2026-08-30"
+  },
+  {
+    "title": "Vender capacidad reservada de última milla para el pico de CyberMonday/Cyber Week 2026",
+    "context": "CACE confirmó fecha oficial para CyberMonday 2026 (2 al 4 de noviembre, con Cyber Week extendida hasta el 8) justo en un contexto donde la última milla ya viene tensionada por el crecimiento de volumen del eCommerce y la tendencia hacia flotas variables ('uberizadas') para absorber picos sin inmovilizar capital en flota propia.",
+    "action": "Salir a ofrecer a clientes actuales y prospectos paquetes de capacidad reservada y SLA garantizado para la semana de CyberMonday, con reserva anticipada y tarifa diferencial para quien confirme antes de octubre.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.diariouno.com.ar/economia/ofertas-y-descuentos-fechas-confirmadas-del-black-friday-y-cyber-monday-2026-argentina-n1552547",
+    "linked": [
+      "CyberMonday 2026",
+      "La 'uberización' avanza en la última milla del ecommerce"
+    ],
+    "id": "op-cf9dceb5",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "title": "Automatizar la transcripción de reclamos con Gemini 3.5 Transcribe",
+    "context": "Google lanzó un modelo de voz a texto gratuito con diarización y muy baja tasa de error, disponible ya en productos de uso común (Gemini app, Docs, Gmail, Chrome), que resuelve un problema cotidiano de atención al cliente: audios de WhatsApp y llamadas de reclamos que nadie transcribe.",
+    "action": "Pilotear con el equipo de atención al cliente la transcripción automática de audios de WhatsApp y llamadas de reclamo durante dos semanas, para medir cuánto tiempo de gestión se ahorra antes de decidir si se integra al flujo de trabajo estándar.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+    "linked": [
+      "Gemini 3.5 Transcribe"
+    ],
+    "id": "op-9d5a1320",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
   }
 ]

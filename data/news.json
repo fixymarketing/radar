@@ -1,28 +1,5 @@
 [
   {
-    "title": "Mercado Libre construirá en Córdoba su primer centro de almacenamiento fuera del AMBA: US$91 millones",
-    "what_happened": "El 11 de agosto se confirmó una inversión de US$91 millones en Estación Juárez Celman (Córdoba): 60.000 m², capacidad para 6 millones de productos, desarrollado por Plaza Logística y con operación prevista para fines de 2027. Generará 2.000 empleos directos.",
-    "why_it_matters": "Es el primer quiebre real del esquema centralizado en AMBA: descentralizar el stock acorta tiempos y abarata el envío al Centro, NOA y NEA.",
-    "fixy_impact": "Anticipa una guerra por los tiempos de entrega en el interior. Conviene evaluar ahora capacidad de almacenamiento o cross-docking en Córdoba y Rosario, antes de que el estándar de 24-48 h se vuelva exigible fuera de Buenos Aires.",
-    "category": "Fulfillment",
-    "geo": "Argentina",
-    "source_name": "Data Diario",
-    "source_url": "https://www.datadiario.com/cordoba/politica-y-economia-cba/mercado-libre-invertira-us-91-millones-en-cordoba-y-creara-2-000-puestos-de-trabajo-202681110270",
-    "published_date": "2026-08-11",
-    "priority": "alta",
-    "tags": [
-      "Mercado Libre",
-      "centro de distribución",
-      "Córdoba",
-      "interior",
-      "Plaza Logística"
-    ],
-    "id": "nw-06abe56b48",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
     "title": "Día del Niño y feriado de San Martín pusieron a prueba la última milla",
     "what_happened": "El domingo 16 de agosto, Día del Niño, coincidió con el feriado nacional del lunes 17 por el Paso a la Inmortalidad del General San Martín, generando un fin de semana largo de tres días que obligó a jugueterías, plataformas de ecommerce y operadores de reparto a anticipar entregas y reforzar turnos antes del corte. Según la Cámara Argentina de la Industria del Juguete, las ventas del sector cayeron cerca de 10% en el primer semestre de 2026 frente a igual período de 2025, pero la fecha sigue concentrando alrededor del 60% de la facturación anual de las jugueterías. El artículo señala además que el stock importado en exceso durante el año previo todavía se está procesando en depósitos y centr",
     "why_it_matters": "Muestra que la ventana de despacho se acorta cada vez que un feriado se pega a una fecha comercial fuerte, y que sostener los tiempos de entrega —más allá de que el volumen de ventas caiga— es el verdadero termómetro de madurez de la última milla en el ecommerce argentino.",
@@ -509,48 +486,49 @@
   },
   {
     "title": "El eCommerce Day Argentina 2026 llega a su edición número 200 el jueves 27 de agosto",
-    "what_happened": "El eCommerce Day Argentina 2026, organizado por el eCommerce Institute, se realiza el jueves 27 de agosto en el Centro de Convenciones de Buenos Aires, en el marco de los 20 años del Tour y la edición número 200 del evento. Incluye la entrega del eCommerce Award Argentina 2026 en 14 categorías renovadas —entre ellas logística, marketplaces, medios de pago e IA—, con votación pública final abierta desde el 25 de agosto y hasta el 27 a las 12 hs. Al día siguiente, viernes 28, se suma el Retail & Commerce Discovery con visitas técnicas a operaciones reales de empresas de tecnología, logística, home & deco, farmacia y pagos.",
-    "why_it_matters": "Es el mayor encuentro anual del ecosistema digital argentino y un termómetro de las tendencias que van a marcar la agenda del sector: comercio unificado, retail media, logística inteligente y fulfillment, entre otros.",
+    "what_happened": "El evento se realizó el 27 de agosto en el Centro de Convenciones de Buenos Aires y, según el balance oficial difundido el 1° de septiembre, reunió a más de 7.000 inscriptos y 140 speakers nacionales e internacionales bajo el lema \"Retail, Digital Channels & AI Revolution\". En el marco de la jornada se lanzó BRIDGE, una plataforma internacional impulsada por el eCommerce Institute junto al European Institute for Commerce Management (EICOM) para conectar organizaciones y talento de 14 países, con proyección a 2027.",
+    "why_it_matters": "El balance confirma que el evento sostiene su convocatoria pese al contexto de consumo débil y consolida a la IA y el comercio unificado como los ejes que va a discutir la industria durante el resto del año.",
     "fixy_impact": "El Roadshow incluye visitas a operaciones reales de logística, y el Award tiene categoría de logística: es una posible oportunidad de networking o de postulación para Fixy.",
     "category": "eCommerce",
     "geo": "Argentina",
-    "source_name": "eCommerce Day Argentina / eCommerce Institute",
-    "source_url": "https://ecommerceday.org.ar/2026/",
-    "published_date": "2026-08-21",
+    "source_name": "eCommerce Institute",
+    "source_url": "https://ecommerce.institute/ecommerce-day-argentina-reunio-a-la-industria-digital-en-una-edicion-historica/",
+    "published_date": "2026-09-01",
     "priority": "informativo",
     "tags": [
       "eCommerce Day",
-      "eCommerce Institute",
-      "eventos",
-      "eCommerce Award",
-      "tendencias"
+      "CACE",
+      "IA",
+      "comercio unificado",
+      "eventos"
     ],
     "id": "nw-0d59c0b8ec",
     "source_kind": "auto",
-    "last_updated": "2026-08-25",
-    "first_seen": "2026-08-25"
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-08-25",
+    "updated_flag": true
   },
   {
     "title": "El BCRA habilita el débito automático de cuotas de préstamos desde cuentas bancarias y billeteras",
-    "what_happened": "El sistema de Cobro con Transferencia (CCT) del BCRA entró en vigencia el 31 de agosto, permitiendo a bancos, fintech y billeteras virtuales debitar cuotas de préstamos impagas directamente de la cuenta donde el cliente recibió el dinero, aunque sea de otra entidad. El mecanismo exige autorización previa y expresa del usuario, notificación al menos un día hábil antes de cada débito, un máximo de tres intentos de cobro por cuota, y un tope de débito que no puede superar el 30% del ingreso declarado del cliente. La autorización puede revocarse en cualquier momento sin trámites.",
-    "why_it_matters": "Formaliza y pone en marcha un mecanismo de cobro compulsivo de deudas de consumo justo cuando la mora de las fintech ya supera los 10 millones de deudores, lo que puede tensionar la relación entre billeteras y usuarios morosos y generar más reclamos de consumidores.",
+    "what_happened": "Desde el lunes 31 de agosto entró en vigencia el Cobro con Transferencia (CCT), el mecanismo del BCRA que permite a bancos y proveedores no financieros de crédito debitar directamente las cuotas de préstamos desde la cuenta donde se acreditó el crédito, con un tope del 30% del ingreso del cliente y una comisión mínima regulada de 0,6% a cargo del acreedor. El sistema exige autorización previa y expresa del usuario, revocable en cualquier momento, y por ahora se aplica solo a la cobranza de créditos.",
+    "why_it_matters": "El mecanismo endurece la cobranza justo en un contexto de mora creciente en fintech y billeteras virtuales, y podría acelerar el uso del débito directo como condición para acceder a crédito de consumo, algo que pega indirectamente en el poder de compra de los clientes de eCommerce.",
     "fixy_impact": null,
     "category": "Fintech",
     "geo": "Argentina",
-    "source_name": "Perfil",
-    "source_url": "https://www.perfil.com/noticias/economia/bcra-cambia-cobro-prestamos-desde-31-agosto-funcionaran-debitos-bancos-billeteras-virtuales-a40.phtml",
+    "source_name": "iProfesional",
+    "source_url": "https://www.iprofesional.com/impuestos/463365-bancos-y-billeteras-virtuales-ya-pueden-debitar-las-cuotas-impagas-de-creditos",
     "published_date": "2026-08-31",
     "priority": "informativo",
     "tags": [
       "BCRA",
-      "billeteras virtuales",
-      "créditos",
-      "cobranza",
-      "regulación financiera"
+      "fintech",
+      "billeteras",
+      "crédito",
+      "cobranza"
     ],
     "id": "nw-cfa3858ebb",
     "source_kind": "auto",
-    "last_updated": "2026-09-01",
+    "last_updated": "2026-09-02",
     "first_seen": "2026-08-27",
     "updated_flag": true
   },
@@ -806,5 +784,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-01",
     "first_seen": "2026-09-01"
+  },
+  {
+    "title": "Tiendanube revela que su IA Lumi ya acumula 2,38 millones de interacciones en tiendas de moda argentinas",
+    "what_happened": "Tiendanube difundió datos de Lumi, su capa de inteligencia artificial nativa con 30 agentes para catálogo, pedidos y métricas: en seis meses sumó 2,38 millones de interacciones, con 600.000 descripciones de producto generadas y más de 700.000 optimizaciones de SEO, con un 85,6% de aceptación de las acciones propuestas por los comercios. La compañía señaló que uno de cada cuatro comercios pagos en Argentina ya integra IA, el segundo mercado de adopción de la red detrás de Brasil.",
+    "why_it_matters": "Muestra que la adopción de IA operativa entre los emprendimientos de moda online argentinos ya es masiva y medible, no solo discurso de eventos, lo que va a subir la vara de lo que esos comercios esperan de sus proveedores (incluidos los logísticos) en velocidad y personalización.",
+    "fixy_impact": "Los comercios de indumentaria que usan estas herramientas van a esperar integraciones más ágiles y cotización de envíos en tiempo real; vale la pena chequear qué tan aceitada está la propia integración de Fixy con Tiendanube frente a esa expectativa creciente.",
+    "category": "IA aplicada",
+    "geo": "Argentina",
+    "source_name": "iProfesional",
+    "source_url": "https://www.iprofesional.com/tecnologia/462986-como-la-inteligencia-artificial-impulsa-las-ventas-de-moda-online-en-la-argentina",
+    "published_date": "2026-08-30",
+    "priority": "relevante",
+    "tags": [
+      "Tiendanube",
+      "IA",
+      "moda online",
+      "agentes IA",
+      "comercio unificado"
+    ],
+    "id": "nw-2945453997",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
   }
 ]

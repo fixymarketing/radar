@@ -572,5 +572,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-01",
     "first_seen": "2026-09-01"
+  },
+  {
+    "topic": "El Correo Argentino en pausa: qué pasa con la última milla estatal hasta 2027",
+    "why_now": "El freno a la concesión hasta después de las elecciones de 2027 deja abierta, por al menos un año y medio más, la pregunta de qué rol va a tener el Correo frente a los couriers privados en el nuevo esquema de importaciones puerta a puerta.",
+    "fixy_angle": "Fixy puede explicar, con datos propios de sus clientes, qué significa operar sin certeza sobre el actor estatal de referencia y por qué conviene diversificar proveedores de última milla en vez de depender de uno solo.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "alta",
+    "source_url": "https://www.canal26.com/politica/2026/08/28/el-gobierno-pone-en-pausa-la-concesion-del-correo-argentino-de-las-demoras-a-su-importancia-durante-las-elecciones-de-2027/",
+    "id": "ct-226e8f48",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "topic": "Montevideo, el cuello de botella recurrente del comercio exterior argentino",
+    "why_now": "La terminal de contenedores del puerto de Montevideo volvió a pararse por un conflicto laboral, y cada paro suma entre US$700 y US$1.000 de sobrecosto por contenedor para la carga argentina que pasa por ahí.",
+    "fixy_angle": "Fixy puede mostrarse como una alternativa de ruteo y planificación para importadores que hoy dependen de Montevideo sin margen para los imprevistos, un ángulo que conecta directo con su capacidad de resolver contingencias de importación.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/movant/2026/08/28/el-puerto-de-montevideo-enfrenta-una-nueva-interrupcion-en-su-terminal-de-contenedores/",
+    "id": "ct-489fbd4e",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "topic": "Lumi ya tiene 2,38 millones de conversaciones: la IA promete rapidez, ¿y el envío la cumple?",
+    "why_now": "Tiendanube confirmó que su asistente de IA para moda ya acumula 2,38 millones de interacciones, una prueba concreta de que la adopción de IA en el comercio argentino dejó de ser discurso de eventos y ya es masiva.",
+    "fixy_angle": "Cuando la IA de la tienda le promete al comprador respuestas y soluciones inmediatas, el eslabón físico que cumple esa promesa (o la desmiente) es la logística: buen ángulo para hablar de qué tan preparado está el envío frente a la velocidad que ya instaló la IA conversacional.",
+    "formats": [
+      "LinkedIn",
+      "artículo"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.iprofesional.com/tecnologia/462986-como-la-inteligencia-artificial-impulsa-las-ventas-de-moda-online-en-la-argentina",
+    "id": "ct-22b955b5",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
   }
 ]

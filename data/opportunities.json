@@ -1,5 +1,51 @@
 [
   {
+    "title": "Ofrecer última milla de respaldo mientras el Correo Argentino queda en pausa",
+    "context": "El Gobierno frenó la concesión del Correo Argentino hasta después de las elecciones de 2027, lo que prolonga la incertidumbre sobre su capacidad operativa justo cuando crece el régimen de importaciones puerta a puerta de Shein, Temu y Amazon. Eso deja a marketplaces y couriers sin certeza sobre el actor estatal que hoy concentra buena parte de esa última milla.",
+    "action": "Contactar a plataformas de importación puerta a puerta y marketplaces que hoy dependen del Correo Argentino para ofrecer a Fixy como capacidad de última milla complementaria o de contingencia mientras dure la incertidumbre.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.canal26.com/politica/2026/08/28/el-gobierno-pone-en-pausa-la-concesion-del-correo-argentino-de-las-demoras-a-su-importancia-durante-las-elecciones-de-2027/",
+    "linked": [
+      "El Gobierno frenó la concesión del Correo Argentino por las elecciones de 2027",
+      "Las importaciones vía courier ya suman US$751 millones en 2026 y podrían superar todo 2025 antes de septiembre"
+    ],
+    "id": "op-609e3897",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "Diseñar un plan de fulfillment para pedidos frecuentes de ticket bajo",
+    "context": "CACE confirmó que en el primer semestre las órdenes de eCommerce crecieron muy por encima del ticket promedio, que le perdió a la inflación: el consumidor compra más veces pero paga menos por compra. Ese cambio de mezcla presiona los márgenes de cualquier esquema logístico pensado para pedidos de mayor valor.",
+    "action": "Armar una propuesta comercial específica para clientes con alta frecuencia de pedidos de ticket bajo, con tarifas por volumen o consolidación de envíos, en vez de aplicar la misma estructura de costos pensada para tickets más altos.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://defonline.com.ar/ciencia-tecnologia/el-crecimiento-del-ecommerce-argentino-ya-roza-los-20-billones-en-el-primer-semestre-de-2026/",
+    "linked": [
+      "CACE detalló los números del primer semestre: 181,5 millones de órdenes y un ticket promedio que le pierde a la inflación"
+    ],
+    "id": "op-521fc5cf",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "Anticiparle a los clientes el ajuste tarifario de octubre por el impuesto a los combustibles",
+    "context": "El Gobierno postergó por segunda vez en el año la suba del impuesto a los combustibles, pero la trasladó a octubre de forma acumulada, lo que anticipa un salto más fuerte que el de un ajuste gradual. Ese respiro es transitorio y ya tiene fecha de vencimiento conocida.",
+    "action": "Comunicarles ahora a los clientes con contrato vigente que en octubre va a haber una revisión tarifaria por el impuesto a los combustibles, para que lo incorporen a su planificación y Fixy se diferencie por anticipar el cambio en vez de trasladarlo de sorpresa.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/08/31/el-gobierno-postergo-hasta-octubre-el-aumento-de-los-impuestos-a-los-combustibles-para-evitar-un-salto-en-la-inflacion/",
+    "linked": [
+      "El Gobierno postergó hasta octubre el aumento de impuestos a los combustibles"
+    ],
+    "id": "op-fed7b57b",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
+  },
+  {
     "title": "Auditar el consumo de WhatsApp Business antes de que empiece a cobrarse cada conversación",
     "context": "Meta confirmó que desde el 1° de octubre de 2026 va a cobrar todos los mensajes de servicio de WhatsApp Business Platform —las respuestas dentro de la ventana de 24 horas, las escriba una persona o un bot— al mismo valor que ya rige para las plantillas de utilidad y autenticación. Hoy ese canal es gratis y tanto Fixy como sus clientes lo usan para atención de pedidos y reclamos.",
     "action": "Relevar antes de octubre cuántas conversaciones de servicio genera Fixy por WhatsApp y consultar con el proveedor qué tarifa va a regir en Argentina, para decidir si conviene derivar consultas repetitivas de seguimiento a otro canal o a un asistente más acotado.",
@@ -75,51 +121,5 @@
     "source_kind": "auto",
     "last_updated": "2026-08-30",
     "first_seen": "2026-08-30"
-  },
-  {
-    "title": "Evaluar un esquema de conductores variables para picos de demanda, sin sumar flota propia permanente",
-    "context": "La última milla del ecommerce avanza hacia modelos 'uberizados' que combinan flota propia con una red de conductores variable coordinada por tecnología, pensada para sostener picos de demanda sin inmovilizar capital.",
-    "action": "Diseñar y probar un esquema piloto de conductores externos activables solo para picos (CyberMonday, Black Friday, Navidad), coordinado desde el sistema de gestión de Fixy.",
-    "type": "producto",
-    "priority": "informativo",
-    "source_url": "https://www.ambito.com/negocios/la-logistica-acelera-el-uso-tecnologia-automatizacion-y-modelos-uberizados-sostener-el-boom-del-ecommerce-n6312398",
-    "linked": [
-      "La 'uberización' avanza en la última milla del ecommerce"
-    ],
-    "id": "op-549d08a9",
-    "source_kind": "auto",
-    "last_updated": "2026-08-30",
-    "first_seen": "2026-08-30"
-  },
-  {
-    "title": "Vender capacidad reservada de última milla para el pico de CyberMonday/Cyber Week 2026",
-    "context": "CACE confirmó fecha oficial para CyberMonday 2026 (2 al 4 de noviembre, con Cyber Week extendida hasta el 8) justo en un contexto donde la última milla ya viene tensionada por el crecimiento de volumen del eCommerce y la tendencia hacia flotas variables ('uberizadas') para absorber picos sin inmovilizar capital en flota propia.",
-    "action": "Salir a ofrecer a clientes actuales y prospectos paquetes de capacidad reservada y SLA garantizado para la semana de CyberMonday, con reserva anticipada y tarifa diferencial para quien confirme antes de octubre.",
-    "type": "comercial",
-    "priority": "alta",
-    "source_url": "https://www.diariouno.com.ar/economia/ofertas-y-descuentos-fechas-confirmadas-del-black-friday-y-cyber-monday-2026-argentina-n1552547",
-    "linked": [
-      "CyberMonday 2026",
-      "La 'uberización' avanza en la última milla del ecommerce"
-    ],
-    "id": "op-cf9dceb5",
-    "source_kind": "auto",
-    "last_updated": "2026-08-29",
-    "first_seen": "2026-08-29"
-  },
-  {
-    "title": "Automatizar la transcripción de reclamos con Gemini 3.5 Transcribe",
-    "context": "Google lanzó un modelo de voz a texto gratuito con diarización y muy baja tasa de error, disponible ya en productos de uso común (Gemini app, Docs, Gmail, Chrome), que resuelve un problema cotidiano de atención al cliente: audios de WhatsApp y llamadas de reclamos que nadie transcribe.",
-    "action": "Pilotear con el equipo de atención al cliente la transcripción automática de audios de WhatsApp y llamadas de reclamo durante dos semanas, para medir cuánto tiempo de gestión se ahorra antes de decidir si se integra al flujo de trabajo estándar.",
-    "type": "producto",
-    "priority": "relevante",
-    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-    "linked": [
-      "Gemini 3.5 Transcribe"
-    ],
-    "id": "op-9d5a1320",
-    "source_kind": "auto",
-    "last_updated": "2026-08-29",
-    "first_seen": "2026-08-29"
   }
 ]

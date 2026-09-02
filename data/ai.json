@@ -290,6 +290,52 @@
     "first_seen": "2026-08-29"
   },
   {
+    "name": "Skills en Workspace Studio",
+    "vendor": "Google",
+    "what_it_is": "Una función de Workspace Studio para armar una instrucción reutilizable ('skill') una sola vez -en lenguaje simple o con un formulario corto- y después invocarla escribiendo '@' más el nombre en Gmail, Docs, Slides, Drive o Chat.",
+    "what_changed": "Empezó a estar disponible en beta a fines de agosto de 2026 dentro del 'August 2026 Workspace feature drop', pensada para que un equipo no tenga que reexplicarle el mismo formato a Gemini cada vez que pide algo repetitivo.",
+    "fixy_use": "Fixy podría crear una skill con el formato exacto para responder reclamos de envíos demorados, otra para armar el resumen semanal de KPIs operativos, y otra para redactar cotizaciones a clientes nuevos con el tono y la estructura de siempre. Ahorra el tiempo de reescribir el mismo prompt largo cada vez y estandariza cómo responde cada persona del equipo.",
+    "verdict": "probar",
+    "verdict_reason": "Ataca directamente un problema real de equipos chicos -reinventar el mismo prompt- y no tiene costo extra dentro de Workspace con Gemini.",
+    "categories": [
+      "Productividad",
+      "Automatización",
+      "Organización",
+      "Contenido"
+    ],
+    "pricing_note": "freemium: incluido para cuentas de Workspace inscriptas en el programa Gemini Beta, sin costo adicional confirmado",
+    "source_url": "https://workspace.google.com/blog/product-announcements/august-2026-workspace-feature-drop",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "id": "ai-google-skills-en-workspace-studio",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "name": "Copilot Cowork: niveles de esfuerzo y pestaña Automatizaciones",
+    "vendor": "Microsoft",
+    "what_it_is": "Copilot Cowork ahora deja elegir un nivel de esfuerzo (Light, Medium, High, Extra High, Max) para cada tarea delegada, y renombró su pestaña 'Scheduled' a 'Automations', unificando en un solo lugar las tareas programadas y las que se disparan por eventos.",
+    "what_changed": "Microsoft lo publicó en su resumen de novedades de agosto de 2026: antes Cowork usaba un solo nivel de esfuerzo fijo y separaba tareas programadas de automatizaciones por evento; ahora la elección persiste entre tareas y todo se administra desde una vista única.",
+    "fixy_use": "Para tareas simples de rutina -filtrar mails, armar un borrador corto- conviene usar esfuerzo Light y gastar menos créditos; para pedirle que arme un análisis más completo de indicadores logísticos conviene subir el esfuerzo. La pestaña Automations sirve para que management tenga a la vista, en un solo lugar, qué tareas quedaron corriendo solas (por ejemplo, un reporte semanal automático) y cuáles hay que revisar.",
+    "verdict": "probar",
+    "verdict_reason": "Da control directo sobre costo y calidad de las tareas delegadas a la IA, algo clave para un equipo chico que ya usa Microsoft 365 Copilot.",
+    "categories": [
+      "Productividad",
+      "Automatización",
+      "Gestión del tiempo",
+      "Management"
+    ],
+    "pricing_note": "pago: requiere licencia de Microsoft 365 Copilot con acceso a Cowork; el esfuerzo más alto consume más créditos/límites de uso",
+    "source_url": "https://techcommunity.microsoft.com/blog/microsoft365copilotblog/what%e2%80%99s-new-in-microsoft-copilot--august-2026/4551960",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "id": "ai-microsoft-copilot-cowork-niveles-de-esfuerzo-y-pestana-autom",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
+  },
+  {
     "name": "Claude Cowork: navegador integrado sin extensión",
     "vendor": "Anthropic",
     "what_it_is": "Un navegador tipo Chrome incorporado directamente en la app de escritorio de Claude Cowork, que se abre en un panel lateral para que Claude navegue páginas web, lea contenido, haga clic y complete formularios sin depender de una extensión de Chrome instalada por separado.",
@@ -310,6 +356,29 @@
     "source_kind": "auto",
     "last_updated": "2026-08-30",
     "first_seen": "2026-08-30"
+  },
+  {
+    "name": "Ask Gemini en Google Chat",
+    "vendor": "Google",
+    "what_it_is": "Una barra de comandos con Gemini integrada en Google Chat que busca en todo el Workspace (Gmail, Drive, Calendar), redacta mensajes, genera imágenes y ayuda a gestionar tareas sin salir de la conversación.",
+    "what_changed": "Google lo lanzó el 26 de agosto de 2026 como reemplazo del panel lateral de Chat, con acceso directo desde 'Accesos directos' y atajo de teclado; hasta el 1 de octubre da límites de uso promocionales más altos para que las empresas lo prueben.",
+    "fixy_use": "Un equipo chico como el de Fixy podría usarlo para encontrar rápido un mail o archivo sobre un cliente sin cambiar de pestaña, redactar respuestas de atención al cliente o RRHH directo en el chat interno, y armar recordatorios de tareas operativas del día. Es gratis por ahora dentro del límite promocional, así que conviene probarlo antes de que eso cambie.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis por tiempo limitado, no requiere configuración y se apoya en Google Workspace, que Fixy ya usa según ítems previos del radar.",
+    "categories": [
+      "Productividad",
+      "Organización",
+      "Gestión del tiempo",
+      "Automatización"
+    ],
+    "pricing_note": "gratis por tiempo limitado: incluido en Workspace con límites de uso ampliados en promoción hasta el 1 de octubre de 2026, después podría pasar a límites estándar",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html",
+    "published_date": "2026-08-26",
+    "priority": "relevante",
+    "id": "ai-google-ask-gemini-en-google-chat",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-08-21"
   },
   {
     "name": "Python en Excel con Copilot",
@@ -781,26 +850,46 @@
     "first_seen": "2026-08-30"
   },
   {
-    "name": "Ask Gemini en Google Chat",
-    "vendor": "Google",
-    "what_it_is": "Un asistente conversacional integrado en Google Chat que permite buscar y actuar sobre datos de todo Workspace (Gmail, Drive, Calendar) sin salir de la conversación, además de generar imágenes o redactar mensajes al toque.",
-    "what_changed": "Google empezó a distribuirlo el 26 de agosto de 2026, reemplazando el panel lateral clásico de Chat por este nuevo asistente, con acceso promocional a límites más altos hasta el 1 de octubre de 2026.",
-    "fixy_use": "Para el equipo que coordina por Google Chat (management, atención al cliente, operaciones), permite preguntar cosas como qué se habló con un cliente puntual o pedir un resumen de un hilo largo sin saltar entre Gmail, Drive y Chat. Antes de sumarlo hay que confirmar si el plan de Workspace de Fixy incluye Smart Features, que es requisito para usarlo.",
+    "name": "ChatGPT: Site tools con WebMCP en el navegador",
+    "vendor": "OpenAI",
+    "what_it_is": "Una función del navegador integrado de ChatGPT en la app de escritorio que le permite a los agentes de ChatGPT usar herramientas que el propio sitio web expone (WebMCP), en vez de tener que simular clics y formularios como hace un agente de navegación tradicional.",
+    "what_changed": "OpenAI lo anunció el 25 de agosto de 2026 junto con un 'WebMCP Challenge' de diez días para que desarrolladores agreguen soporte a sus sitios; disponible para ChatGPT Work y Codex en el navegador de escritorio.",
+    "fixy_use": "Hoy tiene poco impacto directo porque casi ningún sitio que usa Fixy (bancos, AFIP, portales de transportistas) soporta todavía WebMCP, pero es una tendencia para seguir de cerca: si Tiendanube, Mercado Pago o algún transportista lo suman, ChatGPT podría operar esos paneles de forma mucho más confiable que hoy. Vale la pena guardarlo en el radar y volver a mirarlo en unos meses.",
     "verdict": "seguir",
-    "verdict_reason": "Buena mejora de productividad interna, pero depende de tener habilitado Workspace Smart Features en el plan actual.",
+    "verdict_reason": "Es un estándar recién anunciado sin adopción todavía entre los sitios que usa Fixy, así que por ahora no hay una acción concreta que tomar.",
     "categories": [
-      "Productividad",
-      "Organización",
-      "Gestión del tiempo"
+      "Automatización",
+      "Operaciones"
     ],
-    "pricing_note": "no confirmado — requiere estar inscripto en Workspace Smart Features; acceso promocional a límites más altos hasta octubre de 2026",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html",
-    "published_date": "2026-08-26",
+    "pricing_note": "pago: disponible dentro de ChatGPT Work y Codex; el estándar WebMCP en sí es abierto y gratuito para que los sitios lo implementen",
+    "source_url": "https://x.com/OpenAIDevs/status/2092344885676495197",
+    "published_date": "2026-08-25",
     "priority": "informativo",
-    "id": "ai-google-ask-gemini-en-google-chat",
+    "id": "ai-openai-chatgpt-site-tools-con-webmcp-en-el-navegador",
     "source_kind": "auto",
-    "last_updated": "2026-08-31",
-    "first_seen": "2026-08-21"
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "name": "n8n 2.37: validación de credenciales y estabilidad para agentes IA",
+    "vendor": "n8n",
+    "what_it_is": "Una actualización de mantenimiento de n8n que valida las credenciales de los triggers de Chat y MCP contra el usuario final en vez de saltear ese chequeo, y sube el límite de tokens de verificación de modelos para que dejen de fallar las credenciales de IA con modelos de contexto grande.",
+    "what_changed": "Se liberó el 25 de agosto de 2026 (versión 2.37.0, con el mismo fix también en 2.36.7): corrige fallas que hacían que flujos con agentes de IA o triggers de chat/MCP se rompieran por problemas de autenticación o por modelos con ventanas de contexto grandes.",
+    "fixy_use": "Si Fixy ya tiene flujos de n8n con el trigger de Chat o el servidor MCP conectados a un agente de IA (por ejemplo, para atención al cliente o para el Agent Builder ya trackeado en el radar), esta actualización reduce errores silenciosos de autenticación y evita que se corten por límites de tokens al usar modelos más grandes. Conviene actualizar la instancia y revisar que los triggers de chat sigan funcionando después del update.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora de estabilidad, no una capacidad nueva, así que solo aplica si Fixy ya tiene flujos de IA corriendo en n8n.",
+    "categories": [
+      "Automatización",
+      "Operaciones"
+    ],
+    "pricing_note": "gratis en la edición self-hosted de código abierto; pago en n8n Cloud según plan",
+    "source_url": "https://github.com/n8n-io/n8n/releases/tag/n8n@2.37.0",
+    "published_date": "2026-08-25",
+    "priority": "informativo",
+    "id": "ai-n8n-n8n-2-37-validacion-de-credenciales-y-estabilidad-para-a",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
   },
   {
     "name": "\"Take notes for me\" de Google Meet para reuniones presenciales",
