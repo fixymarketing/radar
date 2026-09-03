@@ -807,5 +807,51 @@
     "source_kind": "auto",
     "last_updated": "2026-09-02",
     "first_seen": "2026-09-02"
+  },
+  {
+    "title": "El Gobierno lanzó un paquete de seis medidas para sostener el consumo antes de octubre",
+    "what_happened": "El 3 de septiembre el Gobierno activó un paquete de seis medidas para recomponer el poder adquisitivo: mayor inyección de pesos en la última licitación de deuda para bajar tasas, tarifas de septiembre actualizadas por debajo de la inflación, un aumento de la bonificación eléctrica al 25% (75% sumado al descuento base, con el tope de consumo bonificable subiendo de 150 a 200 kWh), una bonificación extraordinaria del 24,5% en gas natural, la postergación del aumento del impuesto a los combustibles y una suba salarial escalonada del 12,22% para las fuerzas de seguridad entre septiembre y diciembre. Las medidas buscan frenar la caída del consumo antes de las elecciones legislativas de octubre.",
+    "why_it_matters": "Es una señal de que el Gobierno reconoce el deterioro del consumo masivo (siete meses consecutivos en baja) y busca revertirlo con alivio de bolsillo antes de octubre, lo que podría traducirse en un leve repunte de ticket promedio en el corto plazo.",
+    "fixy_impact": "Un eventual repunte de consumo en septiembre-octubre podría mover volumen de pedidos para clientes de Fixy; conviene monitorear si el efecto es real o solo cosmético antes de ajustar proyecciones de capacidad.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/09/03/creditos-tarifas-y-salarios-el-gobierno-activo-seis-medidas-para-recomponer-el-poder-adquisitivo-y-apuntalar-el-consumo/",
+    "published_date": "2026-09-03",
+    "priority": "relevante",
+    "tags": [
+      "consumo",
+      "tarifas",
+      "poder adquisitivo",
+      "gobierno",
+      "elecciones"
+    ],
+    "id": "nw-3dd8b2fcf1",
+    "source_kind": "auto",
+    "last_updated": "2026-09-03",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "Los bancos ya dieron de baja 143.000 créditos irrecuperables por $4,4 billones",
+    "what_happened": "Según datos del BCRA procesados por EcoGo, los bancos pasaron a pérdida 143.143 préstamos considerados irrecuperables por un total de $4,4 billones, frente a los 74.000 de fines de 2024 y los 132.000 de principios de 2026. En paralelo, las refinanciaciones alcanzaron un récord de $2,6 billones (3,7% del sistema), concentradas en cuatro bancos: Galicia, Provincia, Santander y Banco Nación.",
+    "why_it_matters": "El deterioro de la cartera crediticia bancaria confirma que el estrés financiero de las familias y empresas se profundiza más allá de las fintech y billeteras ya reportadas, con más bancos dando de baja deuda y forzando refinanciaciones a niveles récord.",
+    "fixy_impact": "Un sistema de crédito más restrictivo presiona el financiamiento en cuotas de las compras online, un driver clave de ticket promedio en eCommerce; vale seguir de cerca el acceso a cuotas sin interés de cara a la temporada alta.",
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "Filo News",
+    "source_url": "https://www.filo.news/noticia/2026/09/01/morosidad-record-los-bancos-ya-dieron-de-baja-143-000-creditos-por-usd4-4-billones-y-crecen-las-refinanciaciones",
+    "published_date": "2026-09-01",
+    "priority": "informativo",
+    "tags": [
+      "mora",
+      "bancos",
+      "crédito",
+      "refinanciación",
+      "BCRA"
+    ],
+    "id": "nw-09b2af69a7",
+    "source_kind": "auto",
+    "last_updated": "2026-09-03",
+    "first_seen": "2026-09-03"
   }
 ]

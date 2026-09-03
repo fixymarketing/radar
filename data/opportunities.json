@@ -1,5 +1,20 @@
 [
   {
+    "title": "Prepararse para un posible repunte de pedidos de cara al paquete de alivio al consumo previo a octubre",
+    "context": "El Gobierno lanzó el 3 de septiembre un paquete de seis medidas (tarifas, bonificación de luz y gas, freno al impuesto a combustibles) para sostener el consumo antes de las elecciones de octubre. Si el alivio de bolsillo se traduce en más pedidos online, los operadores logísticos van a sentirlo primero en volumen de septiembre-octubre.",
+    "action": "Monitorear semana a semana el volumen de pedidos de los clientes de Fixy durante septiembre y octubre, anticipar dotación y capacidad de depósito para un eventual pico, y usar esa planificación proactiva como argumento comercial frente a clientes que todavía no ajustaron su previsión de demanda.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/09/03/creditos-tarifas-y-salarios-el-gobierno-activo-seis-medidas-para-recomponer-el-poder-adquisitivo-y-apuntalar-el-consumo/",
+    "linked": [
+      "El Gobierno lanzó un paquete de seis medidas para sostener el consumo antes de octubre"
+    ],
+    "id": "op-085d0b28",
+    "source_kind": "auto",
+    "last_updated": "2026-09-03",
+    "first_seen": "2026-09-03"
+  },
+  {
     "title": "Ofrecer última milla de respaldo mientras el Correo Argentino queda en pausa",
     "context": "El Gobierno frenó la concesión del Correo Argentino hasta después de las elecciones de 2027, lo que prolonga la incertidumbre sobre su capacidad operativa justo cuando crece el régimen de importaciones puerta a puerta de Shein, Temu y Amazon. Eso deja a marketplaces y couriers sin certeza sobre el actor estatal que hoy concentra buena parte de esa última milla.",
     "action": "Contactar a plataformas de importación puerta a puerta y marketplaces que hoy dependen del Correo Argentino para ofrecer a Fixy como capacidad de última milla complementaria o de contingencia mientras dure la incertidumbre.",
@@ -105,21 +120,5 @@
     "source_kind": "auto",
     "last_updated": "2026-08-31",
     "first_seen": "2026-08-31"
-  },
-  {
-    "title": "Blindar la flota de reparto propia antes del pico de fin de año, con foco en los utilitarios",
-    "context": "Un estudio de CASEL muestra que el 83% de los robos a transporte de mercadería golpea a utilitarios de reparto, y en paralelo se duplicaron los robos de vehículos en el interior del país, justo donde crece la última milla del ecommerce.",
-    "action": "Revisar con la aseguradora y el proveedor de rastreo satelital la cobertura y el protocolo de seguridad de la flota propia de Fixy antes del pico de fin de año, priorizando las rutas del interior.",
-    "type": "estratégica",
-    "priority": "relevante",
-    "source_url": "https://webpicking.com/el-83-de-los-robos-al-transporte-de-mercaderia-golpea-a-los-vehiculos-utilitarios/",
-    "linked": [
-      "Un estudio de CASEL revela que el 83% de los robos a transporte de mercadería golpea a utilitarios de reparto",
-      "Se duplicaron los robos de vehículos en el interior y los utilitarios de reparto son el blanco principal"
-    ],
-    "id": "op-71324aae",
-    "source_kind": "auto",
-    "last_updated": "2026-08-30",
-    "first_seen": "2026-08-30"
   }
 ]

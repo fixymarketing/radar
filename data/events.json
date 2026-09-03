@@ -3665,5 +3665,32 @@
     "source_kind": "auto",
     "last_updated": "2026-09-02",
     "first_seen": "2026-09-02"
+  },
+  {
+    "scope": "intl",
+    "name": "CSCMP EDGE 2026",
+    "organizer": "Council of Supply Chain Management Professionals (CSCMP)",
+    "date_start": "2026-10-04",
+    "date_end": "2026-10-07",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Nashville, Tennessee",
+    "province": null,
+    "country": "Estados Unidos",
+    "venue": "Gaylord Opryland Resort & Convention Center",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.cscmpedge.org/",
+    "source_url": "https://cscmp.org/CSCMP/CSCMP/CSCMP-EDGE-2026.aspx",
+    "description": "EDGE es el congreso anual del Council of Supply Chain Management Professionals, uno de los eventos de supply chain y logística más grandes de Estados Unidos, con más de 100 sesiones educativas y una exposición con más de 175 proveedores de tecnología y servicios.",
+    "fixy_relevance": "Reúne a miles de ejecutivos de operaciones, logística y cadena de suministro de Estados Unidos y sirve para relevar tendencias de fulfillment, automatización de depósitos y last mile, además de generar contactos con proveedores tecnológicos y potenciales socios con operación en la región.",
+    "justification_type": "aprendizaje",
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-cscmp-edge-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-03",
+    "first_seen": "2026-09-03"
   }
 ]

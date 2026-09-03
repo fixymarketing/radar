@@ -59,5 +59,21 @@
     "source_kind": "auto",
     "last_updated": "2026-08-29",
     "first_seen": "2026-08-29"
+  },
+  {
+    "title": "Blindar la flota de reparto propia antes del pico de fin de año, con foco en los utilitarios",
+    "context": "Un estudio de CASEL muestra que el 83% de los robos a transporte de mercadería golpea a utilitarios de reparto, y en paralelo se duplicaron los robos de vehículos en el interior del país, justo donde crece la última milla del ecommerce.",
+    "action": "Revisar con la aseguradora y el proveedor de rastreo satelital la cobertura y el protocolo de seguridad de la flota propia de Fixy antes del pico de fin de año, priorizando las rutas del interior.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://webpicking.com/el-83-de-los-robos-al-transporte-de-mercaderia-golpea-a-los-vehiculos-utilitarios/",
+    "linked": [
+      "Un estudio de CASEL revela que el 83% de los robos a transporte de mercadería golpea a utilitarios de reparto",
+      "Se duplicaron los robos de vehículos en el interior y los utilitarios de reparto son el blanco principal"
+    ],
+    "id": "op-71324aae",
+    "source_kind": "auto",
+    "last_updated": "2026-08-30",
+    "first_seen": "2026-08-30"
   }
 ]

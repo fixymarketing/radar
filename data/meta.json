@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-02T12:30:38.895Z",
-  "last_updated_ar": "02/09/2026, 09:30",
-  "date": "2026-09-02",
+  "generated_at": "2026-09-03T12:24:44.372Z",
+  "last_updated_ar": "03/09/2026, 09:24",
+  "date": "2026-09-03",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El día quedó marcado por la incertidumbre en la última milla estatal con el Correo Argentino en pausa hasta 2027 y por la confirmación, con números, de que el eCommerce sigue creciendo en pedidos aunque el consumo físico se derrumbe, con el SAP NOW AI Tour de hoy en Buenos Aires como oportunidad concreta para mirar IA aplicada a fulfillment.",
+  "summary_line": "El Gobierno lanzó un paquete de seis medidas para sostener el consumo antes de octubre justo cuando la morosidad bancaria bate récords, un combo que conviene monitorear de cerca para anticipar tanto un eventual repunte de pedidos como la salud financiera real de clientes y transportistas.",
   "counters": {
-    "news_today": 1,
-    "news_total": 35,
+    "news_today": 2,
+    "news_total": 37,
     "events_upcoming": 82,
-    "events_ar_upcoming": 48,
-    "events_intl_upcoming": 34,
+    "events_ar_upcoming": 47,
+    "events_intl_upcoming": 35,
     "events_later": 20,
     "opportunities_open": 8,
-    "opportunities_today": 3,
-    "ai_today": 4,
-    "ai_to_try": 28,
-    "content_ideas": 41,
-    "added_news": 1,
-    "updated_news": 2,
-    "added_events": 6,
-    "updated_events": 1,
-    "added_ai": 4,
-    "archived": 4,
+    "opportunities_today": 1,
+    "ai_today": 2,
+    "ai_to_try": 29,
+    "content_ideas": 43,
+    "added_news": 2,
+    "updated_news": 0,
+    "added_events": 1,
+    "updated_events": 0,
+    "added_ai": 2,
+    "archived": 1,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,39 +34,32 @@
   },
   "highlights": [
     {
-      "id": "nw-95ff1f53f6",
+      "id": "nw-3dd8b2fcf1",
       "kind": "news",
-      "title": "El Gobierno frenó la concesión del Correo Argentino por las elecciones de 2027",
+      "title": "El Gobierno lanzó un paquete de seis medidas para sostener el consumo antes de octubre",
       "priority": "alta",
-      "one_liner": "Prolonga la incertidumbre sobre el actor estatal central de la última milla justo cuando crecen las importaciones puerta a puerta."
+      "one_liner": "Es la apuesta oficial más concreta del año para reactivar el consumo antes de octubre, y un posible driver de pedidos que Fixy debería monitorear de cerca."
     },
     {
-      "id": "nw-e3509c8c04",
+      "id": "nw-09b2af69a7",
       "kind": "news",
-      "title": "El consumo masivo cayó 3,7% en el segundo trimestre, con una baja del 6,8% en el AMBA, pero el comercio electrónico creció 41%",
-      "priority": "alta",
-      "one_liner": "Confirma con números que el canal online sigue ganando terreno incluso mientras el consumo físico se derrumba."
+      "title": "Los bancos ya dieron de baja 143.000 créditos irrecuperables por $4,4 billones",
+      "priority": "relevante",
+      "one_liner": "Confirma que el estrés financiero de familias y empresas se profundiza más allá de las fintech, con impacto directo en el acceso a cuotas que sostiene el ticket del eCommerce."
     },
     {
-      "id": "ev-ai-argentina-now-sap-tour-2026",
+      "id": "ai-anthropic-claude-fable-5-1-y-mythos-5-1",
+      "kind": "ai",
+      "title": "Claude Fable 5.1 y Mythos 5.1",
+      "priority": "relevante",
+      "one_liner": "El modelo que ya usa el equipo de Fixy mejora automáticamente y baja de costo, sin que haga falta activar nada."
+    },
+    {
+      "id": "ev-argentina-experience-libre-mercado-2026",
       "kind": "event",
-      "title": "SAP NOW AI Tour Argentina 2026",
+      "title": "Mercado Libre Experience Argentina 2026",
       "priority": "relevante",
-      "one_liner": "Se hace hoy mismo en Buenos Aires y es la ventana más concreta del día para evaluar IA y ERP aplicados a stock, forecasting y fulfillment."
-    },
-    {
-      "id": "nw-de69cc8e6c",
-      "kind": "news",
-      "title": "Un estudio de CASEL revela que el 83% de los robos a transporte de mercadería golpea a utilitarios de reparto",
-      "priority": "alta",
-      "one_liner": "Confirma con datos que la inseguridad vial ya se concentró en los vehículos chicos de última milla, no en la carga pesada."
-    },
-    {
-      "id": "nw-54a57f97a7",
-      "kind": "news",
-      "title": "Las importaciones vía courier ya suman US$751 millones en 2026 y podrían superar todo 2025 antes de septiembre",
-      "priority": "relevante",
-      "one_liner": "La compra transfronteriza se consolidó como canal relevante y presiona a los operadores locales que compiten por ese volumen de paquetes chicos."
+      "one_liner": "El 10 de septiembre concentra en un día a sellers y pymes de Mercado Libre que buscan resolver logística: una oportunidad directa de escuchar demanda real de clientes potenciales."
     }
   ]
 }

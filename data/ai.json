@@ -268,6 +268,51 @@
     "first_seen": "2026-09-01"
   },
   {
+    "name": "Instrucciones personalizadas de Gemini en Workspace",
+    "vendor": "Google",
+    "what_it_is": "Una configuración de Gemini en Google Workspace donde cada persona guarda instrucciones fijas (tono, idioma, formato, preferencias) para que se apliquen siempre, sin repetirlas en cada consulta.",
+    "what_changed": "Google ya lo tenía solo en Docs desde mayo; desde el 2 de septiembre de 2026 lo extendió (despliegue gradual, hasta 15 días) a Gemini en Drive, Chat, Gmail, Sheets y Slides, y las instrucciones quedan compartidas entre todas esas apps.",
+    "fixy_use": "El equipo de marketing y atención al cliente puede guardar una sola vez el tono de marca de Fixy y el estilo esperado (español rioplatense, formalidad, extensión) y que Gemini lo respete al redactar mails en Gmail, documentos en Docs o respuestas en Sheets/Slides, sin repetir instrucciones en cada prompt.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis dentro de las licencias de Workspace que ya tienen y reduce fricción diaria sin sumar una herramienta nueva.",
+    "categories": [
+      "Productividad",
+      "Contenido",
+      "Organización"
+    ],
+    "pricing_note": "gratis (incluido en licencias de Google Workspace existentes con acceso a Gemini)",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/09/custom-instructions-for-gemini-in-Workspace-now-available-in-more-apps.html",
+    "published_date": "2026-09-02",
+    "priority": "relevante",
+    "id": "ai-google-instrucciones-personalizadas-de-gemini-en-workspace",
+    "source_kind": "auto",
+    "last_updated": "2026-09-03",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "name": "Claude Fable 5.1 y Mythos 5.1",
+    "vendor": "Anthropic",
+    "what_it_is": "Son los nuevos modelos insignia de Claude (sucesores de Fable 5 y Mythos 5), pensados para trabajo de conocimiento y tareas largas que se extienden por varias aplicaciones.",
+    "what_changed": "Anthropic los lanzó el 1 de septiembre de 2026: mejoran el razonamiento, bajan mucho el costo (lecturas de caché 75% más baratas, tareas típicas 25% más baratas y tareas de agente complejas hasta 45% más baratas) y ya son el modelo por defecto en Claude.ai y Cowork, sin que el usuario tenga que activar nada.",
+    "fixy_use": "Como Fixy ya usa Claude/Cowork para redactar contenido, resumir información y analizar datos, esta actualización mejora automáticamente la calidad de esas tareas a menor costo. También habilita mejor tareas largas y desatendidas en Cowork (por ejemplo, revisar un backlog de mails o navegar un sitio para juntar información) sin configuración extra.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora automática del modelo que ya usan, no requiere acción salvo aprovechar tareas de agente más largas si conviene.",
+    "categories": [
+      "Productividad",
+      "Análisis",
+      "Contenido",
+      "Automatización"
+    ],
+    "pricing_note": "pago (incluido en los planes existentes de Claude Pro/Team/Cowork, sin costo extra por el upgrade; el uso vía API sale más barato que el modelo anterior)",
+    "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "published_date": "2026-09-01",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-fable-5-1-y-mythos-5-1",
+    "source_kind": "auto",
+    "last_updated": "2026-09-03",
+    "first_seen": "2026-09-03"
+  },
+  {
     "name": "Meta Business Agent: cobro por tokens en WhatsApp",
     "vendor": "Meta",
     "what_it_is": "Es una novedad sobre el agente de IA de Meta para WhatsApp Business (ya en el radar de Fixy), que atiende clientes, recomienda productos y puede cerrar ventas de forma autónoma en WhatsApp, Instagram y Messenger.",

@@ -617,5 +617,35 @@
     "source_kind": "auto",
     "last_updated": "2026-09-02",
     "first_seen": "2026-09-02"
+  },
+  {
+    "topic": "Los utilitarios de reparto, en la mira: qué hacer con el nuevo blanco de los robos a la logística",
+    "why_now": "Un estudio de CASEL confirmó que el 83% de los robos a transporte de mercadería golpea a utilitarios de reparto, justo cuando otros datos muestran que ese delito se duplicó en el interior del país en lo que va del año.",
+    "fixy_angle": "Fixy puede posicionarse mostrando cómo protege su propia flota de reparto (monitoreo, protocolos, seguros) y convertir ese cuidado en un argumento de confianza frente a clientes que hoy resuelven la última milla con flotas propias más expuestas.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://webpicking.com/el-83-de-los-robos-al-transporte-de-mercaderia-golpea-a-los-vehiculos-utilitarios/",
+    "id": "ct-d2c6148f",
+    "source_kind": "auto",
+    "last_updated": "2026-09-03",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "topic": "Alivio con fecha de vencimiento: qué significa para el eCommerce el paquete de medidas antes de octubre",
+    "why_now": "El Gobierno activó tarifas, bonificaciones de luz y gas y freno al impuesto a combustibles para sostener el consumo antes de las elecciones, mientras la morosidad bancaria bate récords en paralelo: dos señales contradictorias sobre la salud real del bolsillo del consumidor.",
+    "fixy_angle": "Fixy puede aportar una mirada operativa poco explotada: qué le conviene a un eCommerce hacer con su logística y stock si el repunte de pedidos es real pero transitorio, en vez de sumarse al optimismo o al pesimismo genérico de la coyuntura.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.infobae.com/economia/2026/09/03/creditos-tarifas-y-salarios-el-gobierno-activo-seis-medidas-para-recomponer-el-poder-adquisitivo-y-apuntalar-el-consumo/",
+    "id": "ct-5ad4138b",
+    "source_kind": "auto",
+    "last_updated": "2026-09-03",
+    "first_seen": "2026-09-03"
   }
 ]
