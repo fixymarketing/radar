@@ -75,8 +75,8 @@
     "date_end": "2026-09-10",
     "date_confirmed": true,
     "date_note": null,
-    "city": "CABA",
-    "province": "Ciudad Autónoma de Buenos Aires",
+    "city": "Buenos Aires",
+    "province": "CABA",
     "country": "Argentina",
     "venue": "La Rural, Predio Ferial de Buenos Aires",
     "venue_confirmed": true,
@@ -84,27 +84,16 @@
     "category": "Marketplaces",
     "url": "https://www.mercadolibreexperience.com.ar/",
     "source_url": "https://www.cronista.com/finanzas-mercados/mercado-libre-experience-2026-fecha-entradas-y-los-temas-que-marcaran-el-encuentro-de-e-commerce-mas-grande-de-la-region/",
-    "description": "Segunda edición argentina del evento de e-commerce de Mercado Libre: más de 50 charlas y 80 speakers en cinco escenarios sobre ventas, marketing, logística, medios de pago e IA, con más de 8.000 asistentes esperados.",
-    "fixy_relevance": "Concentra en un día a sellers y pymes de Mercado Libre que buscan resolver logística y fulfillment: espacio clave para escuchar demandas reales de clientes potenciales y detectar tendencias en envíos.",
+    "description": "Segunda edición del evento de eCommerce de Mercado Libre en Argentina, con más de 80 speakers, 5 escenarios temáticos y una feria con más de 40 stands de soluciones para vendedores y pymes.",
+    "fixy_relevance": "Reúne a miles de vendedores y marcas de eCommerce que son el público objetivo de Fixy para fulfillment y última milla; es la mejor oportunidad del año para generar contactos comerciales y detectar tendencias del marketplace líder de la región.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-argentina-experience-libre-mercado-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-31",
+    "last_updated": "2026-09-04",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-20",
-        "fields": [
-          "name",
-          "province",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-21",
         "fields": [
@@ -144,6 +133,15 @@
           "province",
           "venue",
           "category",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-04",
+        "fields": [
+          "city",
+          "province",
           "description",
           "fixy_relevance"
         ]
@@ -251,7 +249,7 @@
   {
     "scope": "ar",
     "name": "Experiencia Endeavor Rosario 2026",
-    "organizer": "Endeavor Argentina / Endeavor Rosario",
+    "organizer": "Endeavor Argentina",
     "date_start": "2026-09-17",
     "date_end": "2026-09-17",
     "date_confirmed": true,
@@ -259,21 +257,34 @@
     "city": "Rosario",
     "province": "Santa Fe",
     "country": "Argentina",
-    "venue": "Metropolitano Rosario",
+    "venue": "Salón Metropolitano del Alto Rosario (Junín 501)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Emprendimiento",
-    "url": "https://www.endeavor.org.ar/eventos/experiencia-endeavor-rosario-4/",
-    "source_url": "https://eventos.endeavor.org.ar/",
-    "description": "Jornada de 8:30 a 18 h con charlas de referentes, mentorías y networking para emprendedores del centro del país.",
-    "fixy_relevance": "Rosario concentra tiendas online y marcas de escala media: el evento es un canal eficiente para generar reuniones comerciales y visibilidad regional de Fixy.",
+    "url": "https://eventos.endeavor.org.ar/event/255",
+    "source_url": "https://puntobiz.com.ar/gestion/ya-tiene-fecha-la-nueva-edicion-de-experiencia-endeavor-rosario--202599900",
+    "description": "Encuentro anual de Endeavor en Rosario que reúne a emprendedores, empresarios consolidados y referentes del ecosistema de negocios de Santa Fe.",
+    "fixy_relevance": "Espacio de networking con empresas en crecimiento del cordón industrial de Rosario, zona clave de producción y distribución hacia el interior del país donde Fixy puede captar clientes de eCommerce en expansión.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-endeavor-experiencia-rosario-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-09-04",
+        "fields": [
+          "organizer",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -437,40 +448,30 @@
   {
     "scope": "ar",
     "name": "Cumbre Federal de Logística 2026",
-    "organizer": "Consejo Federal de Inversiones (CFI) junto a provincias argentinas",
+    "organizer": "Consejo Federal de Inversiones (CFI)",
     "date_start": "2026-10-16",
     "date_end": "2026-10-16",
     "date_confirmed": true,
     "date_note": "Una búsqueda mostró una mención aislada a '10 de noviembre' para este evento, pero múltiples fuentes (Webpicking, medios provinciales) confirman de forma consistente el 16 de octubre en el CEC Buenos Aires; se prioriza esta fecha.",
-    "city": "CABA",
-    "province": "Ciudad Autónoma de Buenos Aires",
+    "city": "Buenos Aires",
+    "province": "CABA",
     "country": "Argentina",
-    "venue": "Centro de Convenciones Buenos Aires (CEC)",
+    "venue": "Centro de Convenciones de Buenos Aires (CEC)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
     "url": "https://cfi.org.ar/cumbre_federal_logistica",
     "source_url": "https://webpicking.com/la-cumbre-federal-de-logistica-2026-tiene-fecha/",
-    "description": "Bajo el lema \"Hacia una logística competitiva para el desarrollo federal\", el CFI y las provincias presentan los avances de la Estrategia Federal de Logística, con gobernadores, autoridades nacionales y CEOs de transporte y producción.",
-    "fixy_relevance": "Marca la agenda pública de infraestructura logística federal (rutas, puertos, costos) que impacta directo en los costos y tiempos de distribución interior de Fixy.",
+    "description": "Encuentro impulsado por el CFI junto a las provincias argentinas en el marco de la Estrategia Federal Logística, bajo el lema \"Hacia una logística competitiva para el desarrollo federal\", con gobernadores y autoridades nacionales y provinciales.",
+    "fixy_relevance": "Ahí se define la agenda pública de infraestructura y competitividad logística federal; útil para entender política logística nacional, corredores de transporte y posibles oportunidades de expansión regional para Fixy.",
     "justification_type": null,
-    "priority": "relevante",
+    "priority": "alta",
     "beyond_90": false,
     "id": "ev-cumbre-federal-logistica-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-31",
+    "last_updated": "2026-09-04",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-21",
-        "fields": [
-          "organizer",
-          "date_note",
-          "venue",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-28",
         "fields": [
@@ -502,6 +503,18 @@
       },
       {
         "date": "2026-08-31",
+        "fields": [
+          "organizer",
+          "city",
+          "province",
+          "venue",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-04",
         "fields": [
           "organizer",
           "city",
@@ -673,23 +686,23 @@
     "date_end": "2026-11-04",
     "date_confirmed": true,
     "date_note": "CACE confirmó el evento central los días lunes 2, martes 3 y miércoles 4 de noviembre; varias marcas extienden los beneficios como \"Cyber Week\" entre el 5 y el 8 de noviembre.",
-    "city": "Todo el país (online)",
+    "city": "Todo el país (evento online)",
     "province": null,
     "country": "Argentina",
-    "venue": "No aplica (evento online)",
+    "venue": "No aplica – evento 100% online",
     "venue_confirmed": true,
     "format": "virtual",
     "category": "eCommerce",
     "url": "https://www.cybermonday.com.ar/",
-    "source_url": "https://www.diariouno.com.ar/economia/ofertas-y-descuentos-fechas-confirmadas-del-black-friday-y-cyber-monday-2026-argentina-n1552547",
-    "description": "Evento de descuentos online organizado por CACE con más de 900 empresas socias participantes; días centrales del 2 al 4 de noviembre, extendido con Cyber Week del 5 al 8 de noviembre.",
-    "fixy_relevance": "Genera un pico de demanda de eCommerce y última milla: Fixy necesita anticipar capacidad operativa, refuerzos de personal y SLA de entrega para sus clientes durante estos días.",
+    "source_url": "https://www.c5n.com/economia/descuentos-y-ofertas-confirmaron-las-fechas-del-black-friday-y-cyber-week-2026-n237316",
+    "description": "72 horas de descuentos online organizadas por CACE con cerca de 1.000 marcas participantes; los beneficios se extienden luego bajo el formato \"Cyber Week\" hasta el 8 de noviembre.",
+    "fixy_relevance": "Es uno de los picos de demanda de eCommerce y última milla del año; clave para planificar con anticipación capacidad de depósito, picking y refuerzo de despachos junto a los clientes de Fixy.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cybermonday-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-09-04",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -722,6 +735,16 @@
           "description",
           "fixy_relevance"
         ]
+      },
+      {
+        "date": "2026-09-04",
+        "fields": [
+          "city",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
@@ -736,20 +759,20 @@
     "city": "Escobar",
     "province": "Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro de Capacitación Profesional para el Transporte \"Rogelio Cavalieri Iribarne\" (RCI), Fundación Profesional para el Transporte de FADEEAC",
+    "venue": "Predio FPT/FADEEAC, Escobar",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
     "url": "https://arlog.org/",
     "source_url": "https://autoexecutive.com.ar/blog/2026/05/21/arlog-tiene-nuevo-presidente-y-confirmo-la-fecha-del-congreso-de-logistica-empresaria-2026/",
-    "description": "33ª edición del encuentro anual de ARLOG bajo el lema \"Argentina Logística\", centrado en la estrategia y los habilitadores necesarios para la nueva supply chain, en la sede de FADEEAC en Escobar.",
-    "fixy_relevance": "Es el principal evento anual del sector logístico empresario argentino: clave para benchmarking, contacto con proveedores y clientes corporativos, y detectar tendencias de supply chain aplicables a la operación de Fixy.",
+    "description": "33ª edición del Encuentro Nacional de Logística Empresaria de ARLOG, bajo el lema \"Argentina Logística\", centrada en la estrategia y los habilitadores necesarios para la nueva supply chain.",
+    "fixy_relevance": "Principal encuentro anual del sector logístico empresario del país; punto de referencia para benchmarking, networking con pares y proveedores, y detección temprana de tendencias de supply chain que afectan a Fixy.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-arlog-empresaria-encuentro-logistica-nacional-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-09-04",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -788,6 +811,14 @@
           "description",
           "fixy_relevance"
         ]
+      },
+      {
+        "date": "2026-09-04",
+        "fields": [
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
@@ -799,23 +830,23 @@
     "date_end": "2026-11-18",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Ciudad Autónoma de Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
+    "city": "Buenos Aires",
+    "province": "CABA",
     "country": "Argentina",
     "venue": "La Rural (Ingreso Proveedores, Calle Juncal)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Emprendimiento",
     "url": "https://comunidadsomospymes.com.ar/el_pais_que_se_viene/",
-    "source_url": "https://www.eventbrite.com.ar/e/somos-pymes-summit-el-pais-que-se-viene-tickets-1983204381692",
-    "description": "Encuentro anual para más de 1.000 empresarios PyME, con speakers destacados, orientado a anticipar decisiones estratégicas de negocio para el año siguiente.",
-    "fixy_relevance": "Las PyMEs que venden online son un segmento central de clientes de Fixy; el evento permite escuchar de primera mano sus preocupaciones de costos y logística para 2027 y generar contactos comerciales.",
+    "source_url": "https://www.somospymes.com.ar/eventos/somos-pymes-llega-el-pais-que-se-viene-n5400936",
+    "description": "Encuentro para más de 1.000 empresarios pyme centrado en anticipar escenarios económicos de 2027 y brindar herramientas para la toma de decisiones estratégicas.",
+    "fixy_relevance": "Concentra a dueños de pymes que son clientes potenciales directos de Fixy —marcas que venden online y necesitan tercerizar su logística—; buena instancia de generación de contactos comerciales.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-pais-pymes-que-se-somos-summit-viene-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-21",
+    "last_updated": "2026-09-04",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -828,6 +859,16 @@
           "priority",
           "beyond_90"
         ]
+      },
+      {
+        "date": "2026-09-04",
+        "fields": [
+          "city",
+          "province",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
@@ -839,24 +880,40 @@
     "date_end": "2026-11-29",
     "date_confirmed": true,
     "date_note": "El evento central es el viernes 27. La extensión de fin de semana ('Black Week', 28 y 29) es informal y varía por retailer.",
-    "city": "Nacional (online)",
+    "city": "Todo el país (evento online y en comercios)",
     "province": null,
     "country": "Argentina",
-    "venue": "Online",
+    "venue": "No aplica",
     "venue_confirmed": true,
-    "format": "virtual",
-    "category": "eCommerce",
-    "url": "https://www.cace.org.ar/",
-    "source_url": "https://www.c5n.com/economia/descuentos-y-ofertas-confirmaron-las-fechas-del-black-friday-y-cyber-week-2026-n237316",
-    "description": "Fecha comercial online de fin de noviembre, encadenada con la temporada navideña. A diferencia del CyberMonday, en Argentina no la organiza CACE: no hay convocatoria única.",
-    "fixy_relevance": "Cae inmediatamente antes del pico navideño: define la ventana crítica de capacidad de almacén y última milla de Fixy para todo el cierre del año.",
+    "format": "híbrido",
+    "category": "Retail",
+    "url": "https://www.c5n.com/economia/descuentos-y-ofertas-confirmaron-las-fechas-del-black-friday-y-cyber-week-2026-n237316",
+    "source_url": "https://www.mdzol.com/sociedad/confirmaron-las-fechas-del-black-friday-y-el-cyber-monday-cuando-seran-los-descuentos-y-ofertas-n1513366",
+    "description": "Jornada de descuentos que replica el modelo internacional de Black Friday; en 2026 el día central es el viernes 27 de noviembre, con extensión en formato \"Black Week\" hasta el domingo 29.",
+    "fixy_relevance": "Junto con CyberMonday, es uno de los picos de venta y despacho de fin de año; relevante para planificar capacidad logística extra y comunicar con anticipación plazos de entrega a los clientes de Fixy.",
     "justification_type": null,
     "priority": "alta",
-    "beyond_90": true,
+    "beyond_90": false,
     "id": "ev-argentina-black-friday-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-09-04",
+        "fields": [
+          "city",
+          "venue",
+          "format",
+          "category",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "beyond_90"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -1562,29 +1619,44 @@
   {
     "scope": "intl",
     "name": "Fórum E-Commerce Brasil 2027",
-    "organizer": "E-Commerce Brasil",
+    "organizer": "E-Commerce Brasil (ECBR)",
     "date_start": null,
     "date_end": null,
     "date_confirmed": false,
-    "date_note": "La edición 2027 no tenía fecha anunciada al 19/08/2026. Históricamente se realiza en julio en São Paulo, pero no está confirmado.",
+    "date_note": "La 17ª edición (2026) fue del 28 al 30 de julio en el Distrito Anhembi, São Paulo, con más de 62.000 visitantes. ECBR todavía no confirmó fecha ni sede para la 18ª edición (2027); por el patrón histórico de las ediciones anteriores se espera para julio de 2027, pero es una estimación, no un dato oficial.",
     "city": "Por confirmar",
     "province": null,
     "country": "Brasil",
     "venue": "Por confirmar",
     "venue_confirmed": false,
-    "format": "Por confirmar",
+    "format": "presencial",
     "category": "eCommerce",
     "url": "https://eventos.ecommercebrasil.com.br/forum",
-    "source_url": "https://eventos.ecommercebrasil.com.br/forum",
-    "description": "Mayor evento de eCommerce del mundo según sus organizadores: la edición 2026 reunió más de 62.000 visitantes, con espacio dedicado a pequeños negocios.",
-    "fixy_relevance": "Por volumen de sellers y proveedores logísticos brasileños es el mejor lugar de LATAM para prospectar y estudiar el modelo de fulfillment más maduro de la región. Conviene monitorear el anuncio de fecha 2027 para planificar sponsorship con anticipación.",
-    "justification_type": "negocios",
-    "priority": "alta",
+    "source_url": "https://www.terra.com.br/economia/meu-negocio/forum-e-commerce-brasil-2026-reune-mais-de-62-mil-visitantes-e-reforca-sua-posicao-como-o-maior-evento-de-e-commerce-do-mundo,f3c3e6890e4c80d8ae8afca00fb12a7503phfhf4.html",
+    "description": "Descrito por sus organizadores como el mayor evento de eCommerce del mundo; la edición 2026 reunió más de 62.000 visitantes en São Paulo con foco en última milla, fulfillment y experiencia del cliente.",
+    "fixy_relevance": "Es la principal vidriera de eCommerce y logística de Brasil, con paneles específicos de última milla y fulfillment; vale la pena monitorear el anuncio oficial de fecha 2027 para evaluar con anticipación un viaje o presencia institucional.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
     "beyond_90": true,
     "id": "ev-brasil-commerce-forum-La e",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-09-04",
+        "fields": [
+          "organizer",
+          "date_note",
+          "format",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -2033,29 +2105,42 @@
   {
     "scope": "ar",
     "name": "Expo Franquicias Argentina 2026",
-    "organizer": "AAMF (Asociación Argentina de Marcas y Franquicias) y BA Uniline",
+    "organizer": "Asociación Argentina de Marcas y Franquicias (AAMF) y BA Uniline Exhibitions",
     "date_start": "2026-09-09",
     "date_end": "2026-09-10",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Ciudad Autónoma de Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
+    "city": "Buenos Aires",
+    "province": "CABA",
     "country": "Argentina",
     "venue": "La Rural, Pabellón Ocre",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Retail",
     "url": "https://expofranquicias.ar/",
-    "source_url": "https://aamf.com.ar/evento/",
-    "description": "Feria de negocios de franquicias organizada por AAMF que reúne marcas franquiciantes e inversores para explorar oportunidades de expansión en Argentina.",
-    "fixy_relevance": "Las cadenas de franquicias que digitalizan sus ventas necesitan fulfillment y última milla multipunto; es una cantera de leads B2B poco explorada para Fixy entre marcas que buscan escalar canales online.",
+    "source_url": "https://infofranquicias.ar/plus-2/llega-la-31a-expo-franquicias-argentina-a-la-rural-60-marcas-buscan-expandirse-el-9-y-10-de-septiembre",
+    "description": "31ª edición de la feria de franquicias más importante de Argentina, con unas 60 marcas de distintos sectores presentando modelos de negocio para expandirse con nuevos franquiciados.",
+    "fixy_relevance": "Las marcas que se expanden vía franquicia necesitan abastecer múltiples puntos de venta en todo el país; es una fuente concreta de leads B2B para servicios de fulfillment y distribución multi-punto de Fixy.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-argentina-franquicias-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-21",
-    "first_seen": "2026-08-21"
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-08-21",
+    "change_log": [
+      {
+        "date": "2026-09-04",
+        "fields": [
+          "organizer",
+          "city",
+          "province",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -2630,20 +2715,20 @@
     "city": "Mendoza",
     "province": "Mendoza",
     "country": "Argentina",
-    "venue": "Hilton Mendoza Hotel",
+    "venue": "Hotel Hilton Mendoza",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
-    "url": "https://www.eventbrite.com.ar/e/ecommerce-go-mendoza-2026-tickets-1997982893619",
-    "source_url": "https://massnegocios.com/ecommerce-go-el-evento-de-negocios-digitales-mas-grande-de-la-region-llega-a-mendoza/",
-    "description": "Jornada de networking y charlas de CACE sobre rentabilidad, omnicanalidad y estrategias de venta digital, parte del roadshow federal eCommerce Go que ya pasó por Rosario, Córdoba y Tucumán este año.",
-    "fixy_relevance": "Concentra en un solo día a comerciantes digitales de Cuyo; le sirve a Fixy para hacer prospección comercial directa en una región donde hoy tiene poca presencia y para escuchar de primera mano los dolores logísticos de esos vendedores.",
+    "url": "https://cace.org.ar/prensa/llega-el-ecommerce-go-a-mendoza-tendencias-y-oportunidades-de-negocio-en-el-evento-federal-mas-importante-de-la-economia-digital/",
+    "source_url": "https://www.eventbrite.com.ar/e/ecommerce-go-mendoza-2026-tickets-1997982893619",
+    "description": "Edición federal del ciclo eCommerce Go de CACE en Mendoza, con charlas sobre tendencias, rentabilidad y oportunidades de negocio digital para pymes de la región de Cuyo.",
+    "fixy_relevance": "Conecta directamente con marcas y pymes del interior (Cuyo) que venden online y necesitan soluciones de fulfillment y envíos hacia y desde esa región, un segmento donde Fixy puede diferenciarse frente a la logística porteña.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-ecommerce-go-mendoza-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-28",
+    "last_updated": "2026-09-04",
     "first_seen": "2026-08-25",
     "change_log": [
       {
@@ -2659,6 +2744,16 @@
         "date": "2026-08-28",
         "fields": [
           "organizer",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-04",
+        "fields": [
+          "venue",
           "url",
           "source_url",
           "description",
@@ -3265,7 +3360,7 @@
   {
     "scope": "intl",
     "name": "FINNOSUMMIT 2026",
-    "organizer": "Finnovista Frontier",
+    "organizer": "Finnovista",
     "date_start": "2026-09-23",
     "date_end": "2026-09-24",
     "date_confirmed": true,
@@ -3278,19 +3373,29 @@
     "format": "presencial",
     "category": "Pagos y Fintech",
     "url": "https://www.finnosummit.com/en/",
-    "source_url": "https://www.finnosummit.com/en/insights-hub-a-four-stage-strategic-ecosystem-and-an-impact-driven-program-designed-to-move-from-listening-to-meaningful-connection-at-finnosummit-2026/",
-    "description": "Décima edición de FINNOSUMMIT, el principal evento de fintech de América Latina, que este año suma un eje específico de tecnología financiera aplicada a retail, logística y cadena de suministro.",
-    "fixy_relevance": "Aborda financiamiento embebido y fintech aplicada a logística: útil para entender cómo los medios de pago y el crédito digital están cambiando la operación de e-commerce y la última milla en la región.",
-    "justification_type": "aprendizaje",
+    "source_url": "https://www.notimx.mx/2026/06/finnosummit-2026-reunira-retail.html",
+    "description": "Décima edición de FINNOSUMMIT, el principal evento de fintech de América Latina organizado por Finnovista; esta edición está pensada como punto de encuentro entre fintech, bancos, retail, salud y logística y cadena de suministro.",
+    "fixy_relevance": "Reúne en un mismo espacio a fintechs, bancos y actores de retail y logística de la región; es una oportunidad concreta de networking para explorar alianzas de pagos, financiamiento y soluciones de cobro aplicables a la operación de Fixy.",
+    "justification_type": "networking",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-finnosummit-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-31",
+    "last_updated": "2026-09-04",
     "first_seen": "2026-08-29",
     "change_log": [
       {
         "date": "2026-08-31",
+        "fields": [
+          "organizer",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type"
+        ]
+      },
+      {
+        "date": "2026-09-04",
         "fields": [
           "organizer",
           "source_url",
@@ -3385,29 +3490,43 @@
   {
     "scope": "ar",
     "name": "Money Expo Argentina 2026",
-    "organizer": "Finance Expo Global",
+    "organizer": "Money Expo Global",
     "date_start": "2026-10-03",
     "date_end": "2026-10-04",
     "date_confirmed": true,
     "date_note": null,
     "city": "Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
+    "province": "CABA",
     "country": "Argentina",
-    "venue": "Hilton Buenos Aires",
+    "venue": "Hotel Hilton Buenos Aires",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Pagos y Fintech",
     "url": "https://moneyexpoglobal.com/argentina/en",
-    "source_url": "https://www.diariobitcoin.com/notas-de-prensa/finance-expo-global-argentina-2026-se-aproxima-con-speakers-internacionales-y-agenda-enfocada-en-crypto-trading-y-fintech/",
-    "description": "Expo internacional de trading, inversiones, fintech y activos digitales, con agenda sobre innovación financiera, pagos digitales, stablecoins, tokenización de activos e infraestructura fintech, con speakers y brokers de la región.",
-    "fixy_relevance": "Espacio donde aparecen nuevas soluciones de pagos digitales e infraestructura fintech que Fixy podría evaluar para integrar en checkout o fulfillment de sus clientes de eCommerce.",
+    "source_url": "https://moneyexpoglobal.com/argentina/en",
+    "description": "Feria internacional de medios de pago, banca digital y fintech, con expositores y charlas sobre innovación financiera aplicada al comercio en Argentina.",
+    "fixy_relevance": "Los medios de pago y la banca digital condicionan cómo cobran las tiendas online que Fixy atiende; sirve para monitorear nuevas soluciones de checkout, cuotas y financiamiento para pymes de eCommerce.",
     "justification_type": null,
-    "priority": "informativo",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-argentina-money-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-01",
-    "first_seen": "2026-09-01"
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-01",
+    "change_log": [
+      {
+        "date": "2026-09-04",
+        "fields": [
+          "organizer",
+          "province",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",

@@ -204,5 +204,51 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "title": "Los consumidores empiezan a delegar compras a agentes de IA, pero exigen un paso humano",
+    "what_happened": "Un estudio de RTB House sobre más de 1.800 consumidores en EE.UU., Reino Unido, Japón y Francia muestra que 44% confía en herramientas de IA para decisiones de compra y que 42% de los millennials dejaría que un agente compre por ellos hasta US$250 si hay 7 días de devolución garantizada. Sin esa protección, la disposición cae a un tercio.",
+    "why_it_matters": "La adopción de comercio agéntico está condicionada por la política de devoluciones: la confianza en el agente se construye con logística inversa, no con mejor modelo.",
+    "fixy_impact": "La logística inversa deja de ser un costo y pasa a ser habilitador de conversión. Un producto de devoluciones ágil y con SLA claro es diferencial vendible para tiendas que quieran captar tráfico de agentes de IA.",
+    "category": "IA aplicada",
+    "geo": "Global",
+    "source_name": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/retail-shoppers-warm-up-agentic-ai-purchases/827563/",
+    "published_date": "2026-08-13",
+    "priority": "relevante",
+    "tags": [
+      "comercio agéntico",
+      "IA",
+      "devoluciones",
+      "logística inversa",
+      "conversión"
+    ],
+    "id": "nw-0328d736d7",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "title": "El correo de EE.UU. apunta a la IA para ruteo dinámico en última milla",
+    "what_happened": "El USPS está evaluando dónde la inteligencia artificial genera más valor en su operación, con foco en ruteo dinámico para mantenerse competitivo frente a los carriers de paquetería privados.",
+    "why_it_matters": "El ruteo dinámico con IA se está consolidando como la inversión tecnológica de mayor retorno en última milla, incluso para operadores de gran escala.",
+    "fixy_impact": "Refuerza la prioridad de inversión: optimización de rutas con IA impacta directamente en paquetes por móvil y costo por entrega, la métrica que define el margen de Fixy.",
+    "category": "Última milla",
+    "geo": "Global",
+    "source_name": "Supply Chain Dive",
+    "source_url": "https://www.supplychaindive.com/news/where-usps-could-benefit-the-most-from-ai/827694/",
+    "published_date": "2026-08-13",
+    "priority": "informativo",
+    "tags": [
+      "USPS",
+      "IA",
+      "ruteo dinámico",
+      "última milla",
+      "eficiencia"
+    ],
+    "id": "nw-bc5ee21757",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
   }
 ]

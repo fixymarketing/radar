@@ -75,5 +75,35 @@
     "source_kind": "auto",
     "last_updated": "2026-08-30",
     "first_seen": "2026-08-30"
+  },
+  {
+    "title": "Ofrecer ruta alternativa por Buenos Aires a clientes que importan vía Montevideo",
+    "context": "La Terminal Cuenca del Plata de Montevideo volvió a paralizarse por un conflicto gremial no resuelto, ya la sexta interrupción del año, y varias navieras empezaron a redirigir carga hacia Buenos Aires, Rio Grande y Santos para evitar demoras.",
+    "action": "Contactar a los clientes de fulfillment que hoy importan mercadería con transbordo en Montevideo y ofrecerles anticipar o redirigir esos embarques hacia puertos argentinos mientras dure el conflicto, para evitar el sobrecosto de hasta US$1.000 por contenedor.",
+    "type": "comercial",
+    "priority": "informativo",
+    "source_url": "https://www.infobae.com/movant/2026/08/28/el-puerto-de-montevideo-enfrenta-una-nueva-interrupcion-en-su-terminal-de-contenedores/",
+    "linked": [
+      "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo volvió a paralizar la operatoria"
+    ],
+    "id": "op-61175338",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-31"
+  },
+  {
+    "title": "Sumarse como piloto temprano a las pruebas de delivery autónomo que habilitó la Ciudad de Buenos Aires",
+    "context": "La Ciudad de Buenos Aires autorizó por primera vez pruebas en la vía pública de autos sin conductor y robots de reparto, la primera habilitación de este tipo en el país.",
+    "action": "Evaluar con el equipo de operaciones si Fixy puede sumarse como partner piloto o proveedor logístico de alguna de estas pruebas, para ganar experiencia temprana en la tecnología antes que el resto de los operadores de última milla.",
+    "type": "estratégica",
+    "priority": "informativo",
+    "source_url": "https://www.iprofesional.com/negocios/463009-la-ciudad-abre-la-puerta-al-delivery-con-drones-y-crea-un-nuevo-negocio-para-las-empresas",
+    "linked": [
+      "La Ciudad de Buenos Aires habilita pruebas con autos sin conductor y robots de reparto en la vía pública"
+    ],
+    "id": "op-b6b68c10",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-31"
   }
 ]

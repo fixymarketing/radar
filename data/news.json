@@ -115,52 +115,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "title": "Los consumidores empiezan a delegar compras a agentes de IA, pero exigen un paso humano",
-    "what_happened": "Un estudio de RTB House sobre más de 1.800 consumidores en EE.UU., Reino Unido, Japón y Francia muestra que 44% confía en herramientas de IA para decisiones de compra y que 42% de los millennials dejaría que un agente compre por ellos hasta US$250 si hay 7 días de devolución garantizada. Sin esa protección, la disposición cae a un tercio.",
-    "why_it_matters": "La adopción de comercio agéntico está condicionada por la política de devoluciones: la confianza en el agente se construye con logística inversa, no con mejor modelo.",
-    "fixy_impact": "La logística inversa deja de ser un costo y pasa a ser habilitador de conversión. Un producto de devoluciones ágil y con SLA claro es diferencial vendible para tiendas que quieran captar tráfico de agentes de IA.",
-    "category": "IA aplicada",
-    "geo": "Global",
-    "source_name": "Retail Dive",
-    "source_url": "https://www.retaildive.com/news/retail-shoppers-warm-up-agentic-ai-purchases/827563/",
-    "published_date": "2026-08-13",
-    "priority": "relevante",
-    "tags": [
-      "comercio agéntico",
-      "IA",
-      "devoluciones",
-      "logística inversa",
-      "conversión"
-    ],
-    "id": "nw-0328d736d7",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "title": "El correo de EE.UU. apunta a la IA para ruteo dinámico en última milla",
-    "what_happened": "El USPS está evaluando dónde la inteligencia artificial genera más valor en su operación, con foco en ruteo dinámico para mantenerse competitivo frente a los carriers de paquetería privados.",
-    "why_it_matters": "El ruteo dinámico con IA se está consolidando como la inversión tecnológica de mayor retorno en última milla, incluso para operadores de gran escala.",
-    "fixy_impact": "Refuerza la prioridad de inversión: optimización de rutas con IA impacta directamente en paquetes por móvil y costo por entrega, la métrica que define el margen de Fixy.",
-    "category": "Última milla",
-    "geo": "Global",
-    "source_name": "Supply Chain Dive",
-    "source_url": "https://www.supplychaindive.com/news/where-usps-could-benefit-the-most-from-ai/827694/",
-    "published_date": "2026-08-13",
-    "priority": "informativo",
-    "tags": [
-      "USPS",
-      "IA",
-      "ruteo dinámico",
-      "última milla",
-      "eficiencia"
-    ],
-    "id": "nw-bc5ee21757",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
     "title": "Rosario estrenó Exportlog, su primera expo de puertos y logística del Litoral",
     "what_happened": "Los días 19 y 20 de agosto se realizó en la Terminal Fluvial de Rosario la primera edición de Exportlog, exposición integral de puertos, logística y transporte fluvio-marítimo del Litoral argentino, con 46 stands confirmados y más de 80 oradores en rondas de negocios y paneles. El evento fue organizado por el Instituto de Desarrollo Regional (IDR) y GlobalPorts, con apoyo del Gobierno de Santa Fe y la Municipalidad de Rosario, en un contexto de récord de exportaciones agroindustriales (40 millones de toneladas embarcadas entre enero y abril de 2026, +11% sobre el registro histórico previo).",
     "why_it_matters": "Consolida a Rosario y a la hidrovía Paraná-Paraguay como un nuevo polo ferial propio para discutir competitividad logística y de comercio exterior del Centro y el Litoral, un rol que hasta ahora se concentraba casi exclusivamente en Buenos Aires.",
@@ -510,25 +464,25 @@
   },
   {
     "title": "El BCRA habilita el débito automático de cuotas de préstamos desde cuentas bancarias y billeteras",
-    "what_happened": "Desde el lunes 31 de agosto entró en vigencia el Cobro con Transferencia (CCT), el mecanismo del BCRA que permite a bancos y proveedores no financieros de crédito debitar directamente las cuotas de préstamos desde la cuenta donde se acreditó el crédito, con un tope del 30% del ingreso del cliente y una comisión mínima regulada de 0,6% a cargo del acreedor. El sistema exige autorización previa y expresa del usuario, revocable en cualquier momento, y por ahora se aplica solo a la cobranza de créditos.",
-    "why_it_matters": "El mecanismo endurece la cobranza justo en un contexto de mora creciente en fintech y billeteras virtuales, y podría acelerar el uso del débito directo como condición para acceder a crédito de consumo, algo que pega indirectamente en el poder de compra de los clientes de eCommerce.",
+    "what_happened": "Desde el 31 de agosto está operativo el \"Cobro con Transferencia\" (CCT), el mecanismo del BCRA (Comunicación \"A\" 8406) que permite a bancos y billeteras virtuales debitar automáticamente -con autorización previa y revocable del usuario- las cuotas de préstamos digitales desde la cuenta donde se acreditó el crédito. El sistema solo aplica a cuotas fijas e iguales y fija un tope del 30% entre la cuota y el ingreso del usuario al momento de otorgar el crédito.",
+    "why_it_matters": "La normativa, anunciada meses atrás, pasa ahora de estar aprobada a estar en vigencia: reduce el riesgo de impago para bancos y billeteras, pero reabre el debate sobre sobreendeudamiento en un contexto de mora récord en el sistema de créditos digitales.",
     "fixy_impact": null,
-    "category": "Fintech",
+    "category": "Regulación",
     "geo": "Argentina",
-    "source_name": "iProfesional",
-    "source_url": "https://www.iprofesional.com/impuestos/463365-bancos-y-billeteras-virtuales-ya-pueden-debitar-las-cuotas-impagas-de-creditos",
+    "source_name": "ATP Santa Fe (con datos del BCRA)",
+    "source_url": "https://www.atpsantafe.com.ar/2026/08/31/las-billeteras-virtuales-podran-sacar-plata-de-tu-cuenta-para-cobrar-deudas-como-funcionara-el-nuevo-sistema/",
     "published_date": "2026-08-31",
-    "priority": "informativo",
+    "priority": "relevante",
     "tags": [
       "BCRA",
-      "fintech",
-      "billeteras",
+      "billeteras virtuales",
       "crédito",
-      "cobranza"
+      "regulación",
+      "pagos"
     ],
     "id": "nw-cfa3858ebb",
     "source_kind": "auto",
-    "last_updated": "2026-09-02",
+    "last_updated": "2026-09-04",
     "first_seen": "2026-08-27",
     "updated_flag": true
   },
@@ -853,5 +807,74 @@
     "source_kind": "auto",
     "last_updated": "2026-09-03",
     "first_seen": "2026-09-03"
+  },
+  {
+    "title": "La suba de costos de última milla y correo se moderó en agosto, la más baja desde febrero",
+    "what_happened": "El Índice de Mayores Costos que releva el sector logístico mostró en agosto una suba de 1,62% en Correo y de 1,64% en Última Milla, los incrementos mensuales más bajos desde febrero y muy por debajo del promedio de los últimos doce meses (entre 2,68% y 2,95%). El acumulado enero-agosto llegó a 28,39% en Correo y 28,57% en Última Milla.",
+    "why_it_matters": "La desaceleración sugiere que la presión de combustibles, mano de obra y peajes —los principales componentes del índice— empezó a ceder, lo que podría aliviar márgenes operativos en el reparto urbano si la tendencia se sostiene en los próximos meses.",
+    "fixy_impact": "Una suba de costos más moderada en última milla facilita a Fixy proyectar tarifas a clientes con menor volatilidad mes a mes, aunque el acumulado del año (+28,57%) sigue siendo alto y debería reflejarse en las revisiones de tarifario.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/movant/2026/09/03/los-costos-de-ultima-milla-y-correo-moderaron-su-suba-en-agosto/",
+    "published_date": "2026-09-03",
+    "priority": "alta",
+    "tags": [
+      "última milla",
+      "costos logísticos",
+      "correo",
+      "tarifas",
+      "2026"
+    ],
+    "id": "nw-742b172b99",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "Las billeteras virtuales presentaron un plan de cuatro ejes para bajar la mora récord sin cerrar el crédito",
+    "what_happened": "La industria fintech, impulsada por la Cámara Argentina Fintech, presentó una hoja de ruta con cuatro ejes -mejorar la información crediticia, avanzar en finanzas abiertas, reforzar la educación financiera y ajustar las condiciones de originación- para atender la morosidad récord sin restringir el acceso al crédito. El sector acumula 2,4 millones de deudores en mora, con préstamos promedio de $500.000 a plazos de hasta 30 días.",
+    "why_it_matters": "Es la primera respuesta articulada del sector fintech frente a los cuestionamientos públicos y los pedidos de investigación en el Congreso por la morosidad; si avanza, podría anticipar cambios regulatorios sobre tasas y scoring crediticio que afectan a cualquier negocio que ofrece financiamiento en cuotas.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "iProUP",
+    "source_url": "https://www.iproup.com/finanzas/71096-billeteras-virtuales-fintech-plan-expandir-credito-argentina-morosidad-record-deudas-impagas-septiembre-2026",
+    "published_date": "2026-09-01",
+    "priority": "informativo",
+    "tags": [
+      "fintech",
+      "billeteras virtuales",
+      "morosidad",
+      "crédito",
+      "regulación"
+    ],
+    "id": "nw-fd26dc8331",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "Un informe de Bain & Company muestra que 3 de cada 10 compradores argentinos ya usan IA para comprar online",
+    "what_happened": "Según un informe de Bain & Company difundido el 4 de septiembre, el comercio agéntico -agentes de IA que buscan, comparan y compran en nombre del usuario- podría mover hasta US$500.000 millones en Estados Unidos hacia 2030 y ya representa el 25% del comercio electrónico de ese país. El reporte señala que en Argentina el 30% de los compradores online ya utiliza herramientas de IA para tomar decisiones de compra.",
+    "why_it_matters": "Marca un cambio de paradigma para el marketing digital y el diseño de tiendas online: las marcas van a tener que optimizar no solo para personas sino para que agentes de IA puedan leer precios, stock y tiempos de entrega de forma automática.",
+    "fixy_impact": "Si los agentes de IA empiezan a decidir compras en base a tiempos de entrega y disponibilidad, la información de stock y SLA de envío que expone cada tienda -que Fixy gestiona como operador logístico- se vuelve un factor competitivo directo para sus clientes.",
+    "category": "IA aplicada",
+    "geo": "Argentina",
+    "source_name": "iProUP",
+    "source_url": "https://www.iproup.com/innovacion/71241-compras-online-argentina-comercio-agentico-inteligencia-artificial-septiembre-2026",
+    "published_date": "2026-09-04",
+    "priority": "relevante",
+    "tags": [
+      "IA aplicada",
+      "comercio agéntico",
+      "agentes de compra",
+      "ecommerce",
+      "tendencias"
+    ],
+    "id": "nw-4975f8b2e9",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-04"
   }
 ]

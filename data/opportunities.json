@@ -1,5 +1,39 @@
 [
   {
+    "title": "Preparar la ficha de envíos de Fixy para que la lean agentes de compra con IA",
+    "context": "Un informe de Bain & Company confirmó que 3 de cada 10 compradores argentinos ya usan asistentes de IA para elegir dónde comprar, justo cuando OpenAI lanzó GPT-6 Astra con capacidad de navegar solo varios sitios y comparar datos. Las marcas van a necesitar que el costo, el plazo y la cobertura de envío de sus proveedores logísticos sean legibles de forma automática, no solo para personas.",
+    "action": "Armar una ficha o feed estandarizado (costo, plazo de entrega, cobertura por código postal) de los servicios de Fixy, fácil de citar o consultar por un agente de IA, y ofrecerlo como diferencial a clientes que venden con checkout asistido por IA.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://www.iproup.com/innovacion/71241-compras-online-argentina-comercio-agentico-inteligencia-artificial-septiembre-2026",
+    "linked": [
+      "Un informe de Bain & Company muestra que 3 de cada 10 compradores argentinos ya usan IA para comprar online",
+      "GPT-6 Astra"
+    ],
+    "id": "op-de377ebf",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "Reforzar la agenda comercial en el interior con las citas confirmadas de septiembre",
+    "context": "En la misma semana se confirmaron fecha y sede de eCommerce Go Mendoza, Experiencia Endeavor Rosario y la Cumbre Federal de Logística, sumados a Mercado Libre Experience en Buenos Aires: hay una ventana concreta de eventos federales de eCommerce y logística en las próximas semanas.",
+    "action": "Definir con el equipo comercial en cuáles de estos eventos conviene tener presencia (stand, charla o solo networking) para captar pymes del interior que todavía no tienen resuelta su logística.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.eventbrite.com.ar/e/ecommerce-go-mendoza-2026-tickets-1997982893619",
+    "linked": [
+      "eCommerce Go Mendoza 2026",
+      "Experiencia Endeavor Rosario 2026",
+      "Cumbre Federal de Logística 2026",
+      "Mercado Libre Experience Argentina 2026"
+    ],
+    "id": "op-5304ba6b",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-04"
+  },
+  {
     "title": "Prepararse para un posible repunte de pedidos de cara al paquete de alivio al consumo previo a octubre",
     "context": "El Gobierno lanzó el 3 de septiembre un paquete de seis medidas (tarifas, bonificación de luz y gas, freno al impuesto a combustibles) para sostener el consumo antes de las elecciones de octubre. Si el alivio de bolsillo se traduce en más pedidos online, los operadores logísticos van a sentirlo primero en volumen de septiembre-octubre.",
     "action": "Monitorear semana a semana el volumen de pedidos de los clientes de Fixy durante septiembre y octubre, anticipar dotación y capacidad de depósito para un eventual pico, y usar esa planificación proactiva como argumento comercial frente a clientes que todavía no ajustaron su previsión de demanda.",
@@ -87,36 +121,6 @@
       "CACE detalló los números del primer semestre: 181,5 millones de órdenes y un ticket promedio que le pierde a la inflación"
     ],
     "id": "op-39b9c0a1",
-    "source_kind": "auto",
-    "last_updated": "2026-08-31",
-    "first_seen": "2026-08-31"
-  },
-  {
-    "title": "Ofrecer ruta alternativa por Buenos Aires a clientes que importan vía Montevideo",
-    "context": "La Terminal Cuenca del Plata de Montevideo volvió a paralizarse por un conflicto gremial no resuelto, ya la sexta interrupción del año, y varias navieras empezaron a redirigir carga hacia Buenos Aires, Rio Grande y Santos para evitar demoras.",
-    "action": "Contactar a los clientes de fulfillment que hoy importan mercadería con transbordo en Montevideo y ofrecerles anticipar o redirigir esos embarques hacia puertos argentinos mientras dure el conflicto, para evitar el sobrecosto de hasta US$1.000 por contenedor.",
-    "type": "comercial",
-    "priority": "informativo",
-    "source_url": "https://www.infobae.com/movant/2026/08/28/el-puerto-de-montevideo-enfrenta-una-nueva-interrupcion-en-su-terminal-de-contenedores/",
-    "linked": [
-      "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo volvió a paralizar la operatoria"
-    ],
-    "id": "op-61175338",
-    "source_kind": "auto",
-    "last_updated": "2026-08-31",
-    "first_seen": "2026-08-31"
-  },
-  {
-    "title": "Sumarse como piloto temprano a las pruebas de delivery autónomo que habilitó la Ciudad de Buenos Aires",
-    "context": "La Ciudad de Buenos Aires autorizó por primera vez pruebas en la vía pública de autos sin conductor y robots de reparto, la primera habilitación de este tipo en el país.",
-    "action": "Evaluar con el equipo de operaciones si Fixy puede sumarse como partner piloto o proveedor logístico de alguna de estas pruebas, para ganar experiencia temprana en la tecnología antes que el resto de los operadores de última milla.",
-    "type": "estratégica",
-    "priority": "informativo",
-    "source_url": "https://www.iprofesional.com/negocios/463009-la-ciudad-abre-la-puerta-al-delivery-con-drones-y-crea-un-nuevo-negocio-para-las-empresas",
-    "linked": [
-      "La Ciudad de Buenos Aires habilita pruebas con autos sin conductor y robots de reparto en la vía pública"
-    ],
-    "id": "op-b6b68c10",
     "source_kind": "auto",
     "last_updated": "2026-08-31",
     "first_seen": "2026-08-31"

@@ -1,5 +1,28 @@
 [
   {
+    "name": "GPT-6 Astra",
+    "vendor": "OpenAI",
+    "what_it_is": "Es el nuevo modelo insignia de ChatGPT: entiende instrucciones complejas de varios pasos, puede operar una computadora por sí mismo y crear documentos, planillas y presentaciones completas a partir de plantillas.",
+    "what_changed": "OpenAI lo lanzó el 3 de septiembre de 2026 como salto generacional respecto a los modelos anteriores, con mejoras marcadas en uso de computadora, investigación web y tareas de varios pasos sin supervisión constante; empezó a llegar a los planes Plus, Pro, Business y Enterprise, y por API.",
+    "fixy_use": "El equipo de marketing o management podría pedirle a ChatGPT que arme el reporte semanal de KPIs logísticos o una presentación para un cliente a partir de una plantilla existente y una planilla de datos, sin tener que armarla manualmente. También sirve para investigar en varios pasos por su cuenta, por ejemplo comparar tarifas de couriers de la competencia navegando varios sitios y devolver un resumen listo.",
+    "verdict": "probar",
+    "verdict_reason": "Si Fixy ya paga ChatGPT Plus o Business, la mejora está incluida y vale la pena probarla en la generación de reportes y presentaciones antes de invertir tiempo armándolos a mano.",
+    "categories": [
+      "Productividad",
+      "Análisis",
+      "Contenido",
+      "Gestión del tiempo"
+    ],
+    "pricing_note": "pago + incluido sin costo adicional en los planes ChatGPT Plus, Pro, Business y Enterprise ya existentes; también disponible por API con tarifa por token.",
+    "source_url": "https://openai.com/index/gpt-6-astra/",
+    "published_date": "2026-09-03",
+    "priority": "alta",
+    "id": "ai-openai-gpt-6-astra",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-04"
+  },
+  {
     "name": "Gemini 3.5 Transcribe",
     "vendor": "Google",
     "what_it_is": "Un modelo de voz a texto de Google DeepMind que transcribe audio en vivo o grabado, reconoce quién habla en una conversación (diarización), agrega marcas de tiempo y limpia automáticamente muletillas y autocorrecciones.",
@@ -156,27 +179,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "name": "Canva AI 2.0",
-    "vendor": "Canva",
-    "what_it_is": "Rediseño de Canva con IA conversacional integrada en el editor: se puede crear y modificar diseños completos chateando con la IA, que ahora recuerda el estilo de marca del usuario.",
-    "what_changed": "Canva lo presentó el 12/8/2026 en su evento Canva Create como la evolución más grande desde 2013: agrega diseño conversacional, una 'Memory Library' que aprende la identidad visual propia, conectores de IA a Slack/Gmail/Drive y aplicación automática de guías de marca. Las funciones nuevas quedan en planes pagos; gratis se mantiene la versión anterior de Canva IA con uso limitado.",
-    "fixy_use": "El equipo de marketing podría pedirle por chat piezas para fechas clave (Día del Niño, CyberMonday, promos de fulfillment) ya con la identidad de marca de Fixy aplicada, sin arrancar cada diseño de cero. También sirve para generar variantes rápidas de un mismo flyer para distintos clientes o campañas sin depender de un diseñador para cada ajuste.",
-    "verdict": "probar",
-    "verdict_reason": "Uso directo y de bajo riesgo para el equipo de marketing, sin curva de aprendizaje técnica.",
-    "categories": [
-      "Marketing",
-      "Contenido"
-    ],
-    "pricing_note": "pago - funciones de Canva AI 2.0 solo en planes pagos; el plan gratuito conserva la IA anterior con uso limitado",
-    "source_url": "https://www.canva.com/newsroom/news/canva-create-2026-ai/",
-    "published_date": "2026-08-12",
-    "priority": "alta",
-    "id": "ai-canva-canva-ai-2-0",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
     "name": "Maia by Make",
     "vendor": "Make",
     "what_it_is": "Una copiloto conversacional integrada dentro del propio editor de escenarios de Make que arma, modifica y depura automatizaciones a partir de instrucciones escritas en lenguaje simple, sin necesidad de arrastrar módulos manualmente.",
@@ -268,6 +270,29 @@
     "first_seen": "2026-09-01"
   },
   {
+    "name": "Canva AI 2.0",
+    "vendor": "Canva",
+    "what_it_is": "Es la suite visual de Canva (documentos, planillas, pizarras, presentaciones y sitios) potenciada por IA, que permite crear y editar contenido con instrucciones en lenguaje natural.",
+    "what_changed": "Entre fines de agosto y el 3 de septiembre de 2026 Canva sumó más de 100 funciones nuevas a esta suite, entre ellas gráficos y tablas generados por IA a partir de datos crudos en Canva Sheets y maquetaciones de página completa con saltos automáticos en Canva Docs, consolidando el salto agéntico que había lanzado como Canva IA 2.0.",
+    "fixy_use": "El equipo de marketing podría pegar en Canva Sheets los números de un reporte de ventas o de envíos y pedirle que arme automáticamente un gráfico o tabla presentable, sin pasar por Excel, y después volcarlo directo a un documento o presentación para un cliente o para management, todo en la misma herramienta que ya usan para piezas gráficas.",
+    "verdict": "probar",
+    "verdict_reason": "Si el equipo ya usa Canva para piezas de marketing, probar Sheets y Docs no suma una herramienta nueva sino que aprovecha mejor la que ya pagan.",
+    "categories": [
+      "Marketing",
+      "Contenido",
+      "Análisis",
+      "Productividad"
+    ],
+    "pricing_note": "freemium + funciones incluidas en los planes pagos de Canva (Pro/Teams); Canva tiene un plan gratuito con funciones de IA limitadas.",
+    "source_url": "https://www.storyboard18.com/brand-makers/canva-rolls-out-100-visual-suite-upgrades-with-ai-charts-full-page-docs-and-auto-notes-109684.htm",
+    "published_date": "2026-09-03",
+    "priority": "relevante",
+    "id": "ai-canva-canva-ai-2-0",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-08-20"
+  },
+  {
     "name": "Instrucciones personalizadas de Gemini en Workspace",
     "vendor": "Google",
     "what_it_is": "Una configuración de Gemini en Google Workspace donde cada persona guarda instrucciones fijas (tono, idioma, formato, preferencias) para que se apliquen siempre, sin repetirlas en cada consulta.",
@@ -288,6 +313,29 @@
     "source_kind": "auto",
     "last_updated": "2026-09-03",
     "first_seen": "2026-09-03"
+  },
+  {
+    "name": "Claude Commerce Agents",
+    "vendor": "Anthropic",
+    "what_it_is": "Es un blueprint de código abierto de Anthropic para construir con Claude dos tipos de agentes: uno de compras, que busca en un catálogo, arma un carrito y lleva al cliente al checkout, y uno de comerciante, que analiza ventas, monitorea stock y sugiere precios o promociones.",
+    "what_changed": "Anthropic lo publicó el 2 de septiembre de 2026 bajo licencia Apache 2.0, con implementaciones de referencia para retail, viajes y telecomunicaciones, buscando que un equipo técnico tenga un agente de este tipo funcionando en días en vez de meses; ya lo están probando Shopify, Visa y Mastercard.",
+    "fixy_use": "Fixy podría usar el patrón de Merchant Agent como base para un agente interno que revise el stock en los depósitos de fulfillment de sus clientes eCommerce y avise automáticamente cuándo conviene reponer, en vez de que un operador chequee planillas a mano. También sirve como argumento comercial para ofrecerles a los clientes de Fixy un checkout asistido por IA sobre la integración que ya tienen.",
+    "verdict": "seguir",
+    "verdict_reason": "Es un patrón técnico pensado para equipos de desarrollo, así que conviene seguirlo y evaluarlo con un proveedor antes de invertir tiempo propio en implementarlo.",
+    "categories": [
+      "Logística",
+      "Operaciones",
+      "Comercial",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado + el blueprint en sí es gratuito (Apache 2.0), pero correrlo consume la API de Claude (Sonnet u Opus) con tarifa por token.",
+    "source_url": "https://claude.com/blog/claude-for-commerce-agents",
+    "published_date": "2026-09-02",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-commerce-agents",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-04"
   },
   {
     "name": "Claude Fable 5.1 y Mythos 5.1",
@@ -874,6 +922,27 @@
     "first_seen": "2026-08-19"
   },
   {
+    "name": "Gemini 3.8 Flash",
+    "vendor": "Google",
+    "what_it_is": "Es la última versión del modelo rápido y económico de Google, pensado para tareas de codificación y flujos de trabajo con agentes que ejecutan varios pasos seguidos sin intervención humana constante.",
+    "what_changed": "Google lo lanzó el 2 de septiembre de 2026, apenas tres semanas después del modelo anterior, con mejoras en razonamiento de varios pasos y una ventana de contexto de un millón de tokens, a un precio bastante menor que los modelos más grandes de OpenAI y Anthropic.",
+    "fixy_use": "Es un modelo para desarrolladores, no una app lista para usar: un técnico o un proveedor de n8n podría usarlo dentro de las automatizaciones de Fixy, por ejemplo para clasificar automáticamente los mensajes de WhatsApp de clientes por urgencia o extraer datos de remitos, a un costo mucho más bajo que con modelos más caros.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora de infraestructura útil para quien construya automatizaciones para Fixy, pero no es algo que el equipo use directamente.",
+    "categories": [
+      "Automatización",
+      "Análisis"
+    ],
+    "pricing_note": "pago + USD 0,75 por millón de tokens de entrada y USD 3,75 de salida (hasta fin de 2026) vía Google AI Studio o Vertex AI.",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "published_date": "2026-09-02",
+    "priority": "informativo",
+    "id": "ai-google-gemini-3-8-flash",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-04"
+  },
+  {
     "name": "Gemini Omni 1.1 Flash",
     "vendor": "Google",
     "what_it_is": "Modelo de Google para generar y editar video con IA a través de la API de Gemini, con extensión de escenas, control por keyframes y salida en resolución de hasta 4K.",
@@ -956,6 +1025,27 @@
     "source_kind": "auto",
     "last_updated": "2026-08-28",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "ElevenAgents: triage de conversaciones",
+    "vendor": "ElevenLabs",
+    "what_it_is": "Es una función de la plataforma de agentes de voz y chat de ElevenLabs que permite revisar automáticamente las conversaciones de un agente de IA, marcar cuando dio una respuesta incorrecta o inventó información, y generar un ticket para que una persona lo corrija.",
+    "what_changed": "El 24 de agosto de 2026 ElevenLabs sacó esta función de beta y la puso disponible de forma general dentro de ElevenAgents, con tipos de ticket predefinidos como 'información incorrecta' o 'acción equivocada' y asignación a miembros del equipo.",
+    "fixy_use": "Si Fixy avanza con un agente de voz o de WhatsApp para responder consultas de estado de envío o turnos de entrega, esta función permite detectar cuándo el agente contestó mal sobre una demora o una dirección y corregirlo antes de que se repita, algo clave para no perder confianza con clientes finales en la última milla.",
+    "verdict": "seguir",
+    "verdict_reason": "Todavía no hay un agente de este tipo en Fixy, pero es una función a tener en cuenta si en algún momento se evalúa un proveedor de agentes de voz para atención al cliente.",
+    "categories": [
+      "Operaciones",
+      "Automatización"
+    ],
+    "pricing_note": "freemium + función incluida en los planes pagos de ElevenAgents; ElevenLabs tiene un nivel gratuito limitado para probar.",
+    "source_url": "https://elevenlabs.io/docs/changelog/2026/8/24",
+    "published_date": "2026-08-24",
+    "priority": "informativo",
+    "id": "ai-elevenlabs-elevenagents-triage-de-conversaciones",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-04"
   },
   {
     "name": "Claude Academy",

@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-03T12:24:44.372Z",
-  "last_updated_ar": "03/09/2026, 09:24",
-  "date": "2026-09-03",
+  "generated_at": "2026-09-04T12:29:03.983Z",
+  "last_updated_ar": "04/09/2026, 09:29",
+  "date": "2026-09-04",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El Gobierno lanzó un paquete de seis medidas para sostener el consumo antes de octubre justo cuando la morosidad bancaria bate récords, un combo que conviene monitorear de cerca para anticipar tanto un eventual repunte de pedidos como la salud financiera real de clientes y transportistas.",
+  "summary_line": "Los costos de última milla dieron una tregua en agosto y un informe de Bain confirmó que 3 de cada 10 compradores argentinos ya compran ayudados por IA, mientras Mercado Libre Experience se acerca el 10 de septiembre como la cita comercial más grande del año.",
   "counters": {
-    "news_today": 2,
-    "news_total": 37,
-    "events_upcoming": 82,
-    "events_ar_upcoming": 47,
+    "news_today": 3,
+    "news_total": 38,
+    "events_upcoming": 81,
+    "events_ar_upcoming": 46,
     "events_intl_upcoming": 35,
     "events_later": 20,
     "opportunities_open": 8,
-    "opportunities_today": 1,
-    "ai_today": 2,
-    "ai_to_try": 29,
-    "content_ideas": 43,
-    "added_news": 2,
-    "updated_news": 0,
-    "added_events": 1,
-    "updated_events": 0,
-    "added_ai": 2,
-    "archived": 1,
+    "opportunities_today": 2,
+    "ai_today": 4,
+    "ai_to_try": 30,
+    "content_ideas": 44,
+    "added_news": 3,
+    "updated_news": 1,
+    "added_events": 0,
+    "updated_events": 12,
+    "added_ai": 4,
+    "archived": 4,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,32 +34,39 @@
   },
   "highlights": [
     {
-      "id": "nw-3dd8b2fcf1",
+      "id": "nw-742b172b99",
       "kind": "news",
-      "title": "El Gobierno lanzó un paquete de seis medidas para sostener el consumo antes de octubre",
+      "title": "La suba de costos de última milla y correo se moderó en agosto, la más baja desde febrero",
       "priority": "alta",
-      "one_liner": "Es la apuesta oficial más concreta del año para reactivar el consumo antes de octubre, y un posible driver de pedidos que Fixy debería monitorear de cerca."
-    },
-    {
-      "id": "nw-09b2af69a7",
-      "kind": "news",
-      "title": "Los bancos ya dieron de baja 143.000 créditos irrecuperables por $4,4 billones",
-      "priority": "relevante",
-      "one_liner": "Confirma que el estrés financiero de familias y empresas se profundiza más allá de las fintech, con impacto directo en el acceso a cuotas que sostiene el ticket del eCommerce."
-    },
-    {
-      "id": "ai-anthropic-claude-fable-5-1-y-mythos-5-1",
-      "kind": "ai",
-      "title": "Claude Fable 5.1 y Mythos 5.1",
-      "priority": "relevante",
-      "one_liner": "El modelo que ya usa el equipo de Fixy mejora automáticamente y baja de costo, sin que haga falta activar nada."
+      "one_liner": "Es la primera señal del año de que la presión de combustibles, mano de obra y peajes sobre el reparto urbano podría estar cediendo, algo que Fixy debería monitorear antes de ajustar tarifas."
     },
     {
       "id": "ev-argentina-experience-libre-mercado-2026",
       "kind": "event",
       "title": "Mercado Libre Experience Argentina 2026",
+      "priority": "alta",
+      "one_liner": "El 10 de septiembre en La Rural es la mejor oportunidad comercial del año para conectar con vendedores y marcas que necesitan fulfillment y última milla."
+    },
+    {
+      "id": "nw-4975f8b2e9",
+      "kind": "news",
+      "title": "Un informe de Bain & Company muestra que 3 de cada 10 compradores argentinos ya usan IA para comprar online",
       "priority": "relevante",
-      "one_liner": "El 10 de septiembre concentra en un día a sellers y pymes de Mercado Libre que buscan resolver logística: una oportunidad directa de escuchar demanda real de clientes potenciales."
+      "one_liner": "Confirma con un número concreto que las tiendas van a necesitar que su información de envío sea legible por agentes de IA, no solo por personas."
+    },
+    {
+      "id": "ai-openai-gpt-6-astra",
+      "kind": "ai",
+      "title": "GPT-6 Astra",
+      "priority": "alta",
+      "one_liner": "El nuevo modelo insignia de OpenAI puede armar reportes y comparar tarifas de couriers navegando solo varios sitios, algo que el equipo chico de Fixy puede aprovechar directamente."
+    },
+    {
+      "id": "nw-cfa3858ebb",
+      "kind": "news",
+      "title": "El BCRA habilita el débito automático de cuotas de préstamos desde cuentas bancarias y billeteras",
+      "priority": "relevante",
+      "one_liner": "La normativa ya está en vigencia y reabre el debate sobre sobreendeudamiento justo en un contexto de mora récord que puede afectar a clientes y transportistas de Fixy."
     }
   ]
 }
