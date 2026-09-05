@@ -92,29 +92,6 @@
     "updated_flag": true
   },
   {
-    "title": "VTEX reporta demanda más débil en Argentina y desacelera su guía de GMV para el segundo semestre",
-    "what_happened": "En su call del Q2 2026 (14 de agosto), VTEX informó GMV de US$5.700 millones (+7% FX-neutral) e ingresos por suscripción de US$63,8 millones. La compañía revisó a la baja su guía de GMV para el segundo semestre y mencionó explícitamente demanda del consumidor más débil y ciclos de decisión empresarial más largos en Argentina.",
-    "why_it_matters": "Es una lectura de mercado independiente y verificable: los grandes retailers argentinos están estirando decisiones de inversión tecnológica, no solo recortando consumo.",
-    "fixy_impact": "Señal para el ciclo comercial: esperar procesos de venta más largos con cuentas enterprise y priorizar propuestas con retorno inmediato y bajo costo de implementación.",
-    "category": "Tecnología",
-    "geo": "LATAM",
-    "source_name": "The Motley Fool",
-    "source_url": "https://www.fool.com/earnings/call-transcripts/2026/08/14/vtex-vtex-q2-2026-earnings-call-transcript/",
-    "published_date": "2026-08-14",
-    "priority": "relevante",
-    "tags": [
-      "VTEX",
-      "GMV",
-      "Argentina",
-      "ciclo de ventas",
-      "retail tech"
-    ],
-    "id": "nw-d80d3b40d9",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
     "title": "Rosario estrenó Exportlog, su primera expo de puertos y logística del Litoral",
     "what_happened": "Los días 19 y 20 de agosto se realizó en la Terminal Fluvial de Rosario la primera edición de Exportlog, exposición integral de puertos, logística y transporte fluvio-marítimo del Litoral argentino, con 46 stands confirmados y más de 80 oradores en rondas de negocios y paneles. El evento fue organizado por el Instituto de Desarrollo Regional (IDR) y GlobalPorts, con apoyo del Gobierno de Santa Fe y la Municipalidad de Rosario, en un contexto de récord de exportaciones agroindustriales (40 millones de toneladas embarcadas entre enero y abril de 2026, +11% sobre el registro histórico previo).",
     "why_it_matters": "Consolida a Rosario y a la hidrovía Paraná-Paraguay como un nuevo polo ferial propio para discutir competitividad logística y de comercio exterior del Centro y el Litoral, un rol que hasta ahora se concentraba casi exclusivamente en Buenos Aires.",
@@ -876,5 +853,97 @@
     "source_kind": "auto",
     "last_updated": "2026-09-04",
     "first_seen": "2026-09-04"
+  },
+  {
+    "title": "El BCRA le pidió a los bancos que reconozcan pérdidas para bajar la mora récord de las familias",
+    "what_happened": "El vicepresidente del BCRA, Vladimir Werning, dijo en la 47ª Convención Anual del IAEF en Puerto Iguazú que la mora de los hogares argentinos, que ronda el 7,7%, está llegando o ya llegó a su techo. Pidió a los bancos que 'reconozcan pérdidas' y refinancien deudas con tasas más bajas y plazos más largos, en lugar de esperar una intervención del Estado. Según estimaciones privadas, la refinanciación de deudas ya alcanzó un récord de $2,6 billones en julio.",
+    "why_it_matters": "Es la primera señal pública de que el Banco Central ve la crisis de mora como un problema que deben resolver bancos y fintech por su cuenta, no vía regulación, lo que anticipa más presión sobre las condiciones de crédito al consumo en los próximos meses.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "La Nación",
+    "source_url": "https://www.lanacion.com.ar/economia/una-perdida-es-una-perdida-el-banco-central-hablo-de-la-mora-y-apunto-contras-las-altas-tasas-de-nid03092026/",
+    "published_date": "2026-09-03",
+    "priority": "relevante",
+    "tags": [
+      "mora",
+      "BCRA",
+      "fintech",
+      "créditos",
+      "consumo"
+    ],
+    "id": "nw-9656cefff7",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "title": "El ex ingeniero jefe de Mobileye respaldó el plan de Buenos Aires para probar autos autónomos",
+    "what_happened": "Mois Navon, ex jefe de ingeniería de Mobileye (adquirida por Intel en 2017 por US$15.300 millones y líder global del segmento con 80% de mercado), se reunió con el jefe de Gobierno porteño Jorge Macri para analizar el régimen de pruebas de vehículos autónomos y robots de reparto que la Ciudad habilitó en agosto. Navon evaluó positivamente la infraestructura vial de Buenos Aires y dijo que la ciudad 'está bien preparada' para convivir con autos autónomos. Todavía no se conocen las empresas que participarán de las pruebas ni una fecha de inicio.",
+    "why_it_matters": "El respaldo de un referente global de la industria le da tracción concreta a la iniciativa regulatoria porteña y acerca la posibilidad de pilotos reales de vehículos y robots de reparto autónomos en la vía pública.",
+    "fixy_impact": "Vale la pena seguir de cerca qué empresas terminan sumándose a las pruebas: un régimen habilitado para robots de reparto en CABA podría abrir en el mediano plazo una alternativa tecnológica para la última milla urbana.",
+    "category": "Tecnología",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/sociedad/2026/09/03/buenos-aires-da-sus-primeros-pasos-hacia-los-autos-autonomos-con-el-respaldo-de-un-pionero-global-del-sector/",
+    "published_date": "2026-09-03",
+    "priority": "informativo",
+    "tags": [
+      "autos autónomos",
+      "última milla",
+      "robots de reparto",
+      "CABA",
+      "innovación"
+    ],
+    "id": "nw-6355d2c5e2",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "title": "Andreani suma 20 bitrenes a su flota para transporte de larga distancia",
+    "what_happened": "Andreani incorporó a su flota 20 bitrenes para transporte de larga distancia, con una inversión inicial de US$2 millones; 11 unidades ya están operativas y el resto se sumará progresivamente. Cada bitrén puede transportar hasta 60% más carga que un camión tradicional en un mismo viaje. La empresa enmarca la medida en una estrategia de eficiencia y sostenibilidad para sus operaciones de larga distancia a nivel nacional.",
+    "why_it_matters": "Menos vehículos y kilómetros recorridos por tonelada transportada implican menor consumo de combustible y costos logísticos más bajos, algo clave en un contexto de presión de costos sobre toda la cadena de distribución.",
+    "fixy_impact": "Es una referencia útil para evaluar la eficiencia de los propios tramos interprovinciales de larga distancia: consolidar carga en unidades de mayor capacidad puede ser una palanca concreta para bajar el costo por envío en rutas de alto volumen.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Revista Mercado",
+    "source_url": "https://mercado.com.ar/movilidad/andreani-suma-20-bitrenes-a-su-flota-y-destina-us-2-millones",
+    "published_date": "2026-09-04",
+    "priority": "relevante",
+    "tags": [
+      "Andreani",
+      "bitrenes",
+      "transporte de carga",
+      "eficiencia",
+      "costos logísticos"
+    ],
+    "id": "nw-66d81abce5",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "title": "Andreani convirtió a Córdoba en su hub logístico del interior con más de 20.000 pymes",
+    "what_happened": "Grupo Logístico Andreani consolidó a Córdoba como hub logístico del interior: ya trabaja con más de 20.000 pymes y emprendedores de la provincia, con un crecimiento del 45% en la cantidad de envíos del segmento pyme durante el último año. La planta cordobesa, de 10.000 m², cuenta con un sorter automatizado capaz de clasificar hasta 96.000 paquetes por día. Los rubros que más usan la plataforma son indumentaria y marroquinería, cosmética, tecnología y alimentos, y venden principalmente por tienda online, WhatsApp e Instagram.",
+    "why_it_matters": "Confirma que el crecimiento del ecommerce en el interior del país ya no es marginal: las pymes y emprendedores fuera del AMBA se están convirtiendo en un motor de volumen tan relevante como el propio AMBA para los operadores logísticos.",
+    "fixy_impact": "Es una señal de oportunidad concreta: si el segmento pyme del interior crece a este ritmo, reforzar presencia y capacidad de fulfillment fuera del AMBA (empezando por polos como Córdoba) puede ser un diferencial frente a competidores que ya están invirtiendo ahí.",
+    "category": "Fulfillment",
+    "geo": "Argentina",
+    "source_name": "Perfil",
+    "source_url": "https://www.perfil.com/noticias/cordoba/andreani-convirtio-a-cordoba-en-el-hub-logistico-del-interior-y-ya-trabaja-con-mas-de-20000-pymes.phtml",
+    "published_date": "2026-09-04",
+    "priority": "relevante",
+    "tags": [
+      "Andreani",
+      "Córdoba",
+      "pymes",
+      "hub logístico",
+      "ecommerce interior"
+    ],
+    "id": "nw-ddf678f69a",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
   }
 ]

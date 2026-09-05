@@ -662,5 +662,35 @@
     "source_kind": "auto",
     "last_updated": "2026-09-04",
     "first_seen": "2026-09-04"
+  },
+  {
+    "topic": "La carrera de los bitrenes: qué le queda al resto de la logística cuando el líder apuesta a menos viajes y más carga",
+    "why_now": "Andreani invirtió US$2 millones en bitrenes la misma semana que consolidó su hub cordobés, mostrando que la escala y el costo por tonelada ya son un tema competitivo concreto y no una promesa a futuro.",
+    "fixy_angle": "Fixy puede mostrar qué palancas tiene un operador mediano para competir en eficiencia sin la escala de un jugador como Andreani: ruteo, consolidación de cargas y conocimiento fino del interior.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://mercado.com.ar/movilidad/andreani-suma-20-bitrenes-a-su-flota-y-destina-us-2-millones",
+    "id": "ct-eaea7f68",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "topic": "Cuando el Banco Central le dice a los bancos 'la pérdida es tuya': qué cambia para el crédito de las pymes logísticas",
+    "why_now": "El BCRA marcó una postura pública inédita al pedirles a los bancos que asuman las pérdidas de la mora récord en vez de esperar una salida regulatoria, justo cuando el sistema financiero atraviesa su peor nivel de morosidad del año.",
+    "fixy_angle": "Las pymes logísticas dependen del crédito bancario para invertir en flota y tecnología; esta señal anticipa condiciones de crédito más duras justo cuando el sector necesita financiar eficiencia, como muestra la apuesta de Andreani a los bitrenes.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.lanacion.com.ar/economia/una-perdida-es-una-perdida-el-banco-central-hablo-de-la-mora-y-apunto-contras-las-altas-tasas-de-nid03092026/",
+    "id": "ct-3b1c394c",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
   }
 ]

@@ -105,5 +105,21 @@
     "source_kind": "auto",
     "last_updated": "2026-08-31",
     "first_seen": "2026-08-31"
+  },
+  {
+    "title": "Revisar tarifas de reparto ante la suba de peajes y transporte de septiembre",
+    "context": "Desde septiembre suben los peajes de acceso a CABA (+4%), los colectivos porteños y bonaerenses (+4,1%/+4,3%) y los trenes del AMBA (hasta 14,29%), justo cuando el último informe de CACE muestra que las órdenes de eCommerce crecen mucho más rápido (+21%) que el ticket promedio (+5%): hay más operaciones logísticas por cada peso facturado.",
+    "action": "Recalcular el costo operativo por entrega en las rutas con más uso de autopistas de peaje del AMBA y ajustar tarifas o mínimos de facturación a los clientes antes de que el aumento de septiembre erosione el margen de octubre.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/08/28/uno-por-uno-los-aumentos-que-llegan-en-septiembre-transporte-prepagas-colegios-y-tarifas/",
+    "linked": [
+      "Peajes, trenes y colectivos del AMBA suben en septiembre y presionan el costo de la última milla",
+      "CACE detalló los números del primer semestre: 181,5 millones de órdenes y un ticket promedio que le pierde a la inflación"
+    ],
+    "id": "op-39b9c0a1",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-31"
   }
 ]

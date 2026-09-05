@@ -429,6 +429,29 @@
     "first_seen": "2026-09-02"
   },
   {
+    "name": "Slackbot: Big Mode, Deep Research y Skill Sets",
+    "vendor": "Slack (Salesforce)",
+    "what_it_is": "Es un paquete de nuevas funciones para el asistente de IA de Slack: Big Mode abre un espacio de pantalla completa para investigar y redactar textos largos, Deep Research busca en los datos internos del equipo y en la web y arma un informe con fuentes citadas, y Skill Sets permite agrupar hasta 25 'habilidades' (prompts reutilizables) y compartirlas con todo el equipo en un solo clic.",
+    "what_changed": "Slack lo lanzó el 28 de agosto de 2026, la actualización más grande de Slackbot desde que Salesforce compró la empresa.",
+    "fixy_use": "Si el equipo de Fixy coordina trabajo por Slack, Deep Research sirve para armar rápido un informe con fuentes sobre, por ejemplo, tarifas de la competencia en última milla o cambios normativos de transporte. Skill Sets permite que comercial y atención al cliente compartan de una vez las mismas plantillas de respuesta o reportes armados por management, en vez de configurar lo mismo persona por persona.",
+    "verdict": "probar",
+    "verdict_reason": "Si el equipo ya usa Slack, cuesta poco probarlo y ataca un problema real: reportes armados a mano y conocimiento disperso entre personas.",
+    "categories": [
+      "Organización",
+      "Productividad",
+      "Gestión del tiempo",
+      "Automatización"
+    ],
+    "pricing_note": "freemium: incluido según el plan pago de Slack, alcance exacto por plan no confirmado",
+    "source_url": "https://slack.com/blog/news/slackbot-ai-workspace-for-deep-work",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "id": "ai-slack-salesforce-slackbot-big-mode-deep-research-y-skill-set",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
+  },
+  {
     "name": "Claude Cowork: navegador integrado sin extensión",
     "vendor": "Anthropic",
     "what_it_is": "Un navegador tipo Chrome incorporado directamente en la app de escritorio de Claude Cowork, que se abre en un panel lateral para que Claude navegue páginas web, lea contenido, haga clic y complete formularios sin depender de una extensión de Chrome instalada por separado.",
@@ -941,6 +964,71 @@
     "source_kind": "auto",
     "last_updated": "2026-09-04",
     "first_seen": "2026-09-04"
+  },
+  {
+    "name": "Gemini 3.8 Flash y Gemini 3.8 Flash Cyber",
+    "vendor": "Google",
+    "what_it_is": "Es la nueva versión del modelo liviano y rápido de Gemini, pensado para tareas de código, razonamiento y automatizaciones con agentes a bajo costo. La variante Cyber es una versión especializada en encontrar y parchear vulnerabilidades de seguridad en software.",
+    "what_changed": "Google lo lanzó el 2 de septiembre de 2026, apenas tres semanas después de la versión anterior (3.7 Flash), con mejor rendimiento al mismo precio por token; la variante Cyber por ahora solo se entrega a testers de confianza vía un programa nuevo llamado Fairwind.",
+    "fixy_use": "Si en Fixy se arman automatizaciones propias (por ejemplo con n8n, Make o Google AI Studio) que llaman a la API de Gemini para clasificar mails de clientes, extraer datos de remitos o redactar respuestas automáticas, este modelo baja el costo y la latencia de esos procesos sin que haya que tocar nada del lado de la integración. No es algo que use directo comercial o atención al cliente, sino el área que arma o mantiene esas automatizaciones internas.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora de motor real, pero solo aporta valor concreto si Fixy ya construye o piensa construir automatizaciones propias sobre la API de Gemini.",
+    "categories": [
+      "Automatización",
+      "Análisis",
+      "Operaciones"
+    ],
+    "pricing_note": "pago: uso por API, mismo precio por token que la versión anterior según Google (Cyber no tiene precio público, acceso restringido)",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "published_date": "2026-09-02",
+    "priority": "informativo",
+    "id": "ai-google-gemini-3-8-flash-y-gemini-3-8-flash-cyber",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "name": "Enterprise Frontier Safeguards (EFS)",
+    "vendor": "Anthropic",
+    "what_it_is": "Es un esquema de privacidad y seguridad para cuentas empresariales de Claude que combina la política de 'cero retención de datos' con controles automáticos para detectar uso indebido, guardando esa información de actividad en infraestructura controlada por el propio cliente y no por Anthropic.",
+    "what_changed": "Anthropic lo anunció el 1° de septiembre de 2026, tras trabajar más de un año con más de 100 clientes de sectores regulados (bancos, salud, telecom, retail); el despliegue es gradual y arranca este otoño boreal, es decir hacia fin de 2026.",
+    "fixy_use": "Si Fixy en algún momento procesa datos sensibles de clientes de eCommerce (direcciones, DNI, historial de compra) con Claude a nivel empresarial para atención al cliente o análisis interno, este esquema da más garantías de que esos datos no terminan en manos de Anthropic. Hoy es un anuncio pensado para cuentas grandes y todavía no está disponible de forma amplia, pero vale tenerlo en el radar para cuando Fixy escale el uso de IA con datos de clientes.",
+    "verdict": "seguir",
+    "verdict_reason": "Es relevante para el día en que Fixy maneje datos sensibles de clientes en Claude a nivel empresarial, pero el despliegue recién empieza y no es accionable hoy.",
+    "categories": [
+      "Management",
+      "Operaciones"
+    ],
+    "pricing_note": "no confirmado: es una función del plan Enterprise de Claude, sin precio público",
+    "source_url": "https://www.cnbc.com/2026/09/01/anthropic-data-retention.html",
+    "published_date": "2026-09-01",
+    "priority": "informativo",
+    "id": "ai-anthropic-enterprise-frontier-safeguards-efs",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "name": "Copilot Notebooks: rediseño y sincronización con OneNote",
+    "vendor": "Microsoft",
+    "what_it_is": "Los 'Notebooks' de Microsoft 365 Copilot son espacios donde la IA organiza notas, resume reuniones y mails, y arma resúmenes de un proyecto o cliente. Ahora tienen una vista rediseñada con puntos clave más claros y accesos directos para generar documentos, tablas o presentaciones con un clic, y se sincronizan por primera vez con OneNote en Mac.",
+    "what_changed": "El despliegue mundial de esta actualización fue entre fines de agosto y principios de septiembre de 2026.",
+    "fixy_use": "Management u operaciones podrían armar un Notebook por cliente clave o por proceso recurrente (por ejemplo, incidencias de última milla con un marketplace puntual), donde Copilot vaya sumando resúmenes de reuniones y mails, y después generar con un clic un resumen para pasar a atención al cliente o al mismo cliente. Requiere licencia de Microsoft 365 Copilot, que hoy no está confirmado que Fixy tenga contratada.",
+    "verdict": "seguir",
+    "verdict_reason": "Es útil solo si Fixy paga licencias de Microsoft 365 Copilot; si no las tiene, todavía no aplica.",
+    "categories": [
+      "Organización",
+      "Productividad",
+      "Gestión del tiempo"
+    ],
+    "pricing_note": "pago: requiere licencia de Microsoft 365 Copilot",
+    "source_url": "https://windowsreport.com/microsoft-expands-copilot-notebooks-with-onenote-sync-and-ai-spreadsheets/",
+    "published_date": "2026-09-01",
+    "priority": "informativo",
+    "id": "ai-microsoft-copilot-notebooks-rediseno-y-sincronizacion-con-on",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
   },
   {
     "name": "Gemini Omni 1.1 Flash",

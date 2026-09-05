@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-09-04T12:29:03.983Z",
-  "last_updated_ar": "04/09/2026, 09:29",
-  "date": "2026-09-04",
+  "generated_at": "2026-09-05T12:19:47.685Z",
+  "last_updated_ar": "05/09/2026, 09:19",
+  "date": "2026-09-05",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Los costos de última milla dieron una tregua en agosto y un informe de Bain confirmó que 3 de cada 10 compradores argentinos ya compran ayudados por IA, mientras Mercado Libre Experience se acerca el 10 de septiembre como la cita comercial más grande del año.",
+  "summary_line": "Andreani aceleró su avance sobre el interior con una inversión en bitrenes y un hub cordobés de más de 20.000 pymes, el BCRA le exigió a los bancos asumir la mora en vez de esperar al Estado, y Mercado Libre Experience Argentina llega en cinco días como la cita comercial más grande del año.",
   "counters": {
-    "news_today": 3,
-    "news_total": 38,
-    "events_upcoming": 81,
-    "events_ar_upcoming": 46,
+    "news_today": 4,
+    "news_total": 41,
+    "events_upcoming": 80,
+    "events_ar_upcoming": 45,
     "events_intl_upcoming": 35,
-    "events_later": 20,
+    "events_later": 21,
     "opportunities_open": 8,
-    "opportunities_today": 2,
+    "opportunities_today": 1,
     "ai_today": 4,
-    "ai_to_try": 30,
-    "content_ideas": 44,
-    "added_news": 3,
-    "updated_news": 1,
-    "added_events": 0,
-    "updated_events": 12,
+    "ai_to_try": 31,
+    "content_ideas": 46,
+    "added_news": 4,
+    "updated_news": 0,
+    "added_events": 3,
+    "updated_events": 13,
     "added_ai": 4,
-    "archived": 4,
+    "archived": 2,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-business-fe-forum-santa-2026",
-    "name": "Santa Fe Business Forum 2026",
-    "date_start": "2026-08-31",
-    "city": "Rosario",
-    "days_away": 0
+    "id": "ev-argentina-franquicias-2026",
+    "name": "Expo Franquicias Argentina 2026",
+    "date_start": "2026-09-09",
+    "city": "CABA",
+    "days_away": 4
   },
   "highlights": [
     {
-      "id": "nw-742b172b99",
+      "id": "nw-ddf678f69a",
       "kind": "news",
-      "title": "La suba de costos de última milla y correo se moderó en agosto, la más baja desde febrero",
+      "title": "Andreani convirtió a Córdoba en su hub logístico del interior con más de 20.000 pymes",
       "priority": "alta",
-      "one_liner": "Es la primera señal del año de que la presión de combustibles, mano de obra y peajes sobre el reparto urbano podría estar cediendo, algo que Fixy debería monitorear antes de ajustar tarifas."
+      "one_liner": "Confirma que el operador logístico más grande del país ya convirtió al interior en un frente de batalla comercial concreto, con volumen medible de pymes."
     },
     {
       "id": "ev-argentina-experience-libre-mercado-2026",
       "kind": "event",
       "title": "Mercado Libre Experience Argentina 2026",
       "priority": "alta",
-      "one_liner": "El 10 de septiembre en La Rural es la mejor oportunidad comercial del año para conectar con vendedores y marcas que necesitan fulfillment y última milla."
+      "one_liner": "Es en cinco días y sigue siendo la vidriera comercial más grande del año para conectar con vendedores que necesitan fulfillment y última milla."
     },
     {
-      "id": "nw-4975f8b2e9",
+      "id": "nw-66d81abce5",
       "kind": "news",
-      "title": "Un informe de Bain & Company muestra que 3 de cada 10 compradores argentinos ya usan IA para comprar online",
+      "title": "Andreani suma 20 bitrenes a su flota para transporte de larga distancia",
       "priority": "relevante",
-      "one_liner": "Confirma con un número concreto que las tiendas van a necesitar que su información de envío sea legible por agentes de IA, no solo por personas."
+      "one_liner": "Muestra que el líder del sector ya está invirtiendo en bajar su costo por tonelada, algo que sube la vara de la eficiencia esperada por los clientes."
     },
     {
-      "id": "ai-openai-gpt-6-astra",
-      "kind": "ai",
-      "title": "GPT-6 Astra",
-      "priority": "alta",
-      "one_liner": "El nuevo modelo insignia de OpenAI puede armar reportes y comparar tarifas de couriers navegando solo varios sitios, algo que el equipo chico de Fixy puede aprovechar directamente."
-    },
-    {
-      "id": "nw-cfa3858ebb",
+      "id": "nw-9656cefff7",
       "kind": "news",
-      "title": "El BCRA habilita el débito automático de cuotas de préstamos desde cuentas bancarias y billeteras",
+      "title": "El BCRA le pidió a los bancos que reconozcan pérdidas para bajar la mora récord de las familias",
       "priority": "relevante",
-      "one_liner": "La normativa ya está en vigencia y reabre el debate sobre sobreendeudamiento justo en un contexto de mora récord que puede afectar a clientes y transportistas de Fixy."
+      "one_liner": "Anticipa condiciones de crédito más duras para pymes justo cuando el sector logístico necesita financiar inversiones en eficiencia."
+    },
+    {
+      "id": "op-e80e106f",
+      "kind": "opportunity",
+      "title": "Adelantarse a la consolidación de Andreani en el interior antes de que cierre exclusividades comerciales",
+      "priority": "relevante",
+      "one_liner": "La acción concreta que se desprende de la doble apuesta de Andreani al interior y a la escala en larga distancia."
     }
   ]
 }

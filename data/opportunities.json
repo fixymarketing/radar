@@ -1,5 +1,23 @@
 [
   {
+    "title": "Adelantarse a la consolidación de Andreani en el interior antes de que cierre exclusividades comerciales",
+    "context": "Andreani invirtió US$2 millones en 20 bitrenes para bajar su costo por tonelada en larga distancia y, en la misma semana, confirmó que Córdoba ya es su hub logístico del interior, con más de 20.000 pymes trabajando ahí y un salto del 45% en envíos pyme. Es la señal más concreta hasta ahora de que el jugador más grande del sector está priorizando el interior como frente de crecimiento.",
+    "action": "Mapear cuentas pyme de Córdoba, Rosario, NOA y Cuyo y usar los eventos confirmados de septiembre (Experiencia Endeavor NOA, Rosario y Cuyo, DescentralizAR en Tucumán) para cerrar acuerdos comerciales propios antes de que Andreani consolide relaciones exclusivas en esas plazas.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.perfil.com/noticias/cordoba/andreani-convirtio-a-cordoba-en-el-hub-logistico-del-interior-y-ya-trabaja-con-mas-de-20000-pymes.phtml",
+    "linked": [
+      "Andreani convirtió a Córdoba en su hub logístico del interior con más de 20.000 pymes",
+      "Andreani suma 20 bitrenes a su flota para transporte de larga distancia",
+      "Experiencia Endeavor NOA 2026",
+      "Experiencia Endeavor Rosario 2026"
+    ],
+    "id": "op-e80e106f",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
+  },
+  {
     "title": "Preparar la ficha de envíos de Fixy para que la lean agentes de compra con IA",
     "context": "Un informe de Bain & Company confirmó que 3 de cada 10 compradores argentinos ya usan asistentes de IA para elegir dónde comprar, justo cuando OpenAI lanzó GPT-6 Astra con capacidad de navegar solo varios sitios y comparar datos. Las marcas van a necesitar que el costo, el plazo y la cobertura de envío de sus proveedores logísticos sean legibles de forma automática, no solo para personas.",
     "action": "Armar una ficha o feed estandarizado (costo, plazo de entrega, cobertura por código postal) de los servicios de Fixy, fácil de citar o consultar por un agente de IA, y ofrecerlo como diferencial a clientes que venden con checkout asistido por IA.",
@@ -108,21 +126,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-01",
     "first_seen": "2026-09-01"
-  },
-  {
-    "title": "Revisar tarifas de reparto ante la suba de peajes y transporte de septiembre",
-    "context": "Desde septiembre suben los peajes de acceso a CABA (+4%), los colectivos porteños y bonaerenses (+4,1%/+4,3%) y los trenes del AMBA (hasta 14,29%), justo cuando el último informe de CACE muestra que las órdenes de eCommerce crecen mucho más rápido (+21%) que el ticket promedio (+5%): hay más operaciones logísticas por cada peso facturado.",
-    "action": "Recalcular el costo operativo por entrega en las rutas con más uso de autopistas de peaje del AMBA y ajustar tarifas o mínimos de facturación a los clientes antes de que el aumento de septiembre erosione el margen de octubre.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/economia/2026/08/28/uno-por-uno-los-aumentos-que-llegan-en-septiembre-transporte-prepagas-colegios-y-tarifas/",
-    "linked": [
-      "Peajes, trenes y colectivos del AMBA suben en septiembre y presionan el costo de la última milla",
-      "CACE detalló los números del primer semestre: 181,5 millones de órdenes y un ticket promedio que le pierde a la inflación"
-    ],
-    "id": "op-39b9c0a1",
-    "source_kind": "auto",
-    "last_updated": "2026-08-31",
-    "first_seen": "2026-08-31"
   }
 ]
