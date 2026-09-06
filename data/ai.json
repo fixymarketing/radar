@@ -293,6 +293,28 @@
     "first_seen": "2026-08-20"
   },
   {
+    "name": "ChatGPT Sites: compartir un sitio en vivo con gente de afuera del workspace",
+    "vendor": "OpenAI",
+    "what_it_is": "Una opción para cuentas de ChatGPT Business y Enterprise que permite invitar a personas puntuales, ajenas al workspace, a ver un Site (una web o app armada dentro de ChatGPT) ya publicado, sin hacerlo público y sin darles acceso a editarlo ni a la cuenta de la empresa.",
+    "what_changed": "Se habilitó el 3 de septiembre de 2026 junto con el lanzamiento de GPT-6 Astra: antes, compartir un Site fuera del workspace implicaba hacerlo público o sumar a esa persona como miembro.",
+    "fixy_use": "Permite armar una mini-herramienta en ChatGPT (por ejemplo, un cotizador de envíos, un formulario de seguimiento o un tablero simple) y compartírsela solo a la cuenta de un cliente puntual por mail, sin exponerla al público ni pagarle un asiento del workspace.",
+    "verdict": "probar",
+    "verdict_reason": "No tiene costo adicional dentro del plan Business/Enterprise y resuelve un caso concreto: compartir una herramienta interna con un cliente sin exponerla.",
+    "categories": [
+      "Comercial",
+      "Productividad",
+      "Automatización"
+    ],
+    "pricing_note": "Incluido en los planes ChatGPT Business y Enterprise elegibles, sin costo adicional.",
+    "source_url": "https://openai.com/products/release-notes/",
+    "published_date": "2026-09-03",
+    "priority": "relevante",
+    "id": "ai-openai-chatgpt-sites-compartir-un-sitio-en-vivo-con-gente-de",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
+  },
+  {
     "name": "Instrucciones personalizadas de Gemini en Workspace",
     "vendor": "Google",
     "what_it_is": "Una configuración de Gemini en Google Workspace donde cada persona guarda instrucciones fijas (tono, idioma, formato, preferencias) para que se apliquen siempre, sin repetirlas en cada consulta.",
@@ -359,6 +381,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-03",
     "first_seen": "2026-09-03"
+  },
+  {
+    "name": "Gemini: comprensión agéntica de video (Agentic Video Understanding)",
+    "vendor": "Google",
+    "what_it_is": "Un modo de análisis de video en la API de Gemini que, en vez de procesar el video cuadro por cuadro a velocidad fija, deja que el modelo busque, escanee e inspeccione de forma dinámica los segmentos de video, audio y transcripciones que necesita para responder una consulta.",
+    "what_changed": "Google lo lanzó el 1 de septiembre de 2026 para Gemini 3.7 Flash, 3.6 Flash y 3.5 Flash-Lite, disponible vía API en Google AI Studio y en Gemini Enterprise Agent Platform, con hasta 88% menos tokens consumidos y mejor precisión que el modo estático anterior.",
+    "fixy_use": "Sirve para analizar videos largos de cámaras de depósito o de última milla (por ejemplo, encontrar el momento exacto de un faltante o un daño en un pallet) sin mirar la grabación entera ni pagar el costo de procesar cada cuadro. También permite auditar videos de capacitación de repartidores o revisar pruebas de entrega en video de forma más barata y rápida.",
+    "verdict": "probar",
+    "verdict_reason": "Baja fricción, ya que es una opción dentro de la API de Gemini, y ataca un costo real: revisar horas de video de depósito o última milla.",
+    "categories": [
+      "Operaciones",
+      "Logística",
+      "Análisis"
+    ],
+    "pricing_note": "Freemium: es una función de la API de Gemini en preview, sin costo adicional propio más allá del uso normal de tokens.",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+    "published_date": "2026-09-01",
+    "priority": "relevante",
+    "id": "ai-google-gemini-comprension-agentica-de-video-agentic-video-un",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
   },
   {
     "name": "Meta Business Agent: cobro por tokens en WhatsApp",
@@ -943,6 +987,48 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "WhatsApp: agentes de IA de terceros como contacto (beta)",
+    "vendor": "Meta / WhatsApp",
+    "what_it_is": "Una sección nueva en la configuración de WhatsApp donde cada usuario puede conectar hasta 5 agentes de IA externos (de OpenAI, Google, Anthropic u otros proveedores) que aparecen en la lista de chats como un contacto más, con nombre y foto propios.",
+    "what_changed": "Empezó a probarse el 5 de septiembre de 2026 en la beta de Android (2.26.35.3), para un grupo chico de usuarios en algunos países. Aparece como respuesta técnica de Meta a una orden de la Comisión Europea de junio de 2026 que la obligó a abrir el acceso a agentes de IA de terceros.",
+    "fixy_use": "Todavía es una beta muy acotada y no reemplaza la API de WhatsApp Business que ya usa Fixy para atención al cliente, pero conviene seguirlo: si se abre a cuentas de empresa, sería una vía para que un cliente sume el agente de soporte de Fixy como contacto fijo en su WhatsApp, en vez de un bot dentro del chat comercial.",
+    "verdict": "seguir",
+    "verdict_reason": "Está en beta muy limitada (solo Android, pocos usuarios) y todavía no está claro cómo aplicaría a cuentas de empresa.",
+    "categories": [
+      "Automatización",
+      "Comercial"
+    ],
+    "pricing_note": "No confirmado: es una beta cerrada, sin información de precio ni de disponibilidad para cuentas de empresa.",
+    "source_url": "https://www.androidsis.com/whatsapp-da-el-salto-a-los-agentes-de-ia-de-terceros-asi-funcionara-la-nueva-integracion/",
+    "published_date": "2026-09-05",
+    "priority": "informativo",
+    "id": "ai-meta-whatsapp-whatsapp-agentes-de-ia-de-terceros-como-contac",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "name": "ChatGPT: plugin de Zendesk (beta)",
+    "vendor": "OpenAI",
+    "what_it_is": "Un plugin que conecta ChatGPT y Codex con Zendesk para revisar tickets de soporte y el historial de un cliente, buscar en la base de conocimiento y redactar respuestas sin salir del chat.",
+    "what_changed": "Se sumó al directorio de plugins junto con el lanzamiento de GPT-6 Astra, a comienzos de septiembre de 2026, todavía en beta.",
+    "fixy_use": "Si atención al cliente de Fixy usa o llega a usar Zendesk, el equipo podría pedirle a ChatGPT que resuma el historial de un reclamo de envío y redacte la respuesta, en vez de revisar ticket por ticket a mano.",
+    "verdict": "seguir",
+    "verdict_reason": "Está en beta y su utilidad depende de si Fixy efectivamente usa Zendesk como mesa de ayuda.",
+    "categories": [
+      "Productividad",
+      "Organización"
+    ],
+    "pricing_note": "No confirmado: en beta, dentro de los planes de ChatGPT que dan acceso a plugins.",
+    "source_url": "https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
+    "published_date": "2026-09-04",
+    "priority": "informativo",
+    "id": "ai-openai-chatgpt-plugin-de-zendesk-beta",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
   },
   {
     "name": "Gemini 3.8 Flash",

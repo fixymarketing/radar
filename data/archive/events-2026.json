@@ -194,5 +194,32 @@
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
+  },
+  {
+    "scope": "ar",
+    "name": "SAP NOW AI Tour Argentina 2026",
+    "organizer": "SAP Argentina",
+    "date_start": "2026-09-02",
+    "date_end": "2026-09-02",
+    "date_confirmed": true,
+    "date_note": "Algunas notas de prensa de ediciones anteriores mencionan el 28 de agosto, pero la página oficial de SAP confirma el 2 de septiembre de 2026 como fecha del evento.",
+    "city": "Buenos Aires",
+    "province": null,
+    "country": "Argentina",
+    "venue": "La Rural, Predio Ferial de Buenos Aires",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Tecnología",
+    "url": "https://www.sap.com/latinamerica/events/sapnowargentina.html",
+    "source_url": "https://www.sap.com/latinamerica/events/sapnowargentina.html",
+    "description": "Gira anual de SAP en Argentina centrada en inteligencia artificial aplicada a negocios, con la nueva visión de IA de SAP y la experiencia Joule, dirigida a líderes y referentes de tecnología.",
+    "fixy_relevance": "Panorama de herramientas de IA y ERP aplicables a gestión de stock, forecasting de demanda y automatización operativa en fulfillment, útil para evaluar próximas inversiones tecnológicas.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-ai-argentina-now-sap-tour-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
   }
 ]

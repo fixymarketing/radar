@@ -945,5 +945,97 @@
     "source_kind": "auto",
     "last_updated": "2026-09-05",
     "first_seen": "2026-09-05"
+  },
+  {
+    "title": "La Provincia de Buenos Aires prorrogó 120 días el vencimiento de las Licencias Nacionales de Conducir",
+    "what_happened": "El Ministerio de Transporte bonaerense dispuso, mediante la Disposición N° 12/2026, una prórroga de 120 días corridos para las Licencias Nacionales de Conducir emitidas en la Provincia cuyo vencimiento haya operado u opere entre el 1° de julio y el 31 de octubre de 2026. La medida apunta a sostener la continuidad laboral de conductores profesionales interjurisdiccionales que enfrentan demoras para conseguir turno en los prestadores externos habilitados por la ANSV. Al tratarse de licencias nacionales, la prórroga rige en todo el país.",
+    "why_it_matters": "Es una medida administrativa que evita que miles de conductores profesionales queden inhabilitados para circular por demoras burocráticas ajenas a ellos, algo especialmente sensible para el transporte de cargas y la última milla.",
+    "fixy_impact": "Reduce el riesgo de que choferes de reparto o de flota propia con licencia próxima a vencer queden fuera de circulación por falta de turno, evitando paradas forzosas de vehículos utilitarios.",
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "Gobierno de la Provincia de Buenos Aires",
+    "source_url": "https://www.gba.gob.ar/transporte/noticias/se_prorroga_por_120_d%C3%ADas_el_vencimiento_de_las_licencias_nacionales_de_conducir",
+    "published_date": "2026-09-01",
+    "priority": "informativo",
+    "tags": [
+      "última milla",
+      "conductores",
+      "regulación",
+      "Buenos Aires",
+      "transporte"
+    ],
+    "id": "nw-ae9e07f19b",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "title": "Mercado Libre triplica su depósito de última milla en Uruguay y suma choferes asociados",
+    "what_happened": "Mercado Libre anunció una inversión de US$12,8 millones para ampliar su operación en Uruguay: unos US$4 millones se destinan a triplicar la superficie de su depósito de última milla en Canelones, de 4.000 a 12.000 m², y el resto a nuevas oficinas corporativas en Montevideo. La empresa prevé casi duplicar su dotación directa (de 113 a 220 personas) y ampliar de 156 a 228 la red de choferes asociados en los próximos dos años.",
+    "why_it_matters": "Muestra que Mercado Libre sigue invirtiendo fuerte en infraestructura logística propia en la región, incluso en mercados chicos, apostando a acortar tiempos de entrega mediante una red de choferes asociados antes que con flota 100% propia.",
+    "fixy_impact": null,
+    "category": "Logística",
+    "geo": "LATAM",
+    "source_name": "Forbes Uruguay",
+    "source_url": "https://www.forbesuruguay.com/negocios/mercado-libre-invierte-us-128m-oficinas-logistica-tenemos-entregar-mas-mas-rapido-todo-todo-uruguay-dijo-gamba-n96934",
+    "published_date": "2026-09-03",
+    "priority": "informativo",
+    "tags": [
+      "Mercado Libre",
+      "Uruguay",
+      "última milla",
+      "inversión",
+      "logística"
+    ],
+    "id": "nw-ad02545c24",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "title": "Multilogística pasó a operar como Yusen Logistics Argentina",
+    "what_happened": "Desde el 1° de septiembre, Multilogística SA opera bajo la marca Yusen Logistics Argentina, como resultado de la integración global de Yusen Air y NYK Logistics dentro del grupo NYK. El proceso de integración entre NYK y el Grupo Multimar había comenzado tres años atrás, y Patrick Campbell, referente de Multimar, asumió como presidente de la nueva compañía local.",
+    "why_it_matters": "Es un movimiento de consolidación de un operador logístico y de comercio exterior con peso en la Argentina, que combina bajo una sola marca capacidades de carga aérea y depósitos con alcance global.",
+    "fixy_impact": null,
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "El Cronista",
+    "source_url": "https://www.cronista.com/transport-cargo/la-argentina-logistica-con-cobertura-mundial/",
+    "published_date": "2026-09-01",
+    "priority": "informativo",
+    "tags": [
+      "Yusen Logistics",
+      "Multilogística",
+      "fusión",
+      "comercio exterior",
+      "logística"
+    ],
+    "id": "nw-ddf272196c",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "title": "La mora de las familias tocó un nuevo récord en julio y el BCRA descartó cambios en la normativa para bancos y fintech",
+    "what_happened": "En julio, la mora de las personas humanas volvió a marcar un récord: 5,9 millones de personas con deudas irregulares, equivalentes al 28% de los argentinos con algún tipo de crédito, tras una leve baja el mes anterior. Pese a este pico, el BCRA sostuvo que bancos y proveedores no financieros de crédito (fintech) cumplen con las regulaciones vigentes de tasas y transparencia, y descartó cambios normativos en el corto plazo. En paralelo, el vicepresidente del organismo volvió a pedirles a los bancos que \"reconozcan pérdidas\" y refinancien créditos incobrables a tasas más bajas y plazos más largos.",
+    "why_it_matters": "Confirma que el sobreendeudamiento de las familias no cede pese a los planes anunciados por el sector en agosto, y que el regulador por ahora no va a intervenir con nuevas reglas, dejando la salida en manos de bancos y fintech.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "Ámbito Financiero",
+    "source_url": "https://www.ambito.com/finanzas/tasas-interes-el-bcra-considera-que-bancos-y-fintech-cumplen-las-reglas-y-no-preve-cambios-la-normativa-n6317972",
+    "published_date": "2026-09-03",
+    "priority": "informativo",
+    "tags": [
+      "BCRA",
+      "mora",
+      "fintech",
+      "bancos",
+      "crédito"
+    ],
+    "id": "nw-73af771cf8",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
   }
 ]

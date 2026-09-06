@@ -692,5 +692,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-05",
     "first_seen": "2026-09-05"
+  },
+  {
+    "topic": "El costo de la última milla frenó su suba justo antes de que vuelvan a subir los combustibles: ¿cuánto dura el respiro?",
+    "why_now": "En agosto la suba de costos de última milla y correo fue la más baja desde febrero, justo en el mes en que el Gobierno pospuso por segunda vez el aumento de impuestos a los combustibles hasta octubre.",
+    "fixy_angle": "Fixy puede compartir cómo lee esta ventana de estabilidad para planificar tarifas y renegociar contratos con clientes antes de que llegue el ajuste acumulado de octubre.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/movant/2026/09/03/los-costos-de-ultima-milla-y-correo-moderaron-su-suba-en-agosto/",
+    "id": "ct-942cc3bb",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "topic": "Cuando el nombre desaparece: qué revela la fusión de Multilogística en Yusen sobre la consolidación logística regional",
+    "why_now": "Desde el 1° de septiembre Multilogística SA pasó a operar como Yusen Logistics Argentina, cerrando una integración de tres años con el grupo NYK.",
+    "fixy_angle": "Sirve para posicionar a Fixy como alternativa nacional especializada en eCommerce frente a la ola de consolidación de operadores globales de carga general que absorbe a jugadores históricos del mercado argentino.",
+    "formats": [
+      "LinkedIn",
+      "artículo"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.cronista.com/transport-cargo/la-argentina-logistica-con-cobertura-mundial/",
+    "id": "ct-a0d174c3",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "topic": "El video ya no hace falta mirarlo entero: qué significa la IA agéntica de video de Gemini para auditar depósitos y última milla",
+    "why_now": "Google lanzó el 1° de septiembre un modo de Gemini que busca solo los segmentos relevantes de un video en lugar de procesarlo cuadro por cuadro, con hasta 88% menos consumo de tokens.",
+    "fixy_angle": "Fixy podría mostrar cómo esto cambia la forma de resolver un reclamo de faltante o daño en un pallet sin mirar horas de cámara de depósito o de reparto, un dolor típico de cualquier operador logístico.",
+    "formats": [
+      "LinkedIn",
+      "Reel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+    "id": "ct-99ea12d9",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
   }
 ]

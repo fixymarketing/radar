@@ -76,34 +76,24 @@
     "date_confirmed": true,
     "date_note": null,
     "city": "Buenos Aires",
-    "province": "CABA",
+    "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
     "venue": "La Rural, Predio Ferial de Buenos Aires",
     "venue_confirmed": true,
     "format": "presencial",
-    "category": "Marketplaces",
+    "category": "eCommerce",
     "url": "https://www.mercadolibreexperience.com.ar/",
-    "source_url": "https://www.cronista.com/finanzas-mercados/mercado-libre-experience-2026-fecha-entradas-y-los-temas-que-marcaran-el-encuentro-de-e-commerce-mas-grande-de-la-region/",
-    "description": "Segunda edición del evento de eCommerce de Mercado Libre en Argentina, con más de 80 speakers, 5 escenarios temáticos y una feria con más de 40 stands de soluciones para vendedores y pymes.",
-    "fixy_relevance": "Reúne a miles de vendedores y marcas de eCommerce que son el público objetivo de Fixy para fulfillment y última milla; es la mejor oportunidad del año para generar contactos comerciales y detectar tendencias del marketplace líder de la región.",
+    "source_url": "https://www.cronista.com/finanzas-mercados/mercado-libre-experience-2026-cuando-es-donde-se-hace-y-por-que-es-ideal-para-emprendedores-y-pymes/",
+    "description": "Segunda edición del evento de comercio electrónico de Mercado Libre en Argentina, con más de 80 speakers, 5 escenarios y unos 8.000 asistentes esperados.",
+    "fixy_relevance": "Es el mayor punto de encuentro de vendedores y marcas de eCommerce del país: sirve para relevar tendencias de venta online, contactar potenciales clientes de fulfillment y monitorear a Mercado Envíos.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-argentina-experience-libre-mercado-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-04",
+    "last_updated": "2026-09-06",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-21",
-        "fields": [
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-29",
         "fields": [
@@ -142,6 +132,16 @@
         "fields": [
           "city",
           "province",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "province",
+          "category",
+          "source_url",
           "description",
           "fixy_relevance"
         ]
@@ -373,22 +373,22 @@
     "date_confirmed": true,
     "date_note": null,
     "city": "Buenos Aires",
-    "province": "Buenos Aires (CABA)",
+    "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro de Convenciones Buenos Aires (CEC), Recoleta",
+    "venue": "CEC - Centro de Convenciones Buenos Aires",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Tecnología",
-    "url": "https://www.eventbrite.com.ar/e/ai-in-latam-ailat26-edicion-argentina-tickets-1979764061602",
-    "source_url": "https://andresospina.co/eventos-ia/evento/ai-in-latam-ailat26/",
-    "description": "Tercera edición del encuentro B2B de inteligencia artificial más importante de la región, con sede confirmada en el CEC y más de 20 speakers C-level de Microsoft, Google Cloud, AWS, Oracle, Salesforce y Mercado Libre, entre otros.",
-    "fixy_relevance": "Trae de primera mano casos de aplicación de IA de grandes players (incluido Mercado Libre) a operaciones y atención al cliente, útil para evaluar automatizaciones aplicables a fulfillment y soporte.",
+    "url": "https://ai-lat.com/",
+    "source_url": "https://www.cecbuenosaires.com.ar/ailat26/",
+    "description": "Tercera edición del principal encuentro B2B de inteligencia artificial en Latinoamérica, con una jornada completa y participación de Microsoft, AWS, Google Cloud, Oracle y Mercado Libre, entre otros.",
+    "fixy_relevance": "Fuente directa de casos de aplicación de IA a negocio y operaciones que Fixy puede adaptar a logística, atención al cliente y automatización interna.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-ai-ailat26-argentina-in-latam-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-09-06",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -416,6 +416,17 @@
           "description",
           "fixy_relevance",
           "priority"
+        ]
+      },
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "province",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
         ]
       }
     ]
@@ -627,7 +638,7 @@
   {
     "scope": "ar",
     "name": "TecWeek Buenos Aires 2026",
-    "organizer": "Gobierno de la Ciudad de Buenos Aires junto al ecosistema tech",
+    "organizer": "Gobierno de la Ciudad de Buenos Aires",
     "date_start": "2026-10-20",
     "date_end": "2026-10-31",
     "date_confirmed": true,
@@ -635,37 +646,22 @@
     "city": "CABA",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro Costa Salguero, con actividades en otros espacios de la Ciudad",
+    "venue": "Centro Costa Salguero, con sedes adicionales en espacios culturales, universidades y coworkings porteños",
     "venue_confirmed": true,
-    "format": "híbrido",
-    "category": "Tecnología",
+    "format": "presencial",
+    "category": "Innovación",
     "url": "https://www.tecweek.com.ar/",
     "source_url": "https://www.tecweek.com.ar/",
-    "description": "Semana de tecnologías emergentes de la Ciudad de Buenos Aires, con actividades sobre inteligencia artificial, fintech, blockchain y gaming en distintas sedes porteñas.",
-    "fixy_relevance": "Amplía el radar de tecnologías emergentes (IA aplicada, automatización) y conecta a Fixy con el ecosistema de innovación porteño más allá de los eventos sectoriales de logística.",
+    "description": "Programa de 11 días con más de 23 encuentros y 600 speakers sobre inteligencia artificial, fintech, gaming, blockchain, cultura digital y emprendedurismo.",
+    "fixy_relevance": "Múltiples encuentros temáticos donde Fixy puede identificar proveedores tecnológicos, tendencias de innovación aplicables a logística y potenciales alianzas.",
     "justification_type": null,
-    "priority": "informativo",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-aires-buenos-tecweek-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-06",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-20",
-        "fields": [
-          "organizer",
-          "date_confirmed",
-          "date_note",
-          "city",
-          "venue",
-          "category",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-27",
         "fields": [
@@ -716,6 +712,18 @@
           "fixy_relevance",
           "priority"
         ]
+      },
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "organizer",
+          "venue",
+          "format",
+          "category",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
       }
     ]
   },
@@ -726,37 +734,26 @@
     "date_start": "2026-11-02",
     "date_end": "2026-11-04",
     "date_confirmed": true,
-    "date_note": "Algunas fuentes secundarias mencionan 3-4-5/11, pero CACE y la mayoría de medios confirman 2 al 4 de noviembre; se extiende con 'Cyber Week' del 5 al 8/11.",
+    "date_note": "Varias marcas extienden beneficios en modalidad \"Cyber Week\" del 5 al 8 de noviembre.",
     "city": "CABA",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "Online (evento nacional de comercio electrónico)",
+    "venue": "Online, todo el país",
     "venue_confirmed": true,
     "format": "virtual",
     "category": "eCommerce",
     "url": "https://www.cybermonday.com.ar/",
-    "source_url": "https://www.cybermonday.com.ar/cuando-es-cybermonday",
-    "description": "72 horas de descuentos online organizadas por CACE, con cerca de 1.000 marcas participantes en promociones, cuotas sin interés y beneficios bancarios.",
-    "fixy_relevance": "Pico estacional de demanda de fulfillment y última milla equivalente a un 'Hot Sale' de fin de año; clave para dimensionar capacidad operativa y comunicar SLA a clientes con anticipación.",
+    "source_url": "https://www.c5n.com/economia/descuentos-y-ofertas-confirmaron-las-fechas-del-black-friday-y-cyber-week-2026-n237316",
+    "description": "72 horas de descuentos online organizadas por CACE, con cerca de 1.000 marcas participantes y financiación bancaria en cuotas.",
+    "fixy_relevance": "Pico de demanda de última milla y fulfillment del segundo semestre: clave para planificar capacidad operativa y anticipar picos de despacho con clientes retail.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cybermonday-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-06",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-20",
-        "fields": [
-          "date_note",
-          "city",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-22",
         "fields": [
@@ -798,6 +795,16 @@
           "description",
           "fixy_relevance"
         ]
+      },
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "date_note",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
@@ -812,32 +819,22 @@
     "city": "Escobar",
     "province": "Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro de Capacitación Profesional para el Transporte 'Rogelio Cavalieri Iribarne' (RCI), FPT/FADEEAC",
+    "venue": "Centro de Capacitación Profesional para el Transporte \"Rogelio Cavalieri Iribarne\" (RCI - FPT/FADEEAC)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
     "url": "https://arlog.org/actividades/encuentros/",
     "source_url": "https://aaaci.org.ar/arlog-confirmo-el-xxxiii-encuentro-nacional-de-logistica-empresaria/",
-    "description": "Encuentro anual de ARLOG bajo el lema 'Argentina Logística', centrado en la estrategia y los habilitadores necesarios para la nueva supply chain, con referentes de logística, negocios, academia y transporte.",
-    "fixy_relevance": "Es el evento sectorial de networking y benchmarking más relevante para operadores logísticos argentinos; permite a Fixy posicionarse frente a pares, clientes y proveedores de la cadena de suministro.",
+    "description": "Encuentro anual de ARLOG bajo el lema \"Argentina Logística\", centrado en la estrategia y los habilitadores necesarios para la nueva cadena de suministro.",
+    "fixy_relevance": "Punto de encuentro directo con líderes de logística, transporte y academia del país: útil para benchmarking operativo y networking comercial.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-arlog-empresaria-encuentro-logistica-nacional-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-06",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-21",
-        "fields": [
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-28",
         "fields": [
@@ -868,6 +865,14 @@
           "venue",
           "url",
           "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "venue",
           "description",
           "fixy_relevance"
         ]
@@ -927,28 +932,28 @@
   {
     "scope": "ar",
     "name": "Black Friday Argentina 2026",
-    "organizer": "Sin organizador único (cada retailer define su participación)",
+    "organizer": "CACE (Cámara Argentina de Comercio Electrónico)",
     "date_start": "2026-11-27",
     "date_end": "2026-11-29",
     "date_confirmed": true,
-    "date_note": "Día central viernes 27/11, con extensión de ofertas ('Black Week') sábado 28 y domingo 29/11 según medios especializados.",
+    "date_note": "El viernes 27 de noviembre es el día central; los descuentos continúan el sábado 28 y el domingo 29 como \"Black Weekend\".",
     "city": "Argentina",
     "province": null,
     "country": "Argentina",
-    "venue": "Online (evento nacional de comercio electrónico)",
+    "venue": "Online, todo el país",
     "venue_confirmed": true,
     "format": "virtual",
     "category": "eCommerce",
-    "url": "https://www.diariouno.com.ar/economia/ofertas-y-descuentos-fechas-confirmadas-del-black-friday-y-cyber-monday-2026-argentina-n1552547",
-    "source_url": "https://www.c5n.com/economia/descuentos-y-ofertas-confirmaron-las-fechas-del-black-friday-y-cyber-week-2026-n237316",
-    "description": "Jornada de descuentos de origen estadounidense adoptada por el retail y eCommerce argentino, con descuentos extendidos durante el fin de semana.",
-    "fixy_relevance": "Segundo gran pico de demanda logística de noviembre junto al CyberMonday; requiere planificación conjunta de stock, picking y última milla para marcas cliente.",
+    "url": "https://www.cybermonday.com.ar/",
+    "source_url": "https://www.c5n.com/economia/cyber-monday-2026-que-rubros-se-pueden-aprovechar-los-descuentos-y-ofertas-n237329",
+    "description": "Jornada de descuentos online que se extiende en un fin de semana completo de ofertas (\"Black Weekend\") antes del Cyber Monday.",
+    "fixy_relevance": "Segundo gran pico de demanda del último trimestre del año: clave para dimensionar capacidad de despacho y coordinar SLAs con clientes retail.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-argentina-black-friday-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-06",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -973,6 +978,18 @@
           "venue",
           "format",
           "category",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "organizer",
+          "date_note",
+          "venue",
           "url",
           "source_url",
           "description",
@@ -1092,21 +1109,33 @@
     "city": "Asunción",
     "province": null,
     "country": "Paraguay",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
+    "venue": "Auditorio del Banco Central del Paraguay",
+    "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
     "url": "https://ecommerceday.com.py/2026/",
-    "source_url": "https://ecommerce.institute/",
-    "description": "Edición paraguaya del principal tour de digital commerce de LATAM, con agenda de retailers, marketplaces y proveedores de servicios para tiendas online.",
-    "fixy_relevance": "Mercado vecino, de bajo costo de viaje y con eCommerce en expansión temprana: oportunidad concreta de expansión regional. El formato eCommerce Day facilita sponsorship accesible para una PyME.",
+    "source_url": "https://ecommerceday.com.py/2026/",
+    "description": "Se confirmó la sede: el jueves 24 de septiembre de 2026 en el Auditorio del Banco Central del Paraguay, en Asunción. El sitio oficial suma además actividades complementarias (workshops y transmisión online) entre el 15 y el 17 de octubre en el hotel Sheraton Asunción.",
+    "fixy_relevance": "Paraguay es un corredor relevante para logística transfronteriza regional; el evento conecta con retailers, marketplaces y actores del ecosistema digital paraguayo.",
     "justification_type": "expansión regional",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-day-ecommerce-paraguay-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "venue",
+          "venue_confirmed",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -1254,21 +1283,33 @@
     "city": "Las Vegas",
     "province": null,
     "country": "Estados Unidos",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
+    "venue": "The Venetian Expo",
+    "venue_confirmed": true,
     "format": "presencial",
     "category": "Pagos y Fintech",
     "url": "https://us.money2020.com/",
     "source_url": "https://us.money2020.com/attend",
-    "description": "Principal evento global de fintech y pagos, con agenda de checkout, BNPL, pagos cross-border y cobranza para comercio digital.",
-    "fixy_relevance": "Relevancia indirecta pero real: el cash on delivery, la conciliación de cobros y los pagos cross-border son fricciones centrales del envío eCommerce en Argentina. Justificable solo si Fixy planea integrar servicios financieros a su oferta.",
+    "description": "Se confirmó la sede exacta: The Venetian Expo, en Las Vegas, del 18 al 21 de octubre de 2026, para la mayor conferencia mundial de fintech y medios de pago.",
+    "fixy_relevance": "Sirve para monitorear tendencias de pagos y fintech que después bajan a soluciones de checkout, cobranza y financiamiento usadas en eCommerce y logística; también es lugar de networking con actores de pagos que trabajan con operadores logísticos.",
     "justification_type": "aprendizaje",
-    "priority": "informativo",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-money20-usa-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "venue",
+          "venue_confirmed",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -1349,21 +1390,33 @@
     "city": "Lisboa",
     "province": null,
     "country": "Portugal",
-    "venue": "MEO Arena",
+    "venue": "MEO Arena y centro de exposiciones FIL (Parque das Nações)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Tecnología",
-    "url": "https://websummit.com/",
+    "url": "https://websummit.com/web-summit-2026/",
     "source_url": "https://websummit.com/web-summit-2026/",
-    "description": "Mayor conferencia tecnológica de Europa, con 17 tracks de contenido y presencia de fondos de inversión, startups y grandes plataformas.",
-    "fixy_relevance": "Valor principal en inversión, partnerships tecnológicos y visibilidad internacional, no en logística específica. Justificable solo si Fixy busca ronda, partner de software o exposición institucional fuera de la región.",
-    "justification_type": "institucional",
+    "description": "Se confirmaron sede y fechas exactas: MEO Arena y el centro de exposiciones FIL, en el distrito Parque das Nações de Lisboa, del 9 al 12 de noviembre de 2026.",
+    "fixy_relevance": "Es un evento tecnológico global de agenda muy amplia; su valor para Fixy es indirecto (tendencias generales de tech e innovación), por eso queda como informativo salvo que surja un ángulo concreto de negocio o sponsorship.",
+    "justification_type": "aprendizaje",
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-lisboa-summit-web-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "venue",
+          "url",
+          "description",
+          "fixy_relevance",
+          "justification_type"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -1726,33 +1779,6 @@
   },
   {
     "scope": "ar",
-    "name": "SAP NOW AI Tour Argentina 2026",
-    "organizer": "SAP Argentina",
-    "date_start": "2026-09-02",
-    "date_end": "2026-09-02",
-    "date_confirmed": true,
-    "date_note": "Algunas notas de prensa de ediciones anteriores mencionan el 28 de agosto, pero la página oficial de SAP confirma el 2 de septiembre de 2026 como fecha del evento.",
-    "city": "Buenos Aires",
-    "province": null,
-    "country": "Argentina",
-    "venue": "La Rural, Predio Ferial de Buenos Aires",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Tecnología",
-    "url": "https://www.sap.com/latinamerica/events/sapnowargentina.html",
-    "source_url": "https://www.sap.com/latinamerica/events/sapnowargentina.html",
-    "description": "Gira anual de SAP en Argentina centrada en inteligencia artificial aplicada a negocios, con la nueva visión de IA de SAP y la experiencia Joule, dirigida a líderes y referentes de tecnología.",
-    "fixy_relevance": "Panorama de herramientas de IA y ERP aplicables a gestión de stock, forecasting de demanda y automatización operativa en fulfillment, útil para evaluar próximas inversiones tecnológicas.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-ai-argentina-now-sap-tour-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "scope": "ar",
     "name": "Ekoparty Security Conference 2026",
     "organizer": "Ekoparty",
     "date_start": "2026-10-07",
@@ -1760,23 +1786,34 @@
     "date_confirmed": true,
     "date_note": null,
     "city": "Buenos Aires",
-    "province": null,
+    "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro de Convenciones de Buenos Aires (CEC)",
+    "venue": "CEC - Centro de Convenciones Buenos Aires",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Tecnología",
     "url": "https://ekoparty.org/ekoparty-buenos-aires-2026/",
     "source_url": "https://www.cecbuenosaires.com.ar/ekoparty-security-conference-2026-llega-al-cec-buenos-aires/",
-    "description": "22ª edición de la conferencia de ciberseguridad más grande de Latinoamérica, con charlas técnicas, workshops, villages y Capture The Flag, esperando más de 10.000 asistentes.",
-    "fixy_relevance": "Útil para entender riesgos de fraude, protección de datos de clientes y seguridad en pagos online, algo crítico en una operación de eCommerce, fulfillment y última milla con datos sensibles de compradores.",
+    "description": "22ª edición de la conferencia de ciberseguridad más grande de América Latina, con más de 10.000 asistentes esperados y tres días de actividades.",
+    "fixy_relevance": "Relevante para evaluar riesgos de ciberseguridad en plataformas de eCommerce y sistemas logísticos, y conectar con proveedores de seguridad informática.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-conference-ekoparty-security-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "province",
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -1903,14 +1940,14 @@
     "category": "Retail",
     "url": "https://latamretailshow.com/",
     "source_url": "https://sindilojas-sp.org.br/eventos/15-a-17-09-2026-latam-retail-show-2026/",
-    "description": "11ª edición del mayor evento de retail de América Latina, con foco en contenido, networking y generación de negocios; se esperan unos 4.000 congresistas y más de 200 oradores.",
-    "fixy_relevance": "Reúne a retailers y marcas de la región que evalúan proveedores logísticos; oportunidad de networking comercial y generación de negocios con potenciales clientes de fulfillment y última milla.",
-    "justification_type": "negocios",
+    "description": "Se confirmaron fecha y sede de la 11ª edición: del 15 al 17 de septiembre de 2026 en el Distrito Anhembi de San Pablo, con eje temático en \"Everything as a Service\" potenciado por inteligencia artificial.",
+    "fixy_relevance": "Es el evento de retail más grande de Brasil y sirve como relevamiento del mercado brasileño (el más grande de LATAM) en IA aplicada al comercio y logística, además de networking con retailers regionales.",
+    "justification_type": "expansión regional",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-latam-retail-show-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-25",
+    "last_updated": "2026-09-06",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -1920,6 +1957,14 @@
           "source_url",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "description",
+          "fixy_relevance",
+          "justification_type"
         ]
       }
     ]
@@ -2090,7 +2135,7 @@
   {
     "scope": "ar",
     "name": "Effie Awards Argentina 2026",
-    "organizer": "Effie Argentina (AAAP / Cámara Argentina de Anunciantes)",
+    "organizer": "Effie Argentina / Adlatina Group",
     "date_start": "2026-11-24",
     "date_end": "2026-11-24",
     "date_confirmed": true,
@@ -2104,15 +2149,26 @@
     "category": "Marketing",
     "url": "https://www.effieargentina.com.ar/",
     "source_url": "https://effie.org/events/2026-effie-argentina-gala/",
-    "description": "Gala de entrega de los premios Effie Argentina 2026 (21ª edición), que reconoce las campañas de marketing y publicidad más efectivas del país.",
-    "fixy_relevance": "Sirve para relevar qué campañas de retail/eCommerce se destacan por efectividad, insumo de benchmarking para la comunicación de Fixy y de sus clientes.",
+    "description": "Gala de la 21ª edición de los Effie Awards Argentina, que premia la efectividad en marketing y estrena categorías como Deportes y Entretenimiento y Marketing Disruptivo.",
+    "fixy_relevance": "Útil para relevar casos de marketing efectivo de marcas de retail y eCommerce que trabajan con logística de última milla, y detectar tendencias de comunicación del sector.",
     "justification_type": null,
     "priority": "informativo",
-    "beyond_90": true,
+    "beyond_90": false,
     "id": "ev-argentina-awards-effie-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-08-20",
+    "change_log": [
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "organizer",
+          "description",
+          "fixy_relevance",
+          "beyond_90"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -3001,29 +3057,44 @@
   {
     "scope": "intl",
     "name": "eRetail Day Costa Rica 2026",
-    "organizer": "eCommerce Institute / ConnectaB2B",
-    "date_start": "2026-09-24",
-    "date_end": "2026-09-24",
+    "organizer": "eCommerce Institute",
+    "date_start": "2026-09-30",
+    "date_end": "2026-09-30",
     "date_confirmed": false,
-    "date_note": "La agenda del tour eRetail Day Centroamérica 2026 (mismo tour que ya incluye a eRetail Day Guatemala el 13/10 y eRetail Day Panamá el 22/10, ambos ya en la agenda de Fixy) ubica a Costa Rica el 24 de septiembre, pero una fuente aislada menciona el 30 de septiembre. El sitio oficial (eretailday.com) bloquea el acceso automatizado, por lo que no se pudo verificar de forma directa. Confirmar fecha y ",
+    "date_note": "Hay versiones distintas: la agenda de la gira eRetail Day Centroamérica en eretailday.com ubica a Costa Rica el 30 de septiembre de 2026, mientras que otra fuente indica que el 24 de septiembre de 2026 (fecha que Fixy tenía cargada para este evento) corresponde en realidad a la 9ª edición de eRetail Day Guatemala. No se pudo confirmar con certeza cuál fecha es la correcta para Costa Rica; conviene",
     "city": "Por confirmar",
     "province": null,
     "country": "Costa Rica",
     "venue": "Por confirmar",
     "venue_confirmed": false,
-    "format": "Por confirmar",
+    "format": "presencial",
     "category": "eCommerce",
     "url": "https://eretailday.com/2026/",
     "source_url": "https://eretailday.com/2026/agenda/",
-    "description": "Parada de Costa Rica dentro del tour eRetail Day Centroamérica 2026 del eCommerce Institute, enfocado en el canal retail y el comercio digital, dentro de la misma gira regional que ya incluye a Guatemala y Panamá.",
-    "fixy_relevance": "Espacio de networking con retailers y marcas de Centroamérica que operan eCommerce; sirve para relevar tendencias regionales de canal retail digital, aunque conviene confirmar fecha y sede antes de planificar viaje.",
-    "justification_type": "networking",
+    "description": "Edición centroamericana del tour eRetail Day para Costa Rica, con fecha en discusión entre el 24 y el 30 de septiembre de 2026 según la fuente consultada.",
+    "fixy_relevance": "Centroamérica es un mercado de expansión relevante para servicios logísticos transfronterizos; vale la pena confirmar la fecha exacta antes de evaluar un viaje o presencia institucional.",
+    "justification_type": "expansión regional",
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-costa-day-eretail-rica-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-26",
-    "first_seen": "2026-08-26"
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-08-26",
+    "change_log": [
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "organizer",
+          "date_start",
+          "date_end",
+          "date_note",
+          "format",
+          "description",
+          "fixy_relevance",
+          "justification_type"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",

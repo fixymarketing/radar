@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-05T12:19:47.685Z",
-  "last_updated_ar": "05/09/2026, 09:19",
-  "date": "2026-09-05",
+  "generated_at": "2026-09-06T12:20:36.548Z",
+  "last_updated_ar": "06/09/2026, 09:20",
+  "date": "2026-09-06",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Andreani aceleró su avance sobre el interior con una inversión en bitrenes y un hub cordobés de más de 20.000 pymes, el BCRA le exigió a los bancos asumir la mora en vez de esperar al Estado, y Mercado Libre Experience Argentina llega en cinco días como la cita comercial más grande del año.",
+  "summary_line": "Mercado Libre Experience Argentina llega en cuatro días con sede confirmada en La Rural, los costos de última milla dieron su primer respiro desde febrero justo antes del ajuste de combustibles de octubre, y un informe de Bain confirma que 3 de cada 10 compradores argentinos ya usan IA para elegir dónde comprar.",
   "counters": {
     "news_today": 4,
-    "news_total": 41,
+    "news_total": 45,
     "events_upcoming": 80,
     "events_ar_upcoming": 45,
     "events_intl_upcoming": 35,
     "events_later": 21,
     "opportunities_open": 8,
-    "opportunities_today": 1,
+    "opportunities_today": 0,
     "ai_today": 4,
-    "ai_to_try": 31,
-    "content_ideas": 46,
+    "ai_to_try": 33,
+    "content_ideas": 49,
     "added_news": 4,
     "updated_news": 0,
-    "added_events": 3,
+    "added_events": 0,
     "updated_events": 13,
     "added_ai": 4,
-    "archived": 2,
+    "archived": 1,
     "discarded_quality": 0
   },
   "next_event": {
@@ -30,9 +30,16 @@
     "name": "Expo Franquicias Argentina 2026",
     "date_start": "2026-09-09",
     "city": "CABA",
-    "days_away": 4
+    "days_away": 3
   },
   "highlights": [
+    {
+      "id": "ev-argentina-experience-libre-mercado-2026",
+      "kind": "event",
+      "title": "Mercado Libre Experience Argentina 2026",
+      "priority": "alta",
+      "one_liner": "Es en cuatro días, ya con sede confirmada en La Rural, y sigue siendo la vidriera comercial más grande del año para conectar con vendedores que necesitan fulfillment y última milla."
+    },
     {
       "id": "nw-ddf678f69a",
       "kind": "news",
@@ -41,25 +48,18 @@
       "one_liner": "Confirma que el operador logístico más grande del país ya convirtió al interior en un frente de batalla comercial concreto, con volumen medible de pymes."
     },
     {
-      "id": "ev-argentina-experience-libre-mercado-2026",
-      "kind": "event",
-      "title": "Mercado Libre Experience Argentina 2026",
+      "id": "nw-742b172b99",
+      "kind": "news",
+      "title": "La suba de costos de última milla y correo se moderó en agosto, la más baja desde febrero",
       "priority": "alta",
-      "one_liner": "Es en cinco días y sigue siendo la vidriera comercial más grande del año para conectar con vendedores que necesitan fulfillment y última milla."
+      "one_liner": "Es la primera señal de respiro en los costos operativos del reparto en meses, justo antes de que en octubre vuelva el ajuste de combustibles que el Gobierno ya pospuso dos veces."
     },
     {
-      "id": "nw-66d81abce5",
+      "id": "nw-4975f8b2e9",
       "kind": "news",
-      "title": "Andreani suma 20 bitrenes a su flota para transporte de larga distancia",
-      "priority": "relevante",
-      "one_liner": "Muestra que el líder del sector ya está invirtiendo en bajar su costo por tonelada, algo que sube la vara de la eficiencia esperada por los clientes."
-    },
-    {
-      "id": "nw-9656cefff7",
-      "kind": "news",
-      "title": "El BCRA le pidió a los bancos que reconozcan pérdidas para bajar la mora récord de las familias",
-      "priority": "relevante",
-      "one_liner": "Anticipa condiciones de crédito más duras para pymes justo cuando el sector logístico necesita financiar inversiones en eficiencia."
+      "title": "Un informe de Bain & Company muestra que 3 de cada 10 compradores argentinos ya usan IA para comprar online",
+      "priority": "alta",
+      "one_liner": "Confirma que el comercio agéntico dejó de ser un debate teórico en la Argentina y ya afecta a 3 de cada 10 compras online."
     },
     {
       "id": "op-e80e106f",
