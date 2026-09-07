@@ -1,29 +1,5 @@
 [
   {
-    "title": "Día del Niño y feriado de San Martín pusieron a prueba la última milla",
-    "what_happened": "El domingo 16 de agosto, Día del Niño, coincidió con el feriado nacional del lunes 17 por el Paso a la Inmortalidad del General San Martín, generando un fin de semana largo de tres días que obligó a jugueterías, plataformas de ecommerce y operadores de reparto a anticipar entregas y reforzar turnos antes del corte. Según la Cámara Argentina de la Industria del Juguete, las ventas del sector cayeron cerca de 10% en el primer semestre de 2026 frente a igual período de 2025, pero la fecha sigue concentrando alrededor del 60% de la facturación anual de las jugueterías. El artículo señala además que el stock importado en exceso durante el año previo todavía se está procesando en depósitos y centr",
-    "why_it_matters": "Muestra que la ventana de despacho se acorta cada vez que un feriado se pega a una fecha comercial fuerte, y que sostener los tiempos de entrega —más allá de que el volumen de ventas caiga— es el verdadero termómetro de madurez de la última milla en el ecommerce argentino.",
-    "fixy_impact": "Confirma la necesidad de planificar con anticipación turnos de reparto, picking y stock antes de fines de semana largos que coinciden con fechas pico (Día del Niño, Navidad, Hot Sale), algo directamente aplicable a la operación diaria de Fixy.",
-    "category": "Última milla",
-    "geo": "Argentina",
-    "source_name": "Infobae (Movant)",
-    "source_url": "https://www.infobae.com/movant/2026/08/16/la-logistica-de-juguetes-y-la-ultima-milla-en-la-semana-clave-del-ano/",
-    "published_date": "2026-08-16",
-    "priority": "relevante",
-    "tags": [
-      "última milla",
-      "Día del Niño",
-      "fulfillment",
-      "peak season",
-      "jugueterías"
-    ],
-    "id": "nw-1d8ac2bb0d",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-19",
-    "updated_flag": true
-  },
-  {
     "title": "Récord de importaciones de bienes de consumo: US$5.362 millones en el primer semestre, con indumentaria +86%",
     "what_happened": "Las importaciones de bienes de consumo alcanzaron US$5.362 millones en el primer semestre de 2026, el mayor registro histórico y 34,7% por encima del primer semestre de 2023. La cantidad de empresas importadoras se duplicó (+33.108 firmas desde 2023) y los bienes de consumo llegaron a 15,1% del total importado, máximo en 22 años.",
     "why_it_matters": "Aparece una masa crítica nueva de importadores-vendedores que necesita nacionalizar, almacenar y distribuir producto en el mercado local, muchos de ellos sin experiencia logística.",
@@ -41,28 +17,6 @@
       "fulfillment"
     ],
     "id": "nw-b946fea6cb",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "title": "Las ventas por el Día del Niño cayeron 2,5% pese a descuentos y cuotas",
-    "what_happened": "CAME informó que las ventas del Día del Niño 2026 cayeron 2,5% interanual en términos reales, con ticket promedio de $45.892. El 81,2% de los comercios ofreció descuentos o financiación y 55,3% cuotas, sin lograr revertir la demanda. Todos los rubros cayeron.",
-    "why_it_matters": "Confirma que la promoción agresiva ya no alcanza para mover volumen: la demanda está postergada y selectiva, incluso en las fechas comerciales fuertes.",
-    "fixy_impact": "Los picos estacionales serán menos intensos de lo proyectado: conviene dimensionar capacidad extra en fechas clave con supuestos conservadores en lugar de replicar 2025.",
-    "category": "Retail",
-    "geo": "Argentina",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/economia/2026/08/16/las-ventas-del-dia-del-nino-cayeron-el-25-y-en-juguetes-la-contraccion-fue-de-casi-el-5-por-ciento/",
-    "published_date": "2026-08-16",
-    "priority": "relevante",
-    "tags": [
-      "Día del Niño",
-      "CAME",
-      "fechas comerciales",
-      "ticket promedio"
-    ],
-    "id": "nw-97c6cb743e",
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
@@ -1037,5 +991,51 @@
     "source_kind": "auto",
     "last_updated": "2026-09-06",
     "first_seen": "2026-09-06"
+  },
+  {
+    "title": "La Provincia de Buenos Aires imputa formalmente a Mercado Pago, Ualá y otras billeteras con multas de hasta $1.883 millones",
+    "what_happened": "Defensa del Consumidor de la Provincia de Buenos Aires imputó formalmente a Mercado Pago, Ualá, Naranja X, Personal Pay, Brubank y Cencosud por hostigamiento a deudores, falta de información clara sobre las condiciones de los créditos y ausencia de un botón de arrepentimiento visible. La causa se originó en más de 2.200 denuncias recibidas durante el primer semestre y prevé multas de hasta $1.883 millones por empresa, con aplicación prevista a partir del viernes 11 de septiembre una vez vencido el plazo para el descargo de las compañías. Por confirmar si las sanciones se aplican efectivamente en esa fecha o si las empresas logran dilatarlas con sus descargos.",
+    "why_it_matters": "El frente bonaerense contra las fintech pasa de la investigación anunciada en agosto a una imputación formal con montos concretos, lo que anticipa una regulación provincial más dura sobre el crédito digital en plena crisis de mora récord.",
+    "fixy_impact": null,
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "iProUp",
+    "source_url": "https://www.iproup.com/economia-digital/71278-kicillof-multa-con-1800-m-a-mercado-pago-uala-y-otras-billeteras",
+    "published_date": "2026-09-04",
+    "priority": "alta",
+    "tags": [
+      "billeteras virtuales",
+      "mora",
+      "Mercado Pago",
+      "regulación",
+      "Kicillof"
+    ],
+    "id": "nw-a078df0a95",
+    "source_kind": "auto",
+    "last_updated": "2026-09-07",
+    "first_seen": "2026-09-07"
+  },
+  {
+    "title": "Mercado Libre triplica su centro logístico en Bariloche para cubrir toda la Patagonia andina",
+    "what_happened": "El intendente de Bariloche recorrió el nuevo centro logístico que Mercado Libre puso en marcha en el Parque Industrial, Tecnológico y Productivo local (PITBA), operado junto con QX Logística. La instalación tiene 3.300 m² -el triple de la superficie anterior- y una capacidad estimada de hasta 30.000 paquetes por día en picos de demanda, desde donde se distribuye a Bariloche, San Martín de los Andes, Villa La Angostura, El Bolsón, Esquel e Ingeniero Jacobacci.",
+    "why_it_matters": "Es otra señal de que Mercado Libre sigue descentralizando su red hacia el interior para acortar los tiempos de entrega fuera del AMBA, un terreno donde compite de manera directa con los operadores logísticos regionales.",
+    "fixy_impact": "Marca el nivel de escala e inversión con el que Mercado Libre ataca mercados regionales alejados, un parámetro útil para pensar dónde Fixy puede diferenciarse por especialización, costo o servicio en zonas donde ML profundiza su presencia.",
+    "category": "Fulfillment",
+    "geo": "Argentina",
+    "source_name": "BarilocheOpina",
+    "source_url": "https://www.barilocheopina.com/noticias/2026/09/04/93809-el-intendente-recorrio-el-nuevo-centro-logistico-de-mercado-libre-en-el-pitba",
+    "published_date": "2026-09-04",
+    "priority": "relevante",
+    "tags": [
+      "Mercado Libre",
+      "Patagonia",
+      "fulfillment",
+      "logística regional",
+      "última milla"
+    ],
+    "id": "nw-8a800a8441",
+    "source_kind": "auto",
+    "last_updated": "2026-09-07",
+    "first_seen": "2026-09-07"
   }
 ]

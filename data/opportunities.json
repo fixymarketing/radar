@@ -1,5 +1,20 @@
 [
   {
+    "title": "Evaluar cobertura logística en el sur profundo antes de que Mercado Libre la vuelva estándar",
+    "context": "Mercado Libre triplicó su centro logístico en Bariloche (3.300 m², hasta 30.000 paquetes/día operados junto con QX Logística) para cubrir toda la Patagonia andina: San Martín de los Andes, Villa La Angostura, El Bolsón, Esquel e Ingeniero Jacobacci. Es una zona de baja densidad que la mayoría de los operadores 3PL no prioriza, y ML está fijando ahí un estándar de servicio antes que nadie más.",
+    "action": "Relevar con clientes y prospectos de la región si hay demanda de fulfillment o última milla de respaldo para vendedores que no quieren depender solo de Mercado Envíos en esas ciudades, antes de que la infraestructura de ML se vuelva el único estándar de servicio de la zona.",
+    "type": "estratégica",
+    "priority": "informativo",
+    "source_url": "https://www.barilocheopina.com/noticias/2026/09/04/93809-el-intendente-recorrio-el-nuevo-centro-logistico-de-mercado-libre-en-el-pitba",
+    "linked": [
+      "Mercado Libre triplica su centro logístico en Bariloche para cubrir toda la Patagonia andina"
+    ],
+    "id": "op-b3a79944",
+    "source_kind": "auto",
+    "last_updated": "2026-09-07",
+    "first_seen": "2026-09-07"
+  },
+  {
     "title": "Adelantarse a la consolidación de Andreani en el interior antes de que cierre exclusividades comerciales",
     "context": "Andreani invirtió US$2 millones en 20 bitrenes para bajar su costo por tonelada en larga distancia y, en la misma semana, confirmó que Córdoba ya es su hub logístico del interior, con más de 20.000 pymes trabajando ahí y un salto del 45% en envíos pyme. Es la señal más concreta hasta ahora de que el jugador más grande del sector está priorizando el interior como frente de crecimiento.",
     "action": "Mapear cuentas pyme de Córdoba, Rosario, NOA y Cuyo y usar los eventos confirmados de septiembre (Experiencia Endeavor NOA, Rosario y Cuyo, DescentralizAR en Tucumán) para cerrar acuerdos comerciales propios antes de que Andreani consolide relaciones exclusivas en esas plazas.",
@@ -111,20 +126,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-02",
     "first_seen": "2026-09-02"
-  },
-  {
-    "title": "Auditar el consumo de WhatsApp Business antes de que empiece a cobrarse cada conversación",
-    "context": "Meta confirmó que desde el 1° de octubre de 2026 va a cobrar todos los mensajes de servicio de WhatsApp Business Platform —las respuestas dentro de la ventana de 24 horas, las escriba una persona o un bot— al mismo valor que ya rige para las plantillas de utilidad y autenticación. Hoy ese canal es gratis y tanto Fixy como sus clientes lo usan para atención de pedidos y reclamos.",
-    "action": "Relevar antes de octubre cuántas conversaciones de servicio genera Fixy por WhatsApp y consultar con el proveedor qué tarifa va a regir en Argentina, para decidir si conviene derivar consultas repetitivas de seguimiento a otro canal o a un asistente más acotado.",
-    "type": "estratégica",
-    "priority": "relevante",
-    "source_url": "https://www.wati.io/en/blog/whatsapp-service-message-pricing/",
-    "linked": [
-      "WhatsApp Business: cobro de mensajes de servicio desde octubre"
-    ],
-    "id": "op-9afc0080",
-    "source_kind": "auto",
-    "last_updated": "2026-09-01",
-    "first_seen": "2026-09-01"
   }
 ]

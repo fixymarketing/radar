@@ -405,6 +405,28 @@
     "first_seen": "2026-09-06"
   },
   {
+    "name": "Muse Voice Transcribe",
+    "vendor": "Meta",
+    "what_it_is": "Un modelo de reconocimiento de voz en tiempo real de Meta que transcribe audio y distingue automáticamente quién dice qué (diarización de hablantes), incluso con más de 20 personas hablando en una misma grabación.",
+    "what_changed": "Meta lo presentó el 1 de septiembre de 2026 como su primer modelo de percepción de audio en tiempo real, disponible vía Meta Model API, con soporte para más de 70 idiomas y un costo muy bajo (alrededor de USD 0,18 por hora de audio).",
+    "fixy_use": "Serviría para transcribir y separar por hablante las llamadas de atención al cliente o los audios de WhatsApp de reclamos por envíos, generando un registro escrito para control de calidad y para armar reportes de management sin depender de herramientas de terceros más caras. También podría alimentar resúmenes automáticos de reuniones internas de operaciones.",
+    "verdict": "probar",
+    "verdict_reason": "Es barato y tiene un caso de uso concreto en atención al cliente, aunque requiere que alguien lo integre vía API porque no es un producto con interfaz lista para usar.",
+    "categories": [
+      "Atención al cliente",
+      "Análisis",
+      "Operaciones"
+    ],
+    "pricing_note": "pago - unos USD 0,18 por hora de audio (aprox. USD 3 cada 1000 minutos) vía Meta Model API; no hay plan gratuito confirmado.",
+    "source_url": "https://research.meta.ai/blog/introducing-muse-voice-transcribe",
+    "published_date": "2026-09-01",
+    "priority": "relevante",
+    "id": "ai-meta-muse-voice-transcribe",
+    "source_kind": "auto",
+    "last_updated": "2026-09-07",
+    "first_seen": "2026-09-07"
+  },
+  {
     "name": "Meta Business Agent: cobro por tokens en WhatsApp",
     "vendor": "Meta",
     "what_it_is": "Es una novedad sobre el agente de IA de Meta para WhatsApp Business (ya en el radar de Fixy), que atiende clientes, recomienda productos y puede cerrar ventas de forma autónoma en WhatsApp, Instagram y Messenger.",
@@ -1029,6 +1051,29 @@
     "source_kind": "auto",
     "last_updated": "2026-09-06",
     "first_seen": "2026-09-06"
+  },
+  {
+    "name": "Gmail Live, Docs Live y Keep Live",
+    "vendor": "Google",
+    "what_it_is": "Tres funciones de voz de Gemini dentro de Gmail, Google Docs y Google Keep: permiten hablar con la casilla de correo para buscar información, dictar una idea para que Gemini arme un primer borrador de documento, o convertir pensamientos hablados en notas y listas organizadas.",
+    "what_changed": "Google las había mostrado en Google I/O y las empezó a lanzar de forma general el 3 de septiembre de 2026 para usuarios de los planes pagos Google AI Plus, Pro y Ultra en iOS y Android; para cuentas de Google Workspace todavía figuran como 'próximamente'.",
+    "fixy_use": "Un gerente o una persona de operaciones podría dictar por voz mientras camina el depósito o está en la calle, y pedirle a Gmail que busque un dato puntual en un mail viejo, o a Docs que arme un primer borrador de un informe o de un procedimiento a partir de una idea hablada, ahorrando tiempo de escritura entre tareas operativas.",
+    "verdict": "seguir",
+    "verdict_reason": "Todavía no llega a cuentas de Workspace business, que es probablemente lo que usa el equipo, así que conviene esperar esa etapa antes de evaluarlo en serio.",
+    "categories": [
+      "Productividad",
+      "Gestión del tiempo",
+      "Organización",
+      "Management"
+    ],
+    "pricing_note": "freemium - incluido en los planes pagos Google AI Plus, Pro y Ultra; la llegada a Google Workspace para empresas todavía no tiene fecha confirmada.",
+    "source_url": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/",
+    "published_date": "2026-09-03",
+    "priority": "informativo",
+    "id": "ai-google-gmail-live-docs-live-y-keep-live",
+    "source_kind": "auto",
+    "last_updated": "2026-09-07",
+    "first_seen": "2026-09-07"
   },
   {
     "name": "Gemini 3.8 Flash",

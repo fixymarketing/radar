@@ -121,5 +121,20 @@
     "source_kind": "auto",
     "last_updated": "2026-08-31",
     "first_seen": "2026-08-31"
+  },
+  {
+    "title": "Auditar el consumo de WhatsApp Business antes de que empiece a cobrarse cada conversación",
+    "context": "Meta confirmó que desde el 1° de octubre de 2026 va a cobrar todos los mensajes de servicio de WhatsApp Business Platform —las respuestas dentro de la ventana de 24 horas, las escriba una persona o un bot— al mismo valor que ya rige para las plantillas de utilidad y autenticación. Hoy ese canal es gratis y tanto Fixy como sus clientes lo usan para atención de pedidos y reclamos.",
+    "action": "Relevar antes de octubre cuántas conversaciones de servicio genera Fixy por WhatsApp y consultar con el proveedor qué tarifa va a regir en Argentina, para decidir si conviene derivar consultas repetitivas de seguimiento a otro canal o a un asistente más acotado.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.wati.io/en/blog/whatsapp-service-message-pricing/",
+    "linked": [
+      "WhatsApp Business: cobro de mensajes de servicio desde octubre"
+    ],
+    "id": "op-9afc0080",
+    "source_kind": "auto",
+    "last_updated": "2026-09-01",
+    "first_seen": "2026-09-01"
   }
 ]

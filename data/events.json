@@ -78,33 +78,22 @@
     "city": "Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "La Rural, Predio Ferial de Buenos Aires",
+    "venue": "La Rural – Predio Ferial de Buenos Aires (Av. Sarmiento 2704)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
     "url": "https://www.mercadolibreexperience.com.ar/",
-    "source_url": "https://www.cronista.com/finanzas-mercados/mercado-libre-experience-2026-cuando-es-donde-se-hace-y-por-que-es-ideal-para-emprendedores-y-pymes/",
-    "description": "Segunda edición del evento de comercio electrónico de Mercado Libre en Argentina, con más de 80 speakers, 5 escenarios y unos 8.000 asistentes esperados.",
-    "fixy_relevance": "Es el mayor punto de encuentro de vendedores y marcas de eCommerce del país: sirve para relevar tendencias de venta online, contactar potenciales clientes de fulfillment y monitorear a Mercado Envíos.",
+    "source_url": "https://www.cronista.com/finanzas-mercados/mercado-libre-experience-2026-fecha-entradas-y-los-temas-que-marcaran-el-encuentro-de-e-commerce-mas-grande-de-la-region/",
+    "description": "Encuentro anual de Mercado Libre en La Rural, de 8 a 20 hs, con más de 50 charlas y 80 speakers en 5 escenarios, workshops, networking y una feria con más de 40 stands para vendedores y pymes.",
+    "fixy_relevance": "Es el evento de eCommerce más grande de la región y punto de encuentro directo con vendedores, pymes y marcas que son clientes potenciales de fulfillment y última milla para Fixy.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-argentina-experience-libre-mercado-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-29",
-        "fields": [
-          "city",
-          "province",
-          "venue",
-          "url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-30",
         "fields": [
@@ -145,6 +134,15 @@
           "description",
           "fixy_relevance"
         ]
+      },
+      {
+        "date": "2026-09-07",
+        "fields": [
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
@@ -159,20 +157,20 @@
     "city": "San Salvador de Jujuy",
     "province": "Jujuy",
     "country": "Argentina",
-    "venue": "Ciudad Cultural",
+    "venue": "Ciudad Cultural (Jujuy)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Emprendimiento",
-    "url": "https://eventos.endeavor.org.ar/event/254",
+    "url": "https://www.endeavor.org.ar/",
     "source_url": "https://www.todojujuy.com/jujuy/jujuy-sera-sede-experiencia-endeavor-noa-2026-cuando-sera-el-encuentro-emprendedores-n292884",
-    "description": "Jornada de charlas, talleres y mentorías para emprendedores del norte argentino (Salta, Jujuy, Tucumán) organizada por Endeavor, con un nuevo 'Club de Pitch'.",
-    "fixy_relevance": "Concentra emprendedores y pymes de comercio electrónico del NOA que podrían necesitar servicios de fulfillment y última milla para vender fuera de su región.",
+    "description": "Jornada de Endeavor en Jujuy de 9:30 a 18 hs, con Endeavor Talks, workshops y el nuevo 'Club del Pitch' donde emprendedores seleccionados presentan sus negocios ante un panel.",
+    "fixy_relevance": "Conecta con emprendedores y pymes del norte argentino que, al escalar sus ventas online, necesitan soluciones de logística y fulfillment como las de Fixy.",
     "justification_type": null,
-    "priority": "informativo",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-endeavor-experiencia-noa-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-20",
+    "last_updated": "2026-09-07",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -184,34 +182,44 @@
           "description",
           "fixy_relevance"
         ]
+      },
+      {
+        "date": "2026-09-07",
+        "fields": [
+          "venue",
+          "url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
       }
     ]
   },
   {
     "scope": "ar",
     "name": "AWS Community Day Argentina 2026",
-    "organizer": "Comunidad AWS User Group Argentina",
+    "organizer": "Comunidad de usuarios AWS Argentina",
     "date_start": "2026-09-12",
     "date_end": "2026-09-12",
     "date_confirmed": true,
     "date_note": "El sitio oficial (awsarg.org) confirma el evento para el sábado 12 de septiembre de 2026 en CABA; una agenda previa del radar lo tenía anotado para el 13 de septiembre. Se corrige la fecha al 12/09, que es la que figura en la fuente oficial y coincide con el día de la semana indicado (sábado).",
     "city": "Buenos Aires",
-    "province": "Buenos Aires (CABA)",
+    "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "UAI - Universidad Abierta Interamericana (Av. Montes de Oca 745, CABA)",
+    "venue": "UAI - Universidad Abierta Interamericana",
     "venue_confirmed": true,
-    "format": "presencial",
+    "format": "híbrido",
     "category": "Tecnología",
     "url": "https://awsarg.org/",
     "source_url": "https://www.eventbrite.com/e/aws-community-day-argentina-2026-tickets-1998376308333",
-    "description": "Evento gratuito organizado por la comunidad de usuarios de AWS en Argentina, con sede ya confirmada en la UAI: cinco tracks técnicos, keynotes internacionales y workshops sobre infraestructura cloud.",
-    "fixy_relevance": "Espacio para el equipo de tecnología/operaciones de Fixy para evaluar servicios cloud que bajen costos de infraestructura en sistemas de gestión de fulfillment y tracking.",
+    "description": "Evento tech gratuito de la comunidad AWS, de 9:30 a 17 hs, con más de 1000 asistentes presenciales y 2000 online, 5 tracks de charlas técnicas y workshops de niveles 100 a 400.",
+    "fixy_relevance": "Actualiza al equipo de sistemas de Fixy en tendencias de nube y automatización aplicables a la operación de fulfillment y a la infraestructura tecnológica del negocio.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-argentina-aws-community-day-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-09-07",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -243,6 +251,17 @@
           "fixy_relevance",
           "priority"
         ]
+      },
+      {
+        "date": "2026-09-07",
+        "fields": [
+          "organizer",
+          "province",
+          "venue",
+          "format",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
@@ -261,16 +280,16 @@
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Emprendimiento",
-    "url": "https://eventos.endeavor.org.ar/event/255",
-    "source_url": "https://puntobiz.com.ar/gestion/ya-tiene-fecha-la-nueva-edicion-de-experiencia-endeavor-rosario--202599900",
-    "description": "Encuentro anual de Endeavor en Rosario que reúne a emprendedores, empresarios consolidados y referentes del ecosistema de negocios de Santa Fe.",
-    "fixy_relevance": "Espacio de networking con empresas en crecimiento del cordón industrial de Rosario, zona clave de producción y distribución hacia el interior del país donde Fixy puede captar clientes de eCommerce en expansión.",
+    "url": "https://www.endeavor.org.ar/eventos/experiencia-endeavor-rosario-4/",
+    "source_url": "https://www.on24.com.ar/negocios/conoce-a-los-disertantes-confirmados-de-la-edicion-2026-de-experiencia-endeavor-rosario/",
+    "description": "Jornada de Endeavor en Rosario desde las 8:30 hs, con Santiago Bilinkis y Alejandro Larosa (fyo, Agrofy, Amauta, Biond) entre los speakers, Endeavor Talks y una masterclass sobre clientes para crecer.",
+    "fixy_relevance": "Espacio de networking con emprendedores y empresas de Rosario y el Litoral, región clave para las operaciones logísticas de Fixy.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-endeavor-experiencia-rosario-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-04",
+    "last_updated": "2026-09-07",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -278,6 +297,15 @@
         "fields": [
           "organizer",
           "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "fields": [
           "url",
           "source_url",
           "description",
@@ -473,12 +501,12 @@
   {
     "scope": "ar",
     "name": "Cumbre Federal de Logística 2026",
-    "organizer": "Consejo Federal de Inversiones (CFI) y provincias argentinas",
+    "organizer": "Consejo Federal de Inversiones (CFI)",
     "date_start": "2026-10-16",
     "date_end": "2026-10-16",
     "date_confirmed": true,
     "date_note": "Una búsqueda mostró una mención aislada a '10 de noviembre' para este evento, pero múltiples fuentes (Webpicking, medios provinciales) confirman de forma consistente el 16 de octubre en el CEC Buenos Aires; se prioriza esta fecha.",
-    "city": "CABA",
+    "city": "Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
     "venue": "Centro de Convenciones de Buenos Aires (CEC)",
@@ -487,25 +515,16 @@
     "category": "Logística",
     "url": "https://cfi.org.ar/cumbre_federal_logistica",
     "source_url": "https://webpicking.com/la-cumbre-federal-de-logistica-2026-tiene-fecha/",
-    "description": "Cumbre impulsada por el CFI junto a las provincias, en el marco de la Estrategia Federal Logística, bajo el lema 'Hacia una logística competitiva para el desarrollo federal'. Reúne a gobernadores, autoridades nacionales y provinciales, operadores logísticos y empresas de transporte y comercio exterior.",
-    "fixy_relevance": "Define agenda pública y prioridades de infraestructura logística federal (rutas, corredores, costos) que impactan directamente en los planes de expansión de Fixy hacia el interior del país.",
+    "description": "Encuentro impulsado por el CFI y las provincias bajo el lema 'Hacia una logística competitiva para el desarrollo federal', con gobernadores, autoridades nacionales y CEOs de transporte y producción.",
+    "fixy_relevance": "Aborda directamente la agenda de competitividad logística federal, con implicancias en costos de transporte, infraestructura y regulación que afectan la operación de Fixy.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cumbre-federal-logistica-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-07",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-29",
-        "fields": [
-          "province",
-          "venue",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-30",
         "fields": [
@@ -546,6 +565,15 @@
           "organizer",
           "city",
           "province",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "fields": [
+          "organizer",
+          "city",
           "description",
           "fixy_relevance"
         ]
@@ -819,29 +847,22 @@
     "city": "Escobar",
     "province": "Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro de Capacitación Profesional para el Transporte \"Rogelio Cavalieri Iribarne\" (RCI - FPT/FADEEAC)",
+    "venue": "Centro de Capacitación Profesional para el Transporte \"Rogelio Cavalieri Iribarne\" (FPT-FADEEAC)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
-    "url": "https://arlog.org/actividades/encuentros/",
-    "source_url": "https://aaaci.org.ar/arlog-confirmo-el-xxxiii-encuentro-nacional-de-logistica-empresaria/",
-    "description": "Encuentro anual de ARLOG bajo el lema \"Argentina Logística\", centrado en la estrategia y los habilitadores necesarios para la nueva cadena de suministro.",
-    "fixy_relevance": "Punto de encuentro directo con líderes de logística, transporte y academia del país: útil para benchmarking operativo y networking comercial.",
+    "url": "https://arlog.org/",
+    "source_url": "https://fena.org.ar/2026/04/20/xxxiii-encuentro-nacional-de-logistica-arlog/",
+    "description": "Encuentro anual de ARLOG bajo el lema 'Argentina Logística', centrado en la estrategia y los habilitadores necesarios para la nueva supply chain.",
+    "fixy_relevance": "Principal encuentro anual del sector logístico empresario argentino; referencia directa para benchmarking, tendencias y networking de Fixy con pares del sector.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-arlog-empresaria-encuentro-logistica-nacional-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-28",
-        "fields": [
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-29",
         "fields": [
@@ -873,6 +894,16 @@
         "date": "2026-09-06",
         "fields": [
           "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "fields": [
+          "venue",
+          "url",
+          "source_url",
           "description",
           "fixy_relevance"
         ]
@@ -2232,23 +2263,23 @@
     "date_end": "2026-09-10",
     "date_confirmed": true,
     "date_note": null,
-    "city": "CABA",
+    "city": "Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "Pabellón Ocre, La Rural",
+    "venue": "La Rural, Pabellón Ocre (Av. Sarmiento 2704)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Retail",
     "url": "https://expofranquicias.ar/",
     "source_url": "https://infofranquicias.ar/plus-2/llega-la-31a-expo-franquicias-argentina-a-la-rural-60-marcas-buscan-expandirse-el-9-y-10-de-septiembre",
-    "description": "31ª edición de la feria de franquicias, con cerca de 60 marcas de distintos rubros buscando inversores y nuevos puntos de expansión en todo el país.",
-    "fixy_relevance": "Las marcas que se expanden por franquicia necesitan fulfillment y distribución multi-punto; es una cantera directa de potenciales clientes B2B para Fixy.",
+    "description": "31ª edición de la feria de franquicias en La Rural, de 12 a 20 hs, con cerca de 60 marcas argentinas y ocho brasileñas, rondas de negocios, pasarela de franquicias y escuela de franquicias.",
+    "fixy_relevance": "Reúne marcas que expanden redes de locales físicos y canales digitales, potenciales clientes de fulfillment y distribución para la apertura de nuevos puntos de venta.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-argentina-franquicias-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-07",
     "first_seen": "2026-08-21",
     "change_log": [
       {
@@ -2267,6 +2298,15 @@
         "fields": [
           "city",
           "province",
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "fields": [
+          "city",
           "venue",
           "description",
           "fixy_relevance"
@@ -2930,33 +2970,6 @@
     "source_kind": "auto",
     "last_updated": "2026-08-25",
     "first_seen": "2026-08-25"
-  },
-  {
-    "scope": "ar",
-    "name": "Semana de Emprendimiento e Innovación Entre Ríos 2026",
-    "organizer": "Consorcio AFIDEER (alianza de universidades y sector privado de Entre Ríos)",
-    "date_start": "2026-09-01",
-    "date_end": "2026-09-03",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Paraná y Villa Libertador San Martín",
-    "province": "Entre Ríos",
-    "country": "Argentina",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
-    "format": "presencial",
-    "category": "Emprendimiento",
-    "url": "https://afideer.com.ar/semana-de-emprendimiento-e-innovacion-2026",
-    "source_url": "https://www.valorlocal.com.ar/06/08/2026/afideer-abrio-las-inscripciones-para-la-semana-de-emprendimiento-e-innovacion-entre-rios-2026/",
-    "description": "Tres jornadas en Paraná y Villa Libertador San Martín con conferencias, talleres, paneles sobre ecosistema emprendedor y la final del Desafío de Innovación Entre Ríos 2026, organizadas por el consorcio de cinco universidades y el sector privado agrupado en AFIDEER.",
-    "fixy_relevance": "Le permite a Fixy conectar temprano con el ecosistema emprendedor del Litoral: founders de eCommerce en etapa inicial en Entre Ríos que en el mediano plazo van a necesitar fulfillment y logística de última milla tercerizada.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-emprendimiento-entre-innovacion-rios-semana-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-26",
-    "first_seen": "2026-08-26"
   },
   {
     "scope": "ar",
@@ -3905,28 +3918,28 @@
   {
     "scope": "intl",
     "name": "Mexico E-commerce & Retail Summit 2027",
-    "organizer": "Mexico Business Events, en colaboración con AMECH",
+    "organizer": "Mexico Business Events",
     "date_start": "2027-04-20",
     "date_end": "2027-04-20",
     "date_confirmed": true,
-    "date_note": null,
+    "date_note": "Fecha (20 de abril de 2027) reportada de forma consistente por varios agregadores de eventos (mexicobusiness.events, 10times, ecommercetech.io) para lo que sería la 5ª edición. No se pudo verificar de forma directa en un comunicado oficial del organizador ni en el sitio propio del evento al momento de esta investigación.",
     "city": "Ciudad de México",
     "province": null,
     "country": "México",
-    "venue": "Mexico City Marriott Reforma Hotel, Av. Paseo de la Reforma 276",
+    "venue": "Hotel Marriott Reforma",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Retail",
     "url": "https://mexicobusiness.events/ecommerce/2027/04",
-    "source_url": "https://10times.com/e1xf-g36p-hp34",
-    "description": "Cumbre de un día en Ciudad de México dirigida a líderes senior de retail y e-commerce, centrada en experiencia de cliente, infraestructura, datos y rentabilidad del sector.",
-    "fixy_relevance": "Espacio de networking de alto nivel con retailers y líderes de e-commerce mexicanos; relevante para evaluar una eventual expansión de Fixy a México y para conectar con potenciales clientes o socios de fulfillment.",
+    "source_url": "https://mexicobusiness.events/ecommerce/2027/04",
+    "description": "Foro anual en Ciudad de México que reúne a líderes de retail y e-commerce mexicanos para discutir infraestructura, experiencia de cliente, logística inversa y rentabilidad del comercio digital; en su edición 2026 abordó explícitamente cómo convertir la logística inversa en oportunidad de negocio.",
+    "fixy_relevance": "Espacio de networking de un día con retailers y marcas digitales mexicanas que están definiendo su infraestructura logística y de logística inversa; útil si Fixy evalúa relevamiento de mercado o contactos comerciales de cara a una eventual expansión hacia México, aunque el evento en sí es genérico de retail más que específico de logística.",
     "justification_type": "expansión regional",
-    "priority": "relevante",
+    "priority": "informativo",
     "beyond_90": true,
     "id": "ev-commerce-mexico-retail-summit-2027",
     "source_kind": "auto",
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-07",
     "first_seen": "2026-09-02",
     "change_log": [
       {
@@ -3935,6 +3948,18 @@
           "organizer",
           "venue",
           "category",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "fields": [
+          "organizer",
+          "date_note",
+          "venue",
           "source_url",
           "description",
           "fixy_relevance",
@@ -4104,5 +4129,32 @@
     "source_kind": "auto",
     "last_updated": "2026-09-05",
     "first_seen": "2026-09-05"
+  },
+  {
+    "scope": "ar",
+    "name": "62° Coloquio de IDEA 2026",
+    "organizer": "IDEA (Instituto para el Desarrollo Empresarial de la Argentina)",
+    "date_start": "2026-09-30",
+    "date_end": "2026-10-02",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Mar del Plata",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Hotel Sheraton Mar del Plata (Leandro N. Alem 4221)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Innovación",
+    "url": "https://coloquio.idea.org.ar/",
+    "source_url": "https://www.lacapitalmdp.com/con-milei-invitado-idea-presento-el-coloquio-2026-en-mar-del-plata/",
+    "description": "Encuentro empresarial anual de IDEA bajo el lema 'Invirtiendo la historia. 20 años: de promesa a potencia', con más de 1000 referentes empresariales, gubernamentales y políticos debatiendo el mundo, estabilidad, competitividad y desarrollo.",
+    "fixy_relevance": "Da contexto macroeconómico y de política pública (competitividad, comercio exterior, infraestructura) útil para la planificación estratégica de Fixy, aunque no es un evento sectorial de eCommerce o logística.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-coloquio-idea-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-07",
+    "first_seen": "2026-09-07"
   }
 ]
