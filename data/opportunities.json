@@ -1,5 +1,38 @@
 [
   {
+    "title": "Preparar al equipo comercial para la semana de eventos del 9 al 11 de septiembre (Mercado Libre Experience, Expo Franquicias y agenda del interior)",
+    "context": "En menos de una semana coinciden Expo Franquicias Argentina 2026, Mercado Libre Experience Argentina 2026 y varios encuentros de emprendedores en Jujuy, Salta y Tucumán: es la mayor concentración de vendedores y pymes potencialmente clientes que va a tener Fixy en todo septiembre.",
+    "action": "Definir con anticipación qué evento cubre cada persona del equipo comercial, preparar un material de venta breve (tarifario y cobertura) y coordinar el seguimiento post-evento de los contactos relevados.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.mercadolibreexperience.com.ar/",
+    "linked": [
+      "Mercado Libre Experience Argentina 2026",
+      "Expo Franquicias Argentina 2026",
+      "Experiencia Endeavor NOA 2026",
+      "Potencia – Livingroom de Emprendedores 2026 (Salta Capital)"
+    ],
+    "id": "op-624d95d3",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-09-08"
+  },
+  {
+    "title": "Targetear a los comercios de cercanía que están migrando ventas al canal online como nuevo segmento de clientes de fulfillment",
+    "context": "CAME reportó que las ventas online de comercios de barrio con local a la calle crecieron 17,6% interanual en agosto, mientras la venta física pyme sigue en baja. Son negocios que en general no tienen logística propia para sostener ese crecimiento del canal digital.",
+    "action": "Armar una oferta comercial simple de fulfillment de bajo volumen dirigida a comercios de cercanía y pymes con local físico que recién están escalando su canal online, usando cámaras barriales y CAME como canal de llegada.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.apfdigital.com.ar/noticias/2026/09/07/470066-came-alerto-que-las-ventas-minoristas-pyme-descendieron-0_2por_ciento-interanual-en-agosto",
+    "linked": [
+      "Las ventas online de comercios de cercanía crecieron 17,6% en agosto pese a la caída del retail pyme"
+    ],
+    "id": "op-3ba6a828",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-09-08"
+  },
+  {
     "title": "Evaluar cobertura logística en el sur profundo antes de que Mercado Libre la vuelva estándar",
     "context": "Mercado Libre triplicó su centro logístico en Bariloche (3.300 m², hasta 30.000 paquetes/día operados junto con QX Logística) para cubrir toda la Patagonia andina: San Martín de los Andes, Villa La Angostura, El Bolsón, Esquel e Ingeniero Jacobacci. Es una zona de baja densidad que la mayoría de los operadores 3PL no prioriza, y ML está fijando ahí un estándar de servicio antes que nadie más.",
     "action": "Relevar con clientes y prospectos de la región si hay demanda de fulfillment o última milla de respaldo para vendedores que no quieren depender solo de Mercado Envíos en esas ciudades, antes de que la infraestructura de ML se vuelva el único estándar de servicio de la zona.",
@@ -93,36 +126,6 @@
       "Las importaciones vía courier ya suman US$751 millones en 2026 y podrían superar todo 2025 antes de septiembre"
     ],
     "id": "op-609e3897",
-    "source_kind": "auto",
-    "last_updated": "2026-09-02",
-    "first_seen": "2026-09-02"
-  },
-  {
-    "title": "Diseñar un plan de fulfillment para pedidos frecuentes de ticket bajo",
-    "context": "CACE confirmó que en el primer semestre las órdenes de eCommerce crecieron muy por encima del ticket promedio, que le perdió a la inflación: el consumidor compra más veces pero paga menos por compra. Ese cambio de mezcla presiona los márgenes de cualquier esquema logístico pensado para pedidos de mayor valor.",
-    "action": "Armar una propuesta comercial específica para clientes con alta frecuencia de pedidos de ticket bajo, con tarifas por volumen o consolidación de envíos, en vez de aplicar la misma estructura de costos pensada para tickets más altos.",
-    "type": "producto",
-    "priority": "relevante",
-    "source_url": "https://defonline.com.ar/ciencia-tecnologia/el-crecimiento-del-ecommerce-argentino-ya-roza-los-20-billones-en-el-primer-semestre-de-2026/",
-    "linked": [
-      "CACE detalló los números del primer semestre: 181,5 millones de órdenes y un ticket promedio que le pierde a la inflación"
-    ],
-    "id": "op-521fc5cf",
-    "source_kind": "auto",
-    "last_updated": "2026-09-02",
-    "first_seen": "2026-09-02"
-  },
-  {
-    "title": "Anticiparle a los clientes el ajuste tarifario de octubre por el impuesto a los combustibles",
-    "context": "El Gobierno postergó por segunda vez en el año la suba del impuesto a los combustibles, pero la trasladó a octubre de forma acumulada, lo que anticipa un salto más fuerte que el de un ajuste gradual. Ese respiro es transitorio y ya tiene fecha de vencimiento conocida.",
-    "action": "Comunicarles ahora a los clientes con contrato vigente que en octubre va a haber una revisión tarifaria por el impuesto a los combustibles, para que lo incorporen a su planificación y Fixy se diferencie por anticipar el cambio en vez de trasladarlo de sorpresa.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/economia/2026/08/31/el-gobierno-postergo-hasta-octubre-el-aumento-de-los-impuestos-a-los-combustibles-para-evitar-un-salto-en-la-inflacion/",
-    "linked": [
-      "El Gobierno postergó hasta octubre el aumento de impuestos a los combustibles"
-    ],
-    "id": "op-fed7b57b",
     "source_kind": "auto",
     "last_updated": "2026-09-02",
     "first_seen": "2026-09-02"

@@ -1037,5 +1037,51 @@
     "source_kind": "auto",
     "last_updated": "2026-09-07",
     "first_seen": "2026-09-07"
+  },
+  {
+    "title": "Las ventas online de comercios de cercanía crecieron 17,6% en agosto pese a la caída del retail pyme",
+    "what_happened": "CAME informó que las ventas minoristas pyme cayeron 0,2% interanual en agosto y acumulan una baja de 2,4% en lo que va de 2026. En contraste, las ventas online de esos mismos comercios con local a la calle crecieron 17,6% interanual y subieron 0,4% respecto de julio.",
+    "why_it_matters": "Muestra que el canal digital sigue ganando participación dentro de comercios tradicionales incluso en un escenario de consumo débil, lo que confirma que la migración a lo online no depende solo del ciclo económico general.",
+    "fixy_impact": "Los comercios de barrio o pymes con local físico que empiezan a vender más online son un segmento de clientes potenciales para servicios de fulfillment y última milla tercerizados, porque en general no cuentan con logística propia para escalar ese canal.",
+    "category": "Retail",
+    "geo": "Argentina",
+    "source_name": "CAME / APF Digital",
+    "source_url": "https://www.apfdigital.com.ar/noticias/2026/09/07/470066-came-alerto-que-las-ventas-minoristas-pyme-descendieron-0_2por_ciento-interanual-en-agosto",
+    "published_date": "2026-09-07",
+    "priority": "relevante",
+    "tags": [
+      "consumo",
+      "pymes",
+      "ecommerce",
+      "CAME",
+      "retail"
+    ],
+    "id": "nw-82c2847859",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-09-08"
+  },
+  {
+    "title": "Mercado Libre Experience 2026 reúne el 10 de septiembre a vendedores y pymes en La Rural",
+    "what_happened": "La segunda edición de Mercado Libre Experience se realizará el 10 de septiembre en La Rural, Buenos Aires, con más de 50 charlas, 80 oradores y actividad en cinco escenarios. La agenda incluye estrategias de venta, marketing, logística, medios de pago e inteligencia artificial, orientada a emprendedores, pymes y vendedores del marketplace.",
+    "why_it_matters": "Es el mayor encuentro de comercio electrónico de la región y funciona como termómetro de las prioridades de Mercado Libre para vendedores y logística de cara a lo que resta del año.",
+    "fixy_impact": "Es una oportunidad concreta de networking comercial: muchos de los vendedores y pymes que asistan buscan soluciones de fulfillment y última milla para escalar sus operaciones dentro de Mercado Libre.",
+    "category": "Marketplaces",
+    "geo": "Argentina",
+    "source_name": "El Cronista",
+    "source_url": "https://www.cronista.com/finanzas-mercados/el-gran-encuentro-del-e-commerce-vuelve-a-buenos-aires-que-habra-en-mercado-libre-experience-2026/",
+    "published_date": "2026-09-07",
+    "priority": "informativo",
+    "tags": [
+      "mercadolibre",
+      "evento",
+      "ecommerce",
+      "pymes",
+      "networking"
+    ],
+    "id": "nw-e80899f8b6",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-09-08"
   }
 ]

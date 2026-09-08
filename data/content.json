@@ -737,5 +737,35 @@
     "source_kind": "auto",
     "last_updated": "2026-09-06",
     "first_seen": "2026-09-06"
+  },
+  {
+    "topic": "El consumo digital de los comercios de barrio: la resiliencia inesperada del canal online en la pyme tradicional",
+    "why_now": "El dato de CAME de agosto (ventas online pyme +17,6% mientras la venta física cae) es fresco y contraintuitivo en un contexto de consumo débil.",
+    "fixy_angle": "Fixy puede mostrar con este dato que el ecommerce de proximidad sigue creciendo pese a la crisis y posicionarse como el socio logístico natural de los comercios que no tienen espalda operativa propia para sostenerlo.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.apfdigital.com.ar/noticias/2026/09/07/470066-came-alerto-que-las-ventas-minoristas-pyme-descendieron-0_2por_ciento-interanual-en-agosto",
+    "id": "ct-1eba1d1d",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-09-08"
+  },
+  {
+    "topic": "Automatizar reportes operativos sin programador: lo que las nuevas herramientas de IA le permiten a un equipo chico",
+    "why_now": "Google lanzó Gemini Sheets Canvas (convierte una planilla en un panel interactivo sin código) y Make lanzó Maia, ambas pensadas para gente sin perfil técnico, justo cuando un equipo de operaciones chico como el de Fixy podría necesitar tableros de seguimiento más visuales.",
+    "fixy_angle": "Mostrar con un caso propio (por ejemplo, un panel armado a partir de la planilla de despachos) cómo un equipo de operaciones chico puede automatizar reportes sin depender de un desarrollador.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.infobae.com/tecno/2026/08/29/gemini-puede-convertir-tus-hojas-de-calculo-en-apps-interactivas-con-su-nueva-funcion-de-ia/",
+    "id": "ct-26d1379c",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-09-08"
   }
 ]

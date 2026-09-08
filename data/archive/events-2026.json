@@ -248,5 +248,153 @@
     "source_kind": "auto",
     "last_updated": "2026-08-26",
     "first_seen": "2026-08-26"
+  },
+  {
+    "scope": "ar",
+    "name": "Santa Fe Business Forum 2026",
+    "organizer": "Gobierno de la Provincia de Santa Fe",
+    "date_start": "2026-08-31",
+    "date_end": "2026-09-04",
+    "date_confirmed": true,
+    "date_note": "Se confirmó que la 3ª edición se extiende del 31 de agosto al 4 de septiembre en Rosario, más días de lo que figuraba previamente.",
+    "city": "Rosario",
+    "province": "Santa Fe",
+    "country": "Argentina",
+    "venue": "La Fluvial (con actividades adicionales en la ciudad de Santa Fe y circuitos productivos provinciales)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "eCommerce",
+    "url": "https://www.santafe.gob.ar/santafeglobal/businessforum",
+    "source_url": "https://www.infobae.com/economia/2026/08/30/santa-fe-business-forum-nueva-edicion-del-ya-tradicional-evento-que-busca-fortalecer-la-competitividad-y-abrir-nuevos-mercados/",
+    "description": "Tercera edición del encuentro internacional de negocios de la provincia de Santa Fe: cinco días de rondas de negocios, foro de inversiones y visitas técnicas, con más de 250 compradores de 40 países y 1.000 proveedores locales de sectores como alimentos, autopartes, maquinaria, biotecnología y economía del conocimiento.",
+    "fixy_relevance": "Reúne pymes exportadoras e importadoras que necesitan resolver logística y fulfillment para vender afuera y adentro del país; buen espacio de networking comercial para Fixy en el centro-litoral.",
+    "justification_type": null,
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-business-fe-forum-santa-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-08-28",
+        "fields": [
+          "organizer",
+          "date_note",
+          "city",
+          "venue",
+          "venue_confirmed",
+          "category",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-08-30",
+        "fields": [
+          "organizer",
+          "date_note",
+          "category",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-08-31",
+        "fields": [
+          "organizer",
+          "venue",
+          "category",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "intl",
+    "name": "ANDICOM 2026",
+    "organizer": "CINTEL",
+    "date_start": "2026-09-01",
+    "date_end": "2026-09-04",
+    "date_confirmed": true,
+    "date_note": "Edición 41. La Unión Europea es invitada de honor.",
+    "city": "Cartagena de Indias",
+    "province": null,
+    "country": "Colombia",
+    "venue": "Complejo Las Américas / Hotel Faranda Collection",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Tecnología",
+    "url": "https://andicom.co/",
+    "source_url": "https://360radio.com.co/andicom-2026-en-cartagena-el-congreso-clave-de-tecnologia-y-negocios-enfocado-en-inteligencia-artificial/229190/",
+    "description": "Congreso internacional de TIC más grande de Colombia, con eje 2026 en aplicación real de inteligencia artificial a la productividad empresarial. Reúne operadores, gobierno, corporativos y proveedores tecnológicos.",
+    "fixy_relevance": "Punto de entrada institucional al ecosistema tecnológico y corporativo colombiano, mercado natural de expansión. Útil para mapear partners de tecnología logística y contactos de grandes retailers que tercerizan fulfillment.",
+    "justification_type": "networking",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-andicom-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "scope": "ar",
+    "name": "EXPOCON 2026",
+    "organizer": "IDEP (Instituto de Desarrollo Productivo de Tucumán)",
+    "date_start": "2026-09-03",
+    "date_end": "2026-09-04",
+    "date_confirmed": true,
+    "date_note": "Se confirmó como evento de dos jornadas (3 y 4 de septiembre) en el Hotel Sheraton Tucumán; la ficha previa solo tenía la fecha de inicio.",
+    "city": "San Miguel de Tucumán",
+    "province": "Tucumán",
+    "country": "Argentina",
+    "venue": "Sheraton Tucumán Hotel",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Innovación",
+    "url": "https://idep.gov.ar/expocon-tucuman-2026/",
+    "source_url": "https://www.lv12.com.ar/empresas/el-idep-convoca-empresas-tucumanas-participar-expocon-2026-n199550",
+    "description": "Tercera edición de EXPOCON, la exposición de Economía del Conocimiento de Tucumán, que reúne startups, empresas, academia e inversores en torno a innovación y desarrollo productivo.",
+    "fixy_relevance": "Es un punto de contacto con el ecosistema de tecnología y economía del conocimiento del NOA, útil si Fixy busca ampliar operación o alianzas de fulfillment fuera de CABA.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-expocon-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-08-22",
+    "change_log": [
+      {
+        "date": "2026-08-26",
+        "fields": [
+          "organizer",
+          "category",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-02",
+        "fields": [
+          "organizer",
+          "date_note",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   }
 ]

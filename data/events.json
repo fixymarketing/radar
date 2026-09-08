@@ -1,74 +1,6 @@
 [
   {
     "scope": "ar",
-    "name": "Santa Fe Business Forum 2026",
-    "organizer": "Gobierno de la Provincia de Santa Fe",
-    "date_start": "2026-08-31",
-    "date_end": "2026-09-04",
-    "date_confirmed": true,
-    "date_note": "Se confirmó que la 3ª edición se extiende del 31 de agosto al 4 de septiembre en Rosario, más días de lo que figuraba previamente.",
-    "city": "Rosario",
-    "province": "Santa Fe",
-    "country": "Argentina",
-    "venue": "La Fluvial (con actividades adicionales en la ciudad de Santa Fe y circuitos productivos provinciales)",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "eCommerce",
-    "url": "https://www.santafe.gob.ar/santafeglobal/businessforum",
-    "source_url": "https://www.infobae.com/economia/2026/08/30/santa-fe-business-forum-nueva-edicion-del-ya-tradicional-evento-que-busca-fortalecer-la-competitividad-y-abrir-nuevos-mercados/",
-    "description": "Tercera edición del encuentro internacional de negocios de la provincia de Santa Fe: cinco días de rondas de negocios, foro de inversiones y visitas técnicas, con más de 250 compradores de 40 países y 1.000 proveedores locales de sectores como alimentos, autopartes, maquinaria, biotecnología y economía del conocimiento.",
-    "fixy_relevance": "Reúne pymes exportadoras e importadoras que necesitan resolver logística y fulfillment para vender afuera y adentro del país; buen espacio de networking comercial para Fixy en el centro-litoral.",
-    "justification_type": null,
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-business-fe-forum-santa-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-31",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-08-28",
-        "fields": [
-          "organizer",
-          "date_note",
-          "city",
-          "venue",
-          "venue_confirmed",
-          "category",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
-      {
-        "date": "2026-08-30",
-        "fields": [
-          "organizer",
-          "date_note",
-          "category",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-08-31",
-        "fields": [
-          "organizer",
-          "venue",
-          "category",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
     "name": "Mercado Libre Experience Argentina 2026",
     "organizer": "Mercado Libre",
     "date_start": "2026-09-10",
@@ -78,33 +10,22 @@
     "city": "Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "La Rural – Predio Ferial de Buenos Aires (Av. Sarmiento 2704)",
+    "venue": "La Rural (Av. Sarmiento 2704, CABA)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
     "url": "https://www.mercadolibreexperience.com.ar/",
     "source_url": "https://www.cronista.com/finanzas-mercados/mercado-libre-experience-2026-fecha-entradas-y-los-temas-que-marcaran-el-encuentro-de-e-commerce-mas-grande-de-la-region/",
-    "description": "Encuentro anual de Mercado Libre en La Rural, de 8 a 20 hs, con más de 50 charlas y 80 speakers en 5 escenarios, workshops, networking y una feria con más de 40 stands para vendedores y pymes.",
-    "fixy_relevance": "Es el evento de eCommerce más grande de la región y punto de encuentro directo con vendedores, pymes y marcas que son clientes potenciales de fulfillment y última milla para Fixy.",
+    "description": "Encuentro anual de Mercado Libre en La Rural con más de 50 charlas, 80 speakers y 5 escenarios sobre e-commerce, dirigido a vendedores, pymes y marcas, con más de 8.000 asistentes esperados.",
+    "fixy_relevance": "Es el evento de referencia del ecosistema donde suelen anunciarse novedades de Mercado Envíos y fulfillment, y donde circulan vendedores que buscan operadores logísticos: alta oportunidad de prospección comercial y de detectar tendencias del sector antes que la competencia.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-argentina-experience-libre-mercado-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-07",
+    "last_updated": "2026-09-08",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-30",
-        "fields": [
-          "province",
-          "venue",
-          "category",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-31",
         "fields": [
@@ -143,6 +64,14 @@
           "description",
           "fixy_relevance"
         ]
+      },
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
@@ -153,24 +82,24 @@
     "date_start": "2026-09-10",
     "date_end": "2026-09-10",
     "date_confirmed": true,
-    "date_note": null,
+    "date_note": "Múltiples fuentes recientes y coincidentes (todojujuy, Diario Pregón, Somos Jujuy) confirman sede en Jujuy el 10/9. También se hallaron menciones sueltas de un encuentro en Salta el 4/9 vinculado a Endeavor NOA, posiblemente una actividad previa o de otra edición; se priorizó la fecha y sede con mayor respaldo de fuentes.",
     "city": "San Salvador de Jujuy",
     "province": "Jujuy",
     "country": "Argentina",
-    "venue": "Ciudad Cultural (Jujuy)",
+    "venue": "Ciudad Cultural",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Emprendimiento",
-    "url": "https://www.endeavor.org.ar/",
-    "source_url": "https://www.todojujuy.com/jujuy/jujuy-sera-sede-experiencia-endeavor-noa-2026-cuando-sera-el-encuentro-emprendedores-n292884",
-    "description": "Jornada de Endeavor en Jujuy de 9:30 a 18 hs, con Endeavor Talks, workshops y el nuevo 'Club del Pitch' donde emprendedores seleccionados presentan sus negocios ante un panel.",
-    "fixy_relevance": "Conecta con emprendedores y pymes del norte argentino que, al escalar sus ventas online, necesitan soluciones de logística y fulfillment como las de Fixy.",
+    "url": "https://www.endeavor.org.ar/blog-article-novedades-agenda-2026-endeavor_argentina-emprendedores/",
+    "source_url": "https://www.todojujuy.com/jujuy/experiencia-endeavor-noa-2026-jujuy-cada-ano-nos-queremos-ir-superando-n293678",
+    "description": "Encuentro regional de Endeavor que reúne a emprendedores, líderes empresariales y referentes de Jujuy, Salta y Tucumán, con charlas, talleres y mentorías sobre escalamiento y nuevos mercados.",
+    "fixy_relevance": "Punto de contacto con pymes y emprendedores del NOA en etapa de escalamiento que empiezan a vender online y necesitan soluciones logísticas fuera del AMBA.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-endeavor-experiencia-noa-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-07",
+    "last_updated": "2026-09-08",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -191,6 +120,17 @@
           "description",
           "fixy_relevance",
           "priority"
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "date_note",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
         ]
       }
     ]
@@ -1028,33 +968,6 @@
         ]
       }
     ]
-  },
-  {
-    "scope": "intl",
-    "name": "ANDICOM 2026",
-    "organizer": "CINTEL",
-    "date_start": "2026-09-01",
-    "date_end": "2026-09-04",
-    "date_confirmed": true,
-    "date_note": "Edición 41. La Unión Europea es invitada de honor.",
-    "city": "Cartagena de Indias",
-    "province": null,
-    "country": "Colombia",
-    "venue": "Complejo Las Américas / Hotel Faranda Collection",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Tecnología",
-    "url": "https://andicom.co/",
-    "source_url": "https://360radio.com.co/andicom-2026-en-cartagena-el-congreso-clave-de-tecnologia-y-negocios-enfocado-en-inteligencia-artificial/229190/",
-    "description": "Congreso internacional de TIC más grande de Colombia, con eje 2026 en aplicación real de inteligencia artificial a la productividad empresarial. Reúne operadores, gobierno, corporativos y proveedores tecnológicos.",
-    "fixy_relevance": "Punto de entrada institucional al ecosistema tecnológico y corporativo colombiano, mercado natural de expansión. Útil para mapear partners de tecnología logística y contactos de grandes retailers que tercerizan fulfillment.",
-    "justification_type": "networking",
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-andicom-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
   },
   {
     "scope": "intl",
@@ -1919,7 +1832,7 @@
   {
     "scope": "intl",
     "name": "INTRA-LOG Expo South America 2026",
-    "organizer": "Feiras & Negócios",
+    "organizer": "INTERLINK Exhibitions y Grupo IMAM",
     "date_start": "2026-09-15",
     "date_end": "2026-09-17",
     "date_confirmed": true,
@@ -1927,20 +1840,20 @@
     "city": "São Paulo",
     "province": null,
     "country": "Brasil",
-    "venue": "Expo Center Norte, Pavilhão Azul",
+    "venue": "Expo Center Norte (Pavilhão Azul)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
-    "url": "https://intralogexpo.com.br/",
-    "source_url": "https://logweb.com.br/intra-log-expo-2026-automacao-logistica-intralogistica-sao-paulo/",
-    "description": "Tercera edición de la feria de automatización logística e intralogística de Brasil, que este año suma una sección de packaging; se esperan más de 8.000 visitantes y 400 marcas nacionales e internacionales.",
-    "fixy_relevance": "Vidriera de tecnología de automatización de almacenes, picking y fulfillment; relevante para evaluar proveedores e innovación operativa que ayuden a bajar costos de almacenamiento.",
+    "url": "https://intralogexpo.com.br/sobre-a-feira",
+    "source_url": "https://webpicking.com/intra-log-expo-south-america-amplia-su-edicion-de-2026/",
+    "description": "Tercera edición de la feria de intralogística, automatización de almacenes y manejo de materiales, con más de 400 marcas y 8.000 visitantes esperados, en paralelo con congresos de embalajes y transporte.",
+    "fixy_relevance": "Relevante para actualizar tecnología de automatización de almacén y fulfillment center, con potencial de contacto con proveedores de equipamiento y software para operaciones de almacenamiento y picking.",
     "justification_type": "aprendizaje",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-america-intra-log-south-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-25",
+    "last_updated": "2026-09-08",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -1948,6 +1861,17 @@
         "fields": [
           "organizer",
           "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "organizer",
+          "venue",
+          "url",
+          "source_url",
           "description",
           "fixy_relevance"
         ]
@@ -2266,20 +2190,20 @@
     "city": "Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "La Rural, Pabellón Ocre (Av. Sarmiento 2704)",
+    "venue": "La Rural, Pabellón Ocre (Av. Sarmiento 2704, CABA)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Retail",
     "url": "https://expofranquicias.ar/",
     "source_url": "https://infofranquicias.ar/plus-2/llega-la-31a-expo-franquicias-argentina-a-la-rural-60-marcas-buscan-expandirse-el-9-y-10-de-septiembre",
-    "description": "31ª edición de la feria de franquicias en La Rural, de 12 a 20 hs, con cerca de 60 marcas argentinas y ocho brasileñas, rondas de negocios, pasarela de franquicias y escuela de franquicias.",
-    "fixy_relevance": "Reúne marcas que expanden redes de locales físicos y canales digitales, potenciales clientes de fulfillment y distribución para la apertura de nuevos puntos de venta.",
+    "description": "31ª edición de la feria de franquicias en Argentina: cerca de 60 marcas exponen sus esquemas de expansión ante potenciales inversores.",
+    "fixy_relevance": "Las marcas que se expanden vía franquicias necesitan logística multipunto y reposición estandarizada entre locales: buena cantera de leads B2B para fulfillment y distribución a nuevos puntos de venta.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-argentina-franquicias-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-07",
+    "last_updated": "2026-09-08",
     "first_seen": "2026-08-21",
     "change_log": [
       {
@@ -2307,6 +2231,14 @@
         "date": "2026-09-07",
         "fields": [
           "city",
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "fields": [
           "venue",
           "description",
           "fixy_relevance"
@@ -2459,59 +2391,6 @@
     "source_kind": "auto",
     "last_updated": "2026-08-21",
     "first_seen": "2026-08-21"
-  },
-  {
-    "scope": "ar",
-    "name": "EXPOCON 2026",
-    "organizer": "IDEP (Instituto de Desarrollo Productivo de Tucumán)",
-    "date_start": "2026-09-03",
-    "date_end": "2026-09-04",
-    "date_confirmed": true,
-    "date_note": "Se confirmó como evento de dos jornadas (3 y 4 de septiembre) en el Hotel Sheraton Tucumán; la ficha previa solo tenía la fecha de inicio.",
-    "city": "San Miguel de Tucumán",
-    "province": "Tucumán",
-    "country": "Argentina",
-    "venue": "Sheraton Tucumán Hotel",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Innovación",
-    "url": "https://idep.gov.ar/expocon-tucuman-2026/",
-    "source_url": "https://www.lv12.com.ar/empresas/el-idep-convoca-empresas-tucumanas-participar-expocon-2026-n199550",
-    "description": "Tercera edición de EXPOCON, la exposición de Economía del Conocimiento de Tucumán, que reúne startups, empresas, academia e inversores en torno a innovación y desarrollo productivo.",
-    "fixy_relevance": "Es un punto de contacto con el ecosistema de tecnología y economía del conocimiento del NOA, útil si Fixy busca ampliar operación o alianzas de fulfillment fuera de CABA.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-expocon-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-02",
-    "first_seen": "2026-08-22",
-    "change_log": [
-      {
-        "date": "2026-08-26",
-        "fields": [
-          "organizer",
-          "category",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
-      {
-        "date": "2026-09-02",
-        "fields": [
-          "organizer",
-          "date_note",
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
   },
   {
     "scope": "intl",
@@ -2731,20 +2610,20 @@
     "city": "São Paulo",
     "province": null,
     "country": "Brasil",
-    "venue": "São Paulo Expo (Rodovia dos Imigrantes, km 1.5)",
+    "venue": "São Paulo Expo",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Marketplaces",
-    "url": "https://mercadolivreexperience.mercadolivre.com.br/",
+    "url": "https://mercadolivreexperience.mercadolivre.com.br/faq",
     "source_url": "https://www.sympla.com.br/evento/mercado-livre-experience-2026/3372991",
-    "description": "10ª edición del evento oficial de Mercado Livre para vendedores, marcas y proveedores tecnológicos y logísticos, con foco en tendencias de venta, IA y logística para eCommerce.",
-    "fixy_relevance": "Evento del marketplace más grande de la región con foco explícito en logística y fulfillment para sellers; alta relevancia para posicionamiento institucional y contacto con actores del ecosistema Mercado Libre.",
-    "justification_type": "networking",
+    "description": "10ª edición del evento insignia de Mercado Livre en Brasil, con seis escenarios y más de 55 horas de contenido sobre IA aplicada a negocios, logística como ventaja competitiva y el futuro del retail.",
+    "fixy_relevance": "Es el evento más grande del principal marketplace regional, con un eje específico de logística como ventaja competitiva; clave para benchmarking, contacto con proveedores de fulfillment brasileños y detección temprana de tendencias que luego llegan a Argentina.",
+    "justification_type": "aprendizaje",
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-experience-livre-mercado-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-09-08",
     "first_seen": "2026-08-23",
     "change_log": [
       {
@@ -2764,6 +2643,16 @@
           "description",
           "fixy_relevance",
           "priority"
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "venue",
+          "url",
+          "description",
+          "fixy_relevance",
+          "justification_type"
         ]
       }
     ]
@@ -2785,20 +2674,29 @@
     "category": "Logística",
     "url": "https://eventos.ecommercebrasil.com.br/eventos-2026/ecbr-summit-logistica",
     "source_url": "https://eventos.ecommercebrasil.com.br/eventos-2026/ecbr-summit-logistica",
-    "description": "Encuentro de un día organizado por E-Commerce Brasil dedicado a fulfillment, última milla, ruteo, almacenamiento inteligente, SLA, costos operativos e impacto de la inteligencia artificial en la operación logística del eCommerce.",
-    "fixy_relevance": "Es el evento más específico encontrado sobre los mismos temas que resuelve Fixy a diario (fulfillment, última milla, ruteo con IA); referencia directa para benchmarking de soluciones tecnológicas y contacto con proveedores que ya operan a escala en Brasil.",
+    "description": "Summit especializado en logística para eCommerce que aborda fulfillment, última milla, ruteo, almacenamiento inteligente, sustentabilidad, SLA y el impacto de la IA en las operaciones.",
+    "fixy_relevance": "Es el evento internacional más alineado con el core de negocio de Fixy (fulfillment y última milla para eCommerce); alta oportunidad de aprendizaje técnico y networking con pares brasileños y proveedores tecnológicos del sector.",
     "justification_type": "aprendizaje",
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-ecbr-logistica-summit-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-23",
-    "first_seen": "2026-08-23"
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-08-23",
+    "change_log": [
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
     "name": "Supply Chain Executive Summit 2026",
-    "organizer": "Supply Chain Executive Summit",
+    "organizer": "7th Experience",
     "date_start": "2026-09-16",
     "date_end": "2026-09-16",
     "date_confirmed": true,
@@ -2810,27 +2708,38 @@
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
-    "url": "https://supplychainexecutivesummit.com.br/",
+    "url": "https://7the.com.br/eventos/supply/",
     "source_url": "https://www.sympla.com.br/evento/supply-chain-executive-summit-2026/3125407",
-    "description": "Encuentro exclusivo para líderes de supply chain y logística de Brasil, con eje en decisiones estratégicas, tecnología, sostenibilidad, gestión de riesgo y costos, y la premiación anual a los Top 50 ejecutivos del sector.",
-    "fixy_relevance": "Formato ejecutivo de alto nivel (no técnico-operativo) que permite construir vínculos con tomadores de decisión de supply chain de grandes retailers e industrias brasileñas, útil de cara a una eventual expansión regional o alianzas de fulfillment cross-border.",
+    "description": "Evento exclusivo para líderes de supply chain y logística de Brasil, con foco en tecnología e innovación, sustentabilidad, gestión de riesgo y de costos y talento, en formato de alto nivel y networking selectivo.",
+    "fixy_relevance": "Espacio de networking estratégico de alto nivel con ejecutivos de supply chain brasileños, útil para detectar tendencias regionales y explorar potenciales alianzas comerciales.",
     "justification_type": "networking",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-chain-executive-summit-supply-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-23",
-    "first_seen": "2026-08-23"
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-08-23",
+    "change_log": [
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "organizer",
+          "url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
     "name": "PARCEL Forum 2026",
-    "organizer": "PARCEL Media / CloserStill Media",
+    "organizer": "PARCEL / CloserStill Media",
     "date_start": "2026-09-14",
     "date_end": "2026-09-16",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Kissimmee (Orlando), Florida",
+    "city": "Kissimmee (Orlando)",
     "province": null,
     "country": "Estados Unidos",
     "venue": "Gaylord Palms Resort & Convention Center",
@@ -2838,16 +2747,28 @@
     "format": "presencial",
     "category": "Logística",
     "url": "https://www.parcelforum.com/",
-    "source_url": "https://www.e2open.com/events/parcel-forum-2026",
-    "description": "Conferencia estadounidense enfocada exclusivamente en estrategia de envíos de paquetería (parcel): negociación de tarifas con couriers, auditoría de fletes, peso dimensional y gestión de devoluciones, dirigida a áreas de operaciones, transporte y fulfillment.",
-    "fixy_relevance": "Es uno de los pocos eventos globales centrados 100% en la operación de última milla y paquetería —el corazón del negocio de Fixy— con contenido aplicable directo a negociación con couriers y reducción de costos de envío y devoluciones; útil como benchmark aunque no implique viaje inmediato.",
+    "source_url": "https://vimaan.ai/resources/blog/parcel-forum-2026-guide/",
+    "description": "Conferencia y exposición especializada en distribución de paquetería, última milla y operaciones de parcel shipping en Estados Unidos, con agenda técnica y piso de exhibición de tres días.",
+    "fixy_relevance": "Referencia global en tecnología de última milla y parcel shipping; útil como aprendizaje sobre innovaciones que luego se adaptan al mercado argentino y para relevar proveedores tecnológicos internacionales.",
     "justification_type": "aprendizaje",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-forum-parcel-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-24",
-    "first_seen": "2026-08-24"
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-08-24",
+    "change_log": [
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "organizer",
+          "city",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -3410,11 +3331,11 @@
   {
     "scope": "ar",
     "name": "Potencia – Livingroom de Emprendedores 2026 (Salta Capital)",
-    "organizer": "Gobierno de la Provincia de Salta (Ministerio de Gobierno y Justicia) junto a Livingroom",
+    "organizer": "Ministerio de Gobierno y Justicia de Salta y Livingroom",
     "date_start": "2026-09-11",
     "date_end": "2026-09-13",
     "date_confirmed": true,
-    "date_note": null,
+    "date_note": "La edición Capital se extiende del 11 al 13 de septiembre según fuentes oficiales (salta.gob.ar), no es un evento de un solo día.",
     "city": "Salta",
     "province": "Salta",
     "country": "Argentina",
@@ -3422,17 +3343,30 @@
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Emprendimiento",
-    "url": "https://potencia.salta.gob.ar/",
-    "source_url": "https://www.salta.gob.ar/prensa/noticias/potencia-una-feria-que-crece-recorre-salta-y-fortalece-a-los-emprendedores-109494",
-    "description": "Feria provincial de emprendedores organizada por el gobierno de Salta, con cerca de mil emprendedores seleccionados de toda la provincia exhibiendo productos, además de espacios gastronómicos y actividades para público general.",
-    "fixy_relevance": "Da visibilidad sobre el emprendedorismo emergente del NOA; le sirve a Fixy como radar de potenciales clientes chicos de la región que en algún momento van a necesitar tercerizar envíos y almacenamiento.",
+    "url": "https://potencia.salta.gob.ar/capital-2026/",
+    "source_url": "https://www.salta.gob.ar/prensa/noticias/potencia-salta-2026-se-encuentra-disponible-el-listado-de-emprendedores-seleccionados-109507",
+    "description": "Feria provincial de emprendedores de Salta con cerca de mil participantes, stands de proyectos de toda la provincia, propuestas gastronómicas y espacios de networking.",
+    "fixy_relevance": "Emprendedores salteños en fase inicial que podrían necesitar fulfillment ligero al escalar sus ventas online desde el interior del país.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-capital-emprendedores-livingroom-potencia-salta-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-28",
-    "first_seen": "2026-08-28"
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-08-28",
+    "change_log": [
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "organizer",
+          "date_note",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -3445,20 +3379,20 @@
     "city": "Ciudad de México",
     "province": null,
     "country": "México",
-    "venue": "Expo Santa Fe",
+    "venue": "Expo Santa Fe (Salas B y C)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Marketplaces",
-    "url": "https://www.mercadolibreexperience.com.mx/",
+    "url": "https://www.merca20.com/mercado-libre-experience-2026-fecha-que-encontraras-y-donde-sera-el-evento-de-ecommerce-de-mexico/",
     "source_url": "https://www.informabtl.com/mercado-libre-experience-2026-mexico-expo-santa-fe/",
-    "description": "Sexta edición del evento de e-commerce y fintech de Mercado Libre en México, con cerca de 12.000 asistentes esperados y paneles sobre marketplaces, logística y crecimiento de negocios digitales.",
-    "fixy_relevance": "Es el evento de e-commerce más grande de México con foco en sellers y marketplaces: una vidriera de negocios y networking si Fixy evalúa presencia, alianzas o expansión comercial hacia el mercado mexicano.",
+    "description": "Evento anual insignia de Mercado Libre en México, con una convocatoria estimada de 12.000 asistentes entre vendedores, emprendedores y marcas, enfocado en tendencias de eCommerce, logística y pagos digitales.",
+    "fixy_relevance": "Mercado Libre es uno de los principales marketplaces con los que interactúa la operación de Fixy; el evento permite relevar tendencias de fulfillment y última milla del ecosistema y hacer networking con sellers y marcas que podrían tercerizar logística.",
     "justification_type": "negocios",
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-experience-libre-mercado-mexico-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-31",
+    "last_updated": "2026-09-08",
     "first_seen": "2026-08-28",
     "change_log": [
       {
@@ -3470,6 +3404,15 @@
           "fixy_relevance",
           "justification_type",
           "priority"
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "venue",
+          "url",
+          "description",
+          "fixy_relevance"
         ]
       }
     ]
@@ -3864,7 +3807,7 @@
   {
     "scope": "ar",
     "name": "Social Media Day Santa Fe 2026",
-    "organizer": "Social Media Day Argentina",
+    "organizer": "Digital Interactivo / Mediática Interactive",
     "date_start": "2026-09-10",
     "date_end": "2026-09-10",
     "date_confirmed": true,
@@ -3878,15 +3821,25 @@
     "category": "Marketing",
     "url": "https://smday.com.ar/santafe/",
     "source_url": "https://www.airedesantafe.com.ar/santa-fe/social-media-day-santa-fe-desembarca-la-capital-provincial-n595012",
-    "description": "Edición provincial del Social Media Day Argentina en la ciudad de Santa Fe, con charlas sobre tendencias digitales, IA, redes sociales y transformación digital.",
-    "fixy_relevance": "Sirve al equipo de marketing de Fixy para tomar el pulso de tendencias de comunicación digital en el interior, y para hacer networking con marcas y agencias de la región litoral.",
+    "description": "Capítulo santafesino del ciclo Social Media Day, con foco en marketing digital, redes sociales y tendencias del sector para profesionales de la región.",
+    "fixy_relevance": "Espacio de networking con marcas y agencias que gestionan tiendas online del Litoral, útil para relevar tendencias de marketing que después generan picos de demanda logística.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-day-fe-media-santa-social-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-02",
-    "first_seen": "2026-09-02"
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-09-02",
+    "change_log": [
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "organizer",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -4065,16 +4018,26 @@
     "format": "presencial",
     "category": "Pagos y Fintech",
     "url": "https://descentralizar.org/",
-    "source_url": "https://www.criptotendencias.com/actualidad/descentralizar-inicia-su-gira-federal-2026-con-una-agenda-de-actividades-en-san-luis-cordoba-y-tucuman-en-argentina/",
-    "description": "Jornada gratuita de cierre de la gira federal 2026 de DescentralizAR (7ª edición), organizada por la ONG Bitcoin Argentina, con foco en educación sobre Bitcoin y tecnologías descentralizadas, tras paradas en San Luis y Córdoba.",
-    "fixy_relevance": "Radar temprano de adopción de pagos con criptoactivos y billeteras descentralizadas en el interior, relevante para evaluar futuros medios de cobro en operaciones de eCommerce del NOA.",
+    "source_url": "https://www.estamosenlinea.com/2026/09/07/descentralizar-llega-a-tucuman-con-una-jornada-gratuita-sobre-bitcoin-y-tecnologias-descentralizadas/",
+    "description": "Jornada gratuita sobre Bitcoin y tecnologías descentralizadas, con talleres prácticos de autocustodia y billeteras digitales, dentro de la gira federal de DescentralizAR por San Luis, Córdoba y Tucumán.",
+    "fixy_relevance": "Sirve para monitorear la adopción de pagos con cripto en el interior, un método de cobro emergente que podría empezar a aparecer en checkouts de e-commerce de clientes de Fixy.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-descentralizar-tucuman-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-05",
-    "first_seen": "2026-09-05"
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-09-05",
+    "change_log": [
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",

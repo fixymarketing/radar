@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-07T12:27:32.137Z",
-  "last_updated_ar": "07/09/2026, 09:27",
-  "date": "2026-09-07",
+  "generated_at": "2026-09-08T12:23:44.706Z",
+  "last_updated_ar": "08/09/2026, 09:23",
+  "date": "2026-09-08",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "La Justicia bonaerense pasó de investigar a imputar formalmente a Mercado Pago y Ualá con multas de hasta $1.883 millones aplicables desde el viernes, Mercado Libre triplicó su centro logístico en Bariloche para cubrir toda la Patagonia andina, y en tres días arranca su Experience 2026 en La Rural.",
+  "summary_line": "La Justicia bonaerense imputó formalmente a Mercado Pago y Ualá con multas de hasta $1.883 millones aplicables desde el viernes, el canal online de los comercios de barrio creció 17,6% en agosto pese a la crisis del retail pyme, y en dos días arranca en La Rural el Mercado Libre Experience Argentina 2026, la semana de mayor concentración de eventos comerciales del año para Fixy.",
   "counters": {
     "news_today": 2,
-    "news_total": 45,
+    "news_total": 47,
     "events_upcoming": 81,
     "events_ar_upcoming": 46,
     "events_intl_upcoming": 35,
     "events_later": 21,
     "opportunities_open": 8,
-    "opportunities_today": 1,
-    "ai_today": 2,
-    "ai_to_try": 34,
-    "content_ideas": 49,
+    "opportunities_today": 2,
+    "ai_today": 1,
+    "ai_to_try": 33,
+    "content_ideas": 51,
     "added_news": 2,
     "updated_news": 0,
-    "added_events": 1,
-    "updated_events": 8,
-    "added_ai": 2,
-    "archived": 4,
+    "added_events": 0,
+    "updated_events": 12,
+    "added_ai": 1,
+    "archived": 5,
     "discarded_quality": 0
   },
   "next_event": {
@@ -30,7 +30,7 @@
     "name": "Expo Franquicias Argentina 2026",
     "date_start": "2026-09-09",
     "city": "Buenos Aires",
-    "days_away": 2
+    "days_away": 1
   },
   "highlights": [
     {
@@ -45,21 +45,21 @@
       "kind": "event",
       "title": "Mercado Libre Experience Argentina 2026",
       "priority": "alta",
-      "one_liner": "Es en tres días, con sede confirmada en La Rural y más de 40 stands de vendedores y pymes, el mayor punto de encuentro comercial del año para Fixy."
+      "one_liner": "Es en dos días, con sede confirmada en La Rural y más de 50 charlas y 80 oradores: el mayor punto de encuentro comercial del año para Fixy."
     },
     {
-      "id": "nw-8a800a8441",
+      "id": "nw-82c2847859",
       "kind": "news",
-      "title": "Mercado Libre triplica su centro logístico en Bariloche para cubrir toda la Patagonia andina",
+      "title": "Las ventas online de comercios de cercanía crecieron 17,6% en agosto pese a la caída del retail pyme",
       "priority": "relevante",
-      "one_liner": "Muestra la escala con la que Mercado Libre ataca mercados regionales de baja densidad, un parámetro para pensar dónde Fixy puede diferenciarse en el interior."
+      "one_liner": "El canal digital sigue ganando terreno entre las pymes con local a la calle incluso con el consumo físico en baja, y son un segmento de clientes potencial para fulfillment tercerizado."
     },
     {
-      "id": "op-b3a79944",
+      "id": "op-3ba6a828",
       "kind": "opportunity",
-      "title": "Evaluar cobertura logística en el sur profundo antes de que Mercado Libre la vuelva estándar",
-      "priority": "informativo",
-      "one_liner": "La oportunidad concreta que se desprende de la apuesta de Mercado Libre a la Patagonia andina."
+      "title": "Targetear a los comercios de cercanía que están migrando ventas al canal online como nuevo segmento de clientes de fulfillment",
+      "priority": "relevante",
+      "one_liner": "La oportunidad concreta que se desprende del salto de ventas online de los comercios de barrio."
     }
   ]
 }

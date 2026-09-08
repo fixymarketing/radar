@@ -136,5 +136,35 @@
     "source_kind": "auto",
     "last_updated": "2026-09-01",
     "first_seen": "2026-09-01"
+  },
+  {
+    "title": "Diseñar un plan de fulfillment para pedidos frecuentes de ticket bajo",
+    "context": "CACE confirmó que en el primer semestre las órdenes de eCommerce crecieron muy por encima del ticket promedio, que le perdió a la inflación: el consumidor compra más veces pero paga menos por compra. Ese cambio de mezcla presiona los márgenes de cualquier esquema logístico pensado para pedidos de mayor valor.",
+    "action": "Armar una propuesta comercial específica para clientes con alta frecuencia de pedidos de ticket bajo, con tarifas por volumen o consolidación de envíos, en vez de aplicar la misma estructura de costos pensada para tickets más altos.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://defonline.com.ar/ciencia-tecnologia/el-crecimiento-del-ecommerce-argentino-ya-roza-los-20-billones-en-el-primer-semestre-de-2026/",
+    "linked": [
+      "CACE detalló los números del primer semestre: 181,5 millones de órdenes y un ticket promedio que le pierde a la inflación"
+    ],
+    "id": "op-521fc5cf",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "title": "Anticiparle a los clientes el ajuste tarifario de octubre por el impuesto a los combustibles",
+    "context": "El Gobierno postergó por segunda vez en el año la suba del impuesto a los combustibles, pero la trasladó a octubre de forma acumulada, lo que anticipa un salto más fuerte que el de un ajuste gradual. Ese respiro es transitorio y ya tiene fecha de vencimiento conocida.",
+    "action": "Comunicarles ahora a los clientes con contrato vigente que en octubre va a haber una revisión tarifaria por el impuesto a los combustibles, para que lo incorporen a su planificación y Fixy se diferencie por anticipar el cambio en vez de trasladarlo de sorpresa.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/08/31/el-gobierno-postergo-hasta-octubre-el-aumento-de-los-impuestos-a-los-combustibles-para-evitar-un-salto-en-la-inflacion/",
+    "linked": [
+      "El Gobierno postergó hasta octubre el aumento de impuestos a los combustibles"
+    ],
+    "id": "op-fed7b57b",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
   }
 ]
