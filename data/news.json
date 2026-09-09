@@ -1,27 +1,5 @@
 [
   {
-    "title": "Récord de importaciones de bienes de consumo: US$5.362 millones en el primer semestre, con indumentaria +86%",
-    "what_happened": "Las importaciones de bienes de consumo alcanzaron US$5.362 millones en el primer semestre de 2026, el mayor registro histórico y 34,7% por encima del primer semestre de 2023. La cantidad de empresas importadoras se duplicó (+33.108 firmas desde 2023) y los bienes de consumo llegaron a 15,1% del total importado, máximo en 22 años.",
-    "why_it_matters": "Aparece una masa crítica nueva de importadores-vendedores que necesita nacionalizar, almacenar y distribuir producto en el mercado local, muchos de ellos sin experiencia logística.",
-    "fixy_impact": "33.000 empresas importadoras nuevas es una lista de prospectos concreta: son los clientes naturales de fulfillment (recepción, almacenamiento, picking y distribución) para productos importados de consumo.",
-    "category": "Tendencias",
-    "geo": "Argentina",
-    "source_name": "Ámbito",
-    "source_url": "https://www.ambito.com/economia/record-importaciones-bienes-consumo-que-productos-registraron-subas-530-n6311906",
-    "published_date": "2026-08-18",
-    "priority": "alta",
-    "tags": [
-      "importaciones",
-      "bienes de consumo",
-      "importadores",
-      "fulfillment"
-    ],
-    "id": "nw-b946fea6cb",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
     "title": "La inflación de julio fue 2,1% y el mercado ahora espera 1,6% para agosto",
     "what_happened": "Las consultoras privadas recortaron su proyección de inflación para agosto y ahora la ubican cerca de 1,6%, por debajo del 1,8% que se esperaba semanas atrás y del 2,1% de julio. Fundación Libertad y Progreso calculó 1,4% para la tercera semana del mes, Orlando Ferreres y C&T Asesores Económicos coinciden en 1,5% y Analytica proyecta 1,8%, con el rango general entre 1,6% y 1,9%. El dato oficial del INDEC se conoce el 10 de septiembre.",
     "why_it_matters": "Sería uno de los registros mensuales más bajos del año y reforzaría la desaceleración de precios, con impacto directo en la evolución de costos operativos (combustible, insumos, salarios) del sector logístico.",
@@ -87,29 +65,6 @@
       "tecnología"
     ],
     "id": "nw-5e8cdd7657",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "title": "Diputados piden investigar a Mercado Pago, Ualá y otras 90 billeteras por tasas de crédito y algoritmos discriminatorios",
-    "what_happened": "Un grupo de diputados peronistas presentó ante la Autoridad Nacional de la Competencia (ANC) un pedido formal para investigar a 91 billeteras virtuales y más de 680 proveedores no financieros por presuntas prácticas anticompetitivas en tasas y condiciones de crédito. La presentación nombra a Mercado Pago, Ualá, Naranja X, Personal Pay, Prex, Cocos, Claro Pay y AstroPay, y menciona tasas efectivas anuales de hasta 700% en algunos casos. También solicita auditar los algoritmos de scoring para determinar si discriminan precios usando datos transaccionales no financieros.",
-    "why_it_matters": "Pone bajo la lupa regulatoria al negocio de crédito y comisiones de las billeteras que procesan buena parte de los cobros del e-commerce argentino, lo que podría derivar en cambios de tasas o condiciones para comercios y consumidores en los próximos meses.",
-    "fixy_impact": null,
-    "category": "Pagos",
-    "geo": "Argentina",
-    "source_name": "iProUP",
-    "source_url": "https://www.iproup.com/finanzas/70806-diputados-pedido-investigacion-billeteras-mercado-pago-uala-competencia-desleal-tasas-mora-agosto-2026",
-    "published_date": "2026-08-18",
-    "priority": "relevante",
-    "tags": [
-      "billeteras virtuales",
-      "Mercado Pago",
-      "regulación",
-      "pagos",
-      "crédito"
-    ],
-    "id": "nw-21f11273fd",
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
@@ -322,29 +277,6 @@
     "last_updated": "2026-08-26",
     "first_seen": "2026-08-24",
     "updated_flag": true
-  },
-  {
-    "title": "Mercado Libre negocia con la Municipalidad de La Plata su mayor centro logístico de la región",
-    "what_happened": "Mercado Libre inició gestiones con la Municipalidad de La Plata, reuniéndose con el intendente Julio Alak, para instalar un centro de distribución de 12.500 m² en la zona de 31 y 520, con una inversión que generaría unos 900 puestos de trabajo directos e indirectos. El proyecto busca conectar el predio con el Puerto de La Plata, la Ruta 2 y la Autopista La Plata-Buenos Aires para abastecer al AMBA y la provincia; el trámite de habilitación ya fue iniciado ante el municipio.",
-    "why_it_matters": "Es un movimiento distinto y adicional a la inversión ya anunciada en Córdoba: confirma que Mercado Libre sigue densificando su red logística cerca del AMBA, la zona de mayor volumen de última milla del país.",
-    "fixy_impact": "Un nuevo nodo logístico de Mercado Libre pegado al AMBA puede acortar sus tiempos de entrega y subir la vara de servicio que los clientes esperan de cualquier operador, Fixy incluido.",
-    "category": "Fulfillment",
-    "geo": "Argentina",
-    "source_name": "El Día",
-    "source_url": "https://www.eldia.com/politica-y-economia/mercado-libre-con-un-megaproyecto-logistico-para-instalar-en-la-ciudad-politica-y-economia_1787028735",
-    "published_date": "2026-08-18",
-    "priority": "alta",
-    "tags": [
-      "Mercado Libre",
-      "fulfillment",
-      "La Plata",
-      "centro logístico",
-      "AMBA"
-    ],
-    "id": "nw-114576549c",
-    "source_kind": "auto",
-    "last_updated": "2026-08-24",
-    "first_seen": "2026-08-24"
   },
   {
     "title": "El consumo masivo cayó en julio por séptimo mes consecutivo, pero el comercio electrónico creció 39,9%",
@@ -1083,5 +1015,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-08",
     "first_seen": "2026-09-08"
+  },
+  {
+    "title": "El Gobierno endurece los controles a juguetes importados que se venden por marketplaces",
+    "what_happened": "Tras prohibir la venta de los juguetes blandos \"squishy\" por riesgo químico y ordenar destruir el stock (Disposición 690/2026), la Cámara Argentina de la Industria del Juguete alertó que en el primer semestre de 2026 hubo 330 retiros de juguetes a nivel global (un 8,2% más que en igual período de 2025), con cerca del 90% de origen chino. Las autoridades dispusieron medidas de cese de comercialización que alcanzan puntualmente a plataformas de intermediación y redes sociales, además de los comercios físicos.",
+    "why_it_matters": "El control sobre seguridad de producto empieza a mirar explícitamente a los marketplaces y no solo al importador o fabricante, lo que sube la vara de compliance para todo el circuito de venta online.",
+    "fixy_impact": "Un operador de fulfillment que guarda y despacha productos importados por cuenta de terceros puede quedar expuesto si un cliente vende mercadería sin las certificaciones exigidas; conviene pedir declaración jurada de conformidad a los sellers antes de recibir esa mercadería en depósito.",
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "Página/12",
+    "source_url": "https://www.pagina12.com.ar/2026/09/08/advierten-sobre-los-peligros-de-juguetes-importados-que-no-pasaron-controles-de-seguridad/",
+    "published_date": "2026-09-08",
+    "priority": "informativo",
+    "tags": [
+      "regulación",
+      "marketplaces",
+      "seguridad de producto",
+      "importaciones",
+      "compliance"
+    ],
+    "id": "nw-555f476729",
+    "source_kind": "auto",
+    "last_updated": "2026-09-09",
+    "first_seen": "2026-09-09"
   }
 ]

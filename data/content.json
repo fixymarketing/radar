@@ -767,5 +767,51 @@
     "source_kind": "auto",
     "last_updated": "2026-09-08",
     "first_seen": "2026-09-08"
+  },
+  {
+    "topic": "Bitrenes y consolidación de flota: qué significa para el costo logístico de todos, no solo para Andreani",
+    "why_now": "Andreani sumó 20 bitrenes a su flota de larga distancia con una inversión de US$2 millones, apostando a bajar el costo por tonelada transportada.",
+    "fixy_angle": "Fixy puede explicar en lenguaje simple qué implica esta apuesta de escala para el costo logístico troncal del país y qué pueden esperar los eCommerce chicos y medianos en materia de tarifas, sin necesitar una flota de ese tamaño.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "informativo",
+    "source_url": "https://mercado.com.ar/movilidad/andreani-suma-20-bitrenes-a-su-flota-y-destina-us-2-millones",
+    "id": "ct-92d2af3c",
+    "source_kind": "auto",
+    "last_updated": "2026-09-09",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "topic": "El comercio de cercanía ya vende online aunque el consumo caiga: la migración es estructural, no cíclica",
+    "why_now": "Las ventas online de comercios de cercanía crecieron 17,6% en agosto mientras el retail pyme total cayó 0,2% interanual, según CAME.",
+    "fixy_angle": "Fixy puede usar este contraste, con cifras concretas del propio sector, como prueba de que el comercio de barrio necesita logística de eCommerce ahora, más allá de cómo venga el ciclo económico general.",
+    "formats": [
+      "LinkedIn",
+      "prensa",
+      "carrusel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.apfdigital.com.ar/noticias/2026/09/07/470066-came-alerto-que-las-ventas-minoristas-pyme-descendieron-0_2por_ciento-interanual-en-agosto",
+    "id": "ct-6de668f4",
+    "source_kind": "auto",
+    "last_updated": "2026-09-09",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "topic": "Marketplaces bajo la lupa: cuando el Estado empieza a mirar directo a la plataforma y no solo al vendedor",
+    "why_now": "El Gobierno endureció los controles a juguetes importados que se venden por marketplaces, apuntando por primera vez de forma explícita a la plataforma como responsable de la seguridad del producto.",
+    "fixy_angle": "Fixy puede posicionarse como el socio que ayuda a sellers a estar un paso adelante del compliance, con trazabilidad y documentación en el depósito, antes de que la exigencia se extienda a otras categorías.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.pagina12.com.ar/2026/09/08/advierten-sobre-los-peligros-de-juguetes-importados-que-no-pasaron-controles-de-seguridad/",
+    "id": "ct-337121a5",
+    "source_kind": "auto",
+    "last_updated": "2026-09-09",
+    "first_seen": "2026-09-09"
   }
 ]

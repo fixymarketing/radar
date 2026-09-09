@@ -7,36 +7,25 @@
     "date_end": "2026-09-10",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "CABA",
     "country": "Argentina",
-    "venue": "La Rural (Av. Sarmiento 2704, CABA)",
+    "venue": "La Rural, Predio Ferial de Buenos Aires",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
     "url": "https://www.mercadolibreexperience.com.ar/",
     "source_url": "https://www.cronista.com/finanzas-mercados/mercado-libre-experience-2026-fecha-entradas-y-los-temas-que-marcaran-el-encuentro-de-e-commerce-mas-grande-de-la-region/",
-    "description": "Encuentro anual de Mercado Libre en La Rural con más de 50 charlas, 80 speakers y 5 escenarios sobre e-commerce, dirigido a vendedores, pymes y marcas, con más de 8.000 asistentes esperados.",
-    "fixy_relevance": "Es el evento de referencia del ecosistema donde suelen anunciarse novedades de Mercado Envíos y fulfillment, y donde circulan vendedores que buscan operadores logísticos: alta oportunidad de prospección comercial y de detectar tendencias del sector antes que la competencia.",
+    "description": "Segunda edición del evento de comercio electrónico de Mercado Libre en Argentina, con más de 50 charlas, 80 speakers y cinco escenarios sobre ventas, logística, marketing digital, tecnología y medios de pago, con más de 8.000 asistentes esperados.",
+    "fixy_relevance": "Evento clave del ecosistema Mercado Libre: reúne vendedores y pymes que necesitan soluciones de logística y fulfillment para marketplace, target directo de Fixy.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-argentina-experience-libre-mercado-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-08",
+    "last_updated": "2026-09-09",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-31",
-        "fields": [
-          "city",
-          "province",
-          "venue",
-          "category",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-09-04",
         "fields": [
@@ -68,6 +57,16 @@
       {
         "date": "2026-09-08",
         "fields": [
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-09",
+        "fields": [
+          "city",
+          "province",
           "venue",
           "description",
           "fixy_relevance"
@@ -1111,7 +1110,7 @@
   {
     "scope": "intl",
     "name": "eRetail Day México 2026",
-    "organizer": "eCommerce Institute y AMVO (Asociación Mexicana de Venta Online)",
+    "organizer": "eCommerce Institute (coorganizado con AMVO)",
     "date_start": "2026-10-15",
     "date_end": "2026-10-15",
     "date_confirmed": true,
@@ -1119,20 +1118,20 @@
     "city": "Ciudad de México",
     "province": null,
     "country": "México",
-    "venue": "Auditorio BB, Tlaxcala 160, Hipódromo Condesa, Cuauhtémoc",
+    "venue": "Auditorio BB",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
     "url": "https://eretailday.org/2026/mx/",
     "source_url": "https://www.eventbrite.com.ar/e/eretail-day-mexico-2026-tickets-1981261399179",
-    "description": "Evento anual de digital commerce para el canal retail en México, organizado por eCommerce Institute junto a AMVO, con jornada de contenidos de 8 a 18 hs en Ciudad de México.",
-    "fixy_relevance": "Ya estaba identificado por Fixy; se confirma ahora el venue exacto (Auditorio BB, CDMX) y la coorganización con AMVO, dato útil para planificar viaje, agenda de reuniones y una eventual sponsorship en el mercado mexicano.",
+    "description": "Decimotercera edición del eRetail Day en México, con agenda sobre IA, comercio unificado, retail media y logística inteligente para el canal retail digital.",
+    "fixy_relevance": "Punto de encuentro regional del ecosistema eCommerce Institute donde Fixy puede hacer networking con retailers y marketplaces mexicanos y relevar tendencias de logística inteligente aplicables a su operación.",
     "justification_type": "networking",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-day-eretail-latam-mexico-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-09-09",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -1160,13 +1159,22 @@
           "fixy_relevance",
           "justification_type"
         ]
+      },
+      {
+        "date": "2026-09-09",
+        "fields": [
+          "organizer",
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
   {
     "scope": "intl",
     "name": "EFFIX 2026 (Feria del Comercio Electrónico)",
-    "organizer": "Grupo Effi",
+    "organizer": "EFFIX S.A.S. (Grupo Effi)",
     "date_start": "2026-10-15",
     "date_end": "2026-10-19",
     "date_confirmed": true,
@@ -1174,20 +1182,20 @@
     "city": "Medellín",
     "province": null,
     "country": "Colombia",
-    "venue": "Plaza Mayor Medellín (Cra. 57 # 41-81, La Candelaria)",
+    "venue": "Plaza Mayor Medellín",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
     "url": "https://feriaeffix.com/",
-    "source_url": "https://plazamayor.com.co/eventos/effix-2026/",
-    "description": "Feria de comercio electrónico presencial más grande de Latinoamérica, con más de 380 marcas expositoras y 180 conferencias sobre negocios digitales, logística y marketplaces.",
-    "fixy_relevance": "Punto de encuentro regional de marcas, marketplaces y proveedores de eCommerce; oportunidad de networking comercial y prospección de clientes fuera de Argentina.",
-    "justification_type": "negocios",
-    "priority": "alta",
+    "source_url": "https://latiquetera.com/site/effix/events/view/feria-comercio-electronico-effix2026",
+    "description": "Feria de comercio electrónico de gran escala en Medellín, con más de 350 stands y 200 conferencias que convocan a tiendas online, plataformas de pago y proveedores de logística y transporte.",
+    "fixy_relevance": "Su escala y el foco explícito en logística y transporte la convierten en una plaza a evaluar para presencia institucional o sponsorship si Fixy analiza expandir sus servicios de fulfillment hacia Colombia.",
+    "justification_type": "expansión regional",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-comercio-effix-electronico-feria-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-09-09",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -1212,6 +1220,18 @@
           "source_url",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-09",
+        "fields": [
+          "organizer",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
         ]
       }
     ]
@@ -1493,7 +1513,7 @@
   {
     "scope": "intl",
     "name": "EXPO LOGÍSTICA PANAMÁ 2027",
-    "organizer": "PANACAMARA",
+    "organizer": "Cámara de Comercio, Industrias y Agricultura de Panamá (CCIAP)",
     "date_start": "2027-04-06",
     "date_end": "2027-04-08",
     "date_confirmed": true,
@@ -1501,21 +1521,34 @@
     "city": "Ciudad de Panamá",
     "province": null,
     "country": "Panamá",
-    "venue": "Panama Convention Center",
+    "venue": "Panama Convention Center, Amador",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
     "url": "https://www.panacamara.com/expologistica/",
-    "source_url": "https://www.panacamara.com/expologistica/",
-    "description": "Feria y congreso especializado de logística del hub panameño, con foco en comercio internacional, zonas libres, transporte multimodal y soluciones logísticas regionales.",
-    "fixy_relevance": "Acceso directo al ecosistema del principal hub logístico de América. Espacio natural para negociar acuerdos de cross-border, consolidación e importación que Fixy podría ofrecer a tiendas argentinas que importan stock.",
+    "source_url": "https://www.prnewswire.com/news-releases/chamber-of-commerce-industries-and-agriculture-of-panama-launches-2027-trade-expo-platform-to-drive-foreign-investment-and-regional-growth-302828076.html",
+    "description": "Feria especializada en logística y transporte multimodal en Panamá, con empresas locales y extranjeras distribuidas en más de 100 módulos, dentro de un bloque de exposiciones comerciales de la CCIAP.",
+    "fixy_relevance": "Panamá es un nodo logístico clave de la región por el Canal y su rol de hub multimodal; permite networking con operadores de transporte y evaluar alianzas para operaciones cross-border en Centroamérica.",
     "justification_type": "expansión regional",
-    "priority": "alta",
+    "priority": "relevante",
     "beyond_90": true,
     "id": "ev-logistica-panama-2027",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-09-09",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-09-09",
+        "fields": [
+          "organizer",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -1610,20 +1643,20 @@
     "city": "São Paulo",
     "province": null,
     "country": "Brasil",
-    "venue": "São Paulo Expo (Rodovia dos Imigrantes, km 1.5)",
+    "venue": "São Paulo Expo",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
-    "url": "https://www.vtex.com/en-us/vtexday",
-    "source_url": "https://www.vtex.com/en-us/vtexday",
-    "description": "Mayor evento de comercio digital del mundo según su organizador, con más de 50.000 asistentes esperados, 350 oradores y marcas de más de 29 países.",
-    "fixy_relevance": "Escala y alcance global del evento lo vuelven una plaza clave de networking con marcas, plataformas y proveedores de eCommerce que podrían ser clientes o socios de fulfillment.",
-    "justification_type": "networking",
+    "url": "https://vtexday.vtex.com/",
+    "source_url": "https://www.vtex.com/pt-br/vtexday/faq/",
+    "description": "Megaevento anual de VTEX en San Pablo, con más de 50.000 inscriptos esperados de 29 países, centrado en comercio digital, IA, automatización y el ecosistema de partners de la plataforma.",
+    "fixy_relevance": "VTEX es una de las plataformas de eCommerce más usadas por marcas y marketplaces de la región; el evento es una oportunidad de generación de negocios y networking con potenciales clientes y socios tecnológicos del ecosistema de fulfillment.",
+    "justification_type": "negocios",
     "priority": "alta",
     "beyond_90": true,
     "id": "ev-day-vtex-2027",
     "source_kind": "auto",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-09-09",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -1642,6 +1675,17 @@
         "date": "2026-08-30",
         "fields": [
           "city",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type"
+        ]
+      },
+      {
+        "date": "2026-09-09",
+        "fields": [
           "venue",
           "url",
           "source_url",
@@ -2187,23 +2231,23 @@
     "date_end": "2026-09-10",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "CABA",
     "country": "Argentina",
-    "venue": "La Rural, Pabellón Ocre (Av. Sarmiento 2704, CABA)",
+    "venue": "Pabellón Ocre, La Rural, Predio Ferial de Buenos Aires (Av. Sarmiento 2704)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Retail",
     "url": "https://expofranquicias.ar/",
-    "source_url": "https://infofranquicias.ar/plus-2/llega-la-31a-expo-franquicias-argentina-a-la-rural-60-marcas-buscan-expandirse-el-9-y-10-de-septiembre",
-    "description": "31ª edición de la feria de franquicias en Argentina: cerca de 60 marcas exponen sus esquemas de expansión ante potenciales inversores.",
-    "fixy_relevance": "Las marcas que se expanden vía franquicias necesitan logística multipunto y reposición estandarizada entre locales: buena cantera de leads B2B para fulfillment y distribución a nuevos puntos de venta.",
+    "source_url": "https://agendapyme.com.ar/2026/09/08/expo-franquicias-argentina-2026-marcas-e-inversores-se-reunen-en-la-rural/",
+    "description": "31ª edición de la expo de franquicias con más de 60 marcas de gastronomía, retail y servicios, rondas de negocios entre franquiciantes e inversores y una pasarela de presentación de modelos de negocio.",
+    "fixy_relevance": "Muchas marcas que buscan expandirse vía franquicia terminan operando eCommerce propio o multicanal; es una cantera de leads B2B para tercerización de fulfillment y última milla.",
     "justification_type": null,
-    "priority": "relevante",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-argentina-franquicias-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-08",
+    "last_updated": "2026-09-09",
     "first_seen": "2026-08-21",
     "change_log": [
       {
@@ -2242,6 +2286,18 @@
           "venue",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-09",
+        "fields": [
+          "city",
+          "province",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
         ]
       }
     ]
@@ -4119,5 +4175,59 @@
     "source_kind": "auto",
     "last_updated": "2026-09-07",
     "first_seen": "2026-09-07"
+  },
+  {
+    "scope": "intl",
+    "name": "transport logistic 2027",
+    "organizer": "Messe München",
+    "date_start": "2027-04-26",
+    "date_end": "2027-04-29",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Múnich",
+    "province": null,
+    "country": "Alemania",
+    "venue": "Messe München (Trade Fair Center Munich)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://transportlogistic.de/en/trade-fair/",
+    "source_url": "https://messe-muenchen.de/en/events/transport-logistic-2027.html",
+    "description": "Feria líder mundial de logística, transporte, IT y supply chain, bienal, con más de 2.100 expositores y unos 60.000 visitantes profesionales de todo el mundo.",
+    "fixy_relevance": "Referencia global de innovación en supply chain y última milla; aporta aprendizaje de tecnología aplicable a la operación de Fixy, aunque el viaje implica una inversión alta y debe evaluarse frente a alternativas regionales.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": true,
+    "id": "ev-logistic-transport-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-09-09",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "scope": "intl",
+    "name": "Money20/20 Europe 2027",
+    "organizer": "Money20/20",
+    "date_start": "2027-06-08",
+    "date_end": "2027-06-10",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Ámsterdam",
+    "province": null,
+    "country": "Países Bajos",
+    "venue": "RAI Amsterdam",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Pagos y Fintech",
+    "url": "https://europe.money2020.com/",
+    "source_url": "https://europe.money2020.com/",
+    "description": "Uno de los principales encuentros europeos de fintech, pagos y banca, que reúne bancos, proveedores de pagos, retailers, reguladores y startups tecnológicas.",
+    "fixy_relevance": "Los medios de pago están cada vez más integrados a la operación de eCommerce (checkout, cobros contra entrega, financiamiento); sirve como fuente de aprendizaje sobre innovación en pagos con impacto en la logística.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": true,
+    "id": "ev-europe-money20-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-09-09",
+    "first_seen": "2026-09-09"
   }
 ]

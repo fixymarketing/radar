@@ -1143,6 +1143,28 @@
     "first_seen": "2026-09-05"
   },
   {
+    "name": "Gemini Notebook: límite de uso basado en cómputo",
+    "vendor": "Google",
+    "what_it_is": "Herramienta de Google (antes NotebookLM, renombrada este año a 'Gemini Notebook') que arma resúmenes, audios tipo podcast y respuestas a partir de documentos propios que uno carga.",
+    "what_changed": "Desde el 2 de septiembre de 2026 Google reemplazó el límite de uso diario fijo por un límite basado en 'cómputo': cada acción gasta una porción distinta de un presupuesto que se renueva cada cinco horas en vez de una vez al día, y las tareas pesadas (armar un audio resumen o una presentación) consumen bastante más presupuesto que una pregunta simple de texto.",
+    "fixy_use": "Si el equipo usa Gemini Notebook para resumir manuales operativos, políticas de couriers o armar audios de onboarding para gente nueva, conviene revisar este nuevo esquema antes de apoyarse en tareas pesadas (audio o video overview) en el plan gratuito, porque el uso intensivo se puede agotar más rápido que antes.",
+    "verdict": "seguir",
+    "verdict_reason": "No suma capacidad nueva, pero cambia cuánto se puede usar gratis y puede frenar un uso intensivo que ya venía funcionando bien.",
+    "categories": [
+      "Análisis",
+      "Organización",
+      "Gestión del tiempo"
+    ],
+    "pricing_note": "freemium: el cambio de límites aplica a todos los planes, incluido el gratuito, según cuánto cómputo consuma cada acción",
+    "source_url": "https://9to5google.com/2026/08/28/gemini-notebook-usage-limits/",
+    "published_date": "2026-09-02",
+    "priority": "informativo",
+    "id": "ai-google-gemini-notebook-limite-de-uso-basado-en-computo",
+    "source_kind": "auto",
+    "last_updated": "2026-09-09",
+    "first_seen": "2026-09-09"
+  },
+  {
     "name": "Enterprise Frontier Safeguards (EFS)",
     "vendor": "Anthropic",
     "what_it_is": "Es un esquema de privacidad y seguridad para cuentas empresariales de Claude que combina la política de 'cero retención de datos' con controles automáticos para detectar uso indebido, guardando esa información de actividad en infraestructura controlada por el propio cliente y no por Anthropic.",

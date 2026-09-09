@@ -166,5 +166,54 @@
     "source_kind": "auto",
     "last_updated": "2026-09-02",
     "first_seen": "2026-09-02"
+  },
+  {
+    "title": "Reforzar la agenda comercial en el interior con las citas confirmadas de septiembre",
+    "context": "En la misma semana se confirmaron fecha y sede de eCommerce Go Mendoza, Experiencia Endeavor Rosario y la Cumbre Federal de Logística, sumados a Mercado Libre Experience en Buenos Aires: hay una ventana concreta de eventos federales de eCommerce y logística en las próximas semanas.",
+    "action": "Definir con el equipo comercial en cuáles de estos eventos conviene tener presencia (stand, charla o solo networking) para captar pymes del interior que todavía no tienen resuelta su logística.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.eventbrite.com.ar/e/ecommerce-go-mendoza-2026-tickets-1997982893619",
+    "linked": [
+      "eCommerce Go Mendoza 2026",
+      "Experiencia Endeavor Rosario 2026",
+      "Cumbre Federal de Logística 2026",
+      "Mercado Libre Experience Argentina 2026"
+    ],
+    "id": "op-5304ba6b",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "Prepararse para un posible repunte de pedidos de cara al paquete de alivio al consumo previo a octubre",
+    "context": "El Gobierno lanzó el 3 de septiembre un paquete de seis medidas (tarifas, bonificación de luz y gas, freno al impuesto a combustibles) para sostener el consumo antes de las elecciones de octubre. Si el alivio de bolsillo se traduce en más pedidos online, los operadores logísticos van a sentirlo primero en volumen de septiembre-octubre.",
+    "action": "Monitorear semana a semana el volumen de pedidos de los clientes de Fixy durante septiembre y octubre, anticipar dotación y capacidad de depósito para un eventual pico, y usar esa planificación proactiva como argumento comercial frente a clientes que todavía no ajustaron su previsión de demanda.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/09/03/creditos-tarifas-y-salarios-el-gobierno-activo-seis-medidas-para-recomponer-el-poder-adquisitivo-y-apuntalar-el-consumo/",
+    "linked": [
+      "El Gobierno lanzó un paquete de seis medidas para sostener el consumo antes de octubre"
+    ],
+    "id": "op-085d0b28",
+    "source_kind": "auto",
+    "last_updated": "2026-09-03",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "Ofrecer última milla de respaldo mientras el Correo Argentino queda en pausa",
+    "context": "El Gobierno frenó la concesión del Correo Argentino hasta después de las elecciones de 2027, lo que prolonga la incertidumbre sobre su capacidad operativa justo cuando crece el régimen de importaciones puerta a puerta de Shein, Temu y Amazon. Eso deja a marketplaces y couriers sin certeza sobre el actor estatal que hoy concentra buena parte de esa última milla.",
+    "action": "Contactar a plataformas de importación puerta a puerta y marketplaces que hoy dependen del Correo Argentino para ofrecer a Fixy como capacidad de última milla complementaria o de contingencia mientras dure la incertidumbre.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.canal26.com/politica/2026/08/28/el-gobierno-pone-en-pausa-la-concesion-del-correo-argentino-de-las-demoras-a-su-importancia-durante-las-elecciones-de-2027/",
+    "linked": [
+      "El Gobierno frenó la concesión del Correo Argentino por las elecciones de 2027",
+      "Las importaciones vía courier ya suman US$751 millones en 2026 y podrían superar todo 2025 antes de septiembre"
+    ],
+    "id": "op-609e3897",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
   }
 ]
