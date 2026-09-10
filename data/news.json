@@ -24,29 +24,6 @@
     "updated_flag": true
   },
   {
-    "title": "Rosario estrenó Exportlog, su primera expo de puertos y logística del Litoral",
-    "what_happened": "Los días 19 y 20 de agosto se realizó en la Terminal Fluvial de Rosario la primera edición de Exportlog, exposición integral de puertos, logística y transporte fluvio-marítimo del Litoral argentino, con 46 stands confirmados y más de 80 oradores en rondas de negocios y paneles. El evento fue organizado por el Instituto de Desarrollo Regional (IDR) y GlobalPorts, con apoyo del Gobierno de Santa Fe y la Municipalidad de Rosario, en un contexto de récord de exportaciones agroindustriales (40 millones de toneladas embarcadas entre enero y abril de 2026, +11% sobre el registro histórico previo).",
-    "why_it_matters": "Consolida a Rosario y a la hidrovía Paraná-Paraguay como un nuevo polo ferial propio para discutir competitividad logística y de comercio exterior del Centro y el Litoral, un rol que hasta ahora se concentraba casi exclusivamente en Buenos Aires.",
-    "fixy_impact": null,
-    "category": "Logística",
-    "geo": "Argentina",
-    "source_name": "GlobalPorts / Webpicking",
-    "source_url": "https://www.globalports.com.ar/exportlog-2026-reordena-mapa-logistico/",
-    "published_date": "2026-08-19",
-    "priority": "informativo",
-    "tags": [
-      "Exportlog",
-      "Rosario",
-      "puertos",
-      "hidrovía",
-      "comercio exterior"
-    ],
-    "id": "nw-e4f19551d3",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
     "title": "La 'uberización' avanza en la última milla del ecommerce",
     "what_happened": "Un análisis publicado por Ámbito describe cómo los operadores logísticos argentinos combinan flota propia, operadores tercerizados y repartidores independientes conectados a plataformas como Uber, Rappi, PedidosYa y Uber Direct para escalar la capacidad de reparto según el volumen de pedidos, en especial en picos de demanda. La nota cita una proyección de IMARC Group según la cual el mercado de última milla en América Latina pasaría de USD 13.700 millones en 2025 a USD 47.500 millones en 2034 (CAGR de 14,38%).",
     "why_it_matters": "El desafío deja de ser cuántos vehículos tiene una empresa y pasa a ser cómo coordina, con tecnología, una red variable de conductores y flotas mixtas, algo clave para sostener picos de demanda sin inmovilizar capital en flota propia y permanente.",
@@ -163,28 +140,6 @@
     "updated_flag": true
   },
   {
-    "title": "El superávit comercial de julio fue de US$2.115 millones, pero las importaciones cayeron 1,7% interanual",
-    "what_happened": "Según el INDEC, en julio las exportaciones argentinas sumaron US$8.854 millones (+14,1% interanual, impulsadas por energía) y las importaciones US$6.739 millones (-1,7% interanual, con una caída del 9,2% en las cantidades importadas), dejando un superávit comercial de US$2.115 millones. Frente a junio, las exportaciones cayeron casi 5%.",
-    "why_it_matters": "La retracción en el volumen de importaciones, tras meses de apertura, puede anticipar un freno en la llegada de mercadería importada que compite con la producción local y con el catálogo de muchos eCommerce.",
-    "fixy_impact": null,
-    "category": "Regulación",
-    "geo": "Argentina",
-    "source_name": "INDEC",
-    "source_url": "https://www.indec.gob.ar/uploads/informesdeprensa/ica_08_26E158B1D119.pdf",
-    "published_date": "2026-08-19",
-    "priority": "informativo",
-    "tags": [
-      "comercio exterior",
-      "importaciones",
-      "INDEC",
-      "balanza comercial"
-    ],
-    "id": "nw-13fef1744e",
-    "source_kind": "auto",
-    "last_updated": "2026-08-22",
-    "first_seen": "2026-08-22"
-  },
-  {
     "title": "La Provincia de Buenos Aires abre otro frente contra las billeteras virtuales, ahora por hostigamiento a deudores",
     "what_happened": "El Ministerio de Producción bonaerense abrió un expediente contra Mercado Pago, Ualá, Naranja Digital, Personal Pay, Brubank y Cencosud tras recibir 2.240 denuncias en el primer semestre por acoso a deudores morosos y falta de información clara sobre tasas y costo financiero total. Las empresas deberán presentar sus descargos y podrían enfrentar multas de hasta $1.883 millones si se confirman los incumplimientos.",
     "why_it_matters": "Es un frente regulatorio distinto del pedido de investigación de diputados nacionales ya conocido: ahora es la Provincia, por Defensa del Consumidor, la que apunta a cómo las billeteras cobran y gestionan la mora en un contexto de morosidad récord.",
@@ -206,30 +161,6 @@
     "source_kind": "auto",
     "last_updated": "2026-08-22",
     "first_seen": "2026-08-22"
-  },
-  {
-    "title": "ARCA equipara al Correo Argentino con los couriers privados para las compras en Shein, Temu y Amazon",
-    "what_happened": "En el marco del Decreto 604/2026, ARCA puso en vigencia las nuevas pautas que unifican las condiciones tributarias entre el operador postal oficial y los couriers privados (DHL, FedEx, UPS) para las compras en el exterior por plataformas como Shein, Temu y Amazon. Se mantiene una franquicia de US$400 FOB libre de derechos de importación por envío, con un tope de cinco envíos anuales por persona y un valor máximo de US$3.000 por envío, aunque IVA e impuestos internos siguen aplicando por fuera de esa franquicia.",
-    "why_it_matters": "Al igualar las reglas entre el Correo Argentino y los couriers internacionales, el Gobierno facilita y simplifica el ingreso de compras individuales del exterior, lo que intensifica la presión competitiva sobre el retail y el eCommerce local de productos importables.",
-    "fixy_impact": "Fixy opera en el mismo ecosistema postal y de couriers que ahora queda equiparado por ARCA, por lo que es un dato clave para entender el contexto regulatorio en el que compiten sus clientes retailers frente a Shein, Temu y Amazon.",
-    "category": "Regulación",
-    "geo": "Argentina",
-    "source_name": "El Destape",
-    "source_url": "https://www.eldestapeweb.com/economia/arca-reglas-compras-shein-temu-amazon-202681941530",
-    "published_date": "2026-08-19",
-    "priority": "relevante",
-    "tags": [
-      "ARCA",
-      "importaciones",
-      "Shein",
-      "Temu",
-      "Amazon",
-      "courier"
-    ],
-    "id": "nw-480e1beaa8",
-    "source_kind": "auto",
-    "last_updated": "2026-08-23",
-    "first_seen": "2026-08-23"
   },
   {
     "title": "Las fintech ya superan los 10 millones de deudores en Argentina, con 2,4 millones en mora",
@@ -511,27 +442,28 @@
     "first_seen": "2026-08-29"
   },
   {
-    "title": "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo volvió a paralizar la operatoria",
-    "what_happened": "La Terminal Cuenca del Plata (TCP), la principal terminal de contenedores de Montevideo, detuvo sus actividades el viernes 28 de agosto por un conflicto entre el Sindicato Único Portuario y Ramas Afines (Supra) y el consorcio belga Katoen Natie, operador de la concesión, por la renovación de un convenio colectivo vencido que afecta a unos 550 trabajadores. Es la sexta interrupción del año y al 31 de agosto el conflicto seguía sin resolverse, aunque la terminal operaba con relativa normalidad. Navieras como MSC, Maersk y Ocean Network Express ya redirigieron parte de su operatoria hacia Buenos Aires, Rio Grande y Santos.",
-    "why_it_matters": "Montevideo es un nodo clave de transbordo para el comercio exterior argentino que usa el Río de la Plata, y cada paro suma entre US$700 y US$1.000 de sobrecosto por contenedor además de demoras, según operadores del sector.",
-    "fixy_impact": "Si el conflicto se agrava puede encarecer y demorar la llegada de mercadería importada que hoy transita por Montevideo antes de llegar a depósitos en Argentina, afectando los tiempos de reposición de stock de clientes de fulfillment.",
+    "title": "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo escaló a un paro por tiempo indeterminado",
+    "what_happened": "El conflicto en la Terminal Cuenca del Plata (TCP) de Montevideo, que arrastraba paros intermitentes desde el 28 de agosto por la renovación de un convenio colectivo entre el Sindicato Único Portuario y Ramas Afines (Supra) y el operador belga Katoen Natie, escaló: el sindicato hizo un paro sorpresivo el sábado 5 de septiembre y el lunes 7 pasó a una medida por tiempo indeterminado, con camiones esperando hasta 18 horas para poder ingresar. El martes 8 el gobierno uruguayo le dio un plazo de 72 horas al sindicato y a la empresa para cerrar un nuevo convenio y destrabar el conflicto.",
+    "why_it_matters": "Montevideo es un nodo clave de transbordo para el comercio exterior argentino que usa el Río de la Plata, y esta nueva escalada eleva los tiempos de tránsito y genera pérdidas estimadas de entre US$400.000 y US$500.000 diarios para el transporte de cargas de la región.",
+    "fixy_impact": "Si el conflicto no se resuelve en el plazo fijado por el gobierno uruguayo, los operadores que reciben o despachan mercadería vía Montevideo pueden sufrir demoras y sobrecostos que afecten los tiempos de reposición de stock importado.",
     "category": "Logística",
     "geo": "LATAM",
-    "source_name": "Infobae (Movant)",
-    "source_url": "https://www.infobae.com/movant/2026/08/28/el-puerto-de-montevideo-enfrenta-una-nueva-interrupcion-en-su-terminal-de-contenedores/",
-    "published_date": "2026-08-28",
+    "source_name": "Subrayado (Uruguay)",
+    "source_url": "https://www.subrayado.com.uy/corre-el-plazo-72-horas-que-el-gobierno-le-dio-al-sindicato-y-tcp-que-acuerden-un-nuevo-convenio-y-termine-el-conflicto-n1017661",
+    "published_date": "2026-09-09",
     "priority": "relevante",
     "tags": [
-      "puertos",
+      "puerto Montevideo",
+      "paro",
       "comercio exterior",
-      "Uruguay",
-      "contenedores",
-      "hidrovía"
+      "cadena de suministro",
+      "Uruguay"
     ],
     "id": "nw-787ba1c861",
     "source_kind": "auto",
-    "last_updated": "2026-08-31",
-    "first_seen": "2026-08-31"
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-08-31",
+    "updated_flag": true
   },
   {
     "title": "Peajes, trenes y colectivos del AMBA suben en septiembre y presionan el costo de la última milla",

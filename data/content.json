@@ -813,5 +813,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-09",
     "first_seen": "2026-09-09"
+  },
+  {
+    "topic": "El cuello de botella no está en la ruta: qué significa el paro portuario de Montevideo para el abastecimiento del ecommerce argentino",
+    "why_now": "El paro por tiempo indeterminado en la terminal de contenedores de Montevideo genera demoras y pérdidas diarias millonarias justo cuando el comercio exterior argentino que usa el Río de la Plata depende de ese nodo de transbordo.",
+    "fixy_angle": "Fixy puede explicarles a marcas y pymes qué implica una demora en el puerto para sus tiempos de reposición y por qué conviene planificar colchones de stock, mostrando expertise en toda la cadena de abastecimiento y no solo en la última milla.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.subrayado.com.uy/corre-el-plazo-72-horas-que-el-gobierno-le-dio-al-sindicato-y-tcp-que-acuerden-un-nuevo-convenio-y-termine-el-conflicto-n1017661",
+    "id": "ct-7c27b733",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "topic": "Tres de cada diez ya compran con IA: lo que dice el dato de Bain sobre el comprador argentino de hoy",
+    "why_now": "El informe de Bain & Company confirma con un número concreto que el comercio agéntico no es una promesa a futuro sino una práctica de compra ya extendida entre los argentinos.",
+    "fixy_angle": "Fixy puede usar este dato para instalar la conversación sobre por qué la información de envíos (plazos, costos, cobertura) tiene que estar preparada para que la lean agentes de IA y no solo personas, reforzando su rol de asesor tecnológico para marcas.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.iproup.com/innovacion/71241-compras-online-argentina-comercio-agentico-inteligencia-artificial-septiembre-2026",
+    "id": "ct-b9b98b89",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "topic": "Menos camiones, más carga: qué enseñan los bitrenes de Andreani sobre el futuro del transporte troncal",
+    "why_now": "Andreani invirtió US$2 millones en sumar 20 bitrenes a su flota de larga distancia, una apuesta concreta a bajar el costo logístico por tonelada en un momento de presión de costos en toda la cadena.",
+    "fixy_angle": "Fixy puede analizar qué parte de esa lógica de eficiencia (menos vehículos y menos combustible por tonelada) es aplicable a la escala de un operador mediano, usándolo como contenido que demuestra conocimiento técnico del transporte troncal y no solo de la distribución urbana.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://mercado.com.ar/movilidad/andreani-suma-20-bitrenes-a-su-flota-y-destina-us-2-millones",
+    "id": "ct-90107567",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-10"
   }
 ]

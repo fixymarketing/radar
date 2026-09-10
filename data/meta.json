@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-09-09T12:30:57.314Z",
-  "last_updated_ar": "09/09/2026, 09:30",
-  "date": "2026-09-09",
+  "generated_at": "2026-09-10T12:29:42.771Z",
+  "last_updated_ar": "10/09/2026, 09:29",
+  "date": "2026-09-10",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Hoy el radar marca dos frentes que avanzan en paralelo: Mercado Libre y Andreani aceleran su consolidación del interior justo cuando arranca la semana fuerte de eventos del sector, mientras la crisis de las billeteras y el avance del comercio con IA empiezan a redefinir cómo se paga y se compra online en Argentina.",
+  "summary_line": "El jueves combina un riesgo operativo concreto -el paro portuario de Montevideo- y un endurecimiento regulatorio sobre las billeteras, con la vidriera comercial de Mercado Libre Experience y una fecha límite propia en octubre para el costo de WhatsApp Business.",
   "counters": {
-    "news_today": 1,
-    "news_total": 45,
-    "events_upcoming": 81,
-    "events_ar_upcoming": 46,
+    "news_today": 0,
+    "news_total": 42,
+    "events_upcoming": 83,
+    "events_ar_upcoming": 48,
     "events_intl_upcoming": 35,
-    "events_later": 23,
+    "events_later": 24,
     "opportunities_open": 8,
     "opportunities_today": 3,
-    "ai_today": 1,
-    "ai_to_try": 33,
-    "content_ideas": 54,
-    "added_news": 1,
-    "updated_news": 0,
-    "added_events": 2,
-    "updated_events": 6,
-    "added_ai": 1,
+    "ai_today": 3,
+    "ai_to_try": 35,
+    "content_ideas": 57,
+    "added_news": 0,
+    "updated_news": 1,
+    "added_events": 3,
+    "updated_events": 10,
+    "added_ai": 3,
     "archived": 6,
     "discarded_quality": 0
   },
@@ -34,39 +34,39 @@
   },
   "highlights": [
     {
-      "id": "nw-e80899f8b6",
+      "id": "ev-argentina-experience-libre-mercado-2026",
       "kind": "event",
-      "title": "Mercado Libre Experience 2026 reúne el 10 de septiembre a vendedores y pymes en La Rural",
+      "title": "Mercado Libre Experience Argentina 2026",
       "priority": "alta",
-      "one_liner": "Es el termómetro más grande del año sobre las prioridades de Mercado Libre en logística y fulfillment, y Fixy tiene que estar mirando qué se anuncia mañana."
-    },
-    {
-      "id": "nw-ddf678f69a",
-      "kind": "news",
-      "title": "Andreani convirtió a Córdoba en su hub logístico del interior con más de 20.000 pymes",
-      "priority": "alta",
-      "one_liner": "Confirma que un competidor directo ya está consolidando el interior a gran escala, justo el terreno donde Fixy busca crecer."
-    },
-    {
-      "id": "nw-8a800a8441",
-      "kind": "news",
-      "title": "Mercado Libre triplica su centro logístico en Bariloche para cubrir toda la Patagonia andina",
-      "priority": "alta",
-      "one_liner": "Mercado Libre sigue bajando a competir cuerpo a cuerpo en el interior profundo, achicando la ventana donde los operadores regionales podían diferenciarse por cobertura."
+      "one_liner": "Es el mayor encuentro de vendedores y pymes de Mercado Libre en el país y una oportunidad directa de prospección comercial y de escuchar de primera mano las prioridades logísticas del marketplace más grande de Argentina."
     },
     {
       "id": "nw-a078df0a95",
       "kind": "news",
       "title": "La Provincia de Buenos Aires imputa formalmente a Mercado Pago, Ualá y otras billeteras con multas de hasta $1.883 millones",
+      "priority": "alta",
+      "one_liner": "El frente bonaerense contra las fintech pasa de la investigación a la imputación formal con montos concretos, lo que anticipa una regulación provincial más dura sobre el crédito digital en plena crisis de mora récord."
+    },
+    {
+      "id": "nw-787ba1c861",
+      "kind": "news",
+      "title": "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo escaló a un paro por tiempo indeterminado",
+      "priority": "alta",
+      "one_liner": "Montevideo es un nodo clave de transbordo para el comercio exterior argentino y el paro ya genera pérdidas estimadas de entre US$400.000 y US$500.000 diarios para la carga regional."
+    },
+    {
+      "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
+      "kind": "ai",
+      "title": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
       "priority": "relevante",
-      "one_liner": "El frente regulatorio contra las fintech pasa a números concretos y puede afectar la confianza en pagos digitales y débitos automáticos de los clientes de Fixy."
+      "one_liner": "Fixy tiene menos de un mes para medir su volumen de mensajes de servicio y migrar las consultas repetitivas a un bot antes de que Meta empiece a cobrar por superar los 1.000 gratis por número."
     },
     {
       "id": "nw-4975f8b2e9",
-      "kind": "ai",
+      "kind": "news",
       "title": "Un informe de Bain & Company muestra que 3 de cada 10 compradores argentinos ya usan IA para comprar online",
       "priority": "relevante",
-      "one_liner": "El comercio agéntico ya es un dato medible en Argentina, no una hipótesis a futuro, y obliga a pensar cómo los agentes de IA van a leer la información de envíos de Fixy."
+      "one_liner": "Confirma con un dato concreto que el comercio agéntico ya es una práctica extendida en Argentina, no una tendencia futura, y obliga a pensar la información logística para que la lean agentes de IA."
     }
   ]
 }

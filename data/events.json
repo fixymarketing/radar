@@ -7,34 +7,25 @@
     "date_end": "2026-09-10",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Ciudad Autónoma de Buenos Aires",
-    "province": "CABA",
+    "city": "CABA",
+    "province": "Buenos Aires",
     "country": "Argentina",
     "venue": "La Rural, Predio Ferial de Buenos Aires",
     "venue_confirmed": true,
     "format": "presencial",
-    "category": "eCommerce",
+    "category": "Marketplaces",
     "url": "https://www.mercadolibreexperience.com.ar/",
     "source_url": "https://www.cronista.com/finanzas-mercados/mercado-libre-experience-2026-fecha-entradas-y-los-temas-que-marcaran-el-encuentro-de-e-commerce-mas-grande-de-la-region/",
-    "description": "Segunda edición del evento de comercio electrónico de Mercado Libre en Argentina, con más de 50 charlas, 80 speakers y cinco escenarios sobre ventas, logística, marketing digital, tecnología y medios de pago, con más de 8.000 asistentes esperados.",
-    "fixy_relevance": "Evento clave del ecosistema Mercado Libre: reúne vendedores y pymes que necesitan soluciones de logística y fulfillment para marketplace, target directo de Fixy.",
+    "description": "Segunda edición del evento insignia de Mercado Libre para vendedores y pymes, con más de 8.000 asistentes esperados, 50 charlas y una feria de más de 40 stands de soluciones para potenciar negocios online.",
+    "fixy_relevance": "Es el punto de encuentro más grande con vendedores de Mercado Libre en Argentina: oportunidad directa de prospección comercial y de escuchar de primera mano las prioridades logísticas del marketplace más grande del país.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-argentina-experience-libre-mercado-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-09",
+    "last_updated": "2026-09-10",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-04",
-        "fields": [
-          "city",
-          "province",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-09-06",
         "fields": [
@@ -68,6 +59,16 @@
           "city",
           "province",
           "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "fields": [
+          "city",
+          "province",
+          "category",
           "description",
           "fixy_relevance"
         ]
@@ -440,40 +441,30 @@
   {
     "scope": "ar",
     "name": "Cumbre Federal de Logística 2026",
-    "organizer": "Consejo Federal de Inversiones (CFI)",
+    "organizer": "Consejo Federal de Inversiones (CFI) y provincias argentinas",
     "date_start": "2026-10-16",
     "date_end": "2026-10-16",
     "date_confirmed": true,
     "date_note": "Una búsqueda mostró una mención aislada a '10 de noviembre' para este evento, pero múltiples fuentes (Webpicking, medios provinciales) confirman de forma consistente el 16 de octubre en el CEC Buenos Aires; se prioriza esta fecha.",
-    "city": "Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
+    "city": "CABA",
+    "province": "Buenos Aires",
     "country": "Argentina",
     "venue": "Centro de Convenciones de Buenos Aires (CEC)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
-    "url": "https://cfi.org.ar/cumbre_federal_logistica",
+    "url": "https://webpicking.com/la-cumbre-federal-de-logistica-2026-tiene-fecha/",
     "source_url": "https://webpicking.com/la-cumbre-federal-de-logistica-2026-tiene-fecha/",
-    "description": "Encuentro impulsado por el CFI y las provincias bajo el lema 'Hacia una logística competitiva para el desarrollo federal', con gobernadores, autoridades nacionales y CEOs de transporte y producción.",
-    "fixy_relevance": "Aborda directamente la agenda de competitividad logística federal, con implicancias en costos de transporte, infraestructura y regulación que afectan la operación de Fixy.",
+    "description": "Encuentro impulsado por el CFI y las provincias bajo el lema \"Hacia una logística competitiva para el desarrollo federal\", que reunirá a gobernadores, autoridades provinciales y CEOs del sector logístico y transporte.",
+    "fixy_relevance": "Permite a Fixy anticipar definiciones de política pública e inversión en infraestructura logística federal que pueden abrir oportunidades de expansión hacia el interior del país.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cumbre-federal-logistica-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-07",
+    "last_updated": "2026-09-10",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-30",
-        "fields": [
-          "organizer",
-          "province",
-          "venue",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-31",
         "fields": [
@@ -513,6 +504,17 @@
         "fields": [
           "organizer",
           "city",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "fields": [
+          "organizer",
+          "city",
+          "province",
+          "url",
           "description",
           "fixy_relevance"
         ]
@@ -699,39 +701,28 @@
     "name": "CyberMonday 2026",
     "organizer": "CACE (Cámara Argentina de Comercio Electrónico)",
     "date_start": "2026-11-02",
-    "date_end": "2026-11-04",
+    "date_end": "2026-11-05",
     "date_confirmed": true,
-    "date_note": "Varias marcas extienden beneficios en modalidad \"Cyber Week\" del 5 al 8 de noviembre.",
+    "date_note": "Fuentes divergen sobre la fecha exacta: algunas indican 2 al 4 de noviembre, otras 3 al 5 de noviembre y otras 4 al 6; el sitio oficial cybermonday.com.ar no arrojó una fecha unívoca en la búsqueda. Se recomienda confirmar con CACE antes de publicar como definitivo.",
     "city": "CABA",
-    "province": "Ciudad Autónoma de Buenos Aires",
+    "province": "Buenos Aires",
     "country": "Argentina",
-    "venue": "Online, todo el país",
+    "venue": "Online (evento digital nacional)",
     "venue_confirmed": true,
     "format": "virtual",
     "category": "eCommerce",
     "url": "https://www.cybermonday.com.ar/",
-    "source_url": "https://www.c5n.com/economia/descuentos-y-ofertas-confirmaron-las-fechas-del-black-friday-y-cyber-week-2026-n237316",
-    "description": "72 horas de descuentos online organizadas por CACE, con cerca de 1.000 marcas participantes y financiación bancaria en cuotas.",
-    "fixy_relevance": "Pico de demanda de última milla y fulfillment del segundo semestre: clave para planificar capacidad operativa y anticipar picos de despacho con clientes retail.",
+    "source_url": "https://www.cybermonday.com.ar/cuando-es-cybermonday",
+    "description": "Evento de descuentos online organizado por CACE con más de 900 marcas adheridas; muchas empresas extienden beneficios en una \"Cyber Week\" posterior.",
+    "fixy_relevance": "Es una de las fechas de mayor pico de volumen del año para eCommerce en Argentina: Fixy necesita confirmar la fecha exacta cuanto antes para planificar capacidad de fulfillment y última milla con margen suficiente.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cybermonday-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-10",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-22",
-        "fields": [
-          "date_note",
-          "city",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-29",
         "fields": [
@@ -772,6 +763,18 @@
           "description",
           "fixy_relevance"
         ]
+      },
+      {
+        "date": "2026-09-10",
+        "fields": [
+          "date_end",
+          "date_note",
+          "province",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
@@ -786,31 +789,22 @@
     "city": "Escobar",
     "province": "Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro de Capacitación Profesional para el Transporte \"Rogelio Cavalieri Iribarne\" (FPT-FADEEAC)",
+    "venue": "Centro de Capacitación Profesional para el Transporte \"Rogelio Cavalieri Iribarne\" (RCI-FADEEAC)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
-    "url": "https://arlog.org/",
-    "source_url": "https://fena.org.ar/2026/04/20/xxxiii-encuentro-nacional-de-logistica-arlog/",
-    "description": "Encuentro anual de ARLOG bajo el lema 'Argentina Logística', centrado en la estrategia y los habilitadores necesarios para la nueva supply chain.",
-    "fixy_relevance": "Principal encuentro anual del sector logístico empresario argentino; referencia directa para benchmarking, tendencias y networking de Fixy con pares del sector.",
+    "url": "https://fena.org.ar/2026/04/20/xxxiii-encuentro-nacional-de-logistica-arlog/",
+    "source_url": "https://autoexecutive.com.ar/blog/2026/05/21/arlog-tiene-nuevo-presidente-y-confirmo-la-fecha-del-congreso-de-logistica-empresaria-2026/",
+    "description": "Bajo el lema \"Argentina Logística\", el encuentro se centrará en la estrategia y los habilitadores para la nueva supply chain: innovación, digitalización e integración entre actores del sector.",
+    "fixy_relevance": "Es el principal congreso de logística empresaria del país; sirve a Fixy para benchmarking con pares del sector, contacto con proveedores tecnológicos y detección de tendencias en supply chain aplicables a fulfillment y última milla.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-arlog-empresaria-encuentro-logistica-nacional-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-07",
+    "last_updated": "2026-09-10",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-29",
-        "fields": [
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-09-04",
         "fields": [
@@ -839,6 +833,16 @@
       },
       {
         "date": "2026-09-07",
+        "fields": [
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-10",
         "fields": [
           "venue",
           "url",
@@ -2505,11 +2509,11 @@
   {
     "scope": "ar",
     "name": "Feria Internacional Portuaria Argentina (FIP 2026)",
-    "organizer": "Fundación Desarrollo Portuario Argentino",
+    "organizer": "Fundación Argentina para el Desarrollo Portuario",
     "date_start": "2026-09-17",
     "date_end": "2026-09-19",
     "date_confirmed": true,
-    "date_note": null,
+    "date_note": "La mayoría de las fuentes confirma 17 al 19 de septiembre; una nota puntual mencionó solo 17 y 18. Se toma el rango de 3 días por ser la versión predominante y la del sitio oficial.",
     "city": "Mar del Plata",
     "province": "Buenos Aires",
     "country": "Argentina",
@@ -2518,15 +2522,15 @@
     "format": "presencial",
     "category": "Logística",
     "url": "https://www.expofip.com/",
-    "source_url": "https://www.0223.com.ar/nota/2026-6-25-12-3-0-lanzan-la-primera-feria-internacional-portuaria-argentina-sera-en-mar-del-plata",
-    "description": "Primera edición de la Feria Internacional Portuaria Argentina, impulsada por la Fundación Desarrollo Portuario Argentino en el Sheraton Mar del Plata Hotel. Reúne a más de 1.500 profesionales y más de 80 empresas expositoras vinculadas a puertos, logística, energía, industria naval y pesca, con dos días de conferencias y networking y un tercer día de recorridas técnicas por terminal logísticas y astilleros.",
-    "fixy_relevance": "Reúne a referentes de logística y cadena de suministro del corredor Atlántico; útil para relevar tendencias de infraestructura portuaria y multimodalidad que afectan los costos y tiempos de transporte de larga distancia que usa Fixy para abastecer sus centros de fulfillment.",
+    "source_url": "https://www.infobrisas.com/noticias/2026/09/03/106652-el-17-y-18-de-septiembre-mar-del-plata-recibira-la-feria-internacional-portuaria",
+    "description": "Primera edición de una feria que conecta infraestructura portuaria con logística, industria naval, pesca, energía y tecnología; espera más de 1.500 profesionales y 80 empresas expositoras en Mar del Plata.",
+    "fixy_relevance": "Ayuda a Fixy a mapear actores de infraestructura portuaria y logística de cargas que impactan en tiempos y costos de la última milla vinculada a comercio exterior, y a detectar potenciales alianzas con operadores del corredor Atlántico.",
     "justification_type": null,
-    "priority": "relevante",
+    "priority": "alta",
     "beyond_90": false,
     "id": "ev-argentina-feria-fip-internacional-portuaria-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-25",
+    "last_updated": "2026-09-10",
     "first_seen": "2026-08-23",
     "change_log": [
       {
@@ -2536,6 +2540,17 @@
           "venue_confirmed",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "fields": [
+          "organizer",
+          "date_note",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
         ]
       }
     ]
@@ -2868,16 +2883,16 @@
     "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
-    "url": "https://cace.org.ar/blogs/news/tagged/ecommerce-go",
+    "url": "https://cace.org.ar/prensa/llega-el-ecommerce-go-a-mendoza-tendencias-y-oportunidades-de-negocio-en-el-evento-federal-mas-importante-de-la-economia-digital/",
     "source_url": "https://www.eventbrite.com.ar/e/ecommerce-go-mendoza-2026-tickets-1997982893619",
-    "description": "Parada del roadshow federal de CACE que recorre el país con charlas sobre tendencias y oportunidades de negocio en economía digital, esta vez en Mendoza.",
-    "fixy_relevance": "Espacio de contacto directo con pymes y marcas de Cuyo que venden online y necesitan soluciones de fulfillment y envíos fuera de CABA/GBA.",
+    "description": "Evento federal de CACE que recorre el país llevando tendencias y oportunidades de negocio de la economía digital; en Mendoza se realiza en el Hilton Mendoza Hotel.",
+    "fixy_relevance": "Es una vía directa para hacer prospección comercial entre pymes y marcas de Cuyo que venden online y necesitan soluciones de fulfillment o última milla regional.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-ecommerce-go-mendoza-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-10",
     "first_seen": "2026-08-25",
     "change_log": [
       {
@@ -2914,6 +2929,14 @@
         "fields": [
           "date_note",
           "venue",
+          "url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "fields": [
           "url",
           "description",
           "fixy_relevance"
@@ -3188,24 +3211,35 @@
     "date_end": "2026-09-25",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Remedios de Escalada (Lanús)",
+    "city": "Remedios de Escalada",
     "province": "Buenos Aires",
     "country": "Argentina",
-    "venue": "Campus UNLA, Av. 29 de Septiembre 3901",
+    "venue": "Universidad Nacional de Lanús",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
     "url": "https://webpicking.com/la-unla-invita-al-congreso-internacional-de-transporte-movilidad-y-logistica/",
     "source_url": "https://webpicking.com/la-unla-invita-al-congreso-internacional-de-transporte-movilidad-y-logistica/",
-    "description": "Congreso académico organizado por la UNLA sobre diseño estratégico de redes de articulación territorial para el transporte de cargas y la movilidad urbana sostenible, con paneles de operadores de carga y pasajeros y casos de implementación de software de gestión.",
-    "fixy_relevance": "Espacio de networking con especialistas en logística y transporte del sur del Gran Buenos Aires, zona clave para centros de distribución y última milla de Fixy.",
+    "description": "Congreso académico gratuito (con inscripción previa por capacidad limitada) que reúne operadores, investigadores y decisores públicos de transporte, movilidad y logística.",
+    "fixy_relevance": "Da acceso a análisis y contactos académicos e institucionales sobre transporte y movilidad que pueden anticipar cambios regulatorios o de infraestructura relevantes para la operación logística de Fixy.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-congreso-internacional-logistica-movilidad-trans-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-27",
-    "first_seen": "2026-08-27"
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-08-27",
+    "change_log": [
+      {
+        "date": "2026-09-10",
+        "fields": [
+          "city",
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -3333,7 +3367,7 @@
   {
     "scope": "ar",
     "name": "44ª Jornadas de Supermercadismo Argentino 2026",
-    "organizer": "CASAC (Cámara de Supermercados y Autoservicios de Córdoba), con apoyo de CAS, FASA y CAME",
+    "organizer": "CASAC (Confederación Argentina de Supermercados, Autoservicios y Comercios)",
     "date_start": "2026-09-23",
     "date_end": "2026-09-24",
     "date_confirmed": true,
@@ -3346,16 +3380,27 @@
     "format": "presencial",
     "category": "Retail",
     "url": "https://casac.org.ar/",
-    "source_url": "https://www.webretail.com.ar/las-jornadas-de-supermercadismo-argentino-llegan-a-cordoba-con-foco-en-el-futuro-del-retail/",
-    "description": "Encuentro anual del sector supermercadista argentino, con exposición comercial, rondas de negocios y conferencias; la edición 2025 (43ª) reunió más de 3500 asistentes y 80 empresas expositoras.",
-    "fixy_relevance": "Junta a cadenas de supermercados y autoservicios regionales que están digitalizando ventas y última milla; le sirve a Fixy para mapear oportunidades de fulfillment b2b2c con retailers del interior.",
+    "source_url": "https://supermercadoaldia.cl/eventos/44-jornadas-de-supermercadismo-argentino",
+    "description": "Encuentro anual del supermercadismo y el consumo argentino, con exposición comercial, conferencias y rondas de negocios en las Cúpulas del Complejo Ferial Córdoba.",
+    "fixy_relevance": "Concentra a cadenas de supermercados y autoservicios que están profesionalizando su canal online: es una oportunidad concreta de prospección comercial para servicios de fulfillment y última milla en el interior.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-argentino-jornadas-supermercadismo-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-28",
-    "first_seen": "2026-08-28"
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-08-28",
+    "change_log": [
+      {
+        "date": "2026-09-10",
+        "fields": [
+          "organizer",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -4098,7 +4143,7 @@
   {
     "scope": "intl",
     "name": "Amazon Accelerate 2026",
-    "organizer": "Amazon (Seller Services)",
+    "organizer": "Amazon",
     "date_start": "2026-09-22",
     "date_end": "2026-09-24",
     "date_confirmed": true,
@@ -4106,21 +4151,36 @@
     "city": "Seattle",
     "province": null,
     "country": "Estados Unidos",
-    "venue": "Seattle Convention Center, 900 Pine Street",
+    "venue": "Seattle Convention Center",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Marketplaces",
-    "url": "https://sell.amazon.com/blog/accelerate",
-    "source_url": "https://www.eventbrite.com/e/amazon-accelerate-2026-conference-tickets-1993503656099",
-    "description": "Conferencia anual de Amazon dirigida a sellers y partners, con anuncios de herramientas, logística y programas de crecimiento dentro del marketplace.",
-    "fixy_relevance": "Vidriera clave para conectar con sellers y marcas que venden en Amazon y necesitan un partner de fulfillment y logística en LATAM; permite detectar tendencias de marketplace aplicables a los clientes actuales y potenciales de Fixy.",
-    "justification_type": "negocios",
-    "priority": "relevante",
+    "url": "https://amazonaccelerate.com/",
+    "source_url": "https://sell.amazon.com/blog/announcements/seller-cafe-at-amazon-accelerate-2026",
+    "description": "Conferencia anual de Amazon para vendedores y marcas que operan en su marketplace, con más de 150 sesiones sobre fulfillment, logística, publicidad y nuevas herramientas para sellers.",
+    "fixy_relevance": "Permite entender de primera mano hacia dónde va la logística de marketplaces (FBA, fulfillment multicanal, last-mile) y detectar oportunidades para posicionar a Fixy como alternativa de fulfillment para sellers que buscan diversificar fuera de Amazon o expandirse a LATAM.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-accelerate-amazon-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-05",
-    "first_seen": "2026-09-05"
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-05",
+    "change_log": [
+      {
+        "date": "2026-09-10",
+        "fields": [
+          "organizer",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -4130,7 +4190,7 @@
     "date_end": "2027-06-03",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Barcelona (L'Hospitalet de Llobregat)",
+    "city": "Barcelona",
     "province": null,
     "country": "España",
     "venue": "Fira Barcelona Gran Via",
@@ -4139,15 +4199,25 @@
     "category": "Retail",
     "url": "https://europe.shoptalk.com/home",
     "source_url": "https://europe.shoptalk.com/home",
-    "description": "Edición europea de Shoptalk, uno de los eventos globales más grandes de innovación en retail, con más de 4.500 asistentes y 180 speakers de marcas, retailers y tecnológicas.",
-    "fixy_relevance": "Referencia global en innovación retail (retail media, comercio unificado, omnicanalidad); su agenda suele anticipar tendencias que después bajan a LATAM, útil como aprendizaje para management y marketing.",
+    "description": "Edición europea de Shoptalk, uno de los eventos globales más grandes de innovación en retail y eCommerce, con foco en tecnología, omnicanalidad y experiencia de compra.",
+    "fixy_relevance": "Complementa las ediciones de Shoptalk Fall y Spring ya monitoreadas por Fixy; es una vidriera global de tendencias de retail tech y logística omnicanal que puede anticipar cambios que después llegan a LATAM, además de networking con proveedores tecnológicos internacionales.",
     "justification_type": "aprendizaje",
     "priority": "informativo",
     "beyond_90": true,
     "id": "ev-europe-shoptalk-2027",
     "source_kind": "auto",
-    "last_updated": "2026-09-05",
-    "first_seen": "2026-09-05"
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-05",
+    "change_log": [
+      {
+        "date": "2026-09-10",
+        "fields": [
+          "city",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -4229,5 +4299,86 @@
     "source_kind": "auto",
     "last_updated": "2026-09-09",
     "first_seen": "2026-09-09"
+  },
+  {
+    "scope": "ar",
+    "name": "ENLACETECH 2026",
+    "organizer": "Polo Tecnológico Bahía Blanca",
+    "date_start": "2026-09-14",
+    "date_end": "2026-09-14",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Bahía Blanca",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Rondeau 29, Bahía Blanca",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Tecnología",
+    "url": "https://enlacetech.com.ar/",
+    "source_url": "https://enlacetech.com.ar/",
+    "description": "Encuentro de tecnología, industria, talento y conocimiento del sur bonaerense, con bloques sobre emprendimiento, IA aplicada, talento e infraestructura regional, organizado por el Polo Tecnológico de Bahía Blanca.",
+    "fixy_relevance": "Evento nuevo del interior que conecta a Fixy con el ecosistema tech e industrial de Bahía Blanca, un polo logístico-portuario en crecimiento donde podría haber demanda de fulfillment y última milla regional.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-enlacetech-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "scope": "ar",
+    "name": "ePymes Day 2026",
+    "organizer": "Andreani (Grupo Logístico Andreani)",
+    "date_start": "2026-09-24",
+    "date_end": "2026-09-24",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "CABA",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Dr. Prof. Pedro Chutro 2881, CABA",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "eCommerce",
+    "url": "https://epymesday.andreani.com/",
+    "source_url": "https://www.eventbrite.com/e/epymes-day-2026-tickets-1993148967215",
+    "description": "Evento gratuito de Andreani para emprendedores y pymes de eCommerce, con referentes de CACE, ASEA, Google, Meta, Mercado Libre y Tiendanube compartiendo casos de éxito y tendencias del ecosistema digital.",
+    "fixy_relevance": "Es un evento clave para monitorear cómo se posiciona un competidor/socio de peso como Andreani frente a las pymes de eCommerce, y una oportunidad de networking directo con el mismo público objetivo de Fixy.",
+    "justification_type": null,
+    "priority": "alta",
+    "beyond_90": false,
+    "id": "ev-day-epymes-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "scope": "intl",
+    "name": "Prosper Show 2027",
+    "organizer": "Emerald X",
+    "date_start": "2027-03-02",
+    "date_end": "2027-03-03",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Las Vegas",
+    "province": null,
+    "country": "Estados Unidos",
+    "venue": "Wynn Las Vegas",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Marketplaces",
+    "url": "https://prospershow.com/",
+    "source_url": "https://prospershow.com/news/registration-has-opened-for-prosper-2027/987509449",
+    "description": "Evento especializado en vendedores de marketplaces (Amazon, Walmart y otros) enfocado en escalar operaciones, mejorar rentabilidad y optimizar logística y fulfillment.",
+    "fixy_relevance": "Es un punto de encuentro directo con marcas y sellers que necesitan soluciones de fulfillment y logística para escalar en marketplaces; útil para entender tendencias de sellers globales y evaluar sponsorship o networking con potenciales clientes que buscan operar en LATAM.",
+    "justification_type": "networking",
+    "priority": "relevante",
+    "beyond_90": true,
+    "id": "ev-prosper-show-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-10"
   }
 ]

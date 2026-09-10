@@ -1,5 +1,27 @@
 [
   {
+    "name": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
+    "vendor": "Meta",
+    "what_it_is": "Es el esquema de cobro que Meta va a aplicar a las empresas por los mensajes de servicio que responden dentro de la ventana de 24 horas de atención al cliente en WhatsApp Business.",
+    "what_changed": "Meta confirmó los valores definitivos justo antes del plazo que se había puesto (1° de septiembre): desde el 1° de octubre cada número de WhatsApp Business tiene 1.000 mensajes de servicio gratis por mes, y a partir del mensaje 1.001 se cobra el mismo valor por mensaje que las plantillas de utilidad y autenticación de cada país.",
+    "fixy_use": "Fixy tiene que medir cuántos mensajes de servicio manda hoy por WhatsApp (seguimiento de pedidos, reclamos, coordinación de entregas con clientes finales) para saber si va a superar los 1.000 gratis por número a partir de octubre y estimar el costo mensual extra. Conviene evaluar si conviene repartir el volumen en más de un número de WhatsApp Business, o derivar las consultas repetitivas (¿dónde está mi pedido?) a un bot o a las FAQ para no pagar de más por mensajes que se pueden resolver sin un agente humano.",
+    "verdict": "seguir",
+    "verdict_reason": "Es un cambio de costo ya confirmado con fecha cierta que impacta el presupuesto de atención por WhatsApp desde octubre, hay que medir el volumen propio antes de esa fecha.",
+    "categories": [
+      "Comercial",
+      "Operaciones",
+      "Management"
+    ],
+    "pricing_note": "pago: 1.000 mensajes de servicio gratis por número y por mes, luego se cobra al mismo valor que las plantillas de utilidad/autenticación de cada país; monto exacto en pesos para Argentina, por confirmar.",
+    "source_url": "https://www.infobae.com/tecno/2026/09/06/whatsapp-business-cobrara-por-responder-mensajes-en-2026-a-quienes-afecta-y-a-quienes-no/",
+    "published_date": "2026-09-06",
+    "priority": "alta",
+    "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-01"
+  },
+  {
     "name": "Gemini 3.5 Transcribe",
     "vendor": "Google",
     "what_it_is": "Un modelo de voz a texto de Google DeepMind que transcribe audio en vivo o grabado, reconoce quién habla en una conversación (diarización), agrega marcas de tiempo y limpia automáticamente muletillas y autocorrecciones.",
@@ -225,26 +247,25 @@
     "first_seen": "2026-08-22"
   },
   {
-    "name": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
-    "vendor": "Meta",
-    "what_it_is": "Es un cambio en cómo Meta cobra el uso de WhatsApp Business Platform (la API de negocios, no la app gratuita): a partir de una fecha confirmada, todos los mensajes de servicio —las respuestas libres dentro de la ventana de 24 horas, las escriba una persona, un bot propio o una IA— van a tener costo.",
-    "what_changed": "Estos mensajes eran gratis desde noviembre de 2024. Meta anunció el 1° de julio de 2026, junto con el lanzamiento de su Meta Business Agent, que desde el 1° de octubre de 2026 se van a cobrar al mismo valor por mensaje que ya rige para las plantillas de utilidad y autenticación de cada país, y que iba a publicar las tarifas exactas por país antes del 1° de septiembre de 2026.",
-    "fixy_use": "Si Fixy atiende clientes por la API de WhatsApp Business (directo o a través de un proveedor tipo Zendesk, Chatwoot o similar), este cambio encarece cada conversación de atención que hoy es gratis dentro de las 24 horas, la maneje una persona o un bot. Conviene chequear ahora con el proveedor de WhatsApp de Fixy qué tarifa va a regir en Argentina y evaluar si conviene resolver más consultas con un asistente propio más acotado (o derivar a otro canal) antes del 1° de octubre. El cambio no afecta a la app gratuita de WhatsApp Business, solo a la API.",
-    "verdict": "seguir",
-    "verdict_reason": "Es un cambio de costos con fecha cierta que impacta el presupuesto de atención al cliente, aunque la tarifa final para Argentina todavía no está confirmada.",
+    "name": "ChatGPT Images 2.5",
+    "vendor": "OpenAI",
+    "what_it_is": "Es la nueva versión del generador y editor de imágenes de ChatGPT, con más calidad de detalle y una función nueva llamada Sketch para dibujar un boceto simple como referencia de la imagen final.",
+    "what_changed": "OpenAI lo lanzó el 8 de septiembre de 2026 para todos los usuarios de ChatGPT (incluido ChatGPT Work) en escritorio, celular y web, con plantillas listas para volantes, posters y fotos de producto, y hasta un 50% menos de tiempo de espera para generar cada imagen frente a la versión anterior.",
+    "fixy_use": "Fixy puede usarlo para armar piezas de marketing y contenido para redes (posteos, flyers de promociones, banners para WhatsApp o Instagram) sin depender de un diseñador, partiendo de una foto de producto real o un boceto simple. También sirve para generar infografías tipo \"así embalamos tu pedido\" o piezas para propuestas comerciales, manteniendo consistencia visual entre varias imágenes de una misma campaña.",
+    "verdict": "probar",
+    "verdict_reason": "Ya está incluido en los planes de ChatGPT que el equipo puede tener contratados y acorta bastante el tiempo de producción de piezas gráficas simples.",
     "categories": [
-      "Comercial",
-      "Management",
-      "Operaciones"
+      "Marketing",
+      "Contenido"
     ],
-    "pricing_note": "pago — tarifa por país todavía no publicada por Meta",
-    "source_url": "https://www.wati.io/en/blog/whatsapp-service-message-pricing/",
-    "published_date": "2026-07-01",
-    "priority": "alta",
-    "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
+    "pricing_note": "freemium: incluido en los planes de ChatGPT (Plus/Pro/Business/Work); costo adicional por uso vía API no confirmado.",
+    "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "published_date": "2026-09-08",
+    "priority": "relevante",
+    "id": "ai-openai-chatgpt-images-2-5",
     "source_kind": "auto",
-    "last_updated": "2026-09-01",
-    "first_seen": "2026-09-01"
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-10"
   },
   {
     "name": "GPT-6 Astra",
@@ -539,6 +560,29 @@
     "source_kind": "auto",
     "last_updated": "2026-09-05",
     "first_seen": "2026-09-05"
+  },
+  {
+    "name": "Copilot Notebooks: captura multimodal en OneNote (Android)",
+    "vendor": "Microsoft",
+    "what_it_is": "Es una función de OneNote/Copilot Notebooks que graba una sesión combinando audio, fotos y notas escritas, y al cerrarla arma sola una página resumen con los puntos clave.",
+    "what_changed": "Microsoft ya la tenía en iPhone/iPad y la llevó a Android, con lanzamiento entre fines de agosto y principios de septiembre de 2026, pensada para reuniones presenciales, recorridas de campo y sesiones frente a un pizarrón.",
+    "fixy_use": "Sirve para que alguien de operaciones registre una recorrida de depósito, una charla con un transportista o una reunión de coordinación sacando fotos y grabando audio con el celular, y que Copilot arme solo una minuta con los puntos clave, sin que nadie tenga que redactarla después. También ayuda a management a dejar registro ordenado de reuniones internas sin que una persona tenga que tomar notas a mano mientras participa.",
+    "verdict": "probar",
+    "verdict_reason": "Es una función ya disponible que ahorra tiempo de armar minutas a mano, siempre que el equipo ya tenga licencia de Microsoft 365 Copilot.",
+    "categories": [
+      "Organización",
+      "Productividad",
+      "Gestión del tiempo",
+      "Operaciones"
+    ],
+    "pricing_note": "pago: requiere licencia de Microsoft 365 Copilot (y OneDrive/SharePoint); no hay versión gratuita confirmada.",
+    "source_url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/what%E2%80%99s-new-in-microsoft-copilot--august-2026/4551960",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "id": "ai-microsoft-copilot-notebooks-captura-multimodal-en-onenote-an",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-10"
   },
   {
     "name": "Claude Cowork: navegador integrado sin extensión",
@@ -1034,6 +1078,27 @@
     "first_seen": "2026-08-19"
   },
   {
+    "name": "WhatsApp: chats directos con agentes de IA de terceros",
+    "vendor": "Meta",
+    "what_it_is": "Es una función en pruebas que deja agregar hasta cinco agentes de IA de terceros como contactos de chat separados dentro de WhatsApp, generando una clave de API para conectar cada uno.",
+    "what_changed": "WhatsApp empezó a testearla en la beta de Android a principios de septiembre de 2026: a diferencia de un bot de atención vía WhatsApp Business API, acá el agente aparece como un chat independiente en la app, aunque Meta aclara que esas conversaciones no están cifradas de punta a punta porque las administra un servicio de Meta.",
+    "fixy_use": "Todavía es una beta chica y sin fecha para negocios, pero conviene seguirla de cerca: si en algún momento se habilita para empresas, Fixy podría ofrecer un asistente propio (por ejemplo para consultar el estado de un envío o coordinar una entrega) como un chat aparte dentro de WhatsApp, sin mezclarlo con el número de atención humana ni depender únicamente del flujo de la Business API.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una beta limitada a algunos usuarios de Android sin apertura confirmada para negocios, todavía no hay nada concreto para implementar.",
+    "categories": [
+      "Comercial",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado: función en beta cerrada, sin modelo de precios anunciado para negocios.",
+    "source_url": "https://www.business-standard.com/technology/tech-news/whatsapp-explores-third-party-ai-agent-chats-on-android-app-details-here-126090700345_1.html",
+    "published_date": "2026-09-07",
+    "priority": "informativo",
+    "id": "ai-meta-whatsapp-chats-directos-con-agentes-de-ia-de-terceros",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-10"
+  },
+  {
     "name": "WhatsApp: agentes de IA de terceros como contacto (beta)",
     "vendor": "Meta / WhatsApp",
     "what_it_is": "Una sección nueva en la configuración de WhatsApp donde cada usuario puede conectar hasta 5 agentes de IA externos (de OpenAI, Google, Anthropic u otros proveedores) que aparecen en la lista de chats como un contacto más, con nombre y foto propios.",
@@ -1101,23 +1166,23 @@
   {
     "name": "Gemini 3.8 Flash",
     "vendor": "Google",
-    "what_it_is": "Nuevo modelo 'workhorse' de Gemini, rápido y económico, orientado a programación, agentes que ejecutan tareas de varios pasos y razonamiento técnico, con una variante especializada en ciberseguridad (3.8 Flash Cyber).",
-    "what_changed": "Se lanzó el 2 de septiembre de 2026, apenas tres semanas después de Gemini 3.7 Flash, con mejoras medibles en la resolución de tareas de programación complejas y depuración.",
-    "fixy_use": "No es una herramienta para usar directo desde un chat: funciona como motor barato para automatizaciones a medida (por ejemplo conectado a n8n) que clasifiquen reclamos de clientes, lean remitos o extraigan datos de facturas de transportistas. Tiene sentido si en algún momento Fixy suma a alguien con perfil técnico que arme esos flujos; hoy es más para tener en el radar que para usar ya.",
+    "what_it_is": "Es un modelo de IA de Google pensado para tareas de varios pasos y automatización (\"agéntico\"), más rápido y más barato que los modelos grandes de la misma familia.",
+    "what_changed": "Google lo lanzó el 2 de septiembre de 2026 -su tercer modelo Flash en seis semanas- con mejoras de razonamiento para tareas largas y un precio de entrada de USD 0,75 por millón de tokens, ya disponible en la app de Gemini, en AI Studio y en la API para desarrolladores.",
+    "fixy_use": "Al ser más barato para tareas de varios pasos, puede usarse como motor de bajo costo detrás de automatizaciones armadas en n8n o Make -por ejemplo, clasificar pedidos entrantes, leer remitos o redactar respuestas automáticas de seguimiento-, algo que un equipo chico puede evaluar sin comprometer un gasto grande en IA. Requiere a alguien que arme la integración técnica, no es una herramienta de uso directo para el equipo comercial o de atención.",
     "verdict": "seguir",
-    "verdict_reason": "Es una mejora técnica real y barata, pero requiere capacidad de desarrollo que hoy el equipo de Fixy no tiene instalada.",
+    "verdict_reason": "Es una mejora de costo y performance útil solo si Fixy ya construye o piensa construir automatizaciones propias con IA vía API.",
     "categories": [
       "Automatización",
       "Análisis",
       "Operaciones"
     ],
-    "pricing_note": "pago — precio introductorio de USD 0,75 por millón de tokens de entrada y USD 3,75 de salida hasta el 31/12/2026, después sube",
+    "pricing_note": "pago: USD 0,75 por millón de tokens de entrada y USD 3,75 por millón de tokens de salida (precio introductorio vía API).",
     "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
     "published_date": "2026-09-02",
     "priority": "informativo",
     "id": "ai-google-gemini-3-8-flash",
     "source_kind": "auto",
-    "last_updated": "2026-09-08",
+    "last_updated": "2026-09-10",
     "first_seen": "2026-09-04"
   },
   {

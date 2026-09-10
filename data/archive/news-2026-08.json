@@ -387,5 +387,74 @@
     "source_kind": "auto",
     "last_updated": "2026-08-24",
     "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Rosario estrenó Exportlog, su primera expo de puertos y logística del Litoral",
+    "what_happened": "Los días 19 y 20 de agosto se realizó en la Terminal Fluvial de Rosario la primera edición de Exportlog, exposición integral de puertos, logística y transporte fluvio-marítimo del Litoral argentino, con 46 stands confirmados y más de 80 oradores en rondas de negocios y paneles. El evento fue organizado por el Instituto de Desarrollo Regional (IDR) y GlobalPorts, con apoyo del Gobierno de Santa Fe y la Municipalidad de Rosario, en un contexto de récord de exportaciones agroindustriales (40 millones de toneladas embarcadas entre enero y abril de 2026, +11% sobre el registro histórico previo).",
+    "why_it_matters": "Consolida a Rosario y a la hidrovía Paraná-Paraguay como un nuevo polo ferial propio para discutir competitividad logística y de comercio exterior del Centro y el Litoral, un rol que hasta ahora se concentraba casi exclusivamente en Buenos Aires.",
+    "fixy_impact": null,
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "GlobalPorts / Webpicking",
+    "source_url": "https://www.globalports.com.ar/exportlog-2026-reordena-mapa-logistico/",
+    "published_date": "2026-08-19",
+    "priority": "informativo",
+    "tags": [
+      "Exportlog",
+      "Rosario",
+      "puertos",
+      "hidrovía",
+      "comercio exterior"
+    ],
+    "id": "nw-e4f19551d3",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "title": "El superávit comercial de julio fue de US$2.115 millones, pero las importaciones cayeron 1,7% interanual",
+    "what_happened": "Según el INDEC, en julio las exportaciones argentinas sumaron US$8.854 millones (+14,1% interanual, impulsadas por energía) y las importaciones US$6.739 millones (-1,7% interanual, con una caída del 9,2% en las cantidades importadas), dejando un superávit comercial de US$2.115 millones. Frente a junio, las exportaciones cayeron casi 5%.",
+    "why_it_matters": "La retracción en el volumen de importaciones, tras meses de apertura, puede anticipar un freno en la llegada de mercadería importada que compite con la producción local y con el catálogo de muchos eCommerce.",
+    "fixy_impact": null,
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "INDEC",
+    "source_url": "https://www.indec.gob.ar/uploads/informesdeprensa/ica_08_26E158B1D119.pdf",
+    "published_date": "2026-08-19",
+    "priority": "informativo",
+    "tags": [
+      "comercio exterior",
+      "importaciones",
+      "INDEC",
+      "balanza comercial"
+    ],
+    "id": "nw-13fef1744e",
+    "source_kind": "auto",
+    "last_updated": "2026-08-22",
+    "first_seen": "2026-08-22"
+  },
+  {
+    "title": "ARCA equipara al Correo Argentino con los couriers privados para las compras en Shein, Temu y Amazon",
+    "what_happened": "En el marco del Decreto 604/2026, ARCA puso en vigencia las nuevas pautas que unifican las condiciones tributarias entre el operador postal oficial y los couriers privados (DHL, FedEx, UPS) para las compras en el exterior por plataformas como Shein, Temu y Amazon. Se mantiene una franquicia de US$400 FOB libre de derechos de importación por envío, con un tope de cinco envíos anuales por persona y un valor máximo de US$3.000 por envío, aunque IVA e impuestos internos siguen aplicando por fuera de esa franquicia.",
+    "why_it_matters": "Al igualar las reglas entre el Correo Argentino y los couriers internacionales, el Gobierno facilita y simplifica el ingreso de compras individuales del exterior, lo que intensifica la presión competitiva sobre el retail y el eCommerce local de productos importables.",
+    "fixy_impact": "Fixy opera en el mismo ecosistema postal y de couriers que ahora queda equiparado por ARCA, por lo que es un dato clave para entender el contexto regulatorio en el que compiten sus clientes retailers frente a Shein, Temu y Amazon.",
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "El Destape",
+    "source_url": "https://www.eldestapeweb.com/economia/arca-reglas-compras-shein-temu-amazon-202681941530",
+    "published_date": "2026-08-19",
+    "priority": "relevante",
+    "tags": [
+      "ARCA",
+      "importaciones",
+      "Shein",
+      "Temu",
+      "Amazon",
+      "courier"
+    ],
+    "id": "nw-480e1beaa8",
+    "source_kind": "auto",
+    "last_updated": "2026-08-23",
+    "first_seen": "2026-08-23"
   }
 ]
