@@ -336,6 +336,28 @@
     "first_seen": "2026-09-06"
   },
   {
+    "name": "ChatGPT: conector con Zendesk",
+    "vendor": "OpenAI",
+    "what_it_is": "Un plugin oficial de OpenAI que conecta ChatGPT y Codex con la cuenta de Zendesk de una empresa, para trabajar tickets de soporte sin salir del chat.",
+    "what_changed": "Se sumó en beta como parte del lanzamiento de GPT-6 Astra a principios de septiembre de 2026: antes había que ir a Zendesk para ver tickets, ahora ChatGPT puede leerlos y redactar respuestas directamente conectando la cuenta.",
+    "fixy_use": "El equipo de atención al cliente podría conectar Zendesk a ChatGPT para pedir un resumen del historial de un cliente antes de responder, o para que ChatGPT redacte una respuesta a un reclamo de envío citando los tickets anteriores. Sirve como atajo cuando hay pocas personas cubriendo soporte y no da el tiempo para revisar todo el hilo manualmente.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis de activar si ya se paga ChatGPT Business/Plus y Zendesk, y ataca un cuello de botella real de un equipo chico de soporte.",
+    "categories": [
+      "Operaciones",
+      "Productividad",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado - el plugin es parte del plan de ChatGPT (Plus/Business/Enterprise), requiere cuenta de Zendesk propia; no se confirmó costo adicional del plugin en sí",
+    "source_url": "https://help.openai.com/am-et/articles/20001512-using-zendesk-in-chatgpt-and-codex",
+    "published_date": "2026-09-03",
+    "priority": "relevante",
+    "id": "ai-openai-chatgpt-conector-con-zendesk",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
+  },
+  {
     "name": "Instrucciones personalizadas de Gemini en Workspace",
     "vendor": "Google",
     "what_it_is": "Una configuración de Gemini en Google Workspace donde cada persona guarda instrucciones fijas (tono, idioma, formato, preferencias) para que se apliquen siempre, sin repetirlas en cada consulta.",
@@ -446,6 +468,27 @@
     "source_kind": "auto",
     "last_updated": "2026-09-07",
     "first_seen": "2026-09-07"
+  },
+  {
+    "name": "Google Pics",
+    "vendor": "Google",
+    "what_it_is": "Una herramienta de generación y edición de imágenes con IA integrada en Google Workspace (Docs y Slides, con Drive en camino), basada en el modelo Nano Banana de Google.",
+    "what_changed": "Pasó a disponibilidad general el 1 de septiembre de 2026 para clientes de Workspace Business Standard/Plus y Enterprise, y para suscriptores de Google AI Pro/Ultra: permite crear y editar imágenes por objeto (cambiar un elemento puntual de una foto) directamente donde ya se arma el contenido, sin exportar a otra app.",
+    "fixy_use": "Marketing puede generar o retocar imágenes de producto, banners para redes o piezas para presentaciones comerciales directamente en Slides/Docs, sin depender de Canva ni de pedirle un diseño a un tercero para ajustes chicos (cambiar un color, sacar un fondo, reemplazar un objeto).",
+    "verdict": "probar",
+    "verdict_reason": "Ya viene incluido si la empresa paga Workspace Business Standard/Plus, así que el costo marginal de probarlo es bajo.",
+    "categories": [
+      "Marketing",
+      "Contenido"
+    ],
+    "pricing_note": "freemium - incluido en planes Business Standard, Business Plus, Enterprise Standard y Enterprise Plus de Workspace, y en Google AI Pro/Ultra",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/09/google-pics-brings-pro-level-ai-image-creation-and-editing-to-Google-Workspace.html",
+    "published_date": "2026-09-01",
+    "priority": "relevante",
+    "id": "ai-google-google-pics",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
   },
   {
     "name": "Gemini Sheets Canvas: hojas de cálculo a apps interactivas",
@@ -1099,6 +1142,27 @@
     "first_seen": "2026-09-10"
   },
   {
+    "name": "WhatsApp: chats con agentes de IA de terceros",
+    "vendor": "Meta",
+    "what_it_is": "Una función en pruebas que permite vincular hasta cinco agentes de IA de terceros a chats individuales dentro de WhatsApp, cada uno con su propio nombre y foto, usando una clave de API generada por la app.",
+    "what_changed": "Detectada por WABetaInfo en la versión beta de WhatsApp para Android a comienzos de septiembre de 2026; todavía no está confirmada oficialmente por Meta ni disponible para el público general, y estos chats no tienen cifrado de extremo a extremo.",
+    "fixy_use": "Por confirmar: si esto avanza a una versión estable y se abre a cuentas de negocio, Fixy podría eventualmente vincular su propio agente (por ejemplo uno armado con Claude o ChatGPT) a un chat de WhatsApp para consultas de seguimiento de pedidos, pero hoy es una prueba limitada a usuarios de Android y sin confirmación de uso comercial.",
+    "verdict": "seguir",
+    "verdict_reason": "Todavía es una beta no confirmada por Meta y sin cifrado, así que conviene monitorear antes de planear algo sobre esto.",
+    "categories": [
+      "Operaciones",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado - función en prueba, sin detalles de costo ni disponibilidad para cuentas de negocio",
+    "source_url": "https://wabetainfo.com/whatsapp-is-rolling-out-chats-with-third-party-agents/",
+    "published_date": "2026-09-07",
+    "priority": "informativo",
+    "id": "ai-meta-whatsapp-chats-con-agentes-de-ia-de-terceros",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
+  },
+  {
     "name": "WhatsApp: agentes de IA de terceros como contacto (beta)",
     "vendor": "Meta / WhatsApp",
     "what_it_is": "Una sección nueva en la configuración de WhatsApp donde cada usuario puede conectar hasta 5 agentes de IA externos (de OpenAI, Google, Anthropic u otros proveedores) que aparecen en la lista de chats como un contacto más, con nombre y foto propios.",
@@ -1271,6 +1335,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-05",
     "first_seen": "2026-09-05"
+  },
+  {
+    "name": "Copilot Notebooks: fuentes de datos ampliadas",
+    "vendor": "Microsoft",
+    "what_it_is": "Una actualización de Copilot Notebooks (Microsoft 365) que permite usar reportes de Power BI, archivos CSV/TSV e imágenes JPG/PNG como fuentes de referencia, además de los documentos que ya aceptaba.",
+    "what_changed": "Hasta ahora Copilot Notebooks solo tomaba documentos de Office como contexto; con este cambio, que llegó a disponibilidad general en septiembre de 2026, también puede leer tablas de datos crudos y reportes de Power BI para armar resúmenes y presentaciones.",
+    "fixy_use": "El equipo de operaciones o management podría subir un CSV con métricas de envíos (demoras, devoluciones por zona) a un notebook y pedirle a Copilot un resumen ejecutivo o una presentación con esos datos, sin tener que armar el análisis a mano en Excel primero.",
+    "verdict": "seguir",
+    "verdict_reason": "Es útil pero depende de que Fixy ya pague licencias de Microsoft 365 Copilot, algo por confirmar en el equipo.",
+    "categories": [
+      "Análisis",
+      "Productividad",
+      "Gestión del tiempo"
+    ],
+    "pricing_note": "pago - requiere licencia de Microsoft 365 Copilot",
+    "source_url": "https://mc.merill.net/message/RM569928",
+    "published_date": "2026-09-01",
+    "priority": "informativo",
+    "id": "ai-microsoft-copilot-notebooks-fuentes-de-datos-ampliadas",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
   },
   {
     "name": "Gemini Omni 1.1 Flash",

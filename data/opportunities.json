@@ -1,5 +1,36 @@
 [
   {
+    "title": "Anticipar más pedidos de bajo ticket por la baja del piso de envío gratis de Meli+",
+    "context": "Mercado Libre bajó de $33.000 a $15.000 el monto mínimo de compra para envío gratis en Meli+, apuntando a impulsar compras chicas de alimentos, limpieza y tocador, sobre todo en el interior. Eso va a multiplicar los pedidos de bajo valor, un tipo de operación donde el costo logístico pesa proporcionalmente mucho más sobre el ticket.",
+    "action": "Revisar la estructura de tarifas para bultos chicos y acercarse a vendedores de Mercado Libre con una propuesta de consolidación o tarifa por volumen para pedidos de bajo ticket, antes de que la suba de volumen los tome por sorpresa con su estructura de costos actual.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.cronista.com/negocios/fuerte-apuesta-de-mercado-libre-en-envios-gratis-para-ganar-mas-usuarios-premium/",
+    "linked": [
+      "Mercado Libre baja a $15.000 el piso para envíos gratis en Meli+"
+    ],
+    "id": "op-19f402b6",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
+  },
+  {
+    "title": "Preparar la información logística para que la lean agentes de IA",
+    "context": "Un informe de Bain & Company confirma que 3 de cada 10 compradores argentinos ya usan IA para comprar online, y en paralelo el ecosistema de pagos y ecommerce local (Mercado Pago, Tiendanube, Visa, Mastercard, Pomelo) ya está probando compras agénticas. Si la compra se cierra dentro de un chat de IA, el dato de envío que ofrece Fixy tiene que ser legible por máquinas.",
+    "action": "Armar un feed o API simple con costo, cobertura por código postal y plazo de entrega, y ofrecerlo como diferencial técnico a vendedores que empiecen a vender a través de agentes de compra.",
+    "type": "producto",
+    "priority": "alta",
+    "source_url": "https://www.iproup.com/innovacion/71241-compras-online-argentina-comercio-agentico-inteligencia-artificial-septiembre-2026",
+    "linked": [
+      "Un informe de Bain & Company muestra que 3 de cada 10 compradores argentinos ya usan IA para comprar online",
+      "Compras y pagos agénticos en Argentina"
+    ],
+    "id": "op-b42b9ce6",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
+  },
+  {
     "title": "Anticipar demoras de comercio exterior por el paro portuario en Montevideo",
     "context": "El conflicto laboral en la terminal de contenedores de Montevideo escaló a un paro por tiempo indeterminado, con pérdidas estimadas de entre US$400.000 y US$500.000 diarios para el transporte de cargas de la región. Montevideo es un nodo clave de transbordo para el comercio exterior argentino que usa el Río de la Plata, por lo que la demora puede afectar la reposición de stock de clientes de fulfillment que importan mercadería por esa vía.",
     "action": "Relevar qué clientes de Fixy dependen de mercadería importada vía Montevideo, avisarles proactivamente sobre posibles demoras y ofrecerles un colchón de stock de seguridad o rutas alternativas de abastecimiento mientras dure el conflicto.",
@@ -91,38 +122,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-09",
     "first_seen": "2026-09-09"
-  },
-  {
-    "title": "Preparar al equipo comercial para la semana de eventos del 9 al 11 de septiembre (Mercado Libre Experience, Expo Franquicias y agenda del interior)",
-    "context": "En menos de una semana coinciden Expo Franquicias Argentina 2026, Mercado Libre Experience Argentina 2026 y varios encuentros de emprendedores en Jujuy, Salta y Tucumán: es la mayor concentración de vendedores y pymes potencialmente clientes que va a tener Fixy en todo septiembre.",
-    "action": "Definir con anticipación qué evento cubre cada persona del equipo comercial, preparar un material de venta breve (tarifario y cobertura) y coordinar el seguimiento post-evento de los contactos relevados.",
-    "type": "comercial",
-    "priority": "alta",
-    "source_url": "https://www.mercadolibreexperience.com.ar/",
-    "linked": [
-      "Mercado Libre Experience Argentina 2026",
-      "Expo Franquicias Argentina 2026",
-      "Experiencia Endeavor NOA 2026",
-      "Potencia – Livingroom de Emprendedores 2026 (Salta Capital)"
-    ],
-    "id": "op-624d95d3",
-    "source_kind": "auto",
-    "last_updated": "2026-09-08",
-    "first_seen": "2026-09-08"
-  },
-  {
-    "title": "Targetear a los comercios de cercanía que están migrando ventas al canal online como nuevo segmento de clientes de fulfillment",
-    "context": "CAME reportó que las ventas online de comercios de barrio con local a la calle crecieron 17,6% interanual en agosto, mientras la venta física pyme sigue en baja. Son negocios que en general no tienen logística propia para sostener ese crecimiento del canal digital.",
-    "action": "Armar una oferta comercial simple de fulfillment de bajo volumen dirigida a comercios de cercanía y pymes con local físico que recién están escalando su canal online, usando cámaras barriales y CAME como canal de llegada.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.apfdigital.com.ar/noticias/2026/09/07/470066-came-alerto-que-las-ventas-minoristas-pyme-descendieron-0_2por_ciento-interanual-en-agosto",
-    "linked": [
-      "Las ventas online de comercios de cercanía crecieron 17,6% en agosto pese a la caída del retail pyme"
-    ],
-    "id": "op-3ba6a828",
-    "source_kind": "auto",
-    "last_updated": "2026-09-08",
-    "first_seen": "2026-09-08"
   }
 ]

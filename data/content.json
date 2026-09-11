@@ -858,5 +858,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-10",
     "first_seen": "2026-09-10"
+  },
+  {
+    "topic": "El envío gratis se corre a $15.000: qué significa para los vendedores chicos de Mercado Libre",
+    "why_now": "Mercado Libre acaba de anunciar en su propio evento insignia la baja del piso de envío gratis de Meli+, con foco explícito en impulsar compras chicas del interior.",
+    "fixy_angle": "Explicar en criollo cómo el bulto chico cambia la cuenta de costos de un vendedor y qué puede ofrecer un operador logístico para que esa baja de piso no le coma el margen.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.cronista.com/negocios/fuerte-apuesta-de-mercado-libre-en-envios-gratis-para-ganar-mas-usuarios-premium/",
+    "id": "ct-7916755f",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
+  },
+  {
+    "topic": "Lo que deja el amague de paro en Montevideo: blindar la cadena de importación regional",
+    "why_now": "TCP normalizó la operativa del puerto pero pidió que el gobierno uruguayo declare esenciales los servicios de carga, así que el riesgo de un nuevo parate sigue latente.",
+    "fixy_angle": "Usar el episodio como caso concreto para hablar de contingencia y diversificación de puertos de entrada en la cadena de importación que alimenta el fulfillment local.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.elobservador.com.uy/economia-y-empresas/tcp-anuncia-normalizacion-operaciones-el-puerto-montevideo-y-pedira-declarar-esenciales-los-servicios-carga-contenerizada-n6056594",
+    "id": "ct-a167ca30",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
+  },
+  {
+    "topic": "Cuando la IA entra a los sistemas con tu contraseña: productividad y riesgo en el mismo combo",
+    "why_now": "ChatGPT Work ya puede loguearse en paneles con contraseña y activar tareas por webhooks, y Claude Cowork ya recuerda lo que se le contó en el chat: la IA pasó de sugerir a operar directamente sobre los sistemas de la empresa.",
+    "fixy_angle": "Plantear, para un equipo chico, qué conviene delegar primero (paneles de courier, admin de Tiendanube, seguimiento de reclamos) y qué recaudos tomar antes de dejarle una sesión abierta a un agente de IA.",
+    "formats": [
+      "LinkedIn",
+      "artículo"
+    ],
+    "priority": "relevante",
+    "source_url": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
+    "id": "ct-fca95848",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
   }
 ]

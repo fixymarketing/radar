@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-09-10T12:29:42.771Z",
-  "last_updated_ar": "10/09/2026, 09:29",
-  "date": "2026-09-10",
+  "generated_at": "2026-09-11T12:23:16.844Z",
+  "last_updated_ar": "11/09/2026, 09:23",
+  "date": "2026-09-11",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El jueves combina un riesgo operativo concreto -el paro portuario de Montevideo- y un endurecimiento regulatorio sobre las billeteras, con la vidriera comercial de Mercado Libre Experience y una fecha límite propia en octubre para el costo de WhatsApp Business.",
+  "summary_line": "El día combina una señal comercial fuerte de Mercado Libre -bajar a $15.000 el piso de envío gratis para multiplicar los pedidos chicos- con la desescalada parcial del conflicto portuario en Montevideo y una nueva confirmación de que el comercio agéntico ya es una realidad que Fixy tiene que empezar a atender.",
   "counters": {
-    "news_today": 0,
-    "news_total": 42,
-    "events_upcoming": 83,
-    "events_ar_upcoming": 48,
-    "events_intl_upcoming": 35,
+    "news_today": 4,
+    "news_total": 41,
+    "events_upcoming": 78,
+    "events_ar_upcoming": 45,
+    "events_intl_upcoming": 33,
     "events_later": 24,
     "opportunities_open": 8,
-    "opportunities_today": 3,
-    "ai_today": 3,
-    "ai_to_try": 35,
-    "content_ideas": 57,
-    "added_news": 0,
-    "updated_news": 1,
-    "added_events": 3,
-    "updated_events": 10,
-    "added_ai": 3,
-    "archived": 6,
+    "opportunities_today": 2,
+    "ai_today": 4,
+    "ai_to_try": 37,
+    "content_ideas": 60,
+    "added_news": 4,
+    "updated_news": 0,
+    "added_events": 1,
+    "updated_events": 4,
+    "added_ai": 4,
+    "archived": 7,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-argentina-franquicias-2026",
-    "name": "Expo Franquicias Argentina 2026",
-    "date_start": "2026-09-09",
-    "city": "Ciudad Autónoma de Buenos Aires",
+    "id": "ev-capital-emprendedores-livingroom-potencia-salta-2026",
+    "name": "Potencia – Livingroom de Emprendedores 2026 (Salta Capital)",
+    "date_start": "2026-09-11",
+    "city": "Salta",
     "days_away": 0
   },
   "highlights": [
     {
-      "id": "ev-argentina-experience-libre-mercado-2026",
+      "id": "nw-2f99c38560",
+      "kind": "news",
+      "title": "Mercado Libre baja a $15.000 el piso para envíos gratis en Meli+",
+      "priority": "alta",
+      "one_liner": "El piso de envío gratis en Meli+ cae de $33.000 a $15.000, lo que va a multiplicar los pedidos de bajo ticket y presiona el costo por bulto de la última milla."
+    },
+    {
+      "id": "op-b42b9ce6",
+      "kind": "opportunity",
+      "title": "Preparar la información logística para que la lean agentes de IA",
+      "priority": "alta",
+      "one_liner": "Un informe de Bain confirma que 3 de cada 10 compradores argentinos ya usan IA para comprar, así que el dato de envío de Fixy tiene que empezar a ser legible por agentes de compra."
+    },
+    {
+      "id": "nw-c30ff46b60",
+      "kind": "news",
+      "title": "El puerto de Montevideo normalizó su operativa, pero el conflicto sigue abierto",
+      "priority": "relevante",
+      "one_liner": "TCP volvió a operar pero pidió declarar esenciales los servicios de carga, así que el riesgo de un nuevo parate para la carga regional sigue latente."
+    },
+    {
+      "id": "ev-logistico-management-2026",
       "kind": "event",
-      "title": "Mercado Libre Experience Argentina 2026",
+      "title": "Management Logístico 2026",
       "priority": "alta",
-      "one_liner": "Es el mayor encuentro de vendedores y pymes de Mercado Libre en el país y una oportunidad directa de prospección comercial y de escuchar de primera mano las prioridades logísticas del marketplace más grande de Argentina."
+      "one_liner": "El 16 de septiembre en CABA se junta el sector de supply chain a hablar de costos y rentabilidad: buena oportunidad para relevar benchmarks y prospectar pares del sector."
     },
     {
-      "id": "nw-a078df0a95",
+      "id": "nw-5bf1123b78",
       "kind": "news",
-      "title": "La Provincia de Buenos Aires imputa formalmente a Mercado Pago, Ualá y otras billeteras con multas de hasta $1.883 millones",
-      "priority": "alta",
-      "one_liner": "El frente bonaerense contra las fintech pasa de la investigación a la imputación formal con montos concretos, lo que anticipa una regulación provincial más dura sobre el crédito digital en plena crisis de mora récord."
-    },
-    {
-      "id": "nw-787ba1c861",
-      "kind": "news",
-      "title": "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo escaló a un paro por tiempo indeterminado",
-      "priority": "alta",
-      "one_liner": "Montevideo es un nodo clave de transbordo para el comercio exterior argentino y el paro ya genera pérdidas estimadas de entre US$400.000 y US$500.000 diarios para la carga regional."
-    },
-    {
-      "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
-      "kind": "ai",
-      "title": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
-      "priority": "relevante",
-      "one_liner": "Fixy tiene menos de un mes para medir su volumen de mensajes de servicio y migrar las consultas repetitivas a un bot antes de que Meta empiece a cobrar por superar los 1.000 gratis por número."
-    },
-    {
-      "id": "nw-4975f8b2e9",
-      "kind": "news",
-      "title": "Un informe de Bain & Company muestra que 3 de cada 10 compradores argentinos ya usan IA para comprar online",
-      "priority": "relevante",
-      "one_liner": "Confirma con un dato concreto que el comercio agéntico ya es una práctica extendida en Argentina, no una tendencia futura, y obliga a pensar la información logística para que la lean agentes de IA."
+      "title": "La inflación de agosto fue 1,7%, por encima de lo que esperaba el mercado",
+      "priority": "informativo",
+      "one_liner": "El IPC desaceleró frente a julio pero superó lo esperado por el mercado, lo que matiza la idea de una baja de precios sostenida que alivie al consumo."
     }
   ]
 }

@@ -1114,9 +1114,9 @@
   {
     "scope": "intl",
     "name": "eRetail Day México 2026",
-    "organizer": "eCommerce Institute (coorganizado con AMVO)",
+    "organizer": "eCommerce Institute y AMVO (Asociación Mexicana de Venta Online)",
     "date_start": "2026-10-15",
-    "date_end": "2026-10-15",
+    "date_end": "2026-10-16",
     "date_confirmed": true,
     "date_note": "Eventbrite confirma 'jueves 15 de octubre de 2026'; el 15/10/2026 es efectivamente jueves, sin discrepancia.",
     "city": "Ciudad de México",
@@ -1127,15 +1127,15 @@
     "format": "presencial",
     "category": "eCommerce",
     "url": "https://eretailday.org/2026/mx/",
-    "source_url": "https://www.eventbrite.com.ar/e/eretail-day-mexico-2026-tickets-1981261399179",
-    "description": "Decimotercera edición del eRetail Day en México, con agenda sobre IA, comercio unificado, retail media y logística inteligente para el canal retail digital.",
-    "fixy_relevance": "Punto de encuentro regional del ecosistema eCommerce Institute donde Fixy puede hacer networking con retailers y marketplaces mexicanos y relevar tendencias de logística inteligente aplicables a su operación.",
+    "source_url": "https://www.eventbrite.com.ar/e/eretail-day-latam-edicion-mexico-2026-tickets-1981261399179",
+    "description": "Decimotercera edición de eRetail Day en México, organizada por eCommerce Institute y AMVO, con agenda sobre inteligencia artificial, unified commerce, retail media y logística inteligente, más la eCommerce Startup Competition y la AI For Unified Commerce Competition.",
+    "fixy_relevance": "Punto de encuentro regional de retailers digitales y de AMVO; permite relevar tendencias de logística inteligente en México y detectar marcas o retailers que buscan expandirse a Argentina.",
     "justification_type": "networking",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-day-eretail-latam-mexico-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-09",
+    "last_updated": "2026-09-11",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -1169,6 +1169,16 @@
         "fields": [
           "organizer",
           "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-11",
+        "fields": [
+          "organizer",
+          "date_end",
+          "source_url",
           "description",
           "fixy_relevance"
         ]
@@ -2673,7 +2683,7 @@
   {
     "scope": "intl",
     "name": "Mercado Livre Experience 2026",
-    "organizer": "Mercado Livre",
+    "organizer": "Mercado Livre (Mercado Libre Brasil)",
     "date_start": "2026-09-24",
     "date_end": "2026-09-25",
     "date_confirmed": true,
@@ -2685,16 +2695,16 @@
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Marketplaces",
-    "url": "https://mercadolivreexperience.mercadolivre.com.br/faq",
-    "source_url": "https://www.sympla.com.br/evento/mercado-livre-experience-2026/3372991",
-    "description": "10ª edición del evento insignia de Mercado Livre en Brasil, con seis escenarios y más de 55 horas de contenido sobre IA aplicada a negocios, logística como ventaja competitiva y el futuro del retail.",
-    "fixy_relevance": "Es el evento más grande del principal marketplace regional, con un eje específico de logística como ventaja competitiva; clave para benchmarking, contacto con proveedores de fulfillment brasileños y detección temprana de tendencias que luego llegan a Argentina.",
+    "url": "https://mercadolivreexperience.mercadolivre.com.br/",
+    "source_url": "https://vendedores.mercadolivre.com.br/aprender/nota/mercado-livre-experience-2026-garanta-seu-lugar",
+    "description": "Décima edición del evento anual de Mercado Livre en Brasil, que reúne a miles de vendedores, marcas y proveedores de tecnología y logística para presentar tendencias de IA, ventas y comercio electrónico. Se confirmaron fecha y sede: 24 y 25 de septiembre en San Pablo Expo.",
+    "fixy_relevance": "Es el mayor evento de e-commerce y marketplaces de Brasil, con foco en logística y fulfillment para vendedores; sirve para mapear proveedores tecnológicos y tendencias del ecosistema de Mercado Libre, socio clave de Fixy en Argentina.",
     "justification_type": "aprendizaje",
-    "priority": "alta",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-experience-livre-mercado-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-08",
+    "last_updated": "2026-09-11",
     "first_seen": "2026-08-23",
     "change_log": [
       {
@@ -2724,6 +2734,17 @@
           "description",
           "fixy_relevance",
           "justification_type"
+        ]
+      },
+      {
+        "date": "2026-09-11",
+        "fields": [
+          "organizer",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
         ]
       }
     ]
@@ -3718,11 +3739,11 @@
   {
     "scope": "ar",
     "name": "5° Congreso sobre Medios de Transporte y sus Tecnologías Asociadas",
-    "organizer": "Universidad Tecnológica Nacional (UTN) - Facultad Regional Mar del Plata y Facultad Regional Haedo",
+    "organizer": "Universidad Tecnológica Nacional (UTN) - Facultad Regional Mar del Plata",
     "date_start": "2026-10-07",
     "date_end": "2026-10-09",
     "date_confirmed": true,
-    "date_note": null,
+    "date_note": "Se confirma que el congreso se extiende del 7 al 9 de octubre de 2026 (no es un evento de un solo día).",
     "city": "Mar del Plata",
     "province": "Buenos Aires",
     "country": "Argentina",
@@ -3732,15 +3753,26 @@
     "category": "Logística",
     "url": "https://www.congresotransporte.com.ar/",
     "source_url": "https://es.linkedin.com/posts/utn-facultad-regional-haedo_5to-congreso-sobre-medios-de-transporte-y-activity-7447742134805544960-d2Rr",
-    "description": "Congreso académico organizado por UTN que convoca a investigadores, profesionales y empresas para debatir tecnologías aplicadas al transporte automotor, ferroviario, marítimo, aéreo y espacial; esta 5ta edición pone foco en intermodalidad logística, industria naval y transición energética.",
-    "fixy_relevance": "Da señales tempranas sobre infraestructura de transporte e intermodalidad que impactan en costos y tiempos de la cadena logística, útil para anticipar cambios en los modos de transporte de carga que usa o podría usar Fixy.",
+    "description": "Congreso académico de UTN sobre tecnologías de transporte automotor, ferroviario, marítimo, aéreo y espacial, con convocatoria abierta a investigadores, profesionales y estudiantes; se confirma que dura tres jornadas (7, 8 y 9 de octubre).",
+    "fixy_relevance": "Actualización menor sobre un evento ya en agenda: confirma que se trata de tres días (no uno solo) y fija la sede exacta en UTN Mar del Plata, útil si Fixy evalúa enviar a alguien del equipo de operaciones a alguna jornada específica.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-asociadas-congreso-medios-sobre-sus-tecnologias--2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-01",
-    "first_seen": "2026-09-01"
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-01",
+    "change_log": [
+      {
+        "date": "2026-09-11",
+        "fields": [
+          "organizer",
+          "date_note",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -4185,7 +4217,7 @@
   {
     "scope": "intl",
     "name": "Shoptalk Europe 2027",
-    "organizer": "Shoptalk",
+    "organizer": "Shoptalk Europe (Hyve International Events Limited)",
     "date_start": "2027-06-01",
     "date_end": "2027-06-03",
     "date_confirmed": true,
@@ -4199,14 +4231,14 @@
     "category": "Retail",
     "url": "https://europe.shoptalk.com/home",
     "source_url": "https://europe.shoptalk.com/home",
-    "description": "Edición europea de Shoptalk, uno de los eventos globales más grandes de innovación en retail y eCommerce, con foco en tecnología, omnicanalidad y experiencia de compra.",
-    "fixy_relevance": "Complementa las ediciones de Shoptalk Fall y Spring ya monitoreadas por Fixy; es una vidriera global de tendencias de retail tech y logística omnicanal que puede anticipar cambios que después llegan a LATAM, además de networking con proveedores tecnológicos internacionales.",
-    "justification_type": "aprendizaje",
-    "priority": "informativo",
+    "description": "Edición europea de Shoptalk, con más de 4.500 asistentes y 180 speakers, enfocada en innovación en retail, comercio unificado y experiencia de consumidor.",
+    "fixy_relevance": "Evento global de referencia en innovación retail que cae el mismo mes y ciudad que SIL Barcelona 2027 (ya en el radar de Fixy), lo que abre la posibilidad de combinar ambos eventos en un mismo viaje a Barcelona.",
+    "justification_type": "viaje",
+    "priority": "relevante",
     "beyond_90": true,
     "id": "ev-europe-shoptalk-2027",
     "source_kind": "auto",
-    "last_updated": "2026-09-10",
+    "last_updated": "2026-09-11",
     "first_seen": "2026-09-05",
     "change_log": [
       {
@@ -4215,6 +4247,16 @@
           "city",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-11",
+        "fields": [
+          "organizer",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
         ]
       }
     ]
@@ -4380,5 +4422,32 @@
     "source_kind": "auto",
     "last_updated": "2026-09-10",
     "first_seen": "2026-09-10"
+  },
+  {
+    "scope": "ar",
+    "name": "Management Logístico 2026",
+    "organizer": "Revista Énfasis Logística",
+    "date_start": "2026-09-16",
+    "date_end": "2026-09-16",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Buenos Aires",
+    "province": "CABA",
+    "country": "Argentina",
+    "venue": "GoldenCenter (Int. Cantilo y Int. Güiraldes s/n, CABA)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://mlencuentro.enfasis.com/",
+    "source_url": "https://www.innovaciondigital360.com/eventos/management-logistico-2026-referentes-y-empresas-se-reuniran-para-debatir-sobre-los-desafios-de-la-supply-chain/",
+    "description": "Encuentro anual organizado por Revista Énfasis Logística que reúne a ejecutivos y especialistas de supply chain para debatir rentabilidad, costos, tecnología, infraestructura y el crecimiento del eCommerce en la operación logística argentina. Incluye una apertura sobre rentabilidad y productividad con participación de referentes de CEDOL/FAETyL.",
+    "fixy_relevance": "Es un termómetro directo del sector donde compiten y conversan otros operadores logísticos y dadores de carga; sirve para detectar benchmarks de costos, tendencias tecnológicas y potenciales prospects o socios comerciales.",
+    "justification_type": null,
+    "priority": "alta",
+    "beyond_90": false,
+    "id": "ev-logistico-management-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
   }
 ]

@@ -24,75 +24,6 @@
     "updated_flag": true
   },
   {
-    "title": "La 'uberización' avanza en la última milla del ecommerce",
-    "what_happened": "Un análisis publicado por Ámbito describe cómo los operadores logísticos argentinos combinan flota propia, operadores tercerizados y repartidores independientes conectados a plataformas como Uber, Rappi, PedidosYa y Uber Direct para escalar la capacidad de reparto según el volumen de pedidos, en especial en picos de demanda. La nota cita una proyección de IMARC Group según la cual el mercado de última milla en América Latina pasaría de USD 13.700 millones en 2025 a USD 47.500 millones en 2034 (CAGR de 14,38%).",
-    "why_it_matters": "El desafío deja de ser cuántos vehículos tiene una empresa y pasa a ser cómo coordina, con tecnología, una red variable de conductores y flotas mixtas, algo clave para sostener picos de demanda sin inmovilizar capital en flota propia y permanente.",
-    "fixy_impact": "Refuerza la validez de modelos híbridos de reparto (flota propia + terceros + plataformas on-demand) para escalar capacidad en fechas pico sin aumentar costos fijos de flota, algo que Fixy puede usar como argumento comercial frente a clientes que preguntan por su capacidad en picos.",
-    "category": "Última milla",
-    "geo": "LATAM",
-    "source_name": "Ámbito",
-    "source_url": "https://www.ambito.com/negocios/la-logistica-acelera-el-uso-tecnologia-automatizacion-y-modelos-uberizados-sostener-el-boom-del-ecommerce-n6312398",
-    "published_date": "2026-08-20",
-    "priority": "alta",
-    "tags": [
-      "última milla",
-      "uberización",
-      "tendencias",
-      "LATAM",
-      "tecnología"
-    ],
-    "id": "nw-5e8cdd7657",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "title": "El comercio electrónico argentino creció en volumen pero su facturación cayó 5% en términos reales en el primer semestre",
-    "what_happened": "La Cámara Argentina de Comercio Electrónico (CACE) presentó su estudio de balance de mitad de año: la facturación nominal del sector subió 28% interanual, a $19.533.815 millones, pero ajustada por inflación retrocedió 5%. Se realizaron 181,5 millones de órdenes de compra (+21% interanual) y se vendieron 248 millones de productos (+22%), con un ticket promedio de $107.597. Los rubros con mayor facturación fueron alimentos y bebidas, electro (línea blanca) y herramientas y construcción.",
-    "why_it_matters": "El dato oficial de la cámara confirma que el crecimiento del eCommerce argentino es hoy un fenómeno de volumen y de productos de menor ticket unitario, no de facturación real, un patrón distinto al que muestran reportes de plataformas individuales.",
-    "fixy_impact": "Implica planificar capacidad para más órdenes y más unidades de bajo ticket (alimentos, bebidas, herramientas), lo que presiona la rentabilidad por envío si las tarifas de fulfillment y última milla no se ajustan al nuevo mix de productos.",
-    "category": "eCommerce",
-    "geo": "Argentina",
-    "source_name": "Infobae (con datos de CACE)",
-    "source_url": "https://www.infobae.com/economia/2026/08/20/las-ventas-online-crecieron-21-en-un-ano-pero-cayo-la-facturacion-cuales-fueron-los-productos-mas-buscados/",
-    "published_date": "2026-08-20",
-    "priority": "alta",
-    "tags": [
-      "CACE",
-      "eCommerce",
-      "facturación",
-      "consumo",
-      "primer semestre"
-    ],
-    "id": "nw-2ecb7eee40",
-    "source_kind": "auto",
-    "last_updated": "2026-08-21",
-    "first_seen": "2026-08-21"
-  },
-  {
-    "title": "La confianza del consumidor volvió a caer en agosto, con retroceso marcado en la intención de compra de bienes durables",
-    "what_happened": "El Índice de Confianza del Consumidor de la Universidad Torcuato Di Tella se ubicó en 40,23 puntos en agosto, una baja mensual de 1,08% y el segundo mes consecutivo en terreno negativo tras la caída de 4,78% de julio. El subíndice de bienes durables e inmuebles fue el que más retrocedió (-4,03%) y la situación personal cayó 3,31%, mientras que la percepción macroeconómica mejoró 3,06%. El interior del país registró el mayor deterioro mensual (-3,79%), frente a leves mejoras en CABA y el Gran Buenos Aires.",
-    "why_it_matters": "Es un indicador adelantado de la disposición de los hogares a gastar; el retroceso en bienes durables y el deterioro más pronunciado en el interior son señales de alerta para categorías de mayor ticket y para la demanda fuera del AMBA.",
-    "fixy_impact": "Sirve como insumo para calibrar previsiones de volumen y ticket promedio por región, especialmente en el interior del país, donde la caída de confianza fue más fuerte que en AMBA.",
-    "category": "Consumo",
-    "geo": "Argentina",
-    "source_name": "Infobae (con datos de UTDT)",
-    "source_url": "https://www.infobae.com/economia/2026/08/20/la-confianza-del-consumidor-volvio-a-caer-en-agosto-por-el-deterioro-de-la-situacion-personal/",
-    "published_date": "2026-08-20",
-    "priority": "relevante",
-    "tags": [
-      "consumo",
-      "confianza",
-      "UTDT",
-      "bienes durables",
-      "demanda"
-    ],
-    "id": "nw-2d50914431",
-    "source_kind": "auto",
-    "last_updated": "2026-08-21",
-    "first_seen": "2026-08-21"
-  },
-  {
     "title": "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre",
     "what_happened": "Mercado Libre confirmó que desde el 1° de septiembre aumenta el costo fijo por unidad vendida en productos de menos de $33.000 y también el cargo que pagan los vendedores que ofrecen envío gratis en artículos de mayor valor. Para productos de hasta $14.999 el costo fijo pasa a $1.330, y escala hasta $3.320 para los de $24.000 a $32.999. La plataforma justificó el ajuste por el aumento de sus costos logísticos, sin publicar el porcentaje general del incremento.",
     "why_it_matters": "Es una suba que golpea más fuerte a los productos de ticket bajo, justo los más sensibles a precio en un consumo que ya viene cayendo, y presiona a los vendedores a elegir entre subir precios o resignar margen.",
@@ -111,53 +42,6 @@
       "costos"
     ],
     "id": "nw-4ff28ab243",
-    "source_kind": "auto",
-    "last_updated": "2026-08-22",
-    "first_seen": "2026-08-22"
-  },
-  {
-    "title": "El Gobierno lanzó la licitación para concesionar por 50 años el Belgrano Cargas, San Martín y Urquiza",
-    "what_happened": "A través de la Resolución 1350/2026, publicada el 20 de agosto en el Boletín Oficial, el Gobierno autorizó formalmente la Licitación Pública Nacional e Internacional N° 504/2-0004-LPU26 para privatizar el Belgrano Cargas bajo un esquema de \"desintegración vertical\": el material rodante, las vías e inmuebles, y los talleres se concesionarán o rematarán por separado, con contratos de hasta 50 años. Las empresas interesadas podrán presentar consultas hasta el 28 de octubre y ofertas hasta el 11 de noviembre.",
-    "why_it_matters": "El anuncio pasó a tener fechas, reglas y un mecanismo de financiamiento concretos (un fideicomiso alimentado por los remates de bienes), lo que permite dimensionar mejor el eventual impacto en el transporte ferroviario de cargas de mediana y larga distancia.",
-    "fixy_impact": null,
-    "category": "Logística",
-    "geo": "Argentina",
-    "source_name": "Infobae / Boletín Oficial",
-    "source_url": "https://www.infobae.com/economia/2026/08/20/belgrano-cargas-el-circulo-vicioso-que-promete-romper-el-gobierno-la-comparacion-con-chile-y-otras-claves-de-la-privatizacion/",
-    "published_date": "2026-08-20",
-    "priority": "informativo",
-    "tags": [
-      "Belgrano Cargas",
-      "ferrocarriles",
-      "privatización",
-      "licitación",
-      "transporte de cargas"
-    ],
-    "id": "nw-fd8d91857a",
-    "source_kind": "auto",
-    "last_updated": "2026-08-24",
-    "first_seen": "2026-08-22",
-    "updated_flag": true
-  },
-  {
-    "title": "La Provincia de Buenos Aires abre otro frente contra las billeteras virtuales, ahora por hostigamiento a deudores",
-    "what_happened": "El Ministerio de Producción bonaerense abrió un expediente contra Mercado Pago, Ualá, Naranja Digital, Personal Pay, Brubank y Cencosud tras recibir 2.240 denuncias en el primer semestre por acoso a deudores morosos y falta de información clara sobre tasas y costo financiero total. Las empresas deberán presentar sus descargos y podrían enfrentar multas de hasta $1.883 millones si se confirman los incumplimientos.",
-    "why_it_matters": "Es un frente regulatorio distinto del pedido de investigación de diputados nacionales ya conocido: ahora es la Provincia, por Defensa del Consumidor, la que apunta a cómo las billeteras cobran y gestionan la mora en un contexto de morosidad récord.",
-    "fixy_impact": null,
-    "category": "Fintech",
-    "geo": "Argentina",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/economia/2026/08/20/mora-record-kicillof-investiga-a-mercado-pago-y-otras-billeteras-por-hostigamiento-acoso-y-falta-de-informacion-clara/",
-    "published_date": "2026-08-20",
-    "priority": "relevante",
-    "tags": [
-      "billeteras virtuales",
-      "Mercado Pago",
-      "Defensa del Consumidor",
-      "mora",
-      "regulación"
-    ],
-    "id": "nw-d29c3ddc59",
     "source_kind": "auto",
     "last_updated": "2026-08-22",
     "first_seen": "2026-08-22"
@@ -970,5 +854,97 @@
     "source_kind": "auto",
     "last_updated": "2026-09-09",
     "first_seen": "2026-09-09"
+  },
+  {
+    "title": "Mercado Libre baja a $15.000 el piso para envíos gratis en Meli+",
+    "what_happened": "Mercado Libre anunció que el monto mínimo de compra para acceder a envíos gratis en todo el país para suscriptores de Meli+ bajará de $33.000 a $15.000, con vigencia a partir del lunes siguiente al anuncio. La medida se presentó en Mercado Libre Experience 2026, en La Rural, y apunta a impulsar compras de menor ticket como alimentos, limpieza y tocador, especialmente en el interior del país.",
+    "why_it_matters": "Bajar el piso de envío gratis multiplica la cantidad de pedidos de bajo valor, un tipo de operación donde el costo logístico pesa proporcionalmente mucho más sobre el ticket final.",
+    "fixy_impact": "Más pedidos de bajo ticket significa más bultos chicos para mover al mismo costo fijo por entrega, algo para tener en cuenta al cotizar última milla y al conversar con vendedores sobre su estructura de costos.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "El Cronista",
+    "source_url": "https://www.cronista.com/negocios/fuerte-apuesta-de-mercado-libre-en-envios-gratis-para-ganar-mas-usuarios-premium/",
+    "published_date": "2026-09-10",
+    "priority": "alta",
+    "tags": [
+      "Mercado Libre",
+      "envíos gratis",
+      "Meli+",
+      "última milla",
+      "eCommerce"
+    ],
+    "id": "nw-2f99c38560",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
+  },
+  {
+    "title": "La inflación de agosto fue 1,7%, por encima de lo que esperaba el mercado",
+    "what_happened": "El INDEC difundió el jueves 10 de septiembre el IPC de agosto, que marcó 1,7% mensual, por debajo del 2,1% de julio pero por encima del 1,6% que proyectaban las consultoras. La variación interanual llegó a 33,5% y la acumulada en los primeros ocho meses del año fue de 21,3%.",
+    "why_it_matters": "Confirma la desaceleración respecto de julio, pero al superar la expectativa del mercado matiza el relato de una baja sostenida de precios que viene golpeando el consumo.",
+    "fixy_impact": null,
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "INDEC",
+    "source_url": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_09_26A1BE2DC4CD.pdf",
+    "published_date": "2026-09-10",
+    "priority": "alta",
+    "tags": [
+      "inflación",
+      "INDEC",
+      "IPC",
+      "consumo",
+      "Argentina"
+    ],
+    "id": "nw-5bf1123b78",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
+  },
+  {
+    "title": "El puerto de Montevideo normalizó su operativa, pero el conflicto sigue abierto",
+    "what_happened": "Tras el paro por tiempo indeterminado del sindicato TCP-Nelsury, la Terminal Cuenca del Plata retomó la actividad el martes 8 de septiembre a las 15 horas. La empresa presentó el jueves 10 de septiembre un pedido formal para que el Poder Ejecutivo uruguayo declare esenciales los servicios de carga contenerizada.",
+    "why_it_matters": "La vuelta a la actividad reduce el riesgo inmediato, pero mientras no se resuelva el pedido de esencialidad la amenaza de nuevas paralizaciones sigue latente para la carga que transita por Montevideo.",
+    "fixy_impact": "Un puerto regional alternativo con conflictividad recurrente puede generar demoras en mercadería importada que después entra a la cadena de fulfillment y última milla en Argentina.",
+    "category": "Logística",
+    "geo": "LATAM",
+    "source_name": "El Observador",
+    "source_url": "https://www.elobservador.com.uy/economia-y-empresas/tcp-anuncia-normalizacion-operaciones-el-puerto-montevideo-y-pedira-declarar-esenciales-los-servicios-carga-contenerizada-n6056594",
+    "published_date": "2026-09-10",
+    "priority": "relevante",
+    "tags": [
+      "Puerto Montevideo",
+      "TCP",
+      "paro",
+      "logística portuaria",
+      "Uruguay"
+    ],
+    "id": "nw-c30ff46b60",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
+  },
+  {
+    "title": "La Cámara Fintech dice que el 90% de los morosos ya tiene un plan de refinanciación",
+    "what_happened": "El director ejecutivo de la Cámara Argentina Fintech, Mariano Biocca, presentó el 8 de septiembre ante la Comisión de Finanzas de Diputados datos según los cuales el 90% de los deudores en mora fintech ya accedió a algún esquema de refinanciamiento o asistencia. La irregularidad de cartera del sector se mantiene igualmente en niveles récord, cercana al 30%.",
+    "why_it_matters": "El sector busca instalar que la mora récord no implica una crisis de cobrabilidad sin salida, justo cuando el Congreso avanza con plenarios y un posible dictamen sobre regulación de créditos fintech antes de fin de mes.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/09/10/el-90-de-los-deudores-en-mora-ya-tiene-un-esquema-de-refinanciamiento-aseguro-el-titular-de-la-camara-fintech/",
+    "published_date": "2026-09-10",
+    "priority": "informativo",
+    "tags": [
+      "fintech",
+      "mora",
+      "refinanciación",
+      "créditos",
+      "billeteras virtuales"
+    ],
+    "id": "nw-ac454a0cdf",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
   }
 ]
