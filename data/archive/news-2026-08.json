@@ -572,5 +572,74 @@
     "source_kind": "auto",
     "last_updated": "2026-08-22",
     "first_seen": "2026-08-22"
+  },
+  {
+    "title": "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre",
+    "what_happened": "Mercado Libre confirmó que desde el 1° de septiembre aumenta el costo fijo por unidad vendida en productos de menos de $33.000 y también el cargo que pagan los vendedores que ofrecen envío gratis en artículos de mayor valor. Para productos de hasta $14.999 el costo fijo pasa a $1.330, y escala hasta $3.320 para los de $24.000 a $32.999. La plataforma justificó el ajuste por el aumento de sus costos logísticos, sin publicar el porcentaje general del incremento.",
+    "why_it_matters": "Es una suba que golpea más fuerte a los productos de ticket bajo, justo los más sensibles a precio en un consumo que ya viene cayendo, y presiona a los vendedores a elegir entre subir precios o resignar margen.",
+    "fixy_impact": "Es una buena excusa para conversar con marcas que venden en Mercado Libre sobre armar un esquema propio de fulfillment y envíos, con costos más previsibles que depender solo de las tarifas de la plataforma.",
+    "category": "Marketplaces",
+    "geo": "Argentina",
+    "source_name": "iProfesional",
+    "source_url": "https://www.iprofesional.com/negocios/462755-mercado-libre-sube-los-costos-a-vendedores-y-aumenta-la-presion-en-plena-caida-del-consumo",
+    "published_date": "2026-08-21",
+    "priority": "alta",
+    "tags": [
+      "Mercado Libre",
+      "comisiones",
+      "vendedores",
+      "envíos",
+      "costos"
+    ],
+    "id": "nw-4ff28ab243",
+    "source_kind": "auto",
+    "last_updated": "2026-08-22",
+    "first_seen": "2026-08-22"
+  },
+  {
+    "title": "Las fintech ya superan los 10 millones de deudores en Argentina, con 2,4 millones en mora",
+    "what_happened": "Un informe de la consultora Analytica para la Cámara Argentina Fintech, con datos a agosto de 2026, contabilizó 10,1 millones de deudores en el sistema de crédito fintech, de los cuales 2,41 millones registran atrasos en sus pagos. Como comparación, los bancos tradicionales suman 14,3 millones de deudores con 2,45 millones en mora, y el resto de los proveedores no bancarios atiende a 5,2 millones de personas con 2,7 millones en situación irregular.",
+    "why_it_matters": "El dato pone en números concretos el deterioro del crédito al consumo por fuera de la banca tradicional, y ayuda a explicar tanto el impulso regulatorio contra las billeteras virtuales como la debilidad sostenida del consumo minorista.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "Zona Norte Hoy (con datos de Cámara Argentina Fintech / Analytica)",
+    "source_url": "https://www.zonanortehoy.com/economia/mas-de-10-millones-de-argentinos-tienen-deudas-con-fintech-y-2-4-millones-estan-en-mora/",
+    "published_date": "2026-08-21",
+    "priority": "informativo",
+    "tags": [
+      "fintech",
+      "crédito",
+      "mora",
+      "consumo",
+      "billeteras virtuales"
+    ],
+    "id": "nw-1c288a48f6",
+    "source_kind": "auto",
+    "last_updated": "2026-08-23",
+    "first_seen": "2026-08-23"
+  },
+  {
+    "title": "El consumo masivo cayó en julio por séptimo mes consecutivo, pero el comercio electrónico creció 39,9%",
+    "what_happened": "Según datos de la consultora Scentia difundidos por La Nación, el consumo masivo cayó 2,6% interanual en julio, la séptima baja mensual consecutiva, aunque moderó el ritmo de caída frente a junio (+4,2% mensual). Por canal, los supermercados bajaron 0,6%, los autoservicios independientes 1,2% y los almacenes y kioscos 6,1%, mientras que las farmacias crecieron 2,7% y el comercio electrónico se disparó 39,9% interanual.",
+    "why_it_matters": "Confirma que, aun con el consumo masivo estancado y siete meses seguidos en baja, el canal online sigue siendo el más dinámico de todos: la brecha entre el desempeño de los canales físicos y el eCommerce se profundiza.",
+    "fixy_impact": "Es un dato a favor del negocio de Fixy: mientras el consumo físico retrocede, el canal online crece muy por encima del resto, lo que sostiene la demanda de fulfillment y última milla para marcas que priorizan la venta digital.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "La Nación (datos de Scentia)",
+    "source_url": "https://www.lanacion.com.ar/economia/el-consumo-masivo-volvio-a-caer-en-julio-aunque-modero-la-baja-con-respecto-al-mes-anterior-nid21082026/",
+    "published_date": "2026-08-21",
+    "priority": "alta",
+    "tags": [
+      "consumo masivo",
+      "eCommerce",
+      "Scentia",
+      "retail",
+      "canales de venta"
+    ],
+    "id": "nw-de93b68e05",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
   }
 ]

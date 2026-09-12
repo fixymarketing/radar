@@ -1,5 +1,46 @@
 [
   {
+    "title": "Medir el volumen de mensajes de servicio en WhatsApp antes del cobro de Meta en octubre",
+    "context": "Desde el 1° de octubre Meta cobra los mensajes de servicio de WhatsApp Business que superen los 1.000 gratis por número y por mes, al mismo valor que las plantillas de utilidad. Fixy usa WhatsApp para seguimiento de pedidos, reclamos y coordinación de entregas con clientes finales.",
+    "action": "Auditar cuántos mensajes de servicio manda hoy Fixy por WhatsApp Business y decidir, antes de octubre, si conviene derivar las consultas repetitivas (\"¿dónde está mi pedido?\") a un bot o a las FAQ, o repartir el volumen en más de un número, para no pagar de más.",
+    "type": "estratégica",
+    "priority": "alta",
+    "source_url": "https://www.infobae.com/tecno/2026/09/06/whatsapp-business-cobrara-por-responder-mensajes-en-2026-a-quienes-afecta-y-a-quienes-no/",
+    "linked": [],
+    "id": "op-e99485c3",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "title": "Evaluar un piloto de automatización física en el fulfillment ante el salto de Mercado Libre con robots",
+    "context": "Mercado Libre confirmó un acuerdo con Agility Robotics para sumar robots humanoides a su logística, sumado a agentes de IA que ya prueba en la operación de entregas. Es la primera señal fuerte de que el líder regional está llevando la automatización física del picking y el packing a escala real.",
+    "action": "Relevar proveedores de automatización de depósito (robots colaborativos, sorters, WMS con IA) y evaluar un piloto acotado en el centro de mayor volumen de Fixy, aunque sea a escala reducida, para no quedar años atrás del estándar que empieza a fijar Mercado Libre.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.iproup.com/innovacion/71442-mercado-libre-ya-prueba-agentes-de-ia-y-robots-para-entregas",
+    "linked": [
+      "Mercado Libre confirma un acuerdo con Agility Robotics para sumar robots humanoides a su logística"
+    ],
+    "id": "op-b4c99817",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "title": "Usar Deep Research de ChatGPT Work para vigilar tarifas y políticas de la competencia",
+    "context": "ChatGPT Work sumó Deep Research, capaz de cruzar información pública con archivos internos y entregar informes con fuentes citadas listos para una reunión.",
+    "action": "Pedirle a ChatGPT Work un informe mensual que compare tarifas, políticas de envío y novedades de otros operadores logísticos y marketplaces, para que el equipo comercial lo use en cotizaciones y negociaciones.",
+    "type": "comercial",
+    "priority": "informativo",
+    "source_url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes",
+    "linked": [],
+    "id": "op-9dbbdf09",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
+  },
+  {
     "title": "Anticipar más pedidos de bajo ticket por la baja del piso de envío gratis de Meli+",
     "context": "Mercado Libre bajó de $33.000 a $15.000 el monto mínimo de compra para envío gratis en Meli+, apuntando a impulsar compras chicas de alimentos, limpieza y tocador, sobre todo en el interior. Eso va a multiplicar los pedidos de bajo valor, un tipo de operación donde el costo logístico pesa proporcionalmente mucho más sobre el ticket.",
     "action": "Revisar la estructura de tarifas para bultos chicos y acercarse a vendedores de Mercado Libre con una propuesta de consolidación o tarifa por volumen para pedidos de bajo ticket, antes de que la suba de volumen los tome por sorpresa con su estructura de costos actual.",
@@ -74,53 +115,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-10",
     "first_seen": "2026-09-10"
-  },
-  {
-    "title": "Ofrecer cobro contra entrega como opción de pago ante la inestabilidad regulatoria de las billeteras",
-    "context": "La Provincia de Buenos Aires imputó formalmente a Mercado Pago, Ualá y otras billeteras con multas de hasta $1.883 millones, y el BCRA habilitó el débito automático de cuotas desde cuentas y billeteras en plena mora récord de las familias. Ese combo puede generar desconfianza de los compradores hacia el pago digital y el débito automático justo en el momento de comprar online.",
-    "action": "Armar una propuesta comercial de cobro contra entrega (COD) para clientes eCommerce de Fixy que quieran ofrecerlo como alternativa frente a la desconfianza hacia billeteras y débitos automáticos.",
-    "type": "producto",
-    "priority": "relevante",
-    "source_url": "https://www.iproup.com/economia-digital/71278-kicillof-multa-con-1800-m-a-mercado-pago-uala-y-otras-billeteras",
-    "linked": [
-      "La Provincia de Buenos Aires imputa formalmente a Mercado Pago, Ualá y otras billeteras con multas de hasta $1.883 millones",
-      "El BCRA habilita el débito automático de cuotas de préstamos desde cuentas bancarias y billeteras",
-      "El BCRA le pidió a los bancos que reconozcan pérdidas para bajar la mora récord de las familias"
-    ],
-    "id": "op-b4bd5112",
-    "source_kind": "auto",
-    "last_updated": "2026-09-09",
-    "first_seen": "2026-09-09"
-  },
-  {
-    "title": "Revisar la política de tarifas de última milla ahora que la presión de costos empieza a ceder",
-    "context": "El costo de última milla y correo mostró en agosto la suba más baja desde febrero, y el Gobierno volvió a postergar hasta octubre el aumento de impuestos a los combustibles. Es la primera señal en meses de que la presión de costos sobre el reparto urbano podría estar aflojando, aunque de forma transitoria.",
-    "action": "Revisar si el alivio de costos permite sostener tarifas a clientes sin trasladar todavía el próximo ajuste, y usar esa estabilidad como argumento comercial frente a la competencia.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/movant/2026/09/03/los-costos-de-ultima-milla-y-correo-moderaron-su-suba-en-agosto/",
-    "linked": [
-      "La suba de costos de última milla y correo se moderó en agosto, la más baja desde febrero",
-      "El Gobierno postergó hasta octubre el aumento de impuestos a los combustibles"
-    ],
-    "id": "op-6491500e",
-    "source_kind": "auto",
-    "last_updated": "2026-09-09",
-    "first_seen": "2026-09-09"
-  },
-  {
-    "title": "Explorar un servicio de control documental en fulfillment para categorías importadas reguladas",
-    "context": "El Gobierno endureció los controles a juguetes importados que se venden por marketplaces, apuntando por primera vez de forma explícita a la plataforma y no solo al importador o fabricante. Esto sube la vara de compliance para todo el circuito, incluido el depósito donde se recibe y despacha la mercadería.",
-    "action": "Evaluar sumar un chequeo documental (certificados de seguridad, origen) en la recepción de mercadería para categorías reguladas como juguetes, y ofrecerlo como servicio diferencial a sellers de ese rubro.",
-    "type": "producto",
-    "priority": "informativo",
-    "source_url": "https://www.pagina12.com.ar/2026/09/08/advierten-sobre-los-peligros-de-juguetes-importados-que-no-pasaron-controles-de-seguridad/",
-    "linked": [
-      "El Gobierno endurece los controles a juguetes importados que se venden por marketplaces"
-    ],
-    "id": "op-fed53d62",
-    "source_kind": "auto",
-    "last_updated": "2026-09-09",
-    "first_seen": "2026-09-09"
   }
 ]

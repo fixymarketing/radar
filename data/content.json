@@ -903,5 +903,51 @@
     "source_kind": "auto",
     "last_updated": "2026-09-11",
     "first_seen": "2026-09-11"
+  },
+  {
+    "topic": "Cuando el líder automatiza con robots: qué le toca al resto de la logística argentina",
+    "why_now": "Mercado Libre confirmó un acuerdo con Agility Robotics para sumar robots humanoides a su operación de fulfillment, además de agentes de IA para las entregas.",
+    "fixy_angle": "Contar en criollo cómo un operador mediano puede pensar su propio camino de automatización sin la escala de Mercado Libre: por dónde empezar (picking asistido, WMS con IA) y qué plazos son realistas.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.iproup.com/innovacion/71442-mercado-libre-ya-prueba-agentes-de-ia-y-robots-para-entregas",
+    "id": "ct-db8a71b2",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "topic": "Los bitrenes ya no son una rareza: qué cambia en las rutas troncales argentinas",
+    "why_now": "Andreani sumó 20 bitrenes a su flota para transporte de larga distancia, apostando a menos viajes y menor costo por tonelada transportada.",
+    "fixy_angle": "Explicar qué es un bitrén, por qué baja el costo logístico y en qué corredores tendría sentido evaluarlos para un operador del tamaño de Fixy, en flota propia o tercerizada.",
+    "formats": [
+      "LinkedIn",
+      "nota",
+      "carrusel"
+    ],
+    "priority": "informativo",
+    "source_url": "https://mercado.com.ar/movilidad/andreani-suma-20-bitrenes-a-su-flota-y-destina-us-2-millones",
+    "id": "ct-e1805b76",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "topic": "Por qué un paro en Uruguay puede encarecer una importación argentina",
+    "why_now": "El conflicto en la terminal de contenedores del Puerto de Montevideo escaló a un paro por tiempo indeterminado y el gobierno uruguayo terminó declarando \"servicios mínimos\" sin llegar a la esencialidad, dejando abierta la amenaza de nuevas paralizaciones.",
+    "fixy_angle": "Explicar en términos simples por qué Montevideo importa para la carga que entra y sale de Argentina, y qué puede hacer un importador para no quedar expuesto a la próxima escalada del conflicto.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.elobservador.com.uy/economia-y-empresas/gobierno-resolvio-no-aplicar-esencialidad-pero-si-declaro-servicios-minimos-terminal-cuenca-del-plata-que-implica-n6057020",
+    "id": "ct-6a63a7c1",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
   }
 ]

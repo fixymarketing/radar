@@ -524,40 +524,30 @@
   {
     "scope": "ar",
     "name": "Rosario TechWeek 2026",
-    "organizer": "Rosario TechWeek",
+    "organizer": "Comunidad tech de Rosario (ecosistema startups, universidades y empresas)",
     "date_start": "2026-10-19",
     "date_end": "2026-10-23",
     "date_confirmed": true,
-    "date_note": "Se confirmó que la primera edición se extiende del 19 al 23 de octubre, con un track dedicado a inteligencia artificial.",
+    "date_note": "Formato de semana con actividades descentralizadas; algunas fuentes secundarias mencionan cierre el 23 y otras el 24 de octubre, sin confirmación oficial del día exacto de cierre.",
     "city": "Rosario",
     "province": "Santa Fe",
     "country": "Argentina",
-    "venue": "Por confirmar (múltiples sedes en la ciudad)",
+    "venue": "Rosario Innovation Hub y sedes asociadas",
     "venue_confirmed": false,
-    "format": "presencial",
-    "category": "Innovación",
-    "url": "https://rosariotechweek.com/",
-    "source_url": "https://andresospina.co/eventos-ia/evento/rosario-techweek-2026/",
-    "description": "Segunda edición de la semana tecnológica de Rosario, con más de 20 actividades para conectar startups, universidades y talento tech local durante cinco días.",
-    "fixy_relevance": "Rosario es un polo logístico y agroindustrial clave del interior; el evento conecta a Fixy con el ecosistema emprendedor y tech de la región para partnerships y captación de talento.",
+    "format": "híbrido",
+    "category": "Tecnología",
+    "url": "https://www.rosariotechweek.com/",
+    "source_url": "https://www.rosariotechweek.com/",
+    "description": "Segunda edición de la semana tecnológica de Rosario: charlas, workshops, hackathons, pitches y networking construidos junto a startups, empresas, universidades e inversores de la región.",
+    "fixy_relevance": "Punto de contacto con el ecosistema tech y de startups del cordón industrial de Rosario/Santa Fe, zona clave de operación logística y agroexportadora para potenciales alianzas o clientes de eCommerce B2B.",
     "justification_type": null,
-    "priority": "informativo",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-rosario-techweek-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-12",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-20",
-        "fields": [
-          "date_note",
-          "venue",
-          "category",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-21",
         "fields": [
@@ -596,6 +586,21 @@
           "organizer",
           "format",
           "category",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-12",
+        "fields": [
+          "organizer",
+          "date_note",
+          "venue",
+          "format",
+          "category",
+          "url",
           "source_url",
           "description",
           "fixy_relevance",
@@ -3388,28 +3393,28 @@
   {
     "scope": "ar",
     "name": "44ª Jornadas de Supermercadismo Argentino 2026",
-    "organizer": "CASAC (Confederación Argentina de Supermercados, Autoservicios y Comercios)",
+    "organizer": "CASAC (Cámara de Supermercados y Autoservicios de Córdoba)",
     "date_start": "2026-09-23",
     "date_end": "2026-09-24",
     "date_confirmed": true,
-    "date_note": null,
+    "date_note": "Actualización: se confirmó sede y segundo día (24/09) además de la fecha de inicio ya cargada.",
     "city": "Córdoba",
     "province": "Córdoba",
     "country": "Argentina",
-    "venue": "Complejo Ferial Córdoba",
+    "venue": "Complejo Ferial Córdoba (Cúpulas Violeta, Celeste y Azul)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Retail",
     "url": "https://casac.org.ar/",
-    "source_url": "https://supermercadoaldia.cl/eventos/44-jornadas-de-supermercadismo-argentino",
-    "description": "Encuentro anual del supermercadismo y el consumo argentino, con exposición comercial, conferencias y rondas de negocios en las Cúpulas del Complejo Ferial Córdoba.",
-    "fixy_relevance": "Concentra a cadenas de supermercados y autoservicios que están profesionalizando su canal online: es una oportunidad concreta de prospección comercial para servicios de fulfillment y última milla en el interior.",
+    "source_url": "https://www.webretail.com.ar/las-jornadas-de-supermercadismo-argentino-llegan-a-cordoba-con-foco-en-el-futuro-del-retail/",
+    "description": "Encuentro anual del supermercadismo argentino e iberoamericano, con exposición comercial, rondas de negocios y conferencias sobre el futuro del retail.",
+    "fixy_relevance": "Reúne a cadenas de retail y supermercados que evalúan omnicanalidad y última milla; espacio de networking relevante para posicionar servicios de fulfillment B2B2C ante retailers que se digitalizan.",
     "justification_type": null,
-    "priority": "relevante",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-argentino-jornadas-supermercadismo-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-10",
+    "last_updated": "2026-09-12",
     "first_seen": "2026-08-28",
     "change_log": [
       {
@@ -3419,6 +3424,18 @@
           "source_url",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-12",
+        "fields": [
+          "organizer",
+          "date_note",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
         ]
       }
     ]
@@ -3712,7 +3729,7 @@
   {
     "scope": "intl",
     "name": "Mercado Libre Experience Colombia 2026",
-    "organizer": "Mercado Libre",
+    "organizer": "Mercado Libre / Mercado Pago",
     "date_start": "2026-09-16",
     "date_end": "2026-09-16",
     "date_confirmed": true,
@@ -3724,17 +3741,29 @@
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Marketplaces",
-    "url": "https://mercadolibrexperience.com.co/",
-    "source_url": "https://www.acis.org.co/blog/noticias-2/llega-a-colombia-mercado-libre-experience-el-evento-de-comercio-electronico-mas-importante-de-america-latina-7822",
-    "description": "Primera edición de Mercado Libre Experience en Colombia, en el Movistar Arena de Bogotá, con más de 90 charlas sobre marketplace, logística y ecosistema digital.",
-    "fixy_relevance": "Debut del evento insignia de Mercado Libre en un mercado en fuerte expansión (Mercado Libre anunció una inversión de USD 600 millones en Colombia para 2026): oportunidad de negocios y networking con sellers que necesitan soluciones de fulfillment.",
+    "url": "https://mercadolibreexperience.com.co/",
+    "source_url": "https://www.technocio.com/mercado-libre-experience-el-evento-de-comercio-electronico-mas-importante-de-america-latina/",
+    "description": "Primera edición en Colombia del evento insignia de Mercado Libre, con más de 3.000 asistentes y 40 speakers en cinco escenarios sobre envíos, publicidad y aceleración de negocios digitales.",
+    "fixy_relevance": "Mercado Libre es uno de los marketplaces clave para el fulfillment de eCommerce en la región; la primera edición colombiana del evento es una puerta de entrada para conectar con sellers, integradores logísticos y el propio marketplace de cara a una eventual expansión regional de Fixy.",
     "justification_type": "expansión regional",
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-colombia-experience-libre-mercado-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-31",
-    "first_seen": "2026-08-31"
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-08-31",
+    "change_log": [
+      {
+        "date": "2026-09-12",
+        "fields": [
+          "organizer",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -3977,12 +4006,12 @@
   {
     "scope": "intl",
     "name": "RL Expo 2027 (Reverse Logistics Association Conference & Expo)",
-    "organizer": "Reverse Logistics Association (RLA)",
+    "organizer": "Global Reverse Logistics Association (GRLA)",
     "date_start": "2027-03-23",
     "date_end": "2027-03-24",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Las Vegas",
+    "city": "Las Vegas, NV",
     "province": null,
     "country": "Estados Unidos",
     "venue": "Bellagio Las Vegas",
@@ -3990,16 +4019,28 @@
     "format": "presencial",
     "category": "Logística",
     "url": "https://rlexpo.com/",
-    "source_url": "https://rlexpo.com/",
-    "description": "Encuentro de referencia en logística inversa: devoluciones, recommerce, reciclaje y economía circular en la cadena de suministro, con foco en operadores de eCommerce y retail.",
-    "fixy_relevance": "La gestión de devoluciones es un dolor de cabeza creciente para las tiendas online que Fixy atiende; el evento sirve para traer benchmarks internacionales y eventualmente ofrecer logística inversa como servicio diferencial.",
+    "source_url": "https://m.eventsinamerica.com/events-trade-shows/rla-conference-and-expo-2027-reverse-logistics-association-2026-2027/transportation/logistics",
+    "description": "Evento insignia de logística inversa que reúne a líderes en devoluciones, recommerce, reciclaje y cadenas de suministro circulares, antes conocido como RLA Conference & Expo.",
+    "fixy_relevance": "La logística inversa (gestión de devoluciones) es un dolor de cabeza creciente para los clientes eCommerce de Fixy; el evento permite aprender procesos y tecnología de devoluciones aplicables al servicio de fulfillment.",
     "justification_type": "aprendizaje",
     "priority": "relevante",
     "beyond_90": true,
     "id": "ev-association-conference-logistics-reverse-rl-2027",
     "source_kind": "auto",
-    "last_updated": "2026-09-02",
-    "first_seen": "2026-09-02"
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-02",
+    "change_log": [
+      {
+        "date": "2026-09-12",
+        "fields": [
+          "organizer",
+          "city",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -4116,7 +4157,7 @@
     "date_end": "2026-10-07",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Nashville, Tennessee",
+    "city": "Nashville, TN",
     "province": null,
     "country": "Estados Unidos",
     "venue": "Gaylord Opryland Resort & Convention Center",
@@ -4124,16 +4165,27 @@
     "format": "presencial",
     "category": "Logística",
     "url": "https://www.cscmpedge.org/",
-    "source_url": "https://cscmp.org/CSCMP/CSCMP/CSCMP-EDGE-2026.aspx",
-    "description": "EDGE es el congreso anual del Council of Supply Chain Management Professionals, uno de los eventos de supply chain y logística más grandes de Estados Unidos, con más de 100 sesiones educativas y una exposición con más de 175 proveedores de tecnología y servicios.",
-    "fixy_relevance": "Reúne a miles de ejecutivos de operaciones, logística y cadena de suministro de Estados Unidos y sirve para relevar tendencias de fulfillment, automatización de depósitos y last mile, además de generar contactos con proveedores tecnológicos y potenciales socios con operación en la región.",
+    "source_url": "https://www.showsbee.com/fairs/99848-CSCMP-Annual-Conference-2026.html",
+    "description": "Conferencia anual del CSCMP, considerada el evento más importante del mundo en supply chain management, con miles de profesionales, casos de estudio y proveedores tecnológicos de punta.",
+    "fixy_relevance": "Es el evento global de referencia en gestión de cadena de suministro; útil para aprendizaje de tendencias (automatización de almacenes, última milla, tecnología WMS/TMS) y benchmarking frente a los mejores operadores del mundo, aunque no sea un evento LATAM.",
     "justification_type": "aprendizaje",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-cscmp-edge-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-03",
-    "first_seen": "2026-09-03"
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-03",
+    "change_log": [
+      {
+        "date": "2026-09-12",
+        "fields": [
+          "city",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -4318,7 +4370,7 @@
   {
     "scope": "intl",
     "name": "Money20/20 Europe 2027",
-    "organizer": "Money20/20",
+    "organizer": "Money20/20 (Ascential/Informa)",
     "date_start": "2027-06-08",
     "date_end": "2027-06-10",
     "date_confirmed": true,
@@ -4331,16 +4383,27 @@
     "format": "presencial",
     "category": "Pagos y Fintech",
     "url": "https://europe.money2020.com/",
-    "source_url": "https://europe.money2020.com/",
-    "description": "Uno de los principales encuentros europeos de fintech, pagos y banca, que reúne bancos, proveedores de pagos, retailers, reguladores y startups tecnológicas.",
-    "fixy_relevance": "Los medios de pago están cada vez más integrados a la operación de eCommerce (checkout, cobros contra entrega, financiamiento); sirve como fuente de aprendizaje sobre innovación en pagos con impacto en la logística.",
+    "source_url": "https://10times.com/money-europe",
+    "description": "Edición europea de Money20/20, uno de los eventos de pagos, fintech y banca digital más importantes del mundo, con miles de ejecutivos del ecosistema financiero global.",
+    "fixy_relevance": "Complementa a Money20/20 USA ya identificado; útil para aprendizaje sobre tendencias de pagos y checkout que impactan directamente en la logística de eCommerce (BNPL, pagos embebidos, fraude), aunque de relevancia secundaria frente a eventos LATAM.",
     "justification_type": "aprendizaje",
     "priority": "informativo",
     "beyond_90": true,
     "id": "ev-europe-money20-2027",
     "source_kind": "auto",
-    "last_updated": "2026-09-09",
-    "first_seen": "2026-09-09"
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-09",
+    "change_log": [
+      {
+        "date": "2026-09-12",
+        "fields": [
+          "organizer",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -4449,5 +4512,86 @@
     "source_kind": "auto",
     "last_updated": "2026-09-11",
     "first_seen": "2026-09-11"
+  },
+  {
+    "scope": "ar",
+    "name": "Envase Alimentek 2026 (Tecnoalimentaria Córdoba)",
+    "organizer": "Instituto Argentino del Envase y Editorial Publitec",
+    "date_start": "2026-10-14",
+    "date_end": "2026-10-16",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Córdoba",
+    "province": "Córdoba",
+    "country": "Argentina",
+    "venue": "Centro de Convenciones Córdoba",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.envasealimentek.com.ar/",
+    "source_url": "https://www.packaging.com.ar/envase-alimentek-2026/",
+    "description": "Primera Master Feria Tecno Alimentaria que combina Envase-Alimentek con Tecnoalimentaria: exposición de tecnología, packaging y servicios para toda la cadena de alimentos y bebidas, con espacio dedicado a envases y presentación de productos.",
+    "fixy_relevance": "Muchos clientes de Fixy son marcas de alimentos y bebidas que venden online; el evento permite relevar tendencias en packaging, sustentabilidad y automatización que impactan directamente en costos y procesos de picking y embalaje en el fulfillment.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-alimentek-cordoba-envase-tecnoalimentaria-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "scope": "intl",
+    "name": "9° Congreso Integrado de Logística, Zonas Francas y Puertos (ANDI) 2027",
+    "organizer": "ANDI (Asociación Nacional de Empresarios de Colombia)",
+    "date_start": null,
+    "date_end": null,
+    "date_confirmed": false,
+    "date_note": "Edición 2026 se realizó el 22 y 23 de abril en Cartagena; la edición 2027 aún no tiene fecha anunciada, pero el congreso se repite anualmente en abril en el mismo formato.",
+    "city": "Cartagena",
+    "province": null,
+    "country": "Colombia",
+    "venue": "Centro de Convenciones de Cartagena",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.andi.com.co/",
+    "source_url": "https://www.andi.com.co/Home/Evento/116-9-congreso-integrado-de-logistica-zonas-f",
+    "description": "Congreso anual de ANDI que reúne a más de 500 asistentes del sector logístico, de zonas francas y portuario de Colombia para discutir competitividad y comercio exterior.",
+    "fixy_relevance": "Espacio institucional para conectar con actores clave de zonas francas y puertos colombianos, relevante si Fixy evalúa expansión de fulfillment o alianzas logísticas en Colombia.",
+    "justification_type": "expansión regional",
+    "priority": "informativo",
+    "beyond_90": true,
+    "id": "ev-andi-congreso-francas-integrado-logistica-puerto-Edic",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "scope": "intl",
+    "name": "APAS Show 2027",
+    "organizer": "APAS (Associação Paulista de Supermercados)",
+    "date_start": "2027-05-17",
+    "date_end": "2027-05-20",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "São Paulo",
+    "province": null,
+    "country": "Brasil",
+    "venue": "Expo Center Norte",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Retail",
+    "url": "https://apasshow.com/",
+    "source_url": "https://apasshow.com/",
+    "description": "La mayor feria de supermercados y retail de alimentos de América, con récord de expositores y negocios generados; incluye un congreso con foco en omnicanalidad y última milla para el sector.",
+    "fixy_relevance": "Punto de encuentro con grandes cadenas retail y de consumo masivo de Brasil que están expandiendo su última milla y comercio omnicanal, un perfil de cliente potencial para los servicios de fulfillment de Fixy.",
+    "justification_type": "negocios",
+    "priority": "informativo",
+    "beyond_90": true,
+    "id": "ev-apas-show-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
   }
 ]

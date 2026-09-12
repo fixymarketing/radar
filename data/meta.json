@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-11T12:23:16.844Z",
-  "last_updated_ar": "11/09/2026, 09:23",
-  "date": "2026-09-11",
+  "generated_at": "2026-09-12T12:16:49.143Z",
+  "last_updated_ar": "12/09/2026, 09:16",
+  "date": "2026-09-12",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El día combina una señal comercial fuerte de Mercado Libre -bajar a $15.000 el piso de envío gratis para multiplicar los pedidos chicos- con la desescalada parcial del conflicto portuario en Montevideo y una nueva confirmación de que el comercio agéntico ya es una realidad que Fixy tiene que empezar a atender.",
+  "summary_line": "El día lo marca la automatización física de Mercado Libre con robots de Agility Robotics, mientras el conflicto portuario de Montevideo se estabiliza sin resolverse y Meta ya tiene fecha para empezar a cobrar los mensajes de servicio de WhatsApp Business.",
   "counters": {
-    "news_today": 4,
-    "news_total": 41,
+    "news_today": 2,
+    "news_total": 40,
     "events_upcoming": 78,
     "events_ar_upcoming": 45,
     "events_intl_upcoming": 33,
-    "events_later": 24,
+    "events_later": 25,
     "opportunities_open": 8,
-    "opportunities_today": 2,
-    "ai_today": 4,
-    "ai_to_try": 37,
-    "content_ideas": 60,
-    "added_news": 4,
+    "opportunities_today": 3,
+    "ai_today": 5,
+    "ai_to_try": 40,
+    "content_ideas": 63,
+    "added_news": 2,
     "updated_news": 0,
-    "added_events": 1,
-    "updated_events": 4,
-    "added_ai": 4,
-    "archived": 7,
+    "added_events": 3,
+    "updated_events": 6,
+    "added_ai": 5,
+    "archived": 6,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,25 +34,25 @@
   },
   "highlights": [
     {
-      "id": "nw-2f99c38560",
+      "id": "nw-cef951e68f",
       "kind": "news",
-      "title": "Mercado Libre baja a $15.000 el piso para envíos gratis en Meli+",
+      "title": "Mercado Libre confirma un acuerdo con Agility Robotics para sumar robots humanoides a su logística",
       "priority": "alta",
-      "one_liner": "El piso de envío gratis en Meli+ cae de $33.000 a $15.000, lo que va a multiplicar los pedidos de bajo ticket y presiona el costo por bulto de la última milla."
-    },
-    {
-      "id": "op-b42b9ce6",
-      "kind": "opportunity",
-      "title": "Preparar la información logística para que la lean agentes de IA",
-      "priority": "alta",
-      "one_liner": "Un informe de Bain confirma que 3 de cada 10 compradores argentinos ya usan IA para comprar, así que el dato de envío de Fixy tiene que empezar a ser legible por agentes de compra."
+      "one_liner": "La automatización física entra a la estrategia central de fulfillment del líder regional y sube la vara de eficiencia que el resto del ecosistema va a tener que igualar."
     },
     {
       "id": "nw-c30ff46b60",
       "kind": "news",
       "title": "El puerto de Montevideo normalizó su operativa, pero el conflicto sigue abierto",
       "priority": "relevante",
-      "one_liner": "TCP volvió a operar pero pidió declarar esenciales los servicios de carga, así que el riesgo de un nuevo parate para la carga regional sigue latente."
+      "one_liner": "La vuelta a la actividad baja el riesgo inmediato, pero mientras no se resuelva el pedido de esencialidad la amenaza de un nuevo parate para la carga regional sigue latente."
+    },
+    {
+      "id": "ai-openai-chatgpt-work-deep-research",
+      "kind": "ai",
+      "title": "ChatGPT Work: Deep Research",
+      "priority": "alta",
+      "one_liner": "Comercial puede pedirle un informe con fuentes citadas para investigar precios y políticas de la competencia antes de una negociación."
     },
     {
       "id": "ev-logistico-management-2026",
@@ -60,13 +60,6 @@
       "title": "Management Logístico 2026",
       "priority": "alta",
       "one_liner": "El 16 de septiembre en CABA se junta el sector de supply chain a hablar de costos y rentabilidad: buena oportunidad para relevar benchmarks y prospectar pares del sector."
-    },
-    {
-      "id": "nw-5bf1123b78",
-      "kind": "news",
-      "title": "La inflación de agosto fue 1,7%, por encima de lo que esperaba el mercado",
-      "priority": "informativo",
-      "one_liner": "El IPC desaceleró frente a julio pero superó lo esperado por el mercado, lo que matiza la idea de una baja de precios sostenida que alivie al consumo."
     }
   ]
 }

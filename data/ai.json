@@ -1,5 +1,26 @@
 [
   {
+    "name": "ChatGPT Work: Deep Research",
+    "vendor": "OpenAI",
+    "what_it_is": "Modo de investigación profunda de ChatGPT que ahora corre dentro de Work (el entorno conectado a archivos y apps de la empresa): busca en la web, en documentos internos y en apps conectadas, y arma un informe editable con citas.",
+    "what_changed": "Desde el 9 de septiembre de 2026 está disponible en ChatGPT Work y Codex para usuarios Plus, Pro, Business, Enterprise y Edu, usando el cupo de Work ya existente, sin límite aparte.",
+    "fixy_use": "Comercial podría pedirle que investigue precios de la competencia en fulfillment, políticas de un marketplace nuevo o proveedores de última milla, cruzando información pública con archivos internos de Fixy, y que entregue un informe con fuentes citadas listo para una reunión.",
+    "verdict": "probar",
+    "verdict_reason": "Aprovecha una suscripción que Fixy probablemente ya paga y ahorra horas de investigación manual con fuentes verificables.",
+    "categories": [
+      "Comercial",
+      "Análisis"
+    ],
+    "pricing_note": "pago — incluido en el plan ChatGPT Business/Enterprise/Plus con acceso a Work, sin cargo extra",
+    "source_url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes",
+    "published_date": "2026-09-09",
+    "priority": "alta",
+    "id": "ai-openai-chatgpt-work-deep-research",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
+  },
+  {
     "name": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
     "vendor": "Meta",
     "what_it_is": "Es el esquema de cobro que Meta va a aplicar a las empresas por los mensajes de servicio que responden dentro de la ventana de 24 horas de atención al cliente en WhatsApp Business.",
@@ -247,6 +268,27 @@
     "first_seen": "2026-08-22"
   },
   {
+    "name": "Zendesk: Traducción en tiempo real (chat y voz)",
+    "vendor": "Zendesk",
+    "what_it_is": "Función de Zendesk que traduce automáticamente las conversaciones de chat en vivo y mensajería, y que ahora suma traducción de voz bidireccional en llamadas del centro de contacto, para que cliente y agente hablen cada uno en su propio idioma.",
+    "what_changed": "En septiembre de 2026 Zendesk extendió la traducción en tiempo real (antes limitada a email y formularios web) a chat y mensajería, y el 10 de septiembre anunció traducción de voz en vivo para llamadas, que entra en acceso anticipado recién en octubre.",
+    "fixy_use": "Fixy podría atender por chat a vendedores o compradores que escriben en portugués o inglés (marketplaces regionales) sin necesitar un agente bilingüe. La traducción de voz para llamados todavía no está disponible para probar, pero conviene anotarla porque impacta directo en atención al cliente.",
+    "verdict": "seguir",
+    "verdict_reason": "La traducción de chat ya está disponible pero depende de que Fixy use Zendesk como mesa de ayuda, y la de voz recién arranca en acceso anticipado en octubre.",
+    "categories": [
+      "Comercial",
+      "Operaciones"
+    ],
+    "pricing_note": "no confirmado — la traducción de chat/mensajería viene incluida en los planes de Zendesk con IA; la de voz es acceso anticipado sin precio público todavía",
+    "source_url": "https://itbrief.com.au/story/zendesk-adds-real-time-voice-translation-for-contact-centres",
+    "published_date": "2026-09-10",
+    "priority": "relevante",
+    "id": "ai-zendesk-zendesk-traduccion-en-tiempo-real-chat-y-voz",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
+  },
+  {
     "name": "ChatGPT Images 2.5",
     "vendor": "OpenAI",
     "what_it_is": "Es la nueva versión del generador y editor de imágenes de ChatGPT, con más calidad de detalle y una función nueva llamada Sketch para dibujar un boceto simple como referencia de la imagen final.",
@@ -289,6 +331,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-08",
     "first_seen": "2026-09-04"
+  },
+  {
+    "name": "Google Vids: documentos a video",
+    "vendor": "Google Workspace",
+    "what_it_is": "Función de Google Vids que convierte automáticamente un Google Doc, PDF o archivo Word en un video corto, con guion, narración y elementos visuales generados por IA.",
+    "what_changed": "Google empezó a lanzarla el 5 de septiembre de 2026 en cuentas pagas de Workspace y Google AI, permitiendo pasar de texto a video sin editar nada a mano.",
+    "fixy_use": "Marketing podría convertir instructivos de packaging, la política de devoluciones o la guía de uso del portal de tracking en videos cortos para clientes y vendedores, sin pagar edición de video. También sirve para transformar posteos de blog en piezas para redes.",
+    "verdict": "probar",
+    "verdict_reason": "Viene incluido en lo que ya se paga de Workspace/Google AI y resuelve no tener tiempo ni presupuesto para producir video.",
+    "categories": [
+      "Marketing",
+      "Contenido",
+      "Productividad"
+    ],
+    "pricing_note": "incluido en planes pagos de Google Workspace y Google AI, no es un producto aparte",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/09/turn-google-docs-pdfs-and-word-files-into-video-summaries-in-Google-Vids.html",
+    "published_date": "2026-09-05",
+    "priority": "relevante",
+    "id": "ai-google-workspace-google-vids-documentos-a-video",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "name": "Workspace Studio Flows: nuevos pasos de automatización",
+    "vendor": "Google Workspace",
+    "what_it_is": "Flows es el armador de automatizaciones sin código de Workspace Studio: encadena pasos disparados por eventos (un email nuevo, un archivo subido) para mover archivos, responder en Chat o contestar emails automáticamente.",
+    "what_changed": "La semana del 4 de septiembre de 2026 Google sumó cuatro pasos nuevos a Flows: mover archivo de Drive, copiar archivo de Drive, responder en Chat y responder email, ampliando lo que se puede automatizar sin escribir código.",
+    "fixy_use": "Operaciones podría armar un flujo que, cuando llega un remito o factura a una carpeta de Drive, lo copie a la carpeta del cliente correspondiente y avise por Chat al equipo, sin depender de un desarrollador ni de una herramienta externa de pago.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis dentro de Workspace y cubre automatizaciones simples que hoy se hacen a mano o que requerirían montar algo en n8n.",
+    "categories": [
+      "Automatización",
+      "Organización",
+      "Operaciones"
+    ],
+    "pricing_note": "incluido en Google Workspace, sin costo adicional",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-04-2026.html",
+    "published_date": "2026-09-04",
+    "priority": "relevante",
+    "id": "ai-google-workspace-workspace-studio-flows-nuevos-pasos-de-auto",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
   },
   {
     "name": "Canva AI 2.0",
@@ -1119,6 +1205,27 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "OpenAI Agents API",
+    "vendor": "OpenAI",
+    "what_it_is": "Una API que expone la infraestructura que usa Codex para crear y correr agentes de IA en la nube: se define una tarea, el modelo, las herramientas y dónde corre, y OpenAI mantiene el agente funcionando de forma confiable por horas o días.",
+    "what_changed": "Se lanzó en beta pública el 10 de septiembre de 2026, con socios de infraestructura (Cloudflare, DigitalOcean, Vercel, entre otros) para alojar los agentes; antes esta capacidad solo existía puertas adentro de Codex.",
+    "fixy_use": "Es una pieza para desarrolladores, no algo para usar directo desde el chat: le sirve a Fixy si en algún momento un integrador o el equipo de automatización quiere construir un agente propio (por ejemplo, uno que monitoree pedidos atrasados y avise solo) en vez de armarlo todo a mano en n8n. Por ahora conviene tenerlo en el radar más que probarlo ya.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una capacidad técnica de fondo, valiosa a futuro, pero requiere capacidad de desarrollo que hoy Fixy no tiene asignada a esto.",
+    "categories": [
+      "Automatización",
+      "Management"
+    ],
+    "pricing_note": "pago — se cobra por uso (tokens/cómputo), sin costo fijo adicional durante la beta pública",
+    "source_url": "https://openai.com/index/introducing-the-agents-api/",
+    "published_date": "2026-09-10",
+    "priority": "informativo",
+    "id": "ai-openai-openai-agents-api",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
   },
   {
     "name": "WhatsApp: chats directos con agentes de IA de terceros",

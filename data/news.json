@@ -24,52 +24,6 @@
     "updated_flag": true
   },
   {
-    "title": "Mercado Libre sube los costos a los vendedores desde el 1° de septiembre",
-    "what_happened": "Mercado Libre confirmó que desde el 1° de septiembre aumenta el costo fijo por unidad vendida en productos de menos de $33.000 y también el cargo que pagan los vendedores que ofrecen envío gratis en artículos de mayor valor. Para productos de hasta $14.999 el costo fijo pasa a $1.330, y escala hasta $3.320 para los de $24.000 a $32.999. La plataforma justificó el ajuste por el aumento de sus costos logísticos, sin publicar el porcentaje general del incremento.",
-    "why_it_matters": "Es una suba que golpea más fuerte a los productos de ticket bajo, justo los más sensibles a precio en un consumo que ya viene cayendo, y presiona a los vendedores a elegir entre subir precios o resignar margen.",
-    "fixy_impact": "Es una buena excusa para conversar con marcas que venden en Mercado Libre sobre armar un esquema propio de fulfillment y envíos, con costos más previsibles que depender solo de las tarifas de la plataforma.",
-    "category": "Marketplaces",
-    "geo": "Argentina",
-    "source_name": "iProfesional",
-    "source_url": "https://www.iprofesional.com/negocios/462755-mercado-libre-sube-los-costos-a-vendedores-y-aumenta-la-presion-en-plena-caida-del-consumo",
-    "published_date": "2026-08-21",
-    "priority": "alta",
-    "tags": [
-      "Mercado Libre",
-      "comisiones",
-      "vendedores",
-      "envíos",
-      "costos"
-    ],
-    "id": "nw-4ff28ab243",
-    "source_kind": "auto",
-    "last_updated": "2026-08-22",
-    "first_seen": "2026-08-22"
-  },
-  {
-    "title": "Las fintech ya superan los 10 millones de deudores en Argentina, con 2,4 millones en mora",
-    "what_happened": "Un informe de la consultora Analytica para la Cámara Argentina Fintech, con datos a agosto de 2026, contabilizó 10,1 millones de deudores en el sistema de crédito fintech, de los cuales 2,41 millones registran atrasos en sus pagos. Como comparación, los bancos tradicionales suman 14,3 millones de deudores con 2,45 millones en mora, y el resto de los proveedores no bancarios atiende a 5,2 millones de personas con 2,7 millones en situación irregular.",
-    "why_it_matters": "El dato pone en números concretos el deterioro del crédito al consumo por fuera de la banca tradicional, y ayuda a explicar tanto el impulso regulatorio contra las billeteras virtuales como la debilidad sostenida del consumo minorista.",
-    "fixy_impact": null,
-    "category": "Fintech",
-    "geo": "Argentina",
-    "source_name": "Zona Norte Hoy (con datos de Cámara Argentina Fintech / Analytica)",
-    "source_url": "https://www.zonanortehoy.com/economia/mas-de-10-millones-de-argentinos-tienen-deudas-con-fintech-y-2-4-millones-estan-en-mora/",
-    "published_date": "2026-08-21",
-    "priority": "informativo",
-    "tags": [
-      "fintech",
-      "crédito",
-      "mora",
-      "consumo",
-      "billeteras virtuales"
-    ],
-    "id": "nw-1c288a48f6",
-    "source_kind": "auto",
-    "last_updated": "2026-08-23",
-    "first_seen": "2026-08-23"
-  },
-  {
     "title": "La Ciudad de Buenos Aires habilita pruebas con autos sin conductor y robots de reparto en la vía pública",
     "what_happened": "La Secretaría de Transporte porteña publicó la Resolución 170/SECT/26 (Boletín Oficial de la Ciudad, 18/8) y la Resolución 175/SECT/26 (firmada el 19/8 y publicada el 25/8), que crean un régimen de autorización para probar en la vía pública vehículos autónomos, robots terrestres de reparto y drones aéreos operados por empresas y desarrolladores. Los robots terrestres podrán circular a menos de 20 km/h por veredas, parques y corredores logísticos para tareas como reparto de carga liviana, y los drones podrán operar bajo modalidad BVLOS (sin contacto visual del piloto) en zonas, días y horarios específicamente aprobados, con habilitación previa de ANAC. Cada empresa interesada debe tramitar un",
     "why_it_matters": "Es la primera vez que una jurisdicción argentina habilita pruebas reales en la vía pública de vehículos autónomos y drones de reparto, lo que abre la puerta a que operadores de última milla empiecen a testear estas tecnologías en Buenos Aires antes que en el resto del país.",
@@ -92,29 +46,6 @@
     "last_updated": "2026-08-26",
     "first_seen": "2026-08-24",
     "updated_flag": true
-  },
-  {
-    "title": "El consumo masivo cayó en julio por séptimo mes consecutivo, pero el comercio electrónico creció 39,9%",
-    "what_happened": "Según datos de la consultora Scentia difundidos por La Nación, el consumo masivo cayó 2,6% interanual en julio, la séptima baja mensual consecutiva, aunque moderó el ritmo de caída frente a junio (+4,2% mensual). Por canal, los supermercados bajaron 0,6%, los autoservicios independientes 1,2% y los almacenes y kioscos 6,1%, mientras que las farmacias crecieron 2,7% y el comercio electrónico se disparó 39,9% interanual.",
-    "why_it_matters": "Confirma que, aun con el consumo masivo estancado y siete meses seguidos en baja, el canal online sigue siendo el más dinámico de todos: la brecha entre el desempeño de los canales físicos y el eCommerce se profundiza.",
-    "fixy_impact": "Es un dato a favor del negocio de Fixy: mientras el consumo físico retrocede, el canal online crece muy por encima del resto, lo que sostiene la demanda de fulfillment y última milla para marcas que priorizan la venta digital.",
-    "category": "Consumo",
-    "geo": "Argentina",
-    "source_name": "La Nación (datos de Scentia)",
-    "source_url": "https://www.lanacion.com.ar/economia/el-consumo-masivo-volvio-a-caer-en-julio-aunque-modero-la-baja-con-respecto-al-mes-anterior-nid21082026/",
-    "published_date": "2026-08-21",
-    "priority": "alta",
-    "tags": [
-      "consumo masivo",
-      "eCommerce",
-      "Scentia",
-      "retail",
-      "canales de venta"
-    ],
-    "id": "nw-de93b68e05",
-    "source_kind": "auto",
-    "last_updated": "2026-08-25",
-    "first_seen": "2026-08-25"
   },
   {
     "title": "El eCommerce Day Argentina 2026 llega a su edición número 200 el jueves 27 de agosto",
@@ -946,5 +877,51 @@
     "source_kind": "auto",
     "last_updated": "2026-09-11",
     "first_seen": "2026-09-11"
+  },
+  {
+    "title": "Mercado Libre confirma un acuerdo con Agility Robotics para sumar robots humanoides a su logística",
+    "what_happened": "En Mercado Libre Experience 2026, realizado el 10 de septiembre en La Rural con más de 10.000 asistentes, el COO Daniel Rabinovich anunció un acuerdo comercial con Agility Robotics para incorporar el robot humanoide Digit en centros logísticos de la región y mostró avances de \"Mago\", su asistente de compras con IA capaz de buscar, comparar y ejecutar compras por el usuario. La compañía también recordó que en 2025 sumó medio millón de m² a su red logística, alcanzando 1,7 millones de m² en el país.",
+    "why_it_matters": "La automatización física (robots) y los agentes de IA dejan de ser pruebas aisladas para integrarse a la estrategia central de fulfillment del principal marketplace de la región, lo que eleva la vara de eficiencia y velocidad que el resto del ecosistema deberá igualar.",
+    "fixy_impact": "Marca el rumbo tecnológico que Fixy debería seguir de cerca en picking, preparación de pedidos y atención al cliente para no quedar rezagada frente a la escala de inversión de Mercado Libre.",
+    "category": "Fulfillment",
+    "geo": "LATAM",
+    "source_name": "iProUP",
+    "source_url": "https://www.iproup.com/innovacion/71442-mercado-libre-ya-prueba-agentes-de-ia-y-robots-para-entregas",
+    "published_date": "2026-09-10",
+    "priority": "relevante",
+    "tags": [
+      "Mercado Libre",
+      "robots",
+      "IA",
+      "fulfillment",
+      "automatización"
+    ],
+    "id": "nw-cef951e68f",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "title": "Uruguay declara \"servicios mínimos\" en el puerto de Montevideo pero descarta la esencialidad",
+    "what_happened": "En medio de un paro por tiempo indeterminado en la Terminal Cuenca del Plata (TCP), el gobierno de Uruguay resolvió el martes 10 de septiembre no declarar la esencialidad del servicio portuario, tal como pedía la operadora Katoen Natie, y en cambio avanzó con un decreto de \"servicios mínimos\". La decisión llegó al vencer el plazo de 72 horas que el Ministerio de Trabajo había fijado para que la empresa y el sindicato acordaran un nuevo convenio colectivo.",
+    "why_it_matters": "El conflicto acumula más de 30 días de paros en el año y sigue sin resolverse de fondo, lo que mantiene la incertidumbre sobre plazos y sobrecostos en la principal terminal de contenedores del Río de la Plata, con navieras y exportadores ya evaluando rutas portuarias alternativas en la región.",
+    "fixy_impact": null,
+    "category": "Logística",
+    "geo": "LATAM",
+    "source_name": "El Observador",
+    "source_url": "https://www.elobservador.com.uy/economia-y-empresas/gobierno-resolvio-no-aplicar-esencialidad-pero-si-declaro-servicios-minimos-terminal-cuenca-del-plata-que-implica-n6057020",
+    "published_date": "2026-09-10",
+    "priority": "informativo",
+    "tags": [
+      "puerto Montevideo",
+      "TCP",
+      "conflicto gremial",
+      "comercio exterior",
+      "Uruguay"
+    ],
+    "id": "nw-0bb7e8fc5c",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
   }
 ]

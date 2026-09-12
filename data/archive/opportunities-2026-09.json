@@ -297,5 +297,53 @@
     "source_kind": "auto",
     "last_updated": "2026-09-08",
     "first_seen": "2026-09-08"
+  },
+  {
+    "title": "Ofrecer cobro contra entrega como opción de pago ante la inestabilidad regulatoria de las billeteras",
+    "context": "La Provincia de Buenos Aires imputó formalmente a Mercado Pago, Ualá y otras billeteras con multas de hasta $1.883 millones, y el BCRA habilitó el débito automático de cuotas desde cuentas y billeteras en plena mora récord de las familias. Ese combo puede generar desconfianza de los compradores hacia el pago digital y el débito automático justo en el momento de comprar online.",
+    "action": "Armar una propuesta comercial de cobro contra entrega (COD) para clientes eCommerce de Fixy que quieran ofrecerlo como alternativa frente a la desconfianza hacia billeteras y débitos automáticos.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://www.iproup.com/economia-digital/71278-kicillof-multa-con-1800-m-a-mercado-pago-uala-y-otras-billeteras",
+    "linked": [
+      "La Provincia de Buenos Aires imputa formalmente a Mercado Pago, Ualá y otras billeteras con multas de hasta $1.883 millones",
+      "El BCRA habilita el débito automático de cuotas de préstamos desde cuentas bancarias y billeteras",
+      "El BCRA le pidió a los bancos que reconozcan pérdidas para bajar la mora récord de las familias"
+    ],
+    "id": "op-b4bd5112",
+    "source_kind": "auto",
+    "last_updated": "2026-09-09",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "Revisar la política de tarifas de última milla ahora que la presión de costos empieza a ceder",
+    "context": "El costo de última milla y correo mostró en agosto la suba más baja desde febrero, y el Gobierno volvió a postergar hasta octubre el aumento de impuestos a los combustibles. Es la primera señal en meses de que la presión de costos sobre el reparto urbano podría estar aflojando, aunque de forma transitoria.",
+    "action": "Revisar si el alivio de costos permite sostener tarifas a clientes sin trasladar todavía el próximo ajuste, y usar esa estabilidad como argumento comercial frente a la competencia.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/movant/2026/09/03/los-costos-de-ultima-milla-y-correo-moderaron-su-suba-en-agosto/",
+    "linked": [
+      "La suba de costos de última milla y correo se moderó en agosto, la más baja desde febrero",
+      "El Gobierno postergó hasta octubre el aumento de impuestos a los combustibles"
+    ],
+    "id": "op-6491500e",
+    "source_kind": "auto",
+    "last_updated": "2026-09-09",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "title": "Explorar un servicio de control documental en fulfillment para categorías importadas reguladas",
+    "context": "El Gobierno endureció los controles a juguetes importados que se venden por marketplaces, apuntando por primera vez de forma explícita a la plataforma y no solo al importador o fabricante. Esto sube la vara de compliance para todo el circuito, incluido el depósito donde se recibe y despacha la mercadería.",
+    "action": "Evaluar sumar un chequeo documental (certificados de seguridad, origen) en la recepción de mercadería para categorías reguladas como juguetes, y ofrecerlo como servicio diferencial a sellers de ese rubro.",
+    "type": "producto",
+    "priority": "informativo",
+    "source_url": "https://www.pagina12.com.ar/2026/09/08/advierten-sobre-los-peligros-de-juguetes-importados-que-no-pasaron-controles-de-seguridad/",
+    "linked": [
+      "El Gobierno endurece los controles a juguetes importados que se venden por marketplaces"
+    ],
+    "id": "op-fed53d62",
+    "source_kind": "auto",
+    "last_updated": "2026-09-09",
+    "first_seen": "2026-09-09"
   }
 ]
