@@ -617,39 +617,25 @@
     "date_end": "2026-10-31",
     "date_confirmed": true,
     "date_note": "Esta edición se extiende 12 días, del 20 al 31 de octubre, agrupando bajo un mismo paraguas eventos como SAIAConf, AI Weekend y Ekoparty.",
-    "city": "CABA",
+    "city": "Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro Costa Salguero, con sedes adicionales en espacios culturales, universidades y coworkings porteños",
+    "venue": "Centro Costa Salguero (sede principal), con actividades en otros espacios culturales, universidades y coworkings de la Ciudad",
     "venue_confirmed": true,
     "format": "presencial",
-    "category": "Innovación",
+    "category": "Tecnología",
     "url": "https://www.tecweek.com.ar/",
-    "source_url": "https://www.tecweek.com.ar/",
-    "description": "Programa de 11 días con más de 23 encuentros y 600 speakers sobre inteligencia artificial, fintech, gaming, blockchain, cultura digital y emprendedurismo.",
-    "fixy_relevance": "Múltiples encuentros temáticos donde Fixy puede identificar proveedores tecnológicos, tendencias de innovación aplicables a logística y potenciales alianzas.",
+    "source_url": "https://www.cronista.com/infotechnology/actualidad/se-anuncio-tecweek-la-semana-de-las-tecnologias-emergentes-y-creativas-cuando-empieza-y-que-eventos-incluye-5128/",
+    "description": "Semana de tecnología e innovación de la Ciudad de Buenos Aires: 11 días, más de 23 encuentros y 600 speakers en ejes de IA, fintech, gaming, blockchain, cultura digital y emprendedurismo (incluye la pista 'Tecweek Emprende').",
+    "fixy_relevance": "Agenda extensa con eje Fintech y Emprende: oportunidad para posicionar a Fixy ante startups y marcas en etapa de escalamiento que necesitan resolver logística de eCommerce.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-aires-buenos-tecweek-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-13",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-27",
-        "fields": [
-          "organizer",
-          "date_note",
-          "city",
-          "venue",
-          "venue_confirmed",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
       {
         "date": "2026-08-28",
         "fields": [
@@ -697,6 +683,17 @@
           "description",
           "fixy_relevance",
           "priority"
+        ]
+      },
+      {
+        "date": "2026-09-13",
+        "fields": [
+          "city",
+          "venue",
+          "category",
+          "source_url",
+          "description",
+          "fixy_relevance"
         ]
       }
     ]
@@ -2478,21 +2475,34 @@
     "city": "Cartagena",
     "province": null,
     "country": "Colombia",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
+    "venue": "Centro de Convenciones Cartagena de Indias (CCCI)",
+    "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
-    "url": "https://www.tocevents-americas.com/",
-    "source_url": "https://empresaexterior.com/cartagena-acogera-toc-americas-2026-el-hub-de-la-cadena-de-suministro-y-tecnologia-portuaria/",
-    "description": "Encuentro anual de la cadena de suministro de contenedores para las Américas, con navieras, puertos, terminales y grandes generadores de carga debatiendo comercio exterior y tecnología portuaria en la región.",
-    "fixy_relevance": "Reúne en un mismo lugar a navieras (MSC, Maersk, Hapag-Lloyd), puertos y grandes generadores de carga como Amazon Global Logistics y AliExpress que definen costos y tiempos de importación, factores que impactan directo en el fulfillment y los plazos de entrega de Fixy; buena oportunidad de networking con el ecosistema logístico regional.",
+    "url": "https://www.tocevents-americas.com/sp/home.html",
+    "source_url": "https://www.mundomaritimo.cl/noticias/toc-americas-2026-reunira-a-lideres-y-debates-clave-de-la-cadena-de-suministro-de-contenedores",
+    "description": "Actualización de ficha ya cargada: se confirmó el rango completo de fechas (20 al 22 de octubre) y el venue exacto. Es el principal encuentro de las Américas para la industria portuaria, naviera y de terminales de contenedores, con más de 1.800 profesionales de 60 países esperados bajo los ejes CSC Live y TECH TOC.",
+    "fixy_relevance": "Reúne a operadores portuarios, navieras y terminales que definen tiempos y costos de importación/exportación; útil para anticipar cambios en la cadena logística internacional que afectan el abastecimiento de los eCommerce que Fixy atiende, y para hacer networking con actores de comercio exterior de la región.",
     "justification_type": "networking",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-americas-toc-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-22",
-    "first_seen": "2026-08-22"
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-08-22",
+    "change_log": [
+      {
+        "date": "2026-09-13",
+        "fields": [
+          "venue",
+          "venue_confirmed",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -2602,26 +2612,26 @@
     "name": "LABITCONF 26",
     "organizer": "LABITCONF",
     "date_start": "2026-10-29",
-    "date_end": "2026-11-01",
+    "date_end": "2026-10-31",
     "date_confirmed": true,
-    "date_note": "Se confirmó el rango completo de fechas (29 de octubre al 1 de noviembre) y la sede.",
+    "date_note": "La conferencia principal (con seis escenarios simultáneos) es el 30 y 31 de octubre; la noche del 29 de octubre hay un evento previo de networking ejecutivo con la revelación de un monumento a Satoshi Nakamoto en el Parque de la Innovación.",
     "city": "Buenos Aires",
-    "province": "Buenos Aires (CABA)",
+    "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "Costa Salguero",
+    "venue": "BAFerial (ex Costa Salguero)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Pagos y Fintech",
     "url": "https://www.labitconf.com/",
-    "source_url": "https://mercado.com.ar/agenda/labitconf-2025-reune-a-referentes-globales-de-bitcoin-y-blockchain-en-costa-salguero",
-    "description": "La conferencia de Bitcoin y blockchain más antigua de Latinoamérica confirmó sede en Costa Salguero y fechas del 29 de octubre al 1 de noviembre, con foco en adopción de stablecoins y blockchain empresarial.",
-    "fixy_relevance": "Las stablecoins y pagos cripto empiezan a aparecer como método de cobro en eCommerce regional; útil para entender si conviene habilitar cobros o liquidaciones en ese formato a mediano plazo.",
+    "source_url": "https://www.territoriobitcoin.com/labitconf-2026-convierte-hodl-en-una-declaracion-sobre-el-futuro-de-bitcoin/",
+    "description": "14ª edición de LABITCONF, la conferencia de Bitcoin y blockchain más antigua de Latinoamérica, con el concepto 'HODL' como eje 2026 y programación sobre IA, autocustodia y pagos cripto.",
+    "fixy_relevance": "Punto de encuentro de la comunidad cripto y fintech regional; sirve para monitorear la adopción de pagos con cripto y billeteras digitales que impactan en los medios de pago del eCommerce y en la logística de cobranza.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-labitconf-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-09-13",
     "first_seen": "2026-08-23",
     "change_log": [
       {
@@ -2651,6 +2661,18 @@
           "date_end",
           "date_note",
           "province",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-13",
+        "fields": [
+          "date_end",
+          "date_note",
+          "province",
+          "venue",
           "source_url",
           "description",
           "fixy_relevance"
@@ -2909,27 +2931,18 @@
     "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
-    "url": "https://cace.org.ar/prensa/llega-el-ecommerce-go-a-mendoza-tendencias-y-oportunidades-de-negocio-en-el-evento-federal-mas-importante-de-la-economia-digital/",
+    "url": "https://cace.org.ar/blogs/news/se-viene-el-ecommerce-go-mendoza",
     "source_url": "https://www.eventbrite.com.ar/e/ecommerce-go-mendoza-2026-tickets-1997982893619",
-    "description": "Evento federal de CACE que recorre el país llevando tendencias y oportunidades de negocio de la economía digital; en Mendoza se realiza en el Hilton Mendoza Hotel.",
-    "fixy_relevance": "Es una vía directa para hacer prospección comercial entre pymes y marcas de Cuyo que venden online y necesitan soluciones de fulfillment o última milla regional.",
+    "description": "Jornada de CACE sobre comercio electrónico en Mendoza, de 14 a 19 h en el Hilton Mendoza Hotel, orientada a pymes y emprendedores que buscan digitalizar o escalar su negocio.",
+    "fixy_relevance": "Contacto directo con pymes y sellers de Cuyo que evalúan digitalizar sus ventas: oportunidad comercial concreta para captar clientes de fulfillment fuera de CABA/GBA.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-ecommerce-go-mendoza-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-10",
+    "last_updated": "2026-09-13",
     "first_seen": "2026-08-25",
     "change_log": [
-      {
-        "date": "2026-08-26",
-        "fields": [
-          "organizer",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
       {
         "date": "2026-08-28",
         "fields": [
@@ -2962,6 +2975,14 @@
       },
       {
         "date": "2026-09-10",
+        "fields": [
+          "url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-13",
         "fields": [
           "url",
           "description",
@@ -4593,5 +4614,86 @@
     "source_kind": "auto",
     "last_updated": "2026-09-12",
     "first_seen": "2026-09-12"
+  },
+  {
+    "scope": "ar",
+    "name": "Congreso de Logística y Transporte 2026 (UNaB)",
+    "organizer": "Universidad Nacional Guillermo Brown (UNaB)",
+    "date_start": null,
+    "date_end": null,
+    "date_confirmed": false,
+    "date_note": "La 1ª edición se realizó el sábado 15/11/2025 en el campus de la UNaB (Burzaco), bajo el lema 'Moviendo el Futuro', con más de 1.500 asistentes. El sitio oficial ya está activo como 'Congreso Logística y Transporte 2026' con inscripción abierta para asistentes, expositores y oradores, pero al momento de esta búsqueda no publica todavía la fecha exacta de la edición 2026 (por precedente, sería en n",
+    "city": "Burzaco",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Campus UNaB, Blas Parera 132, Burzaco (predio ex Quinta Rocca)",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.congresologistica.unab.edu.ar/",
+    "source_url": "https://www.inforegion.com.ar/2025/10/09/almirante-brown-sera-sede-de-un-congreso-de-logistica-y-transporte/",
+    "description": "Congreso de la Universidad Nacional Guillermo Brown sobre logística y transporte, con charlas, paneles, stands de empresas y demostraciones de unidades de transporte. La UNaB firmó además una alianza estratégica con ARLOG (Asociación Argentina de Logística Empresaria).",
+    "fixy_relevance": "Espacio de vinculación academia-empresa sobre logística en el sur del conurbano bonaerense, con participación de ARLOG y parques industriales; útil para relacionamiento institucional y detectar tendencias de Logística 4.0 y última milla. Se incluye con fecha por confirmar: verificar en el sitio oficial antes de publicar en la agenda definitiva.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-congreso-logistica-transporte-unab-La 1",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
+  },
+  {
+    "scope": "intl",
+    "name": "Latam Fintech Market 2026",
+    "organizer": "Colombia Fintech",
+    "date_start": "2026-09-17",
+    "date_end": "2026-09-18",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Barranquilla",
+    "province": null,
+    "country": "Colombia",
+    "venue": "Centro de Convenciones Puerta de Oro",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Pagos y Fintech",
+    "url": "https://www.latamfintech.market/",
+    "source_url": "https://colombiafintech.co/evento/latam-fintech-market-2026/",
+    "description": "Octava edición del principal encuentro fintech de la región, organizado por Colombia Fintech, con bancos, startups, inversores y reguladores debatiendo open finance, el sistema de pagos inmediatos Bre-B, IA aplicada y acceso al crédito.",
+    "fixy_relevance": "Fixy opera cobros contra entrega y medios de pago integrados a la última milla; el evento sirve para monitorear tendencias regionales de pagos digitales e interoperabilidad que pueden impactar la operación de cobranza y detectar potenciales socios tecnológicos, aunque la fecha (4 días desde hoy) ya no permite planificar un viaje.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-fintech-latam-market-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
+  },
+  {
+    "scope": "intl",
+    "name": "Brasil Supply Chain & Logistics Summit 2026",
+    "organizer": "W6 Connect",
+    "date_start": "2026-10-27",
+    "date_end": "2026-10-27",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "São Paulo",
+    "province": null,
+    "country": "Brasil",
+    "venue": "Nacional Inn Jaraguá São Paulo",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://brazilsupplychainsummit.com/",
+    "source_url": "https://www.w6connectevents.co.uk/event-details/brasil-supply-chain-logistics-summit-2026",
+    "description": "Congreso y feria de soluciones enfocado en IA aplicada, S&OP y Logística 4.0, que reúne a líderes de industria, tecnología y supply chain del mercado brasileño, el más grande de la región.",
+    "fixy_relevance": "Punto de referencia para monitorear cómo el mayor mercado de eCommerce de LATAM está aplicando automatización e IA a la última milla y el almacenamiento, y para hacer networking con proveedores tecnológicos y operadores logísticos brasileños de cara a una eventual expansión regional.",
+    "justification_type": "aprendizaje",
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-brasil-chain-logistics-summit-supply-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
   }
 ]

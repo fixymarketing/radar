@@ -1,5 +1,36 @@
 [
   {
+    "title": "Prospectar pymes de Cuyo en eCommerce Go Mendoza 2026",
+    "context": "CACE organiza eCommerce Go Mendoza 2026 el 17 de septiembre en el Hilton Mendoza Hotel, un evento pensado para pymes y comercios de la región de Cuyo que están evaluando digitalizar sus ventas.",
+    "action": "Coordinar con comercial una presencia en el evento (stand, charla o networking) para captar prospects de fulfillment fuera de CABA/GBA.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://cace.org.ar/blogs/news/se-viene-el-ecommerce-go-mendoza",
+    "linked": [
+      "eCommerce Go Mendoza 2026"
+    ],
+    "id": "op-e0296797",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
+  },
+  {
+    "title": "Pilotear transcripción automática de reclamos por audio en atención al cliente",
+    "context": "Fixy ya tenía en el radar a Gemini 3.5 Transcribe para pasar a texto audios de WhatsApp y llamadas; hoy se sumó GPT-Live-1 de OpenAI, un modelo de voz full-duplex que también podría servir como base de un contestador automático de \"¿dónde está mi pedido?\" fuera de horario.",
+    "action": "Elegir una de las dos herramientas y correr una prueba piloto de dos semanas en atención al cliente, midiendo el tiempo ahorrado en el registro de reclamos por audio.",
+    "type": "estratégica",
+    "priority": "informativo",
+    "source_url": "https://openai.com/index/introducing-gpt-live/",
+    "linked": [
+      "GPT-Live-1",
+      "Gemini 3.5 Transcribe"
+    ],
+    "id": "op-3dbcf988",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
+  },
+  {
     "title": "Medir el volumen de mensajes de servicio en WhatsApp antes del cobro de Meta en octubre",
     "context": "Desde el 1° de octubre Meta cobra los mensajes de servicio de WhatsApp Business que superen los 1.000 gratis por número y por mes, al mismo valor que las plantillas de utilidad. Fixy usa WhatsApp para seguimiento de pedidos, reclamos y coordinación de entregas con clientes finales.",
     "action": "Auditar cuántos mensajes de servicio manda hoy Fixy por WhatsApp Business y decidir, antes de octubre, si conviene derivar las consultas repetitivas (\"¿dónde está mi pedido?\") a un bot o a las FAQ, o repartir el volumen en más de un número, para no pagar de más.",
@@ -82,36 +113,6 @@
       "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo escaló a un paro por tiempo indeterminado"
     ],
     "id": "op-abd2904a",
-    "source_kind": "auto",
-    "last_updated": "2026-09-10",
-    "first_seen": "2026-09-10"
-  },
-  {
-    "title": "Evaluar equipos de mayor capacidad para las rutas troncales de larga distancia",
-    "context": "Andreani sumó 20 bitrenes a su flota destinando US$2 millones, apostando a bajar el consumo de combustible y el costo logístico por tonelada transportada en tramos de larga distancia. En un contexto de presión de costos sobre toda la cadena, el movimiento marca una tendencia de inversión en equipamiento de mayor escala entre los grandes operadores.",
-    "action": "Analizar junto al área de flota si conviene sumar o tercerizar bitrenes u otros vehículos de mayor capacidad en los tramos troncales de mayor volumen de Fixy, para estimar el ahorro potencial de combustible y costo por tonelada frente a la flota actual.",
-    "type": "estratégica",
-    "priority": "relevante",
-    "source_url": "https://mercado.com.ar/movilidad/andreani-suma-20-bitrenes-a-su-flota-y-destina-us-2-millones",
-    "linked": [
-      "Andreani suma 20 bitrenes a su flota para transporte de larga distancia"
-    ],
-    "id": "op-3e20221e",
-    "source_kind": "auto",
-    "last_updated": "2026-09-10",
-    "first_seen": "2026-09-10"
-  },
-  {
-    "title": "Reforzar capacidad operativa ante el estímulo al consumo del Gobierno antes de octubre",
-    "context": "El Gobierno lanzó un paquete de seis medidas (créditos, tarifas y salarios) para sostener el consumo antes de octubre, después de siete meses consecutivos de caída del consumo masivo. Si el paquete logra un repunte, aunque sea leve, del ticket promedio en el corto plazo, los operadores logísticos deberían estar preparados para un eventual pico de pedidos concentrado en las próximas semanas.",
-    "action": "Revisar con los principales clientes de fulfillment la proyección de pedidos para septiembre-octubre y confirmar la capacidad disponible de picking, packing y última milla ante un posible repunte de corto plazo.",
-    "type": "estratégica",
-    "priority": "informativo",
-    "source_url": "https://www.infobae.com/economia/2026/09/03/creditos-tarifas-y-salarios-el-gobierno-activo-seis-medidas-para-recomponer-el-poder-adquisitivo-y-apuntalar-el-consumo/",
-    "linked": [
-      "El Gobierno lanzó un paquete de seis medidas para sostener el consumo antes de octubre"
-    ],
-    "id": "op-92bf0704",
     "source_kind": "auto",
     "last_updated": "2026-09-10",
     "first_seen": "2026-09-10"

@@ -949,5 +949,20 @@
     "source_kind": "auto",
     "last_updated": "2026-09-12",
     "first_seen": "2026-09-12"
+  },
+  {
+    "topic": "Cuando el líder regional mete robots humanoides en el depósito: qué mirar antes de copiar la automatización física",
+    "why_now": "Mercado Libre confirmó un acuerdo con Agility Robotics para sumar robots humanoides a su fulfillment, subiendo la vara de automatización para todo el ecosistema.",
+    "fixy_angle": "Fixy puede explicar en lenguaje simple qué tipo de automatización tiene sentido hoy para un operador mediano (WMS, ruteo, picking asistido) frente a lo que todavía es prematuro copiar, mostrando criterio técnico y no alarmismo sobre la tendencia.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.iproup.com/innovacion/71442-mercado-libre-ya-prueba-agentes-de-ia-y-robots-para-entregas",
+    "id": "ct-d3bd3602",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
   }
 ]

@@ -289,6 +289,28 @@
     "first_seen": "2026-09-12"
   },
   {
+    "name": "GPT-Live-1",
+    "vendor": "OpenAI",
+    "what_it_is": "Un modelo de voz para la API de OpenAI que escucha y habla al mismo tiempo (full-duplex), como en una llamada telefónica real, en vez de funcionar por turnos como los bots de voz tradicionales.",
+    "what_changed": "Se lanzó el 10 de septiembre de 2026 con una mejora grande de precisión y de latencia de cambio de turno frente al modelo Realtime anterior, y con soporte pensado específicamente para telefonía. Aparece ahora porque hasta hace poco los agentes de voz sonaban robóticos y no toleraban que el cliente interrumpiera.",
+    "fixy_use": "Es la base técnica para armar (vía un integrador o una plataforma de agentes de voz que ya lo use) un contestador automático que atienda llamadas de tipo '¿dónde está mi pedido?' fuera de horario, sonando natural y dejando que el cliente corte o interrumpa. No es un producto listo para usar: hoy sirve más para evaluar proveedores de voz que ya lo integren que para desarrollarlo puertas adentro con un equipo chico.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora técnica concreta para atención por voz, pero requiere un integrador o plataforma tercera antes de que Fixy la pueda usar.",
+    "categories": [
+      "Operaciones",
+      "Logística",
+      "Automatización"
+    ],
+    "pricing_note": "pago — USD 0,05 por minuto de audio (solo la capa de voz, sin contar el modelo que genera las respuestas)",
+    "source_url": "https://openai.com/index/introducing-gpt-live/",
+    "published_date": "2026-09-10",
+    "priority": "relevante",
+    "id": "ai-openai-gpt-live-1",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
+  },
+  {
     "name": "ChatGPT Images 2.5",
     "vendor": "OpenAI",
     "what_it_is": "Es la nueva versión del generador y editor de imágenes de ChatGPT, con más calidad de detalle y una función nueva llamada Sketch para dibujar un boceto simple como referencia de la imagen final.",
@@ -1226,6 +1248,27 @@
     "source_kind": "auto",
     "last_updated": "2026-09-12",
     "first_seen": "2026-09-12"
+  },
+  {
+    "name": "Agentes de IA de terceros en chats de WhatsApp",
+    "vendor": "Meta / WhatsApp",
+    "what_it_is": "Una función en prueba que deja agregar un agente de IA externo como contacto dentro de WhatsApp y chatear con él en una conversación individual, vinculándolo con una clave de API.",
+    "what_changed": "Empezó a probarse el 8 de septiembre de 2026 en la beta de WhatsApp para Android (versión 2.26.35.3): hasta 5 agentes por cuenta, cada uno sin acceso a otros chats, contactos ni multimedia, y sin el cifrado de extremo a extremo habitual de WhatsApp en esas conversaciones puntuales.",
+    "fixy_use": "Todavía es una prueba acotada a Android, sin fecha de lanzamiento general ni versión confirmada para cuentas de negocio, así que hoy no hay nada para implementar. Vale la pena seguirlo porque WhatsApp es el canal de atención número uno en Argentina, y si esta función se abre en el futuro a cuentas comerciales podría cambiar cómo Fixy o sus clientes de eCommerce ofrecen un asistente propio dentro del mismo chat que ya usan los compradores.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una prueba beta sin versión de negocio confirmada, pero anticipa hacia dónde puede ir WhatsApp como canal de atención con IA.",
+    "categories": [
+      "Operaciones",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado — función en prueba, sin fecha de lanzamiento general ni esquema de precios",
+    "source_url": "https://wabetainfo.com/whatsapp-is-rolling-out-chats-with-third-party-agents/",
+    "published_date": "2026-09-08",
+    "priority": "informativo",
+    "id": "ai-meta-whatsapp-agentes-de-ia-de-terceros-en-chats-de-whatsapp",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
   },
   {
     "name": "WhatsApp: chats directos con agentes de IA de terceros",

@@ -923,5 +923,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-12",
     "first_seen": "2026-09-12"
+  },
+  {
+    "title": "Jorge Brito dice que la mora de los créditos ya tocó el techo y empezó a bajar",
+    "what_happened": "El presidente de Banco Macro, Jorge Brito, afirmó públicamente el 9 de septiembre que la mora crediticia \"tocó el semáforo en rojo\" y que ahora está \"en amarillo\". Precisó que un 14% del crédito total a personas registra algún nivel de atraso, con una brecha marcada: 7,6% en bancos frente a un 33% en billeteras virtuales y financieras no bancarias (dato de junio).",
+    "why_it_matters": "Es la primera lectura pública de un banquero de peso que sugiere que el pico de mora récord empezaría a quedar atrás, aunque la brecha entre bancos y fintechs/billeteras sigue siendo enorme y condiciona cuánto crédito al consumo puede sostener el gasto online.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/09/09/jorge-brito-hablo-sobre-la-mora-en-los-creditos-tocamos-el-semaforo-en-rojo-pero-ahora-ya-estamos-en-amarillo/",
+    "published_date": "2026-09-09",
+    "priority": "informativo",
+    "tags": [
+      "mora",
+      "créditos",
+      "Banco Macro",
+      "billeteras virtuales",
+      "fintech"
+    ],
+    "id": "nw-c211e9445c",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
+  },
+  {
+    "title": "NielsenIQ retrata al \"comprador derrotado\" en un consumo masivo que no arranca",
+    "what_happened": "Un informe de NielsenIQ difundido el 13 de septiembre muestra que el consumo masivo sigue prácticamente plano (0% interanual) y 21% debajo de los niveles de 2017. El 54% de las categorías migró a formatos de menor gasto, el 34% de la facturación de supermercados ya se concreta con promociones y el 61% de los compradores arma sus compras en función de las ofertas.",
+    "why_it_matters": "Confirma que la baja de la inflación todavía no se traduce en más consumo: el comprador argentino quedó estructuralmente más atento al precio y a la promoción, un comportamiento que también atraviesa al canal online.",
+    "fixy_impact": "Para los clientes eCommerce de Fixy esto sugiere tickets promedio más chicos y compras más concentradas en fechas de promoción, lo que puede presionar el costo de envío como proporción del ticket y generar picos de demanda más marcados.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae (NielsenIQ)",
+    "source_url": "https://www.infobae.com/economia/2026/09/13/clima-de-negocios-piruetas-para-bancar-el-changuito-y-la-aparicion-del-comprador-derrotado-en-medio-de-un-consumo-masivo-frenado/",
+    "published_date": "2026-09-13",
+    "priority": "relevante",
+    "tags": [
+      "consumo masivo",
+      "NielsenIQ",
+      "promociones",
+      "ticket promedio"
+    ],
+    "id": "nw-c4b098de1b",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
   }
 ]
