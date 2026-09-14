@@ -1,65 +1,72 @@
 {
-  "generated_at": "2026-09-13T12:13:50.548Z",
-  "last_updated_ar": "13/09/2026, 09:13",
-  "date": "2026-09-13",
+  "generated_at": "2026-09-14T12:26:07.075Z",
+  "last_updated_ar": "14/09/2026, 09:26",
+  "date": "2026-09-14",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El comprador argentino sigue eligiendo por promoción antes que por confianza mientras Mercado Libre eleva la vara de la automatización física en fulfillment, y Mendoza abre una ventana comercial concreta para captar pymes de Cuyo.",
+  "summary_line": "Google empieza a migrar solas las campañas de Búsqueda a IA antes de fin de mes justo cuando la Provincia le imputa multas millonarias a las billeteras en plena mora récord del consumo.",
   "counters": {
-    "news_today": 2,
-    "news_total": 42,
+    "news_today": 1,
+    "news_total": 43,
     "events_upcoming": 79,
     "events_ar_upcoming": 44,
     "events_intl_upcoming": 35,
     "events_later": 25,
     "opportunities_open": 8,
-    "opportunities_today": 2,
+    "opportunities_today": 3,
     "ai_today": 2,
-    "ai_to_try": 40,
-    "content_ideas": 64,
-    "added_news": 2,
+    "ai_to_try": 41,
+    "content_ideas": 67,
+    "added_news": 1,
     "updated_news": 0,
-    "added_events": 3,
+    "added_events": 1,
     "updated_events": 4,
     "added_ai": 2,
-    "archived": 2,
+    "archived": 9,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-capital-emprendedores-livingroom-potencia-salta-2026",
-    "name": "Potencia – Livingroom de Emprendedores 2026 (Salta Capital)",
-    "date_start": "2026-09-11",
-    "city": "Salta",
+    "id": "ev-forum-parcel-2026",
+    "name": "PARCEL Forum 2026",
+    "date_start": "2026-09-14",
+    "city": "Kissimmee (Orlando)",
     "days_away": 0
   },
   "highlights": [
     {
-      "id": "nw-cef951e68f",
+      "id": "nw-a078df0a95",
       "kind": "news",
-      "title": "Mercado Libre confirma un acuerdo con Agility Robotics para sumar robots humanoides a su logística",
+      "title": "La Provincia de Buenos Aires imputa formalmente a Mercado Pago, Ualá y otras billeteras con multas de hasta $1.883 millones",
       "priority": "alta",
-      "one_liner": "La automatización física entra a la estrategia central de fulfillment del líder regional y sigue subiendo la vara de eficiencia que el resto del ecosistema va a tener que igualar."
+      "one_liner": "El frente bonaerense contra las fintech pasa de la investigación a una imputación formal con montos concretos, justo en medio de la mora récord de las familias."
     },
     {
-      "id": "nw-c4b098de1b",
-      "kind": "news",
-      "title": "NielsenIQ retrata al \"comprador derrotado\" en un consumo masivo que no arranca",
-      "priority": "relevante",
-      "one_liner": "El comprador argentino quedó estructuralmente más atento al precio y a la promoción, un comportamiento que también presiona el ticket promedio y los picos de demanda del canal online."
-    },
-    {
-      "id": "ev-ecommerce-go-mendoza-2026",
+      "id": "ev-logistico-management-2026",
       "kind": "event",
-      "title": "eCommerce Go Mendoza 2026",
-      "priority": "relevante",
-      "one_liner": "El 17 de septiembre en Mendoza es una oportunidad concreta para sumar clientes de fulfillment entre las pymes de Cuyo que recién digitalizan sus ventas."
+      "title": "Management Logístico 2026",
+      "priority": "alta",
+      "one_liner": "El 16 de septiembre en CABA hay un panel sobre depósitos periféricos y micro hubs directamente relevante para la estrategia de fulfillment y última milla de Fixy."
     },
     {
-      "id": "ai-openai-gpt-live-1",
+      "id": "ai-google-google-ads-migracion-automatica-a-ai-max-en-campanas-",
       "kind": "ai",
-      "title": "GPT-Live-1",
+      "title": "Google Ads: migración automática a AI Max en campañas de Búsqueda",
       "priority": "relevante",
-      "one_liner": "El nuevo modelo de voz full-duplex de OpenAI podría ser la base de un contestador automático de \"¿dónde está mi pedido?\" fuera de horario."
+      "one_liner": "Google ya está migrando de oficio las campañas de Búsqueda de Fixy a IA, y marketing tiene hasta fin de mes para revisar que la segmentación y el mensaje no se hayan movido solos."
+    },
+    {
+      "id": "op-1367c0b1",
+      "kind": "opportunity",
+      "title": "Revisar las campañas de Google Ads antes de que termine la migración automática a AI Max",
+      "priority": "relevante",
+      "one_liner": "Es una ventana concreta de acción antes de fin de mes para no perder control sobre el mensaje y el costo por resultado de la pauta de Fixy."
+    },
+    {
+      "id": "nw-c30ff46b60",
+      "kind": "news",
+      "title": "El puerto de Montevideo normalizó su operativa, pero el conflicto sigue abierto",
+      "priority": "relevante",
+      "one_liner": "La vuelta a la actividad baja el riesgo inmediato, pero mientras no se resuelva el pedido de esencialidad la amenaza de nuevas paralizaciones sigue latente para la carga que pasa por Montevideo."
     }
   ]
 }

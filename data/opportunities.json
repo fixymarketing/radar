@@ -1,5 +1,50 @@
 [
   {
+    "title": "Revisar las campañas de Google Ads antes de que termine la migración automática a AI Max",
+    "context": "Desde el 1° de septiembre Google empezó a migrar solo, sin que el anunciante lo active, las campañas de Búsqueda con concordancia amplia hacia AI Max, que amplía los términos de búsqueda, reescribe el texto de los avisos y elige la URL de destino. El proceso sigue hasta fines de septiembre.",
+    "action": "Marketing tiene que auditar antes de fin de mes las campañas de Búsqueda de Fixy en Google Ads para confirmar que la segmentación, el texto de los avisos y la página de destino que eligió la IA sigan alineados con el mensaje y el costo por resultado esperado.",
+    "type": "marketing",
+    "priority": "relevante",
+    "source_url": "https://ppc.land/google-ads-broad-match-campaigns-face-ai-max-auto-upgrade-on-september-1/",
+    "linked": [
+      "Google Ads: migración automática a AI Max en campañas de Búsqueda"
+    ],
+    "id": "op-1367c0b1",
+    "source_kind": "auto",
+    "last_updated": "2026-09-14",
+    "first_seen": "2026-09-14"
+  },
+  {
+    "title": "Pilotear informes automáticos con Copilot Notebooks a partir del Excel o Power BI de despachos",
+    "context": "Microsoft llevó a disponibilidad general que Copilot Notebooks use reportes de Power BI y archivos CSV o TSV como fuente, además de documentos, para generar resúmenes y presentaciones.",
+    "action": "Si Fixy ya paga Microsoft 365 Copilot, armar un piloto donde management le pida un resumen ejecutivo semanal de indicadores de entregas a partir del Excel o el dashboard de Power BI que ya usa el equipo, en vez de armarlo a mano cada semana.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://levelupm365.com/2026/09/01/microsoft-365-roadmap-updates-september-2026/",
+    "linked": [
+      "Copilot Notebooks: fuentes de datos ampliadas"
+    ],
+    "id": "op-02066858",
+    "source_kind": "auto",
+    "last_updated": "2026-09-14",
+    "first_seen": "2026-09-14"
+  },
+  {
+    "title": "Planificar con clientes el feriado mercantil del lunes 28 de septiembre",
+    "context": "El Día del Empleado de Comercio cae sábado 26 de septiembre, así que FAECYS y las cámaras firmantes del CCT 130/75 trasladaron el feriado al lunes 28. Ese día, trabajar bajo ese convenio implica pagar el 100% adicional, y muchos comercios van a estar cerrados.",
+    "action": "Avisar con anticipación a los clientes que despachan con Fixy sobre el cierre o el recargo del lunes 28 de septiembre, y coordinar si conviene adelantar despachos al viernes 25 para no perder volumen ni pagar el plus salarial sin necesidad.",
+    "type": "comercial",
+    "priority": "informativo",
+    "source_url": "https://www.cronista.com/economia-politica/dia-del-empleado-de-comercio-2026-confirmado-cuando-cae-y-que-pasara-con-el-feriado/",
+    "linked": [
+      "El feriado por el Día del Empleado de Comercio se traslada al lunes 28 de septiembre"
+    ],
+    "id": "op-3cc75878",
+    "source_kind": "auto",
+    "last_updated": "2026-09-14",
+    "first_seen": "2026-09-14"
+  },
+  {
     "title": "Prospectar pymes de Cuyo en eCommerce Go Mendoza 2026",
     "context": "CACE organiza eCommerce Go Mendoza 2026 el 17 de septiembre en el Hilton Mendoza Hotel, un evento pensado para pymes y comercios de la región de Cuyo que están evaluando digitalizar sus ventas.",
     "action": "Coordinar con comercial una presencia en el evento (stand, charla o networking) para captar prospects de fulfillment fuera de CABA/GBA.",
@@ -70,51 +115,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-12",
     "first_seen": "2026-09-12"
-  },
-  {
-    "title": "Anticipar más pedidos de bajo ticket por la baja del piso de envío gratis de Meli+",
-    "context": "Mercado Libre bajó de $33.000 a $15.000 el monto mínimo de compra para envío gratis en Meli+, apuntando a impulsar compras chicas de alimentos, limpieza y tocador, sobre todo en el interior. Eso va a multiplicar los pedidos de bajo valor, un tipo de operación donde el costo logístico pesa proporcionalmente mucho más sobre el ticket.",
-    "action": "Revisar la estructura de tarifas para bultos chicos y acercarse a vendedores de Mercado Libre con una propuesta de consolidación o tarifa por volumen para pedidos de bajo ticket, antes de que la suba de volumen los tome por sorpresa con su estructura de costos actual.",
-    "type": "comercial",
-    "priority": "alta",
-    "source_url": "https://www.cronista.com/negocios/fuerte-apuesta-de-mercado-libre-en-envios-gratis-para-ganar-mas-usuarios-premium/",
-    "linked": [
-      "Mercado Libre baja a $15.000 el piso para envíos gratis en Meli+"
-    ],
-    "id": "op-19f402b6",
-    "source_kind": "auto",
-    "last_updated": "2026-09-11",
-    "first_seen": "2026-09-11"
-  },
-  {
-    "title": "Preparar la información logística para que la lean agentes de IA",
-    "context": "Un informe de Bain & Company confirma que 3 de cada 10 compradores argentinos ya usan IA para comprar online, y en paralelo el ecosistema de pagos y ecommerce local (Mercado Pago, Tiendanube, Visa, Mastercard, Pomelo) ya está probando compras agénticas. Si la compra se cierra dentro de un chat de IA, el dato de envío que ofrece Fixy tiene que ser legible por máquinas.",
-    "action": "Armar un feed o API simple con costo, cobertura por código postal y plazo de entrega, y ofrecerlo como diferencial técnico a vendedores que empiecen a vender a través de agentes de compra.",
-    "type": "producto",
-    "priority": "alta",
-    "source_url": "https://www.iproup.com/innovacion/71241-compras-online-argentina-comercio-agentico-inteligencia-artificial-septiembre-2026",
-    "linked": [
-      "Un informe de Bain & Company muestra que 3 de cada 10 compradores argentinos ya usan IA para comprar online",
-      "Compras y pagos agénticos en Argentina"
-    ],
-    "id": "op-b42b9ce6",
-    "source_kind": "auto",
-    "last_updated": "2026-09-11",
-    "first_seen": "2026-09-11"
-  },
-  {
-    "title": "Anticipar demoras de comercio exterior por el paro portuario en Montevideo",
-    "context": "El conflicto laboral en la terminal de contenedores de Montevideo escaló a un paro por tiempo indeterminado, con pérdidas estimadas de entre US$400.000 y US$500.000 diarios para el transporte de cargas de la región. Montevideo es un nodo clave de transbordo para el comercio exterior argentino que usa el Río de la Plata, por lo que la demora puede afectar la reposición de stock de clientes de fulfillment que importan mercadería por esa vía.",
-    "action": "Relevar qué clientes de Fixy dependen de mercadería importada vía Montevideo, avisarles proactivamente sobre posibles demoras y ofrecerles un colchón de stock de seguridad o rutas alternativas de abastecimiento mientras dure el conflicto.",
-    "type": "comercial",
-    "priority": "alta",
-    "source_url": "https://www.subrayado.com.uy/corre-el-plazo-72-horas-que-el-gobierno-le-dio-al-sindicato-y-tcp-que-acuerden-un-nuevo-convenio-y-termine-el-conflicto-n1017661",
-    "linked": [
-      "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo escaló a un paro por tiempo indeterminado"
-    ],
-    "id": "op-abd2904a",
-    "source_kind": "auto",
-    "last_updated": "2026-09-10",
-    "first_seen": "2026-09-10"
   }
 ]

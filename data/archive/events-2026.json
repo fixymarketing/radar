@@ -396,5 +396,348 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "Mercado Libre Experience Argentina 2026",
+    "organizer": "Mercado Libre",
+    "date_start": "2026-09-10",
+    "date_end": "2026-09-10",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "CABA",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "La Rural, Predio Ferial de Buenos Aires",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Marketplaces",
+    "url": "https://www.mercadolibreexperience.com.ar/",
+    "source_url": "https://www.cronista.com/finanzas-mercados/mercado-libre-experience-2026-fecha-entradas-y-los-temas-que-marcaran-el-encuentro-de-e-commerce-mas-grande-de-la-region/",
+    "description": "Segunda edición del evento insignia de Mercado Libre para vendedores y pymes, con más de 8.000 asistentes esperados, 50 charlas y una feria de más de 40 stands de soluciones para potenciar negocios online.",
+    "fixy_relevance": "Es el punto de encuentro más grande con vendedores de Mercado Libre en Argentina: oportunidad directa de prospección comercial y de escuchar de primera mano las prioridades logísticas del marketplace más grande del país.",
+    "justification_type": null,
+    "priority": "alta",
+    "beyond_90": false,
+    "id": "ev-argentina-experience-libre-mercado-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "province",
+          "category",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "fields": [
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-09",
+        "fields": [
+          "city",
+          "province",
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "fields": [
+          "city",
+          "province",
+          "category",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "Experiencia Endeavor NOA 2026",
+    "organizer": "Endeavor Argentina",
+    "date_start": "2026-09-10",
+    "date_end": "2026-09-10",
+    "date_confirmed": true,
+    "date_note": "Múltiples fuentes recientes y coincidentes (todojujuy, Diario Pregón, Somos Jujuy) confirman sede en Jujuy el 10/9. También se hallaron menciones sueltas de un encuentro en Salta el 4/9 vinculado a Endeavor NOA, posiblemente una actividad previa o de otra edición; se priorizó la fecha y sede con mayor respaldo de fuentes.",
+    "city": "San Salvador de Jujuy",
+    "province": "Jujuy",
+    "country": "Argentina",
+    "venue": "Ciudad Cultural",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Emprendimiento",
+    "url": "https://www.endeavor.org.ar/blog-article-novedades-agenda-2026-endeavor_argentina-emprendedores/",
+    "source_url": "https://www.todojujuy.com/jujuy/experiencia-endeavor-noa-2026-jujuy-cada-ano-nos-queremos-ir-superando-n293678",
+    "description": "Encuentro regional de Endeavor que reúne a emprendedores, líderes empresariales y referentes de Jujuy, Salta y Tucumán, con charlas, talleres y mentorías sobre escalamiento y nuevos mercados.",
+    "fixy_relevance": "Punto de contacto con pymes y emprendedores del NOA en etapa de escalamiento que empiezan a vender online y necesitan soluciones logísticas fuera del AMBA.",
+    "justification_type": null,
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-endeavor-experiencia-noa-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-08-20",
+        "fields": [
+          "organizer",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "fields": [
+          "venue",
+          "url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "date_note",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "Expo Franquicias Argentina 2026",
+    "organizer": "Asociación Argentina de Marcas y Franquicias (AAMF) y BA Uniline Exhibitions",
+    "date_start": "2026-09-09",
+    "date_end": "2026-09-10",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "CABA",
+    "country": "Argentina",
+    "venue": "Pabellón Ocre, La Rural, Predio Ferial de Buenos Aires (Av. Sarmiento 2704)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Retail",
+    "url": "https://expofranquicias.ar/",
+    "source_url": "https://agendapyme.com.ar/2026/09/08/expo-franquicias-argentina-2026-marcas-e-inversores-se-reunen-en-la-rural/",
+    "description": "31ª edición de la expo de franquicias con más de 60 marcas de gastronomía, retail y servicios, rondas de negocios entre franquiciantes e inversores y una pasarela de presentación de modelos de negocio.",
+    "fixy_relevance": "Muchas marcas que buscan expandirse vía franquicia terminan operando eCommerce propio o multicanal; es una cantera de leads B2B para tercerización de fulfillment y última milla.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-argentina-franquicias-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-09",
+    "first_seen": "2026-08-21",
+    "change_log": [
+      {
+        "date": "2026-09-04",
+        "fields": [
+          "organizer",
+          "city",
+          "province",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-05",
+        "fields": [
+          "city",
+          "province",
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "fields": [
+          "city",
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-09",
+        "fields": [
+          "city",
+          "province",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "intl",
+    "name": "Congreso América Digital 2026",
+    "organizer": "America Digital",
+    "date_start": "2026-09-09",
+    "date_end": "2026-09-10",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Santiago (Huechuraba)",
+    "province": null,
+    "country": "Chile",
+    "venue": "Espacio Riesco, Av. El Salto",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Tecnología",
+    "url": "https://congreso.america-digital.com/",
+    "source_url": "https://congreso.america-digital.com/",
+    "description": "11ª edición del congreso latinoamericano de IA, tecnología y negocios, con más de 5.000 asistentes de 50 países y una expo con más de 200 empresas proveedoras de soluciones tecnológicas.",
+    "fixy_relevance": "Gran vidriera regional de IA aplicada a negocios y cadena de suministro; oportunidad de aprendizaje sobre tendencias tecnológicas y de networking con proveedores tech que podrían integrarse a la operación de Fixy.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-america-congreso-digital-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-08-26",
+    "change_log": [
+      {
+        "date": "2026-09-05",
+        "fields": [
+          "organizer",
+          "city",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "intl",
+    "name": "Mercado Libre Experience México 2026",
+    "organizer": "Mercado Libre",
+    "date_start": "2026-09-09",
+    "date_end": "2026-09-10",
+    "date_confirmed": true,
+    "date_note": "Edición mexicana de Mercado Libre Experience, distinta de 'Mercado Livre Experience 2026' (edición Brasil, 2026-09-24) ya registrada en el radar.",
+    "city": "Ciudad de México",
+    "province": null,
+    "country": "México",
+    "venue": "Expo Santa Fe (Salas B y C)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Marketplaces",
+    "url": "https://www.merca20.com/mercado-libre-experience-2026-fecha-que-encontraras-y-donde-sera-el-evento-de-ecommerce-de-mexico/",
+    "source_url": "https://www.informabtl.com/mercado-libre-experience-2026-mexico-expo-santa-fe/",
+    "description": "Evento anual insignia de Mercado Libre en México, con una convocatoria estimada de 12.000 asistentes entre vendedores, emprendedores y marcas, enfocado en tendencias de eCommerce, logística y pagos digitales.",
+    "fixy_relevance": "Mercado Libre es uno de los principales marketplaces con los que interactúa la operación de Fixy; el evento permite relevar tendencias de fulfillment y última milla del ecosistema y hacer networking con sellers y marcas que podrían tercerizar logística.",
+    "justification_type": "negocios",
+    "priority": "alta",
+    "beyond_90": false,
+    "id": "ev-experience-libre-mercado-mexico-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-08-28",
+    "change_log": [
+      {
+        "date": "2026-08-31",
+        "fields": [
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "venue",
+          "url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "Social Media Day Santa Fe 2026",
+    "organizer": "Digital Interactivo / Mediática Interactive",
+    "date_start": "2026-09-10",
+    "date_end": "2026-09-10",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Santa Fe",
+    "province": "Santa Fe",
+    "country": "Argentina",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Marketing",
+    "url": "https://smday.com.ar/santafe/",
+    "source_url": "https://www.airedesantafe.com.ar/santa-fe/social-media-day-santa-fe-desembarca-la-capital-provincial-n595012",
+    "description": "Capítulo santafesino del ciclo Social Media Day, con foco en marketing digital, redes sociales y tendencias del sector para profesionales de la región.",
+    "fixy_relevance": "Espacio de networking con marcas y agencias que gestionan tiendas online del Litoral, útil para relevar tendencias de marketing que después generan picos de demanda logística.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-day-fe-media-santa-social-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-09-02",
+    "change_log": [
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "organizer",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   }
 ]

@@ -311,6 +311,27 @@
     "first_seen": "2026-09-13"
   },
   {
+    "name": "ChatGPT: Library Sharing (carpetas compartidas)",
+    "vendor": "OpenAI",
+    "what_it_is": "Es una función de ChatGPT que permite compartir carpetas y archivos completos con otras personas del equipo, asignando permisos de lector o editor, para usarlos directamente dentro de las conversaciones sin tener que volver a subirlos.",
+    "what_changed": "OpenAI la lanzó el 9 de septiembre de 2026, por ahora para cuentas Enterprise y Edu, como forma de centralizar el conocimiento del equipo en ChatGPT en vez de reenviar archivos sueltos por chat o mail.",
+    "fixy_use": "Fixy podría armar una carpeta compartida con manuales de depósito, guiones de atención al cliente y plantillas comerciales, y que todo el equipo la use directamente en sus conversaciones con ChatGPT sin duplicar versiones. También sirve para que comercial y atención al cliente trabajen sobre la misma base de información de clientes o proveedores.",
+    "verdict": "seguir",
+    "verdict_reason": "Por ahora está limitado a los planes Enterprise y Edu, conviene esperar a que llegue a ChatGPT Work para probarlo con el equipo.",
+    "categories": [
+      "Organización",
+      "Productividad"
+    ],
+    "pricing_note": "no confirmado — incluida en los planes ChatGPT Enterprise y Edu, no está confirmado si ya llegó a ChatGPT Work/Business",
+    "source_url": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
+    "published_date": "2026-09-09",
+    "priority": "relevante",
+    "id": "ai-openai-chatgpt-library-sharing-carpetas-compartidas",
+    "source_kind": "auto",
+    "last_updated": "2026-09-14",
+    "first_seen": "2026-09-14"
+  },
+  {
     "name": "ChatGPT Images 2.5",
     "vendor": "OpenAI",
     "what_it_is": "Es la nueva versión del generador y editor de imágenes de ChatGPT, con más calidad de detalle y una función nueva llamada Sketch para dibujar un boceto simple como referencia de la imagen final.",
@@ -597,6 +618,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-11",
     "first_seen": "2026-09-11"
+  },
+  {
+    "name": "Google Ads: migración automática a AI Max en campañas de Búsqueda",
+    "vendor": "Google",
+    "what_it_is": "AI Max es el sistema de campañas de Búsqueda de Google Ads potenciado por IA que amplía automáticamente los términos de búsqueda, genera variantes de texto para los anuncios y elige la URL final más relevante dentro del sitio.",
+    "what_changed": "Desde el 1° de septiembre de 2026 Google empezó a migrar automáticamente, sin que el anunciante lo active, las campañas de Búsqueda que usan concordancia amplia a nivel de campaña o activos creados automáticamente; el proceso sigue hasta fines de septiembre.",
+    "fixy_use": "Si Fixy pauta en Google Ads para captar clientes de eCommerce o retail, marketing tiene que revisar esas campañas de Búsqueda antes de fin de mes porque Google va a cambiar solo la segmentación por palabras clave, el texto de los avisos y la página de destino de cada clic, lo que puede alterar el mensaje o el costo por resultado sin aviso previo del equipo.",
+    "verdict": "probar",
+    "verdict_reason": "Es un cambio que ya está pasando de forma automática en las cuentas de Google Ads, conviene revisarlo antes de que termine septiembre.",
+    "categories": [
+      "Marketing",
+      "Comercial",
+      "Automatización"
+    ],
+    "pricing_note": "gratis — es una función incluida en Google Ads, sin costo adicional más allá de la inversión publicitaria habitual",
+    "source_url": "https://ppc.land/google-ads-broad-match-campaigns-face-ai-max-auto-upgrade-on-september-1/",
+    "published_date": "2026-09-01",
+    "priority": "relevante",
+    "id": "ai-google-google-ads-migracion-automatica-a-ai-max-en-campanas-",
+    "source_kind": "auto",
+    "last_updated": "2026-09-14",
+    "first_seen": "2026-09-14"
   },
   {
     "name": "Gemini Sheets Canvas: hojas de cálculo a apps interactivas",

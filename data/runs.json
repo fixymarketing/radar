@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-09-14",
+    "at": "2026-09-14T12:26:07.076Z",
+    "status": "ok",
+    "added": {
+      "news": 1,
+      "events": 1,
+      "ai": 2,
+      "opportunities": 3,
+      "content": 3
+    },
+    "updated": {
+      "news": 0,
+      "events": 4,
+      "ai": 0
+    },
+    "archived": {
+      "events": 6,
+      "news": 0,
+      "ai": 0,
+      "opportunities": 3,
+      "content": 0
+    },
+    "discarded": 0,
+    "errors": []
+  },
+  {
     "date": "2026-09-13",
     "at": "2026-09-13T12:13:50.549Z",
     "status": "ok",

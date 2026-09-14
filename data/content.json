@@ -964,5 +964,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-13",
     "first_seen": "2026-09-13"
+  },
+  {
+    "topic": "Cuando la IA le cambia sola la campaña: qué implica la migración automática a AI Max de Google Ads",
+    "why_now": "Google ya está migrando de oficio las campañas de Búsqueda con concordancia amplia a AI Max, sin que el anunciante lo pida, y el proceso termina a fin de septiembre.",
+    "fixy_angle": "Fixy puede compartir la experiencia de auditar sus propias campañas como contenido de valor para otras pymes que pautan en Google Ads y todavía no se enteraron del cambio.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://ppc.land/google-ads-broad-match-campaigns-face-ai-max-auto-upgrade-on-september-1/",
+    "id": "ct-e09a564f",
+    "source_kind": "auto",
+    "last_updated": "2026-09-14",
+    "first_seen": "2026-09-14"
+  },
+  {
+    "topic": "La grieta bonaerense con las fintech: qué implica multar a Mercado Pago y Ualá en plena mora récord",
+    "why_now": "La Provincia de Buenos Aires pasó de investigar a imputar formalmente a las principales billeteras con multas de hasta $1.883 millones, en medio de la mora récord de las familias.",
+    "fixy_angle": "Fixy cobra contra entrega y trabaja con billeteras y medios de pago digitales en la última milla: el endurecimiento regulatorio puede anticipar cambios en las condiciones de cobro que le convendría explicar a sus clientes.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.iproup.com/economia-digital/71278-kicillof-multa-con-1800-m-a-mercado-pago-uala-y-otras-billeteras",
+    "id": "ct-f2634147",
+    "source_kind": "auto",
+    "last_updated": "2026-09-14",
+    "first_seen": "2026-09-14"
+  },
+  {
+    "topic": "Bitrenes, el camión que hace el trabajo de dos: por qué Andreani apuesta a menos viajes con más carga",
+    "why_now": "Andreani sumó 20 bitrenes a su flota para transporte de larga distancia, una apuesta concreta a bajar el costo logístico por tonelada transportada.",
+    "fixy_angle": "Fixy puede usar el caso para explicar en sus redes cómo la eficiencia de flota (menos viajes, más carga por viaje) impacta directamente en el costo final del envío que paga el comercio.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "informativo",
+    "source_url": "https://mercado.com.ar/movilidad/andreani-suma-20-bitrenes-a-su-flota-y-destina-us-2-millones",
+    "id": "ct-b8c6ee70",
+    "source_kind": "auto",
+    "last_updated": "2026-09-14",
+    "first_seen": "2026-09-14"
   }
 ]
