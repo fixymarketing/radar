@@ -1009,5 +1009,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-14",
     "first_seen": "2026-09-14"
+  },
+  {
+    "topic": "El Mercosur le pone condiciones a la tienda online: qué mostrar para no arriesgar el dominio",
+    "why_now": "La Resolución 31/26 recién entró en agenda esta semana y todavía no hay una explicación simple dirigida a dueños de tiendas chicas.",
+    "fixy_angle": "Fixy puede posicionarse como el socio que ayuda a sus clientes de eCommerce a cumplir sin perder ventas ni arriesgar el sitio.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.argentina.gob.ar/noticias/mercosur-refuerza-la-proteccion-de-los-consumidores-en-el-comercio-electronico",
+    "id": "ct-bf940f37",
+    "source_kind": "auto",
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "topic": "Cuando el marketplace mete robots humanoides: qué le queda a la pyme que no puede pagar esa escala",
+    "why_now": "El acuerdo de Mercado Libre con Agility Robotics para sumar robots humanoides a su logística marca un salto de automatización que ninguna pyme puede igualar en escala.",
+    "fixy_angle": "Fixy puede mostrar cómo la cercanía, la atención personalizada y la flexibilidad operativa siguen siendo un diferencial frente a la automatización masiva de los gigantes.",
+    "formats": [
+      "LinkedIn",
+      "artículo"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.iproup.com/innovacion/71442-mercado-libre-ya-prueba-agentes-de-ia-y-robots-para-entregas",
+    "id": "ct-fccde467",
+    "source_kind": "auto",
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "topic": "Qué pasa con la carga que pasa por Montevideo si el paro portuario se profundiza",
+    "why_now": "El conflicto en la terminal de contenedores escaló a un paro por tiempo indeterminado, con pérdidas diarias millonarias y navieras ya evaluando rutas alternativas.",
+    "fixy_angle": "Es una oportunidad de explicarle a clientes que importan o exportan por esa vía qué alternativas logísticas existen si el conflicto se extiende.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.subrayado.com.uy/corre-el-plazo-72-horas-que-el-gobierno-le-dio-al-sindicato-y-tcp-que-acuerden-un-nuevo-convenio-y-termine-el-conflicto-n1017661",
+    "id": "ct-2ffc7fe1",
+    "source_kind": "auto",
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-09-15"
   }
 ]

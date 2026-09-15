@@ -641,5 +641,52 @@
     "source_kind": "auto",
     "last_updated": "2026-08-25",
     "first_seen": "2026-08-25"
+  },
+  {
+    "title": "La inflación de julio fue 2,1% y el mercado ahora espera 1,6% para agosto",
+    "what_happened": "Las consultoras privadas recortaron su proyección de inflación para agosto y ahora la ubican cerca de 1,6%, por debajo del 1,8% que se esperaba semanas atrás y del 2,1% de julio. Fundación Libertad y Progreso calculó 1,4% para la tercera semana del mes, Orlando Ferreres y C&T Asesores Económicos coinciden en 1,5% y Analytica proyecta 1,8%, con el rango general entre 1,6% y 1,9%. El dato oficial del INDEC se conoce el 10 de septiembre.",
+    "why_it_matters": "Sería uno de los registros mensuales más bajos del año y reforzaría la desaceleración de precios, con impacto directo en la evolución de costos operativos (combustible, insumos, salarios) del sector logístico.",
+    "fixy_impact": "Una inflación más baja de lo previsto alivia la presión sobre los costos operativos y puede facilitar la planificación de tarifas y contratos con clientes en el corto plazo.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae / La Nación / El Cronista",
+    "source_url": "https://www.infobae.com/economia/2026/08/24/inflacion-de-agosto-las-consultoras-recortaron-sus-proyecciones-y-ahora-estiman-que-podria-ubicarse-cerca-del-16/",
+    "published_date": "2026-08-24",
+    "priority": "relevante",
+    "tags": [
+      "inflación",
+      "consultoras",
+      "costos",
+      "precios",
+      "macroeconomía"
+    ],
+    "id": "nw-78ca045e85",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-19",
+    "updated_flag": true
+  },
+  {
+    "title": "Se duplicaron los robos de vehículos en el interior y los utilitarios de reparto son el blanco principal",
+    "what_happened": "Un informe difundido esta semana muestra que los operativos de robo de vehículos en el interior de Argentina se duplicaron en julio de 2026 respecto de julio de 2025, con Córdoba, Mendoza, Santa Fe y Neuquén ganando protagonismo; en lo que va de 2026 los robos fuera de la provincia de Buenos Aires ya equivalen al 80% de todo lo registrado en 2025. Sobre 4.490 robos a transporte de mercadería relevados en un período de 12 meses, el 83% recayó sobre camionetas y utilitarios de reparto, contra apenas el 17% de camiones grandes.",
+    "why_it_matters": "El delito contra el transporte de mercadería se está corriendo del AMBA hacia el interior, justo donde crece la última milla del ecommerce, lo que presiona costos de seguro y seguridad para las flotas de reparto en esas provincias.",
+    "fixy_impact": "Vale revisar pólizas de seguro, rastreo satelital y protocolos de seguridad de las camionetas y utilitarios que reparten en el interior, en especial en Córdoba, Mendoza, Santa Fe y Neuquén.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "Informe Operadores de Mercado",
+    "source_url": "https://www.informeoperadores.com.ar/2026/08/24/en-julio-se-duplicaron-los-robos-de-vehiculos-en-el-interior-del-pais/",
+    "published_date": "2026-08-24",
+    "priority": "relevante",
+    "tags": [
+      "seguridad",
+      "última milla",
+      "robo de carga",
+      "interior",
+      "seguros"
+    ],
+    "id": "nw-3c80278af1",
+    "source_kind": "auto",
+    "last_updated": "2026-08-27",
+    "first_seen": "2026-08-27"
   }
 ]

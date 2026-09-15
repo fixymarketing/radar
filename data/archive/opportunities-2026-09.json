@@ -421,5 +421,18 @@
     "source_kind": "auto",
     "last_updated": "2026-09-10",
     "first_seen": "2026-09-10"
+  },
+  {
+    "title": "Usar Deep Research de ChatGPT Work para vigilar tarifas y políticas de la competencia",
+    "context": "ChatGPT Work sumó Deep Research, capaz de cruzar información pública con archivos internos y entregar informes con fuentes citadas listos para una reunión.",
+    "action": "Pedirle a ChatGPT Work un informe mensual que compare tarifas, políticas de envío y novedades de otros operadores logísticos y marketplaces, para que el equipo comercial lo use en cotizaciones y negociaciones.",
+    "type": "comercial",
+    "priority": "informativo",
+    "source_url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes",
+    "linked": [],
+    "id": "op-9dbbdf09",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-09-12"
   }
 ]

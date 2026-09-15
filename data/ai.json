@@ -1,5 +1,27 @@
 [
   {
+    "name": "Data Agent en ChatGPT Work",
+    "vendor": "OpenAI",
+    "what_it_is": "Un agente dentro de ChatGPT Work que se conecta a las fuentes de datos de la empresa (planillas, Google Drive, bases de datos, herramientas de BI) y arma paneles y reportes interactivos a partir de preguntas en lenguaje natural.",
+    "what_changed": "Se lanzó el 10 de septiembre de 2026: permite investigar por qué cambió una métrica de negocio y construir un dashboard compartible en una sola conversación, sin escribir consultas ni aprender una herramienta de analítica aparte, sumándose a los conectores ya existentes de ChatGPT Work (Google Drive, SharePoint, Redshift, BigQuery, Snowflake, entre otros).",
+    "fixy_use": "Fixy podría conectar sus planillas de despachos, devoluciones y SLA por transportista (en Google Drive) y pedirle al Data Agent un reporte semanal de performance por cliente o courier, sin depender de un analista dedicado. También sirve para que comercial entienda rápido por qué cayó el volumen de envíos de una cuenta puntual antes de una reunión.",
+    "verdict": "probar",
+    "verdict_reason": "Permite analizar datos operativos propios sin herramientas de BI ni conocimientos técnicos, algo que hoy el equipo no tiene armado.",
+    "categories": [
+      "Análisis",
+      "Operaciones",
+      "Productividad"
+    ],
+    "pricing_note": "pago — disponible en planes ChatGPT Business y Enterprise, no en Plus",
+    "source_url": "https://openai.com/index/put-data-to-work/",
+    "published_date": "2026-09-10",
+    "priority": "alta",
+    "id": "ai-openai-data-agent-en-chatgpt-work",
+    "source_kind": "auto",
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-09-15"
+  },
+  {
     "name": "ChatGPT Work: Deep Research",
     "vendor": "OpenAI",
     "what_it_is": "Modo de investigación profunda de ChatGPT que ahora corre dentro de Work (el entorno conectado a archivos y apps de la empresa): busca en la web, en documentos internos y en apps conectadas, y arma un informe editable con citas.",
@@ -1293,6 +1315,28 @@
     "first_seen": "2026-09-12"
   },
   {
+    "name": "Smart Reports en Claude Enterprise",
+    "vendor": "Anthropic",
+    "what_it_is": "Una función en beta de Claude Enterprise que analiza cómo el equipo usa Claude (chat, Claude Code, Cowork) y genera reportes en texto y gráficos sobre el trabajo realizado, el costo, los puntos de fricción y qué tareas repetidas conviene empaquetar como una skill reutilizable.",
+    "what_changed": "Lanzada en beta el 10 de septiembre de 2026, reemplaza los simples contadores de sesiones y gasto del panel de administración por informes configurables por equipo y período (hasta 28 días), con preguntas propias; durante la beta cada organización tiene 10 reportes gratis por mes y no expone el uso individual salvo que se habilite a propósito.",
+    "fixy_use": "Si Fixy pasa a un plan Claude Enterprise, management podría pedir un reporte mensual de cómo atención al cliente y operaciones usan la IA, dónde se traban y qué tareas repetitivas conviene estandarizar como skill para todo el equipo, justificando la inversión con datos concretos en vez de percepciones sueltas.",
+    "verdict": "seguir",
+    "verdict_reason": "Solo es útil si Fixy adopta Claude Enterprise; hoy es más una función de gestión interna que una capacidad urgente para un equipo chico.",
+    "categories": [
+      "Management",
+      "Análisis",
+      "Organización"
+    ],
+    "pricing_note": "pago — exclusivo de planes Claude Enterprise (beta: hasta 10 reportes gratis por mes)",
+    "source_url": "https://support.claude.com/en/articles/16893491-get-started-with-smart-reports",
+    "published_date": "2026-09-10",
+    "priority": "informativo",
+    "id": "ai-anthropic-smart-reports-en-claude-enterprise",
+    "source_kind": "auto",
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-09-15"
+  },
+  {
     "name": "Agentes de IA de terceros en chats de WhatsApp",
     "vendor": "Meta / WhatsApp",
     "what_it_is": "Una función en prueba que deja agregar un agente de IA externo como contacto dentro de WhatsApp y chatear con él en una conversación individual, vinculándolo con una clave de API.",
@@ -1550,6 +1594,27 @@
     "source_kind": "auto",
     "last_updated": "2026-09-11",
     "first_seen": "2026-09-11"
+  },
+  {
+    "name": "OmniSTAR",
+    "vendor": "OneRail (con NVIDIA)",
+    "what_it_is": "Una plataforma de decisión de entregas que, para cada pedido, evalúa en tiempo real todas las opciones de despacho disponibles (flota propia, courier, paquetería y otros modos) y elige la que cumple el nivel de servicio al menor costo.",
+    "what_changed": "Lanzada el 1 de septiembre de 2026, usa infraestructura de IA de NVIDIA (incluido el motor de optimización cuOpt) para resolver en minutos cálculos de ruteo y selección de transportista que antes tardaban horas o incluso una semana, apuntando a grandes retailers, mayoristas y distribuidores con flota propia.",
+    "fixy_use": "No es algo que Fixy pueda contratar mañana —está pensada para operaciones enterprise con flota propia—, pero marca hacia dónde va la última milla: elegir automáticamente, pedido por pedido, entre transportistas y modos de envío según costo y cumplimiento de SLA. Vale la pena seguirla como referencia de una futura función propia que compare Andreani, OCA, Correo Argentino y reparto propio por cada pedido.",
+    "verdict": "seguir",
+    "verdict_reason": "Es inteligencia de mercado sobre hacia dónde va la optimización de última milla, no algo implementable hoy con la escala de Fixy.",
+    "categories": [
+      "Logística",
+      "Operaciones"
+    ],
+    "pricing_note": "no confirmado — plataforma enterprise sin precio público",
+    "source_url": "https://www.streetinsider.com/Business+Wire/OneRail+Launches+OmniSTAR,+the+First+AI-Powered+Delivery+Decisioning+Platform+Built+with+NVIDIA+AI/27009758.html",
+    "published_date": "2026-09-01",
+    "priority": "informativo",
+    "id": "ai-onerail-con-nvidia-omnistar",
+    "source_kind": "auto",
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-09-15"
   },
   {
     "name": "Gemini Omni 1.1 Flash",

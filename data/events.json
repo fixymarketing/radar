@@ -1852,28 +1852,44 @@
     "scope": "ar",
     "name": "Argentina Fintech Forum 2026",
     "organizer": "Cámara Argentina Fintech",
-    "date_start": "2026-10-29",
-    "date_end": "2026-10-29",
+    "date_start": "2026-11-23",
+    "date_end": "2026-11-25",
     "date_confirmed": true,
-    "date_note": null,
-    "city": "Ciudad Autónoma de Buenos Aires",
+    "date_note": "Hay versiones contradictorias sobre la fecha de esta 4ª edición. Ya estaba registrado en la agenda con fecha 2026-10-29, pero fuentes de septiembre 2026 (Cointelegraph, Territorio Bitcoin, ITSitio) coinciden en que el evento se realizará del 23 al 25 de noviembre de 2026, con la jornada presencial el 25/11 en el Hotel Emperador (otra fuente, Ámbito, mencionó erróneamente 1-2 de noviembre). Además,",
+    "city": "Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro de Convenciones de Buenos Aires (CEC)",
+    "venue": "Hotel Emperador (jornada presencial); días previos en formato remoto",
     "venue_confirmed": true,
-    "format": "presencial",
+    "format": "híbrido",
     "category": "Pagos y Fintech",
     "url": "https://argentinafintechforum.com/",
-    "source_url": "https://camarafintech.org/mapa-fintech-2026/",
-    "description": "Encuentro anual del ecosistema fintech argentino organizado por la Cámara Argentina Fintech, con conferencias y networking sobre medios de pago, banca digital e innovación financiera.",
-    "fixy_relevance": "Los medios de pago y el checkout son parte crítica de la experiencia de compra en eCommerce; útil para que Fixy monitoree integraciones de pagos que puedan combinarse con su operación de fulfillment.",
+    "source_url": "https://www.territoriobitcoin.com/arriba-la-cuarta-edicion-de-argentina-fintech-forum-para-el-mes-de-noviembre/",
+    "description": "Cuarta edición del evento anual de la Cámara Argentina Fintech, con más de 50 speakers nacionales e internacionales debatiendo open finance, tokenización, infraestructura de pagos y activos digitales.",
+    "fixy_relevance": "Los temas de infraestructura de pagos, cobranza y activos digitales impactan directo en cómo Fixy y sus clientes de eCommerce gestionan contra-reembolso, conciliación de cobros y medios de pago en la última milla; vale la pena confirmar la fecha real antes de planificar asistencia.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-argentina-fintech-forum-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-08-20",
+    "change_log": [
+      {
+        "date": "2026-09-15",
+        "fields": [
+          "date_start",
+          "date_end",
+          "date_note",
+          "city",
+          "venue",
+          "format",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -3756,20 +3772,20 @@
     "city": "Ciudad de México",
     "province": null,
     "country": "México",
-    "venue": "Hotel Marriott Reforma",
+    "venue": "Mexico City Marriott Reforma Hotel",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Retail",
     "url": "https://mexicobusiness.events/ecommerce/2027/04",
     "source_url": "https://mexicobusiness.events/ecommerce/2027/04",
-    "description": "Foro anual en Ciudad de México que reúne a líderes de retail y e-commerce mexicanos para discutir infraestructura, experiencia de cliente, logística inversa y rentabilidad del comercio digital; en su edición 2026 abordó explícitamente cómo convertir la logística inversa en oportunidad de negocio.",
-    "fixy_relevance": "Espacio de networking de un día con retailers y marcas digitales mexicanas que están definiendo su infraestructura logística y de logística inversa; útil si Fixy evalúa relevamiento de mercado o contactos comerciales de cara a una eventual expansión hacia México, aunque el evento en sí es genérico de retail más que específico de logística.",
+    "description": "Foro de un día para líderes senior de retail y eCommerce en México, centrado en decisiones de infraestructura, datos, experiencia unificada y logística inversa como oportunidad de negocio.",
+    "fixy_relevance": "México es un mercado donde Fixy ya sigue de cerca varios eventos (eRetail Day México, EFFIX); este foro de perfil ejecutivo aborda específicamente logística inversa y unificación de canales, temas core del negocio de fulfillment, y es una vía de networking institucional con retailers mexicanos si Fixy evalúa expansión regional.",
     "justification_type": "expansión regional",
     "priority": "informativo",
     "beyond_90": true,
     "id": "ev-commerce-mexico-retail-summit-2027",
     "source_kind": "auto",
-    "last_updated": "2026-09-07",
+    "last_updated": "2026-09-15",
     "first_seen": "2026-09-02",
     "change_log": [
       {
@@ -3794,6 +3810,14 @@
           "description",
           "fixy_relevance",
           "priority"
+        ]
+      },
+      {
+        "date": "2026-09-15",
+        "fields": [
+          "venue",
+          "description",
+          "fixy_relevance"
         ]
       }
     ]
@@ -3860,7 +3884,7 @@
     "date_end": "2026-10-07",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Nashville, TN",
+    "city": "Nashville",
     "province": null,
     "country": "Estados Unidos",
     "venue": "Gaylord Opryland Resort & Convention Center",
@@ -3868,15 +3892,15 @@
     "format": "presencial",
     "category": "Logística",
     "url": "https://www.cscmpedge.org/",
-    "source_url": "https://www.showsbee.com/fairs/99848-CSCMP-Annual-Conference-2026.html",
-    "description": "Conferencia anual del CSCMP, considerada el evento más importante del mundo en supply chain management, con miles de profesionales, casos de estudio y proveedores tecnológicos de punta.",
-    "fixy_relevance": "Es el evento global de referencia en gestión de cadena de suministro; útil para aprendizaje de tendencias (automatización de almacenes, última milla, tecnología WMS/TMS) y benchmarking frente a los mejores operadores del mundo, aunque no sea un evento LATAM.",
+    "source_url": "https://conventiongrid.com/shows/cscmp-edge/2026/nashville/",
+    "description": "Conferencia y exposición anual del CSCMP, considerada el evento de referencia global de supply chain, logística y transporte, con más de 100 sesiones educativas y más de 175 expositores en su Supply Chain Exchange.",
+    "fixy_relevance": "Es la conferencia global más relevante de supply chain y logística: aunque no tiene foco LATAM, permite acceso a tendencias de automatización de almacenes, tecnología de última milla y benchmarks operativos de nivel mundial que pueden aplicarse al fulfillment de Fixy; también es punto de contacto con proveedores tecnológicos y operadores 3PL internacionales.",
     "justification_type": "aprendizaje",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-cscmp-edge-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-12",
+    "last_updated": "2026-09-15",
     "first_seen": "2026-09-03",
     "change_log": [
       {
@@ -3887,39 +3911,11 @@
           "description",
           "fixy_relevance"
         ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
-    "name": "DescentralizAR 2026 (Tucumán)",
-    "organizer": "ONG Bitcoin Argentina",
-    "date_start": "2026-09-11",
-    "date_end": "2026-09-11",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "San Miguel de Tucumán",
-    "province": "Tucumán",
-    "country": "Argentina",
-    "venue": "Hotel Catalina",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Pagos y Fintech",
-    "url": "https://descentralizar.org/",
-    "source_url": "https://www.estamosenlinea.com/2026/09/07/descentralizar-llega-a-tucuman-con-una-jornada-gratuita-sobre-bitcoin-y-tecnologias-descentralizadas/",
-    "description": "Jornada gratuita sobre Bitcoin y tecnologías descentralizadas, con talleres prácticos de autocustodia y billeteras digitales, dentro de la gira federal de DescentralizAR por San Luis, Córdoba y Tucumán.",
-    "fixy_relevance": "Sirve para monitorear la adopción de pagos con cripto en el interior, un método de cobro emergente que podría empezar a aparecer en checkouts de e-commerce de clientes de Fixy.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-descentralizar-tucuman-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-08",
-    "first_seen": "2026-09-05",
-    "change_log": [
+      },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-15",
         "fields": [
+          "city",
           "source_url",
           "description",
           "fixy_relevance"
@@ -4427,5 +4423,32 @@
     "source_kind": "auto",
     "last_updated": "2026-09-14",
     "first_seen": "2026-09-14"
+  },
+  {
+    "scope": "intl",
+    "name": "D2C Summit 2026",
+    "organizer": "Nuvemshop",
+    "date_start": "2026-09-30",
+    "date_end": "2026-10-01",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "São Paulo",
+    "province": null,
+    "country": "Brasil",
+    "venue": "Distrito Anhembi",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "eCommerce",
+    "url": "https://d2csummit.com.br/",
+    "source_url": "https://brasilinovador.com.br/d2c-summit-2026-reune-mais-de-7-mil-executivos-no-distrito-anhembi-para-debater-eficiencia-no-e-commerce/",
+    "description": "Evento propio de Nuvemshop enfocado en marcas D2C (direct-to-consumer), con más de 7.000 ejecutivos esperados y un eje temático específico de automatización logística y fulfillment (micro-centros de distribución urbana, reducción de costos de flete y tiempos de entrega).",
+    "fixy_relevance": "Es el mayor evento de Brasil dedicado específicamente a marcas D2C que operan eCommerce propio, con un track explícito de fulfillment y logística urbana: audiencia ideal para generación de negocios (marcas que buscan operador logístico) y benchmarking de tendencias de última milla en el mercado más grande de la región.",
+    "justification_type": "negocios",
+    "priority": "alta",
+    "beyond_90": false,
+    "id": "ev-d2c-summit-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-09-15"
   }
 ]

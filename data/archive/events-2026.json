@@ -739,5 +739,42 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "DescentralizAR 2026 (Tucumán)",
+    "organizer": "ONG Bitcoin Argentina",
+    "date_start": "2026-09-11",
+    "date_end": "2026-09-11",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "San Miguel de Tucumán",
+    "province": "Tucumán",
+    "country": "Argentina",
+    "venue": "Hotel Catalina",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Pagos y Fintech",
+    "url": "https://descentralizar.org/",
+    "source_url": "https://www.estamosenlinea.com/2026/09/07/descentralizar-llega-a-tucuman-con-una-jornada-gratuita-sobre-bitcoin-y-tecnologias-descentralizadas/",
+    "description": "Jornada gratuita sobre Bitcoin y tecnologías descentralizadas, con talleres prácticos de autocustodia y billeteras digitales, dentro de la gira federal de DescentralizAR por San Luis, Córdoba y Tucumán.",
+    "fixy_relevance": "Sirve para monitorear la adopción de pagos con cripto en el interior, un método de cobro emergente que podría empezar a aparecer en checkouts de e-commerce de clientes de Fixy.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-descentralizar-tucuman-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-09-05",
+    "change_log": [
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   }
 ]

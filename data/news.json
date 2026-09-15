@@ -1,29 +1,5 @@
 [
   {
-    "title": "La inflación de julio fue 2,1% y el mercado ahora espera 1,6% para agosto",
-    "what_happened": "Las consultoras privadas recortaron su proyección de inflación para agosto y ahora la ubican cerca de 1,6%, por debajo del 1,8% que se esperaba semanas atrás y del 2,1% de julio. Fundación Libertad y Progreso calculó 1,4% para la tercera semana del mes, Orlando Ferreres y C&T Asesores Económicos coinciden en 1,5% y Analytica proyecta 1,8%, con el rango general entre 1,6% y 1,9%. El dato oficial del INDEC se conoce el 10 de septiembre.",
-    "why_it_matters": "Sería uno de los registros mensuales más bajos del año y reforzaría la desaceleración de precios, con impacto directo en la evolución de costos operativos (combustible, insumos, salarios) del sector logístico.",
-    "fixy_impact": "Una inflación más baja de lo previsto alivia la presión sobre los costos operativos y puede facilitar la planificación de tarifas y contratos con clientes en el corto plazo.",
-    "category": "Consumo",
-    "geo": "Argentina",
-    "source_name": "Infobae / La Nación / El Cronista",
-    "source_url": "https://www.infobae.com/economia/2026/08/24/inflacion-de-agosto-las-consultoras-recortaron-sus-proyecciones-y-ahora-estiman-que-podria-ubicarse-cerca-del-16/",
-    "published_date": "2026-08-24",
-    "priority": "relevante",
-    "tags": [
-      "inflación",
-      "consultoras",
-      "costos",
-      "precios",
-      "macroeconomía"
-    ],
-    "id": "nw-78ca045e85",
-    "source_kind": "auto",
-    "last_updated": "2026-08-25",
-    "first_seen": "2026-08-19",
-    "updated_flag": true
-  },
-  {
     "title": "La Ciudad de Buenos Aires habilita pruebas con autos sin conductor y robots de reparto en la vía pública",
     "what_happened": "La Secretaría de Transporte porteña publicó la Resolución 170/SECT/26 (Boletín Oficial de la Ciudad, 18/8) y la Resolución 175/SECT/26 (firmada el 19/8 y publicada el 25/8), que crean un régimen de autorización para probar en la vía pública vehículos autónomos, robots terrestres de reparto y drones aéreos operados por empresas y desarrolladores. Los robots terrestres podrán circular a menos de 20 km/h por veredas, parques y corredores logísticos para tareas como reparto de carga liviana, y los drones podrán operar bajo modalidad BVLOS (sin contacto visual del piloto) en zonas, días y horarios específicamente aprobados, con habilitación previa de ANAC. Cada empresa interesada debe tramitar un",
     "why_it_matters": "Es la primera vez que una jurisdicción argentina habilita pruebas reales en la vía pública de vehículos autónomos y drones de reparto, lo que abre la puerta a que operadores de última milla empiecen a testear estas tecnologías en Buenos Aires antes que en el resto del país.",
@@ -94,29 +70,6 @@
     "last_updated": "2026-09-04",
     "first_seen": "2026-08-27",
     "updated_flag": true
-  },
-  {
-    "title": "Se duplicaron los robos de vehículos en el interior y los utilitarios de reparto son el blanco principal",
-    "what_happened": "Un informe difundido esta semana muestra que los operativos de robo de vehículos en el interior de Argentina se duplicaron en julio de 2026 respecto de julio de 2025, con Córdoba, Mendoza, Santa Fe y Neuquén ganando protagonismo; en lo que va de 2026 los robos fuera de la provincia de Buenos Aires ya equivalen al 80% de todo lo registrado en 2025. Sobre 4.490 robos a transporte de mercadería relevados en un período de 12 meses, el 83% recayó sobre camionetas y utilitarios de reparto, contra apenas el 17% de camiones grandes.",
-    "why_it_matters": "El delito contra el transporte de mercadería se está corriendo del AMBA hacia el interior, justo donde crece la última milla del ecommerce, lo que presiona costos de seguro y seguridad para las flotas de reparto en esas provincias.",
-    "fixy_impact": "Vale revisar pólizas de seguro, rastreo satelital y protocolos de seguridad de las camionetas y utilitarios que reparten en el interior, en especial en Córdoba, Mendoza, Santa Fe y Neuquén.",
-    "category": "Última milla",
-    "geo": "Argentina",
-    "source_name": "Informe Operadores de Mercado",
-    "source_url": "https://www.informeoperadores.com.ar/2026/08/24/en-julio-se-duplicaron-los-robos-de-vehiculos-en-el-interior-del-pais/",
-    "published_date": "2026-08-24",
-    "priority": "relevante",
-    "tags": [
-      "seguridad",
-      "última milla",
-      "robo de carga",
-      "interior",
-      "seguros"
-    ],
-    "id": "nw-3c80278af1",
-    "source_kind": "auto",
-    "last_updated": "2026-08-27",
-    "first_seen": "2026-08-27"
   },
   {
     "title": "Las importaciones vía courier ya suman US$751 millones en 2026 y podrían superar todo 2025 antes de septiembre",
@@ -991,5 +944,73 @@
     "source_kind": "auto",
     "last_updated": "2026-09-14",
     "first_seen": "2026-09-14"
+  },
+  {
+    "title": "Mercosur exige a las tiendas online informar los derechos del consumidor, bajo riesgo de baja de dominio",
+    "what_happened": "El Grupo Mercado Común del Mercosur aprobó la Resolución 31/26, que obliga a los sitios de venta online a mostrar de forma clara y accesible los derechos del consumidor, las condiciones de contratación y los mecanismos de reclamo antes de habilitar su dominio de internet. El incumplimiento puede derivar en la baja de la conexión al DNS a pedido de una autoridad administrativa o judicial.",
+    "why_it_matters": "Es la primera vez que el bloque liga directamente el cumplimiento de reglas de protección al consumidor con la continuidad técnica del dominio de una tienda online, lo que eleva el costo de no cumplir para cualquier eCommerce de la región.",
+    "fixy_impact": "Los clientes de Fixy que tienen tienda propia deberían revisar que su sitio muestre esta información obligatoria, para no quedar expuestos a un reclamo que termine en la baja del dominio.",
+    "category": "Regulación",
+    "geo": "LATAM",
+    "source_name": "Argentina.gob.ar / Prensa Mercosur",
+    "source_url": "https://www.argentina.gob.ar/noticias/mercosur-refuerza-la-proteccion-de-los-consumidores-en-el-comercio-electronico",
+    "published_date": "2026-09-12",
+    "priority": "relevante",
+    "tags": [
+      "mercosur",
+      "regulación",
+      "ecommerce",
+      "consumidor",
+      "compliance"
+    ],
+    "id": "nw-1707cb90c3",
+    "source_kind": "auto",
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "Entró en vigencia la nueva concesión de la Hidrovía Paraná-Paraguay y bajan los peajes",
+    "what_happened": "El consorcio Vía Navegable Argentina, formado por la belga Jan De Nul y la argentina Servimagnus, asumió el 10 de septiembre la operación de la Vía Navegable Troncal por los próximos 25 años. La medida bajó 13,5% el valor del peaje (de US$4,30 a US$3,80 por tonelada de registro neto) e incluye obras de dragado hasta los 34 pies en los ríos Paraná Bravo y Guazú.",
+    "why_it_matters": "Por esta vía circula cerca del 80% de las exportaciones agroindustriales del país, así que la baja de costos de navegación es una señal más de reducción de costos logísticos estructurales en Argentina, aunque no toca directamente la última milla urbana.",
+    "fixy_impact": null,
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Saladillo Campo",
+    "source_url": "https://saladillocampo.com.ar/blog/2026/09/11/hidrovia-mas-barata-baja-135-el-peaje-y-el-agro-ahorraria-hasta-us-456-millones/",
+    "published_date": "2026-09-11",
+    "priority": "informativo",
+    "tags": [
+      "hidrovía",
+      "costos logísticos",
+      "comercio exterior",
+      "infraestructura"
+    ],
+    "id": "nw-0b1793a029",
+    "source_kind": "auto",
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-09-15"
+  },
+  {
+    "title": "Management Logístico 2026 reúne a CEDOL, ARLOG y FADEEAC para debatir rentabilidad y costos del sector",
+    "what_happened": "El encuentro organizado por Énfasis Logística se realiza el miércoles 16 de septiembre en GoldenCenter, Buenos Aires. La apertura está a cargo de referentes de CEDOL, ARLOG y FADEEAC sobre rentabilidad y productividad operativa, moderados por el economista Santiago Bulat, con paneles sobre infraestructura, costos, última milla, consumo y tecnología.",
+    "why_it_matters": "Es uno de los pocos espacios donde las principales cámaras del sector logístico argentino comparten diagnóstico sobre costos y productividad en un año de consumo débil, un termómetro útil para entender hacia dónde va la conversación del sector.",
+    "fixy_impact": "Vale la pena seguir las conclusiones del panel de apertura sobre rentabilidad operativa, un tema central para la estrategia comercial y de pricing de Fixy.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Perfil",
+    "source_url": "https://www.perfil.com/noticias/empresas-y-protagonistas/management-logistico-2026-pone-en-agenda-los-desafios-que-estan-transformando-la-logistica-en-argentina.phtml",
+    "published_date": "2026-09-10",
+    "priority": "informativo",
+    "tags": [
+      "evento",
+      "cedol",
+      "arlog",
+      "fadeeac",
+      "costos logísticos"
+    ],
+    "id": "nw-00dbed05c4",
+    "source_kind": "auto",
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-09-15"
   }
 ]

@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-14T12:26:07.075Z",
-  "last_updated_ar": "14/09/2026, 09:26",
-  "date": "2026-09-14",
+  "generated_at": "2026-09-15T12:16:43.993Z",
+  "last_updated_ar": "15/09/2026, 09:16",
+  "date": "2026-09-15",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Google empieza a migrar solas las campañas de Búsqueda a IA antes de fin de mes justo cuando la Provincia le imputa multas millonarias a las billeteras en plena mora récord del consumo.",
+  "summary_line": "El Mercosur les da a las tiendas online un nuevo motivo para revisar su sitio -bajo riesgo de perder el dominio- justo cuando Mercado Libre eleva la vara de automatización sumando robots humanoides a su logística.",
   "counters": {
-    "news_today": 1,
-    "news_total": 43,
+    "news_today": 3,
+    "news_total": 44,
     "events_upcoming": 79,
-    "events_ar_upcoming": 44,
-    "events_intl_upcoming": 35,
+    "events_ar_upcoming": 43,
+    "events_intl_upcoming": 36,
     "events_later": 25,
     "opportunities_open": 8,
-    "opportunities_today": 3,
-    "ai_today": 2,
-    "ai_to_try": 41,
-    "content_ideas": 67,
-    "added_news": 1,
+    "opportunities_today": 1,
+    "ai_today": 3,
+    "ai_to_try": 42,
+    "content_ideas": 70,
+    "added_news": 3,
     "updated_news": 0,
     "added_events": 1,
-    "updated_events": 4,
-    "added_ai": 2,
-    "archived": 9,
+    "updated_events": 3,
+    "added_ai": 3,
+    "archived": 4,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,39 +34,32 @@
   },
   "highlights": [
     {
-      "id": "nw-a078df0a95",
+      "id": "nw-1707cb90c3",
       "kind": "news",
-      "title": "La Provincia de Buenos Aires imputa formalmente a Mercado Pago, Ualá y otras billeteras con multas de hasta $1.883 millones",
+      "title": "Mercosur exige a las tiendas online informar los derechos del consumidor, bajo riesgo de baja de dominio",
       "priority": "alta",
-      "one_liner": "El frente bonaerense contra las fintech pasa de la investigación a una imputación formal con montos concretos, justo en medio de la mora récord de las familias."
+      "one_liner": "Por primera vez el bloque liga el cumplimiento de reglas de protección al consumidor con la continuidad técnica del dominio de una tienda online."
+    },
+    {
+      "id": "op-bb00020f",
+      "kind": "opportunity",
+      "title": "Avisar a los clientes eCommerce sobre la Resolución 31/26 de Mercosur antes de que arriesguen la baja del dominio",
+      "priority": "relevante",
+      "one_liner": "Es una ventana concreta para que Fixy ayude a sus clientes a cumplir antes de que un reclamo derive en la baja del dominio."
+    },
+    {
+      "id": "ai-openai-data-agent-en-chatgpt-work",
+      "kind": "ai",
+      "title": "Data Agent en ChatGPT Work",
+      "priority": "relevante",
+      "one_liner": "Permite armar reportes de despachos y SLA por transportista conectando las planillas de Fixy, sin depender de un analista ni de una herramienta de BI aparte."
     },
     {
       "id": "ev-logistico-management-2026",
       "kind": "event",
       "title": "Management Logístico 2026",
-      "priority": "alta",
-      "one_liner": "El 16 de septiembre en CABA hay un panel sobre depósitos periféricos y micro hubs directamente relevante para la estrategia de fulfillment y última milla de Fixy."
-    },
-    {
-      "id": "ai-google-google-ads-migracion-automatica-a-ai-max-en-campanas-",
-      "kind": "ai",
-      "title": "Google Ads: migración automática a AI Max en campañas de Búsqueda",
       "priority": "relevante",
-      "one_liner": "Google ya está migrando de oficio las campañas de Búsqueda de Fixy a IA, y marketing tiene hasta fin de mes para revisar que la segmentación y el mensaje no se hayan movido solos."
-    },
-    {
-      "id": "op-1367c0b1",
-      "kind": "opportunity",
-      "title": "Revisar las campañas de Google Ads antes de que termine la migración automática a AI Max",
-      "priority": "relevante",
-      "one_liner": "Es una ventana concreta de acción antes de fin de mes para no perder control sobre el mensaje y el costo por resultado de la pauta de Fixy."
-    },
-    {
-      "id": "nw-c30ff46b60",
-      "kind": "news",
-      "title": "El puerto de Montevideo normalizó su operativa, pero el conflicto sigue abierto",
-      "priority": "relevante",
-      "one_liner": "La vuelta a la actividad baja el riesgo inmediato, pero mientras no se resuelva el pedido de esencialidad la amenaza de nuevas paralizaciones sigue latente para la carga que pasa por Montevideo."
+      "one_liner": "Mañana miércoles CEDOL, ARLOG y FADEEAC debaten en CABA rentabilidad y costos del sector, con un panel sobre depósitos periféricos y micro hubs directamente relevante para Fixy."
     }
   ]
 }
