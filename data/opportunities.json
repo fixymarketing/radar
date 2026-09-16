@@ -1,5 +1,50 @@
 [
   {
+    "title": "Repensar la tarifa para pedidos de bajo ticket ante la baja del piso de envío gratis en Meli+",
+    "context": "Mercado Libre bajó a $15.000 el piso de envío gratis para usuarios Meli+, lo que va a multiplicar los pedidos de bajo valor. En ese tipo de operación el costo logístico pesa proporcionalmente mucho más sobre el ticket final, y son justamente los clientes de Fixy que venden en Mercado Libre los que van a sentir ese apriete de margen.",
+    "action": "Analizar con los clientes que operan en Mercado Libre el impacto del piso de $15.000 sobre su volumen de pedidos chicos, y ofrecerles una tarifa diferencial o un esquema de consolidación de envíos de bajo valor para sostener el margen.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.cronista.com/negocios/fuerte-apuesta-de-mercado-libre-en-envios-gratis-para-ganar-mas-usuarios-premium/",
+    "linked": [
+      "Mercado Libre baja a $15.000 el piso para envíos gratis en Meli+"
+    ],
+    "id": "op-4fce4abd",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "Asistir hoy a Management Logístico 2026 por el panel de depósitos periféricos y micro hubs",
+    "context": "El evento se realiza hoy en CABA e incluye un panel específico sobre depósitos periféricos y micro hubs, algo directamente relacionado con la estrategia de fulfillment y última milla de Fixy, además de ser una instancia de networking con proveedores y clientes del sector.",
+    "action": "Enviar a alguien de operaciones o comercial a Management Logístico 2026 hoy, priorizando el panel de depósitos periféricos y micro hubs, y relevar contactos de proveedores y potenciales clientes.",
+    "type": "estratégica",
+    "priority": "alta",
+    "source_url": "https://mlencuentro.enfasis.com/",
+    "linked": [
+      "Management Logístico 2026"
+    ],
+    "id": "op-981e51ec",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "Prospectar comercios de cercanía que están migrando a la venta online",
+    "context": "Las ventas online de comercios de cercanía crecieron 17,6% en agosto pese a que el retail pyme en general sigue cayendo, lo que muestra que la migración a lo digital de este segmento no depende del ciclo económico. Es un universo de negocios chicos y medianos que hoy probablemente resuelve la logística de manera artesanal.",
+    "action": "Armar una oferta comercial acotada de fulfillment y última milla pensada para comercios de barrio que recién empiezan a vender online, usando el dato de crecimiento del 17,6% como gancho de prospección.",
+    "type": "nueva línea de negocio",
+    "priority": "relevante",
+    "source_url": "https://www.apfdigital.com.ar/noticias/2026/09/07/470066-came-alerto-que-las-ventas-minoristas-pyme-descendieron-0_2por_ciento-interanual-en-agosto",
+    "linked": [
+      "Las ventas online de comercios de cercanía crecieron 17,6% en agosto pese a la caída del retail pyme"
+    ],
+    "id": "op-8a557801",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
+  },
+  {
     "title": "Avisar a los clientes eCommerce sobre la Resolución 31/26 de Mercosur antes de que arriesguen la baja del dominio",
     "context": "El Mercosur aprobó una resolución que obliga a las tiendas online a mostrar de forma clara los derechos del consumidor y las condiciones de contratación, con la baja del DNS como sanción posible ante un incumplimiento. Es la primera vez que el bloque liga directamente el cumplimiento de estas reglas con la continuidad técnica del dominio de una tienda.",
     "action": "Enviar una comunicación breve a los clientes de Fixy con tienda propia explicando qué información tienen que mostrar, y ofrecerles ayuda para revisar que su sitio la tenga antes de que llegue un reclamo.",
@@ -73,49 +118,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-13",
     "first_seen": "2026-09-13"
-  },
-  {
-    "title": "Pilotear transcripción automática de reclamos por audio en atención al cliente",
-    "context": "Fixy ya tenía en el radar a Gemini 3.5 Transcribe para pasar a texto audios de WhatsApp y llamadas; hoy se sumó GPT-Live-1 de OpenAI, un modelo de voz full-duplex que también podría servir como base de un contestador automático de \"¿dónde está mi pedido?\" fuera de horario.",
-    "action": "Elegir una de las dos herramientas y correr una prueba piloto de dos semanas en atención al cliente, midiendo el tiempo ahorrado en el registro de reclamos por audio.",
-    "type": "estratégica",
-    "priority": "informativo",
-    "source_url": "https://openai.com/index/introducing-gpt-live/",
-    "linked": [
-      "GPT-Live-1",
-      "Gemini 3.5 Transcribe"
-    ],
-    "id": "op-3dbcf988",
-    "source_kind": "auto",
-    "last_updated": "2026-09-13",
-    "first_seen": "2026-09-13"
-  },
-  {
-    "title": "Medir el volumen de mensajes de servicio en WhatsApp antes del cobro de Meta en octubre",
-    "context": "Desde el 1° de octubre Meta cobra los mensajes de servicio de WhatsApp Business que superen los 1.000 gratis por número y por mes, al mismo valor que las plantillas de utilidad. Fixy usa WhatsApp para seguimiento de pedidos, reclamos y coordinación de entregas con clientes finales.",
-    "action": "Auditar cuántos mensajes de servicio manda hoy Fixy por WhatsApp Business y decidir, antes de octubre, si conviene derivar las consultas repetitivas (\"¿dónde está mi pedido?\") a un bot o a las FAQ, o repartir el volumen en más de un número, para no pagar de más.",
-    "type": "estratégica",
-    "priority": "alta",
-    "source_url": "https://www.infobae.com/tecno/2026/09/06/whatsapp-business-cobrara-por-responder-mensajes-en-2026-a-quienes-afecta-y-a-quienes-no/",
-    "linked": [],
-    "id": "op-e99485c3",
-    "source_kind": "auto",
-    "last_updated": "2026-09-12",
-    "first_seen": "2026-09-12"
-  },
-  {
-    "title": "Evaluar un piloto de automatización física en el fulfillment ante el salto de Mercado Libre con robots",
-    "context": "Mercado Libre confirmó un acuerdo con Agility Robotics para sumar robots humanoides a su logística, sumado a agentes de IA que ya prueba en la operación de entregas. Es la primera señal fuerte de que el líder regional está llevando la automatización física del picking y el packing a escala real.",
-    "action": "Relevar proveedores de automatización de depósito (robots colaborativos, sorters, WMS con IA) y evaluar un piloto acotado en el centro de mayor volumen de Fixy, aunque sea a escala reducida, para no quedar años atrás del estándar que empieza a fijar Mercado Libre.",
-    "type": "estratégica",
-    "priority": "relevante",
-    "source_url": "https://www.iproup.com/innovacion/71442-mercado-libre-ya-prueba-agentes-de-ia-y-robots-para-entregas",
-    "linked": [
-      "Mercado Libre confirma un acuerdo con Agility Robotics para sumar robots humanoides a su logística"
-    ],
-    "id": "op-b4c99817",
-    "source_kind": "auto",
-    "last_updated": "2026-09-12",
-    "first_seen": "2026-09-12"
   }
 ]

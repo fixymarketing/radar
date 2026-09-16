@@ -1,29 +1,5 @@
 [
   {
-    "title": "La Ciudad de Buenos Aires habilita pruebas con autos sin conductor y robots de reparto en la vía pública",
-    "what_happened": "La Secretaría de Transporte porteña publicó la Resolución 170/SECT/26 (Boletín Oficial de la Ciudad, 18/8) y la Resolución 175/SECT/26 (firmada el 19/8 y publicada el 25/8), que crean un régimen de autorización para probar en la vía pública vehículos autónomos, robots terrestres de reparto y drones aéreos operados por empresas y desarrolladores. Los robots terrestres podrán circular a menos de 20 km/h por veredas, parques y corredores logísticos para tareas como reparto de carga liviana, y los drones podrán operar bajo modalidad BVLOS (sin contacto visual del piloto) en zonas, días y horarios específicamente aprobados, con habilitación previa de ANAC. Cada empresa interesada debe tramitar un",
-    "why_it_matters": "Es la primera vez que una jurisdicción argentina habilita pruebas reales en la vía pública de vehículos autónomos y drones de reparto, lo que abre la puerta a que operadores de última milla empiecen a testear estas tecnologías en Buenos Aires antes que en el resto del país.",
-    "fixy_impact": "Aunque hoy no hay operaciones comerciales confirmadas, el marco recién creado es una ventana para que Fixy explore pilotos de robots o drones de reparto en el AMBA antes que la competencia, y para empezar a monitorear cómo podría evolucionar el costo y la regulación de la última milla urbana en los próximos años.",
-    "category": "Última milla",
-    "geo": "Argentina",
-    "source_name": "iProfesional",
-    "source_url": "https://www.iprofesional.com/negocios/463009-la-ciudad-abre-la-puerta-al-delivery-con-drones-y-crea-un-nuevo-negocio-para-las-empresas",
-    "published_date": "2026-08-25",
-    "priority": "informativo",
-    "tags": [
-      "última milla",
-      "drones",
-      "robots de reparto",
-      "regulación",
-      "CABA"
-    ],
-    "id": "nw-b5766a9c5d",
-    "source_kind": "auto",
-    "last_updated": "2026-08-26",
-    "first_seen": "2026-08-24",
-    "updated_flag": true
-  },
-  {
     "title": "El eCommerce Day Argentina 2026 llega a su edición número 200 el jueves 27 de agosto",
     "what_happened": "El evento se realizó el 27 de agosto en el Centro de Convenciones de Buenos Aires y, según el balance oficial difundido el 1° de septiembre, reunió a más de 7.000 inscriptos y 140 speakers nacionales e internacionales bajo el lema \"Retail, Digital Channels & AI Revolution\". En el marco de la jornada se lanzó BRIDGE, una plataforma internacional impulsada por el eCommerce Institute junto al European Institute for Commerce Management (EICOM) para conectar organizaciones y talento de 14 países, con proyección a 2027.",
     "why_it_matters": "El balance confirma que el evento sostiene su convocatoria pese al contexto de consumo débil y consolida a la IA y el comercio unificado como los ejes que va a discutir la industria durante el resto del año.",
@@ -70,29 +46,6 @@
     "last_updated": "2026-09-04",
     "first_seen": "2026-08-27",
     "updated_flag": true
-  },
-  {
-    "title": "Las importaciones vía courier ya suman US$751 millones en 2026 y podrían superar todo 2025 antes de septiembre",
-    "what_happened": "En los primeros siete meses de 2026 las compras internacionales canalizadas por courier (Shein, Temu, Amazon, entre otras) sumaron US$751 millones, un 84% más que en el mismo período de 2025, según un informe de la consultora Analytica basado en datos de INDEC. La cifra quedó a solo US$143 millones del total importado por esta vía en todo 2025 (US$894 millones) y, de mantenerse el ritmo actual, podría superarlo antes de que termine septiembre.",
-    "why_it_matters": "Confirma que la compra transfronteriza dejó de ser un fenómeno ocasional y se consolidó como un canal de consumo relevante para el comprador argentino, lo que presiona a los operadores locales de última milla y fulfillment que compiten por captar ese volumen creciente de paquetes chicos.",
-    "fixy_impact": "El crecimiento sostenido del canal courier internacional confirma que la demanda de distribución de paquetes pequeños seguirá en alza, un segmento donde Fixy puede diferenciarse ofreciendo tiempos de entrega locales más rápidos que los del courier internacional.",
-    "category": "eCommerce",
-    "geo": "Argentina",
-    "source_name": "Infobae (con datos de Analytica e INDEC)",
-    "source_url": "https://www.infobae.com/economia/2026/08/25/las-importaciones-via-courier-llegaron-a-usd-751-millones-en-los-primeros-7-meses-del-ano-y-se-acercan-al-total-de-2025/",
-    "published_date": "2026-08-25",
-    "priority": "relevante",
-    "tags": [
-      "courier",
-      "importaciones",
-      "Shein",
-      "Temu",
-      "compras internacionales"
-    ],
-    "id": "nw-54a57f97a7",
-    "source_kind": "auto",
-    "last_updated": "2026-08-28",
-    "first_seen": "2026-08-28"
   },
   {
     "title": "El consumo masivo cayó 3,7% en el segundo trimestre, con una baja del 6,8% en el AMBA, pero el comercio electrónico creció 41%",
@@ -182,29 +135,6 @@
       "CASEL"
     ],
     "id": "nw-de69cc8e6c",
-    "source_kind": "auto",
-    "last_updated": "2026-08-29",
-    "first_seen": "2026-08-29"
-  },
-  {
-    "title": "Galperin salió a responder las críticas por la mora en los créditos de Mercado Pago",
-    "what_happened": "Tras la investigación que impulsan diputados de la oposición sobre billeteras virtuales, Marcos Galperin difundió datos propios el 25 de agosto: Mercado Pago concentra el 19% de las personas morosas del sistema pero solo el 2,9% de la deuda impaga total, con una deuda mediana por persona de $116.000, muy por debajo de la mediana de $1,46 millones de la banca pública. El vocero presidencial, por su parte, ratificó que el Gobierno no intervendrá en el mercado crediticio.",
-    "why_it_matters": "Es la primera respuesta pública y con datos propios de Mercado Libre al escrutinio legislativo sobre la mora en fintechs, en momentos en que crece la presión regulatoria sobre las billeteras virtuales por sus políticas de crédito.",
-    "fixy_impact": null,
-    "category": "Fintech",
-    "geo": "Argentina",
-    "source_name": "iProUP",
-    "source_url": "https://www.iproup.com/finanzas/70981-marcos-galperin-morosidad-prestamos-mercado-pago-billetera-virtual-critica-respuesta-bancos-agosto-2026",
-    "published_date": "2026-08-25",
-    "priority": "informativo",
-    "tags": [
-      "Mercado Pago",
-      "mora",
-      "fintech",
-      "crédito",
-      "regulación"
-    ],
-    "id": "nw-5d47870392",
     "source_kind": "auto",
     "last_updated": "2026-08-29",
     "first_seen": "2026-08-29"
@@ -1012,5 +942,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-15",
     "first_seen": "2026-09-15"
+  },
+  {
+    "title": "Mercado Libre presenta \"Efecto MELI\": su ecosistema ya representa el 1% del PBI argentino",
+    "what_happened": "Durante la segunda edición de Mercado Libre Experience (10 de septiembre, La Rural, más de 10.000 asistentes), la compañía presentó el informe \"Efecto MELI\": en 2025 su ecosistema generó más de US$5.400 millones de valor agregado (equivalente a casi el 1% del PBI) y sostuvo 126.500 puestos de trabajo directos e indirectos. Más de 3,5 millones de pymes y emprendedores operaron en la plataforma durante el año, de los cuales casi 42.000 comenzaron a vender en 2025, y dos de cada tres envíos cruzaron al menos una frontera provincial.",
+    "why_it_matters": "El informe confirma que Mercado Libre ya funciona como infraestructura económica de escala nacional, con una adopción de IA entre pymes vendedoras que se acelera (casi la mitad la usó por primera vez) y una expansión geográfica del comercio que llega cada vez a más ciudades del interior.",
+    "fixy_impact": "El crecimiento de pymes que venden a provincias donde antes no llegaban amplía la demanda potencial de soluciones de fulfillment y última milla fuera del AMBA.",
+    "category": "Marketplaces",
+    "geo": "Argentina",
+    "source_name": "El Cronista",
+    "source_url": "https://www.cronista.com/finanzas-mercados/mercado-libre-ya-mueve-casi-el-1-del-pbi-argentino-que-esperar-para-la-accion/",
+    "published_date": "2026-09-15",
+    "priority": "relevante",
+    "tags": [
+      "Mercado Libre",
+      "Efecto MELI",
+      "pymes",
+      "IA",
+      "PBI"
+    ],
+    "id": "nw-74e3417973",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "El consumo privado acumula nueve meses consecutivos de caída interanual",
+    "what_happened": "Según el indicador de consumo privado de la Universidad de Palermo, el consumo cayó 0,6% interanual en agosto y 1,2% respecto de julio, la novena baja interanual consecutiva. Dentro de ese total, el consumo masivo retrocedió 4,9% interanual y acumula una baja de 3,2% en lo que va de 2026, mientras que los servicios recreativos y de turismo cayeron 5,7% interanual.",
+    "why_it_matters": "El dato de agosto muestra que la retracción del consumo no fue un fenómeno puntual del segundo trimestre sino una tendencia que se sostiene mes a mes, lo que sigue presionando tickets promedio y volúmenes de venta para comercios y operadores logísticos.",
+    "fixy_impact": null,
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Noticias Argentinas",
+    "source_url": "https://noticiasargentinas.com/economia/el-consumo-privado-bajo-0-6--en-agosto-y-registro-su-novena-caida-interanual-consecutiva_a6aa808bd5c394c5a0155cb8c",
+    "published_date": "2026-09-14",
+    "priority": "informativo",
+    "tags": [
+      "consumo",
+      "consumo masivo",
+      "indicadores económicos",
+      "agosto"
+    ],
+    "id": "nw-9d4308c126",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
   }
 ]

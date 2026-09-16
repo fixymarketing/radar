@@ -688,5 +688,75 @@
     "source_kind": "auto",
     "last_updated": "2026-08-27",
     "first_seen": "2026-08-27"
+  },
+  {
+    "title": "La Ciudad de Buenos Aires habilita pruebas con autos sin conductor y robots de reparto en la vía pública",
+    "what_happened": "La Secretaría de Transporte porteña publicó la Resolución 170/SECT/26 (Boletín Oficial de la Ciudad, 18/8) y la Resolución 175/SECT/26 (firmada el 19/8 y publicada el 25/8), que crean un régimen de autorización para probar en la vía pública vehículos autónomos, robots terrestres de reparto y drones aéreos operados por empresas y desarrolladores. Los robots terrestres podrán circular a menos de 20 km/h por veredas, parques y corredores logísticos para tareas como reparto de carga liviana, y los drones podrán operar bajo modalidad BVLOS (sin contacto visual del piloto) en zonas, días y horarios específicamente aprobados, con habilitación previa de ANAC. Cada empresa interesada debe tramitar un",
+    "why_it_matters": "Es la primera vez que una jurisdicción argentina habilita pruebas reales en la vía pública de vehículos autónomos y drones de reparto, lo que abre la puerta a que operadores de última milla empiecen a testear estas tecnologías en Buenos Aires antes que en el resto del país.",
+    "fixy_impact": "Aunque hoy no hay operaciones comerciales confirmadas, el marco recién creado es una ventana para que Fixy explore pilotos de robots o drones de reparto en el AMBA antes que la competencia, y para empezar a monitorear cómo podría evolucionar el costo y la regulación de la última milla urbana en los próximos años.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "iProfesional",
+    "source_url": "https://www.iprofesional.com/negocios/463009-la-ciudad-abre-la-puerta-al-delivery-con-drones-y-crea-un-nuevo-negocio-para-las-empresas",
+    "published_date": "2026-08-25",
+    "priority": "informativo",
+    "tags": [
+      "última milla",
+      "drones",
+      "robots de reparto",
+      "regulación",
+      "CABA"
+    ],
+    "id": "nw-b5766a9c5d",
+    "source_kind": "auto",
+    "last_updated": "2026-08-26",
+    "first_seen": "2026-08-24",
+    "updated_flag": true
+  },
+  {
+    "title": "Las importaciones vía courier ya suman US$751 millones en 2026 y podrían superar todo 2025 antes de septiembre",
+    "what_happened": "En los primeros siete meses de 2026 las compras internacionales canalizadas por courier (Shein, Temu, Amazon, entre otras) sumaron US$751 millones, un 84% más que en el mismo período de 2025, según un informe de la consultora Analytica basado en datos de INDEC. La cifra quedó a solo US$143 millones del total importado por esta vía en todo 2025 (US$894 millones) y, de mantenerse el ritmo actual, podría superarlo antes de que termine septiembre.",
+    "why_it_matters": "Confirma que la compra transfronteriza dejó de ser un fenómeno ocasional y se consolidó como un canal de consumo relevante para el comprador argentino, lo que presiona a los operadores locales de última milla y fulfillment que compiten por captar ese volumen creciente de paquetes chicos.",
+    "fixy_impact": "El crecimiento sostenido del canal courier internacional confirma que la demanda de distribución de paquetes pequeños seguirá en alza, un segmento donde Fixy puede diferenciarse ofreciendo tiempos de entrega locales más rápidos que los del courier internacional.",
+    "category": "eCommerce",
+    "geo": "Argentina",
+    "source_name": "Infobae (con datos de Analytica e INDEC)",
+    "source_url": "https://www.infobae.com/economia/2026/08/25/las-importaciones-via-courier-llegaron-a-usd-751-millones-en-los-primeros-7-meses-del-ano-y-se-acercan-al-total-de-2025/",
+    "published_date": "2026-08-25",
+    "priority": "relevante",
+    "tags": [
+      "courier",
+      "importaciones",
+      "Shein",
+      "Temu",
+      "compras internacionales"
+    ],
+    "id": "nw-54a57f97a7",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
+  },
+  {
+    "title": "Galperin salió a responder las críticas por la mora en los créditos de Mercado Pago",
+    "what_happened": "Tras la investigación que impulsan diputados de la oposición sobre billeteras virtuales, Marcos Galperin difundió datos propios el 25 de agosto: Mercado Pago concentra el 19% de las personas morosas del sistema pero solo el 2,9% de la deuda impaga total, con una deuda mediana por persona de $116.000, muy por debajo de la mediana de $1,46 millones de la banca pública. El vocero presidencial, por su parte, ratificó que el Gobierno no intervendrá en el mercado crediticio.",
+    "why_it_matters": "Es la primera respuesta pública y con datos propios de Mercado Libre al escrutinio legislativo sobre la mora en fintechs, en momentos en que crece la presión regulatoria sobre las billeteras virtuales por sus políticas de crédito.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "iProUP",
+    "source_url": "https://www.iproup.com/finanzas/70981-marcos-galperin-morosidad-prestamos-mercado-pago-billetera-virtual-critica-respuesta-bancos-agosto-2026",
+    "published_date": "2026-08-25",
+    "priority": "informativo",
+    "tags": [
+      "Mercado Pago",
+      "mora",
+      "fintech",
+      "crédito",
+      "regulación"
+    ],
+    "id": "nw-5d47870392",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
   }
 ]

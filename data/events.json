@@ -1,76 +1,6 @@
 [
   {
     "scope": "ar",
-    "name": "AWS Community Day Argentina 2026",
-    "organizer": "Comunidad de usuarios AWS Argentina",
-    "date_start": "2026-09-12",
-    "date_end": "2026-09-12",
-    "date_confirmed": true,
-    "date_note": "El sitio oficial (awsarg.org) confirma el evento para el sábado 12 de septiembre de 2026 en CABA; una agenda previa del radar lo tenía anotado para el 13 de septiembre. Se corrige la fecha al 12/09, que es la que figura en la fuente oficial y coincide con el día de la semana indicado (sábado).",
-    "city": "Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
-    "country": "Argentina",
-    "venue": "UAI - Universidad Abierta Interamericana",
-    "venue_confirmed": true,
-    "format": "híbrido",
-    "category": "Tecnología",
-    "url": "https://awsarg.org/",
-    "source_url": "https://www.eventbrite.com/e/aws-community-day-argentina-2026-tickets-1998376308333",
-    "description": "Evento tech gratuito de la comunidad AWS, de 9:30 a 17 hs, con más de 1000 asistentes presenciales y 2000 online, 5 tracks de charlas técnicas y workshops de niveles 100 a 400.",
-    "fixy_relevance": "Actualiza al equipo de sistemas de Fixy en tendencias de nube y automatización aplicables a la operación de fulfillment y a la infraestructura tecnológica del negocio.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-argentina-aws-community-day-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-07",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-08-23",
-        "fields": [
-          "organizer",
-          "date_start",
-          "date_end",
-          "date_note",
-          "city",
-          "province",
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
-      {
-        "date": "2026-08-30",
-        "fields": [
-          "organizer",
-          "province",
-          "venue",
-          "format",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
-      {
-        "date": "2026-09-07",
-        "fields": [
-          "organizer",
-          "province",
-          "venue",
-          "format",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
     "name": "Experiencia Endeavor Rosario 2026",
     "organizer": "Endeavor Argentina",
     "date_start": "2026-09-17",
@@ -396,32 +326,22 @@
     "city": "Rosario",
     "province": "Santa Fe",
     "country": "Argentina",
-    "venue": "Rosario Innovation Hub y sedes asociadas",
-    "venue_confirmed": false,
-    "format": "híbrido",
+    "venue": "Hub de Innovación de Rosario y sedes asociadas",
+    "venue_confirmed": true,
+    "format": "presencial",
     "category": "Tecnología",
     "url": "https://www.rosariotechweek.com/",
     "source_url": "https://www.rosariotechweek.com/",
-    "description": "Segunda edición de la semana tecnológica de Rosario: charlas, workshops, hackathons, pitches y networking construidos junto a startups, empresas, universidades e inversores de la región.",
-    "fixy_relevance": "Punto de contacto con el ecosistema tech y de startups del cordón industrial de Rosario/Santa Fe, zona clave de operación logística y agroexportadora para potenciales alianzas o clientes de eCommerce B2B.",
+    "description": "Segunda edición de la semana tecnológica de Rosario: charlas, workshops, hackathon y networking del ecosistema tech local, del 19 al 23 de octubre en el Hub de Innovación de Rosario.",
+    "fixy_relevance": "Es una plaza para conectar con proveedores de tecnología logística y talento IT de Rosario, ciudad clave para reforzar operaciones o alianzas de Fixy en el Litoral.",
     "justification_type": null,
-    "priority": "relevante",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-rosario-techweek-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-12",
+    "last_updated": "2026-09-16",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-21",
-        "fields": [
-          "organizer",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-29",
         "fields": [
@@ -470,6 +390,17 @@
           "fixy_relevance",
           "priority"
         ]
+      },
+      {
+        "date": "2026-09-16",
+        "fields": [
+          "venue",
+          "venue_confirmed",
+          "format",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
       }
     ]
   },
@@ -482,34 +413,24 @@
     "date_confirmed": true,
     "date_note": "Esta edición se extiende 12 días, del 20 al 31 de octubre, agrupando bajo un mismo paraguas eventos como SAIAConf, AI Weekend y Ekoparty.",
     "city": "Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
+    "province": "CABA",
     "country": "Argentina",
     "venue": "Centro Costa Salguero (sede principal), con actividades en otros espacios culturales, universidades y coworkings de la Ciudad",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Tecnología",
     "url": "https://www.tecweek.com.ar/",
-    "source_url": "https://www.cronista.com/infotechnology/actualidad/se-anuncio-tecweek-la-semana-de-las-tecnologias-emergentes-y-creativas-cuando-empieza-y-que-eventos-incluye-5128/",
-    "description": "Semana de tecnología e innovación de la Ciudad de Buenos Aires: 11 días, más de 23 encuentros y 600 speakers en ejes de IA, fintech, gaming, blockchain, cultura digital y emprendedurismo (incluye la pista 'Tecweek Emprende').",
-    "fixy_relevance": "Agenda extensa con eje Fintech y Emprende: oportunidad para posicionar a Fixy ante startups y marcas en etapa de escalamiento que necesitan resolver logística de eCommerce.",
+    "source_url": "https://www.tecweek.com.ar/",
+    "description": "Semana distribuida de tecnología e innovación en Buenos Aires, con charlas, laboratorios, hackathons y networking del ecosistema emprendedor porteño, del 20 al 31 de octubre.",
+    "fixy_relevance": "Punto de encuentro con el ecosistema de innovación y SaaS de Buenos Aires; sirve para relevar nuevas herramientas de gestión logística o eCommerce y para hacer networking comercial.",
     "justification_type": null,
-    "priority": "relevante",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-aires-buenos-tecweek-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-13",
+    "last_updated": "2026-09-16",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-28",
-        "fields": [
-          "date_note",
-          "province",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-30",
         "fields": [
@@ -558,6 +479,16 @@
           "source_url",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-16",
+        "fields": [
+          "province",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
         ]
       }
     ]
@@ -3670,15 +3601,15 @@
     "format": "presencial",
     "category": "Logística",
     "url": "https://www.logistecshow.cl/",
-    "source_url": "https://www.neventum.com/tradeshows/logistec-show",
-    "description": "Feria bienal de logística y transporte organizada por Revista Logistec en Santiago de Chile, con expositores de la cadena de suministro, almacenamiento y última milla de la región.",
-    "fixy_relevance": "Novedad concreta: se confirmó fecha y sede de la próxima edición (mayo 2027) de una feria logística de referencia en Chile, mercado clave para evaluar expansión regional y benchmarking de proveedores y tecnología de última milla.",
-    "justification_type": "expansión regional",
-    "priority": "informativo",
+    "source_url": "https://www.espacioriesco.cl/eventos/logistec-show-2/",
+    "description": "Feria bienal organizada por Revista Logistec, principal punto de encuentro de la industria de logística, transporte y supply chain en Chile y la región; tras una edición 2026 histórica, ya abrió preventa para la edición de mayo de 2027.",
+    "fixy_relevance": "Evento de referencia en Chile para conectar con actores del ecosistema logístico regional; relevante si Fixy evalúa expansión, alianzas o benchmarking de operación en el mercado chileno, y buena instancia de networking con pares de supply chain de Sudamérica.",
+    "justification_type": "networking",
+    "priority": "relevante",
     "beyond_90": true,
     "id": "ev-logistec-show-La o",
     "source_kind": "auto",
-    "last_updated": "2026-09-01",
+    "last_updated": "2026-09-16",
     "first_seen": "2026-08-21",
     "change_log": [
       {
@@ -3690,6 +3621,16 @@
           "date_note",
           "description",
           "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-16",
+        "fields": [
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type",
           "priority"
         ]
       }
@@ -4450,5 +4391,32 @@
     "source_kind": "auto",
     "last_updated": "2026-09-15",
     "first_seen": "2026-09-15"
+  },
+  {
+    "scope": "intl",
+    "name": "BrasilLOG 2027 (Feira Internacional de Logística)",
+    "organizer": "Feira Internacional de Logística – BrasilLOG (con apoyo institucional de SETCESP)",
+    "date_start": "2027-05-19",
+    "date_end": "2027-05-21",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Jundiaí",
+    "province": null,
+    "country": "Brasil",
+    "venue": "Parque da Uva (Parque Comendador Antônio Carbonari)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://feiradelogistica.com/",
+    "source_url": "https://feiradelogistica.com/a-feira/",
+    "description": "Feria internacional de logística que reúne a expositores de transporte, intralogística, automatización, almacenamiento y condominios logísticos; la edición 2026 movió R$15 millones en negocios y ya está confirmada la 12ª edición para mayo de 2027 en Jundiaí, uno de los polos logísticos más importantes de Brasil.",
+    "fixy_relevance": "Punto de encuentro con proveedores de tecnología de almacenamiento, transporte y automatización en uno de los polos logísticos más grandes de Sudamérica; sirve para benchmarking operativo y para mapear proveedores y soluciones aplicables a la operación de fulfillment de Fixy.",
+    "justification_type": "aprendizaje",
+    "priority": "relevante",
+    "beyond_90": true,
+    "id": "ev-brasillog-feira-internacional-logistica-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
   }
 ]

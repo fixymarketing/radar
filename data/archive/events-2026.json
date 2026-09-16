@@ -776,5 +776,75 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "AWS Community Day Argentina 2026",
+    "organizer": "Comunidad de usuarios AWS Argentina",
+    "date_start": "2026-09-12",
+    "date_end": "2026-09-12",
+    "date_confirmed": true,
+    "date_note": "El sitio oficial (awsarg.org) confirma el evento para el sábado 12 de septiembre de 2026 en CABA; una agenda previa del radar lo tenía anotado para el 13 de septiembre. Se corrige la fecha al 12/09, que es la que figura en la fuente oficial y coincide con el día de la semana indicado (sábado).",
+    "city": "Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "country": "Argentina",
+    "venue": "UAI - Universidad Abierta Interamericana",
+    "venue_confirmed": true,
+    "format": "híbrido",
+    "category": "Tecnología",
+    "url": "https://awsarg.org/",
+    "source_url": "https://www.eventbrite.com/e/aws-community-day-argentina-2026-tickets-1998376308333",
+    "description": "Evento tech gratuito de la comunidad AWS, de 9:30 a 17 hs, con más de 1000 asistentes presenciales y 2000 online, 5 tracks de charlas técnicas y workshops de niveles 100 a 400.",
+    "fixy_relevance": "Actualiza al equipo de sistemas de Fixy en tendencias de nube y automatización aplicables a la operación de fulfillment y a la infraestructura tecnológica del negocio.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-argentina-aws-community-day-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-07",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-08-23",
+        "fields": [
+          "organizer",
+          "date_start",
+          "date_end",
+          "date_note",
+          "city",
+          "province",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-08-30",
+        "fields": [
+          "organizer",
+          "province",
+          "venue",
+          "format",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "fields": [
+          "organizer",
+          "province",
+          "venue",
+          "format",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   }
 ]

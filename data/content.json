@@ -1054,5 +1054,51 @@
     "source_kind": "auto",
     "last_updated": "2026-09-15",
     "first_seen": "2026-09-15"
+  },
+  {
+    "topic": "Los comercios de barrio ya venden más online que offline: la logística de la proximidad digital",
+    "why_now": "El dato de agosto (+17,6% de ventas online en comercios de cercanía, mientras el retail pyme general cae) es fresco y contraintuitivo: muestra que la digitalización del comercio de proximidad avanza incluso con el consumo frenado.",
+    "fixy_angle": "Fixy puede mostrar cómo resolver la logística de un comercio chico que empieza a vender online (stock disperso, bajo volumen, entregas locales) sin necesitar la escala de un marketplace grande.",
+    "formats": [
+      "LinkedIn",
+      "nota",
+      "carrusel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.apfdigital.com.ar/noticias/2026/09/07/470066-came-alerto-que-las-ventas-minoristas-pyme-descendieron-0_2por_ciento-interanual-en-agosto",
+    "id": "ct-7480049e",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "topic": "Cuando el puerto de otro país frena tu logística: la dependencia argentina de Montevideo",
+    "why_now": "El conflicto en la terminal de contenedores de Montevideo escaló a paro indeterminado, después se normalizó y ahora el gobierno uruguayo declaró 'servicios mínimos' pero descartó la esencialidad, dejando la amenaza de nuevas paralizaciones abierta con pérdidas estimadas de US$400.000 a US$500.000 diarios.",
+    "fixy_angle": "Fixy puede explicar en términos simples qué significa para un eCommerce o importador argentino depender de un nodo portuario ajeno, y qué señales conviene monitorear antes de que un conflicto extranjero le pegue a un tiempo de entrega local.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.elobservador.com.uy/economia-y-empresas/gobierno-resolvio-no-aplicar-esencialidad-pero-si-declaro-servicios-minimos-terminal-cuenca-del-plata-que-implica-n6057020",
+    "id": "ct-36e135f3",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "topic": "El 'comprador derrotado': qué implica para la logística vender a alguien que solo compra en oferta",
+    "why_now": "El informe de NielsenIQ describe un consumidor estructuralmente más atento al precio y a la promoción, un comportamiento que atraviesa también al canal online y que la baja de la inflación todavía no revierte.",
+    "fixy_angle": "Fixy puede plantear cómo se prepara una operación logística para picos concentrados en días de oferta y promoción en lugar de una demanda pareja, y qué implica eso para el dimensionamiento de depósito y última milla.",
+    "formats": [
+      "artículo",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.infobae.com/economia/2026/09/13/clima-de-negocios-piruetas-para-bancar-el-changuito-y-la-aparicion-del-comprador-derrotado-en-medio-de-un-consumo-masivo-frenado/",
+    "id": "ct-14e883cd",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
   }
 ]

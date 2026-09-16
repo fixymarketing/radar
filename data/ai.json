@@ -1,5 +1,28 @@
 [
   {
+    "name": "Claude para pequeñas empresas: 43 flujos de trabajo y 27 integraciones",
+    "vendor": "Anthropic",
+    "what_it_is": "Es un complemento de Claude armado para pymes, con flujos de trabajo prearmados de finanzas, marketing, atención al cliente y operaciones, conectado directo a las apps que la empresa ya usa.",
+    "what_changed": "El 15 de septiembre de 2026 Anthropic amplió el plugin (más de 900.000 instalaciones desde su lanzamiento en mayo) a 43 flujos de trabajo y sumó 27 integraciones nuevas, entre ellas Shopify, Zapier, Square, Stripe, Salesforce, Xero, Gusto, TikTok, Atlassian y Zoom, además de las que ya tenía como QuickBooks, PayPal, HubSpot, Canva y Google Workspace.",
+    "fixy_use": "Fixy podría conectar Shopify o el checkout que usen los clientes junto con Zapier para que Claude arme reportes de ventas, borradores de respuestas a clientes o concilie pagos con Stripe/Square. Todos los flujos arrancan en modo aprobación (Claude prepara, una persona aprueba antes de enviar o pagar), así que se puede probar en tareas chicas de facturación o atención al cliente sin riesgo de que se mande algo sin revisar.",
+    "verdict": "probar",
+    "verdict_reason": "Trae integraciones directas con herramientas de comercio que calzan con el día a día de Fixy y arranca en modo aprobación, así que el riesgo de probarlo es bajo.",
+    "categories": [
+      "Operaciones",
+      "Automatización",
+      "Comercial",
+      "Gestión del tiempo"
+    ],
+    "pricing_note": "no confirmado — el plugin se instala sobre un plan de Claude existente, no se confirmó si tiene costo adicional propio",
+    "source_url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+    "published_date": "2026-09-15",
+    "priority": "alta",
+    "id": "ai-anthropic-claude-para-pequenas-empresas-43-flujos-de-trabajo",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
+  },
+  {
     "name": "Data Agent en ChatGPT Work",
     "vendor": "OpenAI",
     "what_it_is": "Un agente dentro de ChatGPT Work que se conecta a las fuentes de datos de la empresa (planillas, Google Drive, bases de datos, herramientas de BI) y arma paneles y reportes interactivos a partir de preguntas en lenguaje natural.",
@@ -288,6 +311,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-22",
     "first_seen": "2026-08-22"
+  },
+  {
+    "name": "WhatsApp Business Tools MCP",
+    "vendor": "Meta",
+    "what_it_is": "Es un servidor MCP que conecta agentes de IA como Claude, ChatGPT, Cursor o Codex directamente con la plataforma de WhatsApp Business, para configurar cuentas, números, plantillas de mensajes y webhooks charlando en vez de navegar el Developer Console.",
+    "what_changed": "Meta lo lanzó el 15 de septiembre de 2026, con despliegue gradual, para sacar de en medio el ida y vuelta manual entre Business Manager, la documentación de la API y el editor de código a la hora de dar de alta o modificar una cuenta de WhatsApp Business.",
+    "fixy_use": "Si Fixy necesita crear o ajustar plantillas de aviso de estado de pedido o webhooks de seguimiento por WhatsApp, alguien del equipo con conocimientos técnicos básicos puede pedirle a Claude o ChatGPT que resuelva la configuración en lugar de depender de un desarrollador externo o de aprender la consola de Meta a fondo. Achica el tiempo y el costo para lanzar o retocar automatizaciones de atención al cliente por WhatsApp.",
+    "verdict": "seguir",
+    "verdict_reason": "Es útil pero técnico y de despliegue gradual, conviene esperar a que esté disponible del todo y ver casos de uso concretos antes de invertirle tiempo.",
+    "categories": [
+      "Operaciones",
+      "Automatización",
+      "Comercial"
+    ],
+    "pricing_note": "gratis — el servidor MCP no tiene costo propio, se mantiene el costo habitual de los mensajes de WhatsApp Business",
+    "source_url": "https://developers.facebook.com/documentation/mcp/whatsapp-business-tools-mcp",
+    "published_date": "2026-09-15",
+    "priority": "relevante",
+    "id": "ai-meta-whatsapp-business-tools-mcp",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
   },
   {
     "name": "Zendesk: Traducción en tiempo real (chat y voz)",
@@ -1335,6 +1380,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-15",
     "first_seen": "2026-09-15"
+  },
+  {
+    "name": "Gemini en Workspace: paneles laterales unificados y acciones entre apps",
+    "vendor": "Google Workspace",
+    "what_it_is": "Es la actualización que iguala las funciones de Gemini en los paneles laterales de Gmail, Drive, Docs, Slides y Chat, para poder pedir una acción de una app estando parado en otra.",
+    "what_changed": "Google lo anunció el 9 de septiembre de 2026: antes cada panel de Gemini tenía funciones distintas según la app (armar un documento solo se podía desde Docs, por ejemplo); ahora, gracias a lo que Google llama Workspace Intelligence, se puede pedir desde Docs que Gemini mande un mail al equipo o desde Chat que agende una reunión, sin cambiar de pestaña.",
+    "fixy_use": "El equipo de Fixy podría, por ejemplo, armar en un Doc el resumen de un reclamo de un cliente y pedirle ahí mismo a Gemini que lo mande por mail a operaciones o que agende una reunión de seguimiento, sin saltar entre Gmail, Calendar y Docs. Ahorra pasos sueltos en la coordinación diaria entre áreas si ya pagan Google Workspace con Gemini incluido.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora de productividad real pero incremental sobre algo que Fixy ya podría estar usando, vale la pena probarla sin urgencia.",
+    "categories": [
+      "Productividad",
+      "Organización",
+      "Gestión del tiempo"
+    ],
+    "pricing_note": "pago — incluido en los planes de Google Workspace con complemento Gemini, el despliegue es gradual y puede tardar hasta 15 días en aparecer",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/09/create-content-schedule-events-and-coordinate-tasks-across-Workspace-regardless-of-what-app-you-are-in.html",
+    "published_date": "2026-09-09",
+    "priority": "informativo",
+    "id": "ai-google-workspace-gemini-en-workspace-paneles-laterales-unifi",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
   },
   {
     "name": "Agentes de IA de terceros en chats de WhatsApp",

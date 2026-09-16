@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-15T12:16:43.993Z",
-  "last_updated_ar": "15/09/2026, 09:16",
-  "date": "2026-09-15",
+  "generated_at": "2026-09-16T12:22:34.256Z",
+  "last_updated_ar": "16/09/2026, 09:22",
+  "date": "2026-09-16",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El Mercosur les da a las tiendas online un nuevo motivo para revisar su sitio -bajo riesgo de perder el dominio- justo cuando Mercado Libre eleva la vara de automatización sumando robots humanoides a su logística.",
+  "summary_line": "Un día marcado por Mercado Libre en dos frentes (robots en fulfillment y piso de envío gratis más bajo) que sube la vara de eficiencia y presiona el margen de los pedidos chicos, mientras el conflicto portuario de Montevideo y el consumo estancado siguen pesando sobre la logística regional.",
   "counters": {
-    "news_today": 3,
-    "news_total": 44,
-    "events_upcoming": 79,
+    "news_today": 2,
+    "news_total": 43,
+    "events_upcoming": 78,
     "events_ar_upcoming": 43,
-    "events_intl_upcoming": 36,
-    "events_later": 25,
+    "events_intl_upcoming": 35,
+    "events_later": 26,
     "opportunities_open": 8,
-    "opportunities_today": 1,
+    "opportunities_today": 3,
     "ai_today": 3,
-    "ai_to_try": 42,
-    "content_ideas": 70,
-    "added_news": 3,
+    "ai_to_try": 43,
+    "content_ideas": 73,
+    "added_news": 2,
     "updated_news": 0,
     "added_events": 1,
     "updated_events": 3,
     "added_ai": 3,
-    "archived": 4,
+    "archived": 7,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,32 +34,39 @@
   },
   "highlights": [
     {
-      "id": "nw-1707cb90c3",
+      "id": "nw-cef951e68f",
       "kind": "news",
-      "title": "Mercosur exige a las tiendas online informar los derechos del consumidor, bajo riesgo de baja de dominio",
+      "title": "Mercado Libre confirma un acuerdo con Agility Robotics para sumar robots humanoides a su logística",
       "priority": "alta",
-      "one_liner": "Por primera vez el bloque liga el cumplimiento de reglas de protección al consumidor con la continuidad técnica del dominio de una tienda online."
+      "one_liner": "El principal marketplace de la región integra robots humanoides y agentes de IA a su fulfillment, lo que eleva la vara de eficiencia que el resto del ecosistema va a tener que igualar."
     },
     {
-      "id": "op-bb00020f",
-      "kind": "opportunity",
-      "title": "Avisar a los clientes eCommerce sobre la Resolución 31/26 de Mercosur antes de que arriesguen la baja del dominio",
-      "priority": "relevante",
-      "one_liner": "Es una ventana concreta para que Fixy ayude a sus clientes a cumplir antes de que un reclamo derive en la baja del dominio."
-    },
-    {
-      "id": "ai-openai-data-agent-en-chatgpt-work",
-      "kind": "ai",
-      "title": "Data Agent en ChatGPT Work",
-      "priority": "relevante",
-      "one_liner": "Permite armar reportes de despachos y SLA por transportista conectando las planillas de Fixy, sin depender de un analista ni de una herramienta de BI aparte."
+      "id": "nw-2f99c38560",
+      "kind": "news",
+      "title": "Mercado Libre baja a $15.000 el piso para envíos gratis en Meli+",
+      "priority": "alta",
+      "one_liner": "Multiplica los pedidos de bajo ticket, un tipo de operación donde el costo logístico pesa proporcionalmente mucho más sobre el ticket final."
     },
     {
       "id": "ev-logistico-management-2026",
       "kind": "event",
       "title": "Management Logístico 2026",
+      "priority": "alta",
+      "one_liner": "Se hace hoy en CABA con un panel sobre depósitos periféricos y micro hubs directamente relevante para la estrategia de fulfillment y última milla de Fixy."
+    },
+    {
+      "id": "nw-0bb7e8fc5c",
+      "kind": "news",
+      "title": "Uruguay declara \"servicios mínimos\" en el puerto de Montevideo pero descarta la esencialidad",
       "priority": "relevante",
-      "one_liner": "Mañana miércoles CEDOL, ARLOG y FADEEAC debaten en CABA rentabilidad y costos del sector, con un panel sobre depósitos periféricos y micro hubs directamente relevante para Fixy."
+      "one_liner": "El conflicto portuario sigue sin resolverse de fondo y mantiene la incertidumbre sobre plazos y sobrecostos para la carga argentina que transita por el Río de la Plata."
+    },
+    {
+      "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
+      "kind": "ai",
+      "title": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
+      "priority": "relevante",
+      "one_liner": "Fixy tiene menos de dos semanas para medir su volumen de mensajes de servicio y decidir cómo evitar un sobrecosto cuando Meta empiece a cobrar en octubre."
     }
   ]
 }
