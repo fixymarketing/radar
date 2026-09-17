@@ -478,5 +478,20 @@
     "source_kind": "auto",
     "last_updated": "2026-09-12",
     "first_seen": "2026-09-12"
+  },
+  {
+    "title": "Prospectar pymes de Cuyo en eCommerce Go Mendoza 2026",
+    "context": "CACE organiza eCommerce Go Mendoza 2026 el 17 de septiembre en el Hilton Mendoza Hotel, un evento pensado para pymes y comercios de la región de Cuyo que están evaluando digitalizar sus ventas.",
+    "action": "Coordinar con comercial una presencia en el evento (stand, charla o networking) para captar prospects de fulfillment fuera de CABA/GBA.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://cace.org.ar/blogs/news/se-viene-el-ecommerce-go-mendoza",
+    "linked": [
+      "eCommerce Go Mendoza 2026"
+    ],
+    "id": "op-e0296797",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
   }
 ]

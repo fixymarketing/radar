@@ -3204,46 +3204,6 @@
     "first_seen": "2026-08-28"
   },
   {
-    "scope": "ar",
-    "name": "Potencia – Livingroom de Emprendedores 2026 (Salta Capital)",
-    "organizer": "Ministerio de Gobierno y Justicia de Salta y Livingroom",
-    "date_start": "2026-09-11",
-    "date_end": "2026-09-13",
-    "date_confirmed": true,
-    "date_note": "La edición Capital se extiende del 11 al 13 de septiembre según fuentes oficiales (salta.gob.ar), no es un evento de un solo día.",
-    "city": "Salta",
-    "province": "Salta",
-    "country": "Argentina",
-    "venue": "Centro de Convenciones de Salta",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Emprendimiento",
-    "url": "https://potencia.salta.gob.ar/capital-2026/",
-    "source_url": "https://www.salta.gob.ar/prensa/noticias/potencia-salta-2026-se-encuentra-disponible-el-listado-de-emprendedores-seleccionados-109507",
-    "description": "Feria provincial de emprendedores de Salta con cerca de mil participantes, stands de proyectos de toda la provincia, propuestas gastronómicas y espacios de networking.",
-    "fixy_relevance": "Emprendedores salteños en fase inicial que podrían necesitar fulfillment ligero al escalar sus ventas online desde el interior del país.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-capital-emprendedores-livingroom-potencia-salta-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-08",
-    "first_seen": "2026-08-28",
-    "change_log": [
-      {
-        "date": "2026-09-08",
-        "fields": [
-          "organizer",
-          "date_note",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
     "scope": "intl",
     "name": "Movimat 2026",
     "organizer": "RX Brazil",
@@ -4418,5 +4378,32 @@
     "source_kind": "auto",
     "last_updated": "2026-09-16",
     "first_seen": "2026-09-16"
+  },
+  {
+    "scope": "intl",
+    "name": "Seamless Middle East 2026",
+    "organizer": "Terrapinn",
+    "date_start": "2026-09-22",
+    "date_end": "2026-09-24",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Dubai",
+    "province": null,
+    "country": "Emiratos Árabes Unidos",
+    "venue": "Dubai World Trade Centre",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "eCommerce",
+    "url": "https://www.terrapinn.com/exhibition/seamless-middle-east/index.stm",
+    "source_url": "https://www.dwtc.com/en/events/seamless-2026/",
+    "description": "Una de las ferias de comercio digital, retail y pagos más grandes fuera de LATAM y EE.UU., organizada por Terrapinn en el Dubai World Trade Centre; reúne marcas, marketplaces, fintechs y proveedores de tecnología de la región Medio Oriente-África-Sur de Asia.",
+    "fixy_relevance": "No tiene conexión directa con Argentina ni LATAM, pero sirve como referencia de aprendizaje sobre tendencias globales de comercio digital, pagos y tecnología retail que podrían anticipar proveedores o modelos de negocio relevantes para la operación de Fixy.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-east-middle-seamless-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-17",
+    "first_seen": "2026-09-17"
   }
 ]

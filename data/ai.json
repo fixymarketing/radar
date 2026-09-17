@@ -313,6 +313,28 @@
     "first_seen": "2026-08-22"
   },
   {
+    "name": "Claude Docs y Claude Slides (Chat y Cowork unificados)",
+    "vendor": "Anthropic",
+    "what_it_is": "Anthropic unificó la interfaz de chat de Claude con Cowork (su producto para tareas más autónomas) en una sola ventana, y agregó funciones nativas para crear documentos colaborativos (Claude Docs) y presentaciones (Claude Slides) que se pueden exportar a PDF o PowerPoint.",
+    "what_changed": "Antes había que elegir entre la pestaña de chat o la de Cowork según la tarea; ahora Claude enruta automáticamente el pedido sin que el usuario tenga que decidir, y se suman Docs y Slides como funciones propias (antes solo se podía generar contenido para pegar en otras herramientas). Se anunció el 16 de septiembre de 2026 y empieza a llegar a los planes Pro y Max en web, escritorio y celular, con expansión posterior a los niveles gratis y equipos.",
+    "fixy_use": "El equipo de marketing o comercial podría armar en el mismo chat una presentación para un cliente potencial (tienda online que evalúa contratar el fulfillment de Fixy) y exportarla directo a PowerPoint, sin pasar por Canva o Google Slides. También sirve para redactar procedimientos internos (SOPs de operaciones o atención al cliente) como documento colaborativo editable, aprovechando el mismo hilo donde ya se analizó la información con Claude.",
+    "verdict": "probar",
+    "verdict_reason": "Es un cambio de flujo de trabajo (menos pasos entre analizar, escribir y presentar) sin costo extra para quien ya paga el plan Pro de Claude.",
+    "categories": [
+      "Productividad",
+      "Contenido",
+      "Organización"
+    ],
+    "pricing_note": "pago: incluido en el plan Pro individual y en los planes Team de Anthropic; según el anuncio llegará más adelante también a los niveles gratis y de equipos",
+    "source_url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "published_date": "2026-09-16",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-docs-y-claude-slides-chat-y-cowork-unificad",
+    "source_kind": "auto",
+    "last_updated": "2026-09-17",
+    "first_seen": "2026-09-17"
+  },
+  {
     "name": "WhatsApp Business Tools MCP",
     "vendor": "Meta",
     "what_it_is": "Es un servidor MCP que conecta agentes de IA como Claude, ChatGPT, Cursor o Codex directamente con la plataforma de WhatsApp Business, para configurar cuentas, números, plantillas de mensajes y webhooks charlando en vez de navegar el Developer Console.",

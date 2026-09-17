@@ -846,5 +846,45 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "Potencia – Livingroom de Emprendedores 2026 (Salta Capital)",
+    "organizer": "Ministerio de Gobierno y Justicia de Salta y Livingroom",
+    "date_start": "2026-09-11",
+    "date_end": "2026-09-13",
+    "date_confirmed": true,
+    "date_note": "La edición Capital se extiende del 11 al 13 de septiembre según fuentes oficiales (salta.gob.ar), no es un evento de un solo día.",
+    "city": "Salta",
+    "province": "Salta",
+    "country": "Argentina",
+    "venue": "Centro de Convenciones de Salta",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Emprendimiento",
+    "url": "https://potencia.salta.gob.ar/capital-2026/",
+    "source_url": "https://www.salta.gob.ar/prensa/noticias/potencia-salta-2026-se-encuentra-disponible-el-listado-de-emprendedores-seleccionados-109507",
+    "description": "Feria provincial de emprendedores de Salta con cerca de mil participantes, stands de proyectos de toda la provincia, propuestas gastronómicas y espacios de networking.",
+    "fixy_relevance": "Emprendedores salteños en fase inicial que podrían necesitar fulfillment ligero al escalar sus ventas online desde el interior del país.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-capital-emprendedores-livingroom-potencia-salta-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-08-28",
+    "change_log": [
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "organizer",
+          "date_note",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   }
 ]

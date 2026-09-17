@@ -117,29 +117,6 @@
     "first_seen": "2026-08-29"
   },
   {
-    "title": "Un estudio de CASEL revela que el 83% de los robos a transporte de mercadería golpea a utilitarios de reparto",
-    "what_happened": "La Cámara Argentina de Seguridad Electrónica (CASEL) publicó el 26 de agosto un relevamiento sobre 4.490 robos a transporte de mercadería en un período de 12 meses: el 83% recayó sobre camionetas y utilitarios de reparto, y solo el 17% sobre camiones grandes. El informe detalla que el 54% de los robos ocurre durante la carga o descarga y otro 27% en semáforos o paradas imprevistas.",
-    "why_it_matters": "Confirma con datos concretos que el crecimiento del eCommerce y del reparto puerta a puerta está corriendo el foco de la inseguridad vial hacia los vehículos chicos de última milla, no hacia el transporte de carga pesada, lo que exige repensar protocolos de entrega y tecnología de monitoreo específicamente para ese segmento.",
-    "fixy_impact": "Es un argumento de peso para revisar o reforzar la inversión en telemetría, cámaras y protocolos de carga/descarga en la flota de reparto propia y de terceros, dado que ese es exactamente el punto más vulnerable según el estudio.",
-    "category": "Última milla",
-    "geo": "Argentina",
-    "source_name": "Webpicking / CASEL",
-    "source_url": "https://webpicking.com/el-83-de-los-robos-al-transporte-de-mercaderia-golpea-a-los-vehiculos-utilitarios/",
-    "published_date": "2026-08-26",
-    "priority": "relevante",
-    "tags": [
-      "seguridad",
-      "última milla",
-      "robos",
-      "flota",
-      "CASEL"
-    ],
-    "id": "nw-de69cc8e6c",
-    "source_kind": "auto",
-    "last_updated": "2026-08-29",
-    "first_seen": "2026-08-29"
-  },
-  {
     "title": "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo escaló a un paro por tiempo indeterminado",
     "what_happened": "El conflicto en la Terminal Cuenca del Plata (TCP) de Montevideo, que arrastraba paros intermitentes desde el 28 de agosto por la renovación de un convenio colectivo entre el Sindicato Único Portuario y Ramas Afines (Supra) y el operador belga Katoen Natie, escaló: el sindicato hizo un paro sorpresivo el sábado 5 de septiembre y el lunes 7 pasó a una medida por tiempo indeterminado, con camiones esperando hasta 18 horas para poder ingresar. El martes 8 el gobierno uruguayo le dio un plazo de 72 horas al sindicato y a la empresa para cerrar un nuevo convenio y destrabar el conflicto.",
     "why_it_matters": "Montevideo es un nodo clave de transbordo para el comercio exterior argentino que usa el Río de la Plata, y esta nueva escalada eleva los tiempos de tránsito y genera pérdidas estimadas de entre US$400.000 y US$500.000 diarios para el transporte de cargas de la región.",
