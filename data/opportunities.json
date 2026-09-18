@@ -1,5 +1,35 @@
 [
   {
+    "title": "Posicionarse como socio de fulfillment y última milla para Shein y Temu si avanzan a una nueva fase en Argentina",
+    "context": "Mercado Libre reforzó su discurso logístico ante el avance de Shein y Temu, que ya se llevaron más de u$s700 millones del gasto online argentino este año. Si esas plataformas avanzan hacia una 'fase 2' con más volumen local, van a necesitar operadores del último tramo y servicios de fulfillment que hoy no tienen desarrollados en el país.",
+    "action": "Armar una propuesta de fulfillment y última milla para marketplaces internacionales que buscan escalar en Argentina, y acercarla a los referentes locales de Shein y Temu o a los integradores que ya trabajan con ellos.",
+    "type": "nueva línea de negocio",
+    "priority": "alta",
+    "source_url": "https://www.iprofesional.com/tecnologia/464619-mercado-libre-refuerza-su-estrategia-ante-el-avance-de-shein-y-temu-en-argentina",
+    "linked": [
+      "Mercado Libre refuerza su estrategia ante el avance de Shein y Temu en Argentina"
+    ],
+    "id": "op-bbc8500c",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "Anticipar la recuperación de demanda en el Interior antes que en CABA para la planificación de fin de año",
+    "context": "El Índice de Confianza del Consumidor de la Universidad Di Tella subió en septiembre por primera vez en tres meses, con una mejora liderada por el Interior del país mientras CABA todavía cae. Si la tendencia se sostiene, la demanda online podría repuntar antes en las provincias que en la Ciudad.",
+    "action": "Revisar con el equipo comercial la capacidad operativa en plazas del Interior de cara al Cyber Monday y el cierre de año, priorizando refuerzo de stock y rutas en las zonas donde la confianza mejoró más.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/09/17/la-confianza-del-consumidor-subio-24-en-septiembre-y-corto-dos-meses-de-caida/",
+    "linked": [
+      "La confianza del consumidor argentino subió en septiembre y cortó dos meses de caída"
+    ],
+    "id": "op-4b43ce02",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-18"
+  },
+  {
     "title": "Cuantificar los mensajes de servicio de WhatsApp antes de que arranque el cobro el 1° de octubre",
     "context": "Meta confirmó que desde el 1° de octubre cada número de WhatsApp Business tiene 1.000 mensajes de servicio gratis por mes y cobra el resto al valor de las plantillas de utilidad y autenticación de cada país. A Fixy le quedan menos de dos semanas para saber si su volumen de seguimiento de pedidos y coordinación de entregas con clientes finales supera ese límite.",
     "action": "Pedirle a operaciones que mida cuántos mensajes de servicio se mandan hoy por WhatsApp y decidir si conviene sumar un segundo número de WhatsApp Business o derivar las consultas repetitivas de \"¿dónde está mi pedido?\" a un bot o a las FAQ antes de que arranque el cobro.",
@@ -85,36 +115,6 @@
       "Google Ads: migración automática a AI Max en campañas de Búsqueda"
     ],
     "id": "op-1367c0b1",
-    "source_kind": "auto",
-    "last_updated": "2026-09-14",
-    "first_seen": "2026-09-14"
-  },
-  {
-    "title": "Pilotear informes automáticos con Copilot Notebooks a partir del Excel o Power BI de despachos",
-    "context": "Microsoft llevó a disponibilidad general que Copilot Notebooks use reportes de Power BI y archivos CSV o TSV como fuente, además de documentos, para generar resúmenes y presentaciones.",
-    "action": "Si Fixy ya paga Microsoft 365 Copilot, armar un piloto donde management le pida un resumen ejecutivo semanal de indicadores de entregas a partir del Excel o el dashboard de Power BI que ya usa el equipo, en vez de armarlo a mano cada semana.",
-    "type": "estratégica",
-    "priority": "relevante",
-    "source_url": "https://levelupm365.com/2026/09/01/microsoft-365-roadmap-updates-september-2026/",
-    "linked": [
-      "Copilot Notebooks: fuentes de datos ampliadas"
-    ],
-    "id": "op-02066858",
-    "source_kind": "auto",
-    "last_updated": "2026-09-14",
-    "first_seen": "2026-09-14"
-  },
-  {
-    "title": "Planificar con clientes el feriado mercantil del lunes 28 de septiembre",
-    "context": "El Día del Empleado de Comercio cae sábado 26 de septiembre, así que FAECYS y las cámaras firmantes del CCT 130/75 trasladaron el feriado al lunes 28. Ese día, trabajar bajo ese convenio implica pagar el 100% adicional, y muchos comercios van a estar cerrados.",
-    "action": "Avisar con anticipación a los clientes que despachan con Fixy sobre el cierre o el recargo del lunes 28 de septiembre, y coordinar si conviene adelantar despachos al viernes 25 para no perder volumen ni pagar el plus salarial sin necesidad.",
-    "type": "comercial",
-    "priority": "informativo",
-    "source_url": "https://www.cronista.com/economia-politica/dia-del-empleado-de-comercio-2026-confirmado-cuando-cae-y-que-pasara-con-el-feriado/",
-    "linked": [
-      "El feriado por el Día del Empleado de Comercio se traslada al lunes 28 de septiembre"
-    ],
-    "id": "op-3cc75878",
     "source_kind": "auto",
     "last_updated": "2026-09-14",
     "first_seen": "2026-09-14"

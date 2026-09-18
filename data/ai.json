@@ -313,6 +313,27 @@
     "first_seen": "2026-08-22"
   },
   {
+    "name": "Zendesk: escalamiento automático en Agentic Messaging",
+    "vendor": "Zendesk",
+    "what_it_is": "Es una función de los agentes de IA de mensajería de Zendesk que decide cuándo un chatbot dejó de poder resolver un caso solo.",
+    "what_changed": "Desde la actualización de septiembre de 2026, si el bot hace dos preguntas aclaratorias y el pedido del cliente sigue sin quedar claro, escala automáticamente a un agente humano en lugar de seguir preguntando en bucle, y se corrigió además el traspaso para que sea más fluido cuando termina un flujo automatizado.",
+    "fixy_use": "Fixy ya usa Zendesk (tiene en el radar la traducción en tiempo real). Esta mejora evita que un cliente con un reclamo de envío quede atrapado respondiéndole preguntas repetidas a un bot, y lo pasa directo a un agente humano de atención antes de que se frustre, algo clave en picos de reclamos por demoras de entrega.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora automática dentro de una herramienta que Fixy ya paga, pero conviene confirmar con el proveedor cómo se activa en el plan actual antes de dar por hecho que ya está funcionando.",
+    "categories": [
+      "Operaciones",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado: forma parte de los planes de AI Agents de Zendesk que Fixy ya tendría contratados, a confirmar si requiere un nivel superior",
+    "source_url": "https://support.zendesk.com/hc/en-us/articles/11180657600026-What-s-new-in-Zendesk-September-2026",
+    "published_date": null,
+    "priority": "relevante",
+    "id": "ai-zendesk-zendesk-escalamiento-automatico-en-agentic-messaging",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-18"
+  },
+  {
     "name": "Claude Docs y Claude Slides (Chat y Cowork unificados)",
     "vendor": "Anthropic",
     "what_it_is": "Anthropic unificó la interfaz de chat de Claude con Cowork (su producto para tareas más autónomas) en una sola ventana, y agregó funciones nativas para crear documentos colaborativos (Claude Docs) y presentaciones (Claude Slides) que se pueden exportar a PDF o PowerPoint.",
@@ -357,6 +378,29 @@
     "first_seen": "2026-09-16"
   },
   {
+    "name": "Gemini Notebook: voz en tiempo real e informes interactivos",
+    "vendor": "Google",
+    "what_it_is": "Gemini Notebook es el rebautizo de NotebookLM: una herramienta que responde preguntas, genera resúmenes, audio y video usando solo los documentos que uno le carga, sin salir a buscar en internet.",
+    "what_changed": "El 15 de septiembre de 2026 Google sumó conversación de voz en tiempo real en casi 100 idiomas (se puede interrumpir y cambiar de tema como en una charla real), un grabador de audio integrado en la app móvil, e 'informes interactivos' que combinan mapas mentales, tablas y gráficos navegables dentro de un mismo documento generado a partir de un pedido en lenguaje natural.",
+    "fixy_use": "Fixy podría cargar sus manuales de depósito, guías de atención al cliente y procedimientos de última milla en un notebook y que el personal nuevo pregunte por voz en vez de leer un PDF largo durante la capacitación. También sirve para armar informes interactivos con datos propios (SLA, incidencias, devoluciones) que management explore con gráficos y resúmenes sin tener que armar el documento a mano.",
+    "verdict": "probar",
+    "verdict_reason": "Resuelve un problema concreto de onboarding y reporting interno usando solo información propia de Fixy, sin exponerla a la web abierta.",
+    "categories": [
+      "Organización",
+      "Productividad",
+      "Análisis",
+      "Contenido"
+    ],
+    "pricing_note": "freemium: la app base es gratuita con límites, pero la voz en tiempo real y los informes interactivos arrancan primero para suscriptores de Google AI Ultra/Pro antes de llegar a todos",
+    "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/",
+    "published_date": "2026-09-15",
+    "priority": "relevante",
+    "id": "ai-google-gemini-notebook-voz-en-tiempo-real-e-informes-interac",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-18"
+  },
+  {
     "name": "Zendesk: Traducción en tiempo real (chat y voz)",
     "vendor": "Zendesk",
     "what_it_is": "Función de Zendesk que traduce automáticamente las conversaciones de chat en vivo y mensajería, y que ahora suma traducción de voz bidireccional en llamadas del centro de contacto, para que cliente y agente hablen cada uno en su propio idioma.",
@@ -398,6 +442,29 @@
     "source_kind": "auto",
     "last_updated": "2026-09-13",
     "first_seen": "2026-09-13"
+  },
+  {
+    "name": "Claude Marketplace: Gamma para presentaciones",
+    "vendor": "Anthropic",
+    "what_it_is": "El Claude Marketplace es una tienda de herramientas de terceros que se usan conversando directo dentro de Claude, sin salir de la app ni pagar por separado.",
+    "what_changed": "El 10 de septiembre de 2026 Anthropic sumó cinco socios nuevos (CrowdStrike, Cursor, Factory, Gamma y Vercel), llevando el total a once; Gamma en particular permite crear presentaciones y documentos con diseño automático pidiéndoselo por chat a Claude.",
+    "fixy_use": "El equipo comercial y de marketing de Fixy, que ya usa Claude según el radar, podría pedirle directamente que arme una presentación de venta o una propuesta para un cliente de eCommerce usando Gamma, sin abrir otra herramienta ni copiar y pegar contenido entre apps.",
+    "verdict": "probar",
+    "verdict_reason": "Acorta el camino entre tener la información y tener una presentación lista para mandar, dentro de una herramienta que el equipo ya usa.",
+    "categories": [
+      "Comercial",
+      "Marketing",
+      "Contenido",
+      "Productividad"
+    ],
+    "pricing_note": "no confirmado: el acceso a Gamma vía marketplace se paga con el presupuesto de Claude que la empresa ya tenga contratado, sin costo de procuración aparte",
+    "source_url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-updates-partner-program-as-enterprise-ai-adoption-grows/",
+    "published_date": "2026-09-10",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-marketplace-gamma-para-presentaciones",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-18"
   },
   {
     "name": "ChatGPT: Library Sharing (carpetas compartidas)",

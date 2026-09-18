@@ -318,7 +318,7 @@
   {
     "scope": "ar",
     "name": "Rosario TechWeek 2026",
-    "organizer": "Comunidad tech de Rosario (ecosistema startups, universidades y empresas)",
+    "organizer": "Comunidad Rosario Tech Week",
     "date_start": "2026-10-19",
     "date_end": "2026-10-23",
     "date_confirmed": true,
@@ -326,33 +326,22 @@
     "city": "Rosario",
     "province": "Santa Fe",
     "country": "Argentina",
-    "venue": "Hub de Innovación de Rosario y sedes asociadas",
+    "venue": "Sedes distribuidas en distintos espacios de Rosario (formato descentralizado)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Tecnología",
     "url": "https://www.rosariotechweek.com/",
     "source_url": "https://www.rosariotechweek.com/",
-    "description": "Segunda edición de la semana tecnológica de Rosario: charlas, workshops, hackathon y networking del ecosistema tech local, del 19 al 23 de octubre en el Hub de Innovación de Rosario.",
-    "fixy_relevance": "Es una plaza para conectar con proveedores de tecnología logística y talento IT de Rosario, ciudad clave para reforzar operaciones o alianzas de Fixy en el Litoral.",
+    "description": "Segunda edición de la semana tecnológica de Rosario, con charlas, talleres, hackathones y networking armados de forma colaborativa por startups, empresas, universidades e inversores de la región.",
+    "fixy_relevance": "Permite a Fixy conectar con el ecosistema tech y emprendedor de Rosario y el litoral, relevante para detectar proveedores tecnológicos y potenciales clientes eCommerce del interior.",
     "justification_type": null,
-    "priority": "informativo",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-rosario-techweek-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-16",
+    "last_updated": "2026-09-18",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-29",
-        "fields": [
-          "organizer",
-          "category",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-30",
         "fields": [
@@ -401,6 +390,16 @@
           "fixy_relevance",
           "priority"
         ]
+      },
+      {
+        "date": "2026-09-18",
+        "fields": [
+          "organizer",
+          "venue",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
       }
     ]
   },
@@ -411,38 +410,26 @@
     "date_start": "2026-10-20",
     "date_end": "2026-10-31",
     "date_confirmed": true,
-    "date_note": "Esta edición se extiende 12 días, del 20 al 31 de octubre, agrupando bajo un mismo paraguas eventos como SAIAConf, AI Weekend y Ekoparty.",
+    "date_note": "El sitio oficial tecweek.com.ar confirma del 20 al 31 de octubre; alguna fuente secundaria menciona el 21 como inicio.",
     "city": "Buenos Aires",
-    "province": "CABA",
+    "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro Costa Salguero (sede principal), con actividades en otros espacios culturales, universidades y coworkings de la Ciudad",
+    "venue": "Centro Costa Salguero, con actividades en universidades, coworkings y otros espacios de la Ciudad",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Tecnología",
     "url": "https://www.tecweek.com.ar/",
     "source_url": "https://www.tecweek.com.ar/",
-    "description": "Semana distribuida de tecnología e innovación en Buenos Aires, con charlas, laboratorios, hackathons y networking del ecosistema emprendedor porteño, del 20 al 31 de octubre.",
-    "fixy_relevance": "Punto de encuentro con el ecosistema de innovación y SaaS de Buenos Aires; sirve para relevar nuevas herramientas de gestión logística o eCommerce y para hacer networking comercial.",
+    "description": "Semana de tecnologías emergentes de la Ciudad de Buenos Aires, con charlas, hackatones, demos y networking en Costa Salguero y otros espacios, incluyendo SAIACONF.",
+    "fixy_relevance": "Punto de encuentro con startups, universidades y talento tech donde Fixy puede explorar herramientas de IA aplicadas a logística, atención al cliente y operaciones.",
     "justification_type": null,
-    "priority": "informativo",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-aires-buenos-tecweek-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-16",
+    "last_updated": "2026-09-18",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-30",
-        "fields": [
-          "organizer",
-          "date_note",
-          "province",
-          "format",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-09-05",
         "fields": [
@@ -486,6 +473,17 @@
         "fields": [
           "province",
           "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-18",
+        "fields": [
+          "date_note",
+          "province",
+          "venue",
           "description",
           "fixy_relevance",
           "priority"
@@ -4007,33 +4005,6 @@
   },
   {
     "scope": "ar",
-    "name": "ENLACETECH 2026",
-    "organizer": "Polo Tecnológico Bahía Blanca",
-    "date_start": "2026-09-14",
-    "date_end": "2026-09-14",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Bahía Blanca",
-    "province": "Buenos Aires",
-    "country": "Argentina",
-    "venue": "Rondeau 29, Bahía Blanca",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Tecnología",
-    "url": "https://enlacetech.com.ar/",
-    "source_url": "https://enlacetech.com.ar/",
-    "description": "Encuentro de tecnología, industria, talento y conocimiento del sur bonaerense, con bloques sobre emprendimiento, IA aplicada, talento e infraestructura regional, organizado por el Polo Tecnológico de Bahía Blanca.",
-    "fixy_relevance": "Evento nuevo del interior que conecta a Fixy con el ecosistema tech e industrial de Bahía Blanca, un polo logístico-portuario en crecimiento donde podría haber demanda de fulfillment y última milla regional.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-enlacetech-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-10",
-    "first_seen": "2026-09-10"
-  },
-  {
-    "scope": "ar",
     "name": "ePymes Day 2026",
     "organizer": "Andreani (Grupo Logístico Andreani)",
     "date_start": "2026-09-24",
@@ -4127,7 +4098,7 @@
   {
     "scope": "ar",
     "name": "Envase Alimentek 2026 (Tecnoalimentaria Córdoba)",
-    "organizer": "Instituto Argentino del Envase y Editorial Publitec",
+    "organizer": "Publitec Editorial e Instituto Argentino del Envase",
     "date_start": "2026-10-14",
     "date_end": "2026-10-16",
     "date_confirmed": true,
@@ -4135,21 +4106,33 @@
     "city": "Córdoba",
     "province": "Córdoba",
     "country": "Argentina",
-    "venue": "Centro de Convenciones Córdoba",
+    "venue": "Centro de Convenciones de Córdoba",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
     "url": "https://www.envasealimentek.com.ar/",
-    "source_url": "https://www.packaging.com.ar/envase-alimentek-2026/",
-    "description": "Primera Master Feria Tecno Alimentaria que combina Envase-Alimentek con Tecnoalimentaria: exposición de tecnología, packaging y servicios para toda la cadena de alimentos y bebidas, con espacio dedicado a envases y presentación de productos.",
-    "fixy_relevance": "Muchos clientes de Fixy son marcas de alimentos y bebidas que venden online; el evento permite relevar tendencias en packaging, sustentabilidad y automatización que impactan directamente en costos y procesos de picking y embalaje en el fulfillment.",
+    "source_url": "https://comercioyjusticia.info/negocios/tecnoalimentaria-2026-cordoba-se-consolida-como-punto-de-encuentro-de-la-industria-alimentaria/",
+    "description": "Feria conjunta de tecnología alimentaria y de envases que reúne proveedores de maquinaria, packaging y logística para la industria de alimentos y bebidas, con unos 6.000 visitantes esperados.",
+    "fixy_relevance": "Reúne proveedores de packaging y soluciones de acondicionamiento que Fixy puede evaluar para mejorar procesos de fulfillment y bajar costos de embalaje.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-alimentek-cordoba-envase-tecnoalimentaria-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-12",
-    "first_seen": "2026-09-12"
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-12",
+    "change_log": [
+      {
+        "date": "2026-09-18",
+        "fields": [
+          "organizer",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -4221,28 +4204,43 @@
     "scope": "ar",
     "name": "Congreso de Logística y Transporte 2026 (UNaB)",
     "organizer": "Universidad Nacional Guillermo Brown (UNaB)",
-    "date_start": null,
-    "date_end": null,
-    "date_confirmed": false,
-    "date_note": "La 1ª edición se realizó el sábado 15/11/2025 en el campus de la UNaB (Burzaco), bajo el lema 'Moviendo el Futuro', con más de 1.500 asistentes. El sitio oficial ya está activo como 'Congreso Logística y Transporte 2026' con inscripción abierta para asistentes, expositores y oradores, pero al momento de esta búsqueda no publica todavía la fecha exacta de la edición 2026 (por precedente, sería en n",
+    "date_start": "2026-11-07",
+    "date_end": "2026-11-07",
+    "date_confirmed": true,
+    "date_note": "Segunda edición; la fecha estaba antes sin confirmar y ya se definió para el sábado 7 de noviembre.",
     "city": "Burzaco",
     "province": "Buenos Aires",
     "country": "Argentina",
-    "venue": "Campus UNaB, Blas Parera 132, Burzaco (predio ex Quinta Rocca)",
-    "venue_confirmed": false,
+    "venue": "Campus de la Universidad Nacional Guillermo Brown, Blas Parera 132, Burzaco",
+    "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
     "url": "https://www.congresologistica.unab.edu.ar/",
-    "source_url": "https://www.inforegion.com.ar/2025/10/09/almirante-brown-sera-sede-de-un-congreso-de-logistica-y-transporte/",
-    "description": "Congreso de la Universidad Nacional Guillermo Brown sobre logística y transporte, con charlas, paneles, stands de empresas y demostraciones de unidades de transporte. La UNaB firmó además una alianza estratégica con ARLOG (Asociación Argentina de Logística Empresaria).",
-    "fixy_relevance": "Espacio de vinculación academia-empresa sobre logística en el sur del conurbano bonaerense, con participación de ARLOG y parques industriales; útil para relacionamiento institucional y detectar tendencias de Logística 4.0 y última milla. Se incluye con fecha por confirmar: verificar en el sitio oficial antes de publicar en la agenda definitiva.",
+    "source_url": "https://webpicking.com/la-unab-realizara-su-segundo-congreso-de-logistica-y-transporte/",
+    "description": "Segundo Congreso de Logística y Transporte organizado por la UNaB, con foco en innovación y desafíos del sector, dirigido a empresas, profesionales y expositores del sur del GBA.",
+    "fixy_relevance": "Espacio de networking de bajo costo con actores logísticos del sur del GBA, útil para detectar proveedores, tendencias operativas y potenciales alianzas para Fixy.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-congreso-logistica-transporte-unab-La 1",
     "source_kind": "auto",
-    "last_updated": "2026-09-13",
-    "first_seen": "2026-09-13"
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-13",
+    "change_log": [
+      {
+        "date": "2026-09-18",
+        "fields": [
+          "date_start",
+          "date_end",
+          "date_confirmed",
+          "date_note",
+          "venue_confirmed",
+          "description",
+          "fixy_relevance",
+          "source_url"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -4405,5 +4403,32 @@
     "source_kind": "auto",
     "last_updated": "2026-09-17",
     "first_seen": "2026-09-17"
+  },
+  {
+    "scope": "intl",
+    "name": "eCommerceFest Colombia 2026",
+    "organizer": "Cámara Colombiana de Comercio Electrónico (CCCE)",
+    "date_start": null,
+    "date_end": null,
+    "date_confirmed": false,
+    "date_note": "Estaba previsto para el 29 y 30 de septiembre de 2026, pero la CCCE lo postergó por las emergencias climáticas que afectan a varias regiones de Colombia. La nueva fecha todavía no fue anunciada; se comunicará por los canales oficiales de la CCCE.",
+    "city": "Bogotá",
+    "province": null,
+    "country": "Colombia",
+    "venue": "Por confirmar (la sede prevista para las fechas originales era el Hotel Grand Hyatt Bogotá)",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "eCommerce",
+    "url": "https://ecommercefest.com.co/",
+    "source_url": "https://ecommercefest.com.co/",
+    "description": "Es el evento sectorial más importante de comercio electrónico en Colombia, organizado por la CCCE, con foco en canales digitales, pagos, logística y experiencia de cliente; su edición 2026 fue postergada por la emergencia climática en el país y todavía no tiene nueva fecha confirmada.",
+    "fixy_relevance": "Uno de sus cuatro ejes temáticos oficiales es explícitamente la logística ágil y oportuna, lo que lo vuelve una fuente directa de inteligencia de mercado sobre el eCommerce colombiano y una instancia de networking con marcas, plataformas y operadores de ese ecosistema si Fixy evalúa vínculos o expansión regional. Conviene monitorear el anuncio de la nueva fecha antes de decidir viaje o participación.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-colombia-ecommercefest-Esta",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-18"
   }
 ]

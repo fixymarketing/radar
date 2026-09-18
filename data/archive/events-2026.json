@@ -886,5 +886,32 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "ENLACETECH 2026",
+    "organizer": "Polo Tecnológico Bahía Blanca",
+    "date_start": "2026-09-14",
+    "date_end": "2026-09-14",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Bahía Blanca",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Rondeau 29, Bahía Blanca",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Tecnología",
+    "url": "https://enlacetech.com.ar/",
+    "source_url": "https://enlacetech.com.ar/",
+    "description": "Encuentro de tecnología, industria, talento y conocimiento del sur bonaerense, con bloques sobre emprendimiento, IA aplicada, talento e infraestructura regional, organizado por el Polo Tecnológico de Bahía Blanca.",
+    "fixy_relevance": "Evento nuevo del interior que conecta a Fixy con el ecosistema tech e industrial de Bahía Blanca, un polo logístico-portuario en crecimiento donde podría haber demanda de fulfillment y última milla regional.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-enlacetech-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-10"
   }
 ]

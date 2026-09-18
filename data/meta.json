@@ -1,72 +1,65 @@
 {
-  "generated_at": "2026-09-17T12:17:03.300Z",
-  "last_updated_ar": "17/09/2026, 09:17",
-  "date": "2026-09-17",
+  "generated_at": "2026-09-18T12:22:23.437Z",
+  "last_updated_ar": "18/09/2026, 09:22",
+  "date": "2026-09-18",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El paro portuario de Montevideo pasó a tiempo indeterminado justo cuando Mercado Libre redobla la apuesta por la automatización —robots humanoides y menor piso de envío gratis— y expone que ya pesa el 1% del PBI argentino, mientras a Fixy le quedan menos de dos semanas para resolver el cobro de WhatsApp Business antes de octubre.",
+  "summary_line": "Mercado Libre redobla la apuesta logística para contener a Shein y Temu justo cuando el propio sector logístico debate cómo bajar costos en rutas deterioradas, mientras la confianza del consumidor asoma una primera señal de repunte que por ahora lidera el Interior y no CABA.",
   "counters": {
-    "news_today": 0,
-    "news_total": 42,
-    "events_upcoming": 75,
-    "events_ar_upcoming": 42,
-    "events_intl_upcoming": 33,
+    "news_today": 2,
+    "news_total": 41,
+    "events_upcoming": 72,
+    "events_ar_upcoming": 41,
+    "events_intl_upcoming": 31,
     "events_later": 26,
     "opportunities_open": 8,
-    "opportunities_today": 1,
-    "ai_today": 1,
-    "ai_to_try": 44,
-    "content_ideas": 75,
-    "added_news": 0,
-    "updated_news": 0,
+    "opportunities_today": 2,
+    "ai_today": 3,
+    "ai_to_try": 46,
+    "content_ideas": 78,
+    "added_news": 2,
+    "updated_news": 2,
     "added_events": 1,
-    "updated_events": 0,
-    "added_ai": 1,
-    "archived": 3,
+    "updated_events": 4,
+    "added_ai": 3,
+    "archived": 6,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-america-intra-log-south-2026",
-    "name": "INTRA-LOG Expo South America 2026",
-    "date_start": "2026-09-15",
-    "city": "São Paulo",
+    "id": "ev-argentina-feria-fip-internacional-portuaria-2026",
+    "name": "Feria Internacional Portuaria Argentina (FIP 2026)",
+    "date_start": "2026-09-17",
+    "city": "Mar del Plata",
     "days_away": 0
   },
   "highlights": [
     {
-      "id": "nw-cef951e68f",
+      "id": "nw-0c8bf64104",
       "kind": "news",
-      "title": "Mercado Libre confirma un acuerdo con Agility Robotics para sumar robots humanoides a su logística",
+      "title": "Mercado Libre refuerza su estrategia ante el avance de Shein y Temu en Argentina",
       "priority": "alta",
-      "one_liner": "El principal marketplace de la región integra robots humanoides a su fulfillment y eleva la vara de eficiencia que el resto del ecosistema va a tener que igualar."
+      "one_liner": "La disputa con las plataformas chinas se traslada a la logística local, y ahí es donde Fixy puede jugar un papel concreto."
     },
     {
-      "id": "nw-787ba1c861",
+      "id": "nw-00dbed05c4",
       "kind": "news",
-      "title": "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo escaló a un paro por tiempo indeterminado",
-      "priority": "alta",
-      "one_liner": "El conflicto en la principal terminal de contenedores de Montevideo pasó a un paro por tiempo indeterminado, con pérdidas diarias millonarias para la carga regional."
-    },
-    {
-      "id": "nw-2f99c38560",
-      "kind": "news",
-      "title": "Mercado Libre baja a $15.000 el piso para envíos gratis en Meli+",
-      "priority": "alta",
-      "one_liner": "Multiplica los pedidos de bajo ticket, un tipo de operación donde el costo logístico pesa proporcionalmente mucho más sobre el ticket final."
-    },
-    {
-      "id": "nw-74e3417973",
-      "kind": "news",
-      "title": "Mercado Libre presenta \"Efecto MELI\": su ecosistema ya representa el 1% del PBI argentino",
+      "title": "Management Logístico 2026 reúne a CEDOL, ARLOG y FADEEAC para debatir rentabilidad y costos del sector",
       "priority": "relevante",
-      "one_liner": "Mercado Libre cuantifica en 1% del PBI su peso económico, confirmando que ya funciona como infraestructura de escala nacional."
+      "one_liner": "El propio sector confirma que costos, tecnología y estado de las rutas son los tres frentes críticos de 2026."
     },
     {
-      "id": "ai-anthropic-claude-docs-y-claude-slides-chat-y-cowork-unificad",
+      "id": "nw-38ddbaba51",
+      "kind": "news",
+      "title": "La confianza del consumidor argentino subió en septiembre y cortó dos meses de caída",
+      "priority": "relevante",
+      "one_liner": "La mejora la lidera el Interior, no CABA, una señal a seguir para planificar capacidad de cara al fin de año."
+    },
+    {
+      "id": "ai-google-gemini-notebook-voz-en-tiempo-real-e-informes-interac",
       "kind": "ai",
-      "title": "Claude Docs y Claude Slides (Chat y Cowork unificados)",
+      "title": "Gemini Notebook: voz en tiempo real e informes interactivos",
       "priority": "relevante",
-      "one_liner": "Anthropic unifica el chat de Claude con Cowork y suma documentos y presentaciones nativas, un cambio de flujo de trabajo sin costo extra para quien ya paga el plan Pro."
+      "one_liner": "Permite armar capacitaciones por voz e informes interactivos con datos propios de Fixy, sin exponerlos a la web abierta."
     }
   ]
 }

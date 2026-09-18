@@ -1130,5 +1130,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-17",
     "first_seen": "2026-09-17"
+  },
+  {
+    "topic": "Shein y Temu ya movieron u$s700 millones en Argentina: la pelea se mudó a la logística",
+    "why_now": "Mercado Libre puso el tema en agenda pública en su propio evento de vendedores, mostrando que la disputa con las plataformas chinas ya no es solo de precio sino de quién entrega mejor y más rápido.",
+    "fixy_angle": "Fixy puede posicionarse como la pieza de última milla y fulfillment que cualquier marketplace que quiera crecer en Argentina necesita, sin tener que montar su propia red.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "alta",
+    "source_url": "https://www.iprofesional.com/tecnologia/464619-mercado-libre-refuerza-su-estrategia-ante-el-avance-de-shein-y-temu-en-argentina",
+    "id": "ct-dd1ada5f",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "topic": "El estado real de las rutas argentinas y lo que le cuesta a la logística",
+    "why_now": "FADEEAC presentó en Management Logístico 2026 un relevamiento de 22.700 km de rutas nacionales con deterioro de pavimento y obras inconclusas que elevan la siniestralidad y los costos operativos del transporte.",
+    "fixy_angle": "Fixy puede mostrar cómo planifica rutas y tiempos de entrega considerando el estado real de la infraestructura, en vez de prometer plazos que no contemplan ese costo oculto.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.perfil.com/noticias/empresas-y-protagonistas/management-logistico-2026-pone-en-agenda-los-desafios-que-estan-transformando-la-logistica-en-argentina.phtml",
+    "id": "ct-a306bfa3",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "topic": "La confianza del consumidor repunta primero en el Interior, no en CABA",
+    "why_now": "El índice de la Universidad Di Tella cortó dos meses de caída en septiembre gracias a una mejora concentrada en el Interior del país, mientras la Ciudad de Buenos Aires todavía retrocede.",
+    "fixy_angle": "Fixy, con operación federal, puede mostrar con datos propios cómo se mueve la demanda del Interior frente a CABA y anticipar dónde conviene reforzar stock antes que la competencia concentrada en el AMBA.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/09/17/la-confianza-del-consumidor-subio-24-en-septiembre-y-corto-dos-meses-de-caida/",
+    "id": "ct-6c8717ac",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-18"
   }
 ]

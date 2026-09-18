@@ -48,52 +48,6 @@
     "updated_flag": true
   },
   {
-    "title": "El consumo masivo cayó 3,7% en el segundo trimestre, con una baja del 6,8% en el AMBA, pero el comercio electrónico creció 41%",
-    "what_happened": "Según un informe de Worldpanel by Numerator, el consumo masivo en Argentina cayó 3,7% interanual en el segundo trimestre de 2026, con una contracción más marcada en los hogares del AMBA (-6,8%) frente a un comportamiento más estable en el interior del país. El primer semestre acumula una caída de 2,5%, mientras que el comercio electrónico registró un alza del 41% frente a junio de 2025, con crecimiento en todas las categorías relevadas.",
-    "why_it_matters": "La brecha entre la caída del consumo físico y el fuerte crecimiento del canal online, particularmente marcada en el AMBA, confirma que el comercio electrónico sigue ganando participación aun en un contexto de consumo retraído.",
-    "fixy_impact": "El diferencial de desempeño entre canal físico y online refuerza el argumento comercial de Fixy ante marcas que todavía priorizan la tienda física: el canal digital es hoy el que sostiene el volumen.",
-    "category": "Consumo",
-    "geo": "Argentina",
-    "source_name": "Ámbito Financiero (con datos de Worldpanel by Numerator)",
-    "source_url": "https://www.ambito.com/economia/el-consumo-masivo-se-contrajo-37-el-segundo-trimestre-y-la-caida-se-profundiza-el-amba-n6315577",
-    "published_date": "2026-08-27",
-    "priority": "informativo",
-    "tags": [
-      "consumo masivo",
-      "AMBA",
-      "ecommerce",
-      "segundo trimestre",
-      "Worldpanel"
-    ],
-    "id": "nw-e3509c8c04",
-    "source_kind": "auto",
-    "last_updated": "2026-08-28",
-    "first_seen": "2026-08-28"
-  },
-  {
-    "title": "El Senado aprobó el protocolo de Mercosur que desregula servicios digitales, billeteras y logística",
-    "what_happened": "El Senado argentino aprobó por unanimidad, el 27 de agosto, un paquete de cinco tratados internacionales que incluye el protocolo modificatorio de Montevideo sobre Comercio de Servicios del Mercosur, junto con el acuerdo de libre comercio Mercosur-EFTA. El protocolo reemplaza una norma de 1997 y elimina barreras burocráticas en servicios financieros, telecomunicaciones y logística entre los países del bloque. La medida se da además en el contexto de la entrada en vigencia, esta semana, del acuerdo de comercio electrónico del Mercosur que Brasil promulgó el 24 de agosto.",
-    "why_it_matters": "Es el primer paso legislativo concreto hacia reglas comunes para eCommerce transfronterizo, fintechs y operadores logísticos dentro del bloque, algo que puede simplificar (o complicar, según cómo se reglamente) las operaciones regionales de players como Mercado Libre o VTEX.",
-    "fixy_impact": "Si se reglamenta, podría facilitar a mediano plazo la habilitación de proveedores logísticos y de pagos en más de un país del Mercosur bajo reglas más uniformes, algo a monitorear para eventuales expansiones regionales.",
-    "category": "Regulación",
-    "geo": "LATAM",
-    "source_name": "Parlamentario / iProUP",
-    "source_url": "https://www.parlamentario.com/2026/08/27/por-unanimidad-el-senado-aprobo-una-serie-de-acuerdos-internacionales/",
-    "published_date": "2026-08-27",
-    "priority": "relevante",
-    "tags": [
-      "Mercosur",
-      "regulación",
-      "eCommerce transfronterizo",
-      "billeteras",
-      "logística"
-    ],
-    "id": "nw-7630a16d64",
-    "source_kind": "auto",
-    "last_updated": "2026-08-29",
-    "first_seen": "2026-08-29"
-  },
-  {
     "title": "El Gobierno frenó la concesión del Correo Argentino por las elecciones de 2027",
     "what_happened": "El Ejecutivo puso en pausa el proceso para concesionar la operación del Correo Argentino, según trascendió el 28 de agosto, debido a demoras técnicas y a que la empresa cumple un rol logístico clave en las elecciones de 2027 (traslado de urnas, documentación y telegramas). Desde la Casa Rosada aclararon que el proyecto no se canceló pero perdió prioridad dentro del programa de privatizaciones y no tiene fecha para una licitación. No se contempla una venta directa, sino una nueva concesión del servicio postal.",
     "why_it_matters": "Correo Argentino es un actor central en la última milla y en el nuevo régimen de importaciones puerta a puerta (Shein, Temu, Amazon); una demora en su reestructuración prolonga la incertidumbre sobre su capacidad operativa y su rol futuro frente a couriers privados.",
@@ -118,25 +72,25 @@
   },
   {
     "title": "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo escaló a un paro por tiempo indeterminado",
-    "what_happened": "El conflicto en la Terminal Cuenca del Plata (TCP) de Montevideo, que arrastraba paros intermitentes desde el 28 de agosto por la renovación de un convenio colectivo entre el Sindicato Único Portuario y Ramas Afines (Supra) y el operador belga Katoen Natie, escaló: el sindicato hizo un paro sorpresivo el sábado 5 de septiembre y el lunes 7 pasó a una medida por tiempo indeterminado, con camiones esperando hasta 18 horas para poder ingresar. El martes 8 el gobierno uruguayo le dio un plazo de 72 horas al sindicato y a la empresa para cerrar un nuevo convenio y destrabar el conflicto.",
-    "why_it_matters": "Montevideo es un nodo clave de transbordo para el comercio exterior argentino que usa el Río de la Plata, y esta nueva escalada eleva los tiempos de tránsito y genera pérdidas estimadas de entre US$400.000 y US$500.000 diarios para el transporte de cargas de la región.",
+    "what_happened": "El sindicato de la Terminal Cuenca del Plata (TCP) inició el miércoles 16 de septiembre a las 16 h el paro por tiempo indeterminado que venía anunciando, en el marco de la negociación del nuevo convenio colectivo, operando con 'servicios mínimos' dispuestos por el MTOP y el MTSS uruguayos. El jueves 17 de septiembre a las 23 h el gremio resolvió levantar la medida y la terminal retomó su operativa normal, aunque el reclamo de fondo por salarios y obras pendientes sigue sin resolverse.",
+    "why_it_matters": "Vuelve a mostrar la fragilidad del principal nodo portuario de contenedores de la región, clave para buena parte del comercio exterior que pasa por Uruguay, incluso con el paro ya levantado.",
     "fixy_impact": "Si el conflicto no se resuelve en el plazo fijado por el gobierno uruguayo, los operadores que reciben o despachan mercadería vía Montevideo pueden sufrir demoras y sobrecostos que afecten los tiempos de reposición de stock importado.",
     "category": "Logística",
     "geo": "LATAM",
-    "source_name": "Subrayado (Uruguay)",
-    "source_url": "https://www.subrayado.com.uy/corre-el-plazo-72-horas-que-el-gobierno-le-dio-al-sindicato-y-tcp-que-acuerden-un-nuevo-convenio-y-termine-el-conflicto-n1017661",
-    "published_date": "2026-09-09",
-    "priority": "relevante",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/america/agencias/2026/09/18/sindicato-pone-fin-al-primer-paro-en-el-puerto-de-montevideo-con-servicios-minimos/",
+    "published_date": "2026-09-18",
+    "priority": "informativo",
     "tags": [
-      "puerto Montevideo",
+      "Puerto de Montevideo",
+      "TCP",
       "paro",
       "comercio exterior",
-      "cadena de suministro",
       "Uruguay"
     ],
     "id": "nw-787ba1c861",
     "source_kind": "auto",
-    "last_updated": "2026-09-10",
+    "last_updated": "2026-09-18",
     "first_seen": "2026-08-31",
     "updated_flag": true
   },
@@ -159,29 +113,6 @@
       "tarifas"
     ],
     "id": "nw-b06819e408",
-    "source_kind": "auto",
-    "last_updated": "2026-08-31",
-    "first_seen": "2026-08-31"
-  },
-  {
-    "title": "CACE detalló los números del primer semestre: 181,5 millones de órdenes y un ticket promedio que le pierde a la inflación",
-    "what_happened": "En el Estudio Mid Term 2026, presentado en el eCommerce Day Argentina del 27 de agosto, la CACE informó que la facturación del comercio electrónico creció 28% interanual en el primer semestre, alcanzando unos $19,5 billones de pesos corrientes. Las órdenes de compra treparon a 181,5 millones (+21% interanual) y se comercializaron 248 millones de artículos, mientras que el ticket promedio subió apenas 5%, muy por debajo de la inflación del período. El universo de compradores online llegó a 25 millones de personas, tras sumar 1,34 millones de nuevos usuarios durante 2025.",
-    "why_it_matters": "El crecimiento en volumen de órdenes muy por encima del ticket promedio confirma que el consumidor compra más seguido pero productos más baratos o de menor valor, un patrón que ya viene marcando el año y que redefine qué significa 'crecer' en eCommerce.",
-    "fixy_impact": "Más órdenes de menor ticket implican más operaciones de picking y despacho por cada peso facturado, lo que exige revisar el costo operativo por unidad antes que mirar solo la facturación de los clientes.",
-    "category": "eCommerce",
-    "geo": "Argentina",
-    "source_name": "CACE / DefOnline",
-    "source_url": "https://defonline.com.ar/ciencia-tecnologia/el-crecimiento-del-ecommerce-argentino-ya-roza-los-20-billones-en-el-primer-semestre-de-2026/",
-    "published_date": "2026-08-27",
-    "priority": "relevante",
-    "tags": [
-      "CACE",
-      "eCommerce Day",
-      "facturación",
-      "órdenes de compra",
-      "ticket promedio"
-    ],
-    "id": "nw-e6becf31e5",
     "source_kind": "auto",
     "last_updated": "2026-08-31",
     "first_seen": "2026-08-31"
@@ -899,26 +830,28 @@
   },
   {
     "title": "Management Logístico 2026 reúne a CEDOL, ARLOG y FADEEAC para debatir rentabilidad y costos del sector",
-    "what_happened": "El encuentro organizado por Énfasis Logística se realiza el miércoles 16 de septiembre en GoldenCenter, Buenos Aires. La apertura está a cargo de referentes de CEDOL, ARLOG y FADEEAC sobre rentabilidad y productividad operativa, moderados por el economista Santiago Bulat, con paneles sobre infraestructura, costos, última milla, consumo y tecnología.",
-    "why_it_matters": "Es uno de los pocos espacios donde las principales cámaras del sector logístico argentino comparten diagnóstico sobre costos y productividad en un año de consumo débil, un termómetro útil para entender hacia dónde va la conversación del sector.",
-    "fixy_impact": "Vale la pena seguir las conclusiones del panel de apertura sobre rentabilidad operativa, un tema central para la estrategia comercial y de pricing de Fixy.",
+    "what_happened": "El encuentro se realizó el miércoles 16 de septiembre en GoldenCenter (CABA) y convocó a más de 1.700 profesionales del sector logístico. En la apertura, referentes de CEDOL, ARLOG y FADEEAC coincidieron en la necesidad de revisar costos y procesos, ganar eficiencia e incorporar tecnología de forma significativa. FADEEAC presentó además un relevamiento de 22.700 km de rutas nacionales con conclusiones de deterioro del pavimento, señalización deficiente y obras inconclusas que elevan la siniestralidad y los costos operativos del transporte.",
+    "why_it_matters": "Confirma que, para el propio sector, la rentabilidad, la tecnología y el estado de la infraestructura vial son los tres frentes críticos de 2026, en un contexto de consumo débil y presión de costos sobre los operadores.",
+    "fixy_impact": "El diagnóstico sobre rutas deterioradas y presión de costos operativos valida la necesidad de Fixy de seguir monitoreando el estado de las vías que usa en su logística de larga distancia e interior al planificar rutas y tiempos de entrega.",
     "category": "Logística",
     "geo": "Argentina",
     "source_name": "Perfil",
     "source_url": "https://www.perfil.com/noticias/empresas-y-protagonistas/management-logistico-2026-pone-en-agenda-los-desafios-que-estan-transformando-la-logistica-en-argentina.phtml",
-    "published_date": "2026-09-10",
-    "priority": "informativo",
+    "published_date": "2026-09-16",
+    "priority": "relevante",
     "tags": [
-      "evento",
-      "cedol",
-      "arlog",
-      "fadeeac",
-      "costos logísticos"
+      "CEDOL",
+      "ARLOG",
+      "FADEEAC",
+      "costos logísticos",
+      "rutas",
+      "management logístico"
     ],
     "id": "nw-00dbed05c4",
     "source_kind": "auto",
-    "last_updated": "2026-09-15",
-    "first_seen": "2026-09-15"
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-15",
+    "updated_flag": true
   },
   {
     "title": "Mercado Libre presenta \"Efecto MELI\": su ecosistema ya representa el 1% del PBI argentino",
@@ -964,5 +897,51 @@
     "source_kind": "auto",
     "last_updated": "2026-09-16",
     "first_seen": "2026-09-16"
+  },
+  {
+    "title": "Mercado Libre refuerza su estrategia ante el avance de Shein y Temu en Argentina",
+    "what_happened": "Durante la segunda edición de Mercado Libre Experience en Buenos Aires, la compañía reforzó su discurso sobre logística local, medios de pago y red de vendedores como respuesta a una posible 'fase 2' de expansión de Shein y Temu en el país. Según datos de Euromonitor citados en la nota, Mercado Libre concentra el 73% del comercio electrónico argentino, mientras que los consumidores ya gastaron más de u$s700 millones en Shein y Temu en lo que va del año.",
+    "why_it_matters": "Marca que la competencia entre Mercado Libre y las plataformas chinas se está trasladando del precio a la logística local, que pasa a ser el verdadero campo de batalla del ecommerce argentino.",
+    "fixy_impact": "Si Shein y Temu avanzan hacia una nueva fase en el país, van a necesitar operadores locales para el último tramo de entrega y el fulfillment de la mercadería que despacha aduana, lo que abre una oportunidad de negocio concreta para Fixy.",
+    "category": "Marketplaces",
+    "geo": "Argentina",
+    "source_name": "iProfesional",
+    "source_url": "https://www.iprofesional.com/tecnologia/464619-mercado-libre-refuerza-su-estrategia-ante-el-avance-de-shein-y-temu-en-argentina",
+    "published_date": "2026-09-17",
+    "priority": "alta",
+    "tags": [
+      "Mercado Libre",
+      "Shein",
+      "Temu",
+      "marketplaces",
+      "competencia"
+    ],
+    "id": "nw-0c8bf64104",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "La confianza del consumidor argentino subió en septiembre y cortó dos meses de caída",
+    "what_happened": "El Índice de Confianza del Consumidor de la Universidad Di Tella subió 2,4% en septiembre y alcanzó 41,18 puntos, revirtiendo dos caídas mensuales consecutivas (-4,8% en julio y -1,1% en agosto). La mejora fue liderada por el Interior del país (+5,23% mensual) y por los hogares de menores ingresos, mientras que en la Ciudad de Buenos Aires el índice cayó 6,78% mensual.",
+    "why_it_matters": "Es una señal temprana de que la confianza podría empezar a estabilizarse de cara a la temporada de fin de año, aunque el índice sigue 13% por debajo del pico de 2025 y la mejora no es uniforme entre regiones ni niveles de ingreso.",
+    "fixy_impact": "Si la mejora se sostiene, podría anticipar una recuperación de la demanda online más temprana en el Interior que en CABA, un dato a seguir para planificar capacidad de cara al Cyber Monday y el cierre de año.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/09/17/la-confianza-del-consumidor-subio-24-en-septiembre-y-corto-dos-meses-de-caida/",
+    "published_date": "2026-09-17",
+    "priority": "relevante",
+    "tags": [
+      "consumo",
+      "confianza del consumidor",
+      "Di Tella",
+      "Interior",
+      "tendencias"
+    ],
+    "id": "nw-38ddbaba51",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-18"
   }
 ]

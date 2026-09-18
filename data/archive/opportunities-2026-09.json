@@ -493,5 +493,35 @@
     "source_kind": "auto",
     "last_updated": "2026-09-13",
     "first_seen": "2026-09-13"
+  },
+  {
+    "title": "Pilotear informes automáticos con Copilot Notebooks a partir del Excel o Power BI de despachos",
+    "context": "Microsoft llevó a disponibilidad general que Copilot Notebooks use reportes de Power BI y archivos CSV o TSV como fuente, además de documentos, para generar resúmenes y presentaciones.",
+    "action": "Si Fixy ya paga Microsoft 365 Copilot, armar un piloto donde management le pida un resumen ejecutivo semanal de indicadores de entregas a partir del Excel o el dashboard de Power BI que ya usa el equipo, en vez de armarlo a mano cada semana.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://levelupm365.com/2026/09/01/microsoft-365-roadmap-updates-september-2026/",
+    "linked": [
+      "Copilot Notebooks: fuentes de datos ampliadas"
+    ],
+    "id": "op-02066858",
+    "source_kind": "auto",
+    "last_updated": "2026-09-14",
+    "first_seen": "2026-09-14"
+  },
+  {
+    "title": "Planificar con clientes el feriado mercantil del lunes 28 de septiembre",
+    "context": "El Día del Empleado de Comercio cae sábado 26 de septiembre, así que FAECYS y las cámaras firmantes del CCT 130/75 trasladaron el feriado al lunes 28. Ese día, trabajar bajo ese convenio implica pagar el 100% adicional, y muchos comercios van a estar cerrados.",
+    "action": "Avisar con anticipación a los clientes que despachan con Fixy sobre el cierre o el recargo del lunes 28 de septiembre, y coordinar si conviene adelantar despachos al viernes 25 para no perder volumen ni pagar el plus salarial sin necesidad.",
+    "type": "comercial",
+    "priority": "informativo",
+    "source_url": "https://www.cronista.com/economia-politica/dia-del-empleado-de-comercio-2026-confirmado-cuando-cae-y-que-pasara-con-el-feriado/",
+    "linked": [
+      "El feriado por el Día del Empleado de Comercio se traslada al lunes 28 de septiembre"
+    ],
+    "id": "op-3cc75878",
+    "source_kind": "auto",
+    "last_updated": "2026-09-14",
+    "first_seen": "2026-09-14"
   }
 ]
