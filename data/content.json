@@ -1,82 +1,5 @@
 [
   {
-    "topic": "Quién paga realmente el envío gratis",
-    "why_now": "El dato es nuevo y contundente: 46,6% de las órdenes en tiendas propias se despacharon con envío gratis en el primer semestre de 2026, unos 5,6 millones de envíos, mientras el precio real por unidad cayó cerca de 17% y las unidades por carrito subieron de 4,3 a 4,6. Nadie está explicando esa matemática desde el lado del comercio.",
-    "fixy_angle": "Fixy puede mostrar, con números y sin vender, cómo se compone el costo de un envío gratis y qué palancas tiene una tienda para que siga siendo viable: consolidación de bultos, peso volumétrico, puntos de retiro. Posiciona a Fixy como quien entiende el negocio del cliente, no solo el flete.",
-    "formats": [
-      "LinkedIn",
-      "carrusel"
-    ],
-    "priority": "alta",
-    "source_url": "https://www.infobae.com/economia/2026/07/29/mas-productos-vendidos-menos-facturacion-el-comercio-electronico-crece-en-volumen-pero-ajusta-por-precio/",
-    "id": "ct-081eda98",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "topic": "Cómo exportar por correo ahora que no hay tope de monto",
-    "why_now": "El Decreto 604/2026 y la reglamentación de ARCA de comienzos de agosto abrieron la exportación comercial postal sin límite de valor. La cobertura periodística fue mayormente institucional: falta la explicación operativa de qué tiene que hacer una tienda online para usarlo.",
-    "fixy_angle": "Una guía práctica en clave logística: qué es la DESP, qué documentación se necesita, qué se pierde al usar el régimen simplificado (reintegros) y qué productos tienen sentido. Es contenido útil, indexable y llega antes de que el tema se sature.",
-    "formats": [
-      "nota",
-      "artículo",
-      "LinkedIn"
-    ],
-    "priority": "alta",
-    "source_url": "https://www.cronista.com/negocios/como-exportar-por-correo-sin-limite-de-monto-y-a-quienes-alcanza-el-nuevo-regimen-de-arca/",
-    "id": "ct-912b3ea9",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "topic": "El interior dejó de esperar: la logística argentina se federaliza",
-    "why_now": "Mercado Libre anunció su primer centro de almacenamiento fuera del AMBA (Córdoba, US$91 millones) y entregas por avión a la Patagonia, justo cuando los datos de CACE muestran que 48% de la facturación del eCommerce ocurre fuera del AMBA. La Cumbre Federal de Logística del CFI es el 16 de octubre: el tema va a estar en agenda.",
-    "fixy_angle": "Una lectura de Fixy sobre qué significa federalizar de verdad la logística: no es abrir un depósito, es densidad de reparto, plazos sostenibles y costo por entrega en plazas chicas. Buen contenido para voz institucional o del fundador, con anclaje en la agenda pública.",
-    "formats": [
-      "LinkedIn",
-      "prensa",
-      "video"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.datadiario.com/cordoba/politica-y-economia-cba/mercado-libre-invertira-us-91-millones-en-cordoba-y-creara-2-000-puestos-de-trabajo-202681110270",
-    "id": "ct-9726c1b4",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "topic": "Cuando el pico de siempre ya no alcanza: la logística de un rubro en caída estructural",
-    "why_now": "La industria del juguete reportó fábricas al 30% de capacidad y una caída del 10% en ventas del semestre, mientras el Día del Niño (60% de su facturación anual) cayó por cuarto año consecutivo. Es un caso con datos duros y verificables, publicado esta misma semana.",
-    "fixy_angle": "Fixy puede explicar, con este caso real, por qué dimensionar capacidad logística para un pico único y decreciente es distinto a operar todo el año, y qué modelo de costo variable evita el sobredimensionamiento cuando el pico se debilita.",
-    "formats": [
-      "LinkedIn",
-      "nota"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/movant/2026/08/16/la-logistica-de-juguetes-y-la-ultima-milla-en-la-semana-clave-del-ano/",
-    "id": "ct-d26dbf37",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "topic": "Lo que un balance trimestral de VTEX dice del humor real del retail argentino",
-    "why_now": "VTEX bajó su guía de GMV para el segundo semestre y mencionó explícitamente ciclos de decisión más largos y demanda más débil en Argentina en su call de resultados del 14 de agosto: es una lectura de mercado independiente y verificable, poco explotada fuera de medios financieros.",
-    "fixy_angle": "Fixy puede traducir ese dato financiero a lenguaje operativo para sus clientes: qué implica que los retailers estiren decisiones de inversión tecnológica para la planificación de stock, promociones y capacidad logística del cierre de año.",
-    "formats": [
-      "LinkedIn",
-      "artículo"
-    ],
-    "priority": "informativo",
-    "source_url": "https://www.fool.com/earnings/call-transcripts/2026/08/14/vtex-vtex-q2-2026-earnings-call-transcript/",
-    "id": "ct-e839b3a5",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
     "topic": "La ventana de despacho que se encoge: sostener los tiempos de entrega cuando un feriado se pega a una fecha comercial fuerte",
     "why_now": "El Día del Niño y el feriado de San Martín coincidieron esta semana y mostraron que, aunque las ventas caigan, la exigencia de tiempos de entrega no baja: es el verdadero termómetro de madurez de la última milla.",
     "fixy_angle": "Fixy puede mostrar con datos propios cómo sostuvo los plazos de entrega en esa semana crítica, usándolo como prueba de confiabilidad operativa frente a clientes y prospectos.",
@@ -1175,5 +1098,35 @@
     "source_kind": "auto",
     "last_updated": "2026-09-18",
     "first_seen": "2026-09-18"
+  },
+  {
+    "topic": "El quick commerce redefine la velocidad de entrega en la región: ¿a qué ritmo va Argentina?",
+    "why_now": "El crecimiento de 62% en seis meses en LATAM, liderado por PedidosYa, es un dato fresco y contundente que todavía no se instaló como tema de agenda en la logística argentina.",
+    "fixy_angle": "Fixy puede mostrar qué implica operativamente sostener una entrega en minutos (densidad de puntos, picking, última milla) y por qué eso ya no es un nicho sino la nueva vara de comparación para todo el eCommerce.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/america/agencias/2026/09/18/radiografia-del-quick-commerce-las-compras-de-supermercado-online-crecen-un-62-en-latinoamerica/",
+    "id": "ct-7901f102",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "topic": "Robots humanoides en el depósito: qué significa la apuesta de Mercado Libre para el resto de la logística argentina",
+    "why_now": "El acuerdo confirmado entre Mercado Libre y Agility Robotics es la primera vez que un marketplace de la región integra robots humanoides a su fulfillment de forma explícita, y eleva la vara de eficiencia que el ecosistema deberá igualar.",
+    "fixy_angle": "Fixy puede explicar, sin exagerar el corto plazo, qué tareas de un depósito mediano ya se pueden automatizar hoy con tecnología accesible y cuáles siguen siendo terreno exclusivo de los grandes jugadores.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.iproup.com/innovacion/71442-mercado-libre-ya-prueba-agentes-de-ia-y-robots-para-entregas",
+    "id": "ct-a4fef0ec",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
   }
 ]

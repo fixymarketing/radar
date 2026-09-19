@@ -850,5 +850,51 @@
     "source_kind": "auto",
     "last_updated": "2026-08-31",
     "first_seen": "2026-08-31"
+  },
+  {
+    "title": "El Gobierno frenó la concesión del Correo Argentino por las elecciones de 2027",
+    "what_happened": "El Ejecutivo puso en pausa el proceso para concesionar la operación del Correo Argentino, según trascendió el 28 de agosto, debido a demoras técnicas y a que la empresa cumple un rol logístico clave en las elecciones de 2027 (traslado de urnas, documentación y telegramas). Desde la Casa Rosada aclararon que el proyecto no se canceló pero perdió prioridad dentro del programa de privatizaciones y no tiene fecha para una licitación. No se contempla una venta directa, sino una nueva concesión del servicio postal.",
+    "why_it_matters": "Correo Argentino es un actor central en la última milla y en el nuevo régimen de importaciones puerta a puerta (Shein, Temu, Amazon); una demora en su reestructuración prolonga la incertidumbre sobre su capacidad operativa y su rol futuro frente a couriers privados.",
+    "fixy_impact": "Mientras se define el futuro del Correo, Fixy y otros operadores privados mantienen ventaja relativa en previsibilidad de servicio frente a un competidor estatal en transición prolongada.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "Canal 26",
+    "source_url": "https://www.canal26.com/politica/2026/08/28/el-gobierno-pone-en-pausa-la-concesion-del-correo-argentino-de-las-demoras-a-su-importancia-durante-las-elecciones-de-2027/",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "tags": [
+      "Correo Argentino",
+      "concesión",
+      "última milla",
+      "regulación",
+      "elecciones"
+    ],
+    "id": "nw-95ff1f53f6",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "title": "Peajes, trenes y colectivos del AMBA suben en septiembre y presionan el costo de la última milla",
+    "what_happened": "El Gobierno confirmó esta semana que desde septiembre los peajes de las autopistas de acceso a CABA suben en promedio 4%, los colectivos porteños 4,1%, los de la Provincia de Buenos Aires 4,3% y los trenes del AMBA hasta 14,29%. Los aumentos se suman a los incrementos de combustible y neumáticos ya acumulados durante 2026 en el costo del transporte de cargas.",
+    "why_it_matters": "Estos incrementos impactan de forma directa en la estructura de costos de los repartos urbanos, que dependen de autopistas de peaje y de una flota que ya venía absorbiendo subas de combustible durante el año.",
+    "fixy_impact": "Encarece el costo operativo de los repartos en el AMBA y obliga a revisar tarifas a clientes o márgenes en las rutas que más peajes utilizan.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/08/28/uno-por-uno-los-aumentos-que-llegan-en-septiembre-transporte-prepagas-colegios-y-tarifas/",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "tags": [
+      "peajes",
+      "costos logísticos",
+      "transporte",
+      "AMBA",
+      "tarifas"
+    ],
+    "id": "nw-b06819e408",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-31"
   }
 ]

@@ -913,5 +913,41 @@
     "source_kind": "auto",
     "last_updated": "2026-09-10",
     "first_seen": "2026-09-10"
+  },
+  {
+    "scope": "intl",
+    "name": "ECBR Summit Logística 2026",
+    "organizer": "E-Commerce Brasil (ECBR)",
+    "date_start": "2026-09-15",
+    "date_end": "2026-09-15",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "São Paulo",
+    "province": null,
+    "country": "Brasil",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://eventos.ecommercebrasil.com.br/eventos-2026/ecbr-summit-logistica",
+    "source_url": "https://eventos.ecommercebrasil.com.br/eventos-2026/ecbr-summit-logistica",
+    "description": "Summit especializado en logística para eCommerce que aborda fulfillment, última milla, ruteo, almacenamiento inteligente, sustentabilidad, SLA y el impacto de la IA en las operaciones.",
+    "fixy_relevance": "Es el evento internacional más alineado con el core de negocio de Fixy (fulfillment y última milla para eCommerce); alta oportunidad de aprendizaje técnico y networking con pares brasileños y proveedores tecnológicos del sector.",
+    "justification_type": "aprendizaje",
+    "priority": "alta",
+    "beyond_90": false,
+    "id": "ev-ecbr-logistica-summit-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-08-23",
+    "change_log": [
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   }
 ]

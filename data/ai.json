@@ -88,6 +88,28 @@
     "first_seen": "2026-09-01"
   },
   {
+    "name": "Google Ads: migración automática de campañas de Search a AI Max",
+    "vendor": "Google",
+    "what_it_is": "AI Max es un conjunto de funciones de IA (ampliación de coincidencias, generación de textos de anuncio y elección automática de la URL final) que se activa sobre campañas de Search ya existentes en Google Ads.",
+    "what_changed": "Entre el 1 y el 30 de septiembre de 2026, Google migra de forma automática y obligatoria las campañas de Search que usan concordancia amplia a nivel de campaña o 'Activos creados automáticamente' hacia AI Max; los IDs de campaña se mantienen, pero cambia el informe de términos de búsqueda.",
+    "fixy_use": "El equipo comercial o de marketing que gestiona campañas de Google Ads para captar clientes de logística debería revisar sus campañas de Search este mes, porque Google las migra solo. Los textos de anuncio y la página de destino que elige la IA pueden cambiar sin aviso, así que conviene fijar guías de marca y revisar el nuevo informe de términos de búsqueda para no perder control del mensaje ni del presupuesto.",
+    "verdict": "seguir",
+    "verdict_reason": "No es una herramienta para elegir adoptar: Google la activa de oficio, así que hay que auditarla igual.",
+    "categories": [
+      "Marketing",
+      "Comercial",
+      "Análisis"
+    ],
+    "pricing_note": "sin costo adicional, es parte de Google Ads",
+    "source_url": "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
+    "published_date": "2026-09-01",
+    "priority": "alta",
+    "id": "ai-google-google-ads-migracion-automatica-de-campanas-de-search",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
+  },
+  {
     "name": "Gemini 3.5 Transcribe",
     "vendor": "Google",
     "what_it_is": "Un modelo de voz a texto de Google DeepMind que transcribe audio en vivo o grabado, reconoce quién habla en una conversación (diarización), agrega marcas de tiempo y limpia automáticamente muletillas y autocorrecciones.",
@@ -332,6 +354,29 @@
     "source_kind": "auto",
     "last_updated": "2026-09-18",
     "first_seen": "2026-09-18"
+  },
+  {
+    "name": "ChatGPT for Word",
+    "vendor": "OpenAI",
+    "what_it_is": "Un panel lateral de ChatGPT integrado directamente en Microsoft Word que permite redactar, resumir y editar documentos sin salir del programa.",
+    "what_changed": "Se lanzó el 17 de septiembre de 2026 y, a diferencia de la versión anterior limitada a cuentas pagas, ahora está disponible en todos los planes de ChatGPT, incluido el gratuito; desde el 1° de octubre se activará por defecto en Word.",
+    "fixy_use": "El equipo de management o comercial puede redactar informes, propuestas comerciales o procedimientos operativos a partir de notas sueltas, directamente en Word. También sirve para resumir un documento largo o adaptarlo para un cliente distinto sin escribir todo de cero, y para ordenar el formato de contratos o manuales internos sin depender de un redactor externo.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis, no exige instalar nada nuevo y resuelve una tarea cotidiana del equipo chico: redactar y ordenar documentos.",
+    "categories": [
+      "Productividad",
+      "Gestión del tiempo",
+      "Contenido",
+      "Management"
+    ],
+    "pricing_note": "gratis en el plan Free de ChatGPT; funciones ampliadas en planes pagos",
+    "source_url": "https://help.openai.com/en/articles/20001526-chatgpt-for-word",
+    "published_date": "2026-09-17",
+    "priority": "relevante",
+    "id": "ai-openai-chatgpt-for-word",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
   },
   {
     "name": "Claude Docs y Claude Slides (Chat y Cowork unificados)",
@@ -1426,6 +1471,51 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "Zendesk: rastreador web renovado y más conectores de contenido",
+    "vendor": "Zendesk",
+    "what_it_is": "El rastreador web y los conectores que alimentan la base de conocimiento de los agentes de IA de Zendesk con contenido de sitios propios y fuentes externas.",
+    "what_changed": "En la actualización de septiembre de 2026, Zendesk reemplazó el rastreador web anterior por una versión nueva y sumó más conectores nativos para traer contenido de fuentes externas a la base de conocimiento del agente de IA.",
+    "fixy_use": "Atención al cliente podría conectar documentos propios (políticas de envío, tiempos estimados por zona, guía de reclamos) para que el agente de IA de Zendesk responda consultas de seguimiento de pedidos con información siempre actualizada. Esto evita tener que cargar todo el contenido a mano dentro del sistema cada vez que cambia una política.",
+    "verdict": "seguir",
+    "verdict_reason": "Mejora una herramienta que Fixy ya usa, pero conviene confirmar el alcance exacto del complemento antes de reordenar contenido.",
+    "categories": [
+      "Operaciones",
+      "Automatización",
+      "Organización"
+    ],
+    "pricing_note": "no confirmado, depende del plan de Zendesk con agentes de IA contratado",
+    "source_url": "https://support.zendesk.com/hc/en-us/articles/11180657600026-What-s-new-in-Zendesk-September-2026",
+    "published_date": null,
+    "priority": "informativo",
+    "id": "ai-zendesk-zendesk-rastreador-web-renovado-y-mas-conectores-de-",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "name": "Copilot Cowork: selector de modelo (GPT/Claude) y plugins de socios",
+    "vendor": "Microsoft",
+    "what_it_is": "Cowork es el modo agente de Microsoft 365 Copilot que ejecuta tareas de varios pasos (buscar, redactar, organizar) usando datos de Office y de apps conectadas mediante 'plugins'.",
+    "what_changed": "En septiembre de 2026 sumó un selector de modelo con secciones para GPT y para Claude, un control de 'esfuerzo de razonamiento', visibilidad de costos por tarea, habilidades compartibles entre colegas y nueve plugins de socios ya disponibles (entre ellos monday.com y Miro), con más en camino.",
+    "fixy_use": "Si Fixy usa Microsoft 365, operaciones podría conectar el plugin de monday.com para que Cowork actualice tableros de seguimiento de pedidos o incidencias sin cambiar de pantalla. También permite elegir Claude puntualmente dentro del mismo asistente para tareas que el equipo ya resuelve con esa IA, aunque conviene confirmar antes el costo de la licencia de Copilot por usuario.",
+    "verdict": "seguir",
+    "verdict_reason": "Tiene funciones útiles pero depende de una licencia paga y de que Fixy use el ecosistema Microsoft 365, algo a confirmar.",
+    "categories": [
+      "Organización",
+      "Automatización",
+      "Productividad",
+      "Management"
+    ],
+    "pricing_note": "pago, requiere licencia de Microsoft 365 Copilot por usuario",
+    "source_url": "https://www.thurrott.com/a-i/335689/microsofts-copilot-cowork-agent-mobile-plugins-support",
+    "published_date": null,
+    "priority": "informativo",
+    "id": "ai-microsoft-copilot-cowork-selector-de-modelo-gpt-claude-y-plu",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
   },
   {
     "name": "OpenAI Agents API",

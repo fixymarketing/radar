@@ -48,29 +48,6 @@
     "updated_flag": true
   },
   {
-    "title": "El Gobierno frenó la concesión del Correo Argentino por las elecciones de 2027",
-    "what_happened": "El Ejecutivo puso en pausa el proceso para concesionar la operación del Correo Argentino, según trascendió el 28 de agosto, debido a demoras técnicas y a que la empresa cumple un rol logístico clave en las elecciones de 2027 (traslado de urnas, documentación y telegramas). Desde la Casa Rosada aclararon que el proyecto no se canceló pero perdió prioridad dentro del programa de privatizaciones y no tiene fecha para una licitación. No se contempla una venta directa, sino una nueva concesión del servicio postal.",
-    "why_it_matters": "Correo Argentino es un actor central en la última milla y en el nuevo régimen de importaciones puerta a puerta (Shein, Temu, Amazon); una demora en su reestructuración prolonga la incertidumbre sobre su capacidad operativa y su rol futuro frente a couriers privados.",
-    "fixy_impact": "Mientras se define el futuro del Correo, Fixy y otros operadores privados mantienen ventaja relativa en previsibilidad de servicio frente a un competidor estatal en transición prolongada.",
-    "category": "Última milla",
-    "geo": "Argentina",
-    "source_name": "Canal 26",
-    "source_url": "https://www.canal26.com/politica/2026/08/28/el-gobierno-pone-en-pausa-la-concesion-del-correo-argentino-de-las-demoras-a-su-importancia-durante-las-elecciones-de-2027/",
-    "published_date": "2026-08-28",
-    "priority": "relevante",
-    "tags": [
-      "Correo Argentino",
-      "concesión",
-      "última milla",
-      "regulación",
-      "elecciones"
-    ],
-    "id": "nw-95ff1f53f6",
-    "source_kind": "auto",
-    "last_updated": "2026-08-29",
-    "first_seen": "2026-08-29"
-  },
-  {
     "title": "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo escaló a un paro por tiempo indeterminado",
     "what_happened": "El sindicato de la Terminal Cuenca del Plata (TCP) inició el miércoles 16 de septiembre a las 16 h el paro por tiempo indeterminado que venía anunciando, en el marco de la negociación del nuevo convenio colectivo, operando con 'servicios mínimos' dispuestos por el MTOP y el MTSS uruguayos. El jueves 17 de septiembre a las 23 h el gremio resolvió levantar la medida y la terminal retomó su operativa normal, aunque el reclamo de fondo por salarios y obras pendientes sigue sin resolverse.",
     "why_it_matters": "Vuelve a mostrar la fragilidad del principal nodo portuario de contenedores de la región, clave para buena parte del comercio exterior que pasa por Uruguay, incluso con el paro ya levantado.",
@@ -93,29 +70,6 @@
     "last_updated": "2026-09-18",
     "first_seen": "2026-08-31",
     "updated_flag": true
-  },
-  {
-    "title": "Peajes, trenes y colectivos del AMBA suben en septiembre y presionan el costo de la última milla",
-    "what_happened": "El Gobierno confirmó esta semana que desde septiembre los peajes de las autopistas de acceso a CABA suben en promedio 4%, los colectivos porteños 4,1%, los de la Provincia de Buenos Aires 4,3% y los trenes del AMBA hasta 14,29%. Los aumentos se suman a los incrementos de combustible y neumáticos ya acumulados durante 2026 en el costo del transporte de cargas.",
-    "why_it_matters": "Estos incrementos impactan de forma directa en la estructura de costos de los repartos urbanos, que dependen de autopistas de peaje y de una flota que ya venía absorbiendo subas de combustible durante el año.",
-    "fixy_impact": "Encarece el costo operativo de los repartos en el AMBA y obliga a revisar tarifas a clientes o márgenes en las rutas que más peajes utilizan.",
-    "category": "Logística",
-    "geo": "Argentina",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/economia/2026/08/28/uno-por-uno-los-aumentos-que-llegan-en-septiembre-transporte-prepagas-colegios-y-tarifas/",
-    "published_date": "2026-08-28",
-    "priority": "relevante",
-    "tags": [
-      "peajes",
-      "costos logísticos",
-      "transporte",
-      "AMBA",
-      "tarifas"
-    ],
-    "id": "nw-b06819e408",
-    "source_kind": "auto",
-    "last_updated": "2026-08-31",
-    "first_seen": "2026-08-31"
   },
   {
     "title": "El Gobierno postergó hasta octubre el aumento de impuestos a los combustibles",
@@ -943,5 +897,74 @@
     "source_kind": "auto",
     "last_updated": "2026-09-18",
     "first_seen": "2026-09-18"
+  },
+  {
+    "title": "El PBI cayó 0,6% en el segundo trimestre y el consumo privado retrocedió 2,4%",
+    "what_happened": "El INDEC informó que el Producto Bruto Interno se contrajo 0,6% en el segundo trimestre de 2026 respecto al primero, en la medición desestacionalizada, tras haber crecido 0,7% en el trimestre anterior. El consumo privado cayó 2,4% y la inversión (formación bruta de capital fijo) bajó 0,8%, mientras que las exportaciones fueron el único componente que creció, 2,5%. En la comparación interanual el PBI todavía sube 2%, traccionado por pesca, minería y agro.",
+    "why_it_matters": "Es la primera lectura trimestral negativa en dos años y confirma que la demanda interna se enfría justo cuando el eCommerce depende del poder de compra de los hogares para sostener volumen de pedidos.",
+    "fixy_impact": "Un consumo privado más débil puede traducirse en menor cantidad de pedidos y mayor sensibilidad al costo del envío entre los clientes de Fixy, algo para monitorear de cara al último trimestre del año.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "La Nación (INDEC)",
+    "source_url": "https://www.lanacion.com.ar/economia/el-pbi-se-contrajo-06-en-el-segundo-trimestre-con-fuertes-caidas-en-el-consumo-y-la-inversion-nid17092026/",
+    "published_date": "2026-09-17",
+    "priority": "alta",
+    "tags": [
+      "PBI",
+      "consumo privado",
+      "INDEC",
+      "macroeconomía",
+      "recesión"
+    ],
+    "id": "nw-d04acae8ac",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "title": "El quick commerce crece 62% en América Latina y PedidosYa lidera el segmento",
+    "what_happened": "Un relevamiento regional difundido esta semana muestra que las compras de supermercado por quick commerce (entregas ultrarrápidas) crecieron 62% interanual en América Latina durante el primer semestre de 2026, con un alza de 53% en usuarios activos mensuales. PedidosYa Market concentra el 41% de los pedidos del segmento, y frutas y verduras lideran el crecimiento con un 70% interanual.",
+    "why_it_matters": "El comercio ultrarrápido dejó de ser un nicho: creció en seis meses lo que en los tres años anteriores, lo que presiona a toda la última milla regional a acortar tiempos de entrega y ganar densidad de puntos de despacho cerca del consumidor.",
+    "fixy_impact": "El avance del quick commerce eleva la vara de expectativa de entrega para todo el eCommerce argentino y abre una oportunidad de servicios de entrega en ventanas más cortas para los clientes de Fixy.",
+    "category": "Última milla",
+    "geo": "LATAM",
+    "source_name": "Infobae (agencias)",
+    "source_url": "https://www.infobae.com/america/agencias/2026/09/18/radiografia-del-quick-commerce-las-compras-de-supermercado-online-crecen-un-62-en-latinoamerica/",
+    "published_date": "2026-09-18",
+    "priority": "relevante",
+    "tags": [
+      "quick commerce",
+      "última milla",
+      "PedidosYa",
+      "LATAM",
+      "delivery"
+    ],
+    "id": "nw-9d2c8417c8",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "title": "La mora temprana de los créditos bajó 33%, pero la normalización total llevará meses",
+    "what_happened": "Según datos difundidos esta semana, la mora temprana (atrasos de entre 30 y 90 días) bajó de un pico de 6,6% en noviembre de 2025 a 4,4% en julio de 2026, y la cantidad de personas en esa situación cayó de alrededor de un millón a 722.000, una baja del 28%. Especialistas del sector bancario advierten que la mora total todavía no cede porque quienes entran en planes de refinanciación necesitan varios meses de pagos consecutivos para salir de las estadísticas de incumplimiento.",
+    "why_it_matters": "Es la primera señal concreta de que el ciclo de sobreendeudamiento de las familias empezó a revertirse, aunque el crédito al consumo seguirá restringido varios meses más, algo que afecta directamente el financiamiento en cuotas de las compras online.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/09/18/la-mora-temprana-en-los-creditos-empezo-a-reducirse-pero-advierten-que-la-normalizacion-llevara-tiempo/",
+    "published_date": "2026-09-18",
+    "priority": "informativo",
+    "tags": [
+      "mora",
+      "crédito al consumo",
+      "fintech",
+      "bancos",
+      "financiamiento"
+    ],
+    "id": "nw-5cb0d0bef3",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
   }
 ]

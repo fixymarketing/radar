@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-18T12:22:23.437Z",
-  "last_updated_ar": "18/09/2026, 09:22",
-  "date": "2026-09-18",
+  "generated_at": "2026-09-19T12:15:28.815Z",
+  "last_updated_ar": "19/09/2026, 09:15",
+  "date": "2026-09-19",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Mercado Libre redobla la apuesta logística para contener a Shein y Temu justo cuando el propio sector logístico debate cómo bajar costos en rutas deterioradas, mientras la confianza del consumidor asoma una primera señal de repunte que por ahora lidera el Interior y no CABA.",
+  "summary_line": "El PBI argentino se contrajo 0,6% en el segundo trimestre y el consumo privado se enfría justo cuando el quick commerce crece 62% en la región y Mercado Libre suma robots humanoides a su logística, dos señales de que la carrera por la velocidad de entrega no espera a que mejore la macro.",
   "counters": {
-    "news_today": 2,
-    "news_total": 41,
-    "events_upcoming": 72,
+    "news_today": 3,
+    "news_total": 42,
+    "events_upcoming": 71,
     "events_ar_upcoming": 41,
-    "events_intl_upcoming": 31,
-    "events_later": 26,
+    "events_intl_upcoming": 30,
+    "events_later": 27,
     "opportunities_open": 8,
     "opportunities_today": 2,
-    "ai_today": 3,
-    "ai_to_try": 46,
-    "content_ideas": 78,
-    "added_news": 2,
-    "updated_news": 2,
+    "ai_today": 4,
+    "ai_to_try": 47,
+    "content_ideas": 75,
+    "added_news": 3,
+    "updated_news": 0,
     "added_events": 1,
-    "updated_events": 4,
-    "added_ai": 3,
-    "archived": 6,
+    "updated_events": 9,
+    "added_ai": 4,
+    "archived": 10,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,32 +34,32 @@
   },
   "highlights": [
     {
-      "id": "nw-0c8bf64104",
+      "id": "nw-d04acae8ac",
       "kind": "news",
-      "title": "Mercado Libre refuerza su estrategia ante el avance de Shein y Temu en Argentina",
+      "title": "El PBI cayó 0,6% en el segundo trimestre y el consumo privado retrocedió 2,4%",
       "priority": "alta",
-      "one_liner": "La disputa con las plataformas chinas se traslada a la logística local, y ahí es donde Fixy puede jugar un papel concreto."
+      "one_liner": "Es la primera lectura trimestral negativa en dos años, justo cuando el eCommerce depende del poder de compra de los hogares para sostener volumen de pedidos."
     },
     {
-      "id": "nw-00dbed05c4",
+      "id": "nw-9d2c8417c8",
       "kind": "news",
-      "title": "Management Logístico 2026 reúne a CEDOL, ARLOG y FADEEAC para debatir rentabilidad y costos del sector",
+      "title": "El quick commerce crece 62% en América Latina y PedidosYa lidera el segmento",
       "priority": "relevante",
-      "one_liner": "El propio sector confirma que costos, tecnología y estado de las rutas son los tres frentes críticos de 2026."
+      "one_liner": "El comercio ultrarrápido dejó de ser un nicho y presiona a toda la última milla regional a acortar tiempos de entrega."
     },
     {
-      "id": "nw-38ddbaba51",
+      "id": "nw-cef951e68f",
       "kind": "news",
-      "title": "La confianza del consumidor argentino subió en septiembre y cortó dos meses de caída",
+      "title": "Mercado Libre confirma un acuerdo con Agility Robotics para sumar robots humanoides a su logística",
       "priority": "relevante",
-      "one_liner": "La mejora la lidera el Interior, no CABA, una señal a seguir para planificar capacidad de cara al fin de año."
+      "one_liner": "La automatización física se integra a la estrategia central de fulfillment del principal marketplace de la región."
     },
     {
-      "id": "ai-google-gemini-notebook-voz-en-tiempo-real-e-informes-interac",
+      "id": "ai-anthropic-claude-para-pequenas-empresas-43-flujos-de-trabajo",
       "kind": "ai",
-      "title": "Gemini Notebook: voz en tiempo real e informes interactivos",
+      "title": "Claude para pequeñas empresas: 43 flujos de trabajo y 27 integraciones",
       "priority": "relevante",
-      "one_liner": "Permite armar capacitaciones por voz e informes interactivos con datos propios de Fixy, sin exponerlos a la web abierta."
+      "one_liner": "Permite automatizar reportes, atención al cliente y conciliación de pagos con aprobación humana antes de cada envío, ideal para probar en tareas chicas sin riesgo."
     }
   ]
 }

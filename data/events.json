@@ -410,41 +410,26 @@
     "date_start": "2026-10-20",
     "date_end": "2026-10-31",
     "date_confirmed": true,
-    "date_note": "El sitio oficial tecweek.com.ar confirma del 20 al 31 de octubre; alguna fuente secundaria menciona el 21 como inicio.",
-    "city": "Buenos Aires",
+    "date_note": "El sitio oficial y varias notas indican inicio el 20/10, pero otra cobertura menciona el 21/10; todas coinciden en el cierre el 31/10.",
+    "city": "Ciudad Autónoma de Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro Costa Salguero, con actividades en universidades, coworkings y otros espacios de la Ciudad",
+    "venue": "Centro Costa Salguero (sede principal), con actividades también en el CEC y la Usina del Arte",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Tecnología",
     "url": "https://www.tecweek.com.ar/",
-    "source_url": "https://www.tecweek.com.ar/",
-    "description": "Semana de tecnologías emergentes de la Ciudad de Buenos Aires, con charlas, hackatones, demos y networking en Costa Salguero y otros espacios, incluyendo SAIACONF.",
-    "fixy_relevance": "Punto de encuentro con startups, universidades y talento tech donde Fixy puede explorar herramientas de IA aplicadas a logística, atención al cliente y operaciones.",
+    "source_url": "https://buenosaires.gob.ar/noticias/continua-tecweek-la-gran-expo-de-tecnologia-innovacion-y-talento-emprendedor",
+    "description": "Tecweek 2026 reúne durante once días en Buenos Aires más de 23 encuentros sobre inteligencia artificial, blockchain, fintech y gaming, con epicentro en el Centro Costa Salguero.",
+    "fixy_relevance": "Concentra en pocos días gran parte del ecosistema tech y fintech del país; sirve para mapear proveedores tecnológicos y tendencias de IA aplicables a atención al cliente y operación.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-aires-buenos-tecweek-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-18",
+    "last_updated": "2026-09-19",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-05",
-        "fields": [
-          "organizer",
-          "date_start",
-          "date_note",
-          "city",
-          "province",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
       {
         "date": "2026-09-06",
         "fields": [
@@ -487,6 +472,17 @@
           "description",
           "fixy_relevance",
           "priority"
+        ]
+      },
+      {
+        "date": "2026-09-19",
+        "fields": [
+          "date_note",
+          "city",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
         ]
       }
     ]
@@ -913,7 +909,7 @@
     "date_start": "2026-10-15",
     "date_end": "2026-10-16",
     "date_confirmed": true,
-    "date_note": "Eventbrite confirma 'jueves 15 de octubre de 2026'; el 15/10/2026 es efectivamente jueves, sin discrepancia.",
+    "date_note": "El 15/10 es la jornada principal en el Auditorio BB; el 16/10 continúan actividades complementarias (Technical Roadshow y networking).",
     "city": "Ciudad de México",
     "province": null,
     "country": "México",
@@ -922,15 +918,15 @@
     "format": "presencial",
     "category": "eCommerce",
     "url": "https://eretailday.org/2026/mx/",
-    "source_url": "https://www.eventbrite.com.ar/e/eretail-day-latam-edicion-mexico-2026-tickets-1981261399179",
-    "description": "Decimotercera edición de eRetail Day en México, organizada por eCommerce Institute y AMVO, con agenda sobre inteligencia artificial, unified commerce, retail media y logística inteligente, más la eCommerce Startup Competition y la AI For Unified Commerce Competition.",
-    "fixy_relevance": "Punto de encuentro regional de retailers digitales y de AMVO; permite relevar tendencias de logística inteligente en México y detectar marcas o retailers que buscan expandirse a Argentina.",
-    "justification_type": "networking",
+    "source_url": "https://tecnoempresa.mx/reune-eretail-day-latam-2026-a-lideres-del-comercio-digital-en-mexico/",
+    "description": "Se confirmó la sede (Auditorio BB) de la 13ª edición, co-organizada por primera vez con AMVO, que suma una competencia de IA aplicada a comercio unificado y una competencia de startups de e-commerce.",
+    "fixy_relevance": "Es el evento de retail digital más relevante de México, con marketplaces, retailers y operadores logísticos regionales. Al estar co-organizado con AMVO (la cámara del sector), es una puerta de entrada institucional para explorar una eventual expansión de servicios de fulfillment hacia México.",
+    "justification_type": "expansión regional",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-day-eretail-latam-mexico-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-11",
+    "last_updated": "2026-09-19",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -976,6 +972,16 @@
           "source_url",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-19",
+        "fields": [
+          "date_note",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type"
         ]
       }
     ]
@@ -1207,15 +1213,15 @@
     "format": "presencial",
     "category": "Retail",
     "url": "https://nrfbigshow.nrf.com/",
-    "source_url": "https://nrfbigshow.nrf.com/attend/retails-big-show-overview",
-    "description": "Principal evento global de retail, con más de 41.000 profesionales del sector reunidos en Nueva York para discutir tendencias de comercio, tecnología y consumo.",
-    "fixy_relevance": "Evento global de mayor visibilidad en retail; útil como referencia de tendencias internacionales de eCommerce y logística aunque su costo y escala lo hacen más de aprendizaje que de negocios directos en la región.",
+    "source_url": "https://www.tradefairdates.com/NRF-Retails-Big-Show-M2905/New-York-City.html",
+    "description": "Se confirmaron fechas (10 al 12 de enero) y sede (Javits Center) de la feria de retail más grande del mundo; la edición 2027 suma por primera vez un escenario y un pabellón dedicados exclusivamente a logística inversa dentro del piso de exposición, además del tradicional Supply Chain Sunday.",
+    "fixy_relevance": "Evento masivo y de alto costo para una pyme, pero la nueva agenda de logística inversa y supply chain tech es una fuente directa de tendencias globales (devoluciones, automatización, IA aplicada a fulfillment) y de contactos con proveedores que luego bajan a LATAM.",
     "justification_type": "aprendizaje",
     "priority": "informativo",
     "beyond_90": true,
     "id": "ev-big-nrf-retail-show-2027",
     "source_kind": "auto",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-09-19",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -1234,6 +1240,14 @@
           "description",
           "fixy_relevance",
           "priority"
+        ]
+      },
+      {
+        "date": "2026-09-19",
+        "fields": [
+          "source_url",
+          "description",
+          "fixy_relevance"
         ]
       }
     ]
@@ -1456,16 +1470,16 @@
     "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
-    "url": "https://vtexday.vtex.com/",
-    "source_url": "https://www.vtex.com/pt-br/vtexday/faq/",
-    "description": "Megaevento anual de VTEX en San Pablo, con más de 50.000 inscriptos esperados de 29 países, centrado en comercio digital, IA, automatización y el ecosistema de partners de la plataforma.",
-    "fixy_relevance": "VTEX es una de las plataformas de eCommerce más usadas por marcas y marketplaces de la región; el evento es una oportunidad de generación de negocios y networking con potenciales clientes y socios tecnológicos del ecosistema de fulfillment.",
-    "justification_type": "negocios",
-    "priority": "alta",
+    "url": "https://www.vtex.com/pt-br/vtexday/",
+    "source_url": "https://paytech.events/vtex-day/",
+    "description": "VTEX confirmó fecha (31 de mayo y 1 de junio de 2027) y sede (São Paulo Expo) para la nueva edición de su evento insignia de digital commerce, que en 2026 ya convocó a más de 50.000 inscriptos de 29 países.",
+    "fixy_relevance": "Es la vidriera de comercio digital más grande de Latinoamérica: reúne marketplaces, retailers y proveedores logísticos brasileños que después expanden a la región. Sirve para hacer benchmarking, networking con partners tecnológicos y detectar tendencias de fulfillment y última milla antes de que lleguen a Argentina.",
+    "justification_type": "aprendizaje",
+    "priority": "relevante",
     "beyond_90": true,
     "id": "ev-day-vtex-2027",
     "source_kind": "auto",
-    "last_updated": "2026-09-09",
+    "last_updated": "2026-09-19",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -1501,6 +1515,17 @@
           "description",
           "fixy_relevance",
           "justification_type"
+        ]
+      },
+      {
+        "date": "2026-09-19",
+        "fields": [
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
         ]
       }
     ]
@@ -1784,24 +1809,24 @@
     "date_start": "2026-11-23",
     "date_end": "2026-11-25",
     "date_confirmed": true,
-    "date_note": "Hay versiones contradictorias sobre la fecha de esta 4ª edición. Ya estaba registrado en la agenda con fecha 2026-10-29, pero fuentes de septiembre 2026 (Cointelegraph, Territorio Bitcoin, ITSitio) coinciden en que el evento se realizará del 23 al 25 de noviembre de 2026, con la jornada presencial el 25/11 en el Hotel Emperador (otra fuente, Ámbito, mencionó erróneamente 1-2 de noviembre). Además,",
-    "city": "Buenos Aires",
+    "date_note": "En la agenda figuraba solo el 23/11 como fecha única; distintas coberturas sobre la nueva edición mencionan un formato extendido del 23 al 25 de noviembre, sin una fuente primaria única que lo confirme con precisión.",
+    "city": "Ciudad Autónoma de Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
     "venue": "Hotel Emperador (jornada presencial); días previos en formato remoto",
     "venue_confirmed": true,
-    "format": "híbrido",
+    "format": "presencial",
     "category": "Pagos y Fintech",
     "url": "https://argentinafintechforum.com/",
-    "source_url": "https://www.territoriobitcoin.com/arriba-la-cuarta-edicion-de-argentina-fintech-forum-para-el-mes-de-noviembre/",
-    "description": "Cuarta edición del evento anual de la Cámara Argentina Fintech, con más de 50 speakers nacionales e internacionales debatiendo open finance, tokenización, infraestructura de pagos y activos digitales.",
-    "fixy_relevance": "Los temas de infraestructura de pagos, cobranza y activos digitales impactan directo en cómo Fixy y sus clientes de eCommerce gestionan contra-reembolso, conciliación de cobros y medios de pago en la última milla; vale la pena confirmar la fecha real antes de planificar asistencia.",
+    "source_url": "https://www.iproup.com/argentina-fintech-forum",
+    "description": "El evento fintech más grande de la región, organizado por la Cámara Argentina Fintech, con paneles sobre pagos, banca abierta y regulación del sistema financiero.",
+    "fixy_relevance": "Sirve para anticipar cambios en medios de pago y regulación fintech que impactan en el checkout y el cobro del eCommerce que Fixy despacha.",
     "justification_type": null,
-    "priority": "relevante",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-argentina-fintech-forum-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-15",
+    "last_updated": "2026-09-19",
     "first_seen": "2026-08-20",
     "change_log": [
       {
@@ -1816,6 +1841,18 @@
           "source_url",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-19",
+        "fields": [
+          "date_note",
+          "city",
+          "format",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
         ]
       }
     ]
@@ -2355,28 +2392,28 @@
   {
     "scope": "ar",
     "name": "LABITCONF 26",
-    "organizer": "LABITCONF",
-    "date_start": "2026-10-29",
+    "organizer": "Bitcoin Argentina / LABITCONF",
+    "date_start": "2026-10-30",
     "date_end": "2026-10-31",
     "date_confirmed": true,
-    "date_note": "La conferencia principal (con seis escenarios simultáneos) es el 30 y 31 de octubre; la noche del 29 de octubre hay un evento previo de networking ejecutivo con la revelación de un monumento a Satoshi Nakamoto en el Parque de la Innovación.",
-    "city": "Buenos Aires",
+    "date_note": "En la agenda figuraba el 29/10 como fecha única. Según fuentes oficiales, el 29/10 es un evento de networking ejecutivo solo para tickets \"Experience\"; la conferencia principal es el 30 y 31 de octubre en Costa Salguero.",
+    "city": "Ciudad Autónoma de Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "BAFerial (ex Costa Salguero)",
+    "venue": "Costa Salguero",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Pagos y Fintech",
     "url": "https://www.labitconf.com/",
-    "source_url": "https://www.territoriobitcoin.com/labitconf-2026-convierte-hodl-en-una-declaracion-sobre-el-futuro-de-bitcoin/",
-    "description": "14ª edición de LABITCONF, la conferencia de Bitcoin y blockchain más antigua de Latinoamérica, con el concepto 'HODL' como eje 2026 y programación sobre IA, autocustodia y pagos cripto.",
-    "fixy_relevance": "Punto de encuentro de la comunidad cripto y fintech regional; sirve para monitorear la adopción de pagos con cripto y billeteras digitales que impactan en los medios de pago del eCommerce y en la logística de cobranza.",
+    "source_url": "https://www.diariobitcoin.com/argentina/regresa-labitconf-2026-con-su-edicion-hodl-a-la-capital-argentina-este-30-y-31-de-octubre/",
+    "description": "LABITCONF 26, edición HODL, es la conferencia de Bitcoin y blockchain más grande de habla hispana; se realiza el 30 y 31 de octubre en Costa Salguero, con un evento previo el 29/10 para tickets premium.",
+    "fixy_relevance": "Sirve para monitorear la adopción de cripto y stablecoins en pagos, un tema que puede afectar los medios de pago del eCommerce al que Fixy le hace fulfillment.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-labitconf-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-13",
+    "last_updated": "2026-09-19",
     "first_seen": "2026-08-23",
     "change_log": [
       {
@@ -2417,6 +2454,19 @@
           "date_end",
           "date_note",
           "province",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-19",
+        "fields": [
+          "organizer",
+          "date_start",
+          "date_note",
+          "city",
           "venue",
           "source_url",
           "description",
@@ -2525,42 +2575,6 @@
           "organizer",
           "date_note",
           "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "intl",
-    "name": "ECBR Summit Logística 2026",
-    "organizer": "E-Commerce Brasil (ECBR)",
-    "date_start": "2026-09-15",
-    "date_end": "2026-09-15",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "São Paulo",
-    "province": null,
-    "country": "Brasil",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
-    "format": "presencial",
-    "category": "Logística",
-    "url": "https://eventos.ecommercebrasil.com.br/eventos-2026/ecbr-summit-logistica",
-    "source_url": "https://eventos.ecommercebrasil.com.br/eventos-2026/ecbr-summit-logistica",
-    "description": "Summit especializado en logística para eCommerce que aborda fulfillment, última milla, ruteo, almacenamiento inteligente, sustentabilidad, SLA y el impacto de la IA en las operaciones.",
-    "fixy_relevance": "Es el evento internacional más alineado con el core de negocio de Fixy (fulfillment y última milla para eCommerce); alta oportunidad de aprendizaje técnico y networking con pares brasileños y proveedores tecnológicos del sector.",
-    "justification_type": "aprendizaje",
-    "priority": "alta",
-    "beyond_90": false,
-    "id": "ev-ecbr-logistica-summit-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-08",
-    "first_seen": "2026-08-23",
-    "change_log": [
-      {
-        "date": "2026-09-08",
-        "fields": [
           "description",
           "fixy_relevance"
         ]
@@ -2966,28 +2980,28 @@
   {
     "scope": "ar",
     "name": "Congreso Internacional de Transporte, Movilidad y Logística (UNLA) 2026",
-    "organizer": "Universidad Nacional de Lanús (UNLA)",
+    "organizer": "Universidad Nacional de Lanús (UNLa)",
     "date_start": "2026-09-25",
     "date_end": "2026-09-25",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Remedios de Escalada",
+    "city": "Remedios de Escalada (Lanús)",
     "province": "Buenos Aires",
     "country": "Argentina",
     "venue": "Universidad Nacional de Lanús",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
-    "url": "https://webpicking.com/la-unla-invita-al-congreso-internacional-de-transporte-movilidad-y-logistica/",
-    "source_url": "https://webpicking.com/la-unla-invita-al-congreso-internacional-de-transporte-movilidad-y-logistica/",
-    "description": "Congreso académico gratuito (con inscripción previa por capacidad limitada) que reúne operadores, investigadores y decisores públicos de transporte, movilidad y logística.",
-    "fixy_relevance": "Da acceso a análisis y contactos académicos e institucionales sobre transporte y movilidad que pueden anticipar cambios regulatorios o de infraestructura relevantes para la operación logística de Fixy.",
+    "url": "https://comexonline.com.ar/noticias/val/63421/la-unla-invita--al-congreso-internacional-de-transporte-movilidad-y--logistica.html",
+    "source_url": "https://comexonline.com.ar/noticias/val/63421/la-unla-invita--al-congreso-internacional-de-transporte-movilidad-y--logistica.html",
+    "description": "Congreso organizado por la UNLa sobre diseño estratégico de redes de transporte de carga y movilidad urbana sostenible, con operadores, investigadores y organismos públicos. Participación gratuita con inscripción previa.",
+    "fixy_relevance": "Trata directamente el diseño de redes logísticas urbanas y última milla, temas centrales para la operación diaria de Fixy.",
     "justification_type": null,
-    "priority": "informativo",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-congreso-internacional-logistica-movilidad-trans-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-10",
+    "last_updated": "2026-09-19",
     "first_seen": "2026-08-27",
     "change_log": [
       {
@@ -2997,6 +3011,18 @@
           "venue",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-19",
+        "fields": [
+          "organizer",
+          "city",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
         ]
       }
     ]
@@ -3127,7 +3153,7 @@
   {
     "scope": "ar",
     "name": "44ª Jornadas de Supermercadismo Argentino 2026",
-    "organizer": "CASAC (Cámara de Supermercados y Autoservicios de Córdoba)",
+    "organizer": "CASAC",
     "date_start": "2026-09-23",
     "date_end": "2026-09-24",
     "date_confirmed": true,
@@ -3140,15 +3166,15 @@
     "format": "presencial",
     "category": "Retail",
     "url": "https://casac.org.ar/",
-    "source_url": "https://www.webretail.com.ar/las-jornadas-de-supermercadismo-argentino-llegan-a-cordoba-con-foco-en-el-futuro-del-retail/",
-    "description": "Encuentro anual del supermercadismo argentino e iberoamericano, con exposición comercial, rondas de negocios y conferencias sobre el futuro del retail.",
-    "fixy_relevance": "Reúne a cadenas de retail y supermercados que evalúan omnicanalidad y última milla; espacio de networking relevante para posicionar servicios de fulfillment B2B2C ante retailers que se digitalizan.",
+    "source_url": "https://supermercadoaldia.cl/eventos/44-jornadas-de-supermercadismo-argentino",
+    "description": "La 44ª edición de las Jornadas de Supermercadismo Argentino se traslada a una sede más grande, el Complejo Ferial Córdoba, tras superar los 3.500 asistentes y 80 expositores en la edición anterior.",
+    "fixy_relevance": "Reúne a cadenas de supermercados y proveedores de retail; útil para detectar necesidades de última milla y fulfillment del canal supermercadista.",
     "justification_type": null,
-    "priority": "informativo",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-argentino-jornadas-supermercadismo-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-12",
+    "last_updated": "2026-09-19",
     "first_seen": "2026-08-28",
     "change_log": [
       {
@@ -3166,6 +3192,16 @@
           "organizer",
           "date_note",
           "venue",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-19",
+        "fields": [
+          "organizer",
           "source_url",
           "description",
           "fixy_relevance",
@@ -3492,12 +3528,12 @@
   {
     "scope": "ar",
     "name": "SAIACONF 2026",
-    "organizer": "SAIA (Sociedad Argentina de Inteligencia Artificial)",
+    "organizer": "SAIA",
     "date_start": "2026-10-20",
     "date_end": "2026-10-20",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Buenos Aires",
+    "city": "Ciudad Autónoma de Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
     "venue": "BA Ferial, Centro Costa Salguero",
@@ -3506,15 +3542,27 @@
     "category": "Tecnología",
     "url": "https://saiaconf.ar/",
     "source_url": "https://www.ambito.com/tecnologia/saiaconf-la-cumbre-innovacion-y-debate-inteligencia-artificial-argentina-n5876450",
-    "description": "Cuarta edición de la conferencia de inteligencia artificial más importante de Argentina, organizada por la Sociedad Argentina de Inteligencia Artificial (SAIA), centrada en el uso ético de la IA y su impacto en negocios y sociedad.",
-    "fixy_relevance": "Sirve como termómetro de qué herramientas de IA (automatización, atención al cliente, optimización de rutas y stock) están madurando en el mercado local y podrían aplicarse a la operación o atención al cliente de Fixy.",
+    "description": "Cuarta edición de SAIACONF, la conferencia nacional de inteligencia artificial organizada por la comunidad SAIA, con más de 40 oradores y foco en aplicaciones prácticas de IA.",
+    "fixy_relevance": "Punto de encuentro para ver casos reales de IA aplicada a operaciones y atención al cliente que Fixy podría adaptar a logística y fulfillment.",
     "justification_type": null,
-    "priority": "relevante",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-saiaconf-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-01",
-    "first_seen": "2026-09-01"
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-01",
+    "change_log": [
+      {
+        "date": "2026-09-19",
+        "fields": [
+          "organizer",
+          "city",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -4430,5 +4478,32 @@
     "source_kind": "auto",
     "last_updated": "2026-09-18",
     "first_seen": "2026-09-18"
+  },
+  {
+    "scope": "intl",
+    "name": "RL Expo 2027",
+    "organizer": "Global Reverse Logistics Alliance (GRLA)",
+    "date_start": "2027-03-23",
+    "date_end": "2027-03-24",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Las Vegas",
+    "province": null,
+    "country": "Estados Unidos",
+    "venue": "Bellagio Las Vegas",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://rlexpo.com/",
+    "source_url": "https://globalrla.org/events/",
+    "description": "Encuentro anual de referencia en logística inversa, gestión de devoluciones, recommerce y economía circular, organizado por la Global Reverse Logistics Alliance (heredera de la histórica Reverse Logistics Association).",
+    "fixy_relevance": "La gestión de devoluciones es un costo y un dolor de cabeza creciente para el e-commerce argentino. El evento concentra a los proveedores de tecnología y servicios de logística inversa más avanzados del mundo, útil como fuente de aprendizaje para modelos que Fixy podría adaptar u ofrecer como servicio diferencial.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": true,
+    "id": "ev-rl-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
   }
 ]

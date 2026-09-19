@@ -1,5 +1,35 @@
 [
   {
+    "title": "Posicionar a Fixy como socio de fulfillment para quick commerce y dark stores",
+    "context": "El quick commerce creció 62% en América Latina en seis meses y PedidosYa lidera el segmento, lo que obliga a acortar tiempos de entrega y ganar densidad de puntos de despacho cerca del consumidor. Es una tendencia regional que todavía no tiene un jugador de fulfillment de referencia en el segmento pyme argentino.",
+    "action": "Armar una propuesta de fulfillment exprés (micro-hub + picking rápido) para marcas de consumo masivo y supermercados chicos que quieran sumarse al quick commerce sin montar su propia operación de dark store.",
+    "type": "nueva línea de negocio",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/america/agencias/2026/09/18/radiografia-del-quick-commerce-las-compras-de-supermercado-online-crecen-un-62-en-latinoamerica/",
+    "linked": [
+      "El quick commerce crece 62% en América Latina y PedidosYa lidera el segmento"
+    ],
+    "id": "op-71608991",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "title": "Preparar una oferta de financiamiento en cuotas para cuando el crédito al consumo se destrabe",
+    "context": "La mora temprana de los créditos bajó 33%, la primera señal concreta de que el ciclo de sobreendeudamiento empieza a revertirse, aunque el crédito seguirá restringido varios meses. Cuando se normalice, va a haber una ventana donde los eCommerce que ya tengan resuelto el checkout en cuotas van a captar la demanda contenida antes que el resto.",
+    "action": "Contactar a una o dos fintechs de crédito al consumo para dejar preacordada una integración de checkout en cuotas apenas mejore el escenario de mora, en lugar de negociarla recién cuando la demanda ya esté reactivada.",
+    "type": "alianza",
+    "priority": "informativo",
+    "source_url": "https://www.infobae.com/economia/2026/09/18/la-mora-temprana-en-los-creditos-empezo-a-reducirse-pero-advierten-que-la-normalizacion-llevara-tiempo/",
+    "linked": [
+      "La mora temprana de los créditos bajó 33%, pero la normalización total llevará meses"
+    ],
+    "id": "op-854bd406",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
+  },
+  {
     "title": "Posicionarse como socio de fulfillment y última milla para Shein y Temu si avanzan a una nueva fase en Argentina",
     "context": "Mercado Libre reforzó su discurso logístico ante el avance de Shein y Temu, que ya se llevaron más de u$s700 millones del gasto online argentino este año. Si esas plataformas avanzan hacia una 'fase 2' con más volumen local, van a necesitar operadores del último tramo y servicios de fulfillment que hoy no tienen desarrollados en el país.",
     "action": "Armar una propuesta de fulfillment y última milla para marketplaces internacionales que buscan escalar en Argentina, y acercarla a los referentes locales de Shein y Temu o a los integradores que ya trabajan con ellos.",
@@ -88,35 +118,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-16",
     "first_seen": "2026-09-16"
-  },
-  {
-    "title": "Avisar a los clientes eCommerce sobre la Resolución 31/26 de Mercosur antes de que arriesguen la baja del dominio",
-    "context": "El Mercosur aprobó una resolución que obliga a las tiendas online a mostrar de forma clara los derechos del consumidor y las condiciones de contratación, con la baja del DNS como sanción posible ante un incumplimiento. Es la primera vez que el bloque liga directamente el cumplimiento de estas reglas con la continuidad técnica del dominio de una tienda.",
-    "action": "Enviar una comunicación breve a los clientes de Fixy con tienda propia explicando qué información tienen que mostrar, y ofrecerles ayuda para revisar que su sitio la tenga antes de que llegue un reclamo.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.argentina.gob.ar/noticias/mercosur-refuerza-la-proteccion-de-los-consumidores-en-el-comercio-electronico",
-    "linked": [
-      "Mercosur exige a las tiendas online informar los derechos del consumidor, bajo riesgo de baja de dominio"
-    ],
-    "id": "op-bb00020f",
-    "source_kind": "auto",
-    "last_updated": "2026-09-15",
-    "first_seen": "2026-09-15"
-  },
-  {
-    "title": "Revisar las campañas de Google Ads antes de que termine la migración automática a AI Max",
-    "context": "Desde el 1° de septiembre Google empezó a migrar solo, sin que el anunciante lo active, las campañas de Búsqueda con concordancia amplia hacia AI Max, que amplía los términos de búsqueda, reescribe el texto de los avisos y elige la URL de destino. El proceso sigue hasta fines de septiembre.",
-    "action": "Marketing tiene que auditar antes de fin de mes las campañas de Búsqueda de Fixy en Google Ads para confirmar que la segmentación, el texto de los avisos y la página de destino que eligió la IA sigan alineados con el mensaje y el costo por resultado esperado.",
-    "type": "marketing",
-    "priority": "relevante",
-    "source_url": "https://ppc.land/google-ads-broad-match-campaigns-face-ai-max-auto-upgrade-on-september-1/",
-    "linked": [
-      "Google Ads: migración automática a AI Max en campañas de Búsqueda"
-    ],
-    "id": "op-1367c0b1",
-    "source_kind": "auto",
-    "last_updated": "2026-09-14",
-    "first_seen": "2026-09-14"
   }
 ]
