@@ -1,96 +1,5 @@
 [
   {
-    "topic": "La ventana de despacho que se encoge: sostener los tiempos de entrega cuando un feriado se pega a una fecha comercial fuerte",
-    "why_now": "El Día del Niño y el feriado de San Martín coincidieron esta semana y mostraron que, aunque las ventas caigan, la exigencia de tiempos de entrega no baja: es el verdadero termómetro de madurez de la última milla.",
-    "fixy_angle": "Fixy puede mostrar con datos propios cómo sostuvo los plazos de entrega en esa semana crítica, usándolo como prueba de confiabilidad operativa frente a clientes y prospectos.",
-    "formats": [
-      "LinkedIn",
-      "nota"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/movant/2026/08/16/la-logistica-de-juguetes-y-la-ultima-milla-en-la-semana-clave-del-ano/",
-    "id": "ct-0364bebe",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "topic": "Cuando el costo logístico sube más rápido que lo que el retail puede cobrar",
-    "why_now": "La inflación de julio fue 2,1% y se espera 1,8% para agosto, mientras los costos logísticos subieron 2,25%: la industria está perdiendo capacidad de trasladar aumentos a tarifa, un dato nuevo sobre la presión de márgenes del sector.",
-    "fixy_angle": "Fixy puede posicionarse con contenido educativo sobre cómo eficientizar la operación logística (consolidación, ruteo, tercerización) cuando ya no se puede subir el precio del envío al cliente final.",
-    "formats": [
-      "LinkedIn",
-      "artículo"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.lanacion.com.ar/economia/inflacion-de-julio-cual-fue-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-este-ano-nid13082026/",
-    "id": "ct-adb70ce8",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "topic": "El comercio agéntico ya se discute afuera: qué necesita la logística argentina para no quedar afuera de esa conversación",
-    "why_now": "Retail Dive reporta que los consumidores empiezan a delegar compras a agentes de IA, pero exigen un paso humano vinculado a la política de devoluciones: la confianza se construye con logística inversa, no con mejor modelo.",
-    "fixy_angle": "Fixy puede explicar por qué la logística inversa y los datos de tracking estructurados son la puerta de entrada para integrarse a estos flujos agénticos, posicionándose como partner técnico antes de que el tema se masifique en Argentina.",
-    "formats": [
-      "LinkedIn",
-      "nota"
-    ],
-    "priority": "informativo",
-    "source_url": "https://www.retaildive.com/news/retail-shoppers-warm-up-agentic-ai-purchases/827563/",
-    "id": "ct-9678a606",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "topic": "Qué pasa con el cobro contra entrega si cambian las reglas a las billeteras",
-    "why_now": "El pedido de investigación de Diputados a Mercado Pago, Ualá y otras 90 billeteras por tasas y algoritmos todavía no tiene cobertura que conecte ese debate con el día a día del cobro en el e-commerce.",
-    "fixy_angle": "Fixy opera la última milla donde se concreta buena parte de esos cobros: puede explicar en términos simples qué pasaría con el vendedor y el comprador si cambian las condiciones de esas billeteras.",
-    "formats": [
-      "nota",
-      "LinkedIn"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.iproup.com/finanzas/70806-diputados-pedido-investigacion-billeteras-mercado-pago-uala-competencia-desleal-tasas-mora-agosto-2026",
-    "id": "ct-c4c3780b",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "topic": "El ruteo dinámico con IA ya es la apuesta de mayor retorno en última milla a escala postal: ¿qué aplica a un operador mediano argentino?",
-    "why_now": "El caso del correo de EE.UU. es reciente y todavía no fue traducido a la escala y realidad de un operador local como Fixy.",
-    "fixy_angle": "Fixy puede mostrar liderazgo técnico explicando qué de esa tecnología es viable hoy para una flota mixta argentina y qué es todavía prematuro, sin prometer algo que no tiene.",
-    "formats": [
-      "nota",
-      "LinkedIn"
-    ],
-    "priority": "informativo",
-    "source_url": "https://www.supplychaindive.com/news/where-usps-could-benefit-the-most-from-ai/827694/",
-    "id": "ct-f7b9ce51",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "topic": "Exportlog y el nuevo mapa ferial del Litoral: qué significa para la logística de exportación desde el interior",
-    "why_now": "La nota de Global Ports es reciente y todavía no hay una lectura propia desde la logística sobre qué implica que Rosario tenga su propia expo de puertos y comercio exterior.",
-    "fixy_angle": "Fixy puede posicionarse como conocedor temprano del corredor Rosario-Santa Fe antes de que se vuelva un tema masivo, aportando la mirada de quien mueve la mercadería y no solo la del puerto.",
-    "formats": [
-      "nota",
-      "LinkedIn",
-      "prensa"
-    ],
-    "priority": "informativo",
-    "source_url": "https://www.globalports.com.ar/exportlog-2026-reordena-mapa-logistico/",
-    "id": "ct-030f6d02",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
     "topic": "El eCommerce argentino: más pedidos, tickets más chicos, menos plata real",
     "why_now": "El informe de mitad de año de CACE, publicado esta semana, es el dato oficial más reciente sobre el estado del sector y contrasta con la lectura optimista de reportes individuales de plataformas.",
     "fixy_angle": "Mostrar cómo Fixy adapta picking, empaquetado y tarifas al crecimiento de pedidos de bajo ticket sin perder rentabilidad, posicionando a la empresa como la que entiende el negocio real del volumen chico.",
@@ -1128,5 +1037,35 @@
     "source_kind": "auto",
     "last_updated": "2026-09-19",
     "first_seen": "2026-09-19"
+  },
+  {
+    "topic": "Cuando el robo se muda a la camioneta: la última milla ya es el blanco preferido de la piratería del asfalto",
+    "why_now": "Un relevamiento intersectorial acaba de confirmar que el 83% de los robos a vehículos de carga en el último año fue a utilitarios y camionetas de reparto, no a camiones grandes.",
+    "fixy_angle": "Fixy puede compartir, sin exponer detalles operativos sensibles, cómo protege sus entregas (protocolos, tecnología, capacitación) y posicionarse como un operador que toma en serio un riesgo que preocupa cada vez más a marcas y consumidores.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.lanacion.com.ar/seguridad/aumentaron-los-ataques-de-piratas-del-asfalto-a-los-vehiculos-que-reparten-mercaderia-de-e-commerce-nid16092026/",
+    "id": "ct-92a350ce",
+    "source_kind": "auto",
+    "last_updated": "2026-09-20",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "topic": "Uruguay vuelve a parar: qué significa para quien importa o exporta por el puerto de Montevideo",
+    "why_now": "El conflicto portuario en Montevideo, que lleva más de seis meses, escala de nuevo con un paro nacional de 24 horas confirmado para el 21 y 22 de septiembre.",
+    "fixy_angle": "Fixy puede explicar en un formato simple qué opciones tiene una pyme exportadora o importadora para no quedar expuesta a estos cortes recurrentes (rutas alternativas, tiempos de holgura, comunicación proactiva con el cliente final).",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.subrayado.com.uy/sindicato-portuario-convoca-paro-nacional-24-horas-las-7-del-lunes-21-contra-resolucion-servicios-minimos-n1018420",
+    "id": "ct-c5aba6b5",
+    "source_kind": "auto",
+    "last_updated": "2026-09-20",
+    "first_seen": "2026-09-20"
   }
 ]

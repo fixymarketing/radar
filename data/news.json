@@ -966,5 +966,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-19",
     "first_seen": "2026-09-19"
+  },
+  {
+    "title": "Los ataques de piratas del asfalto se concentran cada vez más en los vehículos de reparto del e-commerce",
+    "what_happened": "Un relevamiento de la Mesa Intersectorial contra la Piratería del Transporte de Cargas registró 5.885 robos a vehículos de carga entre julio de 2025 y agosto de 2026, con el 83% de los casos afectando a utilitarios y camionetas de reparto y solo el 17% a camiones grandes. El informe vincula el corrimiento del delito hacia vehículos más chicos con el crecimiento del e-commerce y la última milla, que multiplicó las paradas y la circulación en zonas urbanas.",
+    "why_it_matters": "La última milla se consolidó como el segmento más expuesto de la piratería del asfalto, lo que presiona al alza los costos de seguros, GPS y protocolos de seguridad de los operadores logísticos.",
+    "fixy_impact": "Fixy debería revisar sus protocolos de seguridad en última milla (videovigilancia móvil, telemática y horarios de carga/descarga), ya que las camionetas y utilitarios de reparto son hoy el blanco más buscado según el estudio.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "LA NACION",
+    "source_url": "https://www.lanacion.com.ar/seguridad/aumentaron-los-ataques-de-piratas-del-asfalto-a-los-vehiculos-que-reparten-mercaderia-de-e-commerce-nid16092026/",
+    "published_date": "2026-09-16",
+    "priority": "alta",
+    "tags": [
+      "última milla",
+      "seguridad",
+      "robos",
+      "piratería del asfalto",
+      "costos operativos"
+    ],
+    "id": "nw-4700ce9134",
+    "source_kind": "auto",
+    "last_updated": "2026-09-20",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "title": "El sindicato portuario de Montevideo convocó un nuevo paro nacional de 24 horas en pleno conflicto con TCP",
+    "what_happened": "El Sindicato Único Portuario y Ramas Afines (Supra) convocó un paro nacional portuario de 24 horas desde las 7 del lunes 21 hasta las 7 del martes 22 de septiembre, en rechazo a la resolución de los Ministerios de Trabajo y de Transporte que impuso \"servicios mínimos\" transitorios en la terminal de contenedores del Puerto de Montevideo. El gremio calificó la medida de \"excesiva\" y \"arbitraria\" y ya anunció una asamblea general con corte de actividades para el jueves 24.",
+    "why_it_matters": "El conflicto, que lleva más de seis meses, vuelve a escalar justo cuando la terminal había normalizado parcialmente su operativa, lo que renueva el riesgo de demoras en el comercio exterior regional que pasa por Montevideo.",
+    "fixy_impact": "Los operadores que importan o exportan mercadería vía Montevideo deberían prever demoras el 21 y 22 de septiembre y contemplar stock de contingencia o rutas alternativas.",
+    "category": "Logística",
+    "geo": "LATAM",
+    "source_name": "Subrayado",
+    "source_url": "https://www.subrayado.com.uy/sindicato-portuario-convoca-paro-nacional-24-horas-las-7-del-lunes-21-contra-resolucion-servicios-minimos-n1018420",
+    "published_date": "2026-09-18",
+    "priority": "alta",
+    "tags": [
+      "puerto de Montevideo",
+      "paro",
+      "comercio exterior",
+      "conflicto laboral"
+    ],
+    "id": "nw-e19d279417",
+    "source_kind": "auto",
+    "last_updated": "2026-09-20",
+    "first_seen": "2026-09-20"
   }
 ]

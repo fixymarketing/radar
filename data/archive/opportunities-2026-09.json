@@ -553,5 +553,35 @@
     "source_kind": "auto",
     "last_updated": "2026-09-14",
     "first_seen": "2026-09-14"
+  },
+  {
+    "title": "Asistir hoy a Management Logístico 2026 por el panel de depósitos periféricos y micro hubs",
+    "context": "El evento se realiza hoy en CABA e incluye un panel específico sobre depósitos periféricos y micro hubs, algo directamente relacionado con la estrategia de fulfillment y última milla de Fixy, además de ser una instancia de networking con proveedores y clientes del sector.",
+    "action": "Enviar a alguien de operaciones o comercial a Management Logístico 2026 hoy, priorizando el panel de depósitos periféricos y micro hubs, y relevar contactos de proveedores y potenciales clientes.",
+    "type": "estratégica",
+    "priority": "alta",
+    "source_url": "https://mlencuentro.enfasis.com/",
+    "linked": [
+      "Management Logístico 2026"
+    ],
+    "id": "op-981e51ec",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
+  },
+  {
+    "title": "Prospectar comercios de cercanía que están migrando a la venta online",
+    "context": "Las ventas online de comercios de cercanía crecieron 17,6% en agosto pese a que el retail pyme en general sigue cayendo, lo que muestra que la migración a lo digital de este segmento no depende del ciclo económico. Es un universo de negocios chicos y medianos que hoy probablemente resuelve la logística de manera artesanal.",
+    "action": "Armar una oferta comercial acotada de fulfillment y última milla pensada para comercios de barrio que recién empiezan a vender online, usando el dato de crecimiento del 17,6% como gancho de prospección.",
+    "type": "nueva línea de negocio",
+    "priority": "relevante",
+    "source_url": "https://www.apfdigital.com.ar/noticias/2026/09/07/470066-came-alerto-que-las-ventas-minoristas-pyme-descendieron-0_2por_ciento-interanual-en-agosto",
+    "linked": [
+      "Las ventas online de comercios de cercanía crecieron 17,6% en agosto pese a la caída del retail pyme"
+    ],
+    "id": "op-8a557801",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
   }
 ]

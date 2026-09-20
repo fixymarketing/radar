@@ -949,5 +949,159 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "intl",
+    "name": "Supply Chain Executive Summit 2026",
+    "organizer": "7th Experience",
+    "date_start": "2026-09-16",
+    "date_end": "2026-09-16",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "São Paulo",
+    "province": null,
+    "country": "Brasil",
+    "venue": "WTC Events Center",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://7the.com.br/eventos/supply/",
+    "source_url": "https://www.sympla.com.br/evento/supply-chain-executive-summit-2026/3125407",
+    "description": "Evento exclusivo para líderes de supply chain y logística de Brasil, con foco en tecnología e innovación, sustentabilidad, gestión de riesgo y de costos y talento, en formato de alto nivel y networking selectivo.",
+    "fixy_relevance": "Espacio de networking estratégico de alto nivel con ejecutivos de supply chain brasileños, útil para detectar tendencias regionales y explorar potenciales alianzas comerciales.",
+    "justification_type": "networking",
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-chain-executive-summit-supply-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-08-23",
+    "change_log": [
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "organizer",
+          "url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "intl",
+    "name": "PARCEL Forum 2026",
+    "organizer": "PARCEL / CloserStill Media",
+    "date_start": "2026-09-14",
+    "date_end": "2026-09-16",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Kissimmee (Orlando)",
+    "province": null,
+    "country": "Estados Unidos",
+    "venue": "Gaylord Palms Resort & Convention Center",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.parcelforum.com/",
+    "source_url": "https://vimaan.ai/resources/blog/parcel-forum-2026-guide/",
+    "description": "Conferencia y exposición especializada en distribución de paquetería, última milla y operaciones de parcel shipping en Estados Unidos, con agenda técnica y piso de exhibición de tres días.",
+    "fixy_relevance": "Referencia global en tecnología de última milla y parcel shipping; útil como aprendizaje sobre innovaciones que luego se adaptan al mercado argentino y para relevar proveedores tecnológicos internacionales.",
+    "justification_type": "aprendizaje",
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-forum-parcel-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-08-24",
+    "change_log": [
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "organizer",
+          "city",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "intl",
+    "name": "Mercado Libre Experience Colombia 2026",
+    "organizer": "Mercado Libre / Mercado Pago",
+    "date_start": "2026-09-16",
+    "date_end": "2026-09-16",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Bogotá",
+    "province": null,
+    "country": "Colombia",
+    "venue": "Movistar Arena",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Marketplaces",
+    "url": "https://mercadolibreexperience.com.co/",
+    "source_url": "https://www.technocio.com/mercado-libre-experience-el-evento-de-comercio-electronico-mas-importante-de-america-latina/",
+    "description": "Primera edición en Colombia del evento insignia de Mercado Libre, con más de 3.000 asistentes y 40 speakers en cinco escenarios sobre envíos, publicidad y aceleración de negocios digitales.",
+    "fixy_relevance": "Mercado Libre es uno de los marketplaces clave para el fulfillment de eCommerce en la región; la primera edición colombiana del evento es una puerta de entrada para conectar con sellers, integradores logísticos y el propio marketplace de cara a una eventual expansión regional de Fixy.",
+    "justification_type": "expansión regional",
+    "priority": "alta",
+    "beyond_90": false,
+    "id": "ev-colombia-experience-libre-mercado-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-12",
+    "first_seen": "2026-08-31",
+    "change_log": [
+      {
+        "date": "2026-09-12",
+        "fields": [
+          "organizer",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "Management Logístico 2026",
+    "organizer": "Revista Énfasis Logística",
+    "date_start": "2026-09-16",
+    "date_end": "2026-09-16",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "Buenos Aires (CABA)",
+    "country": "Argentina",
+    "venue": "GoldenCenter (Int. Cantilo y Int. Güiraldes s/n, CABA)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://mlencuentro.enfasis.com/",
+    "source_url": "https://www.innovaciondigital360.com/eventos/management-logistico-2026-referentes-y-empresas-se-reuniran-para-debatir-sobre-los-desafios-de-la-supply-chain/",
+    "description": "Encuentro anual organizado por Énfasis Logística en GoldenCenter (CABA), con agenda sobre automatización, gestión operativa, transporte, distribución y continuidad operativa. Incluye un panel de Cushman & Wakefield y AECAUM sobre el auge de depósitos periféricos y micro hubs frente al crecimiento de la distribución urbana.",
+    "fixy_relevance": "El panel sobre depósitos periféricos y micro hubs es directamente relevante para la estrategia de fulfillment y última milla de Fixy, y es una oportunidad de networking con proveedores y clientes del sector.",
+    "justification_type": null,
+    "priority": "alta",
+    "beyond_90": false,
+    "id": "ev-logistico-management-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-14",
+    "first_seen": "2026-09-11",
+    "change_log": [
+      {
+        "date": "2026-09-14",
+        "fields": [
+          "city",
+          "province",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   }
 ]

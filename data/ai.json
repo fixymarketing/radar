@@ -23,6 +23,28 @@
     "first_seen": "2026-09-16"
   },
   {
+    "name": "Zendesk Industry Agents (Comercio y eCommerce)",
+    "vendor": "Zendesk",
+    "what_it_is": "Son agentes de IA ya entrenados y preconfigurados por Zendesk para las tareas típicas de un rubro, en vez de un bot genérico que hay que armar desde cero. El primero está pensado para comercio y eCommerce.",
+    "what_changed": "Zendesk los lanzó el 14 de septiembre de 2026: vienen listos para gestionar seguimiento de pedidos, devoluciones, demoras en la entrega y reembolsos, con conexión directa a Shopify, Stripe, Narvar y Riskified.",
+    "fixy_use": "Fixy podría usar esta misma lógica en su propio Zendesk para automatizar las consultas más repetitivas de los compradores finales de sus clientes de eCommerce: 'dónde está mi pedido', reclamos por demoras en la última milla y gestión de devoluciones, sin sumar gente al equipo de atención. También sirve de referencia para ordenar mejor los flujos de escalamiento y traducción que Fixy ya tiene cargados en Zendesk.",
+    "verdict": "probar",
+    "verdict_reason": "Ataca justo los tickets de mayor volumen de un operador logístico con integraciones ya armadas, no es una promesa a futuro.",
+    "categories": [
+      "Operaciones",
+      "Logística",
+      "Automatización"
+    ],
+    "pricing_note": "pago - se cobra por resolución verificada y no por asiento; Zendesk todavía no publicó tarifa de lista para la región",
+    "source_url": "https://itbrief.co.uk/story/zendesk-launches-specialised-ai-agents-for-customer-service",
+    "published_date": "2026-09-14",
+    "priority": "alta",
+    "id": "ai-zendesk-zendesk-industry-agents-comercio-y-ecommerce",
+    "source_kind": "auto",
+    "last_updated": "2026-09-20",
+    "first_seen": "2026-09-20"
+  },
+  {
     "name": "Data Agent en ChatGPT Work",
     "vendor": "OpenAI",
     "what_it_is": "Un agente dentro de ChatGPT Work que se conecta a las fuentes de datos de la empresa (planillas, Google Drive, bases de datos, herramientas de BI) y arma paneles y reportes interactivos a partir de preguntas en lenguaje natural.",
@@ -354,6 +376,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-18",
     "first_seen": "2026-09-18"
+  },
+  {
+    "name": "Meta Business Agent: memoria persistente (adquisición de Stilla.ai)",
+    "vendor": "Meta",
+    "what_it_is": "Meta Business Agent es el asistente de IA que ya usan más de un millón de empresas para vender y atender clientes por WhatsApp, Messenger e Instagram: responde consultas, recomienda productos del catálogo y agenda turnos.",
+    "what_changed": "El 18 de septiembre de 2026 se conoció que Meta compró la startup sueca Stilla.ai para sumarle memoria persistente entre conversaciones, de modo que el agente recuerde quién es cada cliente, qué compró antes y si quedó un reclamo pendiente, y así pueda retomar un carrito abandonado o un reclamo sin que la persona repita su historia.",
+    "fixy_use": "Para los clientes de eCommerce de Fixy que atienden por WhatsApp, esto podría significar agentes que retoman consultas de logística sin perder el hilo: si ayer preguntaron por una demora, el agente ya sabe qué pedido es y en qué quedó. Conviene seguirlo antes de prometérselo a un cliente, porque por ahora es un anuncio de compra y todavía no una función disponible para usar.",
+    "verdict": "seguir",
+    "verdict_reason": "La memoria persistente en WhatsApp es muy relevante para Argentina, pero recién se anunció la adquisición y falta ver cuándo se integra de verdad.",
+    "categories": [
+      "Comercial",
+      "Marketing",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado - Meta Business Agent ya cobra por uso, pero la función de memoria de Stilla todavía no tiene fecha ni precio de integración",
+    "source_url": "https://www.forbes.com/sites/jonmarkman/2026/09/18/meta-buys-stillaai-as-its-business-agent-starts-selling-for-1m-firms/",
+    "published_date": "2026-09-18",
+    "priority": "relevante",
+    "id": "ai-meta-meta-business-agent-memoria-persistente-adquisicion-de-",
+    "source_kind": "auto",
+    "last_updated": "2026-09-20",
+    "first_seen": "2026-09-20"
   },
   {
     "name": "ChatGPT for Word",
