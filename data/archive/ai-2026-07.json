@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Claude Cowork en web y móvil con ejecución en segundo plano",
+    "vendor": "Anthropic",
+    "what_it_is": "Cowork es el modo agente de Claude: se le delega una tarea y trabaja sobre archivos, calendario, mail, apps de mensajería, la web y herramientas conectadas hasta terminarla. Anthropic informó que más del 90% del uso no es programación, sino operaciones y contenido.",
+    "what_changed": "El 7 de julio de 2026 llegó a web y móvil: una sesión iniciada en escritorio se retoma desde el celular, y las tareas siguen corriendo sin que el dispositivo esté conectado, con trabajos programados que pueden ejecutarse de noche.",
+    "fixy_use": "Programar una tarea nocturna que cruce el reporte de entregas del día con los reclamos y deje un resumen listo para la reunión de la mañana. Que operaciones arranque una conciliación de facturación de couriers desde la computadora y la revise desde el celular en el depósito. Marketing puede dejarlo armando el borrador del contenido semanal.",
+    "verdict": "probar",
+    "verdict_reason": "El trabajo desatendido y programado es lo que convierte la IA en capacidad operativa real en un equipo chico.",
+    "categories": [
+      "Automatización",
+      "Operaciones",
+      "Productividad",
+      "Gestión del tiempo",
+      "Organización"
+    ],
+    "pricing_note": "Pago: beta que arrancó en plan Max con expansión a otros planes. Escritorio sigue siendo la experiencia completa.",
+    "source_url": "https://claude.com/blog/cowork-web-mobile",
+    "published_date": "2026-07-07",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-cowork-en-web-y-movil-con-ejecucion-en-segu",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  }
+]

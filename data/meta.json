@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-09-20T12:22:23.345Z",
-  "last_updated_ar": "20/09/2026, 09:22",
-  "date": "2026-09-20",
+  "generated_at": "2026-09-21T12:25:15.635Z",
+  "last_updated_ar": "21/09/2026, 09:25",
+  "date": "2026-09-21",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Un nuevo paro portuario en Montevideo y un salto de los robos a camionetas de reparto ponen a la última milla en el centro de los riesgos de la semana, justo cuando Zendesk lanza agentes de IA ya armados para automatizar esas mismas consultas de seguimiento y reclamos.",
+  "summary_line": "El día combina una alerta operativa inmediata en el puerto de Montevideo con tres señales de mediano plazo -paritaria de Camioneros, nueva exigencia regulatoria de Mercosur y la escala que ya tiene Mercado Libre en el interior- que piden a Fixy avisar a clientes en tránsito, vender previsibilidad de tarifa y salir a buscar vendedores nuevos antes que la competencia.",
   "counters": {
     "news_today": 2,
-    "news_total": 44,
-    "events_upcoming": 70,
-    "events_ar_upcoming": 40,
+    "news_total": 45,
+    "events_upcoming": 72,
+    "events_ar_upcoming": 42,
     "events_intl_upcoming": 30,
-    "events_later": 29,
+    "events_later": 30,
     "opportunities_open": 8,
-    "opportunities_today": 2,
-    "ai_today": 2,
-    "ai_to_try": 48,
+    "opportunities_today": 3,
+    "ai_today": 3,
+    "ai_to_try": 49,
     "content_ideas": 71,
     "added_news": 2,
     "updated_news": 0,
-    "added_events": 2,
-    "updated_events": 0,
-    "added_ai": 2,
+    "added_events": 3,
+    "updated_events": 2,
+    "added_ai": 3,
     "archived": 12,
     "discarded_quality": 0
   },
@@ -30,7 +30,7 @@
     "name": "Nerdearla Argentina 2026",
     "date_start": "2026-09-22",
     "city": "CABA",
-    "days_away": 2
+    "days_away": 1
   },
   "highlights": [
     {
@@ -38,28 +38,35 @@
       "kind": "news",
       "title": "El sindicato portuario de Montevideo convocó un nuevo paro nacional de 24 horas en pleno conflicto con TCP",
       "priority": "alta",
-      "one_liner": "El paro arranca mañana lunes a las 7 y renueva el riesgo de demoras para toda la carga de comercio exterior que pasa por Montevideo."
+      "one_liner": "El paro arranca hoy mismo a las 7 y puede demorar cargas de comercio exterior que hoy pasan por Montevideo."
     },
     {
-      "id": "nw-4700ce9134",
+      "id": "nw-2c10c0d2d6",
       "kind": "news",
-      "title": "Los ataques de piratas del asfalto se concentran cada vez más en los vehículos de reparto del e-commerce",
+      "title": "Camioneros cerró una paritaria de 6,6% semestral y un bono de $1.200.000",
       "priority": "alta",
-      "one_liner": "El 83% de los robos a vehículos de carga ya es a utilitarios y camionetas de reparto, justo el segmento que explotó con el crecimiento del e-commerce."
+      "one_liner": "Da previsibilidad de costo laboral de transporte por 6 meses, un dato clave para cotizar contratos con clientes."
     },
     {
-      "id": "ai-zendesk-zendesk-industry-agents-comercio-y-ecommerce",
-      "kind": "ai",
-      "title": "Zendesk Industry Agents (Comercio y eCommerce)",
+      "id": "nw-1707cb90c3",
+      "kind": "news",
+      "title": "Mercosur exige a las tiendas online informar los derechos del consumidor, bajo riesgo de baja de dominio",
       "priority": "alta",
-      "one_liner": "Zendesk lanzó agentes de IA preconfigurados para seguimiento de pedidos, devoluciones y reembolsos, listos para probar en el mismo Zendesk que ya usa Fixy."
+      "one_liner": "Une por primera vez el cumplimiento legal con la continuidad técnica de cualquier tienda online de la región."
     },
     {
-      "id": "ai-meta-meta-business-agent-memoria-persistente-adquisicion-de-",
-      "kind": "ai",
-      "title": "Meta Business Agent: memoria persistente (adquisición de Stilla.ai)",
+      "id": "nw-74e3417973",
+      "kind": "news",
+      "title": "Mercado Libre presenta \"Efecto MELI\": su ecosistema ya representa el 1% del PBI argentino",
       "priority": "relevante",
-      "one_liner": "Meta compró Stilla.ai para que su agente de WhatsApp recuerde el historial de cada cliente, algo a seguir de cerca antes de prometérselo a un cliente de eCommerce."
+      "one_liner": "Confirma la escala de MELI como infraestructura económica y acelera la adopción de IA y la llegada al interior entre sus vendedores pyme."
+    },
+    {
+      "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
+      "kind": "ai",
+      "title": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
+      "priority": "alta",
+      "one_liner": "Desde octubre Fixy puede empezar a pagar por los mensajes de servicio que hoy manda gratis, así que conviene cuantificar el volumen esta semana."
     }
   ]
 }

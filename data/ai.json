@@ -357,6 +357,28 @@
     "first_seen": "2026-08-22"
   },
   {
+    "name": "Perplexity Connectors y memoria mejorada",
+    "vendor": "Perplexity AI",
+    "what_it_is": "Perplexity es un buscador con IA que responde con fuentes citadas y permite conectar herramientas externas para buscar y actualizar información en ellas.",
+    "what_changed": "Entre el 17 y el 19 de septiembre de 2026 Perplexity sumó conectores personalizados (para enlazar cualquier servidor MCP propio), controles de esfuerzo de razonamiento, conectores nuevos a Notion, Linear y GitHub, y memoria mejorada que recuerda el contexto entre conversaciones para usuarios con sesión iniciada.",
+    "fixy_use": "Marketing o management podrían usar Perplexity para investigar competidores, normativa de envíos o tendencias de eCommerce con fuentes verificables citadas (una tarea muy parecida a este mismo relevamiento), y con la memoria mejorada no hay que repetir el contexto de Fixy en cada consulta. Si el equipo documenta procesos en Notion, el conector nuevo permite pedirle a Perplexity que busque información y actualice esas páginas directamente.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis en su versión básica y resuelve un dolor real del equipo (investigar rápido con fuentes confiables) sin curva de aprendizaje.",
+    "categories": [
+      "Análisis",
+      "Management",
+      "Productividad"
+    ],
+    "pricing_note": "freemium: la búsqueda básica es gratuita; los conectores personalizados por MCP y las integraciones con Notion, Linear y GitHub son para cuentas Enterprise Pro o Max",
+    "source_url": "https://www.perplexity.ai/changelog/what-we-shipped-september-19th",
+    "published_date": "2026-09-19",
+    "priority": "relevante",
+    "id": "ai-perplexity-ai-perplexity-connectors-y-memoria-mejorada",
+    "source_kind": "auto",
+    "last_updated": "2026-09-21",
+    "first_seen": "2026-09-21"
+  },
+  {
     "name": "Zendesk: escalamiento automático en Agentic Messaging",
     "vendor": "Zendesk",
     "what_it_is": "Es una función de los agentes de IA de mensajería de Zendesk que decide cuándo un chatbot dejó de poder resolver un caso solo.",
@@ -447,23 +469,23 @@
   {
     "name": "WhatsApp Business Tools MCP",
     "vendor": "Meta",
-    "what_it_is": "Es un servidor MCP que conecta agentes de IA como Claude, ChatGPT, Cursor o Codex directamente con la plataforma de WhatsApp Business, para configurar cuentas, números, plantillas de mensajes y webhooks charlando en vez de navegar el Developer Console.",
-    "what_changed": "Meta lo lanzó el 15 de septiembre de 2026, con despliegue gradual, para sacar de en medio el ida y vuelta manual entre Business Manager, la documentación de la API y el editor de código a la hora de dar de alta o modificar una cuenta de WhatsApp Business.",
-    "fixy_use": "Si Fixy necesita crear o ajustar plantillas de aviso de estado de pedido o webhooks de seguimiento por WhatsApp, alguien del equipo con conocimientos técnicos básicos puede pedirle a Claude o ChatGPT que resuelva la configuración en lugar de depender de un desarrollador externo o de aprender la consola de Meta a fondo. Achica el tiempo y el costo para lanzar o retocar automatizaciones de atención al cliente por WhatsApp.",
+    "what_it_is": "Es un servidor MCP de Meta que conecta agentes de IA (Claude, ChatGPT, Cursor, Codex) directamente con la plataforma de WhatsApp Business, para configurar y administrar la mensajería comercial describiendo la tarea en un chat en vez de navegar consolas separadas.",
+    "what_changed": "El 15 de septiembre de 2026 Meta amplió lo que ese servidor puede resolver por chat: crear la cuenta de WhatsApp Business, verificar el número, dar de alta el acceso a la Cloud API y revisar los Términos de Servicio, tareas que antes obligaban a pasar por el Developer Console, el Business Manager y la documentación de la API por separado.",
+    "fixy_use": "Fixy podría pedirle a Claude o ChatGPT que configure o audite la cuenta de WhatsApp Business que usa para atención de envíos y coordinación con clientes, sin que nadie del equipo tenga que aprender la consola de Meta. También sirve para dar de alta rápido un número nuevo (por ejemplo una línea separada para reclamos) o chequear que los webhooks de notificaciones de envío sigan activos.",
     "verdict": "seguir",
-    "verdict_reason": "Es útil pero técnico y de despliegue gradual, conviene esperar a que esté disponible del todo y ver casos de uso concretos antes de invertirle tiempo.",
+    "verdict_reason": "El despliegue es gradual y todavía apunta a gente con perfil técnico, así que conviene esperar a que esté disponible sin fricción para un equipo sin desarrolladores propios.",
     "categories": [
       "Operaciones",
       "Automatización",
       "Comercial"
     ],
-    "pricing_note": "gratis — el servidor MCP no tiene costo propio, se mantiene el costo habitual de los mensajes de WhatsApp Business",
-    "source_url": "https://developers.facebook.com/documentation/mcp/whatsapp-business-tools-mcp",
+    "pricing_note": "gratis: el servidor MCP no tiene costo adicional, pero se necesita un agente de IA con capacidad MCP (Claude o ChatGPT en sus planes pagos) para usarlo",
+    "source_url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
     "published_date": "2026-09-15",
     "priority": "relevante",
     "id": "ai-meta-whatsapp-business-tools-mcp",
     "source_kind": "auto",
-    "last_updated": "2026-09-16",
+    "last_updated": "2026-09-21",
     "first_seen": "2026-09-16"
   },
   {
@@ -554,6 +576,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-18",
     "first_seen": "2026-09-18"
+  },
+  {
+    "name": "Gen-1 Slides",
+    "vendor": "Genspark",
+    "what_it_is": "Genspark es una plataforma de IA que genera presentaciones, documentos y páginas a partir de un pedido en lenguaje natural; Gen-1 Slides es su primer modelo propio, entrenado específicamente para armar presentaciones.",
+    "what_changed": "El 10 de septiembre de 2026 Genspark lanzó Gen-1 Slides, un modelo que según sus propias pruebas iguala en calidad a Claude Opus 5 para armar diapositivas pero a una fracción del costo, y ya es el modo por defecto de su herramienta de presentaciones (AI Slides).",
+    "fixy_use": "El área comercial podría generar rápido una presentación prolija para un cliente potencial o un pitch de fulfillment (storage, picking, última milla) a partir de un texto simple, sin depender de un diseñador. También sirve para armar informes visuales internos (resultados del mes, propuestas de proceso) sin invertir horas en PowerPoint o Canva.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis en el modo estándar y ataca una tarea recurrente del equipo (armar presentaciones) sin curva de aprendizaje ni compromiso de pago.",
+    "categories": [
+      "Marketing",
+      "Comercial",
+      "Contenido"
+    ],
+    "pricing_note": "freemium: el modo Standard con Gen-1 está incluido en todos los planes; el modo Ultra con modelos de otros laboratorios es pago",
+    "source_url": "https://www.genspark.ai/blog/gen-1-slides",
+    "published_date": "2026-09-10",
+    "priority": "relevante",
+    "id": "ai-genspark-gen-1-slides",
+    "source_kind": "auto",
+    "last_updated": "2026-09-21",
+    "first_seen": "2026-09-21"
   },
   {
     "name": "ChatGPT: Library Sharing (carpetas compartidas)",
@@ -1493,30 +1537,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "name": "Claude Cowork en web y móvil con ejecución en segundo plano",
-    "vendor": "Anthropic",
-    "what_it_is": "Cowork es el modo agente de Claude: se le delega una tarea y trabaja sobre archivos, calendario, mail, apps de mensajería, la web y herramientas conectadas hasta terminarla. Anthropic informó que más del 90% del uso no es programación, sino operaciones y contenido.",
-    "what_changed": "El 7 de julio de 2026 llegó a web y móvil: una sesión iniciada en escritorio se retoma desde el celular, y las tareas siguen corriendo sin que el dispositivo esté conectado, con trabajos programados que pueden ejecutarse de noche.",
-    "fixy_use": "Programar una tarea nocturna que cruce el reporte de entregas del día con los reclamos y deje un resumen listo para la reunión de la mañana. Que operaciones arranque una conciliación de facturación de couriers desde la computadora y la revise desde el celular en el depósito. Marketing puede dejarlo armando el borrador del contenido semanal.",
-    "verdict": "probar",
-    "verdict_reason": "El trabajo desatendido y programado es lo que convierte la IA en capacidad operativa real en un equipo chico.",
-    "categories": [
-      "Automatización",
-      "Operaciones",
-      "Productividad",
-      "Gestión del tiempo",
-      "Organización"
-    ],
-    "pricing_note": "Pago: beta que arrancó en plan Max con expansión a otros planes. Escritorio sigue siendo la experiencia completa.",
-    "source_url": "https://claude.com/blog/cowork-web-mobile",
-    "published_date": "2026-07-07",
-    "priority": "relevante",
-    "id": "ai-anthropic-claude-cowork-en-web-y-movil-con-ejecucion-en-segu",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
     "name": "Zendesk: rastreador web renovado y más conectores de contenido",
     "vendor": "Zendesk",
     "what_it_is": "El rastreador web y los conectores que alimentan la base de conocimiento de los agentes de IA de Zendesk con contenido de sitios propios y fuentes externas.",
@@ -1560,6 +1580,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-19",
     "first_seen": "2026-09-19"
+  },
+  {
+    "name": "Notion 3.7: Agent Skills",
+    "vendor": "Notion",
+    "what_it_is": "Notion es un espacio de trabajo para documentos, bases de datos y proyectos; sus agentes de IA ahora pueden guardar \"skills\", instrucciones reutilizables que enseñan cómo trabaja el equipo.",
+    "what_changed": "El 15 de septiembre de 2026 Notion lanzó la versión 3.7 con Agent Skills: una biblioteca compartida donde cualquier persona del equipo puede convertir una forma efectiva de pedirle algo a la IA en una instrucción reutilizable que todos pueden usar y mantener actualizada, en vez de reescribirla cada vez.",
+    "fixy_use": "Si Fixy usa o llega a adoptar Notion, el equipo chico podría guardar ahí una skill para que cualquiera arme el reporte semanal de operaciones con el mismo formato, o para que atención al cliente redacte respuestas con el tono de la marca sin reinventar la rueda cada vez. Esto evita que el \"saber pedirle bien a la IA\" quede solo en la cabeza de una persona del equipo.",
+    "verdict": "seguir",
+    "verdict_reason": "Es útil para estandarizar procesos con un equipo chico, pero solo tiene sentido si Fixy ya usa o piensa migrar a Notion como espacio de trabajo.",
+    "categories": [
+      "Organización",
+      "Productividad",
+      "Management"
+    ],
+    "pricing_note": "freemium: Notion tiene plan gratuito limitado; los agentes de IA y Agent Skills requieren un plan pago con el add-on de IA",
+    "source_url": "https://www.notion.com/releases/2026-09-15",
+    "published_date": "2026-09-15",
+    "priority": "informativo",
+    "id": "ai-notion-notion-3-7-agent-skills",
+    "source_kind": "auto",
+    "last_updated": "2026-09-21",
+    "first_seen": "2026-09-21"
   },
   {
     "name": "OpenAI Agents API",

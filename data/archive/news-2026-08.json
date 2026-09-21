@@ -896,5 +896,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-31",
     "first_seen": "2026-08-31"
+  },
+  {
+    "title": "Tiendanube revela que su IA Lumi ya acumula 2,38 millones de interacciones en tiendas de moda argentinas",
+    "what_happened": "Tiendanube difundió datos de Lumi, su capa de inteligencia artificial nativa con 30 agentes para catálogo, pedidos y métricas: en seis meses sumó 2,38 millones de interacciones, con 600.000 descripciones de producto generadas y más de 700.000 optimizaciones de SEO, con un 85,6% de aceptación de las acciones propuestas por los comercios. La compañía señaló que uno de cada cuatro comercios pagos en Argentina ya integra IA, el segundo mercado de adopción de la red detrás de Brasil.",
+    "why_it_matters": "Muestra que la adopción de IA operativa entre los emprendimientos de moda online argentinos ya es masiva y medible, no solo discurso de eventos, lo que va a subir la vara de lo que esos comercios esperan de sus proveedores (incluidos los logísticos) en velocidad y personalización.",
+    "fixy_impact": "Los comercios de indumentaria que usan estas herramientas van a esperar integraciones más ágiles y cotización de envíos en tiempo real; vale la pena chequear qué tan aceitada está la propia integración de Fixy con Tiendanube frente a esa expectativa creciente.",
+    "category": "IA aplicada",
+    "geo": "Argentina",
+    "source_name": "iProfesional",
+    "source_url": "https://www.iprofesional.com/tecnologia/462986-como-la-inteligencia-artificial-impulsa-las-ventas-de-moda-online-en-la-argentina",
+    "published_date": "2026-08-30",
+    "priority": "relevante",
+    "tags": [
+      "Tiendanube",
+      "IA",
+      "moda online",
+      "agentes IA",
+      "comercio unificado"
+    ],
+    "id": "nw-2945453997",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
   }
 ]

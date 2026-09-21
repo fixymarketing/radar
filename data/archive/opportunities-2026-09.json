@@ -583,5 +583,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-16",
     "first_seen": "2026-09-16"
+  },
+  {
+    "title": "Anticipar la recuperación de demanda en el Interior antes que en CABA para la planificación de fin de año",
+    "context": "El Índice de Confianza del Consumidor de la Universidad Di Tella subió en septiembre por primera vez en tres meses, con una mejora liderada por el Interior del país mientras CABA todavía cae. Si la tendencia se sostiene, la demanda online podría repuntar antes en las provincias que en la Ciudad.",
+    "action": "Revisar con el equipo comercial la capacidad operativa en plazas del Interior de cara al Cyber Monday y el cierre de año, priorizando refuerzo de stock y rutas en las zonas donde la confianza mejoró más.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/09/17/la-confianza-del-consumidor-subio-24-en-septiembre-y-corto-dos-meses-de-caida/",
+    "linked": [
+      "La confianza del consumidor argentino subió en septiembre y cortó dos meses de caída"
+    ],
+    "id": "op-4b43ce02",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "Cuantificar los mensajes de servicio de WhatsApp antes de que arranque el cobro el 1° de octubre",
+    "context": "Meta confirmó que desde el 1° de octubre cada número de WhatsApp Business tiene 1.000 mensajes de servicio gratis por mes y cobra el resto al valor de las plantillas de utilidad y autenticación de cada país. A Fixy le quedan menos de dos semanas para saber si su volumen de seguimiento de pedidos y coordinación de entregas con clientes finales supera ese límite.",
+    "action": "Pedirle a operaciones que mida cuántos mensajes de servicio se mandan hoy por WhatsApp y decidir si conviene sumar un segundo número de WhatsApp Business o derivar las consultas repetitivas de \"¿dónde está mi pedido?\" a un bot o a las FAQ antes de que arranque el cobro.",
+    "type": "estratégica",
+    "priority": "alta",
+    "source_url": "https://www.infobae.com/tecno/2026/09/06/whatsapp-business-cobrara-por-responder-mensajes-en-2026-a-quienes-afecta-y-a-quienes-no/",
+    "linked": [
+      "WhatsApp Business: cobro de mensajes de servicio desde octubre"
+    ],
+    "id": "op-3f286f55",
+    "source_kind": "auto",
+    "last_updated": "2026-09-17",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "title": "Repensar la tarifa para pedidos de bajo ticket ante la baja del piso de envío gratis en Meli+",
+    "context": "Mercado Libre bajó a $15.000 el piso de envío gratis para usuarios Meli+, lo que va a multiplicar los pedidos de bajo valor. En ese tipo de operación el costo logístico pesa proporcionalmente mucho más sobre el ticket final, y son justamente los clientes de Fixy que venden en Mercado Libre los que van a sentir ese apriete de margen.",
+    "action": "Analizar con los clientes que operan en Mercado Libre el impacto del piso de $15.000 sobre su volumen de pedidos chicos, y ofrecerles una tarifa diferencial o un esquema de consolidación de envíos de bajo valor para sostener el margen.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.cronista.com/negocios/fuerte-apuesta-de-mercado-libre-en-envios-gratis-para-ganar-mas-usuarios-premium/",
+    "linked": [
+      "Mercado Libre baja a $15.000 el piso para envíos gratis en Meli+"
+    ],
+    "id": "op-4fce4abd",
+    "source_kind": "auto",
+    "last_updated": "2026-09-16",
+    "first_seen": "2026-09-16"
   }
 ]

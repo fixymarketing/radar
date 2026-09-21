@@ -95,29 +95,6 @@
     "first_seen": "2026-09-01"
   },
   {
-    "title": "Tiendanube revela que su IA Lumi ya acumula 2,38 millones de interacciones en tiendas de moda argentinas",
-    "what_happened": "Tiendanube difundió datos de Lumi, su capa de inteligencia artificial nativa con 30 agentes para catálogo, pedidos y métricas: en seis meses sumó 2,38 millones de interacciones, con 600.000 descripciones de producto generadas y más de 700.000 optimizaciones de SEO, con un 85,6% de aceptación de las acciones propuestas por los comercios. La compañía señaló que uno de cada cuatro comercios pagos en Argentina ya integra IA, el segundo mercado de adopción de la red detrás de Brasil.",
-    "why_it_matters": "Muestra que la adopción de IA operativa entre los emprendimientos de moda online argentinos ya es masiva y medible, no solo discurso de eventos, lo que va a subir la vara de lo que esos comercios esperan de sus proveedores (incluidos los logísticos) en velocidad y personalización.",
-    "fixy_impact": "Los comercios de indumentaria que usan estas herramientas van a esperar integraciones más ágiles y cotización de envíos en tiempo real; vale la pena chequear qué tan aceitada está la propia integración de Fixy con Tiendanube frente a esa expectativa creciente.",
-    "category": "IA aplicada",
-    "geo": "Argentina",
-    "source_name": "iProfesional",
-    "source_url": "https://www.iprofesional.com/tecnologia/462986-como-la-inteligencia-artificial-impulsa-las-ventas-de-moda-online-en-la-argentina",
-    "published_date": "2026-08-30",
-    "priority": "relevante",
-    "tags": [
-      "Tiendanube",
-      "IA",
-      "moda online",
-      "agentes IA",
-      "comercio unificado"
-    ],
-    "id": "nw-2945453997",
-    "source_kind": "auto",
-    "last_updated": "2026-09-02",
-    "first_seen": "2026-09-02"
-  },
-  {
     "title": "El Gobierno lanzó un paquete de seis medidas para sostener el consumo antes de octubre",
     "what_happened": "El 3 de septiembre el Gobierno activó un paquete de seis medidas para recomponer el poder adquisitivo: mayor inyección de pesos en la última licitación de deuda para bajar tasas, tarifas de septiembre actualizadas por debajo de la inflación, un aumento de la bonificación eléctrica al 25% (75% sumado al descuento base, con el tope de consumo bonificable subiendo de 150 a 200 kWh), una bonificación extraordinaria del 24,5% en gas natural, la postergación del aumento del impuesto a los combustibles y una suba salarial escalonada del 12,22% para las fuerzas de seguridad entre septiembre y diciembre. Las medidas buscan frenar la caída del consumo antes de las elecciones legislativas de octubre.",
     "why_it_matters": "Es una señal de que el Gobierno reconoce el deterioro del consumo masivo (siete meses consecutivos en baja) y busca revertirlo con alivio de bolsillo antes de octubre, lo que podría traducirse en un leve repunte de ticket promedio en el corto plazo.",
@@ -1011,5 +988,51 @@
     "source_kind": "auto",
     "last_updated": "2026-09-20",
     "first_seen": "2026-09-20"
+  },
+  {
+    "title": "Camioneros cerró una paritaria de 6,6% semestral y un bono de $1.200.000",
+    "what_happened": "El gremio de Camioneros que lidera Hugo Moyano firmó con FAETYL y FADEEAC un nuevo acuerdo salarial para el período septiembre 2026-febrero 2027, con un aumento escalonado que suma 6,6% (1,8% en septiembre, 1,7% en octubre y noviembre, 1,6% en diciembre y enero, y 1,5% en febrero). El acuerdo incluye una suma fija no remunerativa de $18.000 en septiembre y un bono de fin de año de $1.200.000 pagadero en cuatro cuotas a partir de enero de 2027.",
+    "why_it_matters": "El acuerdo está alineado con la pauta salarial moderada que impulsa el Gobierno y le da previsibilidad de costos laborales al transporte de cargas por los próximos seis meses, en un gremio clave para toda la cadena logística argentina.",
+    "fixy_impact": "Fixy puede proyectar con más certeza sus costos de transporte y flete para el próximo semestre, ya que buena parte de la estructura de costos de última milla y distribución depende directamente de esta paritaria.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/politica/2026/09/18/hugo-moyano-volvio-a-firmar-un-acuerdo-salarial-alineado-con-la-pauta-del-gobierno-que-regira-durante-6-meses/",
+    "published_date": "2026-09-18",
+    "priority": "alta",
+    "tags": [
+      "camioneros",
+      "paritarias",
+      "costos logísticos",
+      "transporte de cargas",
+      "Moyano"
+    ],
+    "id": "nw-2c10c0d2d6",
+    "source_kind": "auto",
+    "last_updated": "2026-09-21",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "El desempleo subió a 7,9% y la informalidad laboral tocó el 45% en el segundo trimestre",
+    "what_happened": "Según la Encuesta Permanente de Hogares (EPH) del INDEC, la desocupación llegó a 7,9% en el segundo trimestre de 2026, una de las tasas más altas desde la pandemia, y la informalidad laboral subió a 45% de los ocupados, frente al 43,2% de un año atrás (un aumento que el propio INDEC calificó de estadísticamente significativo). El Régimen de Incentivo a la Formalización Laboral (RIFL), lanzado junto con la reforma laboral, no logró revertir la tendencia.",
+    "why_it_matters": "El dato muestra que la reforma laboral y sus incentivos todavía no alcanzan para formalizar el empleo, en particular en sectores intensivos en mano de obra como comercio, industria y construcción, lo que sostiene la precariedad en la base de la cadena de consumo.",
+    "fixy_impact": null,
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "ABC Color (con datos de INDEC-EPH)",
+    "source_url": "https://www.abc.com.py/internacionales/2026/09/17/la-informalidad-laboral-bate-un-nuevo-record-en-argentina-y-sube-al-45/",
+    "published_date": "2026-09-17",
+    "priority": "informativo",
+    "tags": [
+      "empleo",
+      "informalidad",
+      "INDEC",
+      "reforma laboral",
+      "EPH"
+    ],
+    "id": "nw-c43fbb8a8e",
+    "source_kind": "auto",
+    "last_updated": "2026-09-21",
+    "first_seen": "2026-09-21"
   }
 ]

@@ -166,5 +166,50 @@
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
+  },
+  {
+    "topic": "El eCommerce argentino: más pedidos, tickets más chicos, menos plata real",
+    "why_now": "El informe de mitad de año de CACE, publicado esta semana, es el dato oficial más reciente sobre el estado del sector y contrasta con la lectura optimista de reportes individuales de plataformas.",
+    "fixy_angle": "Mostrar cómo Fixy adapta picking, empaquetado y tarifas al crecimiento de pedidos de bajo ticket sin perder rentabilidad, posicionando a la empresa como la que entiende el negocio real del volumen chico.",
+    "formats": [
+      "LinkedIn",
+      "artículo"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/08/20/las-ventas-online-crecieron-21-en-un-ano-pero-cayo-la-facturacion-cuales-fueron-los-productos-mas-buscados/",
+    "id": "ct-1fbcca7b",
+    "source_kind": "auto",
+    "last_updated": "2026-08-21",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "topic": "Lo que las franquicias necesitan para vender online sin quedar mal paradas en el envío",
+    "why_now": "Expo Franquicias Argentina 2026 reactiva el debate de digitalización de cadenas franquiciadas justo cuando muchas están sumando canal online por primera vez.",
+    "fixy_angle": "Posicionar a Fixy como el partner logístico que entiende la particularidad de una red con múltiples puntos de venta, no solo de una tienda online única.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "informativo",
+    "source_url": "https://aamf.com.ar/evento/",
+    "id": "ct-a07eea9e",
+    "source_kind": "auto",
+    "last_updated": "2026-08-21",
+    "first_seen": "2026-08-21"
+  },
+  {
+    "topic": "La factura oculta de automatizar la atención por WhatsApp",
+    "why_now": "Meta empezó a cobrar por token el Business Agent de WhatsApp desde el 1° de agosto, terminando la etapa de prueba gratuita para los comercios que lo usan para seguimiento de pedidos.",
+    "fixy_angle": "Conectar el tema con la atención post-venta del '¿dónde está mi pedido?': muchos clientes de Fixy automatizan esa consulta por WhatsApp y ahora tienen que presupuestar el costo por conversación.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.techtimes.com/articles/320787/20260716/meta-business-agent-billing-starts-aug-1-free-test-window-ends-days.htm",
+    "id": "ct-2c30d96f",
+    "source_kind": "auto",
+    "last_updated": "2026-08-21",
+    "first_seen": "2026-08-21"
   }
 ]
