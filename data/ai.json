@@ -512,6 +512,50 @@
     "first_seen": "2026-09-18"
   },
   {
+    "name": "Gemini 3.8 Live y Gemini 3.8 Live Extended Thinking",
+    "vendor": "Google",
+    "what_it_is": "Son los modelos de voz más nuevos de Google, que escuchan y hablan al mismo tiempo (habla nativa, sin pasar primero por texto) para armar agentes de voz que sostienen una conversación fluida por teléfono o por una app.",
+    "what_changed": "Google los lanzó el 15 de septiembre de 2026 en la API de Gemini y en Google AI Studio, reemplazando al modelo de voz Live anterior al mismo precio; la versión Extended Thinking puede razonar varios pasos (buscar un dato, consultar un sistema) mientras sigue hablando, algo pensado específicamente para agentes de atención al cliente.",
+    "fixy_use": "Es la base técnica (vía un integrador o una plataforma de voz que ya lo use) para armar un contestador automático que atienda fuera de horario consultas de tipo '¿dónde está mi pedido?' o coordine una entrega, autenticando al cliente y explicando el estado por voz de forma natural. Al igual que GPT-Live-1 de OpenAI (ya en el radar), hoy es una pieza técnica que requiere un desarrollador o un proveedor externo, no algo que el equipo instale directo.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una alternativa técnica competitiva a GPT-Live-1 para armar agentes de voz, pero exige integración vía desarrollador o proveedor externo antes de que Fixy la pueda usar.",
+    "categories": [
+      "Operaciones",
+      "Logística",
+      "Automatización"
+    ],
+    "pricing_note": "pago — se factura por uso en la API de Gemini; Google no publicó una tarifa oficial completa, estimaciones de terceros ubican el audio de entrada en el orden de USD 0,84 por hora",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "published_date": "2026-09-15",
+    "priority": "relevante",
+    "id": "ai-google-gemini-3-8-live-y-gemini-3-8-live-extended-thinking",
+    "source_kind": "auto",
+    "last_updated": "2026-09-22",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "name": "Luna de Gurú",
+    "vendor": "Gurú",
+    "what_it_is": "Es una asistente virtual de IA gratuita pensada específicamente para pymes argentinas, que responde mensajes de WhatsApp las 24 horas, arma y publica contenido para redes sociales, gestiona una agenda online y envía campañas de email marketing desde un mismo lugar.",
+    "what_changed": "La empresa argentina Gurú la presentó el 11 de septiembre de 2026, con desarrollo apoyado por una beca de Google (12 ingenieros de la compañía colaboraron); ya la usan más de 550 empresas argentinas y ofrece un acceso de prueba gratuito pensado para pymes que recién empiezan a usar IA.",
+    "fixy_use": "Marketing podría probarla para automatizar la primera respuesta de WhatsApp a leads comerciales (consultas de fulfillment o cotizaciones) fuera de horario, y para armar publicaciones de redes sin depender de un diseñador. También sirve como referencia de precio y alcance a la hora de comparar contra la atención por WhatsApp que Fixy ya tiene armada con Zendesk.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis, está pensada específicamente para pymes argentinas como Fixy y ataca tareas concretas de marketing y primer contacto comercial sin curva de aprendizaje.",
+    "categories": [
+      "Marketing",
+      "Comercial",
+      "Automatización"
+    ],
+    "pricing_note": "freemium — acceso de prueba gratuito; no está confirmado si en el futuro suma un plan pago",
+    "source_url": "https://www.lanacion.com.ar/economia/IA/la-principal-barrera-es-el-entendimiento-una-herramienta-con-ia-busca-simplificar-el-dia-a-dia-de-nid11092026/",
+    "published_date": "2026-09-11",
+    "priority": "relevante",
+    "id": "ai-guru-luna-de-guru",
+    "source_kind": "auto",
+    "last_updated": "2026-09-22",
+    "first_seen": "2026-09-22"
+  },
+  {
     "name": "Zendesk: Traducción en tiempo real (chat y voz)",
     "vendor": "Zendesk",
     "what_it_is": "Función de Zendesk que traduce automáticamente las conversaciones de chat en vivo y mensajería, y que ahora suma traducción de voz bidireccional en llamadas del centro de contacto, para que cliente y agente hablen cada uno en su propio idioma.",

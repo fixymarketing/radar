@@ -919,5 +919,52 @@
     "source_kind": "auto",
     "last_updated": "2026-09-02",
     "first_seen": "2026-09-02"
+  },
+  {
+    "title": "El BCRA habilita el débito automático de cuotas de préstamos desde cuentas bancarias y billeteras",
+    "what_happened": "Desde el 31 de agosto está operativo el \"Cobro con Transferencia\" (CCT), el mecanismo del BCRA (Comunicación \"A\" 8406) que permite a bancos y billeteras virtuales debitar automáticamente -con autorización previa y revocable del usuario- las cuotas de préstamos digitales desde la cuenta donde se acreditó el crédito. El sistema solo aplica a cuotas fijas e iguales y fija un tope del 30% entre la cuota y el ingreso del usuario al momento de otorgar el crédito.",
+    "why_it_matters": "La normativa, anunciada meses atrás, pasa ahora de estar aprobada a estar en vigencia: reduce el riesgo de impago para bancos y billeteras, pero reabre el debate sobre sobreendeudamiento en un contexto de mora récord en el sistema de créditos digitales.",
+    "fixy_impact": null,
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "ATP Santa Fe (con datos del BCRA)",
+    "source_url": "https://www.atpsantafe.com.ar/2026/08/31/las-billeteras-virtuales-podran-sacar-plata-de-tu-cuenta-para-cobrar-deudas-como-funcionara-el-nuevo-sistema/",
+    "published_date": "2026-08-31",
+    "priority": "relevante",
+    "tags": [
+      "BCRA",
+      "billeteras virtuales",
+      "crédito",
+      "regulación",
+      "pagos"
+    ],
+    "id": "nw-cfa3858ebb",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-08-27",
+    "updated_flag": true
+  },
+  {
+    "title": "El Gobierno postergó hasta octubre el aumento de impuestos a los combustibles",
+    "what_happened": "Mediante el Decreto 829/2026, publicado el 31 de agosto en el Boletín Oficial y firmado por Milei, Santilli y Caputo, el Gobierno pospuso hasta el 1° de octubre la suba pendiente del Impuesto sobre los Combustibles Líquidos y del Impuesto al Dióxido de Carbono sobre naftas y gasoil, que estaba prevista para el 1° de septiembre. El ajuste acumula actualizaciones postergadas de 2024, 2025 y los dos primeros trimestres de 2026. Con la medida, septiembre mantiene la misma carga impositiva que rigió en agosto.",
+    "why_it_matters": "Es la segunda vez en el año que el Gobierno frena esta suba para contener el impacto en la inflación, lo que da un respiro transitorio a los costos de combustible del transporte de cargas pero anticipa una actualización más fuerte y acumulada en octubre.",
+    "fixy_impact": "Para Fixy, que depende de flota propia y de terceros para la última milla, implica un mes más sin presión impositiva adicional sobre el gasoil, pero conviene anticipar en las tarifas de octubre el ajuste que se viene acumulando.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/08/31/el-gobierno-postergo-hasta-octubre-el-aumento-de-los-impuestos-a-los-combustibles-para-evitar-un-salto-en-la-inflacion/",
+    "published_date": "2026-08-31",
+    "priority": "relevante",
+    "tags": [
+      "combustible",
+      "gasoil",
+      "costos logísticos",
+      "impuestos",
+      "transporte de cargas"
+    ],
+    "id": "nw-1b36dcd0f3",
+    "source_kind": "auto",
+    "last_updated": "2026-09-01",
+    "first_seen": "2026-09-01"
   }
 ]

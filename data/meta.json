@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-21T12:25:15.635Z",
-  "last_updated_ar": "21/09/2026, 09:25",
-  "date": "2026-09-21",
+  "generated_at": "2026-09-22T12:15:02.351Z",
+  "last_updated_ar": "22/09/2026, 09:15",
+  "date": "2026-09-22",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El día combina una alerta operativa inmediata en el puerto de Montevideo con tres señales de mediano plazo -paritaria de Camioneros, nueva exigencia regulatoria de Mercosur y la escala que ya tiene Mercado Libre en el interior- que piden a Fixy avisar a clientes en tránsito, vender previsibilidad de tarifa y salir a buscar vendedores nuevos antes que la competencia.",
+  "summary_line": "El día combina la escalada del paro portuario de Montevideo a todo el país -con nueva asamblea el jueves 24- con la primera fecha concreta de dictamen legislativo sobre crédito y fintech (29/9), dos señales que piden avisar ya a los clientes con carga en tránsito y monitorear de cerca si el financiamiento en cuotas se restringe en vez de destrabarse.",
   "counters": {
-    "news_today": 2,
-    "news_total": 45,
-    "events_upcoming": 72,
-    "events_ar_upcoming": 42,
-    "events_intl_upcoming": 30,
+    "news_today": 1,
+    "news_total": 44,
+    "events_upcoming": 74,
+    "events_ar_upcoming": 43,
+    "events_intl_upcoming": 31,
     "events_later": 30,
     "opportunities_open": 8,
-    "opportunities_today": 3,
-    "ai_today": 3,
-    "ai_to_try": 49,
-    "content_ideas": 71,
-    "added_news": 2,
-    "updated_news": 0,
-    "added_events": 3,
-    "updated_events": 2,
-    "added_ai": 3,
-    "archived": 12,
+    "opportunities_today": 1,
+    "ai_today": 2,
+    "ai_to_try": 50,
+    "content_ideas": 70,
+    "added_news": 1,
+    "updated_news": 1,
+    "added_events": 2,
+    "updated_events": 0,
+    "added_ai": 2,
+    "archived": 6,
     "discarded_quality": 0
   },
   "next_event": {
@@ -30,7 +30,7 @@
     "name": "Nerdearla Argentina 2026",
     "date_start": "2026-09-22",
     "city": "CABA",
-    "days_away": 1
+    "days_away": 0
   },
   "highlights": [
     {
@@ -38,35 +38,35 @@
       "kind": "news",
       "title": "El sindicato portuario de Montevideo convocó un nuevo paro nacional de 24 horas en pleno conflicto con TCP",
       "priority": "alta",
-      "one_liner": "El paro arranca hoy mismo a las 7 y puede demorar cargas de comercio exterior que hoy pasan por Montevideo."
+      "one_liner": "El paro se concretó hoy y ya no afecta solo a la terminal en conflicto sino a todos los puertos de Uruguay, con una nueva asamblea el jueves 24."
     },
     {
-      "id": "nw-2c10c0d2d6",
-      "kind": "news",
-      "title": "Camioneros cerró una paritaria de 6,6% semestral y un bono de $1.200.000",
+      "id": "op-b4434627",
+      "kind": "opportunity",
+      "title": "Avisar proactivamente a clientes con carga en tránsito por Montevideo por el nuevo paro portuario del 21 y 22/9",
       "priority": "alta",
-      "one_liner": "Da previsibilidad de costo laboral de transporte por 6 meses, un dato clave para cotizar contratos con clientes."
+      "one_liner": "Con el paro ya escalado a todos los puertos uruguayos y una nueva medida anunciada para el jueves, conviene avisar hoy mismo a los clientes con carga en tránsito."
     },
     {
-      "id": "nw-1707cb90c3",
+      "id": "nw-905978078c",
       "kind": "news",
-      "title": "Mercosur exige a las tiendas online informar los derechos del consumidor, bajo riesgo de baja de dominio",
-      "priority": "alta",
-      "one_liner": "Une por primera vez el cumplimiento legal con la continuidad técnica de cualquier tienda online de la región."
-    },
-    {
-      "id": "nw-74e3417973",
-      "kind": "news",
-      "title": "Mercado Libre presenta \"Efecto MELI\": su ecosistema ya representa el 1% del PBI argentino",
+      "title": "El Congreso argentino avanza hacia un dictamen sobre regulación del crédito y las fintech, con más de 60 proyectos en danza",
       "priority": "relevante",
-      "one_liner": "Confirma la escala de MELI como infraestructura económica y acelera la adopción de IA y la llegada al interior entre sus vendedores pyme."
+      "one_liner": "Por primera vez hay una fecha concreta de dictamen (29/9) que puede definir si el crédito en cuotas se restringe o se destraba antes de fin de año."
     },
     {
-      "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
+      "id": "ai-guru-luna-de-guru",
       "kind": "ai",
-      "title": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
-      "priority": "alta",
-      "one_liner": "Desde octubre Fixy puede empezar a pagar por los mensajes de servicio que hoy manda gratis, así que conviene cuantificar el volumen esta semana."
+      "title": "Luna de Gurú",
+      "priority": "relevante",
+      "one_liner": "Asistente de IA gratis pensado para pymes argentinas que Fixy podría probar hoy mismo para la primera respuesta de WhatsApp a leads comerciales."
+    },
+    {
+      "id": "ev-argentina-nerdearla-2026",
+      "kind": "event",
+      "title": "Nerdearla Argentina 2026",
+      "priority": "informativo",
+      "one_liner": "Arranca hoy en CABA y es una fuente directa de tendencias de IA y automatización aplicables a WMS, TMS y atención al cliente."
     }
   ]
 }

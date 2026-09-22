@@ -1322,5 +1322,32 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "intl",
+    "name": "Latam Fintech Market 2026",
+    "organizer": "Colombia Fintech",
+    "date_start": "2026-09-17",
+    "date_end": "2026-09-18",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Barranquilla",
+    "province": null,
+    "country": "Colombia",
+    "venue": "Centro de Convenciones Puerta de Oro",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Pagos y Fintech",
+    "url": "https://www.latamfintech.market/",
+    "source_url": "https://colombiafintech.co/evento/latam-fintech-market-2026/",
+    "description": "Octava edición del principal encuentro fintech de la región, organizado por Colombia Fintech, con bancos, startups, inversores y reguladores debatiendo open finance, el sistema de pagos inmediatos Bre-B, IA aplicada y acceso al crédito.",
+    "fixy_relevance": "Fixy opera cobros contra entrega y medios de pago integrados a la última milla; el evento sirve para monitorear tendencias regionales de pagos digitales e interoperabilidad que pueden impactar la operación de cobranza y detectar potenciales socios tecnológicos, aunque la fecha (4 días desde hoy) ya no permite planificar un viaje.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-fintech-latam-market-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
   }
 ]

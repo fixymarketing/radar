@@ -1,5 +1,20 @@
 [
   {
+    "title": "Monitorear el dictamen legislativo del 29/9 sobre crédito y fintech antes de prometer financiamiento en cuotas",
+    "context": "Las comisiones de Diputados avanzan hacia un dictamen el 29 de septiembre sobre más de 60 proyectos que buscan poner topes a las tasas y dar mayor control al BCRA sobre las fintech, en medio de la mora récord de las familias. La Cámara Argentina Fintech ya advirtió que esto podría restringir el acceso al crédito, justo cuando Fixy viene evaluando una oferta de financiamiento en cuotas para cuando el crédito se destrabe.",
+    "action": "Designar a alguien de comercial o management para seguir el dictamen del 29/9 y, si avanza con restricciones al crédito fintech, ajustar a tiempo el mensaje comercial sobre financiamiento en cuotas en vez de asumir que el crédito se va a destrabar.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.lanacion.com.ar/economia/mora-el-congreso-acumula-60-proyectos-para-regular-el-credito-y-las-fintech-advierten-por-el-impacto-nid18092026/",
+    "linked": [
+      "El Congreso argentino avanza hacia un dictamen sobre regulación del crédito y las fintech, con más de 60 proyectos en danza"
+    ],
+    "id": "op-a6e86768",
+    "source_kind": "auto",
+    "last_updated": "2026-09-22",
+    "first_seen": "2026-09-22"
+  },
+  {
     "title": "Ofrecer un chequeo de cumplimiento Mercosur como valor agregado para clientes de eCommerce",
     "context": "Mercosur exige ahora a las tiendas online informar los derechos del consumidor y, por primera vez, liga ese cumplimiento a la continuidad técnica del dominio del sitio. La mayoría de los clientes pyme de Fixy no tiene equipo legal propio para detectar este tipo de cambios regulatorios a tiempo.",
     "action": "Armar un checklist breve de cumplimiento (qué información debe figurar en la tienda) y enviarlo a los clientes de fulfillment como aviso proactivo, posicionando a Fixy como un socio que cuida la continuidad del negocio de sus clientes y no solo el envío.",
@@ -105,20 +120,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-19",
     "first_seen": "2026-09-19"
-  },
-  {
-    "title": "Posicionarse como socio de fulfillment y última milla para Shein y Temu si avanzan a una nueva fase en Argentina",
-    "context": "Mercado Libre reforzó su discurso logístico ante el avance de Shein y Temu, que ya se llevaron más de u$s700 millones del gasto online argentino este año. Si esas plataformas avanzan hacia una 'fase 2' con más volumen local, van a necesitar operadores del último tramo y servicios de fulfillment que hoy no tienen desarrollados en el país.",
-    "action": "Armar una propuesta de fulfillment y última milla para marketplaces internacionales que buscan escalar en Argentina, y acercarla a los referentes locales de Shein y Temu o a los integradores que ya trabajan con ellos.",
-    "type": "nueva línea de negocio",
-    "priority": "alta",
-    "source_url": "https://www.iprofesional.com/tecnologia/464619-mercado-libre-refuerza-su-estrategia-ante-el-avance-de-shein-y-temu-en-argentina",
-    "linked": [
-      "Mercado Libre refuerza su estrategia ante el avance de Shein y Temu en Argentina"
-    ],
-    "id": "op-bbc8500c",
-    "source_kind": "auto",
-    "last_updated": "2026-09-18",
-    "first_seen": "2026-09-18"
   }
 ]

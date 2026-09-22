@@ -24,30 +24,6 @@
     "updated_flag": true
   },
   {
-    "title": "El BCRA habilita el débito automático de cuotas de préstamos desde cuentas bancarias y billeteras",
-    "what_happened": "Desde el 31 de agosto está operativo el \"Cobro con Transferencia\" (CCT), el mecanismo del BCRA (Comunicación \"A\" 8406) que permite a bancos y billeteras virtuales debitar automáticamente -con autorización previa y revocable del usuario- las cuotas de préstamos digitales desde la cuenta donde se acreditó el crédito. El sistema solo aplica a cuotas fijas e iguales y fija un tope del 30% entre la cuota y el ingreso del usuario al momento de otorgar el crédito.",
-    "why_it_matters": "La normativa, anunciada meses atrás, pasa ahora de estar aprobada a estar en vigencia: reduce el riesgo de impago para bancos y billeteras, pero reabre el debate sobre sobreendeudamiento en un contexto de mora récord en el sistema de créditos digitales.",
-    "fixy_impact": null,
-    "category": "Regulación",
-    "geo": "Argentina",
-    "source_name": "ATP Santa Fe (con datos del BCRA)",
-    "source_url": "https://www.atpsantafe.com.ar/2026/08/31/las-billeteras-virtuales-podran-sacar-plata-de-tu-cuenta-para-cobrar-deudas-como-funcionara-el-nuevo-sistema/",
-    "published_date": "2026-08-31",
-    "priority": "relevante",
-    "tags": [
-      "BCRA",
-      "billeteras virtuales",
-      "crédito",
-      "regulación",
-      "pagos"
-    ],
-    "id": "nw-cfa3858ebb",
-    "source_kind": "auto",
-    "last_updated": "2026-09-04",
-    "first_seen": "2026-08-27",
-    "updated_flag": true
-  },
-  {
     "title": "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo escaló a un paro por tiempo indeterminado",
     "what_happened": "El sindicato de la Terminal Cuenca del Plata (TCP) inició el miércoles 16 de septiembre a las 16 h el paro por tiempo indeterminado que venía anunciando, en el marco de la negociación del nuevo convenio colectivo, operando con 'servicios mínimos' dispuestos por el MTOP y el MTSS uruguayos. El jueves 17 de septiembre a las 23 h el gremio resolvió levantar la medida y la terminal retomó su operativa normal, aunque el reclamo de fondo por salarios y obras pendientes sigue sin resolverse.",
     "why_it_matters": "Vuelve a mostrar la fragilidad del principal nodo portuario de contenedores de la región, clave para buena parte del comercio exterior que pasa por Uruguay, incluso con el paro ya levantado.",
@@ -70,29 +46,6 @@
     "last_updated": "2026-09-18",
     "first_seen": "2026-08-31",
     "updated_flag": true
-  },
-  {
-    "title": "El Gobierno postergó hasta octubre el aumento de impuestos a los combustibles",
-    "what_happened": "Mediante el Decreto 829/2026, publicado el 31 de agosto en el Boletín Oficial y firmado por Milei, Santilli y Caputo, el Gobierno pospuso hasta el 1° de octubre la suba pendiente del Impuesto sobre los Combustibles Líquidos y del Impuesto al Dióxido de Carbono sobre naftas y gasoil, que estaba prevista para el 1° de septiembre. El ajuste acumula actualizaciones postergadas de 2024, 2025 y los dos primeros trimestres de 2026. Con la medida, septiembre mantiene la misma carga impositiva que rigió en agosto.",
-    "why_it_matters": "Es la segunda vez en el año que el Gobierno frena esta suba para contener el impacto en la inflación, lo que da un respiro transitorio a los costos de combustible del transporte de cargas pero anticipa una actualización más fuerte y acumulada en octubre.",
-    "fixy_impact": "Para Fixy, que depende de flota propia y de terceros para la última milla, implica un mes más sin presión impositiva adicional sobre el gasoil, pero conviene anticipar en las tarifas de octubre el ajuste que se viene acumulando.",
-    "category": "Logística",
-    "geo": "Argentina",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/economia/2026/08/31/el-gobierno-postergo-hasta-octubre-el-aumento-de-los-impuestos-a-los-combustibles-para-evitar-un-salto-en-la-inflacion/",
-    "published_date": "2026-08-31",
-    "priority": "relevante",
-    "tags": [
-      "combustible",
-      "gasoil",
-      "costos logísticos",
-      "impuestos",
-      "transporte de cargas"
-    ],
-    "id": "nw-1b36dcd0f3",
-    "source_kind": "auto",
-    "last_updated": "2026-09-01",
-    "first_seen": "2026-09-01"
   },
   {
     "title": "El Gobierno lanzó un paquete de seis medidas para sostener el consumo antes de octubre",
@@ -969,25 +922,27 @@
   },
   {
     "title": "El sindicato portuario de Montevideo convocó un nuevo paro nacional de 24 horas en pleno conflicto con TCP",
-    "what_happened": "El Sindicato Único Portuario y Ramas Afines (Supra) convocó un paro nacional portuario de 24 horas desde las 7 del lunes 21 hasta las 7 del martes 22 de septiembre, en rechazo a la resolución de los Ministerios de Trabajo y de Transporte que impuso \"servicios mínimos\" transitorios en la terminal de contenedores del Puerto de Montevideo. El gremio calificó la medida de \"excesiva\" y \"arbitraria\" y ya anunció una asamblea general con corte de actividades para el jueves 24.",
-    "why_it_matters": "El conflicto, que lleva más de seis meses, vuelve a escalar justo cuando la terminal había normalizado parcialmente su operativa, lo que renueva el riesgo de demoras en el comercio exterior regional que pasa por Montevideo.",
-    "fixy_impact": "Los operadores que importan o exportan mercadería vía Montevideo deberían prever demoras el 21 y 22 de septiembre y contemplar stock de contingencia o rutas alternativas.",
+    "what_happened": "El paro nacional de 24 horas convocado por el Supra se concretó desde las 7 del lunes 21 hasta las 7 del martes 22 de septiembre y afectó a todos los puertos de Uruguay, no solo a la Terminal Cuenca del Plata (TCP), pese a los \"servicios mínimos\" que habían dispuesto los Ministerios de Trabajo y Transporte. Medios uruguayos reportaron que la medida impactó la operativa del transporte de carga en el país, y el sector empresarial uruguayo pidió públicamente una solución al conflicto el mismo martes 22. El sindicato mantiene además la asamblea general con corte de actividades ya anunciada para el jueves 24 de septiembre.",
+    "why_it_matters": "Confirma que la imposición de servicios mínimos no alcanzó para frenar la conflictividad en la principal terminal de contenedores del Río de la Plata, que ya acumula más de seis meses de medidas de fuerza sin resolución de fondo.",
+    "fixy_impact": "Los operadores que importan o reciben stock vía Montevideo deberían seguir contemplando demoras y evaluar rutas o proveedores alternativos mientras el conflicto siga abierto, especialmente de cara a la próxima medida del jueves 24.",
     "category": "Logística",
     "geo": "LATAM",
-    "source_name": "Subrayado",
-    "source_url": "https://www.subrayado.com.uy/sindicato-portuario-convoca-paro-nacional-24-horas-las-7-del-lunes-21-contra-resolucion-servicios-minimos-n1018420",
-    "published_date": "2026-09-18",
-    "priority": "alta",
+    "source_name": "Prensa Latina / El Observador",
+    "source_url": "https://www.prensa-latina.cu/2026/09/22/sector-empresarial-demanda-solucion-a-conflicto-portuario-en-uruguay/",
+    "published_date": "2026-09-22",
+    "priority": "informativo",
     "tags": [
       "puerto de Montevideo",
+      "TCP",
       "paro",
       "comercio exterior",
-      "conflicto laboral"
+      "Uruguay"
     ],
     "id": "nw-e19d279417",
     "source_kind": "auto",
-    "last_updated": "2026-09-20",
-    "first_seen": "2026-09-20"
+    "last_updated": "2026-09-22",
+    "first_seen": "2026-09-20",
+    "updated_flag": true
   },
   {
     "title": "Camioneros cerró una paritaria de 6,6% semestral y un bono de $1.200.000",
@@ -1034,5 +989,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-21",
     "first_seen": "2026-09-21"
+  },
+  {
+    "title": "El Congreso argentino avanza hacia un dictamen sobre regulación del crédito y las fintech, con más de 60 proyectos en danza",
+    "what_happened": "Las comisiones de Finanzas y Defensa del Consumidor de la Cámara de Diputados realizaron una nueva reunión informativa el martes 22 de septiembre sobre los cerca de 60 a 76 proyectos de ley acumulados para atender el sobreendeudamiento de las familias, que incluyen topes a tasas, restricciones a embargos y mayor control del BCRA sobre billeteras virtuales y fintech. Está prevista una reunión final para firmar dictamen el martes 29 de septiembre. La Cámara Argentina Fintech expresó preocupación pública porque, según su lectura, varios proyectos podrían restringir el acceso al crédito para los segmentos de mayor riesgo.",
+    "why_it_matters": "Es la primera vez que el debate legislativo sobre la mora récord tiene una fecha concreta de dictamen, lo que acerca la posibilidad de cambios regulatorios reales sobre tasas y condiciones de crédito antes de fin de año, después de meses de anuncios sectoriales sin marco legal nuevo.",
+    "fixy_impact": "Si el Congreso avanza con topes de tasas o restricciones al crédito fintech, podría afectar la disponibilidad de financiamiento en cuotas que usan los compradores de los clientes de Fixy, un driver relevante del ticket promedio en la temporada de fin de año.",
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "La Nación",
+    "source_url": "https://www.lanacion.com.ar/economia/mora-el-congreso-acumula-60-proyectos-para-regular-el-credito-y-las-fintech-advierten-por-el-impacto-nid18092026/",
+    "published_date": "2026-09-18",
+    "priority": "relevante",
+    "tags": [
+      "Congreso",
+      "mora",
+      "fintech",
+      "regulación",
+      "crédito"
+    ],
+    "id": "nw-905978078c",
+    "source_kind": "auto",
+    "last_updated": "2026-09-22",
+    "first_seen": "2026-09-22"
   }
 ]
