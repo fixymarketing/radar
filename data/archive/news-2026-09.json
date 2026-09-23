@@ -1,0 +1,118 @@
+[
+  {
+    "title": "El eCommerce Day Argentina 2026 llega a su edición número 200 el jueves 27 de agosto",
+    "what_happened": "El evento se realizó el 27 de agosto en el Centro de Convenciones de Buenos Aires y, según el balance oficial difundido el 1° de septiembre, reunió a más de 7.000 inscriptos y 140 speakers nacionales e internacionales bajo el lema \"Retail, Digital Channels & AI Revolution\". En el marco de la jornada se lanzó BRIDGE, una plataforma internacional impulsada por el eCommerce Institute junto al European Institute for Commerce Management (EICOM) para conectar organizaciones y talento de 14 países, con proyección a 2027.",
+    "why_it_matters": "El balance confirma que el evento sostiene su convocatoria pese al contexto de consumo débil y consolida a la IA y el comercio unificado como los ejes que va a discutir la industria durante el resto del año.",
+    "fixy_impact": "El Roadshow incluye visitas a operaciones reales de logística, y el Award tiene categoría de logística: es una posible oportunidad de networking o de postulación para Fixy.",
+    "category": "eCommerce",
+    "geo": "Argentina",
+    "source_name": "eCommerce Institute",
+    "source_url": "https://ecommerce.institute/ecommerce-day-argentina-reunio-a-la-industria-digital-en-una-edicion-historica/",
+    "published_date": "2026-09-01",
+    "priority": "informativo",
+    "tags": [
+      "eCommerce Day",
+      "CACE",
+      "IA",
+      "comercio unificado",
+      "eventos"
+    ],
+    "id": "nw-0d59c0b8ec",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-08-25",
+    "updated_flag": true
+  },
+  {
+    "title": "Los bancos ya dieron de baja 143.000 créditos irrecuperables por $4,4 billones",
+    "what_happened": "Según datos del BCRA procesados por EcoGo, los bancos pasaron a pérdida 143.143 préstamos considerados irrecuperables por un total de $4,4 billones, frente a los 74.000 de fines de 2024 y los 132.000 de principios de 2026. En paralelo, las refinanciaciones alcanzaron un récord de $2,6 billones (3,7% del sistema), concentradas en cuatro bancos: Galicia, Provincia, Santander y Banco Nación.",
+    "why_it_matters": "El deterioro de la cartera crediticia bancaria confirma que el estrés financiero de las familias y empresas se profundiza más allá de las fintech y billeteras ya reportadas, con más bancos dando de baja deuda y forzando refinanciaciones a niveles récord.",
+    "fixy_impact": "Un sistema de crédito más restrictivo presiona el financiamiento en cuotas de las compras online, un driver clave de ticket promedio en eCommerce; vale seguir de cerca el acceso a cuotas sin interés de cara a la temporada alta.",
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "Filo News",
+    "source_url": "https://www.filo.news/noticia/2026/09/01/morosidad-record-los-bancos-ya-dieron-de-baja-143-000-creditos-por-usd4-4-billones-y-crecen-las-refinanciaciones",
+    "published_date": "2026-09-01",
+    "priority": "informativo",
+    "tags": [
+      "mora",
+      "bancos",
+      "crédito",
+      "refinanciación",
+      "BCRA"
+    ],
+    "id": "nw-09b2af69a7",
+    "source_kind": "auto",
+    "last_updated": "2026-09-03",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "Las billeteras virtuales presentaron un plan de cuatro ejes para bajar la mora récord sin cerrar el crédito",
+    "what_happened": "La industria fintech, impulsada por la Cámara Argentina Fintech, presentó una hoja de ruta con cuatro ejes -mejorar la información crediticia, avanzar en finanzas abiertas, reforzar la educación financiera y ajustar las condiciones de originación- para atender la morosidad récord sin restringir el acceso al crédito. El sector acumula 2,4 millones de deudores en mora, con préstamos promedio de $500.000 a plazos de hasta 30 días.",
+    "why_it_matters": "Es la primera respuesta articulada del sector fintech frente a los cuestionamientos públicos y los pedidos de investigación en el Congreso por la morosidad; si avanza, podría anticipar cambios regulatorios sobre tasas y scoring crediticio que afectan a cualquier negocio que ofrece financiamiento en cuotas.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "iProUP",
+    "source_url": "https://www.iproup.com/finanzas/71096-billeteras-virtuales-fintech-plan-expandir-credito-argentina-morosidad-record-deudas-impagas-septiembre-2026",
+    "published_date": "2026-09-01",
+    "priority": "informativo",
+    "tags": [
+      "fintech",
+      "billeteras virtuales",
+      "morosidad",
+      "crédito",
+      "regulación"
+    ],
+    "id": "nw-fd26dc8331",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "La Provincia de Buenos Aires prorrogó 120 días el vencimiento de las Licencias Nacionales de Conducir",
+    "what_happened": "El Ministerio de Transporte bonaerense dispuso, mediante la Disposición N° 12/2026, una prórroga de 120 días corridos para las Licencias Nacionales de Conducir emitidas en la Provincia cuyo vencimiento haya operado u opere entre el 1° de julio y el 31 de octubre de 2026. La medida apunta a sostener la continuidad laboral de conductores profesionales interjurisdiccionales que enfrentan demoras para conseguir turno en los prestadores externos habilitados por la ANSV. Al tratarse de licencias nacionales, la prórroga rige en todo el país.",
+    "why_it_matters": "Es una medida administrativa que evita que miles de conductores profesionales queden inhabilitados para circular por demoras burocráticas ajenas a ellos, algo especialmente sensible para el transporte de cargas y la última milla.",
+    "fixy_impact": "Reduce el riesgo de que choferes de reparto o de flota propia con licencia próxima a vencer queden fuera de circulación por falta de turno, evitando paradas forzosas de vehículos utilitarios.",
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "Gobierno de la Provincia de Buenos Aires",
+    "source_url": "https://www.gba.gob.ar/transporte/noticias/se_prorroga_por_120_d%C3%ADas_el_vencimiento_de_las_licencias_nacionales_de_conducir",
+    "published_date": "2026-09-01",
+    "priority": "informativo",
+    "tags": [
+      "última milla",
+      "conductores",
+      "regulación",
+      "Buenos Aires",
+      "transporte"
+    ],
+    "id": "nw-ae9e07f19b",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "title": "Multilogística pasó a operar como Yusen Logistics Argentina",
+    "what_happened": "Desde el 1° de septiembre, Multilogística SA opera bajo la marca Yusen Logistics Argentina, como resultado de la integración global de Yusen Air y NYK Logistics dentro del grupo NYK. El proceso de integración entre NYK y el Grupo Multimar había comenzado tres años atrás, y Patrick Campbell, referente de Multimar, asumió como presidente de la nueva compañía local.",
+    "why_it_matters": "Es un movimiento de consolidación de un operador logístico y de comercio exterior con peso en la Argentina, que combina bajo una sola marca capacidades de carga aérea y depósitos con alcance global.",
+    "fixy_impact": null,
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "El Cronista",
+    "source_url": "https://www.cronista.com/transport-cargo/la-argentina-logistica-con-cobertura-mundial/",
+    "published_date": "2026-09-01",
+    "priority": "informativo",
+    "tags": [
+      "Yusen Logistics",
+      "Multilogística",
+      "fusión",
+      "comercio exterior",
+      "logística"
+    ],
+    "id": "nw-ddf272196c",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
+  }
+]

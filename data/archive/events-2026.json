@@ -1349,5 +1349,54 @@
     "source_kind": "auto",
     "last_updated": "2026-09-13",
     "first_seen": "2026-09-13"
+  },
+  {
+    "scope": "ar",
+    "name": "Feria Internacional Portuaria Argentina (FIP 2026)",
+    "organizer": "Fundación Argentina para el Desarrollo Portuario",
+    "date_start": "2026-09-17",
+    "date_end": "2026-09-19",
+    "date_confirmed": true,
+    "date_note": "La mayoría de las fuentes confirma 17 al 19 de septiembre; una nota puntual mencionó solo 17 y 18. Se toma el rango de 3 días por ser la versión predominante y la del sitio oficial.",
+    "city": "Mar del Plata",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Sheraton Mar del Plata Hotel",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.expofip.com/",
+    "source_url": "https://www.infobrisas.com/noticias/2026/09/03/106652-el-17-y-18-de-septiembre-mar-del-plata-recibira-la-feria-internacional-portuaria",
+    "description": "Primera edición de una feria que conecta infraestructura portuaria con logística, industria naval, pesca, energía y tecnología; espera más de 1.500 profesionales y 80 empresas expositoras en Mar del Plata.",
+    "fixy_relevance": "Ayuda a Fixy a mapear actores de infraestructura portuaria y logística de cargas que impactan en tiempos y costos de la última milla vinculada a comercio exterior, y a detectar potenciales alianzas con operadores del corredor Atlántico.",
+    "justification_type": null,
+    "priority": "alta",
+    "beyond_90": false,
+    "id": "ev-argentina-feria-fip-internacional-portuaria-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-08-23",
+    "change_log": [
+      {
+        "date": "2026-08-25",
+        "fields": [
+          "venue",
+          "venue_confirmed",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "fields": [
+          "organizer",
+          "date_note",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
   }
 ]

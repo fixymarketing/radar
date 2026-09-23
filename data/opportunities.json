@@ -1,5 +1,36 @@
 [
   {
+    "title": "Evaluar el comercio agéntico (MODO + ChatGPT) como un canal nuevo de originación de pedidos",
+    "context": "MODO habilitó esta semana la compra y el pago completos dentro de un plug-in en ChatGPT, con Frávega como primer aliado comercial: es el primer caso de comercio agéntico de punta a punta concretado en la región. Si el modelo escala a más marcas, parte de los pedidos que hoy nacen en una tienda propia o un marketplace podría empezar a originarse dentro de una conversación de IA.",
+    "action": "Sumar a la agenda comercial un relevamiento de qué integración necesitaría un pedido nacido en un asistente de IA para conectarse con el fulfillment de Fixy, y conversar con algún cliente pyme que use MODO o Tiendanube sobre este canal.",
+    "type": "estratégica",
+    "priority": "alta",
+    "source_url": "https://www.iproup.com/finanzas/71779-modo-lanza-comercio-agentico-para-comprar-y-pagar-sin-salir-de-chatgpt",
+    "linked": [
+      "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega"
+    ],
+    "id": "op-3733cd65",
+    "source_kind": "auto",
+    "last_updated": "2026-09-23",
+    "first_seen": "2026-09-23"
+  },
+  {
+    "title": "Automatizar el reporte semanal de performance por transportista y cliente con IA",
+    "context": "Esta semana aparecieron dos herramientas que resuelven el mismo problema desde ángulos distintos: el Data Agent de ChatGPT Work, que puede leer planillas de Drive y armar reportes sin un analista dedicado, y el soporte nativo de MCP en n8n, que permite exponer un flujo interno (por ejemplo consultar el estado de un envío) como herramienta para que un agente de IA lo use directamente.",
+    "action": "Elegir un caso piloto acotado -por ejemplo el reporte semanal de SLA por transportista- y probarlo primero con el Data Agent de ChatGPT Work conectado a las planillas de Drive que ya usa el equipo de operaciones.",
+    "type": "producto",
+    "priority": "informativo",
+    "source_url": "https://openai.com/index/put-data-to-work/",
+    "linked": [
+      "Data Agent en ChatGPT Work",
+      "n8n MCP nativo (Server y Client)"
+    ],
+    "id": "op-01d66c00",
+    "source_kind": "auto",
+    "last_updated": "2026-09-23",
+    "first_seen": "2026-09-23"
+  },
+  {
     "title": "Monitorear el dictamen legislativo del 29/9 sobre crédito y fintech antes de prometer financiamiento en cuotas",
     "context": "Las comisiones de Diputados avanzan hacia un dictamen el 29 de septiembre sobre más de 60 proyectos que buscan poner topes a las tasas y dar mayor control al BCRA sobre las fintech, en medio de la mora récord de las familias. La Cámara Argentina Fintech ya advirtió que esto podría restringir el acceso al crédito, justo cuando Fixy viene evaluando una oferta de financiamiento en cuotas para cuando el crédito se destrabe.",
     "action": "Designar a alguien de comercial o management para seguir el dictamen del 29/9 y, si avanza con restricciones al crédito fintech, ajustar a tiempo el mensaje comercial sobre financiamiento en cuotas en vez de asumir que el crédito se va a destrabar.",
@@ -90,35 +121,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-20",
     "first_seen": "2026-09-20"
-  },
-  {
-    "title": "Posicionar a Fixy como socio de fulfillment para quick commerce y dark stores",
-    "context": "El quick commerce creció 62% en América Latina en seis meses y PedidosYa lidera el segmento, lo que obliga a acortar tiempos de entrega y ganar densidad de puntos de despacho cerca del consumidor. Es una tendencia regional que todavía no tiene un jugador de fulfillment de referencia en el segmento pyme argentino.",
-    "action": "Armar una propuesta de fulfillment exprés (micro-hub + picking rápido) para marcas de consumo masivo y supermercados chicos que quieran sumarse al quick commerce sin montar su propia operación de dark store.",
-    "type": "nueva línea de negocio",
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/america/agencias/2026/09/18/radiografia-del-quick-commerce-las-compras-de-supermercado-online-crecen-un-62-en-latinoamerica/",
-    "linked": [
-      "El quick commerce crece 62% en América Latina y PedidosYa lidera el segmento"
-    ],
-    "id": "op-71608991",
-    "source_kind": "auto",
-    "last_updated": "2026-09-19",
-    "first_seen": "2026-09-19"
-  },
-  {
-    "title": "Preparar una oferta de financiamiento en cuotas para cuando el crédito al consumo se destrabe",
-    "context": "La mora temprana de los créditos bajó 33%, la primera señal concreta de que el ciclo de sobreendeudamiento empieza a revertirse, aunque el crédito seguirá restringido varios meses. Cuando se normalice, va a haber una ventana donde los eCommerce que ya tengan resuelto el checkout en cuotas van a captar la demanda contenida antes que el resto.",
-    "action": "Contactar a una o dos fintechs de crédito al consumo para dejar preacordada una integración de checkout en cuotas apenas mejore el escenario de mora, en lugar de negociarla recién cuando la demanda ya esté reactivada.",
-    "type": "alianza",
-    "priority": "informativo",
-    "source_url": "https://www.infobae.com/economia/2026/09/18/la-mora-temprana-en-los-creditos-empezo-a-reducirse-pero-advierten-que-la-normalizacion-llevara-tiempo/",
-    "linked": [
-      "La mora temprana de los créditos bajó 33%, pero la normalización total llevará meses"
-    ],
-    "id": "op-854bd406",
-    "source_kind": "auto",
-    "last_updated": "2026-09-19",
-    "first_seen": "2026-09-19"
   }
 ]

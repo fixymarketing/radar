@@ -1,29 +1,5 @@
 [
   {
-    "title": "El eCommerce Day Argentina 2026 llega a su edición número 200 el jueves 27 de agosto",
-    "what_happened": "El evento se realizó el 27 de agosto en el Centro de Convenciones de Buenos Aires y, según el balance oficial difundido el 1° de septiembre, reunió a más de 7.000 inscriptos y 140 speakers nacionales e internacionales bajo el lema \"Retail, Digital Channels & AI Revolution\". En el marco de la jornada se lanzó BRIDGE, una plataforma internacional impulsada por el eCommerce Institute junto al European Institute for Commerce Management (EICOM) para conectar organizaciones y talento de 14 países, con proyección a 2027.",
-    "why_it_matters": "El balance confirma que el evento sostiene su convocatoria pese al contexto de consumo débil y consolida a la IA y el comercio unificado como los ejes que va a discutir la industria durante el resto del año.",
-    "fixy_impact": "El Roadshow incluye visitas a operaciones reales de logística, y el Award tiene categoría de logística: es una posible oportunidad de networking o de postulación para Fixy.",
-    "category": "eCommerce",
-    "geo": "Argentina",
-    "source_name": "eCommerce Institute",
-    "source_url": "https://ecommerce.institute/ecommerce-day-argentina-reunio-a-la-industria-digital-en-una-edicion-historica/",
-    "published_date": "2026-09-01",
-    "priority": "informativo",
-    "tags": [
-      "eCommerce Day",
-      "CACE",
-      "IA",
-      "comercio unificado",
-      "eventos"
-    ],
-    "id": "nw-0d59c0b8ec",
-    "source_kind": "auto",
-    "last_updated": "2026-09-02",
-    "first_seen": "2026-08-25",
-    "updated_flag": true
-  },
-  {
     "title": "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo escaló a un paro por tiempo indeterminado",
     "what_happened": "El sindicato de la Terminal Cuenca del Plata (TCP) inició el miércoles 16 de septiembre a las 16 h el paro por tiempo indeterminado que venía anunciando, en el marco de la negociación del nuevo convenio colectivo, operando con 'servicios mínimos' dispuestos por el MTOP y el MTSS uruguayos. El jueves 17 de septiembre a las 23 h el gremio resolvió levantar la medida y la terminal retomó su operativa normal, aunque el reclamo de fondo por salarios y obras pendientes sigue sin resolverse.",
     "why_it_matters": "Vuelve a mostrar la fragilidad del principal nodo portuario de contenedores de la región, clave para buena parte del comercio exterior que pasa por Uruguay, incluso con el paro ya levantado.",
@@ -71,29 +47,6 @@
     "first_seen": "2026-09-03"
   },
   {
-    "title": "Los bancos ya dieron de baja 143.000 créditos irrecuperables por $4,4 billones",
-    "what_happened": "Según datos del BCRA procesados por EcoGo, los bancos pasaron a pérdida 143.143 préstamos considerados irrecuperables por un total de $4,4 billones, frente a los 74.000 de fines de 2024 y los 132.000 de principios de 2026. En paralelo, las refinanciaciones alcanzaron un récord de $2,6 billones (3,7% del sistema), concentradas en cuatro bancos: Galicia, Provincia, Santander y Banco Nación.",
-    "why_it_matters": "El deterioro de la cartera crediticia bancaria confirma que el estrés financiero de las familias y empresas se profundiza más allá de las fintech y billeteras ya reportadas, con más bancos dando de baja deuda y forzando refinanciaciones a niveles récord.",
-    "fixy_impact": "Un sistema de crédito más restrictivo presiona el financiamiento en cuotas de las compras online, un driver clave de ticket promedio en eCommerce; vale seguir de cerca el acceso a cuotas sin interés de cara a la temporada alta.",
-    "category": "Fintech",
-    "geo": "Argentina",
-    "source_name": "Filo News",
-    "source_url": "https://www.filo.news/noticia/2026/09/01/morosidad-record-los-bancos-ya-dieron-de-baja-143-000-creditos-por-usd4-4-billones-y-crecen-las-refinanciaciones",
-    "published_date": "2026-09-01",
-    "priority": "informativo",
-    "tags": [
-      "mora",
-      "bancos",
-      "crédito",
-      "refinanciación",
-      "BCRA"
-    ],
-    "id": "nw-09b2af69a7",
-    "source_kind": "auto",
-    "last_updated": "2026-09-03",
-    "first_seen": "2026-09-03"
-  },
-  {
     "title": "La suba de costos de última milla y correo se moderó en agosto, la más baja desde febrero",
     "what_happened": "El Índice de Mayores Costos que releva el sector logístico mostró en agosto una suba de 1,62% en Correo y de 1,64% en Última Milla, los incrementos mensuales más bajos desde febrero y muy por debajo del promedio de los últimos doce meses (entre 2,68% y 2,95%). El acumulado enero-agosto llegó a 28,39% en Correo y 28,57% en Última Milla.",
     "why_it_matters": "La desaceleración sugiere que la presión de combustibles, mano de obra y peajes —los principales componentes del índice— empezó a ceder, lo que podría aliviar márgenes operativos en el reparto urbano si la tendencia se sostiene en los próximos meses.",
@@ -112,29 +65,6 @@
       "2026"
     ],
     "id": "nw-742b172b99",
-    "source_kind": "auto",
-    "last_updated": "2026-09-04",
-    "first_seen": "2026-09-04"
-  },
-  {
-    "title": "Las billeteras virtuales presentaron un plan de cuatro ejes para bajar la mora récord sin cerrar el crédito",
-    "what_happened": "La industria fintech, impulsada por la Cámara Argentina Fintech, presentó una hoja de ruta con cuatro ejes -mejorar la información crediticia, avanzar en finanzas abiertas, reforzar la educación financiera y ajustar las condiciones de originación- para atender la morosidad récord sin restringir el acceso al crédito. El sector acumula 2,4 millones de deudores en mora, con préstamos promedio de $500.000 a plazos de hasta 30 días.",
-    "why_it_matters": "Es la primera respuesta articulada del sector fintech frente a los cuestionamientos públicos y los pedidos de investigación en el Congreso por la morosidad; si avanza, podría anticipar cambios regulatorios sobre tasas y scoring crediticio que afectan a cualquier negocio que ofrece financiamiento en cuotas.",
-    "fixy_impact": null,
-    "category": "Fintech",
-    "geo": "Argentina",
-    "source_name": "iProUP",
-    "source_url": "https://www.iproup.com/finanzas/71096-billeteras-virtuales-fintech-plan-expandir-credito-argentina-morosidad-record-deudas-impagas-septiembre-2026",
-    "published_date": "2026-09-01",
-    "priority": "informativo",
-    "tags": [
-      "fintech",
-      "billeteras virtuales",
-      "morosidad",
-      "crédito",
-      "regulación"
-    ],
-    "id": "nw-fd26dc8331",
     "source_kind": "auto",
     "last_updated": "2026-09-04",
     "first_seen": "2026-09-04"
@@ -255,29 +185,6 @@
     "first_seen": "2026-09-05"
   },
   {
-    "title": "La Provincia de Buenos Aires prorrogó 120 días el vencimiento de las Licencias Nacionales de Conducir",
-    "what_happened": "El Ministerio de Transporte bonaerense dispuso, mediante la Disposición N° 12/2026, una prórroga de 120 días corridos para las Licencias Nacionales de Conducir emitidas en la Provincia cuyo vencimiento haya operado u opere entre el 1° de julio y el 31 de octubre de 2026. La medida apunta a sostener la continuidad laboral de conductores profesionales interjurisdiccionales que enfrentan demoras para conseguir turno en los prestadores externos habilitados por la ANSV. Al tratarse de licencias nacionales, la prórroga rige en todo el país.",
-    "why_it_matters": "Es una medida administrativa que evita que miles de conductores profesionales queden inhabilitados para circular por demoras burocráticas ajenas a ellos, algo especialmente sensible para el transporte de cargas y la última milla.",
-    "fixy_impact": "Reduce el riesgo de que choferes de reparto o de flota propia con licencia próxima a vencer queden fuera de circulación por falta de turno, evitando paradas forzosas de vehículos utilitarios.",
-    "category": "Regulación",
-    "geo": "Argentina",
-    "source_name": "Gobierno de la Provincia de Buenos Aires",
-    "source_url": "https://www.gba.gob.ar/transporte/noticias/se_prorroga_por_120_d%C3%ADas_el_vencimiento_de_las_licencias_nacionales_de_conducir",
-    "published_date": "2026-09-01",
-    "priority": "informativo",
-    "tags": [
-      "última milla",
-      "conductores",
-      "regulación",
-      "Buenos Aires",
-      "transporte"
-    ],
-    "id": "nw-ae9e07f19b",
-    "source_kind": "auto",
-    "last_updated": "2026-09-06",
-    "first_seen": "2026-09-06"
-  },
-  {
     "title": "Mercado Libre triplica su depósito de última milla en Uruguay y suma choferes asociados",
     "what_happened": "Mercado Libre anunció una inversión de US$12,8 millones para ampliar su operación en Uruguay: unos US$4 millones se destinan a triplicar la superficie de su depósito de última milla en Canelones, de 4.000 a 12.000 m², y el resto a nuevas oficinas corporativas en Montevideo. La empresa prevé casi duplicar su dotación directa (de 113 a 220 personas) y ampliar de 156 a 228 la red de choferes asociados en los próximos dos años.",
     "why_it_matters": "Muestra que Mercado Libre sigue invirtiendo fuerte en infraestructura logística propia en la región, incluso en mercados chicos, apostando a acortar tiempos de entrega mediante una red de choferes asociados antes que con flota 100% propia.",
@@ -296,29 +203,6 @@
       "logística"
     ],
     "id": "nw-ad02545c24",
-    "source_kind": "auto",
-    "last_updated": "2026-09-06",
-    "first_seen": "2026-09-06"
-  },
-  {
-    "title": "Multilogística pasó a operar como Yusen Logistics Argentina",
-    "what_happened": "Desde el 1° de septiembre, Multilogística SA opera bajo la marca Yusen Logistics Argentina, como resultado de la integración global de Yusen Air y NYK Logistics dentro del grupo NYK. El proceso de integración entre NYK y el Grupo Multimar había comenzado tres años atrás, y Patrick Campbell, referente de Multimar, asumió como presidente de la nueva compañía local.",
-    "why_it_matters": "Es un movimiento de consolidación de un operador logístico y de comercio exterior con peso en la Argentina, que combina bajo una sola marca capacidades de carga aérea y depósitos con alcance global.",
-    "fixy_impact": null,
-    "category": "Logística",
-    "geo": "Argentina",
-    "source_name": "El Cronista",
-    "source_url": "https://www.cronista.com/transport-cargo/la-argentina-logistica-con-cobertura-mundial/",
-    "published_date": "2026-09-01",
-    "priority": "informativo",
-    "tags": [
-      "Yusen Logistics",
-      "Multilogística",
-      "fusión",
-      "comercio exterior",
-      "logística"
-    ],
-    "id": "nw-ddf272196c",
     "source_kind": "auto",
     "last_updated": "2026-09-06",
     "first_seen": "2026-09-06"
@@ -922,25 +806,25 @@
   },
   {
     "title": "El sindicato portuario de Montevideo convocó un nuevo paro nacional de 24 horas en pleno conflicto con TCP",
-    "what_happened": "El paro nacional de 24 horas convocado por el Supra se concretó desde las 7 del lunes 21 hasta las 7 del martes 22 de septiembre y afectó a todos los puertos de Uruguay, no solo a la Terminal Cuenca del Plata (TCP), pese a los \"servicios mínimos\" que habían dispuesto los Ministerios de Trabajo y Transporte. Medios uruguayos reportaron que la medida impactó la operativa del transporte de carga en el país, y el sector empresarial uruguayo pidió públicamente una solución al conflicto el mismo martes 22. El sindicato mantiene además la asamblea general con corte de actividades ya anunciada para el jueves 24 de septiembre.",
-    "why_it_matters": "Confirma que la imposición de servicios mínimos no alcanzó para frenar la conflictividad en la principal terminal de contenedores del Río de la Plata, que ya acumula más de seis meses de medidas de fuerza sin resolución de fondo.",
-    "fixy_impact": "Los operadores que importan o reciben stock vía Montevideo deberían seguir contemplando demoras y evaluar rutas o proveedores alternativos mientras el conflicto siga abierto, especialmente de cara a la próxima medida del jueves 24.",
+    "what_happened": "El paro nacional de 24 horas convocado por el sindicato portuario se concretó el lunes 21 de septiembre y afectó a todos los puertos de Uruguay; la actividad se normalizó recién el martes 22 por la mañana. Cámaras empresariales uruguayas pidieron una respuesta urgente al Gobierno ante la seguidilla de medidas de fuerza, que en lo que va de 2026 ya acumulan 44 días de paro con un impacto promedio del 70% sobre los movimientos de contenedores en la terminal TCP.",
+    "why_it_matters": "El conflicto en Montevideo, puerto clave para el comercio exterior de la región (incluida carga argentina que usa esa terminal como alternativa o complemento), sigue sin resolverse pese a la disposición de servicios mínimos, y ahora son las propias cámaras empresariales las que reclaman una intervención más firme del Estado uruguayo.",
+    "fixy_impact": "Los operadores que dependen de tránsito o transbordo por Montevideo deben seguir contemplando demoras y sobrecostos mientras el conflicto no tenga una resolución de fondo.",
     "category": "Logística",
     "geo": "LATAM",
-    "source_name": "Prensa Latina / El Observador",
-    "source_url": "https://www.prensa-latina.cu/2026/09/22/sector-empresarial-demanda-solucion-a-conflicto-portuario-en-uruguay/",
-    "published_date": "2026-09-22",
-    "priority": "informativo",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/america/agencias/2026/09/21/camaras-empresariales-piden-una-respuesta-urgente-ante-paros-en-el-puerto-de-montevideo/",
+    "published_date": "2026-09-21",
+    "priority": "relevante",
     "tags": [
-      "puerto de Montevideo",
+      "puerto Montevideo",
       "TCP",
       "paro",
-      "comercio exterior",
-      "Uruguay"
+      "Uruguay",
+      "comercio exterior"
     ],
     "id": "nw-e19d279417",
     "source_kind": "auto",
-    "last_updated": "2026-09-22",
+    "last_updated": "2026-09-23",
     "first_seen": "2026-09-20",
     "updated_flag": true
   },
@@ -992,25 +876,71 @@
   },
   {
     "title": "El Congreso argentino avanza hacia un dictamen sobre regulación del crédito y las fintech, con más de 60 proyectos en danza",
-    "what_happened": "Las comisiones de Finanzas y Defensa del Consumidor de la Cámara de Diputados realizaron una nueva reunión informativa el martes 22 de septiembre sobre los cerca de 60 a 76 proyectos de ley acumulados para atender el sobreendeudamiento de las familias, que incluyen topes a tasas, restricciones a embargos y mayor control del BCRA sobre billeteras virtuales y fintech. Está prevista una reunión final para firmar dictamen el martes 29 de septiembre. La Cámara Argentina Fintech expresó preocupación pública porque, según su lectura, varios proyectos podrían restringir el acceso al crédito para los segmentos de mayor riesgo.",
-    "why_it_matters": "Es la primera vez que el debate legislativo sobre la mora récord tiene una fecha concreta de dictamen, lo que acerca la posibilidad de cambios regulatorios reales sobre tasas y condiciones de crédito antes de fin de año, después de meses de anuncios sectoriales sin marco legal nuevo.",
+    "what_happened": "Las comisiones de Finanzas y de Defensa del Consumidor de Diputados retomaron el debate el martes 22 de septiembre con una nueva reunión informativa sobre los cerca de 76 expedientes vinculados a la morosidad y el sobreendeudamiento familiar. La firma del dictamen quedó agendada formalmente para el martes 29 de septiembre, con intención de llevarlo al recinto en octubre.",
+    "why_it_matters": "Se define un cronograma concreto: si el dictamen se firma el 29, el Congreso podría votar en octubre cambios sobre cómo bancos y fintech gestionan tasas, refinanciaciones y cobranzas a los cerca de seis millones de personas en mora, algo que el sector fintech viene resistiendo por su impacto en el acceso al crédito.",
     "fixy_impact": "Si el Congreso avanza con topes de tasas o restricciones al crédito fintech, podría afectar la disponibilidad de financiamiento en cuotas que usan los compradores de los clientes de Fixy, un driver relevante del ticket promedio en la temporada de fin de año.",
     "category": "Regulación",
     "geo": "Argentina",
-    "source_name": "La Nación",
-    "source_url": "https://www.lanacion.com.ar/economia/mora-el-congreso-acumula-60-proyectos-para-regular-el-credito-y-las-fintech-advierten-por-el-impacto-nid18092026/",
-    "published_date": "2026-09-18",
+    "source_name": "La Brújula 24",
+    "source_url": "https://www.labrujula24.com/notas/2026/09/20/diputados-retoma-el-debate-por-la-morosidad-y-se-prepara-para-avanzar-con-discapacidad-n521487/",
+    "published_date": "2026-09-20",
     "priority": "relevante",
     "tags": [
       "Congreso",
-      "mora",
+      "morosidad",
       "fintech",
       "regulación",
       "crédito"
     ],
     "id": "nw-905978078c",
     "source_kind": "auto",
-    "last_updated": "2026-09-22",
-    "first_seen": "2026-09-22"
+    "last_updated": "2026-09-23",
+    "first_seen": "2026-09-22",
+    "updated_flag": true
+  },
+  {
+    "title": "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega",
+    "what_happened": "MODO, la billetera de los bancos argentinos, habilitó esta semana (miércoles 23 de septiembre) la posibilidad de buscar, comparar y pagar productos dentro de su plug-in en ChatGPT, lo que presenta como el primer caso de \"comercio agéntico abierto\" con una transacción real concretada en América Latina. La función arrancó con Frávega como primer aliado comercial y la empresa anticipó que sumará más marcas en los próximos meses. El usuario igual debe autorizar el pago manualmente desde la app de MODO o de su banco.",
+    "why_it_matters": "Es el primer caso regional en el que un asistente de IA generalista completa una compra real de punta a punta dentro de la conversación, lo que anticipa una nueva pelea entre bancos y billeteras por ser el método de pago que la IA elige y presiona a Mercado Pago a acelerar su propia integración.",
+    "fixy_impact": "Si el comercio agéntico escala, parte de los pedidos que hoy nacen en un marketplace o una tienda propia podría empezar a originarse dentro de un chat de IA, lo que cambiaría el punto de entrada al que la logística de fulfillment necesita conectarse vía API.",
+    "category": "IA aplicada",
+    "geo": "Argentina",
+    "source_name": "iProUP",
+    "source_url": "https://www.iproup.com/finanzas/71779-modo-lanza-comercio-agentico-para-comprar-y-pagar-sin-salir-de-chatgpt",
+    "published_date": "2026-09-23",
+    "priority": "alta",
+    "tags": [
+      "comercio agéntico",
+      "MODO",
+      "ChatGPT",
+      "IA",
+      "pagos"
+    ],
+    "id": "nw-04ec1c0b57",
+    "source_kind": "auto",
+    "last_updated": "2026-09-23",
+    "first_seen": "2026-09-23"
+  },
+  {
+    "title": "Mercado Pago habilitará la compra y venta de acciones, adelantó Galperin",
+    "what_happened": "Marcos Galperin adelantó en una entrevista que Mercado Pago sumará en los próximos meses la posibilidad de comprar y vender acciones, como paso siguiente a los fondos comunes de inversión y al índice Merval que la billetera ya permite operar. No precisó fecha de lanzamiento, qué papeles estarán disponibles ni los montos mínimos de operación.",
+    "why_it_matters": "Profundiza la estrategia de Mercado Libre de convertir a Mercado Pago en una cuenta financiera integral, lo que además de competir con bancos y brokers tradicionales refuerza el ecosistema que retiene a compradores y vendedores dentro de su plataforma.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "Forbes Argentina",
+    "source_url": "https://www.forbesargentina.com/negocios/mercado-pago-permitira-comprar-vender-acciones-anuncio-marcos-galperin-n98384",
+    "published_date": "2026-09-23",
+    "priority": "informativo",
+    "tags": [
+      "Mercado Pago",
+      "Galperin",
+      "acciones",
+      "fintech"
+    ],
+    "id": "nw-4cce04ca49",
+    "source_kind": "auto",
+    "last_updated": "2026-09-23",
+    "first_seen": "2026-09-23"
   }
 ]

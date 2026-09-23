@@ -198,28 +198,6 @@
     "first_seen": "2026-09-01"
   },
   {
-    "name": "Claude Cowork: memoria unificada con el chat",
-    "vendor": "Anthropic",
-    "what_it_is": "Cowork es el agente de Claude que ejecuta tareas de varios pasos en la nube (ordenar archivos, investigar, armar reportes). Esta actualización unifica su memoria con la del chat normal de Claude, algo que hasta ahora funcionaba por separado.",
-    "what_changed": "Desde el 25 de agosto de 2026, lo que Claude aprende en una conversación de chat queda disponible automáticamente cuando Cowork ejecuta una tarea, y viceversa, sin tener que reexplicar el contexto cada vez. También cambió cómo se guarda la memoria: ahora se actualiza en vivo durante la charla, no solo al final.",
-    "fixy_use": "Si en el chat le explicás a Claude detalles del negocio (tarifarios, SLA con clientes, particularidades de un depósito), esa info queda disponible cuando después le pedís a Cowork que arme un informe, un mail o un seguimiento sin volver a explicar todo de cero. Para un equipo chico que reutiliza el mismo contexto en tareas distintas, esto ahorra tiempo de preparación real.",
-    "verdict": "probar",
-    "verdict_reason": "Reduce fricción concreta en el uso diario de Claude para tareas repetitivas del equipo.",
-    "categories": [
-      "Productividad",
-      "Gestión del tiempo",
-      "Organización"
-    ],
-    "pricing_note": "freemium — activado por defecto en planes Free, Pro y Max; en Team/Enterprise lo tiene que habilitar el administrador del workspace",
-    "source_url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-    "published_date": "2026-08-25",
-    "priority": "alta",
-    "id": "ai-anthropic-claude-cowork-memoria-unificada-con-el-chat",
-    "source_kind": "auto",
-    "last_updated": "2026-08-31",
-    "first_seen": "2026-08-29"
-  },
-  {
     "name": "n8n MCP nativo (Server y Client)",
     "vendor": "n8n",
     "what_it_is": "n8n es la plataforma de automatización de flujos de trabajo (workflows) que conecta sistemas y apps sin programar mucho código.",
@@ -445,6 +423,29 @@
     "first_seen": "2026-09-19"
   },
   {
+    "name": "Claude Cowork: memoria unificada con el chat",
+    "vendor": "Anthropic",
+    "what_it_is": "Es la versión de Claude que combina el chat normal con el modo Cowork, que ejecuta tareas más largas y usa herramientas externas, en una sola interfaz.",
+    "what_changed": "Junto con la fusión de chat y Cowork del 16 de septiembre de 2026, Anthropic sumó nuevos conectores para que Cowork trabaje directo con Google Workspace (Calendar, Drive y Gmail), además de Docusign, Outreach, WordPress y otras herramientas de negocio.",
+    "fixy_use": "El equipo podría pedirle a Claude que revise la casilla de Gmail y arme un resumen de reclamos del último día hábil, busque un archivo en Drive o chequee disponibilidad en el Calendar antes de coordinar una entrega o reunión con un cliente, todo desde la misma conversación. Conviene confirmar antes qué plan de Claude (Pro, Max o Team) incluye estos conectores para el equipo.",
+    "verdict": "probar",
+    "verdict_reason": "Los conectores de Gmail, Drive y Calendar son de uso directo para las tareas diarias de un equipo chico.",
+    "categories": [
+      "Organización",
+      "Productividad",
+      "Gestión del tiempo",
+      "Automatización"
+    ],
+    "pricing_note": "pago - conectores incluidos en planes Pro y Max; disponibilidad exacta por plan no detallada públicamente",
+    "source_url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "published_date": "2026-09-16",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-cowork-memoria-unificada-con-el-chat",
+    "source_kind": "auto",
+    "last_updated": "2026-09-23",
+    "first_seen": "2026-08-29"
+  },
+  {
     "name": "Claude Docs y Claude Slides (Chat y Cowork unificados)",
     "vendor": "Anthropic",
     "what_it_is": "Anthropic unificó la interfaz de chat de Claude con Cowork (su producto para tareas más autónomas) en una sola ventana, y agregó funciones nativas para crear documentos colaborativos (Claude Docs) y presentaciones (Claude Slides) que se pueden exportar a PDF o PowerPoint.",
@@ -532,6 +533,29 @@
     "source_kind": "auto",
     "last_updated": "2026-09-22",
     "first_seen": "2026-09-22"
+  },
+  {
+    "name": "Google Workspace: conectores MCP a HubSpot, QuickBooks, Monday y Salesforce",
+    "vendor": "Google Workspace",
+    "what_it_is": "Son integraciones que permiten que Gemini, dentro de Gmail, Sheets, Docs, Drive y Chat, traiga datos directo de herramientas de negocio como HubSpot, QuickBooks, Monday.com, Salesforce, Asana, Atlassian Rovo y Mailchimp, usando el protocolo MCP.",
+    "what_changed": "Desde el 15 de septiembre de 2026 Google sumó estos conectores para no tener que abrir cada sistema por separado: Gemini puede consultar esos datos directamente desde la app de Workspace que se esté usando en ese momento.",
+    "fixy_use": "Si Fixy administra el CRM comercial en HubSpot o Monday, o la contabilidad en QuickBooks, podría pedirle a Gemini desde Gmail o Docs que traiga el estado de una cuenta o de un pedido sin cambiar de pestaña, ahorrando pasos en el seguimiento comercial y administrativo. Hay que confirmar primero cuáles de estas integraciones están habilitadas en el plan de Workspace que tiene contratado Fixy.",
+    "verdict": "seguir",
+    "verdict_reason": "Es concreta y útil, pero su valor real depende de qué herramientas de negocio use hoy Fixy y de qué plan de Workspace tenga.",
+    "categories": [
+      "Automatización",
+      "Organización",
+      "Gestión del tiempo",
+      "Comercial"
+    ],
+    "pricing_note": "no confirmado - depende del plan de Google Workspace contratado; Google no detalló costos adicionales por conector",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/09/connect-to-more-tools-with-gemini-in-Google-Workspace.html",
+    "published_date": "2026-09-15",
+    "priority": "relevante",
+    "id": "ai-google-workspace-google-workspace-conectores-mcp-a-hubspot-q",
+    "source_kind": "auto",
+    "last_updated": "2026-09-23",
+    "first_seen": "2026-09-23"
   },
   {
     "name": "Luna de Gurú",
@@ -1626,6 +1650,26 @@
     "first_seen": "2026-09-19"
   },
   {
+    "name": "ChatGPT Ads: Sponsored Agents e integraciones con HubSpot y Shopify",
+    "vendor": "OpenAI",
+    "what_it_is": "Es un nuevo formato publicitario dentro de ChatGPT: cuando aparece un anuncio, el usuario puede abrir una conversación con un agente de esa marca para hacer preguntas antes de comprar, y las empresas pueden armar y gestionar esas campañas desde HubSpot o Shopify.",
+    "what_changed": "OpenAI lo anunció el 16 de septiembre de 2026, pero por ahora es una prueba piloto acotada a un grupo chico de anunciantes en Estados Unidos (como Wayfair), sin fecha confirmada para otros países ni acceso abierto a pymes.",
+    "fixy_use": "Hoy no es una opción real para Fixy: es solo para la prueba piloto en EE.UU. Vale la pena seguirlo de lejos porque si se expande a otros mercados y a plataformas tipo Tiendanube, podría convertirse en un canal nuevo para promocionar los servicios de fulfillment de Fixy entre tiendas online que buscan operador logístico.",
+    "verdict": "seguir",
+    "verdict_reason": "Todavía no está disponible fuera de la prueba piloto en Estados Unidos, así que no hay nada para probar hoy.",
+    "categories": [
+      "Marketing"
+    ],
+    "pricing_note": "no confirmado - es un formato publicitario pago en fase de prueba, sin precios públicos",
+    "source_url": "https://openai.com/index/testing-ads-in-chatgpt/",
+    "published_date": "2026-09-16",
+    "priority": "informativo",
+    "id": "ai-openai-chatgpt-ads-sponsored-agents-e-integraciones-con-hubs",
+    "source_kind": "auto",
+    "last_updated": "2026-09-23",
+    "first_seen": "2026-09-23"
+  },
+  {
     "name": "Notion 3.7: Agent Skills",
     "vendor": "Notion",
     "what_it_is": "Notion es un espacio de trabajo para documentos, bases de datos y proyectos; sus agentes de IA ahora pueden guardar \"skills\", instrucciones reutilizables que enseñan cómo trabaja el equipo.",
@@ -1711,6 +1755,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-16",
     "first_seen": "2026-09-16"
+  },
+  {
+    "name": "Gemini en Google Sheets: ahora en Android",
+    "vendor": "Google Workspace",
+    "what_it_is": "Es la función de Gemini dentro de Google Sheets que responde preguntas sobre los datos de una planilla y arma gráficos o resúmenes usando lenguaje natural.",
+    "what_changed": "Desde el 9 de septiembre de 2026 esta función, que ya existía en la versión web, también se puede usar desde el celular con Android tocando el ícono de Gemini dentro de la app de Sheets.",
+    "fixy_use": "Alguien de operaciones o comercial puede, desde el depósito o en la calle y sin abrir una compu, pedirle a Gemini que resuma una planilla de pedidos pendientes o de stock y arme un gráfico rápido antes de una reunión. Para editar fórmulas, dar formato o hacer cambios más complejos todavía hace falta la versión web.",
+    "verdict": "probar",
+    "verdict_reason": "Es una mejora chica pero gratuita y sin configuración para quienes ya usan Google Workspace.",
+    "categories": [
+      "Análisis",
+      "Productividad",
+      "Operaciones"
+    ],
+    "pricing_note": "freemium - incluido en Business Standard/Plus, Enterprise Standard/Plus y Google AI Pro/Ultra; no confirmado si el plan gratuito de Sheets lo incluye",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/08/gemini-in-google-sheets-is-now-available-on-Android-devices.html",
+    "published_date": "2026-09-09",
+    "priority": "informativo",
+    "id": "ai-google-workspace-gemini-en-google-sheets-ahora-en-android",
+    "source_kind": "auto",
+    "last_updated": "2026-09-23",
+    "first_seen": "2026-09-23"
   },
   {
     "name": "Agentes de IA de terceros en chats de WhatsApp",

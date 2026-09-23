@@ -1,20 +1,5 @@
 [
   {
-    "topic": "Comprar en Shein, Temu o Amazon ahora es más parejo: qué cambia para el retail y la logística argentina",
-    "why_now": "ARCA acaba de equiparar las condiciones tributarias entre el Correo Argentino y los couriers privados para las compras en plataformas del exterior.",
-    "fixy_angle": "Fixy puede posicionarse como la alternativa de entrega rápida y local frente a los tiempos de importación, mostrando cómo el fulfillment nacional compite con la compra directa al exterior.",
-    "formats": [
-      "LinkedIn",
-      "nota"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.eldestapeweb.com/economia/arca-reglas-compras-shein-temu-amazon-202681941530",
-    "id": "ct-24c141c0",
-    "source_kind": "auto",
-    "last_updated": "2026-08-23",
-    "first_seen": "2026-08-23"
-  },
-  {
     "topic": "El primer marco regulatorio de última milla autónoma en Argentina",
     "why_now": "La Ciudad de Buenos Aires acaba de habilitar formalmente pruebas con autos sin conductor y robots de reparto en la vía pública, algo que hasta ahora no tenía antecedente normativo en el país.",
     "fixy_angle": "Explicar con precisión qué habilita realmente la norma hoy y qué tendría que pasar para que un operador como Fixy pueda evaluar un piloto acotado en el AMBA en los próximos años, sin prometer algo que todavía no existe.",
@@ -1053,5 +1038,20 @@
     "source_kind": "auto",
     "last_updated": "2026-09-22",
     "first_seen": "2026-09-22"
+  },
+  {
+    "topic": "Cuando el pedido nace en un chat: qué significa el comercio agéntico de MODO y ChatGPT para la logística argentina",
+    "why_now": "Es el primer caso de compra de punta a punta dentro de un chat de IA concretado en el país, con Frávega como primer aliado comercial.",
+    "fixy_angle": "Fixy puede explicar en un lenguaje simple qué cambia para una tienda online cuando el pedido nace en una conversación de IA en vez de en el sitio o el marketplace, y qué necesitaría un operador logístico para conectarse a ese flujo.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.iproup.com/finanzas/71779-modo-lanza-comercio-agentico-para-comprar-y-pagar-sin-salir-de-chatgpt",
+    "id": "ct-f52a7906",
+    "source_kind": "auto",
+    "last_updated": "2026-09-23",
+    "first_seen": "2026-09-23"
   }
 ]

@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-22T12:15:02.351Z",
-  "last_updated_ar": "22/09/2026, 09:15",
-  "date": "2026-09-22",
+  "generated_at": "2026-09-23T12:27:55.947Z",
+  "last_updated_ar": "23/09/2026, 09:27",
+  "date": "2026-09-23",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El día combina la escalada del paro portuario de Montevideo a todo el país -con nueva asamblea el jueves 24- con la primera fecha concreta de dictamen legislativo sobre crédito y fintech (29/9), dos señales que piden avisar ya a los clientes con carga en tránsito y monitorear de cerca si el financiamiento en cuotas se restringe en vez de destrabarse.",
+  "summary_line": "El día lo marca el primer caso de comercio agéntico de punta a punta en la región -MODO pagando dentro de ChatGPT con Frávega-, que abre la pregunta de si el fulfillment de Fixy también va a tener que conectarse a un pedido que nace dentro de una conversación de IA, mientras el dictamen sobre crédito y fintech ya tiene fecha de firma (29/9) y el conflicto portuario de Montevideo sigue sin resolverse.",
   "counters": {
-    "news_today": 1,
-    "news_total": 44,
+    "news_today": 2,
+    "news_total": 41,
     "events_upcoming": 74,
     "events_ar_upcoming": 43,
     "events_intl_upcoming": 31,
-    "events_later": 30,
+    "events_later": 31,
     "opportunities_open": 8,
-    "opportunities_today": 1,
-    "ai_today": 2,
-    "ai_to_try": 50,
+    "opportunities_today": 2,
+    "ai_today": 3,
+    "ai_to_try": 51,
     "content_ideas": 70,
-    "added_news": 1,
-    "updated_news": 1,
+    "added_news": 2,
+    "updated_news": 2,
     "added_events": 2,
     "updated_events": 0,
-    "added_ai": 2,
-    "archived": 6,
+    "added_ai": 3,
+    "archived": 9,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,39 +34,39 @@
   },
   "highlights": [
     {
-      "id": "nw-e19d279417",
+      "id": "nw-04ec1c0b57",
       "kind": "news",
-      "title": "El sindicato portuario de Montevideo convocó un nuevo paro nacional de 24 horas en pleno conflicto con TCP",
+      "title": "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega",
       "priority": "alta",
-      "one_liner": "El paro se concretó hoy y ya no afecta solo a la terminal en conflicto sino a todos los puertos de Uruguay, con una nueva asamblea el jueves 24."
+      "one_liner": "Primer caso de compra completa dentro de un chat de IA en la región: puede cambiar dónde nace un pedido de eCommerce."
     },
     {
-      "id": "op-b4434627",
+      "id": "op-3733cd65",
       "kind": "opportunity",
-      "title": "Avisar proactivamente a clientes con carga en tránsito por Montevideo por el nuevo paro portuario del 21 y 22/9",
+      "title": "Evaluar el comercio agéntico (MODO + ChatGPT) como un canal nuevo de originación de pedidos",
       "priority": "alta",
-      "one_liner": "Con el paro ya escalado a todos los puertos uruguayos y una nueva medida anunciada para el jueves, conviene avisar hoy mismo a los clientes con carga en tránsito."
+      "one_liner": "Si el comercio agéntico escala, Fixy necesita entender hoy cómo conectaría su fulfillment a un pedido que nace en una IA."
     },
     {
       "id": "nw-905978078c",
       "kind": "news",
       "title": "El Congreso argentino avanza hacia un dictamen sobre regulación del crédito y las fintech, con más de 60 proyectos en danza",
       "priority": "relevante",
-      "one_liner": "Por primera vez hay una fecha concreta de dictamen (29/9) que puede definir si el crédito en cuotas se restringe o se destraba antes de fin de año."
+      "one_liner": "La firma del dictamen quedó agendada para el martes 29/9, con intención de llevarlo al recinto en octubre."
     },
     {
-      "id": "ai-guru-luna-de-guru",
+      "id": "ai-anthropic-claude-cowork-memoria-unificada-con-el-chat",
       "kind": "ai",
-      "title": "Luna de Gurú",
+      "title": "Claude Cowork: memoria unificada con el chat",
       "priority": "relevante",
-      "one_liner": "Asistente de IA gratis pensado para pymes argentinas que Fixy podría probar hoy mismo para la primera respuesta de WhatsApp a leads comerciales."
+      "one_liner": "Ahora conecta directo con Gmail, Drive y Calendar del equipo, útil para automatizar tareas diarias sin salir del chat."
     },
     {
-      "id": "ev-argentina-nerdearla-2026",
+      "id": "ev-catamarca-nodo-tech-week-2026",
       "kind": "event",
-      "title": "Nerdearla Argentina 2026",
+      "title": "Nodo Tech Week 2026 – Catamarca",
       "priority": "informativo",
-      "one_liner": "Arranca hoy en CABA y es una fuente directa de tendencias de IA y automatización aplicables a WMS, TMS y atención al cliente."
+      "one_liner": "Arranca hoy y es una señal de que el ecosistema tech del NOA sigue creciendo, una región donde Fixy todavía tiene poca presencia."
     }
   ]
 }
