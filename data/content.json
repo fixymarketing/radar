@@ -1,50 +1,5 @@
 [
   {
-    "topic": "El primer marco regulatorio de última milla autónoma en Argentina",
-    "why_now": "La Ciudad de Buenos Aires acaba de habilitar formalmente pruebas con autos sin conductor y robots de reparto en la vía pública, algo que hasta ahora no tenía antecedente normativo en el país.",
-    "fixy_angle": "Explicar con precisión qué habilita realmente la norma hoy y qué tendría que pasar para que un operador como Fixy pueda evaluar un piloto acotado en el AMBA en los próximos años, sin prometer algo que todavía no existe.",
-    "formats": [
-      "LinkedIn",
-      "nota"
-    ],
-    "priority": "informativo",
-    "source_url": "https://www.infobae.com/sociedad/2026/08/21/la-ciudad-de-buenos-aires-habilito-pruebas-de-autos-sin-conductor-y-robots-de-reparto/",
-    "id": "ct-af3d9d26",
-    "source_kind": "auto",
-    "last_updated": "2026-08-24",
-    "first_seen": "2026-08-24"
-  },
-  {
-    "topic": "Lo que la confianza del consumidor anticipa para el ticket alto del eCommerce",
-    "why_now": "La confianza del consumidor volvió a caer en agosto, con retroceso marcado en la intención de compra de bienes durables y un deterioro más fuerte en el interior, un indicador adelantado que todavía no se refleja en las cifras de venta.",
-    "fixy_angle": "Como operador que mueve tanto pedidos de ticket bajo como bienes durables, Fixy puede anticipar a sus clientes qué categorías de mayor valor y qué regiones del interior van a sentir primero el freno, antes de que aparezca en los balances.",
-    "formats": [
-      "LinkedIn",
-      "artículo"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/economia/2026/08/20/la-confianza-del-consumidor-volvio-a-caer-en-agosto-por-el-deterioro-de-la-situacion-personal/",
-    "id": "ct-1444924f",
-    "source_kind": "auto",
-    "last_updated": "2026-08-24",
-    "first_seen": "2026-08-24"
-  },
-  {
-    "topic": "Por qué el consumo no reacciona ni con cuotas: la mora fintech en números",
-    "why_now": "Las fintech ya superan los 10 millones de deudores en Argentina, con 2,4 millones en mora, un dato que ayuda a explicar por qué ni las promociones agresivas del Día del Niño movieron el volumen de venta.",
-    "fixy_angle": "Conectar el dato de mora con lo que Fixy ve en el día a día del despacho, pedidos más chicos y más frecuentes en vez de compras de mayor ticket financiadas, como argumento propio para explicar por qué cambió el mix de producto.",
-    "formats": [
-      "LinkedIn",
-      "carrusel"
-    ],
-    "priority": "informativo",
-    "source_url": "https://www.zonanortehoy.com/economia/mas-de-10-millones-de-argentinos-tienen-deudas-con-fintech-y-2-4-millones-estan-en-mora/",
-    "id": "ct-6dcad0bb",
-    "source_kind": "auto",
-    "last_updated": "2026-08-24",
-    "first_seen": "2026-08-24"
-  },
-  {
     "topic": "Dos frentes regulatorios, una misma billetera: qué significa que Nación y Provincia investiguen a las fintech al mismo tiempo",
     "why_now": "En la misma semana, diputados nacionales piden investigar a Mercado Pago, Ualá y otras 90 billeteras por tasas y algoritmos, y la Provincia de Buenos Aires abre un frente aparte por hostigamiento a deudores, en un contexto de morosidad récord.",
     "fixy_angle": "Fixy gestiona cobros y financiamiento a sellers junto con estas billeteras: explicar qué está en discusión ayuda a que comercial y clientes entiendan el riesgo regulatorio antes de que se traduzca en cambios de condiciones.",
@@ -1053,5 +1008,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-23",
     "first_seen": "2026-09-23"
+  },
+  {
+    "topic": "La brecha de IA en logística que deja a América Latina atrás, según el Foro Económico Mundial",
+    "why_now": "Un informe global publicado hoy mapea la inversión y la brecha de datos en IA aplicada a logística, y ubica a América Latina entre las regiones más rezagadas del mundo.",
+    "fixy_angle": "Fixy puede mostrar en qué está invirtiendo hoy en automatización e IA para diferenciarse de un sector regional que, según el propio informe, todavía va atrás.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/movant/2026/09/24/informe-global-mapea-inversion-y-brechas-de-la-inteligencia-artificial-en-logistica/",
+    "id": "ct-326f4a26",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "topic": "Cuando el precio ya no alcanza: la logística como nuevo campo de batalla entre Mercado Libre, Shein y Temu",
+    "why_now": "Mercado Libre refuerza su estrategia justamente porque la pelea con las plataformas chinas se trasladó del precio a la logística local.",
+    "fixy_angle": "Fixy puede explicar, desde su lugar de operador, por qué la velocidad de entrega y el stock local son hoy la ventaja competitiva real del eCommerce argentino frente a la importación directa.",
+    "formats": [
+      "LinkedIn",
+      "artículo"
+    ],
+    "priority": "alta",
+    "source_url": "https://www.iprofesional.com/tecnologia/464619-mercado-libre-refuerza-su-estrategia-ante-el-avance-de-shein-y-temu-en-argentina",
+    "id": "ct-4129f4ac",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "topic": "Confianza al alza, PBI a la baja: la contradicción que hay que mirar antes de la temporada de fin de año",
+    "why_now": "La confianza del consumidor cortó dos meses de caída en septiembre, pero en el mismo período el PBI cayó 0,6% y el consumo privado retrocedió 2,4%, dos lecturas que empujan en direcciones opuestas justo antes de la temporada alta del eCommerce.",
+    "fixy_angle": "Fixy puede ayudar a sus clientes a planificar stock y capacidad logística con cautela para fin de año, sin sobreproyectar la demanda solo por la mejora en la confianza.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.lanacion.com.ar/economia/el-pbi-se-contrajo-06-en-el-segundo-trimestre-con-fuertes-caidas-en-el-consumo-y-la-inversion-nid17092026/",
+    "id": "ct-92f94be7",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
   }
 ]

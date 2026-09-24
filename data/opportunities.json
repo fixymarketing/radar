@@ -1,5 +1,50 @@
 [
   {
+    "title": "Evaluar cámaras inteligentes y telemetría con IA para bajar el robo en última milla",
+    "context": "El sector de seguridad empezó a ofrecer cámaras inteligentes y telemetría con IA como respuesta al robo de mercadería en última milla, que creció de la mano del boom del eCommerce y ya es uno de los costos ocultos más relevantes de la operación logística.",
+    "action": "Pedir demos a dos o tres proveedores de cámaras inteligentes y telemetría con IA, y comparar su costo mensual contra lo que hoy le cuesta a Fixy la siniestralidad y las reprogramaciones por robo en la flota de última milla.",
+    "type": "producto",
+    "priority": "alta",
+    "source_url": "https://www.iprofesional.com/tecnologia/465014-la-inteligencia-artificial-frena-los-robos-logisticos-en-la-ultima-milla",
+    "linked": [
+      "Cámaras inteligentes y telemetría con IA, la apuesta del sector seguridad para frenar los robos en última milla"
+    ],
+    "id": "op-fb83dad7",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "title": "Explorar un servicio de micro-fulfillment para clientes de quick commerce",
+    "context": "El quick commerce creció 62% en seis meses en América Latina, con PedidosYa a la cabeza, lo que presiona a toda la última milla regional a acortar tiempos de entrega y ganar densidad de puntos de despacho cerca del consumidor.",
+    "action": "Armar una propuesta piloto de micro-fulfillment (un depósito chico de alta rotación) en una zona de alta densidad de AMBA para uno o dos clientes actuales de grocery o quick commerce, y medir el impacto en el tiempo de entrega.",
+    "type": "nueva línea de negocio",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/america/agencias/2026/09/18/radiografia-del-quick-commerce-las-compras-de-supermercado-online-crecen-un-62-en-latinoamerica/",
+    "linked": [
+      "El quick commerce crece 62% en América Latina y PedidosYa lidera el segmento"
+    ],
+    "id": "op-f6118a16",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "title": "Usar la logística local como argumento de venta frente a Shein y Temu",
+    "context": "Mercado Libre refuerza su estrategia porque la competencia con las plataformas chinas dejó de jugarse solo en el precio y se trasladó a la logística local, que pasa a ser el verdadero campo de batalla del eCommerce argentino.",
+    "action": "Sumar al discurso comercial y a los materiales de venta el argumento de tiempo de entrega y stock local, apuntando a marcas que hoy compiten de cerca con Shein y Temu y necesitan diferenciarse por velocidad.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.iprofesional.com/tecnologia/464619-mercado-libre-refuerza-su-estrategia-ante-el-avance-de-shein-y-temu-en-argentina",
+    "linked": [
+      "Mercado Libre refuerza su estrategia ante el avance de Shein y Temu en Argentina"
+    ],
+    "id": "op-6b2980fd",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
     "title": "Evaluar el comercio agéntico (MODO + ChatGPT) como un canal nuevo de originación de pedidos",
     "context": "MODO habilitó esta semana la compra y el pago completos dentro de un plug-in en ChatGPT, con Frávega como primer aliado comercial: es el primer caso de comercio agéntico de punta a punta concretado en la región. Si el modelo escala a más marcas, parte de los pedidos que hoy nacen en una tienda propia o un marketplace podría empezar a originarse dentro de una conversación de IA.",
     "action": "Sumar a la agenda comercial un relevamiento de qué integración necesitaría un pedido nacido en un asistente de IA para conectarse con el fulfillment de Fixy, y conversar con algún cliente pyme que use MODO o Tiendanube sobre este canal.",
@@ -75,51 +120,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-21",
     "first_seen": "2026-09-21"
-  },
-  {
-    "title": "Salir a buscar a los nuevos vendedores pyme de Mercado Libre en el interior",
-    "context": "El informe \"Efecto MELI\" confirma que el ecosistema de Mercado Libre ya equivale al 1% del PBI argentino, que casi la mitad de sus vendedores pyme usó IA por primera vez este año y que el comercio online sigue llegando a más ciudades del interior. Son vendedores nuevos, en plazas donde Fixy todavía tiene baja presencia, que están recién armando su operación logística.",
-    "action": "Cruzar las ciudades del interior que menciona el informe de MELI con la cobertura actual de Fixy y lanzar una acción comercial puntual (mail o llamado directo) a vendedores nuevos de esas plazas antes de que arme su logística con otro operador.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.cronista.com/finanzas-mercados/mercado-libre-ya-mueve-casi-el-1-del-pbi-argentino-que-esperar-para-la-accion/",
-    "linked": [
-      "Mercado Libre presenta \"Efecto MELI\": su ecosistema ya representa el 1% del PBI argentino",
-      "Nodo Tech Week 2026 – Catamarca (San Fernando del Valle de Catamarca, Argentina)"
-    ],
-    "id": "op-8125882c",
-    "source_kind": "auto",
-    "last_updated": "2026-09-21",
-    "first_seen": "2026-09-21"
-  },
-  {
-    "title": "Reforzar y comunicar los protocolos de seguridad de última milla ante el avance de la piratería del asfalto",
-    "context": "Un relevamiento reciente muestra que el 83% de los robos a vehículos de carga ya se concentra en utilitarios y camionetas de reparto, justo el segmento que multiplicó el crecimiento del e-commerce. Es una señal de que la seguridad en última milla dejó de ser un tema operativo interno para volverse un argumento comercial.",
-    "action": "Auditar y reforzar los protocolos actuales (GPS, horarios de carga/descarga, videovigilancia móvil) y convertirlos en un diferencial explícito frente a clientes y prospectos que hoy ponderan el riesgo de robo al elegir operador logístico.",
-    "type": "producto",
-    "priority": "alta",
-    "source_url": "https://www.lanacion.com.ar/seguridad/aumentaron-los-ataques-de-piratas-del-asfalto-a-los-vehiculos-que-reparten-mercaderia-de-e-commerce-nid16092026/",
-    "linked": [
-      "Los ataques de piratas del asfalto se concentran cada vez más en los vehículos de reparto del e-commerce"
-    ],
-    "id": "op-fa3fdcab",
-    "source_kind": "auto",
-    "last_updated": "2026-09-20",
-    "first_seen": "2026-09-20"
-  },
-  {
-    "title": "Avisar proactivamente a clientes con carga en tránsito por Montevideo por el nuevo paro portuario del 21 y 22/9",
-    "context": "El sindicato portuario de Montevideo convocó un paro nacional de 24 horas desde el lunes 21 a las 7 hasta el martes 22 a las 7, en rechazo a los servicios mínimos impuestos en la terminal de contenedores, con una asamblea general adicional prevista para el jueves 24.",
-    "action": "Identificar qué clientes tienen mercadería en tránsito o programada vía Montevideo esta semana y avisarles con anticipación para que evalúen rutas alternativas o stock de contingencia antes del paro del lunes.",
-    "type": "estratégica",
-    "priority": "alta",
-    "source_url": "https://www.subrayado.com.uy/sindicato-portuario-convoca-paro-nacional-24-horas-las-7-del-lunes-21-contra-resolucion-servicios-minimos-n1018420",
-    "linked": [
-      "El sindicato portuario de Montevideo convocó un nuevo paro nacional de 24 horas en pleno conflicto con TCP"
-    ],
-    "id": "op-b4434627",
-    "source_kind": "auto",
-    "last_updated": "2026-09-20",
-    "first_seen": "2026-09-20"
   }
 ]

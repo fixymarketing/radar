@@ -3691,29 +3691,42 @@
   {
     "scope": "ar",
     "name": "ePymes Day 2026",
-    "organizer": "Andreani (Grupo Logístico Andreani)",
+    "organizer": "Andreani",
     "date_start": "2026-09-24",
     "date_end": "2026-09-24",
     "date_confirmed": true,
     "date_note": null,
-    "city": "CABA",
+    "city": "Ciudad Autónoma de Buenos Aires",
     "province": "Buenos Aires",
     "country": "Argentina",
-    "venue": "Dr. Prof. Pedro Chutro 2881, CABA",
+    "venue": "Espacio Chutro (Dr. Prof. Pedro Chutro 2881, CABA)",
     "venue_confirmed": true,
     "format": "presencial",
-    "category": "eCommerce",
+    "category": "Emprendimiento",
     "url": "https://epymesday.andreani.com/",
     "source_url": "https://www.eventbrite.com/e/epymes-day-2026-tickets-1993148967215",
-    "description": "Evento gratuito de Andreani para emprendedores y pymes de eCommerce, con referentes de CACE, ASEA, Google, Meta, Mercado Libre y Tiendanube compartiendo casos de éxito y tendencias del ecosistema digital.",
-    "fixy_relevance": "Es un evento clave para monitorear cómo se posiciona un competidor/socio de peso como Andreani frente a las pymes de eCommerce, y una oportunidad de networking directo con el mismo público objetivo de Fixy.",
+    "description": "Jornada gratuita de Andreani para pymes y emprendedores con charlas de Meta y Microsoft sobre e-commerce, marketing digital, inteligencia artificial y logística, más casos de escalado de negocios locales.",
+    "fixy_relevance": "Organizado por Andreani, competidor directo de Fixy en logística para eCommerce: sirve para monitorear su discurso comercial hacia pymes y detectar qué herramientas y servicios está posicionando frente a ese público.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-day-epymes-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-10",
-    "first_seen": "2026-09-10"
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-10",
+    "change_log": [
+      {
+        "date": "2026-09-24",
+        "fields": [
+          "organizer",
+          "city",
+          "venue",
+          "category",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -4149,15 +4162,25 @@
     "category": "Innovación",
     "url": "https://www.eventbrite.com.ar/e/inteligencia-artificial-para-pymes-mendoza-tickets-1983204103861",
     "source_url": "https://www.somospymes.com.ar/eventos/llega-mendoza-el-evento-inteligencia-artificial-pymes-mas-importante-del-pais-n5404169",
-    "description": "Jornada organizada por Somos Pymes en Mendoza que convoca a más de 1.200 empresarios y líderes del ecosistema productivo para mostrar casos concretos de aplicación de inteligencia artificial en la gestión diaria de pequeñas y medianas empresas.",
-    "fixy_relevance": "Reúne en un solo lugar a más de mil PyMEs de Cuyo, muchas de ellas vendedoras online que podrían necesitar fulfillment y última milla; además expone casos reales de IA aplicada a operaciones, un insumo directo para bajar costos y mejorar procesos internos de Fixy.",
+    "description": "Encuentro de Somos Pymes en el Hotel Sheraton Mendoza con más de 1.200 empresarios esperados, enfocado en llevar la inteligencia artificial de lo abstracto a la aplicación concreta en pymes.",
+    "fixy_relevance": "Concentra a pymes cuyanas que venden online y buscan adoptar IA: oportunidad para Fixy de posicionarse ante potenciales clientes de fulfillment en la región de Cuyo, fuera de CABA/GBA.",
     "justification_type": null,
-    "priority": "relevante",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-artificial-inteligencia-mendoza-para-pymes-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-21",
-    "first_seen": "2026-09-21"
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-21",
+    "change_log": [
+      {
+        "date": "2026-09-24",
+        "fields": [
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -4269,13 +4292,13 @@
   },
   {
     "scope": "intl",
-    "name": "Latam Retail Show 2027",
-    "organizer": "Gouvêa Experience",
+    "name": "Latam Retail Show",
+    "organizer": "Gouvêa Experience (Gouvêa Ecosystem)",
     "date_start": null,
     "date_end": null,
     "date_confirmed": false,
-    "date_note": "La 11ª edición (Latam Retail Show 2026) se hizo del 15 al 17 de septiembre de 2026 en el Distrito Anhembi, San Pablo. El organizador ya confirmó que habrá edición 2027, pero todavía no publicó fechas exactas; por el patrón de años anteriores se espera para agosto o septiembre de 2027.",
-    "city": "São Paulo",
+    "date_note": "La 11ª edición se realizó del 15 al 17 de septiembre de 2026 en Distrito Anhembi (San Pablo). Al 24/09/2026 ya hay inscripciones abiertas para la 12ª edición (2027), pero el organizador todavía no publicó fechas ni sede oficiales; por el patrón histórico del evento (siempre en septiembre), se espera para septiembre de 2027.",
+    "city": "San Pablo",
     "province": null,
     "country": "Brasil",
     "venue": "Por confirmar",
@@ -4283,16 +4306,32 @@
     "format": "presencial",
     "category": "Retail",
     "url": "https://latamretailshow.com/",
-    "source_url": "https://cndl.org.br/varejosa/latam-retail-show-coloca-servicos-e-inteligencia-artificial-no-centro-da-transformacao-do-varejo/",
-    "description": "El evento de retail más grande de América Latina, organizado por Gouvêa Experience: reúne a unos 4.000 líderes de retail, consumo y tecnología en San Pablo para debatir IA, servicios y nuevos modelos de negocio.",
-    "fixy_relevance": "Punto de encuentro con retailers y marketplaces de toda la región que buscan socios de fulfillment y última milla; alto valor de networking y detección de negocios para una eventual expansión de Fixy en Brasil.",
-    "justification_type": "negocios",
-    "priority": "relevante",
+    "source_url": "https://cndl.org.br/varejosa/latam-retail-show-encerra-edicao-de-2026-com-discussoes-sobre-futuro-do-varejo-comportamento-do-consumidor-e-novos-modelos-de-negocio/",
+    "description": "El Latam Retail Show es el principal evento B2B de retail, consumo y servicios de América Latina, organizado por Gouvêa Experience en San Pablo. Reúne a más de 3.000 líderes y unos 220 oradores en nueve eventos temáticos simultáneos sobre IA, omnicanalidad, franquicias, shoppings y nuevos modelos de negocio.",
+    "fixy_relevance": "Es el mayor punto de encuentro de retailers, marcas y proveedores de tecnología de la región, con foco fuerte en omnicanalidad y transformación del negocio con IA. Para Fixy es una oportunidad de relevamiento competitivo y de conectar con marcas que están evaluando o cambiando de operador logístico en Brasil, un evento que hoy no está en el radar de la empresa.",
+    "justification_type": "networking",
+    "priority": "informativo",
     "beyond_90": true,
     "id": "ev-latam-retail-show-La 1",
     "source_kind": "auto",
-    "last_updated": "2026-09-23",
-    "first_seen": "2026-09-23"
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-23",
+    "change_log": [
+      {
+        "date": "2026-09-24",
+        "fields": [
+          "name",
+          "organizer",
+          "date_note",
+          "city",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -4320,5 +4359,59 @@
     "source_kind": "auto",
     "last_updated": "2026-09-23",
     "first_seen": "2026-09-23"
+  },
+  {
+    "scope": "ar",
+    "name": "EXA 2026 (Expo Argentina Región Centro)",
+    "organizer": "Unión de Comerciantes e Industriales del Departamento San Lorenzo (UCI), comercializado por Eureka Pop Entertainment",
+    "date_start": "2026-09-24",
+    "date_end": "2026-09-26",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "San Lorenzo",
+    "province": "Santa Fe",
+    "country": "Argentina",
+    "venue": "Parque Industrial y Logístico de San Lorenzo",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.expoargentinacentro.com",
+    "source_url": "https://www.rosario3.com/-economia-negocios-agro-/exa-2026-abre-el-jueves-en-san-lorenzo-con-una-agenda-centrada-en-produccion-logistica-y-nuevas-tecnologias-20260919-0010.html",
+    "description": "Primera edición de una exposición industrial y comercial en el Parque Industrial y Logístico de San Lorenzo (cordón industrial de Rosario), con más de 200 empresas y foros sobre hidrovía, industria, innovación, comercio y logística.",
+    "fixy_relevance": "Reúne en un solo lugar a industria, comercio y logística del cordón Rosario-San Lorenzo, un polo productivo clave fuera de CABA/GBA donde Fixy puede relevar potenciales clientes y socios del ecosistema logístico del Litoral.",
+    "justification_type": null,
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-argentina-centro-exa-region-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "scope": "ar",
+    "name": "eCommerce GO Mar del Plata 2026",
+    "organizer": "CACE - Cámara Argentina de Comercio Electrónico",
+    "date_start": "2026-10-09",
+    "date_end": "2026-10-09",
+    "date_confirmed": false,
+    "date_note": "Las coberturas periodísticas indican \"jueves 9 de octubre de 2026\", pero el 9 de octubre de 2026 cae viernes según el calendario. Se mantiene la fecha 2026-10-09 informada por la fuente con la alerta correspondiente.",
+    "city": "Mar del Plata",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Jano's Playa Grande",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "eCommerce",
+    "url": "https://cace.org.ar/eventos/ecommerce-go-mar-del-plata/",
+    "source_url": "https://cace.org.ar/blogs/news/tagged/ecommerce-go",
+    "description": "Edición marplatense del ciclo federal eCommerce GO de CACE, con foco en tendencias, casos reales e inteligencia artificial aplicada a negocios digitales, gratuita para socios de la cámara.",
+    "fixy_relevance": "Encuentro de comercio electrónico fuera de CABA/GBA que junta a pymes y marcas de Mar del Plata que venden online: espacio de networking comercial y relevamiento de potenciales clientes de fulfillment en la costa atlántica.",
+    "justification_type": null,
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-ecommerce-go-mar-plata-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
   }
 ]

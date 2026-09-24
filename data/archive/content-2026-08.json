@@ -256,5 +256,50 @@
     "source_kind": "auto",
     "last_updated": "2026-08-23",
     "first_seen": "2026-08-23"
+  },
+  {
+    "topic": "El primer marco regulatorio de última milla autónoma en Argentina",
+    "why_now": "La Ciudad de Buenos Aires acaba de habilitar formalmente pruebas con autos sin conductor y robots de reparto en la vía pública, algo que hasta ahora no tenía antecedente normativo en el país.",
+    "fixy_angle": "Explicar con precisión qué habilita realmente la norma hoy y qué tendría que pasar para que un operador como Fixy pueda evaluar un piloto acotado en el AMBA en los próximos años, sin prometer algo que todavía no existe.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.infobae.com/sociedad/2026/08/21/la-ciudad-de-buenos-aires-habilito-pruebas-de-autos-sin-conductor-y-robots-de-reparto/",
+    "id": "ct-af3d9d26",
+    "source_kind": "auto",
+    "last_updated": "2026-08-24",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "topic": "Lo que la confianza del consumidor anticipa para el ticket alto del eCommerce",
+    "why_now": "La confianza del consumidor volvió a caer en agosto, con retroceso marcado en la intención de compra de bienes durables y un deterioro más fuerte en el interior, un indicador adelantado que todavía no se refleja en las cifras de venta.",
+    "fixy_angle": "Como operador que mueve tanto pedidos de ticket bajo como bienes durables, Fixy puede anticipar a sus clientes qué categorías de mayor valor y qué regiones del interior van a sentir primero el freno, antes de que aparezca en los balances.",
+    "formats": [
+      "LinkedIn",
+      "artículo"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/08/20/la-confianza-del-consumidor-volvio-a-caer-en-agosto-por-el-deterioro-de-la-situacion-personal/",
+    "id": "ct-1444924f",
+    "source_kind": "auto",
+    "last_updated": "2026-08-24",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "topic": "Por qué el consumo no reacciona ni con cuotas: la mora fintech en números",
+    "why_now": "Las fintech ya superan los 10 millones de deudores en Argentina, con 2,4 millones en mora, un dato que ayuda a explicar por qué ni las promociones agresivas del Día del Niño movieron el volumen de venta.",
+    "fixy_angle": "Conectar el dato de mora con lo que Fixy ve en el día a día del despacho, pedidos más chicos y más frecuentes en vez de compras de mayor ticket financiadas, como argumento propio para explicar por qué cambió el mix de producto.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.zonanortehoy.com/economia/mas-de-10-millones-de-argentinos-tienen-deudas-con-fintech-y-2-4-millones-estan-en-mora/",
+    "id": "ct-6dcad0bb",
+    "source_kind": "auto",
+    "last_updated": "2026-08-24",
+    "first_seen": "2026-08-24"
   }
 ]

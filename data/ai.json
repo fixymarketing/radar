@@ -1,5 +1,49 @@
 [
   {
+    "name": "SimpliRoute ADA",
+    "vendor": "SimpliRoute",
+    "what_it_is": "Conjunto de agentes de IA autónomos de la empresa chilena SimpliRoute, pensados para logística de última milla, retail y e-commerce: automatizan la comunicación con clientes por entregas, la reprogramación, la detección de anomalías en ruta y el ajuste de rutas.",
+    "what_changed": "SimpliRoute presentó formalmente ADA el 22 de septiembre de 2026 al anunciar su expansión regional (con salto a Estados Unidos). Según la empresa, en uno de sus casos de uso logró bajar un 76% la merma operativa y pasar de cubrir el 23% al 100% de las excepciones logísticas con el mismo equipo humano.",
+    "fixy_use": "Es una referencia directa para Fixy porque ataca el mismo problema que enfrenta el equipo de operaciones todos los días: entregas fallidas, reprogramaciones y aviso a clientes. Vale la pena evaluarlo tanto como herramienta posible para probar como para entender qué está ofreciendo la competencia tecnológica en logística de la región.",
+    "verdict": "probar",
+    "verdict_reason": "Ataca exactamente los problemas operativos de última milla de Fixy y ya muestra resultados medibles en la región, según la propia empresa.",
+    "categories": [
+      "Logística",
+      "Operaciones",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado — SimpliRoute no publica precios públicos de los agentes ADA, requiere contacto comercial",
+    "source_url": "https://www.revistalogistec.com/index.php/2026/09/22/ada-la-ia-autonoma-chilena-que-revoluciona-la-logistica-en-latinoamerica-y-da-el-salto-a-estados-unidos/",
+    "published_date": "2026-09-22",
+    "priority": "alta",
+    "id": "ai-simpliroute-simpliroute-ada",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "name": "Reception",
+    "vendor": "ElevenLabs",
+    "what_it_is": "Agente de voz con IA que contesta llamadas telefónicas las 24 horas, responde preguntas frecuentes del negocio y agenda turnos en un calendario, sin necesidad de desarrollo técnico.",
+    "what_changed": "ElevenLabs lo presentó el 16 de septiembre de 2026 como un producto listo para usar: escanea el sitio web del negocio para configurarse solo (servicios, precios, horarios, datos de contacto) y entrega un número de teléfono dedicado en minutos.",
+    "fixy_use": "Fixy podría usarlo como primera línea telefónica automática para consultas frecuentes de e-commerce (estado de un envío, horarios de atención, cómo hacer un reclamo), derivando a una persona solo los casos que lo requieran, sin sumar personal para cubrir el teléfono fuera de horario.",
+    "verdict": "probar",
+    "verdict_reason": "Es barato, rápido de configurar, funciona en español y resuelve un problema concreto de atención telefónica fuera de horario para un equipo chico.",
+    "categories": [
+      "Operaciones",
+      "Productividad",
+      "Automatización"
+    ],
+    "pricing_note": "pago — planes desde USD 29, 79 y 199 por mes, con prueba gratuita de 14 días",
+    "source_url": "https://elevenlabs.io/blog/reception",
+    "published_date": "2026-09-16",
+    "priority": "alta",
+    "id": "ai-elevenlabs-reception",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
     "name": "Claude para pequeñas empresas: 43 flujos de trabajo y 27 integraciones",
     "vendor": "Anthropic",
     "what_it_is": "Es un complemento de Claude armado para pymes, con flujos de trabajo prearmados de finanzas, marketing, atención al cliente y operaciones, conectado directo a las apps que la empresa ya usa.",
@@ -333,6 +377,50 @@
     "source_kind": "auto",
     "last_updated": "2026-08-22",
     "first_seen": "2026-08-22"
+  },
+  {
+    "name": "Gemini 3.8 Flash TTS y Flash-Lite TTS",
+    "vendor": "Google",
+    "what_it_is": "Dos modelos de texto a voz de Gemini que generan voces a partir de instrucciones en lenguaje natural, en más de 100 idiomas y variantes regionales, y pueden clonar una voz a partir de 30 segundos de audio (con consentimiento verbal grabado del dueño de la voz).",
+    "what_changed": "Google los lanzó el 23 de septiembre de 2026 en la API de Gemini y AI Studio: Flash TTS apunta a producciones creativas con control fino (podcasts, audiolibros, personajes) y Flash-Lite TTS a generación de audio masiva y de bajo costo (doblaje, mensajes automáticos, agentes de voz).",
+    "fixy_use": "El equipo de contenido podría generar locuciones para mensajes de espera, videos institucionales o piezas publicitarias en audio sin contratar un locutor, y atención al cliente podría usar Flash-Lite TTS para respuestas de voz más naturales en flujos de IVR o mensajes automáticos por WhatsApp.",
+    "verdict": "probar",
+    "verdict_reason": "Baja el costo y la complejidad de producir audio profesional en español para contenido y atención al cliente.",
+    "categories": [
+      "Contenido",
+      "Marketing",
+      "Productividad"
+    ],
+    "pricing_note": "pago — uso vía API de Gemini / Google AI Studio con tarifa por token; precio exacto por minuto de audio no confirmado",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-3-8-text-to-speech/",
+    "published_date": "2026-09-23",
+    "priority": "relevante",
+    "id": "ai-google-gemini-3-8-flash-tts-y-flash-lite-tts",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "name": "GPT-6 Sol y GPT-6 Luna",
+    "vendor": "OpenAI",
+    "what_it_is": "Dos modelos nuevos dentro de la familia GPT-6: Sol, pensado para codificación compleja y flujos agénticos, y Luna, pensado para trabajo de alto volumen y bajo costo (resumir, extraer datos, responder consultas simples).",
+    "what_changed": "OpenAI los lanzó el 22 de septiembre de 2026, apenas 19 días después de GPT-6 Astra, con precios hasta 50% más baratos que GPT-5.6 y, según sus propias pruebas internas, la mitad de errores factuales que el modelo anterior.",
+    "fixy_use": "Luna es ideal para tareas repetitivas que hoy le sacan tiempo al equipo, como extraer datos de remitos y facturas, resumir mensajes de clientes o preclasificar consultas de atención al cliente, todo a un costo mucho más bajo. Sol sirve para automatizaciones más exigentes (por ejemplo, conectado a n8n) sin pagar el precio de un modelo premium.",
+    "verdict": "probar",
+    "verdict_reason": "El recorte de precio y el enfoque en tareas de alto volumen lo hacen conveniente para automatizar procesos repetitivos de operaciones y atención al cliente sin gastar de más.",
+    "categories": [
+      "Operaciones",
+      "Automatización",
+      "Productividad"
+    ],
+    "pricing_note": "pago — Sol cuesta USD 2/10 por millón de tokens de entrada/salida y Luna USD 0,10/0,50; disponibles vía API, Codex y ChatGPT",
+    "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "published_date": "2026-09-22",
+    "priority": "relevante",
+    "id": "ai-openai-gpt-6-sol-y-gpt-6-luna",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
   },
   {
     "name": "Perplexity Connectors y memoria mejorada",
@@ -1603,6 +1691,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "Claude Marketplace",
+    "vendor": "Anthropic",
+    "what_it_is": "Catálogo único dentro de Claude para descubrir e instalar conectores y plugins de terceros (más de 2.000, entre ellos Salesforce, Notion, Google y Microsoft), sumado a productos hechos por socios y una red de consultoras.",
+    "what_changed": "El 23 de septiembre de 2026 Anthropic pasó de ofrecer integraciones puntuales (como Gamma para presentaciones, ya reflejada antes en este radar) a lanzar el Marketplace completo, que unifica conectores, agentes de socios y servicios de consultoría en un solo lugar.",
+    "fixy_use": "Le permite al equipo de Fixy revisar si ya existe un conector listo para unir Claude con herramientas que usa (por ejemplo Notion para documentación interna o Google Workspace) en vez de armar la integración desde cero. La compra de agentes de socios y de consultoría con 'gasto comprometido' apunta a empresas con contratos grandes con Anthropic, algo poco realista para una pyme como Fixy.",
+    "verdict": "seguir",
+    "verdict_reason": "La parte de conectores es útil para un equipo chico, pero buena parte del valor del Marketplace está pensada para empresas más grandes.",
+    "categories": [
+      "Automatización",
+      "Productividad",
+      "Organización"
+    ],
+    "pricing_note": "freemium — los conectores y plugins son de acceso abierto; comprar agentes o productos de socios requiere un compromiso de gasto con Anthropic",
+    "source_url": "https://claude.com/blog/claude-marketplace",
+    "published_date": "2026-09-23",
+    "priority": "informativo",
+    "id": "ai-anthropic-claude-marketplace",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
   },
   {
     "name": "Zendesk: rastreador web renovado y más conectores de contenido",

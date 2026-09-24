@@ -875,9 +875,9 @@
     "first_seen": "2026-09-21"
   },
   {
-    "title": "El Congreso argentino avanza hacia un dictamen sobre regulación del crédito y las fintech, con más de 60 proyectos en danza",
-    "what_happened": "Las comisiones de Finanzas y de Defensa del Consumidor de Diputados retomaron el debate el martes 22 de septiembre con una nueva reunión informativa sobre los cerca de 76 expedientes vinculados a la morosidad y el sobreendeudamiento familiar. La firma del dictamen quedó agendada formalmente para el martes 29 de septiembre, con intención de llevarlo al recinto en octubre.",
-    "why_it_matters": "Se define un cronograma concreto: si el dictamen se firma el 29, el Congreso podría votar en octubre cambios sobre cómo bancos y fintech gestionan tasas, refinanciaciones y cobranzas a los cerca de seis millones de personas en mora, algo que el sector fintech viene resistiendo por su impacto en el acceso al crédito.",
+    "title": "El Congreso fijó el 29 de septiembre como fecha límite para dictaminar sobre la mora y el crédito",
+    "what_happened": "Las comisiones de Finanzas y de Defensa del Consumidor de Diputados, que analizan más de 60 proyectos sobre sobreendeudamiento familiar y regulación del crédito, realizaron el martes 22 de septiembre una nueva reunión informativa con especialistas convocados por la oposición. El cronograma acordado prevé que ambas comisiones firmen un dictamen conjunto el martes 29 de septiembre. Representantes de la Cámara Argentina Fintech volvieron a pedir que ningún proyecto intervenga en los contratos entre privados.",
+    "why_it_matters": "Si el Congreso avanza con un techo a las tasas o cambios en la ejecución de deudas, podría afectar el financiamiento al consumo y las condiciones de crédito que sostienen buena parte de las compras online a crédito.",
     "fixy_impact": "Si el Congreso avanza con topes de tasas o restricciones al crédito fintech, podría afectar la disponibilidad de financiamiento en cuotas que usan los compradores de los clientes de Fixy, un driver relevante del ticket promedio en la temporada de fin de año.",
     "category": "Regulación",
     "geo": "Argentina",
@@ -886,15 +886,15 @@
     "published_date": "2026-09-20",
     "priority": "relevante",
     "tags": [
-      "Congreso",
-      "morosidad",
+      "mora",
       "fintech",
       "regulación",
-      "crédito"
+      "crédito",
+      "Congreso"
     ],
     "id": "nw-905978078c",
     "source_kind": "auto",
-    "last_updated": "2026-09-23",
+    "last_updated": "2026-09-24",
     "first_seen": "2026-09-22",
     "updated_flag": true
   },
@@ -942,5 +942,74 @@
     "source_kind": "auto",
     "last_updated": "2026-09-23",
     "first_seen": "2026-09-23"
+  },
+  {
+    "title": "El Banco Central confirmó que Mercado Pago tendrá licencia bancaria antes de fin de año",
+    "what_happened": "Juan Curutchet, director del BCRA, adelantó durante el evento Nuevo Dinero que Mercado Pago obtendrá su licencia para operar como banco antes de que termine 2026, trámite que la fintech de Mercado Libre había iniciado en mayo de 2025. El funcionario indicó que en el mismo plazo Revolut también recibirá su licencia bancaria en el país.",
+    "why_it_matters": "Que el jugador de pagos y comercio electrónico más grande del país pase a operar como banco formal cambia las reglas de competencia frente a la banca tradicional y podría darle a Mercado Libre nuevas herramientas de crédito y fondeo para todo su ecosistema.",
+    "fixy_impact": "Un Mercado Pago con licencia bancaria podría ofrecer crédito más agresivo a vendedores y compradores del ecosistema de Mercado Libre, reforzando su peso como cliente clave y como competidor indirecto en servicios financieros y logísticos.",
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/09/24/el-banco-central-confirmo-que-mercado-libre-tendra-licencia-para-operar-como-banco-antes-de-fin-de-ano/",
+    "published_date": "2026-09-24",
+    "priority": "alta",
+    "tags": [
+      "Mercado Pago",
+      "BCRA",
+      "licencia bancaria",
+      "fintech",
+      "Mercado Libre"
+    ],
+    "id": "nw-9e5b89a10a",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "title": "Cámaras inteligentes y telemetría con IA, la apuesta del sector seguridad para frenar los robos en última milla",
+    "what_happened": "La Cámara Argentina de Seguridad Electrónica (Casel) impulsa la adopción de inteligencia artificial, telemática avanzada y cámaras inteligentes en cabina para prevenir los robos a los vehículos de reparto. Según datos de la entidad, el 83% de los robos de mercadería golpea a camionetas y utilitarios de reparto urbano, y el 81% ocurre durante la carga y descarga o en paradas en semáforos. Casel calcula que la inversión en estas tecnologías se recupera en un plazo de entre 6 y 14 meses.",
+    "why_it_matters": "El robo de mercadería en última milla creció de la mano del boom del e-commerce y ya es uno de los costos ocultos más relevantes de la operación logística; el sector de seguridad empieza a ofrecer respuestas tecnológicas con retorno de inversión medible.",
+    "fixy_impact": "Fixy podría evaluar sumar telemetría y cámaras con IA a su flota de reparto, dado que el retorno de inversión estimado (6 a 14 meses) y la concentración de robos en utilitarios coinciden con el perfil de vehículos que usa para última milla.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "iProfesional",
+    "source_url": "https://www.iprofesional.com/tecnologia/465014-la-inteligencia-artificial-frena-los-robos-logisticos-en-la-ultima-milla",
+    "published_date": "2026-09-23",
+    "priority": "relevante",
+    "tags": [
+      "última milla",
+      "seguridad",
+      "inteligencia artificial",
+      "robos",
+      "flotas"
+    ],
+    "id": "nw-ccdd476a5b",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "title": "Un informe del Foro Económico Mundial mapea la brecha de IA en logística y ubica a América Latina entre las regiones más rezagadas",
+    "what_happened": "El Foro Económico Mundial publicó un estudio que relevó 612 startups de logística con casi US$7.000 millones en financiamiento acumulado, complementado con más de 50 entrevistas a empresas, inversores y académicos. El informe encontró que el 60% de los proyectos de inteligencia artificial se abandona por falta de datos preparados y que solo el 7% de las organizaciones puede ejecutar decisiones en tiempo real. América del Norte concentra el 49% del financiamiento del sector con el 31% de las startups, mientras que América Latina muestra los niveles más bajos de capital de riesgo del mapa relevado.",
+    "why_it_matters": "La brecha de financiamiento y de calidad de datos limita qué tan rápido pueden adoptarse soluciones de IA en la cadena de suministro regional, algo relevante para cualquier operador que evalúe invertir en automatización o gemelos digitales.",
+    "fixy_impact": "El informe confirma que la adopción de IA en operaciones internas de depósito todavía es muy baja en la región, lo que deja una ventana para que un operador como Fixy se diferencie temprano si invierte en estas herramientas.",
+    "category": "IA aplicada",
+    "geo": "Global",
+    "source_name": "Infobae (Movant)",
+    "source_url": "https://www.infobae.com/movant/2026/09/24/informe-global-mapea-inversion-y-brechas-de-la-inteligencia-artificial-en-logistica/",
+    "published_date": "2026-09-24",
+    "priority": "informativo",
+    "tags": [
+      "inteligencia artificial",
+      "logística",
+      "inversión",
+      "LATAM",
+      "cadena de suministro"
+    ],
+    "id": "nw-2b6446a09d",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
   }
 ]

@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-09-24",
+    "at": "2026-09-24T12:24:55.972Z",
+    "status": "ok",
+    "added": {
+      "news": 3,
+      "events": 2,
+      "ai": 5,
+      "opportunities": 3,
+      "content": 3
+    },
+    "updated": {
+      "news": 1,
+      "events": 3,
+      "ai": 0
+    },
+    "archived": {
+      "events": 0,
+      "news": 0,
+      "ai": 0,
+      "opportunities": 3,
+      "content": 3
+    },
+    "discarded": 0,
+    "errors": []
+  },
+  {
     "date": "2026-09-23",
     "at": "2026-09-23T12:27:55.948Z",
     "status": "ok",
@@ -1117,52 +1143,5 @@
     },
     "discarded": 0,
     "errors": []
-  },
-  {
-    "date": "2026-08-21",
-    "at": "2026-08-21T10:31:25.840Z",
-    "status": "error",
-    "added": {
-      "news": 0,
-      "events": 0,
-      "ai": 0,
-      "opportunities": 0,
-      "content": 0
-    },
-    "updated": {
-      "news": 0,
-      "events": 0,
-      "ai": 0
-    },
-    "archived": {
-      "events": 0,
-      "news": 0,
-      "ai": 0,
-      "opportunities": 0,
-      "content": 0
-    },
-    "discarded": 0,
-    "errors": [
-      {
-        "task": "Novedades",
-        "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-      },
-      {
-        "task": "Agenda Argentina",
-        "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-      },
-      {
-        "task": "Radar internacional",
-        "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-      },
-      {
-        "task": "AI Radar",
-        "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-      },
-      {
-        "task": "Oportunidades y contenido",
-        "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
-      }
-    ]
   }
 ]

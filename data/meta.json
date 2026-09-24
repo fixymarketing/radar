@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-23T12:27:55.947Z",
-  "last_updated_ar": "23/09/2026, 09:27",
-  "date": "2026-09-23",
+  "generated_at": "2026-09-24T12:24:55.971Z",
+  "last_updated_ar": "24/09/2026, 09:24",
+  "date": "2026-09-24",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El día lo marca el primer caso de comercio agéntico de punta a punta en la región -MODO pagando dentro de ChatGPT con Frávega-, que abre la pregunta de si el fulfillment de Fixy también va a tener que conectarse a un pedido que nace dentro de una conversación de IA, mientras el dictamen sobre crédito y fintech ya tiene fecha de firma (29/9) y el conflicto portuario de Montevideo sigue sin resolverse.",
+  "summary_line": "Un día marcado por el salto regulatorio de Mercado Pago hacia la banca y el debut del comercio agéntico de MODO en ChatGPT, con un consumo todavía débil de fondo y la logística local consolidándose como el verdadero campo de batalla frente a Shein, Temu y el boom del quick commerce.",
   "counters": {
-    "news_today": 2,
-    "news_total": 41,
-    "events_upcoming": 74,
-    "events_ar_upcoming": 43,
+    "news_today": 3,
+    "news_total": 44,
+    "events_upcoming": 75,
+    "events_ar_upcoming": 44,
     "events_intl_upcoming": 31,
     "events_later": 31,
     "opportunities_open": 8,
-    "opportunities_today": 2,
-    "ai_today": 3,
-    "ai_to_try": 51,
+    "opportunities_today": 3,
+    "ai_today": 5,
+    "ai_to_try": 55,
     "content_ideas": 70,
-    "added_news": 2,
-    "updated_news": 2,
+    "added_news": 3,
+    "updated_news": 1,
     "added_events": 2,
-    "updated_events": 0,
-    "added_ai": 3,
-    "archived": 9,
+    "updated_events": 3,
+    "added_ai": 5,
+    "archived": 6,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,39 +34,39 @@
   },
   "highlights": [
     {
+      "id": "nw-9e5b89a10a",
+      "kind": "news",
+      "title": "El Banco Central confirmó que Mercado Pago tendrá licencia bancaria antes de fin de año",
+      "priority": "alta",
+      "one_liner": "El jugador de pagos y eCommerce más grande del país pasa a operar como banco formal, lo que cambia las reglas de competencia y de crédito para todo su ecosistema."
+    },
+    {
       "id": "nw-04ec1c0b57",
       "kind": "news",
       "title": "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega",
       "priority": "alta",
-      "one_liner": "Primer caso de compra completa dentro de un chat de IA en la región: puede cambiar dónde nace un pedido de eCommerce."
+      "one_liner": "Es el primer caso regional de una compra completa dentro de un chat de IA, y anticipa una nueva pelea entre bancos y billeteras por ser el método de pago que la IA elige."
     },
     {
-      "id": "op-3733cd65",
-      "kind": "opportunity",
-      "title": "Evaluar el comercio agéntico (MODO + ChatGPT) como un canal nuevo de originación de pedidos",
-      "priority": "alta",
-      "one_liner": "Si el comercio agéntico escala, Fixy necesita entender hoy cómo conectaría su fulfillment a un pedido que nace en una IA."
-    },
-    {
-      "id": "nw-905978078c",
+      "id": "nw-d04acae8ac",
       "kind": "news",
-      "title": "El Congreso argentino avanza hacia un dictamen sobre regulación del crédito y las fintech, con más de 60 proyectos en danza",
-      "priority": "relevante",
-      "one_liner": "La firma del dictamen quedó agendada para el martes 29/9, con intención de llevarlo al recinto en octubre."
+      "title": "El PBI cayó 0,6% en el segundo trimestre y el consumo privado retrocedió 2,4%",
+      "priority": "alta",
+      "one_liner": "Es la primera lectura trimestral negativa en dos años, justo cuando el eCommerce depende del poder de compra de los hogares para sostener volumen de pedidos."
     },
     {
-      "id": "ai-anthropic-claude-cowork-memoria-unificada-con-el-chat",
-      "kind": "ai",
-      "title": "Claude Cowork: memoria unificada con el chat",
+      "id": "nw-0c8bf64104",
+      "kind": "news",
+      "title": "Mercado Libre refuerza su estrategia ante el avance de Shein y Temu en Argentina",
       "priority": "relevante",
-      "one_liner": "Ahora conecta directo con Gmail, Drive y Calendar del equipo, útil para automatizar tareas diarias sin salir del chat."
+      "one_liner": "Confirma que la competencia con las plataformas chinas ya se juega en la logística local y no solo en el precio."
     },
     {
-      "id": "ev-catamarca-nodo-tech-week-2026",
-      "kind": "event",
-      "title": "Nodo Tech Week 2026 – Catamarca",
-      "priority": "informativo",
-      "one_liner": "Arranca hoy y es una señal de que el ecosistema tech del NOA sigue creciendo, una región donde Fixy todavía tiene poca presencia."
+      "id": "nw-ccdd476a5b",
+      "kind": "news",
+      "title": "Cámaras inteligentes y telemetría con IA, la apuesta del sector seguridad para frenar los robos en última milla",
+      "priority": "relevante",
+      "one_liner": "Ofrece una respuesta tecnológica con retorno medible frente a uno de los costos ocultos más grandes de la última milla."
     }
   ]
 }
