@@ -719,5 +719,36 @@
     "source_kind": "auto",
     "last_updated": "2026-09-20",
     "first_seen": "2026-09-20"
+  },
+  {
+    "title": "Ofrecer un chequeo de cumplimiento Mercosur como valor agregado para clientes de eCommerce",
+    "context": "Mercosur exige ahora a las tiendas online informar los derechos del consumidor y, por primera vez, liga ese cumplimiento a la continuidad técnica del dominio del sitio. La mayoría de los clientes pyme de Fixy no tiene equipo legal propio para detectar este tipo de cambios regulatorios a tiempo.",
+    "action": "Armar un checklist breve de cumplimiento (qué información debe figurar en la tienda) y enviarlo a los clientes de fulfillment como aviso proactivo, posicionando a Fixy como un socio que cuida la continuidad del negocio de sus clientes y no solo el envío.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.argentina.gob.ar/noticias/mercosur-refuerza-la-proteccion-de-los-consumidores-en-el-comercio-electronico",
+    "linked": [
+      "Mercosur exige a las tiendas online informar los derechos del consumidor, bajo riesgo de baja de dominio"
+    ],
+    "id": "op-2f9c741b",
+    "source_kind": "auto",
+    "last_updated": "2026-09-21",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "title": "Usar la paritaria de Camioneros para vender previsibilidad de tarifa a 6 meses",
+    "context": "Camioneros cerró una paritaria de 6,6% semestral más un bono, alineada a la pauta oficial, lo que le da a todo el transporte de cargas un costo laboral conocido por los próximos seis meses. Esto ocurre justo cuando el consumo privado cayó y los clientes buscan previsibilidad de costos antes de firmar contratos de fin de año.",
+    "action": "Diseñar una propuesta comercial con tarifa fija o techo de ajuste por 6 meses respaldada en la paritaria ya cerrada, y usarla como argumento de venta frente a clientes que hoy dudan en comprometerse por miedo a subas imprevistas.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/politica/2026/09/18/hugo-moyano-volvio-a-firmar-un-acuerdo-salarial-alineado-con-la-pauta-del-gobierno-que-regira-durante-6-meses/",
+    "linked": [
+      "Camioneros cerró una paritaria de 6,6% semestral y un bono de $1.200.000",
+      "El PBI cayó 0,6% en el segundo trimestre y el consumo privado retrocedió 2,4%"
+    ],
+    "id": "op-a5ae4e74",
+    "source_kind": "auto",
+    "last_updated": "2026-09-21",
+    "first_seen": "2026-09-21"
   }
 ]

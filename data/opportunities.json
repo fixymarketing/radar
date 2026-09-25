@@ -1,5 +1,36 @@
 [
   {
+    "title": "Blindar ya la capacidad de fulfillment y última milla para CyberMonday y Black Friday 2026",
+    "context": "CACE confirmó que CyberMonday dura 72 horas (2 al 4 de noviembre, con Cyber Week hasta el 8) y que Black Friday tiene su día central el 27 de noviembre, y ya abrió inscripciones para marcas. Con fechas oficiales y ventana de planificación acotada, es el momento de asegurar dotación, stock en depósito y SLA de entrega antes de que se sature la demanda de transporte.",
+    "action": "Enviar a los clientes de eCommerce una propuesta de reserva anticipada de capacidad de despacho para la primera semana de noviembre y para fin de mes, con SLA diferenciados para ambos picos.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.ambito.com/economia/confirmaron-las-fechas-del-black-friday-y-cyber-monday-2026-n6326087",
+    "linked": [
+      "CACE confirmó las fechas de CyberMonday y Black Friday 2026 y abrió las inscripciones",
+      "CyberMonday 2026"
+    ],
+    "id": "op-cecd705d",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "Ajustar la previsión de espacio de depósito y transporte de cara al Q4 por la caída de la confianza industrial",
+    "context": "El índice de confianza empresarial industrial del INDEC cayó a -20,2% en agosto, el nivel más bajo desde diciembre de 2025, y un 13,5% de las empresas industriales ya anticipa recortes de personal para el tercer trimestre. Es una señal adelantada de menor volumen de carga industrial para transportar y almacenar en el último cuatrimestre.",
+    "action": "Revisar con los clientes de perfil industrial sus proyecciones de volumen para octubre-diciembre antes de comprometer capacidad fija de depósito o flota dedicada.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/09/22/se-profundiza-el-pesimismo-industrial-empresarios-proyectan-menos-produccion-y-empleo-en-el-tercer-trimestre/",
+    "linked": [
+      "La confianza industrial argentina cayó a su nivel más bajo en siete meses"
+    ],
+    "id": "op-59e95acf",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
+  },
+  {
     "title": "Evaluar cámaras inteligentes y telemetría con IA para bajar el robo en última milla",
     "context": "El sector de seguridad empezó a ofrecer cámaras inteligentes y telemetría con IA como respuesta al robo de mercadería en última milla, que creció de la mano del boom del eCommerce y ya es uno de los costos ocultos más relevantes de la operación logística.",
     "action": "Pedir demos a dos o tres proveedores de cámaras inteligentes y telemetría con IA, y comparar su costo mensual contra lo que hoy le cuesta a Fixy la siniestralidad y las reprogramaciones por robo en la flota de última milla.",
@@ -89,36 +120,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-22",
     "first_seen": "2026-09-22"
-  },
-  {
-    "title": "Ofrecer un chequeo de cumplimiento Mercosur como valor agregado para clientes de eCommerce",
-    "context": "Mercosur exige ahora a las tiendas online informar los derechos del consumidor y, por primera vez, liga ese cumplimiento a la continuidad técnica del dominio del sitio. La mayoría de los clientes pyme de Fixy no tiene equipo legal propio para detectar este tipo de cambios regulatorios a tiempo.",
-    "action": "Armar un checklist breve de cumplimiento (qué información debe figurar en la tienda) y enviarlo a los clientes de fulfillment como aviso proactivo, posicionando a Fixy como un socio que cuida la continuidad del negocio de sus clientes y no solo el envío.",
-    "type": "comercial",
-    "priority": "alta",
-    "source_url": "https://www.argentina.gob.ar/noticias/mercosur-refuerza-la-proteccion-de-los-consumidores-en-el-comercio-electronico",
-    "linked": [
-      "Mercosur exige a las tiendas online informar los derechos del consumidor, bajo riesgo de baja de dominio"
-    ],
-    "id": "op-2f9c741b",
-    "source_kind": "auto",
-    "last_updated": "2026-09-21",
-    "first_seen": "2026-09-21"
-  },
-  {
-    "title": "Usar la paritaria de Camioneros para vender previsibilidad de tarifa a 6 meses",
-    "context": "Camioneros cerró una paritaria de 6,6% semestral más un bono, alineada a la pauta oficial, lo que le da a todo el transporte de cargas un costo laboral conocido por los próximos seis meses. Esto ocurre justo cuando el consumo privado cayó y los clientes buscan previsibilidad de costos antes de firmar contratos de fin de año.",
-    "action": "Diseñar una propuesta comercial con tarifa fija o techo de ajuste por 6 meses respaldada en la paritaria ya cerrada, y usarla como argumento de venta frente a clientes que hoy dudan en comprometerse por miedo a subas imprevistas.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/politica/2026/09/18/hugo-moyano-volvio-a-firmar-un-acuerdo-salarial-alineado-con-la-pauta-del-gobierno-que-regira-durante-6-meses/",
-    "linked": [
-      "Camioneros cerró una paritaria de 6,6% semestral y un bono de $1.200.000",
-      "El PBI cayó 0,6% en el segundo trimestre y el consumo privado retrocedió 2,4%"
-    ],
-    "id": "op-a5ae4e74",
-    "source_kind": "auto",
-    "last_updated": "2026-09-21",
-    "first_seen": "2026-09-21"
   }
 ]

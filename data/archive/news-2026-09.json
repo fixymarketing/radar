@@ -114,5 +114,143 @@
     "source_kind": "auto",
     "last_updated": "2026-09-06",
     "first_seen": "2026-09-06"
+  },
+  {
+    "title": "El Gobierno lanzó un paquete de seis medidas para sostener el consumo antes de octubre",
+    "what_happened": "El 3 de septiembre el Gobierno activó un paquete de seis medidas para recomponer el poder adquisitivo: mayor inyección de pesos en la última licitación de deuda para bajar tasas, tarifas de septiembre actualizadas por debajo de la inflación, un aumento de la bonificación eléctrica al 25% (75% sumado al descuento base, con el tope de consumo bonificable subiendo de 150 a 200 kWh), una bonificación extraordinaria del 24,5% en gas natural, la postergación del aumento del impuesto a los combustibles y una suba salarial escalonada del 12,22% para las fuerzas de seguridad entre septiembre y diciembre. Las medidas buscan frenar la caída del consumo antes de las elecciones legislativas de octubre.",
+    "why_it_matters": "Es una señal de que el Gobierno reconoce el deterioro del consumo masivo (siete meses consecutivos en baja) y busca revertirlo con alivio de bolsillo antes de octubre, lo que podría traducirse en un leve repunte de ticket promedio en el corto plazo.",
+    "fixy_impact": "Un eventual repunte de consumo en septiembre-octubre podría mover volumen de pedidos para clientes de Fixy; conviene monitorear si el efecto es real o solo cosmético antes de ajustar proyecciones de capacidad.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/09/03/creditos-tarifas-y-salarios-el-gobierno-activo-seis-medidas-para-recomponer-el-poder-adquisitivo-y-apuntalar-el-consumo/",
+    "published_date": "2026-09-03",
+    "priority": "relevante",
+    "tags": [
+      "consumo",
+      "tarifas",
+      "poder adquisitivo",
+      "gobierno",
+      "elecciones"
+    ],
+    "id": "nw-3dd8b2fcf1",
+    "source_kind": "auto",
+    "last_updated": "2026-09-03",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "title": "La suba de costos de última milla y correo se moderó en agosto, la más baja desde febrero",
+    "what_happened": "El Índice de Mayores Costos que releva el sector logístico mostró en agosto una suba de 1,62% en Correo y de 1,64% en Última Milla, los incrementos mensuales más bajos desde febrero y muy por debajo del promedio de los últimos doce meses (entre 2,68% y 2,95%). El acumulado enero-agosto llegó a 28,39% en Correo y 28,57% en Última Milla.",
+    "why_it_matters": "La desaceleración sugiere que la presión de combustibles, mano de obra y peajes —los principales componentes del índice— empezó a ceder, lo que podría aliviar márgenes operativos en el reparto urbano si la tendencia se sostiene en los próximos meses.",
+    "fixy_impact": "Una suba de costos más moderada en última milla facilita a Fixy proyectar tarifas a clientes con menor volatilidad mes a mes, aunque el acumulado del año (+28,57%) sigue siendo alto y debería reflejarse en las revisiones de tarifario.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/movant/2026/09/03/los-costos-de-ultima-milla-y-correo-moderaron-su-suba-en-agosto/",
+    "published_date": "2026-09-03",
+    "priority": "alta",
+    "tags": [
+      "última milla",
+      "costos logísticos",
+      "correo",
+      "tarifas",
+      "2026"
+    ],
+    "id": "nw-742b172b99",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "El BCRA le pidió a los bancos que reconozcan pérdidas para bajar la mora récord de las familias",
+    "what_happened": "El vicepresidente del BCRA, Vladimir Werning, dijo en la 47ª Convención Anual del IAEF en Puerto Iguazú que la mora de los hogares argentinos, que ronda el 7,7%, está llegando o ya llegó a su techo. Pidió a los bancos que 'reconozcan pérdidas' y refinancien deudas con tasas más bajas y plazos más largos, en lugar de esperar una intervención del Estado. Según estimaciones privadas, la refinanciación de deudas ya alcanzó un récord de $2,6 billones en julio.",
+    "why_it_matters": "Es la primera señal pública de que el Banco Central ve la crisis de mora como un problema que deben resolver bancos y fintech por su cuenta, no vía regulación, lo que anticipa más presión sobre las condiciones de crédito al consumo en los próximos meses.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "La Nación",
+    "source_url": "https://www.lanacion.com.ar/economia/una-perdida-es-una-perdida-el-banco-central-hablo-de-la-mora-y-apunto-contras-las-altas-tasas-de-nid03092026/",
+    "published_date": "2026-09-03",
+    "priority": "relevante",
+    "tags": [
+      "mora",
+      "BCRA",
+      "fintech",
+      "créditos",
+      "consumo"
+    ],
+    "id": "nw-9656cefff7",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "title": "El ex ingeniero jefe de Mobileye respaldó el plan de Buenos Aires para probar autos autónomos",
+    "what_happened": "Mois Navon, ex jefe de ingeniería de Mobileye (adquirida por Intel en 2017 por US$15.300 millones y líder global del segmento con 80% de mercado), se reunió con el jefe de Gobierno porteño Jorge Macri para analizar el régimen de pruebas de vehículos autónomos y robots de reparto que la Ciudad habilitó en agosto. Navon evaluó positivamente la infraestructura vial de Buenos Aires y dijo que la ciudad 'está bien preparada' para convivir con autos autónomos. Todavía no se conocen las empresas que participarán de las pruebas ni una fecha de inicio.",
+    "why_it_matters": "El respaldo de un referente global de la industria le da tracción concreta a la iniciativa regulatoria porteña y acerca la posibilidad de pilotos reales de vehículos y robots de reparto autónomos en la vía pública.",
+    "fixy_impact": "Vale la pena seguir de cerca qué empresas terminan sumándose a las pruebas: un régimen habilitado para robots de reparto en CABA podría abrir en el mediano plazo una alternativa tecnológica para la última milla urbana.",
+    "category": "Tecnología",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/sociedad/2026/09/03/buenos-aires-da-sus-primeros-pasos-hacia-los-autos-autonomos-con-el-respaldo-de-un-pionero-global-del-sector/",
+    "published_date": "2026-09-03",
+    "priority": "informativo",
+    "tags": [
+      "autos autónomos",
+      "última milla",
+      "robots de reparto",
+      "CABA",
+      "innovación"
+    ],
+    "id": "nw-6355d2c5e2",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "title": "Mercado Libre triplica su depósito de última milla en Uruguay y suma choferes asociados",
+    "what_happened": "Mercado Libre anunció una inversión de US$12,8 millones para ampliar su operación en Uruguay: unos US$4 millones se destinan a triplicar la superficie de su depósito de última milla en Canelones, de 4.000 a 12.000 m², y el resto a nuevas oficinas corporativas en Montevideo. La empresa prevé casi duplicar su dotación directa (de 113 a 220 personas) y ampliar de 156 a 228 la red de choferes asociados en los próximos dos años.",
+    "why_it_matters": "Muestra que Mercado Libre sigue invirtiendo fuerte en infraestructura logística propia en la región, incluso en mercados chicos, apostando a acortar tiempos de entrega mediante una red de choferes asociados antes que con flota 100% propia.",
+    "fixy_impact": null,
+    "category": "Logística",
+    "geo": "LATAM",
+    "source_name": "Forbes Uruguay",
+    "source_url": "https://www.forbesuruguay.com/negocios/mercado-libre-invierte-us-128m-oficinas-logistica-tenemos-entregar-mas-mas-rapido-todo-todo-uruguay-dijo-gamba-n96934",
+    "published_date": "2026-09-03",
+    "priority": "informativo",
+    "tags": [
+      "Mercado Libre",
+      "Uruguay",
+      "última milla",
+      "inversión",
+      "logística"
+    ],
+    "id": "nw-ad02545c24",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "title": "La mora de las familias tocó un nuevo récord en julio y el BCRA descartó cambios en la normativa para bancos y fintech",
+    "what_happened": "En julio, la mora de las personas humanas volvió a marcar un récord: 5,9 millones de personas con deudas irregulares, equivalentes al 28% de los argentinos con algún tipo de crédito, tras una leve baja el mes anterior. Pese a este pico, el BCRA sostuvo que bancos y proveedores no financieros de crédito (fintech) cumplen con las regulaciones vigentes de tasas y transparencia, y descartó cambios normativos en el corto plazo. En paralelo, el vicepresidente del organismo volvió a pedirles a los bancos que \"reconozcan pérdidas\" y refinancien créditos incobrables a tasas más bajas y plazos más largos.",
+    "why_it_matters": "Confirma que el sobreendeudamiento de las familias no cede pese a los planes anunciados por el sector en agosto, y que el regulador por ahora no va a intervenir con nuevas reglas, dejando la salida en manos de bancos y fintech.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "Ámbito Financiero",
+    "source_url": "https://www.ambito.com/finanzas/tasas-interes-el-bcra-considera-que-bancos-y-fintech-cumplen-las-reglas-y-no-preve-cambios-la-normativa-n6317972",
+    "published_date": "2026-09-03",
+    "priority": "informativo",
+    "tags": [
+      "BCRA",
+      "mora",
+      "fintech",
+      "bancos",
+      "crédito"
+    ],
+    "id": "nw-73af771cf8",
+    "source_kind": "auto",
+    "last_updated": "2026-09-06",
+    "first_seen": "2026-09-06"
   }
 ]

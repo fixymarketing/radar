@@ -24,52 +24,6 @@
     "updated_flag": true
   },
   {
-    "title": "El Gobierno lanzó un paquete de seis medidas para sostener el consumo antes de octubre",
-    "what_happened": "El 3 de septiembre el Gobierno activó un paquete de seis medidas para recomponer el poder adquisitivo: mayor inyección de pesos en la última licitación de deuda para bajar tasas, tarifas de septiembre actualizadas por debajo de la inflación, un aumento de la bonificación eléctrica al 25% (75% sumado al descuento base, con el tope de consumo bonificable subiendo de 150 a 200 kWh), una bonificación extraordinaria del 24,5% en gas natural, la postergación del aumento del impuesto a los combustibles y una suba salarial escalonada del 12,22% para las fuerzas de seguridad entre septiembre y diciembre. Las medidas buscan frenar la caída del consumo antes de las elecciones legislativas de octubre.",
-    "why_it_matters": "Es una señal de que el Gobierno reconoce el deterioro del consumo masivo (siete meses consecutivos en baja) y busca revertirlo con alivio de bolsillo antes de octubre, lo que podría traducirse en un leve repunte de ticket promedio en el corto plazo.",
-    "fixy_impact": "Un eventual repunte de consumo en septiembre-octubre podría mover volumen de pedidos para clientes de Fixy; conviene monitorear si el efecto es real o solo cosmético antes de ajustar proyecciones de capacidad.",
-    "category": "Consumo",
-    "geo": "Argentina",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/economia/2026/09/03/creditos-tarifas-y-salarios-el-gobierno-activo-seis-medidas-para-recomponer-el-poder-adquisitivo-y-apuntalar-el-consumo/",
-    "published_date": "2026-09-03",
-    "priority": "relevante",
-    "tags": [
-      "consumo",
-      "tarifas",
-      "poder adquisitivo",
-      "gobierno",
-      "elecciones"
-    ],
-    "id": "nw-3dd8b2fcf1",
-    "source_kind": "auto",
-    "last_updated": "2026-09-03",
-    "first_seen": "2026-09-03"
-  },
-  {
-    "title": "La suba de costos de última milla y correo se moderó en agosto, la más baja desde febrero",
-    "what_happened": "El Índice de Mayores Costos que releva el sector logístico mostró en agosto una suba de 1,62% en Correo y de 1,64% en Última Milla, los incrementos mensuales más bajos desde febrero y muy por debajo del promedio de los últimos doce meses (entre 2,68% y 2,95%). El acumulado enero-agosto llegó a 28,39% en Correo y 28,57% en Última Milla.",
-    "why_it_matters": "La desaceleración sugiere que la presión de combustibles, mano de obra y peajes —los principales componentes del índice— empezó a ceder, lo que podría aliviar márgenes operativos en el reparto urbano si la tendencia se sostiene en los próximos meses.",
-    "fixy_impact": "Una suba de costos más moderada en última milla facilita a Fixy proyectar tarifas a clientes con menor volatilidad mes a mes, aunque el acumulado del año (+28,57%) sigue siendo alto y debería reflejarse en las revisiones de tarifario.",
-    "category": "Última milla",
-    "geo": "Argentina",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/movant/2026/09/03/los-costos-de-ultima-milla-y-correo-moderaron-su-suba-en-agosto/",
-    "published_date": "2026-09-03",
-    "priority": "alta",
-    "tags": [
-      "última milla",
-      "costos logísticos",
-      "correo",
-      "tarifas",
-      "2026"
-    ],
-    "id": "nw-742b172b99",
-    "source_kind": "auto",
-    "last_updated": "2026-09-04",
-    "first_seen": "2026-09-04"
-  },
-  {
     "title": "Un informe de Bain & Company muestra que 3 de cada 10 compradores argentinos ya usan IA para comprar online",
     "what_happened": "Según un informe de Bain & Company difundido el 4 de septiembre, el comercio agéntico -agentes de IA que buscan, comparan y compran en nombre del usuario- podría mover hasta US$500.000 millones en Estados Unidos hacia 2030 y ya representa el 25% del comercio electrónico de ese país. El reporte señala que en Argentina el 30% de los compradores online ya utiliza herramientas de IA para tomar decisiones de compra.",
     "why_it_matters": "Marca un cambio de paradigma para el marketing digital y el diseño de tiendas online: las marcas van a tener que optimizar no solo para personas sino para que agentes de IA puedan leer precios, stock y tiempos de entrega de forma automática.",
@@ -91,52 +45,6 @@
     "source_kind": "auto",
     "last_updated": "2026-09-04",
     "first_seen": "2026-09-04"
-  },
-  {
-    "title": "El BCRA le pidió a los bancos que reconozcan pérdidas para bajar la mora récord de las familias",
-    "what_happened": "El vicepresidente del BCRA, Vladimir Werning, dijo en la 47ª Convención Anual del IAEF en Puerto Iguazú que la mora de los hogares argentinos, que ronda el 7,7%, está llegando o ya llegó a su techo. Pidió a los bancos que 'reconozcan pérdidas' y refinancien deudas con tasas más bajas y plazos más largos, en lugar de esperar una intervención del Estado. Según estimaciones privadas, la refinanciación de deudas ya alcanzó un récord de $2,6 billones en julio.",
-    "why_it_matters": "Es la primera señal pública de que el Banco Central ve la crisis de mora como un problema que deben resolver bancos y fintech por su cuenta, no vía regulación, lo que anticipa más presión sobre las condiciones de crédito al consumo en los próximos meses.",
-    "fixy_impact": null,
-    "category": "Fintech",
-    "geo": "Argentina",
-    "source_name": "La Nación",
-    "source_url": "https://www.lanacion.com.ar/economia/una-perdida-es-una-perdida-el-banco-central-hablo-de-la-mora-y-apunto-contras-las-altas-tasas-de-nid03092026/",
-    "published_date": "2026-09-03",
-    "priority": "relevante",
-    "tags": [
-      "mora",
-      "BCRA",
-      "fintech",
-      "créditos",
-      "consumo"
-    ],
-    "id": "nw-9656cefff7",
-    "source_kind": "auto",
-    "last_updated": "2026-09-05",
-    "first_seen": "2026-09-05"
-  },
-  {
-    "title": "El ex ingeniero jefe de Mobileye respaldó el plan de Buenos Aires para probar autos autónomos",
-    "what_happened": "Mois Navon, ex jefe de ingeniería de Mobileye (adquirida por Intel en 2017 por US$15.300 millones y líder global del segmento con 80% de mercado), se reunió con el jefe de Gobierno porteño Jorge Macri para analizar el régimen de pruebas de vehículos autónomos y robots de reparto que la Ciudad habilitó en agosto. Navon evaluó positivamente la infraestructura vial de Buenos Aires y dijo que la ciudad 'está bien preparada' para convivir con autos autónomos. Todavía no se conocen las empresas que participarán de las pruebas ni una fecha de inicio.",
-    "why_it_matters": "El respaldo de un referente global de la industria le da tracción concreta a la iniciativa regulatoria porteña y acerca la posibilidad de pilotos reales de vehículos y robots de reparto autónomos en la vía pública.",
-    "fixy_impact": "Vale la pena seguir de cerca qué empresas terminan sumándose a las pruebas: un régimen habilitado para robots de reparto en CABA podría abrir en el mediano plazo una alternativa tecnológica para la última milla urbana.",
-    "category": "Tecnología",
-    "geo": "Argentina",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/sociedad/2026/09/03/buenos-aires-da-sus-primeros-pasos-hacia-los-autos-autonomos-con-el-respaldo-de-un-pionero-global-del-sector/",
-    "published_date": "2026-09-03",
-    "priority": "informativo",
-    "tags": [
-      "autos autónomos",
-      "última milla",
-      "robots de reparto",
-      "CABA",
-      "innovación"
-    ],
-    "id": "nw-6355d2c5e2",
-    "source_kind": "auto",
-    "last_updated": "2026-09-05",
-    "first_seen": "2026-09-05"
   },
   {
     "title": "Andreani suma 20 bitrenes a su flota para transporte de larga distancia",
@@ -183,52 +91,6 @@
     "source_kind": "auto",
     "last_updated": "2026-09-05",
     "first_seen": "2026-09-05"
-  },
-  {
-    "title": "Mercado Libre triplica su depósito de última milla en Uruguay y suma choferes asociados",
-    "what_happened": "Mercado Libre anunció una inversión de US$12,8 millones para ampliar su operación en Uruguay: unos US$4 millones se destinan a triplicar la superficie de su depósito de última milla en Canelones, de 4.000 a 12.000 m², y el resto a nuevas oficinas corporativas en Montevideo. La empresa prevé casi duplicar su dotación directa (de 113 a 220 personas) y ampliar de 156 a 228 la red de choferes asociados en los próximos dos años.",
-    "why_it_matters": "Muestra que Mercado Libre sigue invirtiendo fuerte en infraestructura logística propia en la región, incluso en mercados chicos, apostando a acortar tiempos de entrega mediante una red de choferes asociados antes que con flota 100% propia.",
-    "fixy_impact": null,
-    "category": "Logística",
-    "geo": "LATAM",
-    "source_name": "Forbes Uruguay",
-    "source_url": "https://www.forbesuruguay.com/negocios/mercado-libre-invierte-us-128m-oficinas-logistica-tenemos-entregar-mas-mas-rapido-todo-todo-uruguay-dijo-gamba-n96934",
-    "published_date": "2026-09-03",
-    "priority": "informativo",
-    "tags": [
-      "Mercado Libre",
-      "Uruguay",
-      "última milla",
-      "inversión",
-      "logística"
-    ],
-    "id": "nw-ad02545c24",
-    "source_kind": "auto",
-    "last_updated": "2026-09-06",
-    "first_seen": "2026-09-06"
-  },
-  {
-    "title": "La mora de las familias tocó un nuevo récord en julio y el BCRA descartó cambios en la normativa para bancos y fintech",
-    "what_happened": "En julio, la mora de las personas humanas volvió a marcar un récord: 5,9 millones de personas con deudas irregulares, equivalentes al 28% de los argentinos con algún tipo de crédito, tras una leve baja el mes anterior. Pese a este pico, el BCRA sostuvo que bancos y proveedores no financieros de crédito (fintech) cumplen con las regulaciones vigentes de tasas y transparencia, y descartó cambios normativos en el corto plazo. En paralelo, el vicepresidente del organismo volvió a pedirles a los bancos que \"reconozcan pérdidas\" y refinancien créditos incobrables a tasas más bajas y plazos más largos.",
-    "why_it_matters": "Confirma que el sobreendeudamiento de las familias no cede pese a los planes anunciados por el sector en agosto, y que el regulador por ahora no va a intervenir con nuevas reglas, dejando la salida en manos de bancos y fintech.",
-    "fixy_impact": null,
-    "category": "Fintech",
-    "geo": "Argentina",
-    "source_name": "Ámbito Financiero",
-    "source_url": "https://www.ambito.com/finanzas/tasas-interes-el-bcra-considera-que-bancos-y-fintech-cumplen-las-reglas-y-no-preve-cambios-la-normativa-n6317972",
-    "published_date": "2026-09-03",
-    "priority": "informativo",
-    "tags": [
-      "BCRA",
-      "mora",
-      "fintech",
-      "bancos",
-      "crédito"
-    ],
-    "id": "nw-73af771cf8",
-    "source_kind": "auto",
-    "last_updated": "2026-09-06",
-    "first_seen": "2026-09-06"
   },
   {
     "title": "La Provincia de Buenos Aires imputa formalmente a Mercado Pago, Ualá y otras billeteras con multas de hasta $1.883 millones",
@@ -944,27 +806,28 @@
     "first_seen": "2026-09-23"
   },
   {
-    "title": "El Banco Central confirmó que Mercado Pago tendrá licencia bancaria antes de fin de año",
-    "what_happened": "Juan Curutchet, director del BCRA, adelantó durante el evento Nuevo Dinero que Mercado Pago obtendrá su licencia para operar como banco antes de que termine 2026, trámite que la fintech de Mercado Libre había iniciado en mayo de 2025. El funcionario indicó que en el mismo plazo Revolut también recibirá su licencia bancaria en el país.",
-    "why_it_matters": "Que el jugador de pagos y comercio electrónico más grande del país pase a operar como banco formal cambia las reglas de competencia frente a la banca tradicional y podría darle a Mercado Libre nuevas herramientas de crédito y fondeo para todo su ecosistema.",
+    "title": "El BCRA confirmó que Mercado Pago y Revolut serán bancos antes de fin de año",
+    "what_happened": "En la Conferencia Nuevo Dinero, el director del Banco Central y superintendente de Entidades Financieras, Juan Curutchet, confirmó que Mercado Pago y Revolut obtendrán su licencia bancaria antes de que termine 2026. Como banco, Mercado Pago podrá hacer intermediación financiera plena, prestando con los depósitos de sus propios clientes.",
+    "why_it_matters": "Es la confirmación más precisa hasta ahora del proceso, con fecha y con Revolut sumado a la jugada: profundiza la disputa entre bancos tradicionales y fintechs por depósitos y crédito.",
     "fixy_impact": "Un Mercado Pago con licencia bancaria podría ofrecer crédito más agresivo a vendedores y compradores del ecosistema de Mercado Libre, reforzando su peso como cliente clave y como competidor indirecto en servicios financieros y logísticos.",
     "category": "Fintech",
     "geo": "Argentina",
     "source_name": "Infobae",
     "source_url": "https://www.infobae.com/economia/2026/09/24/el-banco-central-confirmo-que-mercado-libre-tendra-licencia-para-operar-como-banco-antes-de-fin-de-ano/",
     "published_date": "2026-09-24",
-    "priority": "alta",
+    "priority": "relevante",
     "tags": [
       "Mercado Pago",
       "BCRA",
-      "licencia bancaria",
-      "fintech",
-      "Mercado Libre"
+      "banca digital",
+      "Revolut",
+      "actualización"
     ],
     "id": "nw-9e5b89a10a",
     "source_kind": "auto",
-    "last_updated": "2026-09-24",
-    "first_seen": "2026-09-24"
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-24",
+    "updated_flag": true
   },
   {
     "title": "Cámaras inteligentes y telemetría con IA, la apuesta del sector seguridad para frenar los robos en última milla",
@@ -1011,5 +874,120 @@
     "source_kind": "auto",
     "last_updated": "2026-09-24",
     "first_seen": "2026-09-24"
+  },
+  {
+    "title": "El consumo masivo volvió a caer en agosto en supermercados y autoservicios",
+    "what_happened": "Según datos de Scentia difundidos junto con encuestas del INDEC, el consumo masivo cayó 1,5% interanual y 0,7% mensual en agosto de 2026. Los supermercados de cadena retrocedieron 3,3% interanual (4% acumulado en ocho meses) y los autoservicios independientes 1,3%, mientras que bebidas con y sin alcohol fueron las categorías más golpeadas. En el año, la caída acumulada del consumo masivo llega a 2,7%.",
+    "why_it_matters": "Confirma que la recuperación del consumo sigue sin llegar al canal físico pese a que el eCommerce continúa creciendo, y marca qué categorías de consumo masivo están más deprimidas de cara al último cuatrimestre.",
+    "fixy_impact": null,
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/09/23/el-consumo-masivo-cayo-07-en-agosto-y-mostro-senales-de-retroceso-en-supermercados-autoservicios-y-mayoristas/",
+    "published_date": "2026-09-23",
+    "priority": "relevante",
+    "tags": [
+      "consumo masivo",
+      "supermercados",
+      "INDEC",
+      "retail",
+      "Scentia"
+    ],
+    "id": "nw-77f1a665a6",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "El Gobierno uruguayo presentó una propuesta para destrabar el conflicto en la terminal TCP de Montevideo",
+    "what_happened": "En medio de nuevos paros de 24 horas en todos los puertos uruguayos, el ministro de Trabajo, Juan Castillo, dio un plazo de 72 horas a Katoen Natie (accionista de la Terminal Cuenca del Plata) y al sindicato portuario Supra para acordar un convenio colectivo de cinco años, y anticipó que el Gobierno acercaría una propuesta propia sobre salarios garantizados y el paquete económico si las partes no cerraban un acuerdo. Los detalles finales del convenio son, por ahora, por confirmar.",
+    "why_it_matters": "Es el primer movimiento formal del Gobierno para destrabar un conflicto que ya lleva meses y que sigue golpeando la operatoria de contenedores en un puerto clave para el comercio exterior de la región.",
+    "fixy_impact": "Mientras no haya acuerdo firmado, sigue el riesgo de demoras para cargas que transitan por Montevideo como alternativa a los puertos argentinos.",
+    "category": "Logística",
+    "geo": "LATAM",
+    "source_name": "El Observador",
+    "source_url": "https://www.elobservador.com.uy/nacional/conflicto-el-puerto-montevideo-sigue-acuerdo-gobierno-prepara-una-propuesta-y-sindicato-mantiene-el-paro-n6058132",
+    "published_date": "2026-09-24",
+    "priority": "relevante",
+    "tags": [
+      "puerto de Montevideo",
+      "TCP",
+      "conflicto gremial",
+      "comercio exterior",
+      "actualización"
+    ],
+    "id": "nw-16781d1c4a",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "CACE confirmó las fechas de CyberMonday y Black Friday 2026 y abrió las inscripciones",
+    "what_happened": "La Cámara Argentina de Comercio Electrónico confirmó que CyberMonday 2026 se hará del lunes 2 al miércoles 4 de noviembre, con extensión en modalidad Cyber Week hasta el 8 de noviembre, y ya abrió las inscripciones para que las marcas participen. Black Friday tendrá su día central el viernes 27 de noviembre, con descuentos que habitualmente se extienden sábado y domingo, evento que no organiza CACE sino que impulsa cada marca por su cuenta.",
+    "why_it_matters": "Marca el arranque formal de la planificación comercial y logística de fin de año para todo el ecosistema de eCommerce argentino.",
+    "fixy_impact": "Fixy debería arrancar ya la planificación de capacidad de fulfillment y última milla para los picos de la primera semana de noviembre (CyberMonday) y de fines de noviembre (Black Friday).",
+    "category": "eCommerce",
+    "geo": "Argentina",
+    "source_name": "Ámbito Financiero",
+    "source_url": "https://www.ambito.com/economia/confirmaron-las-fechas-del-black-friday-y-cyber-monday-2026-n6326087",
+    "published_date": "2026-09-24",
+    "priority": "alta",
+    "tags": [
+      "CyberMonday",
+      "Black Friday",
+      "CACE",
+      "planificación",
+      "picos de demanda"
+    ],
+    "id": "nw-1732c195bc",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "Mercado Libre suma venta de medicamentos con receta y 20 nuevos centros logísticos en Brasil",
+    "what_happened": "Durante Mercado Livre Experience en San Pablo, Mercado Libre anunció que empezará a vender medicamentos con receta en Brasil, con entregas de hasta 60 minutos en San Pablo y su región metropolitana. La compañía también confirmó que sumará 20 nuevos centros de distribución en Brasil antes de fin de 2026, su mercado más importante (54% de los ingresos del primer semestre del grupo).",
+    "why_it_matters": "Muestra hacia dónde apunta el jugador dominante del eCommerce regional: verticales de alto margen como salud, sostenidas por una red de fulfillment cada vez más densa para entregas ultra rápidas, jugada que podría replicar en otros países de la región.",
+    "fixy_impact": null,
+    "category": "Marketplaces",
+    "geo": "LATAM",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/america/agencias/2026/09/24/mercado-libre-anuncia-la-venta-de-medicamentos-con-receta-para-brasil/",
+    "published_date": "2026-09-24",
+    "priority": "informativo",
+    "tags": [
+      "Mercado Libre",
+      "Brasil",
+      "fulfillment",
+      "quick commerce",
+      "salud"
+    ],
+    "id": "nw-4d99b4af10",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "La confianza industrial argentina cayó a su nivel más bajo en siete meses",
+    "what_happened": "Según la Encuesta de Tendencia de Negocios del INDEC, el índice de confianza empresarial industrial llegó a -20,2% en agosto, el nivel más bajo desde diciembre de 2025. El 53,6% de las empresas industriales señaló que la demanda interna insuficiente es el principal obstáculo para producir más, y un 13,5% ya anticipa recortes de personal para el tercer trimestre.",
+    "why_it_matters": "Es una señal adelantada de menor actividad industrial para el resto del año, distinta de los índices de confianza del consumidor, que puede anticipar menos volumen de mercadería industrial para transportar y almacenar.",
+    "fixy_impact": "Puede anticipar una desaceleración en los volúmenes de carga industrial para el cuarto trimestre, útil para ajustar previsiones de demanda de espacio de almacenamiento y transporte.",
+    "category": "Tendencias",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/09/22/se-profundiza-el-pesimismo-industrial-empresarios-proyectan-menos-produccion-y-empleo-en-el-tercer-trimestre/",
+    "published_date": "2026-09-22",
+    "priority": "informativo",
+    "tags": [
+      "INDEC",
+      "confianza industrial",
+      "producción",
+      "empleo",
+      "consumo"
+    ],
+    "id": "nw-3c94f39167",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
   }
 ]

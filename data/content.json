@@ -1,50 +1,5 @@
 [
   {
-    "topic": "Dos frentes regulatorios, una misma billetera: qué significa que Nación y Provincia investiguen a las fintech al mismo tiempo",
-    "why_now": "En la misma semana, diputados nacionales piden investigar a Mercado Pago, Ualá y otras 90 billeteras por tasas y algoritmos, y la Provincia de Buenos Aires abre un frente aparte por hostigamiento a deudores, en un contexto de morosidad récord.",
-    "fixy_angle": "Fixy gestiona cobros y financiamiento a sellers junto con estas billeteras: explicar qué está en discusión ayuda a que comercial y clientes entiendan el riesgo regulatorio antes de que se traduzca en cambios de condiciones.",
-    "formats": [
-      "nota",
-      "LinkedIn"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/economia/2026/08/20/mora-record-kicillof-investiga-a-mercado-pago-y-otras-billeteras-por-hostigamiento-acoso-y-falta-de-informacion-clara/",
-    "id": "ct-df689db9",
-    "source_kind": "auto",
-    "last_updated": "2026-08-25",
-    "first_seen": "2026-08-25"
-  },
-  {
-    "topic": "Qué significa la desinflación para el costo logístico: combustible, insumos y salarios en modo freno",
-    "why_now": "La inflación de julio fue 2,1% y las consultoras ahora esperan 1,6% para agosto, uno de los registros más bajos del año, con impacto directo en los costos operativos del sector.",
-    "fixy_angle": "Fixy puede explicar en un lenguaje simple qué implica esta desaceleración para la estructura de costos de un operador logístico y para la previsibilidad de las tarifas que le cobra a sus clientes.",
-    "formats": [
-      "nota",
-      "LinkedIn"
-    ],
-    "priority": "informativo",
-    "source_url": "https://www.infobae.com/economia/2026/08/24/inflacion-de-agosto-las-consultoras-recortaron-sus-proyecciones-y-ahora-estiman-que-podria-ubicarse-cerca-del-16/",
-    "id": "ct-6b87c7b5",
-    "source_kind": "auto",
-    "last_updated": "2026-08-25",
-    "first_seen": "2026-08-25"
-  },
-  {
-    "topic": "La última milla deja de contar camionetas: la logística uberizada explicada para un eCommerce",
-    "why_now": "La coordinación tecnológica de redes de conductores y flotas mixtas empieza a reemplazar la lógica de flota propia fija como forma de sostener el boom del eCommerce sin inmovilizar capital.",
-    "fixy_angle": "Fixy puede posicionarse como el operador que ya piensa la última milla en red y no en cantidad de vehículos, un mensaje que le habla directo a marcas que necesitan escalar sin invertir en flota.",
-    "formats": [
-      "LinkedIn",
-      "artículo"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.ambito.com/negocios/la-logistica-acelera-el-uso-tecnologia-automatizacion-y-modelos-uberizados-sostener-el-boom-del-ecommerce-n6312398",
-    "id": "ct-4ace91f9",
-    "source_kind": "auto",
-    "last_updated": "2026-08-25",
-    "first_seen": "2026-08-25"
-  },
-  {
     "topic": "Google le pone ruteo apto para camiones a Google Maps: qué significa para la última milla, aunque todavía no esté en Argentina",
     "why_now": "Google anunció el 17 de agosto una función de ruteo para flotas que respeta restricciones físicas del vehículo (altura, peso, calles angostas), hoy disponible solo en Estados Unidos.",
     "fixy_angle": "Fixy puede explicar por qué esta dirección del ruteo de flotas eventualmente va a llegar a la región y qué debería exigirle hoy a sus propias herramientas de ruteo mientras tanto.",
@@ -1053,5 +1008,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-24",
     "first_seen": "2026-09-24"
+  },
+  {
+    "topic": "Cuando el marketplace se vuelve farmacia: qué enseña Mercado Libre en Brasil sobre fulfillment de alto margen",
+    "why_now": "Mercado Libre acaba de anunciar venta de medicamentos con receta en San Pablo con entregas de hasta 60 minutos, apoyada en 20 nuevos centros de distribución que suma en Brasil antes de fin de año.",
+    "fixy_angle": "Muestra hacia dónde va la logística de alto margen (salud, entrega ultrarrápida) y por qué la densidad de la red de fulfillment es la que habilita esas verticales, un argumento a favor de tercerizar en un operador especializado en vez de armar depósito propio.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.infobae.com/america/agencias/2026/09/24/mercado-libre-anuncia-la-venta-de-medicamentos-con-receta-para-brasil/",
+    "id": "ct-4f31e992",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "topic": "Termómetro industrial: qué anticipa la caída de la confianza empresarial para el volumen de carga del último trimestre",
+    "why_now": "La confianza industrial tocó su piso en siete meses justo antes del cuatrimestre de mayor actividad logística del año, con más de la mitad de las empresas industriales señalando demanda insuficiente.",
+    "fixy_angle": "Ayuda a un cliente industrial o pyme a entender que la desaceleración no es solo un dato macro sino una señal para replanificar volumen de despacho y espacio de almacenamiento con anticipación.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.infobae.com/economia/2026/09/22/se-profundiza-el-pesimismo-industrial-empresarios-proyectan-menos-produccion-y-empleo-en-el-tercer-trimestre/",
+    "id": "ct-0dc5c0e9",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "topic": "Cuando el depósito se maneja hablando: qué permite el nuevo modo Voz de ChatGPT para un coordinador que no puede tipear",
+    "why_now": "OpenAI sumó plugins y apps conectadas al modo Voz de ChatGPT, incluso dentro de ChatGPT Work, permitiendo redactar mails, resumir Slack o armar reportes dictando en vez de escribir.",
+    "fixy_angle": "Es un caso de uso concreto y visual para mostrar cómo un coordinador logístico que está entre depósitos puede resolver tareas administrativas sin parar la operación ni tocar un teclado.",
+    "formats": [
+      "LinkedIn",
+      "Reel"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.unite.ai/openai-brings-plugins-to-live-voice-and-voice-to-work-in-chatgpt/",
+    "id": "ct-8d97280a",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
   }
 ]

@@ -301,5 +301,50 @@
     "source_kind": "auto",
     "last_updated": "2026-08-24",
     "first_seen": "2026-08-24"
+  },
+  {
+    "topic": "Dos frentes regulatorios, una misma billetera: qué significa que Nación y Provincia investiguen a las fintech al mismo tiempo",
+    "why_now": "En la misma semana, diputados nacionales piden investigar a Mercado Pago, Ualá y otras 90 billeteras por tasas y algoritmos, y la Provincia de Buenos Aires abre un frente aparte por hostigamiento a deudores, en un contexto de morosidad récord.",
+    "fixy_angle": "Fixy gestiona cobros y financiamiento a sellers junto con estas billeteras: explicar qué está en discusión ayuda a que comercial y clientes entiendan el riesgo regulatorio antes de que se traduzca en cambios de condiciones.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/08/20/mora-record-kicillof-investiga-a-mercado-pago-y-otras-billeteras-por-hostigamiento-acoso-y-falta-de-informacion-clara/",
+    "id": "ct-df689db9",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "topic": "Qué significa la desinflación para el costo logístico: combustible, insumos y salarios en modo freno",
+    "why_now": "La inflación de julio fue 2,1% y las consultoras ahora esperan 1,6% para agosto, uno de los registros más bajos del año, con impacto directo en los costos operativos del sector.",
+    "fixy_angle": "Fixy puede explicar en un lenguaje simple qué implica esta desaceleración para la estructura de costos de un operador logístico y para la previsibilidad de las tarifas que le cobra a sus clientes.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.infobae.com/economia/2026/08/24/inflacion-de-agosto-las-consultoras-recortaron-sus-proyecciones-y-ahora-estiman-que-podria-ubicarse-cerca-del-16/",
+    "id": "ct-6b87c7b5",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "topic": "La última milla deja de contar camionetas: la logística uberizada explicada para un eCommerce",
+    "why_now": "La coordinación tecnológica de redes de conductores y flotas mixtas empieza a reemplazar la lógica de flota propia fija como forma de sostener el boom del eCommerce sin inmovilizar capital.",
+    "fixy_angle": "Fixy puede posicionarse como el operador que ya piensa la última milla en red y no en cantidad de vehículos, un mensaje que le habla directo a marcas que necesitan escalar sin invertir en flota.",
+    "formats": [
+      "LinkedIn",
+      "artículo"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.ambito.com/negocios/la-logistica-acelera-el-uso-tecnologia-automatizacion-y-modelos-uberizados-sostener-el-boom-del-ecommerce-n6312398",
+    "id": "ct-4ace91f9",
+    "source_kind": "auto",
+    "last_updated": "2026-08-25",
+    "first_seen": "2026-08-25"
   }
 ]

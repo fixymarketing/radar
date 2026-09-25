@@ -401,6 +401,28 @@
     "first_seen": "2026-09-24"
   },
   {
+    "name": "GPT-Live-1",
+    "vendor": "OpenAI",
+    "what_it_is": "Es el modo de voz de ChatGPT para hablar con el asistente en tiempo real desde el celular, la web o la app de escritorio.",
+    "what_changed": "Desde el 23 de septiembre de 2026, el modo Voz suma plugins y apps conectadas (mail, calendario, Slack) durante la charla hablada, y ahora también corre dentro de ChatGPT Work para armar documentos, planillas o presentaciones dictando por voz.",
+    "fixy_use": "Un coordinador que está manejando entre depósitos puede dictarle que redacte un mail a un cliente, resuma los mensajes de Slack del turno o arme un reporte de incidencias, sin tocar el teclado. También sirve para que comercial dicte una propuesta o un resumen de reunión mientras vuelve de visitar a un cliente.",
+    "verdict": "probar",
+    "verdict_reason": "Le saca fricción al equipo que está en la calle o el depósito y no puede escribir, algo muy propio de una operación logística.",
+    "categories": [
+      "Operaciones",
+      "Productividad",
+      "Gestión del tiempo"
+    ],
+    "pricing_note": "freemium - Voz con plugins ya disponible en planes Free y Go con límites; Voz dentro de Work requiere plan Plus, Pro o Work",
+    "source_url": "https://www.unite.ai/openai-brings-plugins-to-live-voice-and-voice-to-work-in-chatgpt/",
+    "published_date": "2026-09-23",
+    "priority": "relevante",
+    "id": "ai-openai-gpt-live-1",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-13"
+  },
+  {
     "name": "GPT-6 Sol y GPT-6 Luna",
     "vendor": "OpenAI",
     "what_it_is": "Dos modelos nuevos dentro de la familia GPT-6: Sol, pensado para codificación compleja y flujos agénticos, y Luna, pensado para trabajo de alto volumen y bajo costo (resumir, extraer datos, responder consultas simples).",
@@ -509,6 +531,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-19",
     "first_seen": "2026-09-19"
+  },
+  {
+    "name": "Workspace Studio: flujos con integraciones de terceros y webhooks",
+    "vendor": "Google Workspace",
+    "what_it_is": "Workspace Studio es la herramienta de Google para armar automatizaciones sin programar dentro de Gmail, Drive y Docs, activadas por eventos o por un botón.",
+    "what_changed": "Desde el 17 de septiembre de 2026 suma disparadores y pasos personalizados con Apps Script, integraciones en beta con Asana, HubSpot, QuickBooks, Salesforce, Slack y Mailchimp, y webhooks para mandar y recibir datos de sistemas externos por HTTP.",
+    "fixy_use": "Fixy podría armar un flujo que, cuando entra un pedido nuevo a QuickBooks o cambia el estado de una cotización en HubSpot, dispare un webhook hacia su WMS o hacia n8n para generar la etiqueta de envío o avisar por Slack, sin depender de Zapier ni de un desarrollador externo.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una alternativa nativa de Google a Zapier o n8n, pero las integraciones de terceros todavía están en beta y hay que confirmar qué ediciones de Workspace la incluyen.",
+    "categories": [
+      "Automatización",
+      "Operaciones",
+      "Productividad"
+    ],
+    "pricing_note": "no confirmado - integrado en ciertas ediciones de Google Workspace, con integraciones de terceros en beta",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/09/automate-workflows-with-custom-starters-and-steps-third-party-integrations-and-webhooks-in-Workspace-Studio.html",
+    "published_date": "2026-09-17",
+    "priority": "relevante",
+    "id": "ai-google-workspace-workspace-studio-flujos-con-integraciones-d",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
   },
   {
     "name": "Claude Cowork: memoria unificada con el chat",
@@ -687,28 +731,6 @@
     "source_kind": "auto",
     "last_updated": "2026-09-12",
     "first_seen": "2026-09-12"
-  },
-  {
-    "name": "GPT-Live-1",
-    "vendor": "OpenAI",
-    "what_it_is": "Un modelo de voz para la API de OpenAI que escucha y habla al mismo tiempo (full-duplex), como en una llamada telefónica real, en vez de funcionar por turnos como los bots de voz tradicionales.",
-    "what_changed": "Se lanzó el 10 de septiembre de 2026 con una mejora grande de precisión y de latencia de cambio de turno frente al modelo Realtime anterior, y con soporte pensado específicamente para telefonía. Aparece ahora porque hasta hace poco los agentes de voz sonaban robóticos y no toleraban que el cliente interrumpiera.",
-    "fixy_use": "Es la base técnica para armar (vía un integrador o una plataforma de agentes de voz que ya lo use) un contestador automático que atienda llamadas de tipo '¿dónde está mi pedido?' fuera de horario, sonando natural y dejando que el cliente corte o interrumpa. No es un producto listo para usar: hoy sirve más para evaluar proveedores de voz que ya lo integren que para desarrollarlo puertas adentro con un equipo chico.",
-    "verdict": "seguir",
-    "verdict_reason": "Es una mejora técnica concreta para atención por voz, pero requiere un integrador o plataforma tercera antes de que Fixy la pueda usar.",
-    "categories": [
-      "Operaciones",
-      "Logística",
-      "Automatización"
-    ],
-    "pricing_note": "pago — USD 0,05 por minuto de audio (solo la capa de voz, sin contar el modelo que genera las respuestas)",
-    "source_url": "https://openai.com/index/introducing-gpt-live/",
-    "published_date": "2026-09-10",
-    "priority": "relevante",
-    "id": "ai-openai-gpt-live-1",
-    "source_kind": "auto",
-    "last_updated": "2026-09-13",
-    "first_seen": "2026-09-13"
   },
   {
     "name": "Claude Marketplace: Gamma para presentaciones",
@@ -1715,6 +1737,28 @@
     "first_seen": "2026-09-24"
   },
   {
+    "name": "Claude Opus 5.5",
+    "vendor": "Anthropic",
+    "what_it_is": "Es el nuevo modelo insignia de Anthropic, el motor que corre detrás de Claude Chat, Claude Code y Claude Cowork para las tareas más exigentes.",
+    "what_changed": "Lanzado el 22 de septiembre de 2026, cuesta un 40% menos que Opus 5 en tareas típicas, responde más del 30% más rápido y llega al nivel de Claude Fable 5.1 en la mayoría de los trabajos, con precios de 4 y 20 dólares por millón de tokens de entrada y salida.",
+    "fixy_use": "Como Fixy ya usa herramientas de Claude (Cowork, Docs, Slides, los flujos para pymes), esta baja de costo permite correr más automatizaciones o agentes internos con el modelo más potente sin que suba el gasto en IA, por ejemplo para analizar datos de operaciones o redactar reportes largos para management.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora de motor que baja costos y sube velocidad, útil para lo que Fixy ya usa, pero no una capacidad nueva por sí sola.",
+    "categories": [
+      "Análisis",
+      "Productividad",
+      "Management"
+    ],
+    "pricing_note": "pago - 4 USD por millón de tokens de entrada y 20 USD de salida en la API, 20% menos que Opus 5",
+    "source_url": "https://www.anthropic.com/news/claude-opus-5-5",
+    "published_date": "2026-09-22",
+    "priority": "informativo",
+    "id": "ai-anthropic-claude-opus-5-5",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
+  },
+  {
     "name": "Zendesk: rastreador web renovado y más conectores de contenido",
     "vendor": "Zendesk",
     "what_it_is": "El rastreador web y los conectores que alimentan la base de conocimiento de los agentes de IA de Zendesk con contenido de sitios propios y fuentes externas.",
@@ -1778,6 +1822,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-23",
     "first_seen": "2026-09-23"
+  },
+  {
+    "name": "HubSpot Breeze Assistant",
+    "vendor": "HubSpot",
+    "what_it_is": "Breeze Assistant es el asistente central de IA de HubSpot que recibe pedidos en lenguaje natural y coordina a los demás agentes de la plataforma (marketing, ventas, atención).",
+    "what_changed": "Presentado el 16 de septiembre de 2026 en el evento Unbound, Breeze ahora coordina esos agentes en lugar de que cada uno funcione por separado, y HubSpot suma un CRM que se autoactualiza: llamadas, mails y reuniones quedan registrados solos, sin carga manual.",
+    "fixy_use": "Si el equipo comercial de Fixy usa o evalúa HubSpot como CRM, esto le ahorra la carga manual de contactos y seguimientos, y permite pedirle en una sola consulta que arme una propuesta o un reporte de pipeline usando los datos que ya están cargados del cliente.",
+    "verdict": "seguir",
+    "verdict_reason": "Solo tiene valor concreto si Fixy usa o piensa migrar a HubSpot como CRM comercial; falta confirmar el costo extra de los agentes.",
+    "categories": [
+      "Comercial",
+      "Organización",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado - forma parte de HubSpot, probablemente con costo adicional por agentes de IA según el plan",
+    "source_url": "https://www.cmswire.com/customer-experience/hubspot-debuts-breeze-assistant-selfupdating-crm/",
+    "published_date": "2026-09-16",
+    "priority": "informativo",
+    "id": "ai-hubspot-hubspot-breeze-assistant",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
   },
   {
     "name": "Notion 3.7: Agent Skills",
