@@ -750,5 +750,36 @@
     "source_kind": "auto",
     "last_updated": "2026-09-21",
     "first_seen": "2026-09-21"
+  },
+  {
+    "title": "Automatizar el reporte semanal de performance por transportista y cliente con IA",
+    "context": "Esta semana aparecieron dos herramientas que resuelven el mismo problema desde ángulos distintos: el Data Agent de ChatGPT Work, que puede leer planillas de Drive y armar reportes sin un analista dedicado, y el soporte nativo de MCP en n8n, que permite exponer un flujo interno (por ejemplo consultar el estado de un envío) como herramienta para que un agente de IA lo use directamente.",
+    "action": "Elegir un caso piloto acotado -por ejemplo el reporte semanal de SLA por transportista- y probarlo primero con el Data Agent de ChatGPT Work conectado a las planillas de Drive que ya usa el equipo de operaciones.",
+    "type": "producto",
+    "priority": "informativo",
+    "source_url": "https://openai.com/index/put-data-to-work/",
+    "linked": [
+      "Data Agent en ChatGPT Work",
+      "n8n MCP nativo (Server y Client)"
+    ],
+    "id": "op-01d66c00",
+    "source_kind": "auto",
+    "last_updated": "2026-09-23",
+    "first_seen": "2026-09-23"
+  },
+  {
+    "title": "Monitorear el dictamen legislativo del 29/9 sobre crédito y fintech antes de prometer financiamiento en cuotas",
+    "context": "Las comisiones de Diputados avanzan hacia un dictamen el 29 de septiembre sobre más de 60 proyectos que buscan poner topes a las tasas y dar mayor control al BCRA sobre las fintech, en medio de la mora récord de las familias. La Cámara Argentina Fintech ya advirtió que esto podría restringir el acceso al crédito, justo cuando Fixy viene evaluando una oferta de financiamiento en cuotas para cuando el crédito se destrabe.",
+    "action": "Designar a alguien de comercial o management para seguir el dictamen del 29/9 y, si avanza con restricciones al crédito fintech, ajustar a tiempo el mensaje comercial sobre financiamiento en cuotas en vez de asumir que el crédito se va a destrabar.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.lanacion.com.ar/economia/mora-el-congreso-acumula-60-proyectos-para-regular-el-credito-y-las-fintech-advierten-por-el-impacto-nid18092026/",
+    "linked": [
+      "El Congreso argentino avanza hacia un dictamen sobre regulación del crédito y las fintech, con más de 60 proyectos en danza"
+    ],
+    "id": "op-a6e86768",
+    "source_kind": "auto",
+    "last_updated": "2026-09-22",
+    "first_seen": "2026-09-22"
   }
 ]

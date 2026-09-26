@@ -2,23 +2,23 @@
   {
     "name": "SimpliRoute ADA",
     "vendor": "SimpliRoute",
-    "what_it_is": "Conjunto de agentes de IA autónomos de la empresa chilena SimpliRoute, pensados para logística de última milla, retail y e-commerce: automatizan la comunicación con clientes por entregas, la reprogramación, la detección de anomalías en ruta y el ajuste de rutas.",
-    "what_changed": "SimpliRoute presentó formalmente ADA el 22 de septiembre de 2026 al anunciar su expansión regional (con salto a Estados Unidos). Según la empresa, en uno de sus casos de uso logró bajar un 76% la merma operativa y pasar de cubrir el 23% al 100% de las excepciones logísticas con el mismo equipo humano.",
-    "fixy_use": "Es una referencia directa para Fixy porque ataca el mismo problema que enfrenta el equipo de operaciones todos los días: entregas fallidas, reprogramaciones y aviso a clientes. Vale la pena evaluarlo tanto como herramienta posible para probar como para entender qué está ofreciendo la competencia tecnológica en logística de la región.",
+    "what_it_is": "Agente de inteligencia artificial autónomo para logística que ya no solo optimiza rutas: decide y actúa por sí mismo ante problemas de entrega, hablando por voz con clientes, conductores y supervisores, e integrado a WhatsApp.",
+    "what_changed": "En septiembre de 2026 SimpliRoute confirmó el salto de ADA a Estados Unidos y detalló que, ante un atraso, un desvío de ruta o un conductor que no responde, el agente decide en segundos si llamar al cliente, contactar al conductor, escalar a un supervisor o activar un protocolo de seguridad, sin que un humano tenga que intervenir primero. SimpliRoute ya opera en Argentina, entre siete países de la región.",
+    "fixy_use": "Para la última milla de Fixy, ADA podría tomar la primera línea de gestión de incidencias de reparto (avisar al cliente que su pedido se demora, reintentar contactar al repartidor) y dejarle al equipo humano solo los casos que realmente necesitan escalarse, liberando horas de atención al cliente y coordinación de flota.",
     "verdict": "probar",
-    "verdict_reason": "Ataca exactamente los problemas operativos de última milla de Fixy y ya muestra resultados medibles en la región, según la propia empresa.",
+    "verdict_reason": "Ya opera en Argentina y ataca un dolor concreto de Fixy -la gestión manual de incidencias de última milla-, conviene pedir una demo.",
     "categories": [
       "Logística",
       "Operaciones",
       "Automatización"
     ],
-    "pricing_note": "no confirmado — SimpliRoute no publica precios públicos de los agentes ADA, requiere contacto comercial",
+    "pricing_note": "no confirmado - SimpliRoute no publica precio público, se cotiza a demanda",
     "source_url": "https://www.revistalogistec.com/index.php/2026/09/22/ada-la-ia-autonoma-chilena-que-revoluciona-la-logistica-en-latinoamerica-y-da-el-salto-a-estados-unidos/",
     "published_date": "2026-09-22",
     "priority": "alta",
     "id": "ai-simpliroute-simpliroute-ada",
     "source_kind": "auto",
-    "last_updated": "2026-09-24",
+    "last_updated": "2026-09-26",
     "first_seen": "2026-09-24"
   },
   {
@@ -379,6 +379,29 @@
     "first_seen": "2026-08-22"
   },
   {
+    "name": "Microsoft Copilot unificado (Home, Code, Autopilot)",
+    "vendor": "Microsoft",
+    "what_it_is": "Microsoft rediseñó Copilot como una sola app con tres partes: Home (chat y retomar tareas), Code (crear apps y paneles internos con lenguaje natural, sin programar) y Autopilot (un agente que sigue trabajando en segundo plano aunque el usuario se desconecte).",
+    "what_changed": "Se presentó el 25 de septiembre de 2026; Home y Code empiezan a desplegarse en el programa Frontier en las próximas semanas y Autopilot entra en vista previa privada a fin de mes.",
+    "fixy_use": "Code le permitiría a Fixy armar un panel interno (por ejemplo, seguimiento de pedidos en tránsito o reclamos abiertos) describiéndolo en lenguaje natural, sin depender de un programador. Autopilot podría quedar monitoreando entregas demoradas mientras el equipo sigue con otra tarea.",
+    "verdict": "seguir",
+    "verdict_reason": "Todavía está en despliegue gradual y vista previa privada, conviene esperar acceso general antes de invertir tiempo.",
+    "categories": [
+      "Organización",
+      "Productividad",
+      "Automatización",
+      "Management"
+    ],
+    "pricing_note": "no confirmado - se apoya en licencias de Microsoft 365 Copilot existentes; Code y Autopilot aún en preview",
+    "source_url": "https://news.microsoft.com/source/emea/features/microsoft-presenta-el-nuevo-copilot-con-home-code-y-autopilot/?lang=es",
+    "published_date": "2026-09-25",
+    "priority": "relevante",
+    "id": "ai-microsoft-microsoft-copilot-unificado-home-code-autopilot",
+    "source_kind": "auto",
+    "last_updated": "2026-09-26",
+    "first_seen": "2026-09-26"
+  },
+  {
     "name": "Gemini 3.8 Flash TTS y Flash-Lite TTS",
     "vendor": "Google",
     "what_it_is": "Dos modelos de texto a voz de Gemini que generan voces a partir de instrucciones en lenguaje natural, en más de 100 idiomas y variantes regionales, y pueden clonar una voz a partir de 30 segundos de audio (con consentimiento verbal grabado del dueño de la voz).",
@@ -421,6 +444,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-25",
     "first_seen": "2026-09-13"
+  },
+  {
+    "name": "ChatGPT Voice para tareas agénticas",
+    "vendor": "OpenAI",
+    "what_it_is": "El modo de voz de ChatGPT ahora puede ejecutar tareas completas -no solo conversar- usando aplicaciones conectadas como correo, calendario y Slack, y trabajar con ChatGPT Work en la nube.",
+    "what_changed": "Desde el 23 de septiembre de 2026 ya no hace falta dejar de hablar para abrir una app conectada o redactar un mensaje: la voz quedó integrada de punta a punta con las herramientas de trabajo, disponible en web, iOS, Android y escritorio.",
+    "fixy_use": "Alguien de atención al cliente o el coordinador de depósito puede dictarle en voz alta a ChatGPT que redacte y envíe un mail de seguimiento a un cliente, agende una reunión o arme un resumen de incidencias del día sin soltar el handheld o el volante. Sirve para management cuando está caminando la operación y no puede tipear.",
+    "verdict": "probar",
+    "verdict_reason": "Es de bajo costo probar dictando tareas cotidianas de organización con el plan que ya tenga el equipo.",
+    "categories": [
+      "Productividad",
+      "Gestión del tiempo",
+      "Automatización"
+    ],
+    "pricing_note": "freemium: la voz básica es gratis; las capacidades agénticas completas (crear documentos, navegador, ChatGPT Work) requieren plan Plus o Pro",
+    "source_url": "https://www.infobae.com/tecno/2026/09/24/openai-actualiza-chatgpt-voice-podra-organizar-el-correo-el-calendario-y-slack-usando-comandos-de-voz/",
+    "published_date": "2026-09-23",
+    "priority": "relevante",
+    "id": "ai-openai-chatgpt-voice-para-tareas-agenticas",
+    "source_kind": "auto",
+    "last_updated": "2026-09-26",
+    "first_seen": "2026-09-26"
   },
   {
     "name": "GPT-6 Sol y GPT-6 Luna",
@@ -688,6 +733,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-23",
     "first_seen": "2026-09-23"
+  },
+  {
+    "name": "Meta One",
+    "vendor": "Meta",
+    "what_it_is": "Nueva suscripción paga de Meta que empaqueta funciones de IA y herramientas de negocio para Instagram, Facebook y WhatsApp Business en distintos planes (Essential, Advanced, Expert, Max).",
+    "what_changed": "Se lanzó el 15 de septiembre de 2026: el plan Essential (desde 16,99 €/mes) suma canal verificado de WhatsApp Business, insignia de verificación y más acceso a Meta Business Agent; el plan Advanced (desde 54,99 €/mes) agrega programación de Stories con hasta 30 días de anticipación, analítica exportable e información detallada de audiencia.",
+    "fixy_use": "Marketing podría contratar el plan Essential para tener el canal de WhatsApp Business verificado -más confianza para clientes que preguntan por sus envíos- y ampliar el uso del asistente de ventas Meta Business Agent; el plan Advanced serviría para sacar reportes de audiencia y programar contenido de redes con más anticipación que hoy.",
+    "verdict": "probar",
+    "verdict_reason": "El plan Essential es de bajo costo y suma directamente confianza y capacidad al WhatsApp Business que Fixy ya usa con clientes.",
+    "categories": [
+      "Marketing",
+      "Comercial",
+      "Contenido"
+    ],
+    "pricing_note": "pago - planes desde 16,99 €/mes (Essential) hasta 549 €/mes (Max)",
+    "source_url": "https://www.silicon.es/meta-one-nuevo-modelo-de-suscripcion-con-ia-para-empresas-y-creadores-2584203",
+    "published_date": "2026-09-15",
+    "priority": "relevante",
+    "id": "ai-meta-meta-one",
+    "source_kind": "auto",
+    "last_updated": "2026-09-26",
+    "first_seen": "2026-09-26"
   },
   {
     "name": "Luna de Gurú",
@@ -1802,6 +1869,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-19",
     "first_seen": "2026-09-19"
+  },
+  {
+    "name": "Zendesk Copilot: Similar Tickets con búsqueda híbrida",
+    "vendor": "Zendesk",
+    "what_it_is": "Función del complemento Copilot que le muestra al agente de soporte tickets pasados parecidos al que está resolviendo, para reutilizar la respuesta que ya funcionó.",
+    "what_changed": "En septiembre de 2026 Zendesk mejoró el motor de búsqueda combinando palabras clave y significado (búsqueda híbrida), y ahora funciona en todos los idiomas y canales, no solo en algunos.",
+    "fixy_use": "Si Fixy usa o evalúa Zendesk para atención al cliente, esta mejora acorta el tiempo de respuesta ante reclamos repetidos (demoras, paquetes dañados, cambios de dirección), porque el agente ve al instante cómo se resolvió antes un caso parecido, aunque el cliente lo haya escrito distinto o por otro canal (WhatsApp, mail, chat).",
+    "verdict": "seguir",
+    "verdict_reason": "Solo aplica si se contrata el add-on Copilot de Zendesk, algo a evaluar según el volumen de tickets de Fixy.",
+    "categories": [
+      "Operaciones",
+      "Automatización",
+      "Análisis"
+    ],
+    "pricing_note": "pago - incluido en el add-on Copilot de Zendesk, por encima de la suscripción base",
+    "source_url": "https://support.zendesk.com/hc/en-us/articles/11180657600026-What-s-new-in-Zendesk-September-2026",
+    "published_date": "2026-09-18",
+    "priority": "informativo",
+    "id": "ai-zendesk-zendesk-copilot-similar-tickets-con-busqueda-hibrida",
+    "source_kind": "auto",
+    "last_updated": "2026-09-26",
+    "first_seen": "2026-09-26"
   },
   {
     "name": "ChatGPT Ads: Sponsored Agents e integraciones con HubSpot y Shopify",

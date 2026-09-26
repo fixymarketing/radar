@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Google le pone ruteo apto para camiones a Google Maps: qué significa para la última milla, aunque todavía no esté en Argentina",
-    "why_now": "Google anunció el 17 de agosto una función de ruteo para flotas que respeta restricciones físicas del vehículo (altura, peso, calles angostas), hoy disponible solo en Estados Unidos.",
-    "fixy_angle": "Fixy puede explicar por qué esta dirección del ruteo de flotas eventualmente va a llegar a la región y qué debería exigirle hoy a sus propias herramientas de ruteo mientras tanto.",
-    "formats": [
-      "LinkedIn",
-      "nota"
-    ],
-    "priority": "informativo",
-    "source_url": "https://www.freightwaves.com/news/google-maps-just-launched-truck-aware-routing-that-knows-about-low-bridges-and-weight-limits-here-is-what-it-means-and-what-it-does-not",
-    "id": "ct-54ebc6ff",
-    "source_kind": "auto",
-    "last_updated": "2026-08-26",
-    "first_seen": "2026-08-26"
-  },
-  {
-    "topic": "Cuando el eCommerce se administra hablándole a una IA: qué significa el conector MCP de Tiendanube para la logística",
-    "why_now": "Tiendanube se convirtió en la primera plataforma de eCommerce de la región en sumar un conector MCP oficial a los principales asistentes de IA (16 de agosto), permitiendo operar el panel de la tienda por lenguaje natural.",
-    "fixy_angle": "Fixy puede posicionarse como el operador logístico que ya está listo para que sus datos de tracking y stock sean consultables por esos mismos asistentes, no solo por humanos.",
-    "formats": [
-      "LinkedIn",
-      "artículo"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.businessempresarial.com.pe/tiendanube-conecta-a-sus-180000-tiendas-con-chatgpt-gemini-claude-y-los-principales-modelos-de-ia-globales/",
-    "id": "ct-15997eb8",
-    "source_kind": "auto",
-    "last_updated": "2026-08-26",
-    "first_seen": "2026-08-26"
-  },
-  {
     "topic": "El delito se mudó a la ruta: qué significa para la última milla que los robos a utilitarios se duplicaron en el interior",
     "why_now": "Un informe de agosto muestra que los robos a vehículos de reparto ya se corrieron del AMBA hacia Córdoba, Mendoza, Santa Fe y Neuquén, justo donde crece la última milla del ecommerce.",
     "fixy_angle": "Fixy puede mostrar cómo protege sus rutas del interior (rastreo, seguros, protocolos) y usarlo como contenido educativo para pymes que reparten con flota propia.",
@@ -1053,5 +1023,35 @@
     "source_kind": "auto",
     "last_updated": "2026-09-25",
     "first_seen": "2026-09-25"
+  },
+  {
+    "topic": "Cuando tercerizar transporte sale caro: qué mostró el bloqueo de Camioneros en Arrecifes",
+    "why_now": "Es un caso concreto y de esta semana, con una empresa parada 48 horas por un reclamo de tercerización de choferes.",
+    "fixy_angle": "Fixy puede posicionarse como una voz que conoce de primera mano los riesgos gremiales de la tercerización de transporte y cómo blindarse contractualmente.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/politica/2026/09/25/el-sindicato-de-camioneros-mantiene-bloqueada-desde-hace-48-horas-una-empresa-en-arrecifes-y-denunciaron-que-hay-amenazas/",
+    "id": "ct-c1759d36",
+    "source_kind": "auto",
+    "last_updated": "2026-09-26",
+    "first_seen": "2026-09-26"
+  },
+  {
+    "topic": "La IA que ya no solo responde: lo que significan ChatGPT Voice agéntico y el Copilot Autopilot de Microsoft para un equipo chico",
+    "why_now": "Las dos novedades se anunciaron esta misma semana y apuntan a lo mismo: que la IA ejecute tareas completas sin supervisión constante, algo directamente aprovechable por un equipo chico como el de Fixy.",
+    "fixy_angle": "Mostrar casos de uso concretos de management y operaciones delegando tareas por voz o dejando un agente trabajando en segundo plano, sin perder el control humano de las decisiones.",
+    "formats": [
+      "LinkedIn",
+      "Reel"
+    ],
+    "priority": "informativo",
+    "source_url": "https://news.microsoft.com/source/emea/features/microsoft-presenta-el-nuevo-copilot-con-home-code-y-autopilot/?lang=es",
+    "id": "ct-1a356ac0",
+    "source_kind": "auto",
+    "last_updated": "2026-09-26",
+    "first_seen": "2026-09-26"
   }
 ]

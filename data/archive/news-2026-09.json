@@ -252,5 +252,120 @@
     "source_kind": "auto",
     "last_updated": "2026-09-06",
     "first_seen": "2026-09-06"
+  },
+  {
+    "title": "Un informe de Bain & Company muestra que 3 de cada 10 compradores argentinos ya usan IA para comprar online",
+    "what_happened": "Según un informe de Bain & Company difundido el 4 de septiembre, el comercio agéntico -agentes de IA que buscan, comparan y compran en nombre del usuario- podría mover hasta US$500.000 millones en Estados Unidos hacia 2030 y ya representa el 25% del comercio electrónico de ese país. El reporte señala que en Argentina el 30% de los compradores online ya utiliza herramientas de IA para tomar decisiones de compra.",
+    "why_it_matters": "Marca un cambio de paradigma para el marketing digital y el diseño de tiendas online: las marcas van a tener que optimizar no solo para personas sino para que agentes de IA puedan leer precios, stock y tiempos de entrega de forma automática.",
+    "fixy_impact": "Si los agentes de IA empiezan a decidir compras en base a tiempos de entrega y disponibilidad, la información de stock y SLA de envío que expone cada tienda -que Fixy gestiona como operador logístico- se vuelve un factor competitivo directo para sus clientes.",
+    "category": "IA aplicada",
+    "geo": "Argentina",
+    "source_name": "iProUP",
+    "source_url": "https://www.iproup.com/innovacion/71241-compras-online-argentina-comercio-agentico-inteligencia-artificial-septiembre-2026",
+    "published_date": "2026-09-04",
+    "priority": "relevante",
+    "tags": [
+      "IA aplicada",
+      "comercio agéntico",
+      "agentes de compra",
+      "ecommerce",
+      "tendencias"
+    ],
+    "id": "nw-4975f8b2e9",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "title": "Andreani suma 20 bitrenes a su flota para transporte de larga distancia",
+    "what_happened": "Andreani incorporó a su flota 20 bitrenes para transporte de larga distancia, con una inversión inicial de US$2 millones; 11 unidades ya están operativas y el resto se sumará progresivamente. Cada bitrén puede transportar hasta 60% más carga que un camión tradicional en un mismo viaje. La empresa enmarca la medida en una estrategia de eficiencia y sostenibilidad para sus operaciones de larga distancia a nivel nacional.",
+    "why_it_matters": "Menos vehículos y kilómetros recorridos por tonelada transportada implican menor consumo de combustible y costos logísticos más bajos, algo clave en un contexto de presión de costos sobre toda la cadena de distribución.",
+    "fixy_impact": "Es una referencia útil para evaluar la eficiencia de los propios tramos interprovinciales de larga distancia: consolidar carga en unidades de mayor capacidad puede ser una palanca concreta para bajar el costo por envío en rutas de alto volumen.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Revista Mercado",
+    "source_url": "https://mercado.com.ar/movilidad/andreani-suma-20-bitrenes-a-su-flota-y-destina-us-2-millones",
+    "published_date": "2026-09-04",
+    "priority": "relevante",
+    "tags": [
+      "Andreani",
+      "bitrenes",
+      "transporte de carga",
+      "eficiencia",
+      "costos logísticos"
+    ],
+    "id": "nw-66d81abce5",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "title": "Andreani convirtió a Córdoba en su hub logístico del interior con más de 20.000 pymes",
+    "what_happened": "Grupo Logístico Andreani consolidó a Córdoba como hub logístico del interior: ya trabaja con más de 20.000 pymes y emprendedores de la provincia, con un crecimiento del 45% en la cantidad de envíos del segmento pyme durante el último año. La planta cordobesa, de 10.000 m², cuenta con un sorter automatizado capaz de clasificar hasta 96.000 paquetes por día. Los rubros que más usan la plataforma son indumentaria y marroquinería, cosmética, tecnología y alimentos, y venden principalmente por tienda online, WhatsApp e Instagram.",
+    "why_it_matters": "Confirma que el crecimiento del ecommerce en el interior del país ya no es marginal: las pymes y emprendedores fuera del AMBA se están convirtiendo en un motor de volumen tan relevante como el propio AMBA para los operadores logísticos.",
+    "fixy_impact": "Es una señal de oportunidad concreta: si el segmento pyme del interior crece a este ritmo, reforzar presencia y capacidad de fulfillment fuera del AMBA (empezando por polos como Córdoba) puede ser un diferencial frente a competidores que ya están invirtiendo ahí.",
+    "category": "Fulfillment",
+    "geo": "Argentina",
+    "source_name": "Perfil",
+    "source_url": "https://www.perfil.com/noticias/cordoba/andreani-convirtio-a-cordoba-en-el-hub-logistico-del-interior-y-ya-trabaja-con-mas-de-20000-pymes.phtml",
+    "published_date": "2026-09-04",
+    "priority": "relevante",
+    "tags": [
+      "Andreani",
+      "Córdoba",
+      "pymes",
+      "hub logístico",
+      "ecommerce interior"
+    ],
+    "id": "nw-ddf678f69a",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "title": "La Provincia de Buenos Aires imputa formalmente a Mercado Pago, Ualá y otras billeteras con multas de hasta $1.883 millones",
+    "what_happened": "Defensa del Consumidor de la Provincia de Buenos Aires imputó formalmente a Mercado Pago, Ualá, Naranja X, Personal Pay, Brubank y Cencosud por hostigamiento a deudores, falta de información clara sobre las condiciones de los créditos y ausencia de un botón de arrepentimiento visible. La causa se originó en más de 2.200 denuncias recibidas durante el primer semestre y prevé multas de hasta $1.883 millones por empresa, con aplicación prevista a partir del viernes 11 de septiembre una vez vencido el plazo para el descargo de las compañías. Por confirmar si las sanciones se aplican efectivamente en esa fecha o si las empresas logran dilatarlas con sus descargos.",
+    "why_it_matters": "El frente bonaerense contra las fintech pasa de la investigación anunciada en agosto a una imputación formal con montos concretos, lo que anticipa una regulación provincial más dura sobre el crédito digital en plena crisis de mora récord.",
+    "fixy_impact": null,
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "iProUp",
+    "source_url": "https://www.iproup.com/economia-digital/71278-kicillof-multa-con-1800-m-a-mercado-pago-uala-y-otras-billeteras",
+    "published_date": "2026-09-04",
+    "priority": "alta",
+    "tags": [
+      "billeteras virtuales",
+      "mora",
+      "Mercado Pago",
+      "regulación",
+      "Kicillof"
+    ],
+    "id": "nw-a078df0a95",
+    "source_kind": "auto",
+    "last_updated": "2026-09-07",
+    "first_seen": "2026-09-07"
+  },
+  {
+    "title": "Mercado Libre triplica su centro logístico en Bariloche para cubrir toda la Patagonia andina",
+    "what_happened": "El intendente de Bariloche recorrió el nuevo centro logístico que Mercado Libre puso en marcha en el Parque Industrial, Tecnológico y Productivo local (PITBA), operado junto con QX Logística. La instalación tiene 3.300 m² -el triple de la superficie anterior- y una capacidad estimada de hasta 30.000 paquetes por día en picos de demanda, desde donde se distribuye a Bariloche, San Martín de los Andes, Villa La Angostura, El Bolsón, Esquel e Ingeniero Jacobacci.",
+    "why_it_matters": "Es otra señal de que Mercado Libre sigue descentralizando su red hacia el interior para acortar los tiempos de entrega fuera del AMBA, un terreno donde compite de manera directa con los operadores logísticos regionales.",
+    "fixy_impact": "Marca el nivel de escala e inversión con el que Mercado Libre ataca mercados regionales alejados, un parámetro útil para pensar dónde Fixy puede diferenciarse por especialización, costo o servicio en zonas donde ML profundiza su presencia.",
+    "category": "Fulfillment",
+    "geo": "Argentina",
+    "source_name": "BarilocheOpina",
+    "source_url": "https://www.barilocheopina.com/noticias/2026/09/04/93809-el-intendente-recorrio-el-nuevo-centro-logistico-de-mercado-libre-en-el-pitba",
+    "published_date": "2026-09-04",
+    "priority": "relevante",
+    "tags": [
+      "Mercado Libre",
+      "Patagonia",
+      "fulfillment",
+      "logística regional",
+      "última milla"
+    ],
+    "id": "nw-8a800a8441",
+    "source_kind": "auto",
+    "last_updated": "2026-09-07",
+    "first_seen": "2026-09-07"
   }
 ]

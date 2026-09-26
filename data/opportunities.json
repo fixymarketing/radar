@@ -1,5 +1,35 @@
 [
   {
+    "title": "Auditar el encuadre legal de los choferes tercerizados que mueven la mercadería de Fixy",
+    "context": "El Sindicato de Camioneros bloqueó 48 horas una planta en Arrecifes para exigir que se pase a relación de dependencia a choferes que hoy trabajan bajo un vínculo comercial tercerizado. El precedente muestra que el gremio puede paralizar por completo una operación logística por este reclamo, algo que golpea directo a esquemas de fleteros o transportistas externos como los que suele usar la última milla.",
+    "action": "Revisar con Legales cómo están encuadrados hoy los contratos con fleteros y choferes tercerizados de Fixy, para anticipar el mismo tipo de reclamo antes de que escale a un bloqueo.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/politica/2026/09/25/el-sindicato-de-camioneros-mantiene-bloqueada-desde-hace-48-horas-una-empresa-en-arrecifes-y-denunciaron-que-hay-amenazas/",
+    "linked": [
+      "El Sindicato de Camioneros bloqueó una planta en Arrecifes por un reclamo de tercerización de choferes"
+    ],
+    "id": "op-abea5de4",
+    "source_kind": "auto",
+    "last_updated": "2026-09-26",
+    "first_seen": "2026-09-26"
+  },
+  {
+    "title": "Pedir una demo de SimpliRoute ADA para la gestión de incidencias de última milla",
+    "context": "SimpliRoute confirmó que ADA, su agente de IA que ya opera en Argentina, decide solo -sin intervención humana previa- si llamar al cliente, contactar al conductor o escalar a un supervisor ante un atraso o un desvío de ruta, y acaba de dar el salto a Estados Unidos.",
+    "action": "Agendar una demo comercial con SimpliRoute para evaluar tercerizar en ADA la primera línea de gestión de incidencias de reparto (avisos de demora, reintento de contacto con el repartidor) y liberar horas del equipo de atención al cliente y coordinación de flota.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://www.revistalogistec.com/index.php/2026/09/22/ada-la-ia-autonoma-chilena-que-revoluciona-la-logistica-en-latinoamerica-y-da-el-salto-a-estados-unidos/",
+    "linked": [
+      "SimpliRoute ADA"
+    ],
+    "id": "op-df3591ac",
+    "source_kind": "auto",
+    "last_updated": "2026-09-26",
+    "first_seen": "2026-09-26"
+  },
+  {
     "title": "Blindar ya la capacidad de fulfillment y última milla para CyberMonday y Black Friday 2026",
     "context": "CACE confirmó que CyberMonday dura 72 horas (2 al 4 de noviembre, con Cyber Week hasta el 8) y que Black Friday tiene su día central el 27 de noviembre, y ya abrió inscripciones para marcas. Con fechas oficiales y ventana de planificación acotada, es el momento de asegurar dotación, stock en depósito y SLA de entrega antes de que se sature la demanda de transporte.",
     "action": "Enviar a los clientes de eCommerce una propuesta de reserva anticipada de capacidad de despacho para la primera semana de noviembre y para fin de mes, con SLA diferenciados para ambos picos.",
@@ -89,36 +119,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-23",
     "first_seen": "2026-09-23"
-  },
-  {
-    "title": "Automatizar el reporte semanal de performance por transportista y cliente con IA",
-    "context": "Esta semana aparecieron dos herramientas que resuelven el mismo problema desde ángulos distintos: el Data Agent de ChatGPT Work, que puede leer planillas de Drive y armar reportes sin un analista dedicado, y el soporte nativo de MCP en n8n, que permite exponer un flujo interno (por ejemplo consultar el estado de un envío) como herramienta para que un agente de IA lo use directamente.",
-    "action": "Elegir un caso piloto acotado -por ejemplo el reporte semanal de SLA por transportista- y probarlo primero con el Data Agent de ChatGPT Work conectado a las planillas de Drive que ya usa el equipo de operaciones.",
-    "type": "producto",
-    "priority": "informativo",
-    "source_url": "https://openai.com/index/put-data-to-work/",
-    "linked": [
-      "Data Agent en ChatGPT Work",
-      "n8n MCP nativo (Server y Client)"
-    ],
-    "id": "op-01d66c00",
-    "source_kind": "auto",
-    "last_updated": "2026-09-23",
-    "first_seen": "2026-09-23"
-  },
-  {
-    "title": "Monitorear el dictamen legislativo del 29/9 sobre crédito y fintech antes de prometer financiamiento en cuotas",
-    "context": "Las comisiones de Diputados avanzan hacia un dictamen el 29 de septiembre sobre más de 60 proyectos que buscan poner topes a las tasas y dar mayor control al BCRA sobre las fintech, en medio de la mora récord de las familias. La Cámara Argentina Fintech ya advirtió que esto podría restringir el acceso al crédito, justo cuando Fixy viene evaluando una oferta de financiamiento en cuotas para cuando el crédito se destrabe.",
-    "action": "Designar a alguien de comercial o management para seguir el dictamen del 29/9 y, si avanza con restricciones al crédito fintech, ajustar a tiempo el mensaje comercial sobre financiamiento en cuotas en vez de asumir que el crédito se va a destrabar.",
-    "type": "estratégica",
-    "priority": "relevante",
-    "source_url": "https://www.lanacion.com.ar/economia/mora-el-congreso-acumula-60-proyectos-para-regular-el-credito-y-las-fintech-advierten-por-el-impacto-nid18092026/",
-    "linked": [
-      "El Congreso argentino avanza hacia un dictamen sobre regulación del crédito y las fintech, con más de 60 proyectos en danza"
-    ],
-    "id": "op-a6e86768",
-    "source_kind": "auto",
-    "last_updated": "2026-09-22",
-    "first_seen": "2026-09-22"
   }
 ]

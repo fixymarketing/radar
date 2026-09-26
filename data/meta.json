@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-25T12:25:41.750Z",
-  "last_updated_ar": "25/09/2026, 09:25",
-  "date": "2026-09-25",
+  "generated_at": "2026-09-26T12:25:55.834Z",
+  "last_updated_ar": "26/09/2026, 09:25",
+  "date": "2026-09-26",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "CACE le puso fecha oficial al desafío logístico más grande del año justo cuando la confianza industrial toca un piso de siete meses, mientras Mercado Pago se encamina a convertirse en banco antes de que termine 2026.",
+  "summary_line": "Camioneros mostró en Arrecifes el riesgo concreto de tercerizar transporte justo cuando SimpliRoute confirma que su IA ya gestiona sola las crisis de última milla en Argentina, mientras Uruguay reconoce que el conflicto portuario de Montevideo ya lleva 44 días de paro en lo que va del año.",
   "counters": {
-    "news_today": 5,
-    "news_total": 43,
-    "events_upcoming": 65,
-    "events_ar_upcoming": 40,
+    "news_today": 2,
+    "news_total": 40,
+    "events_upcoming": 66,
+    "events_ar_upcoming": 41,
     "events_intl_upcoming": 25,
-    "events_later": 31,
+    "events_later": 32,
     "opportunities_open": 8,
     "opportunities_today": 2,
-    "ai_today": 3,
-    "ai_to_try": 56,
+    "ai_today": 4,
+    "ai_to_try": 58,
     "content_ideas": 70,
-    "added_news": 5,
-    "updated_news": 1,
-    "added_events": 0,
-    "updated_events": 4,
-    "added_ai": 3,
-    "archived": 11,
+    "added_news": 2,
+    "updated_news": 0,
+    "added_events": 5,
+    "updated_events": 0,
+    "added_ai": 4,
+    "archived": 9,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,39 +34,32 @@
   },
   "highlights": [
     {
-      "id": "nw-1732c195bc",
+      "id": "nw-67ab6a43ef",
       "kind": "news",
-      "title": "CACE confirmó las fechas de CyberMonday y Black Friday 2026 y abrió las inscripciones",
+      "title": "El Sindicato de Camioneros bloqueó una planta en Arrecifes por un reclamo de tercerización de choferes",
       "priority": "alta",
-      "one_liner": "Con fechas ya oficiales para los dos picos de demanda más grandes del año, arranca la cuenta regresiva para asegurar capacidad de fulfillment y última milla."
+      "one_liner": "Un bloqueo de 48 horas por un reclamo de tercerización de choferes muestra el riesgo gremial concreto de un esquema muy usado en última milla."
     },
     {
-      "id": "nw-9e5b89a10a",
-      "kind": "news",
-      "title": "El BCRA confirmó que Mercado Pago y Revolut serán bancos antes de fin de año",
-      "priority": "alta",
-      "one_liner": "Con fecha y con Revolut sumado a la jugada, se profundiza la disputa entre bancos tradicionales y fintechs por depósitos y crédito al consumo online."
-    },
-    {
-      "id": "nw-16781d1c4a",
-      "kind": "news",
-      "title": "El Gobierno uruguayo presentó una propuesta para destrabar el conflicto en la terminal TCP de Montevideo",
-      "priority": "relevante",
-      "one_liner": "Es el primer movimiento formal para resolver un conflicto portuario que sigue golpeando el comercio exterior de la región."
-    },
-    {
-      "id": "nw-4d99b4af10",
-      "kind": "news",
-      "title": "Mercado Libre suma venta de medicamentos con receta y 20 nuevos centros logísticos en Brasil",
-      "priority": "informativo",
-      "one_liner": "El jugador dominante del eCommerce regional apuesta a verticales de alto margen sostenidas por una red de fulfillment cada vez más densa."
-    },
-    {
-      "id": "ai-anthropic-claude-opus-5-5",
+      "id": "ai-simpliroute-simpliroute-ada",
       "kind": "ai",
-      "title": "Claude Opus 5.5",
-      "priority": "informativo",
-      "one_liner": "El modelo insignia de Anthropic baja de precio y sube velocidad, la misma tecnología que ya usan las herramientas de Claude que sigue Fixy."
+      "title": "SimpliRoute ADA",
+      "priority": "alta",
+      "one_liner": "El agente de IA que ya opera en Argentina ahora decide solo cómo resolver incidencias de reparto y acaba de saltar a Estados Unidos."
+    },
+    {
+      "id": "nw-50253ea7eb",
+      "kind": "news",
+      "title": "Cámaras empresariales de Uruguay advierten que la crisis del Puerto de Montevideo ya lleva 44 días de paros en 2026",
+      "priority": "relevante",
+      "one_liner": "Con datos oficiales de las propias cámaras uruguayas, el conflicto portuario queda confirmado como un problema crónico y no un episodio aislado."
+    },
+    {
+      "id": "ai-microsoft-microsoft-copilot-unificado-home-code-autopilot",
+      "kind": "ai",
+      "title": "Microsoft Copilot unificado (Home, Code, Autopilot)",
+      "priority": "relevante",
+      "one_liner": "Microsoft suma un agente que sigue trabajando solo en segundo plano y una herramienta para armar paneles internos sin programar."
     }
   ]
 }
