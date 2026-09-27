@@ -1398,5 +1398,32 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "CMS Financial Innovation Argentina 2026",
+    "organizer": "CMS Eventos",
+    "date_start": "2026-09-22",
+    "date_end": "2026-09-23",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "country": "Argentina",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Pagos y Fintech",
+    "url": "https://cmseventos.com/evento/fi-arg",
+    "source_url": "https://www.cronista.com/finanzas-mercados/llega-la-22a-edicion-de-cms-financial-innovation-argentina/",
+    "description": "22ª edición del evento de innovación financiera de CMS en Argentina, que conecta bancos, fintechs, startups e inversores para debatir pagos, open finance e IA aplicada a servicios financieros.",
+    "fixy_relevance": "Sirve a Fixy para monitorear tendencias de pagos (billeteras, cobros contra entrega, open finance) que impactan directo en checkout y en la experiencia de cobro en última milla.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-argentina-cms-financial-innovation-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
   }
 ]

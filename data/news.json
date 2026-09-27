@@ -920,5 +920,51 @@
     "source_kind": "auto",
     "last_updated": "2026-09-26",
     "first_seen": "2026-09-26"
+  },
+  {
+    "title": "Uruguay propone subir a 21 los jornales garantizados para destrabar el paro en el puerto de Montevideo",
+    "what_happened": "El Ministerio de Trabajo uruguayo presentó el miércoles 23 de septiembre una propuesta escrita a la empresa Katoen Natie (TCP) y al sindicato portuario SUPRA para destrabar el conflicto en la Terminal Cuenca del Plata: subir de 20 a 21 los jornales mensuales garantizados a partir de mayo de 2027 y mejorar el monto de la partida extraordinaria que se paga al firmar el convenio. El Gobierno convocó a una reunión tripartita definitoria para el lunes 28 de septiembre.",
+    "why_it_matters": "Es el gesto de acercamiento más concreto en semanas de escalada del conflicto portuario uruguayo; si no prospera, SUPRA ya aprobó ir a un paro nacional de hasta 48 horas en todos los puertos del país, lo que volvería a afectar el tránsito de cargas regionales que pasan por Montevideo.",
+    "fixy_impact": null,
+    "category": "Logística",
+    "geo": "LATAM",
+    "source_name": "El Cronista (Uruguay)",
+    "source_url": "https://www.cronista.com/uruguay/actualidad-uy/mtss-propone-aumento-escalonado-de-jornales-y-partida-diferencial-para-intentar-destrabar-el-conflicto-en-tcp/",
+    "published_date": "2026-09-24",
+    "priority": "alta",
+    "tags": [
+      "Puerto Montevideo",
+      "TCP",
+      "Uruguay",
+      "conflicto portuario",
+      "comercio exterior"
+    ],
+    "id": "nw-688db98579",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "title": "Andreani reunió a más de 150 pymes en su ePymes Day 2026, con Meta y Microsoft como invitados",
+    "what_happened": "Andreani realizó el jueves 24 de septiembre una nueva edición de su ePymes Day en Espacio Chutro, Buenos Aires: una jornada gratuita con más de 150 asistentes centrada en herramientas prácticas de ecommerce, marketing digital, inteligencia artificial y logística para emprendedores y pymes, con la participación de representantes de Meta y Microsoft y de referentes del ecosistema emprendedor local.",
+    "why_it_matters": "Muestra cómo un operador logístico compite hoy también por posicionamiento de marca y comunidad entre las pymes de ecommerce, sumando contenido y capacitación como parte de su propuesta de valor y no solo transporte o almacenamiento.",
+    "fixy_impact": "Es una referencia directa de cómo un competidor arma contenido y eventos propios para captar y fidelizar pymes de ecommerce; Fixy podría evaluar una iniciativa similar de capacitación o comunidad para su propia base de clientes.",
+    "category": "Marketing digital",
+    "geo": "Argentina",
+    "source_name": "iProfesional",
+    "source_url": "https://www.iprofesional.com/negocios/465012-jornada-gratuita-emprendedores-andreani-potenciar-pyme-inteligencia-artificial",
+    "published_date": "2026-09-24",
+    "priority": "informativo",
+    "tags": [
+      "Andreani",
+      "pymes",
+      "ecommerce",
+      "marketing digital",
+      "eventos"
+    ],
+    "id": "nw-09c8eadf5b",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-27"
   }
 ]

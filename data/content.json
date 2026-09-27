@@ -1,35 +1,5 @@
 [
   {
-    "topic": "El delito se mudó a la ruta: qué significa para la última milla que los robos a utilitarios se duplicaron en el interior",
-    "why_now": "Un informe de agosto muestra que los robos a vehículos de reparto ya se corrieron del AMBA hacia Córdoba, Mendoza, Santa Fe y Neuquén, justo donde crece la última milla del ecommerce.",
-    "fixy_angle": "Fixy puede mostrar cómo protege sus rutas del interior (rastreo, seguros, protocolos) y usarlo como contenido educativo para pymes que reparten con flota propia.",
-    "formats": [
-      "LinkedIn",
-      "nota"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.informeoperadores.com.ar/2026/08/24/en-julio-se-duplicaron-los-robos-de-vehiculos-en-el-interior-del-pais/",
-    "id": "ct-25b4feb1",
-    "source_kind": "auto",
-    "last_updated": "2026-08-27",
-    "first_seen": "2026-08-27"
-  },
-  {
-    "topic": "Débito automático de cuotas: qué cambia para el crédito que financia las compras online",
-    "why_now": "El 31 de agosto entra en vigencia el sistema del BCRA que permite debitar cuotas impagas directamente de cualquier cuenta del deudor, en un contexto de mora récord en fintech.",
-    "fixy_angle": "Sirve para explicarle a sellers y clientes cómo puede afectar la demanda de compras a cuotas y qué previsibilidad de cobro les da a las billeteras que financian parte del consumo online.",
-    "formats": [
-      "nota",
-      "LinkedIn"
-    ],
-    "priority": "informativo",
-    "source_url": "https://www.ambito.com/finanzas/debuta-un-nuevo-sistema-cobro-deudores-pese-los-reparos-los-bancos-el-bcra-lo-pone-marcha-n6314846",
-    "id": "ct-9b0b1466",
-    "source_kind": "auto",
-    "last_updated": "2026-08-27",
-    "first_seen": "2026-08-27"
-  },
-  {
     "topic": "Los nuevos importadores sin logística: qué significa el boom de indumentaria importada para el fulfillment",
     "why_now": "Las importaciones de bienes de consumo tocaron un récord semestral (US$5.362 millones) con indumentaria +86%, lo que revela un perfil de importador-vendedor nuevo que todavía no resolvió cómo nacionalizar, guardar y distribuir su mercadería.",
     "fixy_angle": "Fixy puede mostrarse como el socio que resuelve justamente esa primera etapa que un importador nuevo no sabe cómo armar, con casos concretos aplicados a indumentaria.",
@@ -1053,5 +1023,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-26",
     "first_seen": "2026-09-26"
+  },
+  {
+    "topic": "El bloqueo de Camioneros en Arrecifes, en criollo: qué significa para quien terceriza el transporte de su última milla",
+    "why_now": "El gremio mantuvo bloqueada 48 horas una planta por un reclamo de tercerización de choferes, justo cuando muchas empresas de eCommerce recién empiezan a planificar la logística de fin de año.",
+    "fixy_angle": "Fixy puede explicar en criollo qué encuadre laboral evita este tipo de conflicto y por qué contratar un operador logístico especializado reduce ese riesgo gremial frente a tercerizar transporte de forma informal.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/politica/2026/09/25/el-sindicato-de-camioneros-mantiene-bloqueada-desde-hace-48-horas-una-empresa-en-arrecifes-y-denunciaron-que-hay-amenazas/",
+    "id": "ct-aedc3e19",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "topic": "Mercado Pago banco: qué significa para las pymes de eCommerce que una billetera se convierta en banco",
+    "why_now": "El BCRA confirmó la fecha para que Mercado Pago (y Revolut) operen como bancos, un cambio de estatus regulatorio inédito en el ecosistema fintech argentino.",
+    "fixy_angle": "Fixy puede explicarles a sus clientes de eCommerce qué cambia en la práctica para el cobro y el financiamiento de sus ventas, un tema que les importa directamente aunque no lo entiendan en detalle.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.infobae.com/economia/2026/09/24/el-banco-central-confirmo-que-mercado-libre-tendra-licencia-para-operar-como-banco-antes-de-fin-de-ano/",
+    "id": "ct-f3877d6b",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "topic": "El chat que dejó de ser gratis: qué hacer antes de que WhatsApp empiece a cobrar mensajes de seguimiento de pedidos",
+    "why_now": "Meta empieza a cobrar los mensajes de servicio de WhatsApp Business que superen el umbral gratuito a partir de octubre, y muchas pymes de eCommerce todavía no lo saben.",
+    "fixy_angle": "Fixy puede compartir con sus clientes una checklist simple para medir su volumen de mensajes y decidir si conviene automatizar las consultas más repetitivas antes de que llegue la factura.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/tecno/2026/09/06/whatsapp-business-cobrara-por-responder-mensajes-en-2026-a-quienes-afecta-y-a-quienes-no/",
+    "id": "ct-feb37c0c",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-27"
   }
 ]

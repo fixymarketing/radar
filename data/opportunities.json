@@ -1,5 +1,51 @@
 [
   {
+    "title": "Cerrar el presupuesto de transporte de los próximos 6 meses con la paritaria de Camioneros ya firmada",
+    "context": "Camioneros cerró un acuerdo salarial de 6,6% semestral más un bono de $1.200.000, alineado con la pauta oficial. Es una de las pocas variables de costo laboral logístico que quedó fija y previsible hasta marzo, justo antes de que arranquen CyberMonday y Black Friday.",
+    "action": "Actualizar ya el presupuesto de transporte y flota tercerizada con el nuevo costo laboral confirmado, antes de cerrar tarifas con clientes para la temporada de fin de año.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/politica/2026/09/18/hugo-moyano-volvio-a-firmar-un-acuerdo-salarial-alineado-con-la-pauta-del-gobierno-que-regira-durante-6-meses/",
+    "linked": [
+      "Camioneros cerró una paritaria de 6,6% semestral y un bono de $1.200.000",
+      "CACE confirmó las fechas de CyberMonday y Black Friday 2026 y abrió las inscripciones"
+    ],
+    "id": "op-071da1ff",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "title": "Auditar el volumen de mensajes de servicio por WhatsApp antes de que Meta empiece a cobrarlos en octubre",
+    "context": "Meta empieza a cobrar los mensajes de servicio de WhatsApp Business que superen los 1.000 gratis por número a partir de octubre. Fixy usa WhatsApp para avisos de seguimiento de pedidos y coordinación de entregas con clientes finales, un volumen que puede superar ese límite en temporada alta.",
+    "action": "Medir cuántos mensajes de servicio manda hoy Fixy por WhatsApp, decidir si conviene repartir el volumen en más números o derivar las consultas repetitivas (\"¿dónde está mi pedido?\") a un bot antes de que empiece a cobrarse, especialmente de cara a CyberMonday.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/tecno/2026/09/06/whatsapp-business-cobrara-por-responder-mensajes-en-2026-a-quienes-afecta-y-a-quienes-no/",
+    "linked": [
+      "WhatsApp Business: cobro de mensajes de servicio desde octubre"
+    ],
+    "id": "op-67f56c78",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "title": "Evaluar qué cambia para el cobro y el financiamiento de Fixy cuando Mercado Pago sea banco",
+    "context": "El BCRA confirmó que Mercado Pago (y Revolut) tendrán licencia bancaria antes de fin de año. Fixy cobra a través del ecosistema de pagos que usan sus clientes de eCommerce, así que el cambio de estatus de Mercado Pago puede modificar plazos de acreditación o condiciones de crédito disponibles.",
+    "action": "Pedir a Mercado Pago información concreta sobre cómo cambian los plazos de acreditación y las condiciones de crédito para cuentas comerciales cuando obtenga la licencia bancaria, y evaluar si conviene renegociar condiciones antes de fin de año.",
+    "type": "estratégica",
+    "priority": "informativo",
+    "source_url": "https://www.infobae.com/economia/2026/09/24/el-banco-central-confirmo-que-mercado-libre-tendra-licencia-para-operar-como-banco-antes-de-fin-de-ano/",
+    "linked": [
+      "El BCRA confirmó que Mercado Pago y Revolut serán bancos antes de fin de año"
+    ],
+    "id": "op-6391d75a",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-27"
+  },
+  {
     "title": "Auditar el encuadre legal de los choferes tercerizados que mueven la mercadería de Fixy",
     "context": "El Sindicato de Camioneros bloqueó 48 horas una planta en Arrecifes para exigir que se pase a relación de dependencia a choferes que hoy trabajan bajo un vínculo comercial tercerizado. El precedente muestra que el gremio puede paralizar por completo una operación logística por este reclamo, algo que golpea directo a esquemas de fleteros o transportistas externos como los que suele usar la última milla.",
     "action": "Revisar con Legales cómo están encuadrados hoy los contratos con fleteros y choferes tercerizados de Fixy, para anticipar el mismo tipo de reclamo antes de que escale a un bloqueo.",
@@ -74,50 +120,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-24",
     "first_seen": "2026-09-24"
-  },
-  {
-    "title": "Explorar un servicio de micro-fulfillment para clientes de quick commerce",
-    "context": "El quick commerce creció 62% en seis meses en América Latina, con PedidosYa a la cabeza, lo que presiona a toda la última milla regional a acortar tiempos de entrega y ganar densidad de puntos de despacho cerca del consumidor.",
-    "action": "Armar una propuesta piloto de micro-fulfillment (un depósito chico de alta rotación) en una zona de alta densidad de AMBA para uno o dos clientes actuales de grocery o quick commerce, y medir el impacto en el tiempo de entrega.",
-    "type": "nueva línea de negocio",
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/america/agencias/2026/09/18/radiografia-del-quick-commerce-las-compras-de-supermercado-online-crecen-un-62-en-latinoamerica/",
-    "linked": [
-      "El quick commerce crece 62% en América Latina y PedidosYa lidera el segmento"
-    ],
-    "id": "op-f6118a16",
-    "source_kind": "auto",
-    "last_updated": "2026-09-24",
-    "first_seen": "2026-09-24"
-  },
-  {
-    "title": "Usar la logística local como argumento de venta frente a Shein y Temu",
-    "context": "Mercado Libre refuerza su estrategia porque la competencia con las plataformas chinas dejó de jugarse solo en el precio y se trasladó a la logística local, que pasa a ser el verdadero campo de batalla del eCommerce argentino.",
-    "action": "Sumar al discurso comercial y a los materiales de venta el argumento de tiempo de entrega y stock local, apuntando a marcas que hoy compiten de cerca con Shein y Temu y necesitan diferenciarse por velocidad.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.iprofesional.com/tecnologia/464619-mercado-libre-refuerza-su-estrategia-ante-el-avance-de-shein-y-temu-en-argentina",
-    "linked": [
-      "Mercado Libre refuerza su estrategia ante el avance de Shein y Temu en Argentina"
-    ],
-    "id": "op-6b2980fd",
-    "source_kind": "auto",
-    "last_updated": "2026-09-24",
-    "first_seen": "2026-09-24"
-  },
-  {
-    "title": "Evaluar el comercio agéntico (MODO + ChatGPT) como un canal nuevo de originación de pedidos",
-    "context": "MODO habilitó esta semana la compra y el pago completos dentro de un plug-in en ChatGPT, con Frávega como primer aliado comercial: es el primer caso de comercio agéntico de punta a punta concretado en la región. Si el modelo escala a más marcas, parte de los pedidos que hoy nacen en una tienda propia o un marketplace podría empezar a originarse dentro de una conversación de IA.",
-    "action": "Sumar a la agenda comercial un relevamiento de qué integración necesitaría un pedido nacido en un asistente de IA para conectarse con el fulfillment de Fixy, y conversar con algún cliente pyme que use MODO o Tiendanube sobre este canal.",
-    "type": "estratégica",
-    "priority": "alta",
-    "source_url": "https://www.iproup.com/finanzas/71779-modo-lanza-comercio-agentico-para-comprar-y-pagar-sin-salir-de-chatgpt",
-    "linked": [
-      "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega"
-    ],
-    "id": "op-3733cd65",
-    "source_kind": "auto",
-    "last_updated": "2026-09-23",
-    "first_seen": "2026-09-23"
   }
 ]

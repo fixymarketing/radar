@@ -1,65 +1,72 @@
 {
-  "generated_at": "2026-09-26T12:25:55.834Z",
-  "last_updated_ar": "26/09/2026, 09:25",
-  "date": "2026-09-26",
+  "generated_at": "2026-09-27T12:28:58.772Z",
+  "last_updated_ar": "27/09/2026, 09:28",
+  "date": "2026-09-27",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Camioneros mostró en Arrecifes el riesgo concreto de tercerizar transporte justo cuando SimpliRoute confirma que su IA ya gestiona sola las crisis de última milla en Argentina, mientras Uruguay reconoce que el conflicto portuario de Montevideo ya lleva 44 días de paro en lo que va del año.",
+  "summary_line": "El gobierno uruguayo hizo su primera oferta concreta para destrabar el conflicto portuario de Montevideo justo cuando MODO estrena el comercio agéntico con Frávega en ChatGPT y el BCRA confirma que Mercado Pago será banco antes de fin de año.",
   "counters": {
     "news_today": 2,
-    "news_total": 40,
-    "events_upcoming": 66,
-    "events_ar_upcoming": 41,
+    "news_total": 42,
+    "events_upcoming": 64,
+    "events_ar_upcoming": 39,
     "events_intl_upcoming": 25,
-    "events_later": 32,
+    "events_later": 34,
     "opportunities_open": 8,
-    "opportunities_today": 2,
-    "ai_today": 4,
+    "opportunities_today": 3,
+    "ai_today": 0,
     "ai_to_try": 58,
-    "content_ideas": 70,
+    "content_ideas": 71,
     "added_news": 2,
     "updated_news": 0,
-    "added_events": 5,
-    "updated_events": 0,
-    "added_ai": 4,
-    "archived": 9,
+    "added_events": 3,
+    "updated_events": 11,
+    "added_ai": 0,
+    "archived": 6,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-argentina-nerdearla-2026",
-    "name": "Nerdearla Argentina 2026",
-    "date_start": "2026-09-22",
-    "city": "CABA",
-    "days_away": 0
+    "id": "ev-bogota-feria-fib-industrial-internacional-2026",
+    "name": "Feria Internacional Industrial de Bogotá (FIB) 2026",
+    "date_start": "2026-09-28",
+    "city": "Bogotá",
+    "days_away": 1
   },
   "highlights": [
     {
-      "id": "nw-67ab6a43ef",
+      "id": "nw-688db98579",
       "kind": "news",
-      "title": "El Sindicato de Camioneros bloqueó una planta en Arrecifes por un reclamo de tercerización de choferes",
+      "title": "Uruguay propone subir a 21 los jornales garantizados para destrabar el paro en el puerto de Montevideo",
       "priority": "alta",
-      "one_liner": "Un bloqueo de 48 horas por un reclamo de tercerización de choferes muestra el riesgo gremial concreto de un esquema muy usado en última milla."
+      "one_liner": "El gobierno uruguayo hizo su primera oferta concreta y por escrito para evitar un nuevo paro nacional de 48 horas que volvería a golpear el tránsito de cargas regionales."
     },
     {
-      "id": "ai-simpliroute-simpliroute-ada",
-      "kind": "ai",
-      "title": "SimpliRoute ADA",
-      "priority": "alta",
-      "one_liner": "El agente de IA que ya opera en Argentina ahora decide solo cómo resolver incidencias de reparto y acaba de saltar a Estados Unidos."
-    },
-    {
-      "id": "nw-50253ea7eb",
+      "id": "nw-04ec1c0b57",
       "kind": "news",
-      "title": "Cámaras empresariales de Uruguay advierten que la crisis del Puerto de Montevideo ya lleva 44 días de paros en 2026",
-      "priority": "relevante",
-      "one_liner": "Con datos oficiales de las propias cámaras uruguayas, el conflicto portuario queda confirmado como un problema crónico y no un episodio aislado."
+      "title": "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega",
+      "priority": "alta",
+      "one_liner": "Es el primer caso regional en que un asistente de IA completa una compra real de punta a punta, lo que presiona a todo el ecosistema de pagos y logística a moverse rápido."
     },
     {
-      "id": "ai-microsoft-microsoft-copilot-unificado-home-code-autopilot",
-      "kind": "ai",
-      "title": "Microsoft Copilot unificado (Home, Code, Autopilot)",
+      "id": "nw-9e5b89a10a",
+      "kind": "news",
+      "title": "El BCRA confirmó que Mercado Pago y Revolut serán bancos antes de fin de año",
       "priority": "relevante",
-      "one_liner": "Microsoft suma un agente que sigue trabajando solo en segundo plano y una herramienta para armar paneles internos sin programar."
+      "one_liner": "Confirma con fecha el cambio de estatus regulatorio más importante del ecosistema fintech argentino, con impacto directo en cómo cobran las pymes de eCommerce."
+    },
+    {
+      "id": "nw-2c10c0d2d6",
+      "kind": "news",
+      "title": "Camioneros cerró una paritaria de 6,6% semestral y un bono de $1.200.000",
+      "priority": "relevante",
+      "one_liner": "Le da a toda la cadena logística previsibilidad de costos laborales por seis meses, justo antes de la temporada alta de fin de año."
+    },
+    {
+      "id": "ai-anthropic-claude-opus-5-5",
+      "kind": "ai",
+      "title": "Claude Opus 5.5",
+      "priority": "relevante",
+      "one_liner": "El modelo detrás de Claude Cowork, Docs y Slides mejora y baja de precio un 40%, sin que Fixy tenga que cambiar de herramienta."
     }
   ]
 }

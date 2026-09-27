@@ -85,23 +85,23 @@
     "date_end": "2026-10-01",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Buenos Aires",
+    "city": "Ciudad Autónoma de Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "CEC - Centro de Convenciones Buenos Aires",
+    "venue": "CEC – Centro de Convenciones Buenos Aires",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Tecnología",
-    "url": "https://ai-lat.com/",
-    "source_url": "https://www.cecbuenosaires.com.ar/ailat26/",
-    "description": "Tercera edición del principal encuentro B2B de inteligencia artificial en Latinoamérica, con una jornada completa y participación de Microsoft, AWS, Google Cloud, Oracle y Mercado Libre, entre otros.",
-    "fixy_relevance": "Fuente directa de casos de aplicación de IA a negocio y operaciones que Fixy puede adaptar a logística, atención al cliente y automatización interna.",
+    "url": "https://www.ai-lat.com/",
+    "source_url": "https://www.infobae.com/economia/2026/09/24/ailat26-el-encuentro-que-prepara-a-las-organizaciones-para-el-proximo-cambio-impulsado-por-la-ia/",
+    "description": "Tercera edición del evento corporativo de IA en LatAm, con más de 35 sesiones y speakers de Google, Microsoft, TikTok, SAP y Nvidia.",
+    "fixy_relevance": "Oportunidad de detectar casos concretos de IA aplicada a operaciones, atención al cliente y logística que Fixy podría adoptar.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-ai-ailat26-argentina-in-latam-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-27",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -141,6 +141,17 @@
           "description",
           "fixy_relevance"
         ]
+      },
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "city",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
@@ -155,20 +166,20 @@
     "city": "Mendoza",
     "province": "Mendoza",
     "country": "Argentina",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
+    "venue": "Complejo Naves y Báscula (Las Cubas 201)",
+    "venue_confirmed": true,
     "format": "presencial",
     "category": "Emprendimiento",
-    "url": "https://eventos.endeavor.org.ar/event/328",
-    "source_url": "https://ecocuyo.com/nota/150434/estas-buscando-capital-para-hacer-crecer-tu-startup-nbsp-conecta-inversor-llega-a-endeavor-cuyo-2026",
-    "description": "Encuentro emprendedor de la región Cuyo (Mendoza, San Juan, San Luis) organizado por Endeavor, con el espacio 'Conecta Inversor' para vincular startups en crecimiento con fondos de inversión.",
-    "fixy_relevance": "Punto de contacto con emprendedores y startups de Cuyo que buscan escalar operaciones de eCommerce, un segmento potencial para los servicios de fulfillment de Fixy en el oeste del país.",
+    "url": "https://www.endeavor.org.ar/",
+    "source_url": "https://ecocuyo.com/nota/150499/la-proxima-experiencia-endeavor-en-mendoza-ya-tiene-fecha-y-lugar",
+    "description": "Jornada de Endeavor en Mendoza con masterclasses, mentores de la Red Endeavor e inversores, orientada a conectar al ecosistema emprendedor de Cuyo.",
+    "fixy_relevance": "Vínculo con emprendedores y empresas en expansión de la región Cuyo, potenciales clientes de fulfillment y logística de eCommerce.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-cuyo-endeavor-experiencia-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-20",
+    "last_updated": "2026-09-27",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -179,6 +190,17 @@
           "description",
           "fixy_relevance",
           "priority"
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "venue",
+          "venue_confirmed",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
         ]
       }
     ]
@@ -441,40 +463,30 @@
   {
     "scope": "ar",
     "name": "CyberMonday 2026",
-    "organizer": "CACE (Cámara Argentina de Comercio Electrónico)",
+    "organizer": "CACE - Cámara Argentina de Comercio Electrónico",
     "date_start": "2026-11-02",
     "date_end": "2026-11-04",
     "date_confirmed": true,
-    "date_note": "CACE confirmó que el evento dura 72 horas, del lunes 2 al miércoles 4 de noviembre (no es un solo día).",
-    "city": "CABA",
+    "date_note": "La CACE confirmó oficialmente el 2 al 4 de noviembre como las 72 horas de CyberMonday, aunque el sitio cybermonday.com.ar muestra 3, 4 y 5 de noviembre. Del 5 al 8 de noviembre, además, varias marcas extienden beneficios bajo el formato \"Cyber Week\".",
+    "city": "Ciudad Autónoma de Buenos Aires",
     "province": "Buenos Aires",
     "country": "Argentina",
-    "venue": "Online (evento digital nacional)",
+    "venue": "Online (todo el país)",
     "venue_confirmed": true,
     "format": "virtual",
     "category": "eCommerce",
     "url": "https://www.cybermonday.com.ar/",
     "source_url": "https://www.ambito.com/economia/confirmaron-las-fechas-del-black-friday-y-cyber-monday-2026-n6326087",
-    "description": "CACE confirmó que CyberMonday 2026 se extiende 72 horas, del 2 al 4 de noviembre, con descuentos y facilidades de pago en sitios adheridos.",
-    "fixy_relevance": "Es el pico de demanda de despachos y última milla del año junto con Black Friday: define dotación, stock en depósito y SLA de entrega que Fixy debe planificar con anticipación.",
+    "description": "Evento anual de descuentos online organizado por CACE, con más de 900 marcas adheridas y precios diferenciales durante 72 horas.",
+    "fixy_relevance": "Pico de demanda de eCommerce y última milla: clave para planificar capacidad operativa, stock y despachos de Fixy con anticipación.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cybermonday-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-27",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-04",
-        "fields": [
-          "city",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-09-05",
         "fields": [
@@ -518,13 +530,24 @@
           "description",
           "fixy_relevance"
         ]
+      },
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "organizer",
+          "date_note",
+          "city",
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
   {
     "scope": "ar",
     "name": "ARLOG - XXXIII Encuentro Nacional de Logística Empresaria",
-    "organizer": "ARLOG (Asociación Argentina de Logística Empresaria)",
+    "organizer": "ARLOG - Asociación Argentina de Logística Empresaria",
     "date_start": "2026-11-12",
     "date_end": "2026-11-12",
     "date_confirmed": true,
@@ -532,30 +555,22 @@
     "city": "Escobar",
     "province": "Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro de Capacitación Profesional para el Transporte \"Rogelio Cavalieri Iribarne\" (RCI-FADEEAC)",
+    "venue": "Predio FPT/FADEEAC",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
-    "url": "https://fena.org.ar/2026/04/20/xxxiii-encuentro-nacional-de-logistica-arlog/",
-    "source_url": "https://autoexecutive.com.ar/blog/2026/05/21/arlog-tiene-nuevo-presidente-y-confirmo-la-fecha-del-congreso-de-logistica-empresaria-2026/",
-    "description": "Bajo el lema \"Argentina Logística\", el encuentro se centrará en la estrategia y los habilitadores para la nueva supply chain: innovación, digitalización e integración entre actores del sector.",
-    "fixy_relevance": "Es el principal congreso de logística empresaria del país; sirve a Fixy para benchmarking con pares del sector, contacto con proveedores tecnológicos y detección de tendencias en supply chain aplicables a fulfillment y última milla.",
+    "url": "https://arlog.org/",
+    "source_url": "https://aaaci.org.ar/arlog-confirmo-el-xxxiii-encuentro-nacional-de-logistica-empresaria/",
+    "description": "Encuentro anual de ARLOG bajo el lema \"Argentina Logística: la estrategia y los habilitadores necesarios para la nueva Supply Chain\".",
+    "fixy_relevance": "Evento central del sector logístico argentino: referentes de supply chain, transporte y operadores como Fixy pueden hacer networking directo y detectar tendencias del sector.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-arlog-empresaria-encuentro-logistica-nacional-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-10",
+    "last_updated": "2026-09-27",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-04",
-        "fields": [
-          "venue",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-09-05",
         "fields": [
@@ -587,6 +602,17 @@
       {
         "date": "2026-09-10",
         "fields": [
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "organizer",
           "venue",
           "url",
           "source_url",
@@ -1571,23 +1597,23 @@
     "date_end": "2026-10-09",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Buenos Aires",
+    "city": "Ciudad Autónoma de Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "CEC - Centro de Convenciones Buenos Aires",
+    "venue": "CEC – Centro de Convenciones Buenos Aires",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Tecnología",
-    "url": "https://ekoparty.org/ekoparty-buenos-aires-2026/",
+    "url": "https://ekoparty.org/",
     "source_url": "https://www.cecbuenosaires.com.ar/ekoparty-security-conference-2026-llega-al-cec-buenos-aires/",
-    "description": "22ª edición de la conferencia de ciberseguridad más grande de América Latina, con más de 10.000 asistentes esperados y tres días de actividades.",
-    "fixy_relevance": "Relevante para evaluar riesgos de ciberseguridad en plataformas de eCommerce y sistemas logísticos, y conectar con proveedores de seguridad informática.",
+    "description": "22ª edición de la conferencia de seguridad informática más grande de Latinoamérica, con charlas técnicas, workshops, CTF y más de 30 comunidades participantes.",
+    "fixy_relevance": "Sirve para entender riesgos de ciberseguridad en pagos y logística online, y para hacer networking con especialistas en protección de datos de clientes.",
     "justification_type": null,
-    "priority": "informativo",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-conference-ekoparty-security-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-27",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -1597,6 +1623,17 @@
           "venue",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "city",
+          "venue",
+          "url",
+          "description",
+          "fixy_relevance",
+          "priority"
         ]
       }
     ]
@@ -1985,7 +2022,7 @@
   {
     "scope": "intl",
     "name": "WMX Americas 2027",
-    "organizer": "Triangle Management Services (World Mail & Express)",
+    "organizer": "Triangle Management Services Ltd.",
     "date_start": "2027-02-15",
     "date_end": "2027-02-17",
     "date_confirmed": true,
@@ -1998,16 +2035,29 @@
     "format": "presencial",
     "category": "Logística",
     "url": "https://www.wmxamericas.com/",
-    "source_url": "https://www.eventseye.com/fairs/f-world-mail-express-americas-7288-1.html",
-    "description": "Conferencia anual que reúne a operadores postales, couriers y actores de última milla de toda América para discutir última milla, cross-border y eficiencias de eCommerce.",
-    "fixy_relevance": "Es el principal punto de encuentro de la industria postal y de paquetería de las Américas; permite a Fixy hacer benchmarking de última milla, conectar con actores cross-border y evaluar alianzas para expansión regional.",
-    "justification_type": "viaje",
-    "priority": "alta",
+    "source_url": "https://www.wmxamericas.com/february-2027-holding-page/",
+    "description": "Conferencia internacional para correos y operadores de parcel express de las Américas, con ejes en última milla, cross-border y eficiencia de eCommerce.",
+    "fixy_relevance": "Ya lo teníamos en agenda; ahora se confirma la sede (Fontainebleau Miami Beach) y las fechas exactas. Reúne a más de 300 ejecutivos senior de correos y parcel express de la región, un buen lugar de benchmarking de última milla y contactos de cross-border.",
+    "justification_type": "aprendizaje",
+    "priority": "relevante",
     "beyond_90": true,
     "id": "ev-americas-wmx-2027",
     "source_kind": "auto",
-    "last_updated": "2026-08-21",
-    "first_seen": "2026-08-21"
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-08-21",
+    "change_log": [
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "organizer",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -2039,29 +2089,45 @@
   {
     "scope": "intl",
     "name": "FIATA World Congress 2026",
-    "organizer": "FIATA (Federación Internacional de Asociaciones de Transitarios)",
+    "organizer": "FIATA (Federación Internacional de Asociaciones de Agentes de Carga), con Fedespedi como anfitrión local",
     "date_start": "2026-10-06",
     "date_end": "2026-10-09",
     "date_confirmed": true,
-    "date_note": null,
+    "date_note": "Algunas fuentes indican del 6 al 9 de octubre y otras del 6 al 10; la sede en Milán está confirmada por el sitio oficial del congreso.",
     "city": "Milán",
     "province": null,
     "country": "Italia",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
+    "venue": "Allianz MiCo (Milano Convention Centre)",
+    "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
-    "url": "https://fiata.org/fiata-world-congress/",
-    "source_url": "https://www.itf-oecd.org/2026-fiata-world-congress",
-    "description": "Congreso mundial de FIATA que en 2026 celebra el centenario de la organización, bajo el lema 'Empowering Global Logistics', con referentes del transporte y la carga internacional.",
-    "fixy_relevance": "Punto de networking institucional con la comunidad global de forwarders y transportistas; útil para Fixy por sus operaciones cross-border y de comercio exterior.",
-    "justification_type": "networking",
+    "url": "https://fiata2026.com/",
+    "source_url": "https://fiata2026.com/venue/",
+    "description": "El congreso mundial de FIATA celebra el centenario de la federación en Milán, reuniendo a la comunidad global de agentes de carga y forwarders.",
+    "fixy_relevance": "Ya lo teníamos en agenda sin sede confirmada; ahora se confirma que es en Milán, Italia (no en Panamá como en ediciones anteriores). Es el mayor encuentro mundial de forwarders y sirve para monitorear tendencias de comercio exterior que después impactan en los costos y tiempos de importación de los eCommerce que opera Fixy.",
+    "justification_type": "aprendizaje",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-congress-fiata-world-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-21",
-    "first_seen": "2026-08-21"
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-08-21",
+    "change_log": [
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "organizer",
+          "date_note",
+          "venue",
+          "venue_confirmed",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -2171,12 +2237,12 @@
   {
     "scope": "intl",
     "name": "GITEX AI LATAM 2027",
-    "organizer": "DWTC (Dubai World Trade Centre) e Informa, con el apoyo de la Municipalidad de São Paulo",
+    "organizer": "Dubai World Trade Centre (DWTC) y KAOUN International, junto con la Agencia de Desarrollo de San Pablo",
     "date_start": "2027-03-16",
     "date_end": "2027-03-17",
     "date_confirmed": true,
     "date_note": null,
-    "city": "São Paulo",
+    "city": "San Pablo",
     "province": null,
     "country": "Brasil",
     "venue": "Anhembi Convention Center",
@@ -2184,16 +2250,30 @@
     "format": "presencial",
     "category": "Tecnología",
     "url": "https://www.gitexlatam.com/",
-    "source_url": "https://www.eventbrite.com/e/gitex-ai-latam-tickets-1981552715514",
-    "description": "Primera edición latinoamericana de GITEX, el megaevento global de tecnología, con foco en inteligencia artificial, ciberseguridad, cloud e infraestructura de datos, y más de 35.000 ejecutivos tech esperados.",
-    "fixy_relevance": "No es un evento de eCommerce o logística en sí, pero funciona como termómetro regional de la agenda de IA aplicada a retail y cadena de suministro, con inversores y grandes empresas tech presentes en Brasil; vale la pena vigilarlo como fuente de aprendizaje temprano, más que como prioridad de viaje.",
-    "justification_type": "aprendizaje",
-    "priority": "informativo",
+    "source_url": "https://www.gitexlatam.com/newsroom/gitex-expands-to-latin-america",
+    "description": "Primera edición latinoamericana de GITEX, la franquicia de eventos de tecnología e IA nacida en Dubái, con sede confirmada en San Pablo.",
+    "fixy_relevance": "Ya lo teníamos en agenda; ahora se confirma sede y fecha exacta. Es la primera vez que GITEX llega a la región, con más de 35.000 asistentes esperados entre ejecutivos de tecnología, startups e inversores: una oportunidad de conexión con el ecosistema tech de LATAM y de detectar herramientas de IA aplicables a la operación de Fixy.",
+    "justification_type": "expansión regional",
+    "priority": "relevante",
     "beyond_90": true,
     "id": "ev-ai-gitex-latam-2027",
     "source_kind": "auto",
-    "last_updated": "2026-08-22",
-    "first_seen": "2026-08-22"
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-08-22",
+    "change_log": [
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "organizer",
+          "city",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -2225,7 +2305,7 @@
   {
     "scope": "ar",
     "name": "LABITCONF 26",
-    "organizer": "Bitcoin Argentina / LABITCONF",
+    "organizer": "LABITCONF",
     "date_start": "2026-10-30",
     "date_end": "2026-10-31",
     "date_confirmed": true,
@@ -2233,31 +2313,22 @@
     "city": "Ciudad Autónoma de Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "Costa Salguero",
+    "venue": "BAFerial (ex Costa Salguero)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Pagos y Fintech",
     "url": "https://www.labitconf.com/",
     "source_url": "https://www.diariobitcoin.com/argentina/regresa-labitconf-2026-con-su-edicion-hodl-a-la-capital-argentina-este-30-y-31-de-octubre/",
-    "description": "LABITCONF 26, edición HODL, es la conferencia de Bitcoin y blockchain más grande de habla hispana; se realiza el 30 y 31 de octubre en Costa Salguero, con un evento previo el 29/10 para tickets premium.",
-    "fixy_relevance": "Sirve para monitorear la adopción de cripto y stablecoins en pagos, un tema que puede afectar los medios de pago del eCommerce al que Fixy le hace fulfillment.",
+    "description": "14ª edición de la conferencia cripto más grande de Latinoamérica, con foco en Bitcoin, el concepto HODL e inteligencia artificial aplicada a finanzas.",
+    "fixy_relevance": "Permite seguir de cerca la adopción de cripto y stablecoins como medio de pago, relevante para la estrategia de cobros de Fixy y de sus clientes de eCommerce.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-labitconf-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-19",
+    "last_updated": "2026-09-27",
     "first_seen": "2026-08-23",
     "change_log": [
-      {
-        "date": "2026-08-26",
-        "fields": [
-          "organizer",
-          "venue",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-27",
         "fields": [
@@ -2302,6 +2373,15 @@
           "city",
           "venue",
           "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "organizer",
+          "venue",
           "description",
           "fixy_relevance"
         ]
@@ -2892,33 +2972,6 @@
     ]
   },
   {
-    "scope": "ar",
-    "name": "CMS Financial Innovation Argentina 2026",
-    "organizer": "CMS Eventos",
-    "date_start": "2026-09-22",
-    "date_end": "2026-09-23",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
-    "country": "Argentina",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
-    "format": "presencial",
-    "category": "Pagos y Fintech",
-    "url": "https://cmseventos.com/evento/fi-arg",
-    "source_url": "https://www.cronista.com/finanzas-mercados/llega-la-22a-edicion-de-cms-financial-innovation-argentina/",
-    "description": "22ª edición del evento de innovación financiera de CMS en Argentina, que conecta bancos, fintechs, startups e inversores para debatir pagos, open finance e IA aplicada a servicios financieros.",
-    "fixy_relevance": "Sirve a Fixy para monitorear tendencias de pagos (billeteras, cobros contra entrega, open finance) que impactan directo en checkout y en la experiencia de cobro en última milla.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-argentina-cms-financial-innovation-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-28",
-    "first_seen": "2026-08-28"
-  },
-  {
     "scope": "intl",
     "name": "Movimat 2026",
     "organizer": "RX Brazil",
@@ -3134,23 +3187,23 @@
     "date_end": "2026-10-04",
     "date_confirmed": true,
     "date_note": null,
-    "city": "Buenos Aires",
+    "city": "Ciudad Autónoma de Buenos Aires",
     "province": "CABA",
     "country": "Argentina",
-    "venue": "Hotel Hilton Buenos Aires",
+    "venue": "Hilton Buenos Aires",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Pagos y Fintech",
     "url": "https://moneyexpoglobal.com/argentina/en",
-    "source_url": "https://moneyexpoglobal.com/argentina/en",
-    "description": "Feria internacional de medios de pago, banca digital y fintech, con expositores y charlas sobre innovación financiera aplicada al comercio en Argentina.",
-    "fixy_relevance": "Los medios de pago y la banca digital condicionan cómo cobran las tiendas online que Fixy atiende; sirve para monitorear nuevas soluciones de checkout, cuotas y financiamiento para pymes de eCommerce.",
+    "source_url": "https://tradersunion.com/news/brokers-news/show/3470099-money-expo-argentina/",
+    "description": "Primera edición en Buenos Aires de este evento internacional de trading y fintech, con más de 3.000 asistentes, 40 expositores y 40 speakers esperados.",
+    "fixy_relevance": "Espacio para monitorear tendencias de pagos digitales y fintech que pueden impactar en los medios de cobro del eCommerce.",
     "justification_type": null,
-    "priority": "relevante",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-argentina-money-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-04",
+    "last_updated": "2026-09-27",
     "first_seen": "2026-09-01",
     "change_log": [
       {
@@ -3158,6 +3211,17 @@
         "fields": [
           "organizer",
           "province",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "city",
           "venue",
           "source_url",
           "description",
@@ -3613,7 +3677,7 @@
   {
     "scope": "ar",
     "name": "62° Coloquio de IDEA 2026",
-    "organizer": "IDEA (Instituto para el Desarrollo Empresarial de la Argentina)",
+    "organizer": "IDEA - Instituto para el Desarrollo Empresarial de la Argentina",
     "date_start": "2026-09-30",
     "date_end": "2026-10-02",
     "date_confirmed": true,
@@ -3621,21 +3685,35 @@
     "city": "Mar del Plata",
     "province": "Buenos Aires",
     "country": "Argentina",
-    "venue": "Hotel Sheraton Mar del Plata (Leandro N. Alem 4221)",
+    "venue": "Hotel Sheraton Mar del Plata",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Innovación",
-    "url": "https://coloquio.idea.org.ar/",
-    "source_url": "https://www.lacapitalmdp.com/con-milei-invitado-idea-presento-el-coloquio-2026-en-mar-del-plata/",
-    "description": "Encuentro empresarial anual de IDEA bajo el lema 'Invirtiendo la historia. 20 años: de promesa a potencia', con más de 1000 referentes empresariales, gubernamentales y políticos debatiendo el mundo, estabilidad, competitividad y desarrollo.",
-    "fixy_relevance": "Da contexto macroeconómico y de política pública (competitividad, comercio exterior, infraestructura) útil para la planificación estratégica de Fixy, aunque no es un evento sectorial de eCommerce o logística.",
+    "url": "https://caem.com.ar/evento/62-coloquio-idea-invirtiendo-la-historia/",
+    "source_url": "https://www.elmarplatense.com/mar-del-plata-sera-sede-del-62-coloquio-de-idea-milei-figura-entre-los-invitados",
+    "description": "Edición 62 del Coloquio de IDEA, bajo el lema \"Invirtiendo la historia. 20 años: de promesa a potencia\", con más de 1.000 referentes empresariales, políticos y de gobierno.",
+    "fixy_relevance": "Panorama macro y de negocios de referencia para entender el clima de inversión y consumo que afecta al eCommerce y la logística en Argentina.",
     "justification_type": null,
-    "priority": "informativo",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-coloquio-idea-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-07",
-    "first_seen": "2026-09-07"
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-07",
+    "change_log": [
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "organizer",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -4589,5 +4667,86 @@
     "source_kind": "auto",
     "last_updated": "2026-09-26",
     "first_seen": "2026-09-26"
+  },
+  {
+    "scope": "ar",
+    "name": "Finance Security Forum Buenos Aires 2026",
+    "organizer": "Finance Security Forum",
+    "date_start": null,
+    "date_end": null,
+    "date_confirmed": false,
+    "date_note": "La agenda tenía registrada la fecha 30/09/2026, pero fuentes de septiembre de 2026 (Frecuencia Money, CriptoNoticias) ubican la parada de Buenos Aires de este forum itinerante en \"noviembre de 2026\", dentro de una gira regional que también incluye Ciudad de México y Bogotá. No encontramos un día exacto ni sede confirmados: hay una discrepancia real entre ambas fechas que conviene chequear en la fu",
+    "city": "Por confirmar",
+    "province": null,
+    "country": "Argentina",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "Por confirmar",
+    "category": "Pagos y Fintech",
+    "url": "https://financesecurityforum.com/",
+    "source_url": "https://noticias.mobilemoneylatam.com/eventos-2026-encuentros-clave-del-ecosistema-financiero/",
+    "description": "Encuentro exclusivo (por invitación o acceso con perfil) sobre seguridad financiera, fraude con IA, identidad digital y protección del ecosistema cripto, dirigido a bancos y fintechs.",
+    "fixy_relevance": "Relevante para entender riesgos de fraude y seguridad en pagos digitales aplicados al eCommerce, aunque conviene confirmar la fecha real antes de priorizarlo en la agenda.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-aires-buenos-finance-forum-security-La a",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "scope": "intl",
+    "name": "CSCMP EDGE 2027",
+    "organizer": "CSCMP (Council of Supply Chain Management Professionals)",
+    "date_start": "2027-09-26",
+    "date_end": "2027-09-29",
+    "date_confirmed": true,
+    "date_note": "La sede en Estados Unidos todavía no fue anunciada por el organizador.",
+    "city": "Por confirmar",
+    "province": null,
+    "country": "Estados Unidos",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.cscmpedge.org/",
+    "source_url": "https://www.supplychaindesk.com/events/cscmp-edge-2027/",
+    "description": "Congreso anual de CSCMP, uno de los mayores encuentros de supply chain del mundo, con casos y tendencias de logística y cadena de suministro.",
+    "fixy_relevance": "Es una referencia global de tendencias de logística y cadena de suministro que puede anticipar cambios relevantes para la operación de Fixy, aunque todavía falta que se confirme la sede exacta en Estados Unidos.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": true,
+    "id": "ev-cscmp-edge-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "scope": "intl",
+    "name": "TPM Annual Conference 2027",
+    "organizer": "S&P Global, a través del Journal of Commerce (JOC)",
+    "date_start": "2027-02-28",
+    "date_end": "2027-03-03",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Long Beach",
+    "province": null,
+    "country": "Estados Unidos",
+    "venue": "Long Beach Convention & Entertainment Center",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://tpm.joc.com/",
+    "source_url": "https://tpm.joc.com/en/about",
+    "description": "Conferencia de referencia mundial sobre transporte marítimo transpacífico y cadena de suministro global, organizada por S&P Global a través del Journal of Commerce.",
+    "fixy_relevance": "Da visibilidad temprana sobre tarifas, capacidad de contenedores y tendencias del transporte marítimo internacional que impactan directamente en los costos de importación y abastecimiento de los eCommerce que opera Fixy.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": true,
+    "id": "ev-annual-conference-tpm-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-27"
   }
 ]

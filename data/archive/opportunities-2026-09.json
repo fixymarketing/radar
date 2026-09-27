@@ -781,5 +781,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-22",
     "first_seen": "2026-09-22"
+  },
+  {
+    "title": "Explorar un servicio de micro-fulfillment para clientes de quick commerce",
+    "context": "El quick commerce creció 62% en seis meses en América Latina, con PedidosYa a la cabeza, lo que presiona a toda la última milla regional a acortar tiempos de entrega y ganar densidad de puntos de despacho cerca del consumidor.",
+    "action": "Armar una propuesta piloto de micro-fulfillment (un depósito chico de alta rotación) en una zona de alta densidad de AMBA para uno o dos clientes actuales de grocery o quick commerce, y medir el impacto en el tiempo de entrega.",
+    "type": "nueva línea de negocio",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/america/agencias/2026/09/18/radiografia-del-quick-commerce-las-compras-de-supermercado-online-crecen-un-62-en-latinoamerica/",
+    "linked": [
+      "El quick commerce crece 62% en América Latina y PedidosYa lidera el segmento"
+    ],
+    "id": "op-f6118a16",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "title": "Usar la logística local como argumento de venta frente a Shein y Temu",
+    "context": "Mercado Libre refuerza su estrategia porque la competencia con las plataformas chinas dejó de jugarse solo en el precio y se trasladó a la logística local, que pasa a ser el verdadero campo de batalla del eCommerce argentino.",
+    "action": "Sumar al discurso comercial y a los materiales de venta el argumento de tiempo de entrega y stock local, apuntando a marcas que hoy compiten de cerca con Shein y Temu y necesitan diferenciarse por velocidad.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.iprofesional.com/tecnologia/464619-mercado-libre-refuerza-su-estrategia-ante-el-avance-de-shein-y-temu-en-argentina",
+    "linked": [
+      "Mercado Libre refuerza su estrategia ante el avance de Shein y Temu en Argentina"
+    ],
+    "id": "op-6b2980fd",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "title": "Evaluar el comercio agéntico (MODO + ChatGPT) como un canal nuevo de originación de pedidos",
+    "context": "MODO habilitó esta semana la compra y el pago completos dentro de un plug-in en ChatGPT, con Frávega como primer aliado comercial: es el primer caso de comercio agéntico de punta a punta concretado en la región. Si el modelo escala a más marcas, parte de los pedidos que hoy nacen en una tienda propia o un marketplace podría empezar a originarse dentro de una conversación de IA.",
+    "action": "Sumar a la agenda comercial un relevamiento de qué integración necesitaría un pedido nacido en un asistente de IA para conectarse con el fulfillment de Fixy, y conversar con algún cliente pyme que use MODO o Tiendanube sobre este canal.",
+    "type": "estratégica",
+    "priority": "alta",
+    "source_url": "https://www.iproup.com/finanzas/71779-modo-lanza-comercio-agentico-para-comprar-y-pagar-sin-salir-de-chatgpt",
+    "linked": [
+      "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega"
+    ],
+    "id": "op-3733cd65",
+    "source_kind": "auto",
+    "last_updated": "2026-09-23",
+    "first_seen": "2026-09-23"
   }
 ]

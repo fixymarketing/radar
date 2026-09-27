@@ -22,28 +22,6 @@
     "first_seen": "2026-09-24"
   },
   {
-    "name": "Reception",
-    "vendor": "ElevenLabs",
-    "what_it_is": "Agente de voz con IA que contesta llamadas telefónicas las 24 horas, responde preguntas frecuentes del negocio y agenda turnos en un calendario, sin necesidad de desarrollo técnico.",
-    "what_changed": "ElevenLabs lo presentó el 16 de septiembre de 2026 como un producto listo para usar: escanea el sitio web del negocio para configurarse solo (servicios, precios, horarios, datos de contacto) y entrega un número de teléfono dedicado en minutos.",
-    "fixy_use": "Fixy podría usarlo como primera línea telefónica automática para consultas frecuentes de e-commerce (estado de un envío, horarios de atención, cómo hacer un reclamo), derivando a una persona solo los casos que lo requieran, sin sumar personal para cubrir el teléfono fuera de horario.",
-    "verdict": "probar",
-    "verdict_reason": "Es barato, rápido de configurar, funciona en español y resuelve un problema concreto de atención telefónica fuera de horario para un equipo chico.",
-    "categories": [
-      "Operaciones",
-      "Productividad",
-      "Automatización"
-    ],
-    "pricing_note": "pago — planes desde USD 29, 79 y 199 por mes, con prueba gratuita de 14 días",
-    "source_url": "https://elevenlabs.io/blog/reception",
-    "published_date": "2026-09-16",
-    "priority": "alta",
-    "id": "ai-elevenlabs-reception",
-    "source_kind": "auto",
-    "last_updated": "2026-09-24",
-    "first_seen": "2026-09-24"
-  },
-  {
     "name": "Claude para pequeñas empresas: 43 flujos de trabajo y 27 integraciones",
     "vendor": "Anthropic",
     "what_it_is": "Es un complemento de Claude armado para pymes, con flujos de trabajo prearmados de finanzas, marketing, atención al cliente y operaciones, conectado directo a las apps que la empresa ya usa.",
@@ -488,6 +466,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-24",
     "first_seen": "2026-09-24"
+  },
+  {
+    "name": "Claude Opus 5.5",
+    "vendor": "Anthropic",
+    "what_it_is": "Nuevo modelo insignia de la familia Claude, pensado para tareas de conocimiento y codificación agéntica de larga duración, con ventana de contexto de 1 millón de tokens.",
+    "what_changed": "Lanzado el 22 de septiembre de 2026, Anthropic dice que rinde al nivel de los mejores modelos de la competencia pero cuesta un 40% menos que Opus 5 en uso típico y genera respuestas más de un 30% más rápido.",
+    "fixy_use": "Es el modelo que corre atrás de Claude Cowork, Docs y Slides que Fixy ya viene evaluando: con este upgrade esas herramientas pueden procesar documentos más largos (por ejemplo un mes completo de reclamos, rutas o reportes de operaciones) sin perder contexto, y a menor costo por uso. No hace falta ninguna acción si Fixy ya usa Claude, pero conviene tenerlo en cuenta para análisis más pesados antes de sumar otra herramienta.",
+    "verdict": "seguir",
+    "verdict_reason": "Mejora directa y sin fricción de una herramienta que Fixy ya tiene en el radar, sin necesidad de migrar de plataforma.",
+    "categories": [
+      "Productividad",
+      "Análisis",
+      "Automatización"
+    ],
+    "pricing_note": "pago (parte de los planes de Claude y de la API; más barato que la versión anterior, USD 4 / USD 20 por millón de tokens de entrada/salida)",
+    "source_url": "https://www.anthropic.com/claude-opus-5-5",
+    "published_date": "2026-09-22",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-opus-5-5",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-25"
   },
   {
     "name": "Perplexity Connectors y memoria mejorada",
@@ -1804,28 +1804,6 @@
     "first_seen": "2026-09-24"
   },
   {
-    "name": "Claude Opus 5.5",
-    "vendor": "Anthropic",
-    "what_it_is": "Es el nuevo modelo insignia de Anthropic, el motor que corre detrás de Claude Chat, Claude Code y Claude Cowork para las tareas más exigentes.",
-    "what_changed": "Lanzado el 22 de septiembre de 2026, cuesta un 40% menos que Opus 5 en tareas típicas, responde más del 30% más rápido y llega al nivel de Claude Fable 5.1 en la mayoría de los trabajos, con precios de 4 y 20 dólares por millón de tokens de entrada y salida.",
-    "fixy_use": "Como Fixy ya usa herramientas de Claude (Cowork, Docs, Slides, los flujos para pymes), esta baja de costo permite correr más automatizaciones o agentes internos con el modelo más potente sin que suba el gasto en IA, por ejemplo para analizar datos de operaciones o redactar reportes largos para management.",
-    "verdict": "seguir",
-    "verdict_reason": "Es una mejora de motor que baja costos y sube velocidad, útil para lo que Fixy ya usa, pero no una capacidad nueva por sí sola.",
-    "categories": [
-      "Análisis",
-      "Productividad",
-      "Management"
-    ],
-    "pricing_note": "pago - 4 USD por millón de tokens de entrada y 20 USD de salida en la API, 20% menos que Opus 5",
-    "source_url": "https://www.anthropic.com/news/claude-opus-5-5",
-    "published_date": "2026-09-22",
-    "priority": "informativo",
-    "id": "ai-anthropic-claude-opus-5-5",
-    "source_kind": "auto",
-    "last_updated": "2026-09-25",
-    "first_seen": "2026-09-25"
-  },
-  {
     "name": "Zendesk: rastreador web renovado y más conectores de contenido",
     "vendor": "Zendesk",
     "what_it_is": "El rastreador web y los conectores que alimentan la base de conocimiento de los agentes de IA de Zendesk con contenido de sitios propios y fuentes externas.",
@@ -1955,6 +1933,27 @@
     "source_kind": "auto",
     "last_updated": "2026-09-21",
     "first_seen": "2026-09-21"
+  },
+  {
+    "name": "Reception",
+    "vendor": "ElevenLabs",
+    "what_it_is": "Agente telefónico con IA que atiende y deriva llamados entrantes de forma automática (ya presente en el radar de Fixy).",
+    "what_changed": "Desde el 14 de septiembre de 2026, Reception puede poner en espera a quienes llaman con audio personalizado y avisos de posición en la cola hasta atenderlos o transferirlos; desde el 21 de septiembre sumó ejecución de varias herramientas en simultáneo dentro de una misma llamada y alertas de fallas por Slack.",
+    "fixy_use": "En picos de consultas (Hot Sale, CyberMonday, demoras masivas de reparto) Fixy podría usar esta cola para no perder llamados de clientes o de las tiendas que atiende cuando el volumen supera lo que puede manejar el equipo humano, derivando automáticamente según el motivo de la consulta en vez de cortar la comunicación.",
+    "verdict": "probar",
+    "verdict_reason": "Resuelve un problema concreto de picos de llamados sin cambiar de proveedor si Fixy ya está evaluando Reception.",
+    "categories": [
+      "Operaciones",
+      "Automatización"
+    ],
+    "pricing_note": "pago (funcionalidad dentro del plan de ElevenLabs Conversational AI/Reception; detalle de costo no confirmado)",
+    "source_url": "https://elevenlabs.io/docs/changelog/2026/9/14",
+    "published_date": "2026-09-14",
+    "priority": "informativo",
+    "id": "ai-elevenlabs-reception",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-24"
   },
   {
     "name": "OpenAI Agents API",
