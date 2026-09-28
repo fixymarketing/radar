@@ -2,23 +2,23 @@
   {
     "name": "SimpliRoute ADA",
     "vendor": "SimpliRoute",
-    "what_it_is": "Agente de inteligencia artificial autónomo para logística que ya no solo optimiza rutas: decide y actúa por sí mismo ante problemas de entrega, hablando por voz con clientes, conductores y supervisores, e integrado a WhatsApp.",
-    "what_changed": "En septiembre de 2026 SimpliRoute confirmó el salto de ADA a Estados Unidos y detalló que, ante un atraso, un desvío de ruta o un conductor que no responde, el agente decide en segundos si llamar al cliente, contactar al conductor, escalar a un supervisor o activar un protocolo de seguridad, sin que un humano tenga que intervenir primero. SimpliRoute ya opera en Argentina, entre siete países de la región.",
-    "fixy_use": "Para la última milla de Fixy, ADA podría tomar la primera línea de gestión de incidencias de reparto (avisar al cliente que su pedido se demora, reintentar contactar al repartidor) y dejarle al equipo humano solo los casos que realmente necesitan escalarse, liberando horas de atención al cliente y coordinación de flota.",
-    "verdict": "probar",
-    "verdict_reason": "Ya opera en Argentina y ataca un dolor concreto de Fixy -la gestión manual de incidencias de última milla-, conviene pedir una demo.",
+    "what_it_is": "ADA es el conjunto de agentes de inteligencia artificial autónomos de SimpliRoute que toman decisiones en tiempo real sobre rutas, incidencias y excepciones en operaciones de última milla.",
+    "what_changed": "SimpliRoute difundió resultados concretos de clientes que aplicaron ADA (76% menos merma operativa a los tres meses de implementación) y confirmó su expansión a Estados Unidos, reforzando el foco en última milla, retail y eCommerce.",
+    "fixy_use": "Fixy puede usar estos resultados como referencia de mercado para evaluar el retorno de sumar agentes autónomos a su propia gestión de rutas y excepciones (paquetes perdidos, direcciones erróneas, reprogramaciones), y como argumento comercial al mostrarle a clientes que la automatización de última milla ya reduce mermas comprobadamente en la región.",
+    "verdict": "seguir",
+    "verdict_reason": "Ya está en el radar de Fixy y conviene monitorear estos resultados porque son un benchmark directo para el negocio de última milla.",
     "categories": [
       "Logística",
       "Operaciones",
-      "Automatización"
+      "Análisis"
     ],
-    "pricing_note": "no confirmado - SimpliRoute no publica precio público, se cotiza a demanda",
+    "pricing_note": "no confirmado - SimpliRoute no publica precios públicos, se cotiza a medida por empresa",
     "source_url": "https://www.revistalogistec.com/index.php/2026/09/22/ada-la-ia-autonoma-chilena-que-revoluciona-la-logistica-en-latinoamerica-y-da-el-salto-a-estados-unidos/",
     "published_date": "2026-09-22",
     "priority": "alta",
     "id": "ai-simpliroute-simpliroute-ada",
     "source_kind": "auto",
-    "last_updated": "2026-09-26",
+    "last_updated": "2026-09-28",
     "first_seen": "2026-09-24"
   },
   {
@@ -444,6 +444,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-26",
     "first_seen": "2026-09-26"
+  },
+  {
+    "name": "Claude Marketplace",
+    "vendor": "Anthropic",
+    "what_it_is": "Una vidriera unificada dentro de Claude para descubrir e instalar conectores y plugins, contratar agentes o productos de terceros construidos sobre Claude, y conectar con consultoras del Claude Partner Network.",
+    "what_changed": "Anthropic relanzó el 23 de septiembre el Marketplace con más de 2.000 conectores y plugins, sumando una sección de agentes/productos de terceros (Cursor, CrowdStrike, Lovable, Snowflake, entre otros) y otra de socios de consultoría (Accenture, BCG, Deloitte).",
+    "fixy_use": "Fixy puede explorar el catálogo para ver si ya existe un conector armado hacia herramientas que usa (CRM, e-commerce, contabilidad) en lugar de desarrollar integraciones a medida, y evaluar agentes de terceros ya probados para atención al cliente o gestión de pedidos antes de construir algo propio.",
+    "verdict": "probar",
+    "verdict_reason": "Vale la pena recorrer el catálogo una vez para ver si ya existe un conector o agente que resuelva una necesidad puntual de Fixy sin desarrollo propio.",
+    "categories": [
+      "Automatización",
+      "Comercial",
+      "Productividad"
+    ],
+    "pricing_note": "freemium - el acceso al catálogo es parte de Claude, pero cada conector, agente o servicio de consultoría tiene su propio costo",
+    "source_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+    "published_date": "2026-09-23",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-marketplace",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "name": "Gemini Notebook como fuente de contexto en Google Docs",
+    "vendor": "Google",
+    "what_it_is": "Función que permite, dentro de Google Docs, elegir un Gemini Notebook (ex NotebookLM) como fuente y redactar textos que citan directamente ese material investigado, sin cambiar de pestaña.",
+    "what_changed": "Google completó el 23 de septiembre el despliegue de esta función: al escribir con Gemini en Docs ahora se puede tipear '@' y elegir un Notebook como fuente, con citas en línea automáticas para verificar los datos.",
+    "fixy_use": "Fixy podría armar un Notebook con manuales de procedimientos, políticas de SLA y fichas de clientes, y usarlo como base para redactar en Docs propuestas comerciales, comunicados o respuestas estandarizadas sin copiar y pegar, evitando usar información desactualizada.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis para las cuentas de Workspace que ya tiene el equipo y resuelve un problema real de redactar con información dispersa en varias fuentes.",
+    "categories": [
+      "Contenido",
+      "Productividad",
+      "Organización"
+    ],
+    "pricing_note": "freemium - incluido en planes Business/Education/Enterprise de Workspace y en Google AI Pro/Ultra para consumidores",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/09/ground-ai-prompts-in-google-docs-on-existing-sources-from-Gemini-Notebook.html",
+    "published_date": "2026-09-23",
+    "priority": "relevante",
+    "id": "ai-google-gemini-notebook-como-fuente-de-contexto-en-google-doc",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
   },
   {
     "name": "GPT-6 Sol y GPT-6 Luna",
@@ -1782,28 +1826,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "name": "Claude Marketplace",
-    "vendor": "Anthropic",
-    "what_it_is": "Catálogo único dentro de Claude para descubrir e instalar conectores y plugins de terceros (más de 2.000, entre ellos Salesforce, Notion, Google y Microsoft), sumado a productos hechos por socios y una red de consultoras.",
-    "what_changed": "El 23 de septiembre de 2026 Anthropic pasó de ofrecer integraciones puntuales (como Gamma para presentaciones, ya reflejada antes en este radar) a lanzar el Marketplace completo, que unifica conectores, agentes de socios y servicios de consultoría en un solo lugar.",
-    "fixy_use": "Le permite al equipo de Fixy revisar si ya existe un conector listo para unir Claude con herramientas que usa (por ejemplo Notion para documentación interna o Google Workspace) en vez de armar la integración desde cero. La compra de agentes de socios y de consultoría con 'gasto comprometido' apunta a empresas con contratos grandes con Anthropic, algo poco realista para una pyme como Fixy.",
-    "verdict": "seguir",
-    "verdict_reason": "La parte de conectores es útil para un equipo chico, pero buena parte del valor del Marketplace está pensada para empresas más grandes.",
-    "categories": [
-      "Automatización",
-      "Productividad",
-      "Organización"
-    ],
-    "pricing_note": "freemium — los conectores y plugins son de acceso abierto; comprar agentes o productos de socios requiere un compromiso de gasto con Anthropic",
-    "source_url": "https://claude.com/blog/claude-marketplace",
-    "published_date": "2026-09-23",
-    "priority": "informativo",
-    "id": "ai-anthropic-claude-marketplace",
-    "source_kind": "auto",
-    "last_updated": "2026-09-24",
-    "first_seen": "2026-09-24"
-  },
-  {
     "name": "Zendesk: rastreador web renovado y más conectores de contenido",
     "vendor": "Zendesk",
     "what_it_is": "El rastreador web y los conectores que alimentan la base de conocimiento de los agentes de IA de Zendesk con contenido de sitios propios y fuentes externas.",
@@ -1911,6 +1933,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-25",
     "first_seen": "2026-09-25"
+  },
+  {
+    "name": "Zendesk Agentic Email: plantillas incrustadas",
+    "vendor": "Zendesk",
+    "what_it_is": "Función dentro del email agéntico de Zendesk que permite crear y usar plantillas incrustadas en los procedimientos generativos que arma la IA, igual que ya existía en el canal de mensajería.",
+    "what_changed": "Desde el 16 de septiembre, todos los clientes con email agéntico tienen acceso a esta funcionalidad, que empareja las capacidades del canal de email con las que ya tenía el canal de mensajería de Zendesk.",
+    "fixy_use": "El equipo de atención al cliente de Fixy podría estandarizar respuestas por email (estado de envío, reclamos, cambios de dirección) con plantillas reutilizables dentro del flujo agéntico, ganando tiempo y manteniendo consistencia con lo que ya se resuelve por WhatsApp o chat.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora incremental sobre Zendesk, que Fixy ya tiene en el radar; conviene confirmar si está disponible en el plan contratado antes de priorizarla.",
+    "categories": [
+      "Operaciones",
+      "Comercial",
+      "Productividad"
+    ],
+    "pricing_note": "no confirmado - depende del plan de Zendesk con email agéntico habilitado",
+    "source_url": "https://community.zendesk.com/product-updates/september-2026-release-roundup-ai-and-knowledge-22401",
+    "published_date": "2026-09-16",
+    "priority": "informativo",
+    "id": "ai-zendesk-zendesk-agentic-email-plantillas-incrustadas",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
   },
   {
     "name": "Notion 3.7: Agent Skills",

@@ -1,51 +1,5 @@
 [
   {
-    "topic": "Los nuevos importadores sin logística: qué significa el boom de indumentaria importada para el fulfillment",
-    "why_now": "Las importaciones de bienes de consumo tocaron un récord semestral (US$5.362 millones) con indumentaria +86%, lo que revela un perfil de importador-vendedor nuevo que todavía no resolvió cómo nacionalizar, guardar y distribuir su mercadería.",
-    "fixy_angle": "Fixy puede mostrarse como el socio que resuelve justamente esa primera etapa que un importador nuevo no sabe cómo armar, con casos concretos aplicados a indumentaria.",
-    "formats": [
-      "LinkedIn",
-      "nota",
-      "artículo"
-    ],
-    "priority": "alta",
-    "source_url": "https://www.ambito.com/economia/record-importaciones-bienes-consumo-que-productos-registraron-subas-530-n6311906",
-    "id": "ct-b248052b",
-    "source_kind": "auto",
-    "last_updated": "2026-08-28",
-    "first_seen": "2026-08-28"
-  },
-  {
-    "topic": "Repartidores en la mira: qué implica para el seguro y la seguridad de una flota que se dupliquen los robos de utilitarios en el interior",
-    "why_now": "Los robos de vehículos en el interior se duplicaron en julio y los utilitarios de reparto son el blanco principal, justo en las provincias donde más crece la última milla del ecommerce.",
-    "fixy_angle": "Fixy puede posicionar su expertise en seguridad y rastreo de flota como un tema que todavía pocos vendedores del interior tienen resuelto, mostrando cómo se gestiona el riesgo sin asumirlo con flota propia.",
-    "formats": [
-      "nota",
-      "LinkedIn"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.informeoperadores.com.ar/2026/08/24/en-julio-se-duplicaron-los-robos-de-vehiculos-en-el-interior-del-pais/",
-    "id": "ct-ea7564c6",
-    "source_kind": "auto",
-    "last_updated": "2026-08-28",
-    "first_seen": "2026-08-28"
-  },
-  {
-    "topic": "El crédito que financia las compras online cambia de reglas: qué significa el débito automático que habilitó el BCRA",
-    "why_now": "El BCRA habilitó el débito automático de cuotas de préstamos desde cuentas y billeteras, endureciendo el cobro a deudores justo en un contexto de mora récord y de un consumo que se sostiene en buena parte con financiamiento.",
-    "fixy_angle": "Ayuda a explicarle a clientes eCommerce cómo puede afectar la capacidad de pago de sus compradores financiados, y por qué conviene diversificar medios de cobro, incluido el cobro contra entrega que gestiona Fixy.",
-    "formats": [
-      "nota",
-      "LinkedIn"
-    ],
-    "priority": "informativo",
-    "source_url": "https://www.ambito.com/finanzas/debuta-un-nuevo-sistema-cobro-deudores-pese-los-reparos-los-bancos-el-bcra-lo-pone-marcha-n6314846",
-    "id": "ct-bcccf755",
-    "source_kind": "auto",
-    "last_updated": "2026-08-28",
-    "first_seen": "2026-08-28"
-  },
-  {
     "topic": "El Correo Argentino, en pausa justo cuando queda en igualdad de condiciones con los couriers privados",
     "why_now": "El Gobierno frenó la concesión del Correo Argentino por las elecciones de 2027 el mismo mes en que ARCA lo equiparó a los couriers privados para las compras en Shein, Temu y Amazon: dos noticias que chocan y generan confusión en quien importa o vende online.",
     "fixy_angle": "Fixy puede traducir en lenguaje simple qué cambia (y qué no) para alguien que recibe paquetes importados o compite con el ingreso de productos del exterior, mostrando conocimiento del terreno regulatorio antes que la competencia.",
@@ -1068,5 +1022,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-27",
     "first_seen": "2026-09-27"
+  },
+  {
+    "topic": "1 millón de pedidos por día: el número que muestra cuánto creció el e-commerce argentino en 2026",
+    "why_now": "Los datos del sector confirmaron que el e-commerce creció 35,9% en 2026 y ya mueve casi un millón de pedidos diarios, justo cuando arranca la planificación de CyberMonday y Black Friday.",
+    "fixy_angle": "Fixy puede traducir ese número a lo que implica en capacidad logística real -depósito, personal, última milla- y usarlo como prueba de que el negocio de fulfillment tercerizado no para de crecer.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/movant/2026/09/27/ecommerce-en-argentina-como-impacta-su-avance-en-la-logistica-durante-2026/",
+    "id": "ct-71bde199",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "topic": "Qué límites le pone la Justicia a los bloqueos sindicales: el juicio que sienta precedente para la distribución",
+    "why_now": "Empezó el juicio contra dos dirigentes de Camioneros por bloquear y extorsionar a una distribuidora, justo en un contexto de bloqueos recientes como el de Arrecifes por tercerización de choferes.",
+    "fixy_angle": "Fixy puede usar este antecedente judicial para explicarle a sus clientes qué protecciones legales existen frente a un bloqueo gremial, un riesgo real para cualquier operación de distribución tercerizada.",
+    "formats": [
+      "nota",
+      "LinkedIn"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.lanacion.com.ar/politica/comienza-un-juicio-contra-dos-jefes-camioneros-por-bloqueos-a-una-empresa-distribuidora-nid27092026/",
+    "id": "ct-d124590a",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "topic": "Comprar y pagar sin salir del chat: qué significa el comercio agéntico de MODO y Frávega para la logística",
+    "why_now": "MODO lanzó la primera integración regional de compra de punta a punta dentro de ChatGPT junto con Frávega, un hito que va a presionar a otros players de pagos y eCommerce a sumarse.",
+    "fixy_angle": "Fixy puede posicionarse como el operador logístico que ya está preparado para recibir y despachar pedidos que nacen de una conversación con IA, un ángulo diferencial de cara a marcas que evalúan sumarse a este canal.",
+    "formats": [
+      "LinkedIn",
+      "prensa"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.iproup.com/finanzas/71779-modo-lanza-comercio-agentico-para-comprar-y-pagar-sin-salir-de-chatgpt",
+    "id": "ct-179c76ad",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
   }
 ]

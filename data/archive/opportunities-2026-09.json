@@ -826,5 +826,51 @@
     "source_kind": "auto",
     "last_updated": "2026-09-23",
     "first_seen": "2026-09-23"
+  },
+  {
+    "title": "Blindar ya la capacidad de fulfillment y última milla para CyberMonday y Black Friday 2026",
+    "context": "CACE confirmó que CyberMonday dura 72 horas (2 al 4 de noviembre, con Cyber Week hasta el 8) y que Black Friday tiene su día central el 27 de noviembre, y ya abrió inscripciones para marcas. Con fechas oficiales y ventana de planificación acotada, es el momento de asegurar dotación, stock en depósito y SLA de entrega antes de que se sature la demanda de transporte.",
+    "action": "Enviar a los clientes de eCommerce una propuesta de reserva anticipada de capacidad de despacho para la primera semana de noviembre y para fin de mes, con SLA diferenciados para ambos picos.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.ambito.com/economia/confirmaron-las-fechas-del-black-friday-y-cyber-monday-2026-n6326087",
+    "linked": [
+      "CACE confirmó las fechas de CyberMonday y Black Friday 2026 y abrió las inscripciones",
+      "CyberMonday 2026"
+    ],
+    "id": "op-cecd705d",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "Ajustar la previsión de espacio de depósito y transporte de cara al Q4 por la caída de la confianza industrial",
+    "context": "El índice de confianza empresarial industrial del INDEC cayó a -20,2% en agosto, el nivel más bajo desde diciembre de 2025, y un 13,5% de las empresas industriales ya anticipa recortes de personal para el tercer trimestre. Es una señal adelantada de menor volumen de carga industrial para transportar y almacenar en el último cuatrimestre.",
+    "action": "Revisar con los clientes de perfil industrial sus proyecciones de volumen para octubre-diciembre antes de comprometer capacidad fija de depósito o flota dedicada.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/09/22/se-profundiza-el-pesimismo-industrial-empresarios-proyectan-menos-produccion-y-empleo-en-el-tercer-trimestre/",
+    "linked": [
+      "La confianza industrial argentina cayó a su nivel más bajo en siete meses"
+    ],
+    "id": "op-59e95acf",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "title": "Evaluar cámaras inteligentes y telemetría con IA para bajar el robo en última milla",
+    "context": "El sector de seguridad empezó a ofrecer cámaras inteligentes y telemetría con IA como respuesta al robo de mercadería en última milla, que creció de la mano del boom del eCommerce y ya es uno de los costos ocultos más relevantes de la operación logística.",
+    "action": "Pedir demos a dos o tres proveedores de cámaras inteligentes y telemetría con IA, y comparar su costo mensual contra lo que hoy le cuesta a Fixy la siniestralidad y las reprogramaciones por robo en la flota de última milla.",
+    "type": "producto",
+    "priority": "alta",
+    "source_url": "https://www.iprofesional.com/tecnologia/465014-la-inteligencia-artificial-frena-los-robos-logisticos-en-la-ultima-milla",
+    "linked": [
+      "Cámaras inteligentes y telemetría con IA, la apuesta del sector seguridad para frenar los robos en última milla"
+    ],
+    "id": "op-fb83dad7",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
   }
 ]

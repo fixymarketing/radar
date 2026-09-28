@@ -966,5 +966,97 @@
     "source_kind": "auto",
     "last_updated": "2026-09-27",
     "first_seen": "2026-09-27"
+  },
+  {
+    "title": "El e-commerce argentino creció 35,9% en 2026 y la logística ya mueve casi un millón de pedidos por día",
+    "what_happened": "Según datos de CACE difundidos por Infobae, las compras online crecieron 36,9% interanual en agosto y acumulan una suba de 35,9% en los primeros ocho meses de 2026, mientras el consumo masivo físico sigue en baja. El reporte señala que la preparación, el packaging, el transporte y la entrega a domicilio de cada pedido ya se repite casi un millón de veces por día en el país. Los rubros de mayor crecimiento son alimentos (+56,7% interanual) e higiene y cosmética (+54,4%), productos de bajo valor y alta rotación.",
+    "why_it_matters": "Confirma que el e-commerce es el único canal de consumo con crecimiento sostenido en 2026, lo que traslada toda la presión de la demanda directamente a la capacidad logística de cara al último trimestre del año.",
+    "fixy_impact": "El crecimiento en alimentos e higiene/cosmética exige entregas frecuentes con costos de envío bajos, un desafío directo para la capacidad de fulfillment y última milla de Fixy de cara al pico de fin de año.",
+    "category": "eCommerce",
+    "geo": "Argentina",
+    "source_name": "Infobae (Movant)",
+    "source_url": "https://www.infobae.com/movant/2026/09/27/ecommerce-en-argentina-como-impacta-su-avance-en-la-logistica-durante-2026/",
+    "published_date": "2026-09-27",
+    "priority": "alta",
+    "tags": [
+      "ecommerce",
+      "logística",
+      "última milla",
+      "CACE",
+      "consumo"
+    ],
+    "id": "nw-50881aad3b",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "title": "El plazo para resolver el conflicto portuario de TCP en Montevideo vence hoy, con 20 puntos ya acordados",
+    "what_happened": "El Ministerio de Trabajo uruguayo convocó una nueva instancia negociadora entre Terminal Cuenca del Plata (TCP) y el sindicato portuario SUPRA, con el objetivo de cerrar el convenio colectivo este lunes 28 de septiembre. Ya hay acuerdo en más de 20 puntos, pero persisten diferencias sobre la cantidad de jornales garantizados, las partidas económicas extraordinarias y la duración del convenio. Si no hay acuerdo, el sindicato amenaza con un paro nacional de 48 horas.",
+    "why_it_matters": "El desenlace de esta jornada define si se normaliza la principal terminal de contenedores de Uruguay, clave para buena parte de la carga de exportación e importación argentina que transita por Montevideo.",
+    "fixy_impact": "Los operadores que importan mercadería vía Montevideo deben seguir monitoreando tiempos de tránsito y tener rutas alternativas mientras no haya un acuerdo firme.",
+    "category": "Logística",
+    "geo": "LATAM",
+    "source_name": "Prensa Latina",
+    "source_url": "https://www.prensa-latina.cu/2026/09/28/instancia-negociadora-para-conflicto-portuario-en-uruguay/",
+    "published_date": "2026-09-28",
+    "priority": "alta",
+    "tags": [
+      "puerto Montevideo",
+      "TCP",
+      "paro",
+      "comercio exterior",
+      "Uruguay"
+    ],
+    "id": "nw-80a629f30e",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "title": "Los combustibles subieron hasta 5% y se rompió el acuerdo de precios que regía desde mayo",
+    "what_happened": "Las petroleras, con excepción de YPF, aumentaron entre 2% y 5% los precios en los surtidores tras la suba del barril de petróleo Brent, rompiendo el esquema de estabilidad de precios de referencia vigente desde mayo. Desde febrero de 2026 la nafta acumula una suba real de 27% y el gasoil de 23%, ubicando al diésel argentino entre los más caros de Sudamérica. YPF por ahora mantiene sus valores, aunque no se descarta que se sume al ajuste.",
+    "why_it_matters": "El combustible es uno de los principales componentes del costo de transporte y última milla, y la ruptura del esquema de precios de referencia anticipa mayor volatilidad en los costos logísticos de cara al último trimestre del año.",
+    "fixy_impact": "Un gasoil más caro presiona directamente los costos de flota propia y de transportistas tercerizados de Fixy, un factor a monitorear para las tarifas de fin de año.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "iProfesional",
+    "source_url": "https://www.iprofesional.com/economia/465136-combustibles-suben-hasta-5-y-cambian-los-precios-de-referencia",
+    "published_date": "2026-09-24",
+    "priority": "relevante",
+    "tags": [
+      "combustibles",
+      "gasoil",
+      "costos logísticos",
+      "transporte",
+      "precios"
+    ],
+    "id": "nw-9354e19ee1",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "title": "Comenzó el juicio contra dos dirigentes de Camioneros por bloquear y extorsionar a una distribuidora",
+    "what_happened": "Los sindicalistas Maximiliano Cabaleyro y Fernando Espíndola, ex referentes de la seccional San Nicolás-Ramallo-San Pedro del gremio de Camioneros, enfrentan desde este lunes un juicio oral por turbación de la posesión, coacción, extorsión y amenazas contra la empresa Rey Distribución SRL, a la que bloquearon entre 2017 y 2021. Espíndola optó por un juicio abreviado y no irá al debate oral; junto a Cabaleyro hay otros seis imputados en la causa.",
+    "why_it_matters": "Es un antecedente judicial concreto sobre los límites legales de los bloqueos sindicales a empresas de distribución, en un contexto de conflictos similares recientes como el de Arrecifes.",
+    "fixy_impact": "Sienta precedente sobre las consecuencias legales de los bloqueos gremiales a operadores de distribución, un riesgo operativo que Fixy y otros operadores logísticos deben seguir de cerca.",
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "La Nación",
+    "source_url": "https://www.lanacion.com.ar/politica/comienza-un-juicio-contra-dos-jefes-camioneros-por-bloqueos-a-una-empresa-distribuidora-nid27092026/",
+    "published_date": "2026-09-27",
+    "priority": "relevante",
+    "tags": [
+      "Camioneros",
+      "bloqueos",
+      "justicia",
+      "distribución",
+      "riesgo operativo"
+    ],
+    "id": "nw-eafbd7174d",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
   }
 ]

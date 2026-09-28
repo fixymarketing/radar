@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-27T12:28:58.772Z",
-  "last_updated_ar": "27/09/2026, 09:28",
-  "date": "2026-09-27",
+  "generated_at": "2026-09-28T12:28:59.566Z",
+  "last_updated_ar": "28/09/2026, 09:28",
+  "date": "2026-09-28",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El gobierno uruguayo hizo su primera oferta concreta para destrabar el conflicto portuario de Montevideo justo cuando MODO estrena el comercio agéntico con Frávega en ChatGPT y el BCRA confirma que Mercado Pago será banco antes de fin de año.",
+  "summary_line": "El día combina dos frentes urgentes -el vencimiento del plazo en el conflicto portuario de Montevideo y la suba de combustibles- justo cuando arranca formalmente la cuenta regresiva a CyberMonday y Black Friday, con el comercio agéntico de MODO y Frávega marcando una nueva forma de comprar que empieza a redefinir cómo llegan los pedidos a la logística.",
   "counters": {
-    "news_today": 2,
-    "news_total": 42,
-    "events_upcoming": 64,
-    "events_ar_upcoming": 39,
-    "events_intl_upcoming": 25,
-    "events_later": 34,
+    "news_today": 4,
+    "news_total": 46,
+    "events_upcoming": 66,
+    "events_ar_upcoming": 40,
+    "events_intl_upcoming": 26,
+    "events_later": 36,
     "opportunities_open": 8,
     "opportunities_today": 3,
-    "ai_today": 0,
-    "ai_to_try": 58,
+    "ai_today": 2,
+    "ai_to_try": 59,
     "content_ideas": 71,
-    "added_news": 2,
+    "added_news": 4,
     "updated_news": 0,
-    "added_events": 3,
-    "updated_events": 11,
-    "added_ai": 0,
-    "archived": 6,
+    "added_events": 4,
+    "updated_events": 2,
+    "added_ai": 2,
+    "archived": 16,
     "discarded_quality": 0
   },
   "next_event": {
@@ -30,43 +30,43 @@
     "name": "Feria Internacional Industrial de Bogotá (FIB) 2026",
     "date_start": "2026-09-28",
     "city": "Bogotá",
-    "days_away": 1
+    "days_away": 0
   },
   "highlights": [
     {
-      "id": "nw-688db98579",
+      "id": "nw-80a629f30e",
       "kind": "news",
-      "title": "Uruguay propone subir a 21 los jornales garantizados para destrabar el paro en el puerto de Montevideo",
+      "title": "El plazo para resolver el conflicto portuario de TCP en Montevideo vence hoy, con 20 puntos ya acordados",
       "priority": "alta",
-      "one_liner": "El gobierno uruguayo hizo su primera oferta concreta y por escrito para evitar un nuevo paro nacional de 48 horas que volvería a golpear el tránsito de cargas regionales."
+      "one_liner": "Hoy se define si se normaliza la principal terminal de contenedores de Uruguay, clave para buena parte de la carga argentina que transita por Montevideo."
+    },
+    {
+      "id": "nw-1732c195bc",
+      "kind": "news",
+      "title": "CACE confirmó las fechas de CyberMonday y Black Friday 2026 y abrió las inscripciones",
+      "priority": "alta",
+      "one_liner": "Marca el arranque formal de la planificación comercial y logística de fin de año para todo el ecosistema de eCommerce argentino."
+    },
+    {
+      "id": "nw-9354e19ee1",
+      "kind": "news",
+      "title": "Los combustibles subieron hasta 5% y se rompió el acuerdo de precios que regía desde mayo",
+      "priority": "alta",
+      "one_liner": "Golpea directo el costo de transporte y última milla justo antes del pico de demanda de fin de año."
     },
     {
       "id": "nw-04ec1c0b57",
       "kind": "news",
       "title": "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega",
-      "priority": "alta",
-      "one_liner": "Es el primer caso regional en que un asistente de IA completa una compra real de punta a punta, lo que presiona a todo el ecosistema de pagos y logística a moverse rápido."
+      "priority": "relevante",
+      "one_liner": "Primer caso regional de compra completa dentro de un chat de IA, un anticipo de cómo van a llegar los pedidos a la logística."
     },
     {
       "id": "nw-9e5b89a10a",
       "kind": "news",
       "title": "El BCRA confirmó que Mercado Pago y Revolut serán bancos antes de fin de año",
       "priority": "relevante",
-      "one_liner": "Confirma con fecha el cambio de estatus regulatorio más importante del ecosistema fintech argentino, con impacto directo en cómo cobran las pymes de eCommerce."
-    },
-    {
-      "id": "nw-2c10c0d2d6",
-      "kind": "news",
-      "title": "Camioneros cerró una paritaria de 6,6% semestral y un bono de $1.200.000",
-      "priority": "relevante",
-      "one_liner": "Le da a toda la cadena logística previsibilidad de costos laborales por seis meses, justo antes de la temporada alta de fin de año."
-    },
-    {
-      "id": "ai-anthropic-claude-opus-5-5",
-      "kind": "ai",
-      "title": "Claude Opus 5.5",
-      "priority": "relevante",
-      "one_liner": "El modelo detrás de Claude Cowork, Docs y Slides mejora y baja de precio un 40%, sin que Fixy tenga que cambiar de herramienta."
+      "one_liner": "Profundiza la disputa entre bancos y fintechs por depósitos y crédito, con impacto directo en cómo cobra y financia Fixy."
     }
   ]
 }

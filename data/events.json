@@ -743,118 +743,6 @@
   },
   {
     "scope": "intl",
-    "name": "Groceryshop 2026",
-    "organizer": "Shoptalk (Hyve Group)",
-    "date_start": "2026-09-22",
-    "date_end": "2026-09-24",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Las Vegas",
-    "province": null,
-    "country": "Estados Unidos",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
-    "format": "presencial",
-    "category": "Retail",
-    "url": "https://groceryshop.com/",
-    "source_url": "https://shoptalk.com/",
-    "description": "Evento global de grocery, CPG y retail cotidiano, con foco fuerte en quick-commerce, fulfillment de perecederos y entrega same-day.",
-    "fixy_relevance": "El grocery online y el q-commerce son la frontera técnica de la última milla. Aprendizaje directo sobre entrega ultrarrápida, dark stores y micro-fulfillment trasladable a clientes argentinos.",
-    "justification_type": "aprendizaje",
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-groceryshop-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "scope": "intl",
-    "name": "Parcel+Post Expo 2026",
-    "organizer": "CloserStill Media",
-    "date_start": "2026-09-23",
-    "date_end": "2026-09-24",
-    "date_confirmed": true,
-    "date_note": "Novedad: por primera vez se realiza en ExCeL London (antes en otras sedes europeas), junto a eCommerce Expo, el mayor evento de eCommerce del Reino Unido, y suma una nueva plataforma de networking con matchmaking inteligente entre delegados.",
-    "city": "Londres",
-    "province": null,
-    "country": "Reino Unido",
-    "venue": "ExCeL London",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Logística",
-    "url": "https://parcelandpostexpo.com/",
-    "source_url": "https://www.parcelandpostaltechnologyinternational.com/news/expo/parcelpost-expo-opens-next-month-europes-biggest-parcel-event-returns-to-london.html",
-    "description": "El evento postal y de paquetería más grande de Europa: exposición tecnológica, Innovation Labs y una Conferencia de Liderazgo renovada, ahora en su nueva sede ExCeL London y co-ubicado con eCommerce Expo.",
-    "fixy_relevance": "Referencia global en tecnología de paquetería y última milla para eCommerce; la sede confirmada y la co-ubicación con eCommerce Expo amplían las oportunidades de networking con proveedores, couriers y marketplaces.",
-    "justification_type": "aprendizaje",
-    "priority": "alta",
-    "beyond_90": false,
-    "id": "ev-parcel-post-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-27",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-08-20",
-        "fields": [
-          "date_note",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-08-27",
-        "fields": [
-          "date_note",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "intl",
-    "name": "eCommerce Day Paraguay 2026",
-    "organizer": "eCommerce Institute",
-    "date_start": "2026-09-24",
-    "date_end": "2026-09-24",
-    "date_confirmed": true,
-    "date_note": "Parte del eCommerce Day Tour 2026, que celebra 20 años del tour en Iberoamérica.",
-    "city": "Asunción",
-    "province": null,
-    "country": "Paraguay",
-    "venue": "Auditorio del Banco Central del Paraguay",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "eCommerce",
-    "url": "https://ecommerceday.com.py/2026/",
-    "source_url": "https://ecommerceday.com.py/2026/",
-    "description": "Se confirmó la sede: el jueves 24 de septiembre de 2026 en el Auditorio del Banco Central del Paraguay, en Asunción. El sitio oficial suma además actividades complementarias (workshops y transmisión online) entre el 15 y el 17 de octubre en el hotel Sheraton Asunción.",
-    "fixy_relevance": "Paraguay es un corredor relevante para logística transfronteriza regional; el evento conecta con retailers, marketplaces y actores del ecosistema digital paraguayo.",
-    "justification_type": "expansión regional",
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-day-ecommerce-paraguay-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-06",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-09-06",
-        "fields": [
-          "venue",
-          "venue_confirmed",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "intl",
     "name": "Shoptalk Fall 2026",
     "organizer": "Shoptalk (Hyve Group)",
     "date_start": "2026-09-29",
@@ -1712,27 +1600,27 @@
     "scope": "ar",
     "name": "Argentina Fintech Forum 2026",
     "organizer": "Cámara Argentina Fintech",
-    "date_start": "2026-11-23",
-    "date_end": "2026-11-25",
+    "date_start": "2026-10-29",
+    "date_end": "2026-10-29",
     "date_confirmed": true,
-    "date_note": "Fuentes recientes confirman que el evento se extiende del 23 al 25 de noviembre (tres jornadas), no un único día.",
-    "city": "Buenos Aires",
+    "date_note": "El sitio oficial (argentinafintechforum.com) y varias notas de prensa especializada coinciden en el 29 de octubre de 2026 en el CEC, de 8 a 19:30 hs. Este dato difiere del 23/11/2026 que figuraba previamente cargado para este mismo evento en la agenda; se recomienda verificar con la fuente oficial cuál es la fecha correcta antes de confirmar.",
+    "city": "CABA",
     "province": "Buenos Aires (CABA)",
     "country": "Argentina",
-    "venue": "Centro de Convenciones de Buenos Aires (CEC)",
+    "venue": "CEC Centro de Convenciones de Buenos Aires",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Pagos y Fintech",
     "url": "https://argentinafintechforum.com/",
-    "source_url": "https://argentinafintechforum.com/",
-    "description": "Encuentro anual de la industria fintech argentina organizado por la Cámara Argentina Fintech, con dos escenarios simultáneos, workshops y una expo comercial de empresas del sector.",
-    "fixy_relevance": "Ahí se discuten medios de pago, checkout y embedded finance que impactan directo en la conversión y en las devoluciones/cobros contra entrega que maneja Fixy para sus clientes de eCommerce.",
+    "source_url": "https://argentinafintechforum.com/agenda/",
+    "description": "Foro anual de la Cámara Argentina Fintech sobre las tecnologías, regulaciones y modelos de colaboración que habilitan la próxima etapa del sistema financiero, con dos escenarios simultáneos, espacio de workshops y expo comercial.",
+    "fixy_relevance": "Permite entender hacia dónde evoluciona el ecosistema de pagos, financiamiento embebido y regulación fintech en Argentina, información útil para decisiones sobre medios de pago y checkout de los clientes eCommerce de Fixy.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-argentina-fintech-forum-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-28",
     "first_seen": "2026-08-20",
     "change_log": [
       {
@@ -1772,6 +1660,19 @@
           "description",
           "fixy_relevance",
           "priority"
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "fields": [
+          "date_start",
+          "date_end",
+          "date_note",
+          "city",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
         ]
       }
     ]
@@ -1874,43 +1775,6 @@
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
-  },
-  {
-    "scope": "ar",
-    "name": "Fintech Meetups 2026 – Córdoba",
-    "organizer": "Cámara Argentina Fintech",
-    "date_start": "2026-09-24",
-    "date_end": "2026-09-24",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Córdoba",
-    "province": "Córdoba",
-    "country": "Argentina",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
-    "format": "presencial",
-    "category": "Pagos y Fintech",
-    "url": "https://camarafintech.org/eventos/fintech-meetups-2026-cordoba/",
-    "source_url": "https://www.cronista.com/informacion-gral/fintech-meetups-llega-a-cordoba-para-hablar-de-credito-digital-medios-de-pago-prevencion-de-fraude-y-ciberseguridad/",
-    "description": "Encuentro federal de la Cámara Argentina Fintech en Córdoba sobre crédito digital, medios de pago, prevención de fraude y ciberseguridad.",
-    "fixy_relevance": "Los medios de pago y la prevención de fraude impactan directo en la operación de cobros contra entrega y en la integración de Fixy con checkouts de eCommerce; útil para anticipar cambios regulatorios y tecnológicos en pagos.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-cordoba-fintech-meetups-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-21",
-    "first_seen": "2026-08-20",
-    "change_log": [
-      {
-        "date": "2026-08-21",
-        "fields": [
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
   },
   {
     "scope": "ar",
@@ -2912,66 +2776,6 @@
     "first_seen": "2026-08-27"
   },
   {
-    "scope": "ar",
-    "name": "44ª Jornadas de Supermercadismo Argentino 2026",
-    "organizer": "CASAC",
-    "date_start": "2026-09-23",
-    "date_end": "2026-09-24",
-    "date_confirmed": true,
-    "date_note": "Actualización: se confirmó sede y segundo día (24/09) además de la fecha de inicio ya cargada.",
-    "city": "Córdoba",
-    "province": "Córdoba",
-    "country": "Argentina",
-    "venue": "Complejo Ferial Córdoba (Cúpulas Violeta, Celeste y Azul)",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Retail",
-    "url": "https://casac.org.ar/",
-    "source_url": "https://supermercadoaldia.cl/eventos/44-jornadas-de-supermercadismo-argentino",
-    "description": "La 44ª edición de las Jornadas de Supermercadismo Argentino se traslada a una sede más grande, el Complejo Ferial Córdoba, tras superar los 3.500 asistentes y 80 expositores en la edición anterior.",
-    "fixy_relevance": "Reúne a cadenas de supermercados y proveedores de retail; útil para detectar necesidades de última milla y fulfillment del canal supermercadista.",
-    "justification_type": null,
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-argentino-jornadas-supermercadismo-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-19",
-    "first_seen": "2026-08-28",
-    "change_log": [
-      {
-        "date": "2026-09-10",
-        "fields": [
-          "organizer",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-09-12",
-        "fields": [
-          "organizer",
-          "date_note",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
-      {
-        "date": "2026-09-19",
-        "fields": [
-          "organizer",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      }
-    ]
-  },
-  {
     "scope": "intl",
     "name": "Movimat 2026",
     "organizer": "RX Brazil",
@@ -3061,55 +2865,6 @@
           "source_url",
           "description",
           "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "intl",
-    "name": "FINNOSUMMIT 2026",
-    "organizer": "Finnovista",
-    "date_start": "2026-09-23",
-    "date_end": "2026-09-24",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Ciudad de México",
-    "province": null,
-    "country": "México",
-    "venue": "Expo Santa Fe",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Pagos y Fintech",
-    "url": "https://www.finnosummit.com/en/",
-    "source_url": "https://www.notimx.mx/2026/06/finnosummit-2026-reunira-retail.html",
-    "description": "Décima edición de FINNOSUMMIT, el principal evento de fintech de América Latina organizado por Finnovista; esta edición está pensada como punto de encuentro entre fintech, bancos, retail, salud y logística y cadena de suministro.",
-    "fixy_relevance": "Reúne en un mismo espacio a fintechs, bancos y actores de retail y logística de la región; es una oportunidad concreta de networking para explorar alianzas de pagos, financiamiento y soluciones de cobro aplicables a la operación de Fixy.",
-    "justification_type": "networking",
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-finnosummit-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-04",
-    "first_seen": "2026-08-29",
-    "change_log": [
-      {
-        "date": "2026-08-31",
-        "fields": [
-          "organizer",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "justification_type"
-        ]
-      },
-      {
-        "date": "2026-09-04",
-        "fields": [
-          "organizer",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "justification_type"
         ]
       }
     ]
@@ -3587,48 +3342,6 @@
   },
   {
     "scope": "intl",
-    "name": "Amazon Accelerate 2026",
-    "organizer": "Amazon",
-    "date_start": "2026-09-22",
-    "date_end": "2026-09-24",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Seattle",
-    "province": null,
-    "country": "Estados Unidos",
-    "venue": "Seattle Convention Center",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Marketplaces",
-    "url": "https://amazonaccelerate.com/",
-    "source_url": "https://sell.amazon.com/blog/announcements/seller-cafe-at-amazon-accelerate-2026",
-    "description": "Conferencia anual de Amazon para vendedores y marcas que operan en su marketplace, con más de 150 sesiones sobre fulfillment, logística, publicidad y nuevas herramientas para sellers.",
-    "fixy_relevance": "Permite entender de primera mano hacia dónde va la logística de marketplaces (FBA, fulfillment multicanal, last-mile) y detectar oportunidades para posicionar a Fixy como alternativa de fulfillment para sellers que buscan diversificar fuera de Amazon o expandirse a LATAM.",
-    "justification_type": "aprendizaje",
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-accelerate-amazon-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-10",
-    "first_seen": "2026-09-05",
-    "change_log": [
-      {
-        "date": "2026-09-10",
-        "fields": [
-          "organizer",
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "justification_type",
-          "priority"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "intl",
     "name": "Shoptalk Europe 2027",
     "organizer": "Shoptalk Europe (Hyve International Events Limited)",
     "date_start": "2027-06-01",
@@ -3774,46 +3487,6 @@
         "fields": [
           "organizer",
           "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
-    "name": "ePymes Day 2026",
-    "organizer": "Andreani",
-    "date_start": "2026-09-24",
-    "date_end": "2026-09-24",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Ciudad Autónoma de Buenos Aires",
-    "province": "Buenos Aires",
-    "country": "Argentina",
-    "venue": "Espacio Chutro (Dr. Prof. Pedro Chutro 2881, CABA)",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Emprendimiento",
-    "url": "https://epymesday.andreani.com/",
-    "source_url": "https://www.eventbrite.com/e/epymes-day-2026-tickets-1993148967215",
-    "description": "Jornada gratuita de Andreani para pymes y emprendedores con charlas de Meta y Microsoft sobre e-commerce, marketing digital, inteligencia artificial y logística, más casos de escalado de negocios locales.",
-    "fixy_relevance": "Organizado por Andreani, competidor directo de Fixy en logística para eCommerce: sirve para monitorear su discurso comercial hacia pymes y detectar qué herramientas y servicios está posicionando frente a ese público.",
-    "justification_type": null,
-    "priority": "alta",
-    "beyond_90": false,
-    "id": "ev-day-epymes-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-24",
-    "first_seen": "2026-09-10",
-    "change_log": [
-      {
-        "date": "2026-09-24",
-        "fields": [
-          "organizer",
-          "city",
-          "venue",
-          "category",
           "description",
           "fixy_relevance"
         ]
@@ -4104,33 +3777,6 @@
   },
   {
     "scope": "intl",
-    "name": "Seamless Middle East 2026",
-    "organizer": "Terrapinn",
-    "date_start": "2026-09-22",
-    "date_end": "2026-09-24",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Dubai",
-    "province": null,
-    "country": "Emiratos Árabes Unidos",
-    "venue": "Dubai World Trade Centre",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "eCommerce",
-    "url": "https://www.terrapinn.com/exhibition/seamless-middle-east/index.stm",
-    "source_url": "https://www.dwtc.com/en/events/seamless-2026/",
-    "description": "Una de las ferias de comercio digital, retail y pagos más grandes fuera de LATAM y EE.UU., organizada por Terrapinn en el Dubai World Trade Centre; reúne marcas, marketplaces, fintechs y proveedores de tecnología de la región Medio Oriente-África-Sur de Asia.",
-    "fixy_relevance": "No tiene conexión directa con Argentina ni LATAM, pero sirve como referencia de aprendizaje sobre tendencias globales de comercio digital, pagos y tecnología retail que podrían anticipar proveedores o modelos de negocio relevantes para la operación de Fixy.",
-    "justification_type": "aprendizaje",
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-east-middle-seamless-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-17",
-    "first_seen": "2026-09-17"
-  },
-  {
-    "scope": "intl",
     "name": "eCommerceFest Colombia 2026",
     "organizer": "Cámara Colombiana de Comercio Electrónico (CCCE)",
     "date_start": null,
@@ -4249,43 +3895,6 @@
     "source_kind": "auto",
     "last_updated": "2026-09-20",
     "first_seen": "2026-09-20"
-  },
-  {
-    "scope": "ar",
-    "name": "Inteligencia Artificial para PyMEs – Mendoza",
-    "organizer": "Somos Pymes",
-    "date_start": "2026-09-24",
-    "date_end": "2026-09-24",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Mendoza",
-    "province": "Mendoza",
-    "country": "Argentina",
-    "venue": "Hotel Sheraton Mendoza",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Innovación",
-    "url": "https://www.eventbrite.com.ar/e/inteligencia-artificial-para-pymes-mendoza-tickets-1983204103861",
-    "source_url": "https://www.somospymes.com.ar/eventos/llega-mendoza-el-evento-inteligencia-artificial-pymes-mas-importante-del-pais-n5404169",
-    "description": "Encuentro de Somos Pymes en el Hotel Sheraton Mendoza con más de 1.200 empresarios esperados, enfocado en llevar la inteligencia artificial de lo abstracto a la aplicación concreta en pymes.",
-    "fixy_relevance": "Concentra a pymes cuyanas que venden online y buscan adoptar IA: oportunidad para Fixy de posicionarse ante potenciales clientes de fulfillment en la región de Cuyo, fuera de CABA/GBA.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-artificial-inteligencia-mendoza-para-pymes-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-24",
-    "first_seen": "2026-09-21",
-    "change_log": [
-      {
-        "date": "2026-09-24",
-        "fields": [
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      }
-    ]
   },
   {
     "scope": "ar",
@@ -4675,25 +4284,39 @@
     "date_start": null,
     "date_end": null,
     "date_confirmed": false,
-    "date_note": "La agenda tenía registrada la fecha 30/09/2026, pero fuentes de septiembre de 2026 (Frecuencia Money, CriptoNoticias) ubican la parada de Buenos Aires de este forum itinerante en \"noviembre de 2026\", dentro de una gira regional que también incluye Ciudad de México y Bogotá. No encontramos un día exacto ni sede confirmados: hay una discrepancia real entre ambas fechas que conviene chequear en la fu",
-    "city": "Por confirmar",
-    "province": null,
+    "date_note": "El sitio financesecurityforum.com y el calendario de CriptoNoticias ubican la parada de Buenos Aires en noviembre de 2026, dentro de una gira regional que también incluye CDMX y Bogotá, pero no precisan el día exacto. Este dato difiere del 30/09/2026 cargado en otra entrada de la agenda para el mismo evento; se recomienda confirmar con la fuente oficial cuál corresponde y unificar ambas entradas.",
+    "city": "CABA",
+    "province": "Buenos Aires (CABA)",
     "country": "Argentina",
     "venue": "Por confirmar",
     "venue_confirmed": false,
-    "format": "Por confirmar",
+    "format": "presencial",
     "category": "Pagos y Fintech",
     "url": "https://financesecurityforum.com/",
-    "source_url": "https://noticias.mobilemoneylatam.com/eventos-2026-encuentros-clave-del-ecosistema-financiero/",
-    "description": "Encuentro exclusivo (por invitación o acceso con perfil) sobre seguridad financiera, fraude con IA, identidad digital y protección del ecosistema cripto, dirigido a bancos y fintechs.",
-    "fixy_relevance": "Relevante para entender riesgos de fraude y seguridad en pagos digitales aplicados al eCommerce, aunque conviene confirmar la fecha real antes de priorizarlo en la agenda.",
+    "source_url": "https://www.criptonoticias.com/calendario-eventos/finance-security-forum/",
+    "description": "Encuentro de acceso restringido (por invitación o ticket sujeto a perfil) dirigido a bancos, fintechs y empresas del ecosistema cripto, centrado en seguridad financiera ante la creciente adopción de Bitcoin y criptomonedas.",
+    "fixy_relevance": "Relevancia acotada para Fixy: interesa solo si la empresa avanza en medios de pago con cripto o necesita monitorear tendencias de fraude y seguridad en pagos digitales, no es prioritario para logística u operaciones.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-aires-buenos-finance-forum-security-La a",
     "source_kind": "auto",
-    "last_updated": "2026-09-27",
-    "first_seen": "2026-09-27"
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-27",
+    "change_log": [
+      {
+        "date": "2026-09-28",
+        "fields": [
+          "date_note",
+          "city",
+          "province",
+          "format",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -4748,5 +4371,113 @@
     "source_kind": "auto",
     "last_updated": "2026-09-27",
     "first_seen": "2026-09-27"
+  },
+  {
+    "scope": "ar",
+    "name": "Hackathon Retail Chain 4.0",
+    "organizer": "Comunidad Retail Chain 4.0, con apoyo de la Universidad Nacional del Sur (UNS), Universidad CAECE y Silicon Misiones",
+    "date_start": "2026-11-16",
+    "date_end": "2026-11-19",
+    "date_confirmed": true,
+    "date_note": "Evento multisede: lanzamiento y sede Bahía Blanca el 16/11, sede Ciudad de Buenos Aires el 18/11 y sede Posadas el 19/11 de 2026.",
+    "city": "Bahía Blanca / CABA / Posadas",
+    "province": "Buenos Aires, CABA y Misiones (evento multisede)",
+    "country": "Argentina",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.enfoqueu.uns.edu.ar/competencia-para-impulsar-la-innovacion-en-cadenas-de-suministro/",
+    "source_url": "https://masindustrias.com.ar/la-uns-sera-sede-del-lanzamiento-de-un-hackathon-para-la-cadena-de-suministro/",
+    "description": "Hackathon federal organizado por la Comunidad Retail Chain 4.0 que convoca a universidades, empresas y profesionales de logística, operaciones y cadena de suministro a desarrollar soluciones a desafíos reales del sector, con sedes simultáneas en Bahía Blanca, Buenos Aires y Posadas.",
+    "fixy_relevance": "Es una oportunidad concreta de posicionarse como empresa desafiante o mentora ante talento universitario de logística y supply chain, y de captar ideas o contactos aplicables a fulfillment y última milla, en tres plazas donde Fixy podría tener o buscar operación.",
+    "justification_type": null,
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-chain-hackathon-retail-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "scope": "intl",
+    "name": "EXPOLOG 2026 (Feira Internacional de Logística)",
+    "organizer": "Diário do Nordeste, Instituto Future y Setcarce (producción: Prática Eventos), con coorganización de la Câmara Brasil-Portugal en Ceará",
+    "date_start": "2026-11-23",
+    "date_end": "2026-11-24",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Fortaleza",
+    "province": null,
+    "country": "Brasil",
+    "venue": "Centro de Eventos do Ceará",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://feiraexpolog.com.br/",
+    "source_url": "https://indicomaisfortaleza.com.br/2026/08/18/expolog-2026-espera-movimentar-r-67-milhoes-em-novos-negocios/",
+    "description": "21ª edición de la Feria Internacional de Logística de Fortaleza, bajo el lema 'Logística Inteligente: Multimodalidade, IA e Resiliência Geopolítica', con rueda de negocios que proyecta generar más de R$200 millones.",
+    "fixy_relevance": "Feria de logística consolidada en el norte/nordeste de Brasil con rueda de negocios activa; oportunidad de relevamiento de mercado, networking y contacto con actores del ecosistema logístico brasileño de cara a una eventual expansión regional de Fixy.",
+    "justification_type": "expansión regional",
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-expolog-feira-internacional-logistica-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "scope": "intl",
+    "name": "INTRA-LOG Expo South America 2027",
+    "organizer": "Interlink Exhibitions e IMAM Group",
+    "date_start": "2027-09-28",
+    "date_end": "2027-09-30",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "São Paulo",
+    "province": null,
+    "country": "Brasil",
+    "venue": "Expo Center Norte (Pavilhão Vermelho)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://intralogexpo.com.br/",
+    "source_url": "https://an9.com.br/intra-log-expo-south-america-encerra-edicao-historica-com-mais-de-8-400-visitantes-mais-de-380-marcas-e-homenagem-a-projetos-de-logistica-no-brasil/",
+    "description": "La mayor feria de intralogística y automatización de almacenes de América Latina; su 4ª edición sumará en paralelo Expo Robotics & Automation y Label & Pack, ampliando 50% el espacio de exhibición.",
+    "fixy_relevance": "Punto de encuentro clave de proveedores y tendencias en automatización de depósitos y fulfillment en LATAM; útil para evaluar tecnología aplicable a la operación de Fixy y para networking estratégico con el ecosistema logístico brasileño.",
+    "justification_type": "aprendizaje",
+    "priority": "relevante",
+    "beyond_90": true,
+    "id": "ev-america-intra-log-south-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "scope": "intl",
+    "name": "Parcel Forum 2027",
+    "organizer": "PARCEL Forum (e2open Global Parcel)",
+    "date_start": "2027-09-13",
+    "date_end": "2027-09-15",
+    "date_confirmed": false,
+    "date_note": "Varias fuentes secundarias (Vendelux, CargoRex, Transportation Insight) citan estas fechas y Washington D.C. como sede para la edición 2027, pero al momento de la verificación el sitio oficial de PARCEL Forum todavía no publicaba la confirmación oficial de fechas y venue exactos.",
+    "city": "Washington D.C.",
+    "province": null,
+    "country": "Estados Unidos",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.parcelforum.com/",
+    "source_url": "https://vendelux.com/app/event/parcel-forum-2027/9c8eb1f4-16ab-492e-8996-cf4222ed8721",
+    "description": "Principal conferencia de Estados Unidos dedicada a estrategia de envíos de paquetería (parcel) y última milla, que reúne a transportistas, operadores de fulfillment y equipos de logística de eCommerce.",
+    "fixy_relevance": "Espacio de aprendizaje sobre tendencias globales de paquetería y última milla aplicables a la operación de Fixy, con oportunidad de networking con proveedores tecnológicos y transportistas internacionales.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": true,
+    "id": "ev-forum-parcel-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
   }
 ]

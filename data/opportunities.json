@@ -1,5 +1,53 @@
 [
   {
+    "title": "Preparar un plan de contingencia de rutas por si el conflicto de TCP Montevideo no se resuelve hoy",
+    "context": "El plazo para cerrar el acuerdo con 20 puntos ya consensuados vence hoy, mientras cámaras empresariales uruguayas ya contabilizan 44 días de paro en 2026 y el sindicato SUPRA tiene aprobado un paro nacional de hasta 48 horas si la negociación fracasa. Un nuevo quiebre volvería a golpear la carga de exportación e importación argentina que pasa por Montevideo.",
+    "action": "Relevar con los clientes que dependen de carga vía Montevideo qué volumen está en tránsito hoy y tener lista una ruta alternativa para activar si el paro se confirma en las próximas 24-48 horas.",
+    "type": "estratégica",
+    "priority": "alta",
+    "source_url": "https://www.prensa-latina.cu/2026/09/28/instancia-negociadora-para-conflicto-portuario-en-uruguay/",
+    "linked": [
+      "El plazo para resolver el conflicto portuario de TCP en Montevideo vence hoy, con 20 puntos ya acordados",
+      "Cámaras empresariales de Uruguay advierten que la crisis del Puerto de Montevideo ya lleva 44 días de paros en 2026",
+      "Uruguay propone subir a 21 los jornales garantizados para destrabar el paro en el puerto de Montevideo"
+    ],
+    "id": "op-c50d8648",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "title": "Revisar tarifas de transporte y última milla ante la suba de combustibles y la ruptura del acuerdo de precios",
+    "context": "Los combustibles subieron hasta 5% y se rompió el esquema de precios de referencia que regía desde mayo, justo cuando se firmó la paritaria de Camioneros con un aumento moderado. El combustible es uno de los componentes principales del costo de transporte, y la volatilidad amenaza con licuar el margen justo antes del pico de demanda de CyberMonday y Black Friday.",
+    "action": "Recalcular el costo por kilómetro y por entrega con el nuevo precio de combustible, y ajustar tarifas o cláusulas de ajuste automático en los contratos con clientes antes de que arranque la campaña de fin de año.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.iprofesional.com/economia/465136-combustibles-suben-hasta-5-y-cambian-los-precios-de-referencia",
+    "linked": [
+      "Los combustibles subieron hasta 5% y se rompió el acuerdo de precios que regía desde mayo",
+      "Camioneros cerró una paritaria de 6,6% semestral y un bono de $1.200.000"
+    ],
+    "id": "op-5ad295d1",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "title": "Evaluar cómo va a recibir Fixy los pedidos generados por compra agéntica dentro de asistentes de IA",
+    "context": "MODO lanzó comercio agéntico abierto en ChatGPT junto con Frávega, el primer caso regional donde un asistente de IA generalista completa una compra de punta a punta dentro de la conversación. Esto anticipa que una porción creciente de los pedidos de eCommerce va a llegar generados por agentes de IA y no por una persona navegando el checkout.",
+    "action": "Revisar con los clientes de eCommerce que operan con MODO o integraciones similares si sus flujos de pedido hacia Fixy están preparados para recibir órdenes generadas por compra agéntica, y si los tiempos de entrega que promete el asistente coinciden con los SLA reales de Fixy.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.iproup.com/finanzas/71779-modo-lanza-comercio-agentico-para-comprar-y-pagar-sin-salir-de-chatgpt",
+    "linked": [
+      "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega"
+    ],
+    "id": "op-896ebc73",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
+  },
+  {
     "title": "Cerrar el presupuesto de transporte de los próximos 6 meses con la paritaria de Camioneros ya firmada",
     "context": "Camioneros cerró un acuerdo salarial de 6,6% semestral más un bono de $1.200.000, alineado con la pauta oficial. Es una de las pocas variables de costo laboral logístico que quedó fija y previsible hasta marzo, justo antes de que arranquen CyberMonday y Black Friday.",
     "action": "Actualizar ya el presupuesto de transporte y flota tercerizada con el nuevo costo laboral confirmado, antes de cerrar tarifas con clientes para la temporada de fin de año.",
@@ -74,51 +122,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-26",
     "first_seen": "2026-09-26"
-  },
-  {
-    "title": "Blindar ya la capacidad de fulfillment y última milla para CyberMonday y Black Friday 2026",
-    "context": "CACE confirmó que CyberMonday dura 72 horas (2 al 4 de noviembre, con Cyber Week hasta el 8) y que Black Friday tiene su día central el 27 de noviembre, y ya abrió inscripciones para marcas. Con fechas oficiales y ventana de planificación acotada, es el momento de asegurar dotación, stock en depósito y SLA de entrega antes de que se sature la demanda de transporte.",
-    "action": "Enviar a los clientes de eCommerce una propuesta de reserva anticipada de capacidad de despacho para la primera semana de noviembre y para fin de mes, con SLA diferenciados para ambos picos.",
-    "type": "comercial",
-    "priority": "alta",
-    "source_url": "https://www.ambito.com/economia/confirmaron-las-fechas-del-black-friday-y-cyber-monday-2026-n6326087",
-    "linked": [
-      "CACE confirmó las fechas de CyberMonday y Black Friday 2026 y abrió las inscripciones",
-      "CyberMonday 2026"
-    ],
-    "id": "op-cecd705d",
-    "source_kind": "auto",
-    "last_updated": "2026-09-25",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "title": "Ajustar la previsión de espacio de depósito y transporte de cara al Q4 por la caída de la confianza industrial",
-    "context": "El índice de confianza empresarial industrial del INDEC cayó a -20,2% en agosto, el nivel más bajo desde diciembre de 2025, y un 13,5% de las empresas industriales ya anticipa recortes de personal para el tercer trimestre. Es una señal adelantada de menor volumen de carga industrial para transportar y almacenar en el último cuatrimestre.",
-    "action": "Revisar con los clientes de perfil industrial sus proyecciones de volumen para octubre-diciembre antes de comprometer capacidad fija de depósito o flota dedicada.",
-    "type": "estratégica",
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/economia/2026/09/22/se-profundiza-el-pesimismo-industrial-empresarios-proyectan-menos-produccion-y-empleo-en-el-tercer-trimestre/",
-    "linked": [
-      "La confianza industrial argentina cayó a su nivel más bajo en siete meses"
-    ],
-    "id": "op-59e95acf",
-    "source_kind": "auto",
-    "last_updated": "2026-09-25",
-    "first_seen": "2026-09-25"
-  },
-  {
-    "title": "Evaluar cámaras inteligentes y telemetría con IA para bajar el robo en última milla",
-    "context": "El sector de seguridad empezó a ofrecer cámaras inteligentes y telemetría con IA como respuesta al robo de mercadería en última milla, que creció de la mano del boom del eCommerce y ya es uno de los costos ocultos más relevantes de la operación logística.",
-    "action": "Pedir demos a dos o tres proveedores de cámaras inteligentes y telemetría con IA, y comparar su costo mensual contra lo que hoy le cuesta a Fixy la siniestralidad y las reprogramaciones por robo en la flota de última milla.",
-    "type": "producto",
-    "priority": "alta",
-    "source_url": "https://www.iprofesional.com/tecnologia/465014-la-inteligencia-artificial-frena-los-robos-logisticos-en-la-ultima-milla",
-    "linked": [
-      "Cámaras inteligentes y telemetría con IA, la apuesta del sector seguridad para frenar los robos en última milla"
-    ],
-    "id": "op-fb83dad7",
-    "source_kind": "auto",
-    "last_updated": "2026-09-24",
-    "first_seen": "2026-09-24"
   }
 ]
