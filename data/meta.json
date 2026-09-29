@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-28T12:28:59.566Z",
-  "last_updated_ar": "28/09/2026, 09:28",
-  "date": "2026-09-28",
+  "generated_at": "2026-09-29T12:16:30.989Z",
+  "last_updated_ar": "29/09/2026, 09:16",
+  "date": "2026-09-29",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "El día combina dos frentes urgentes -el vencimiento del plazo en el conflicto portuario de Montevideo y la suba de combustibles- justo cuando arranca formalmente la cuenta regresiva a CyberMonday y Black Friday, con el comercio agéntico de MODO y Frávega marcando una nueva forma de comprar que empieza a redefinir cómo llegan los pedidos a la logística.",
+  "summary_line": "Día con poco material nuevo: siguen vigentes el vencimiento del plazo en el puerto de Montevideo y la suba de combustibles, con la cuenta regresiva a CyberMonday y Black Friday en marcha.",
   "counters": {
-    "news_today": 4,
-    "news_total": 46,
+    "news_today": 0,
+    "news_total": 44,
     "events_upcoming": 66,
     "events_ar_upcoming": 40,
     "events_intl_upcoming": 26,
     "events_later": 36,
     "opportunities_open": 8,
-    "opportunities_today": 3,
-    "ai_today": 2,
+    "opportunities_today": 0,
+    "ai_today": 1,
     "ai_to_try": 59,
-    "content_ideas": 71,
-    "added_news": 4,
+    "content_ideas": 69,
+    "added_news": 0,
     "updated_news": 0,
-    "added_events": 4,
-    "updated_events": 2,
-    "added_ai": 2,
-    "archived": 16,
+    "added_events": 0,
+    "updated_events": 1,
+    "added_ai": 1,
+    "archived": 7,
     "discarded_quality": 0
   },
   "next_event": {
@@ -38,35 +38,28 @@
       "kind": "news",
       "title": "El plazo para resolver el conflicto portuario de TCP en Montevideo vence hoy, con 20 puntos ya acordados",
       "priority": "alta",
-      "one_liner": "Hoy se define si se normaliza la principal terminal de contenedores de Uruguay, clave para buena parte de la carga argentina que transita por Montevideo."
-    },
-    {
-      "id": "nw-1732c195bc",
-      "kind": "news",
-      "title": "CACE confirmó las fechas de CyberMonday y Black Friday 2026 y abrió las inscripciones",
-      "priority": "alta",
-      "one_liner": "Marca el arranque formal de la planificación comercial y logística de fin de año para todo el ecosistema de eCommerce argentino."
+      "one_liner": "Hoy se define si se normaliza la principal terminal de contenedores de Uruguay, por donde pasa carga argentina."
     },
     {
       "id": "nw-9354e19ee1",
       "kind": "news",
       "title": "Los combustibles subieron hasta 5% y se rompió el acuerdo de precios que regía desde mayo",
       "priority": "alta",
-      "one_liner": "Golpea directo el costo de transporte y última milla justo antes del pico de demanda de fin de año."
+      "one_liner": "Impacta directo en el costo de transporte y última milla de cara al último trimestre."
+    },
+    {
+      "id": "nw-1732c195bc",
+      "kind": "news",
+      "title": "CACE confirmó las fechas de CyberMonday y Black Friday 2026 y abrió las inscripciones",
+      "priority": "relevante",
+      "one_liner": "Arranca la planificación comercial y logística de fin de año."
     },
     {
       "id": "nw-04ec1c0b57",
       "kind": "news",
       "title": "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega",
       "priority": "relevante",
-      "one_liner": "Primer caso regional de compra completa dentro de un chat de IA, un anticipo de cómo van a llegar los pedidos a la logística."
-    },
-    {
-      "id": "nw-9e5b89a10a",
-      "kind": "news",
-      "title": "El BCRA confirmó que Mercado Pago y Revolut serán bancos antes de fin de año",
-      "priority": "relevante",
-      "one_liner": "Profundiza la disputa entre bancos y fintechs por depósitos y crédito, con impacto directo en cómo cobra y financia Fixy."
+      "one_liner": "Primer caso regional de compra completa dentro de un asistente de IA, que cambia cómo llegan los pedidos a la logística."
     }
   ]
 }

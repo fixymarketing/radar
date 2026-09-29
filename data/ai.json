@@ -1826,6 +1826,28 @@
     "first_seen": "2026-08-19"
   },
   {
+    "name": "Gemini: 14 nuevas Connected Apps (Airtable, monday.com, Zoho, PandaDoc, Webflow y más)",
+    "vendor": "Google",
+    "what_it_is": "Las Connected Apps permiten que la app de Gemini consulte y actúe dentro de otras herramientas (por ejemplo actualizar tareas, editar imágenes o publicar un sitio) sin salir del chat, escribiendo '@' o pidiéndolo directamente.",
+    "what_changed": "Desde el 23 de septiembre de 2026 Google empezó a desplegar 14 apps nuevas: en productividad Airtable, Linear, monday.com, PandaDoc, Wispr AI y Zoho; en creatividad Adobe, Picsart, Squarespace y Webflow; y otras de uso personal.",
+    "fixy_use": "Si el equipo usa Airtable, monday.com o Zoho para llevar tareas, clientes o proyectos, podría pedirle a Gemini que consulte o actualice esos registros sin abrir cada herramienta. PandaDoc puede servir a comercial para armar y seguir propuestas o contratos desde el chat. Conviene probarlo primero con datos de bajo riesgo.",
+    "verdict": "seguir",
+    "verdict_reason": "Es útil solo si Fixy ya trabaja con alguna de estas herramientas, y el despliegue recién empieza.",
+    "categories": [
+      "Productividad",
+      "Comercial",
+      "Organización"
+    ],
+    "pricing_note": "no confirmado - la función está en la app de Gemini; disponibilidad por plan y por país por confirmar",
+    "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
+    "published_date": "2026-09-23",
+    "priority": "informativo",
+    "id": "ai-google-gemini-14-nuevas-connected-apps-airtable-monday-com-z",
+    "source_kind": "auto",
+    "last_updated": "2026-09-29",
+    "first_seen": "2026-09-29"
+  },
+  {
     "name": "Zendesk: rastreador web renovado y más conectores de contenido",
     "vendor": "Zendesk",
     "what_it_is": "El rastreador web y los conectores que alimentan la base de conocimiento de los agentes de IA de Zendesk con contenido de sitios propios y fuentes externas.",

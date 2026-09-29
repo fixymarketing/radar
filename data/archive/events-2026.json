@@ -1829,5 +1829,161 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "intl",
+    "name": "Mercado Livre Experience 2026",
+    "organizer": "Mercado Livre",
+    "date_start": "2026-09-24",
+    "date_end": "2026-09-25",
+    "date_confirmed": true,
+    "date_note": "Novedad: se confirmó que el evento se extiende a dos jornadas completas (24 y 25 de septiembre), no solo el 24 como figuraba registrado.",
+    "city": "São Paulo",
+    "province": null,
+    "country": "Brasil",
+    "venue": "São Paulo Expo",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Marketplaces",
+    "url": "https://mercadolivreexperience.mercadolivre.com.br/",
+    "source_url": "https://www.sympla.com.br/evento/mercado-livre-experience-2026/3372991",
+    "description": "Evento anual de Mercado Livre para vendedores y marcas del marketplace en Brasil, con paneles sobre tendencias de e-commerce, inteligencia artificial, publicidad y logística.",
+    "fixy_relevance": "Actualización confirmada de sede (San Pablo Expo) y duración (dos días); es el encuentro anual del marketplace líder de la región con foco en logística y fulfillment para vendedores, relevante para entender su agenda y detectar oportunidades de partnership u observación competitiva.",
+    "justification_type": "aprendizaje",
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-experience-livre-mercado-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-14",
+    "first_seen": "2026-08-23",
+    "change_log": [
+      {
+        "date": "2026-08-25",
+        "fields": [
+          "venue",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-08-30",
+        "fields": [
+          "venue",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "fields": [
+          "venue",
+          "url",
+          "description",
+          "fixy_relevance",
+          "justification_type"
+        ]
+      },
+      {
+        "date": "2026-09-11",
+        "fields": [
+          "organizer",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-14",
+        "fields": [
+          "organizer",
+          "date_note",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "Congreso Internacional de Transporte, Movilidad y Logística (UNLA) 2026",
+    "organizer": "Universidad Nacional de Lanús (UNLa)",
+    "date_start": "2026-09-25",
+    "date_end": "2026-09-25",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Remedios de Escalada (Lanús)",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Universidad Nacional de Lanús",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://comexonline.com.ar/noticias/val/63421/la-unla-invita--al-congreso-internacional-de-transporte-movilidad-y--logistica.html",
+    "source_url": "https://comexonline.com.ar/noticias/val/63421/la-unla-invita--al-congreso-internacional-de-transporte-movilidad-y--logistica.html",
+    "description": "Congreso organizado por la UNLa sobre diseño estratégico de redes de transporte de carga y movilidad urbana sostenible, con operadores, investigadores y organismos públicos. Participación gratuita con inscripción previa.",
+    "fixy_relevance": "Trata directamente el diseño de redes logísticas urbanas y última milla, temas centrales para la operación diaria de Fixy.",
+    "justification_type": null,
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-congreso-internacional-logistica-movilidad-trans-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-08-27",
+    "change_log": [
+      {
+        "date": "2026-09-10",
+        "fields": [
+          "city",
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-19",
+        "fields": [
+          "organizer",
+          "city",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "Nodo Tech Week 2026 – Catamarca",
+    "organizer": "Nodo Tecnológico de Catamarca (Secretaría de Gabinete y Modernización)",
+    "date_start": "2026-09-23",
+    "date_end": "2026-09-25",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "San Fernando del Valle de Catamarca",
+    "province": "Catamarca",
+    "country": "Argentina",
+    "venue": "Facultad de Tecnología y Ciencias Aplicadas (UNCA) y Nodo Tecnológico de la Capital",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Tecnología",
+    "url": "https://eventum.ar/nodotecnologico/nodo_tech_week/",
+    "source_url": "https://www.catamarcaciudad.gob.ar/nodo-tech-week-se-inauguro-el-evento-de-tecnologia-e-innovacion-mas-grande-de-la-region/",
+    "description": "Tercer aniversario del Nodo Tecnológico de Catamarca, con tres jornadas organizadas en cuatro ejes (startups, tecnología e IA aplicada, ventas y comunicación digital), realizadas junto al Congreso Argentino de Ingeniería (CADI-CAEDI 2026).",
+    "fixy_relevance": "Es una señal temprana de maduración del ecosistema tech y emprendedor del NOA, una región donde Fixy todavía tiene baja presencia; sirve para anticipar dónde pueden surgir nuevas tiendas online y pymes que necesiten fulfillment fuera del AMBA.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-catamarca-nodo-tech-week-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-21",
+    "first_seen": "2026-09-21"
   }
 ]
