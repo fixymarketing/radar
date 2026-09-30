@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-29T12:16:30.989Z",
-  "last_updated_ar": "29/09/2026, 09:16",
-  "date": "2026-09-29",
+  "generated_at": "2026-09-30T12:16:10.567Z",
+  "last_updated_ar": "30/09/2026, 09:16",
+  "date": "2026-09-30",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Día con poco material nuevo: siguen vigentes el vencimiento del plazo en el puerto de Montevideo y la suba de combustibles, con la cuenta regresiva a CyberMonday y Black Friday en marcha.",
+  "summary_line": "Día con poco material nuevo: la CACE confirmó CyberMonday del 2 al 4 de noviembre, y siguen vigentes el desenlace del conflicto en el puerto de Montevideo y la suba de combustibles.",
   "counters": {
     "news_today": 0,
-    "news_total": 44,
+    "news_total": 43,
     "events_upcoming": 66,
     "events_ar_upcoming": 40,
     "events_intl_upcoming": 26,
     "events_later": 36,
     "opportunities_open": 8,
     "opportunities_today": 0,
-    "ai_today": 1,
+    "ai_today": 0,
     "ai_to_try": 59,
-    "content_ideas": 69,
+    "content_ideas": 67,
     "added_news": 0,
     "updated_news": 0,
     "added_events": 0,
     "updated_events": 1,
-    "added_ai": 1,
-    "archived": 7,
+    "added_ai": 0,
+    "archived": 5,
     "discarded_quality": 0
   },
   "next_event": {
@@ -45,21 +45,21 @@
       "kind": "news",
       "title": "Los combustibles subieron hasta 5% y se rompió el acuerdo de precios que regía desde mayo",
       "priority": "alta",
-      "one_liner": "Impacta directo en el costo de transporte y última milla de cara al último trimestre."
+      "one_liner": "Presiona los costos de transporte y última milla de cara al último trimestre."
     },
     {
       "id": "nw-1732c195bc",
       "kind": "news",
       "title": "CACE confirmó las fechas de CyberMonday y Black Friday 2026 y abrió las inscripciones",
-      "priority": "relevante",
-      "one_liner": "Arranca la planificación comercial y logística de fin de año."
+      "priority": "alta",
+      "one_liner": "Con CyberMonday del 2 al 4 de noviembre según la CACE, arranca la planificación de capacidad de fin de año."
     },
     {
       "id": "nw-04ec1c0b57",
       "kind": "news",
       "title": "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega",
       "priority": "relevante",
-      "one_liner": "Primer caso regional de compra completa dentro de un asistente de IA, que cambia cómo llegan los pedidos a la logística."
+      "one_liner": "Primer caso regional de compra completa dentro de un asistente de IA."
     }
   ]
 }

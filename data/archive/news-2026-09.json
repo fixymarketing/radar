@@ -413,5 +413,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-08",
     "first_seen": "2026-09-08"
+  },
+  {
+    "title": "El Gobierno endurece los controles a juguetes importados que se venden por marketplaces",
+    "what_happened": "Tras prohibir la venta de los juguetes blandos \"squishy\" por riesgo químico y ordenar destruir el stock (Disposición 690/2026), la Cámara Argentina de la Industria del Juguete alertó que en el primer semestre de 2026 hubo 330 retiros de juguetes a nivel global (un 8,2% más que en igual período de 2025), con cerca del 90% de origen chino. Las autoridades dispusieron medidas de cese de comercialización que alcanzan puntualmente a plataformas de intermediación y redes sociales, además de los comercios físicos.",
+    "why_it_matters": "El control sobre seguridad de producto empieza a mirar explícitamente a los marketplaces y no solo al importador o fabricante, lo que sube la vara de compliance para todo el circuito de venta online.",
+    "fixy_impact": "Un operador de fulfillment que guarda y despacha productos importados por cuenta de terceros puede quedar expuesto si un cliente vende mercadería sin las certificaciones exigidas; conviene pedir declaración jurada de conformidad a los sellers antes de recibir esa mercadería en depósito.",
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "Página/12",
+    "source_url": "https://www.pagina12.com.ar/2026/09/08/advierten-sobre-los-peligros-de-juguetes-importados-que-no-pasaron-controles-de-seguridad/",
+    "published_date": "2026-09-08",
+    "priority": "informativo",
+    "tags": [
+      "regulación",
+      "marketplaces",
+      "seguridad de producto",
+      "importaciones",
+      "compliance"
+    ],
+    "id": "nw-555f476729",
+    "source_kind": "auto",
+    "last_updated": "2026-09-09",
+    "first_seen": "2026-09-09"
   }
 ]

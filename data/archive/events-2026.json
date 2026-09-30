@@ -1985,5 +1985,110 @@
     "source_kind": "auto",
     "last_updated": "2026-09-21",
     "first_seen": "2026-09-21"
+  },
+  {
+    "scope": "ar",
+    "name": "Nerdearla Argentina 2026",
+    "organizer": "Nerdearla",
+    "date_start": "2026-09-22",
+    "date_end": "2026-09-26",
+    "date_confirmed": true,
+    "date_note": "Del 22 al 23/9 charlas online; presencial en Ciudad Cultural Konex del 24 al 26/9.",
+    "city": "CABA",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "country": "Argentina",
+    "venue": "Ciudad Cultural Konex",
+    "venue_confirmed": true,
+    "format": "híbrido",
+    "category": "Tecnología",
+    "url": "https://nerdearla.com/en/argentina/",
+    "source_url": "https://nerdearla.com/en/argentina/schedule/",
+    "description": "El evento de tecnología gratuito más grande del mundo hispanohablante, con charlas online y presenciales sobre desarrollo, IA, datos e infraestructura.",
+    "fixy_relevance": "Fuente de tendencias tecnológicas (IA, automatización, datos) aplicables a WMS, TMS y atención al cliente, además de cantera de talento técnico para operaciones y sistemas.",
+    "justification_type": null,
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-argentina-nerdearla-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-08-20",
+        "fields": [
+          "date_note",
+          "city",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-08-29",
+        "fields": [
+          "organizer",
+          "date_note",
+          "city",
+          "province",
+          "venue",
+          "url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-08-30",
+        "fields": [
+          "date_note",
+          "province",
+          "venue",
+          "url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-05",
+        "fields": [
+          "date_note",
+          "city",
+          "province",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "EXA 2026 (Expo Argentina Región Centro)",
+    "organizer": "Unión de Comerciantes e Industriales del Departamento San Lorenzo (UCI), comercializado por Eureka Pop Entertainment",
+    "date_start": "2026-09-24",
+    "date_end": "2026-09-26",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "San Lorenzo",
+    "province": "Santa Fe",
+    "country": "Argentina",
+    "venue": "Parque Industrial y Logístico de San Lorenzo",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.expoargentinacentro.com",
+    "source_url": "https://www.rosario3.com/-economia-negocios-agro-/exa-2026-abre-el-jueves-en-san-lorenzo-con-una-agenda-centrada-en-produccion-logistica-y-nuevas-tecnologias-20260919-0010.html",
+    "description": "Primera edición de una exposición industrial y comercial en el Parque Industrial y Logístico de San Lorenzo (cordón industrial de Rosario), con más de 200 empresas y foros sobre hidrovía, industria, innovación, comercio y logística.",
+    "fixy_relevance": "Reúne en un solo lugar a industria, comercio y logística del cordón Rosario-San Lorenzo, un polo productivo clave fuera de CABA/GBA donde Fixy puede relevar potenciales clientes y socios del ecosistema logístico del Litoral.",
+    "justification_type": null,
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-argentina-centro-exa-region-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
   }
 ]

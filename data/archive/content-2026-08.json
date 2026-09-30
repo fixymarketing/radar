@@ -482,5 +482,35 @@
     "source_kind": "auto",
     "last_updated": "2026-08-29",
     "first_seen": "2026-08-29"
+  },
+  {
+    "topic": "El Correo Argentino en pausa: qué significa el freno a la concesión para la última milla del comercio transfronterizo",
+    "why_now": "El Gobierno frenó la concesión del Correo Argentino por las elecciones de 2027, justo cuando el organismo quedó equiparado a los couriers privados para las compras en Shein, Temu y Amazon.",
+    "fixy_angle": "Fixy puede explicar en términos simples qué significa la demora para quienes importan y venden productos comprados en el exterior, y qué alternativas de última milla existen mientras se define el futuro del correo estatal.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.canal26.com/politica/2026/08/28/el-gobierno-pone-en-pausa-la-concesion-del-correo-argentino-de-las-demoras-a-su-importancia-durante-las-elecciones-de-2027/",
+    "id": "ct-7947af18",
+    "source_kind": "auto",
+    "last_updated": "2026-08-30",
+    "first_seen": "2026-08-30"
+  },
+  {
+    "topic": "La 'uberización' de la última milla: cómo sumar conductores externos sin perder calidad de servicio",
+    "why_now": "La coordinación tecnológica de flotas mixtas y conductores externos ya es tema de agenda en medios especializados como respuesta al boom sostenido del ecommerce.",
+    "fixy_angle": "Fixy puede compartir, desde su propia experiencia operativa, qué hace falta (tecnología, control de calidad, capacitación) para sumar conductores externos sin resignar el nivel de servicio que sostiene con flota propia.",
+    "formats": [
+      "LinkedIn",
+      "artículo"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.ambito.com/negocios/la-logistica-acelera-el-uso-tecnologia-automatizacion-y-modelos-uberizados-sostener-el-boom-del-ecommerce-n6312398",
+    "id": "ct-70176d36",
+    "source_kind": "auto",
+    "last_updated": "2026-08-30",
+    "first_seen": "2026-08-30"
   }
 ]

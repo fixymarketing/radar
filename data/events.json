@@ -1,84 +1,6 @@
 [
   {
     "scope": "ar",
-    "name": "Nerdearla Argentina 2026",
-    "organizer": "Nerdearla",
-    "date_start": "2026-09-22",
-    "date_end": "2026-09-26",
-    "date_confirmed": true,
-    "date_note": "Del 22 al 23/9 charlas online; presencial en Ciudad Cultural Konex del 24 al 26/9.",
-    "city": "CABA",
-    "province": "Ciudad Autónoma de Buenos Aires",
-    "country": "Argentina",
-    "venue": "Ciudad Cultural Konex",
-    "venue_confirmed": true,
-    "format": "híbrido",
-    "category": "Tecnología",
-    "url": "https://nerdearla.com/en/argentina/",
-    "source_url": "https://nerdearla.com/en/argentina/schedule/",
-    "description": "El evento de tecnología gratuito más grande del mundo hispanohablante, con charlas online y presenciales sobre desarrollo, IA, datos e infraestructura.",
-    "fixy_relevance": "Fuente de tendencias tecnológicas (IA, automatización, datos) aplicables a WMS, TMS y atención al cliente, además de cantera de talento técnico para operaciones y sistemas.",
-    "justification_type": null,
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-argentina-nerdearla-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-05",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-08-20",
-        "fields": [
-          "date_note",
-          "city",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-08-29",
-        "fields": [
-          "organizer",
-          "date_note",
-          "city",
-          "province",
-          "venue",
-          "url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-08-30",
-        "fields": [
-          "date_note",
-          "province",
-          "venue",
-          "url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-09-05",
-        "fields": [
-          "date_note",
-          "city",
-          "province",
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
     "name": "AILAT26 - AI in LatAm (Edición Argentina)",
     "organizer": "AI in LatAm",
     "date_start": "2026-10-01",
@@ -463,42 +385,30 @@
   {
     "scope": "ar",
     "name": "CyberMonday 2026",
-    "organizer": "CACE - Cámara Argentina de Comercio Electrónico",
+    "organizer": "Cámara Argentina de Comercio Electrónico (CACE)",
     "date_start": "2026-11-02",
     "date_end": "2026-11-04",
     "date_confirmed": true,
-    "date_note": "La CACE confirmó oficialmente el 2 al 4 de noviembre como las 72 horas de CyberMonday, aunque el sitio cybermonday.com.ar muestra 3, 4 y 5 de noviembre. Del 5 al 8 de noviembre, además, varias marcas extienden beneficios bajo el formato \"Cyber Week\".",
-    "city": "Ciudad Autónoma de Buenos Aires",
+    "date_note": "La CACE confirmó oficialmente el 2 al 4 de noviembre como las 72 horas de CyberMonday, aunque el sitio cybermonday.com.ar muestra 3, 4 y 5 de noviembre y algunos medios también hablan del 3 al 5. Del 5 al 8 de noviembre, además, varias marcas extienden beneficios bajo el formato \"Cyber Week\".",
+    "city": "Online",
     "province": "Buenos Aires",
     "country": "Argentina",
-    "venue": "Online (todo el país)",
+    "venue": "Plataforma oficial cybermonday.com.ar",
     "venue_confirmed": true,
     "format": "virtual",
     "category": "eCommerce",
-    "url": "https://www.cybermonday.com.ar/",
-    "source_url": "https://www.ambito.com/economia/confirmaron-las-fechas-del-black-friday-y-cyber-monday-2026-n6326087",
-    "description": "Evento anual de descuentos online organizado por CACE, con más de 900 marcas adheridas y precios diferenciales durante 72 horas.",
-    "fixy_relevance": "Pico de demanda de eCommerce y última milla: clave para planificar capacidad operativa, stock y despachos de Fixy con anticipación.",
+    "url": "https://www.cybermonday.com.ar",
+    "source_url": "https://mercado.com.ar/agenda/cybermonday-2026-abrio-contrataciones-y-definio-bonificaciones-para-nuevos-socios-y-pymes",
+    "description": "Evento de descuentos online de tres días organizado por la CACE, con las empresas adheridas ofreciendo promociones en la plataforma oficial.",
+    "fixy_relevance": "Es el pico de volumen de envíos del último trimestre para los clientes de fulfillment y última milla de Fixy. Con la duración confirmada en tres días conviene ajustar la capacidad y los plazos de despacho.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cybermonday-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-30",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-05",
-        "fields": [
-          "date_note",
-          "city",
-          "province",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-09-06",
         "fields": [
@@ -538,6 +448,19 @@
           "date_note",
           "city",
           "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-30",
+        "fields": [
+          "organizer",
+          "date_note",
+          "city",
+          "venue",
+          "url",
+          "source_url",
           "description",
           "fixy_relevance"
         ]
@@ -3942,33 +3865,6 @@
     "source_kind": "auto",
     "last_updated": "2026-09-23",
     "first_seen": "2026-09-23"
-  },
-  {
-    "scope": "ar",
-    "name": "EXA 2026 (Expo Argentina Región Centro)",
-    "organizer": "Unión de Comerciantes e Industriales del Departamento San Lorenzo (UCI), comercializado por Eureka Pop Entertainment",
-    "date_start": "2026-09-24",
-    "date_end": "2026-09-26",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "San Lorenzo",
-    "province": "Santa Fe",
-    "country": "Argentina",
-    "venue": "Parque Industrial y Logístico de San Lorenzo",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Logística",
-    "url": "https://www.expoargentinacentro.com",
-    "source_url": "https://www.rosario3.com/-economia-negocios-agro-/exa-2026-abre-el-jueves-en-san-lorenzo-con-una-agenda-centrada-en-produccion-logistica-y-nuevas-tecnologias-20260919-0010.html",
-    "description": "Primera edición de una exposición industrial y comercial en el Parque Industrial y Logístico de San Lorenzo (cordón industrial de Rosario), con más de 200 empresas y foros sobre hidrovía, industria, innovación, comercio y logística.",
-    "fixy_relevance": "Reúne en un solo lugar a industria, comercio y logística del cordón Rosario-San Lorenzo, un polo productivo clave fuera de CABA/GBA donde Fixy puede relevar potenciales clientes y socios del ecosistema logístico del Litoral.",
-    "justification_type": null,
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-argentina-centro-exa-region-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-24",
-    "first_seen": "2026-09-24"
   },
   {
     "scope": "ar",
