@@ -4230,5 +4230,32 @@
     "source_kind": "auto",
     "last_updated": "2026-09-28",
     "first_seen": "2026-09-28"
+  },
+  {
+    "scope": "intl",
+    "name": "CyberMonday Chile 2026",
+    "organizer": "Cámara de Comercio de Santiago (CCS)",
+    "date_start": "2026-10-05",
+    "date_end": "2026-10-07",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Santiago",
+    "province": null,
+    "country": "Chile",
+    "venue": "Online",
+    "venue_confirmed": true,
+    "format": "virtual",
+    "category": "eCommerce",
+    "url": "https://www.cybermonday.cl/",
+    "source_url": "https://www.cnnchile.com/negocios/cybermonday-2026-proyecta-us-460-millones-ventas-15-aniversario/",
+    "description": "Edición 15 del CyberMonday chileno, del 5 al 7 de octubre, con 514 marcas y ventas proyectadas por US$460 millones y 4,5 millones de transacciones.",
+    "fixy_relevance": "Adelanta con un mes la dinámica de picos de demanda y entregas que Fixy enfrentará en el CyberMonday argentino (2 al 4 de noviembre). El SERNAC reportó que casi 40% de los reclamos del CyberDay 2025 fueron por demoras de entrega: buen insumo de contenido y planificación.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-chile-cybermonday-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-10-01",
+    "first_seen": "2026-10-01"
   }
 ]

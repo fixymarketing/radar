@@ -436,5 +436,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-09",
     "first_seen": "2026-09-09"
+  },
+  {
+    "title": "Jorge Brito dice que la mora de los créditos ya tocó el techo y empezó a bajar",
+    "what_happened": "El presidente de Banco Macro, Jorge Brito, afirmó públicamente el 9 de septiembre que la mora crediticia \"tocó el semáforo en rojo\" y que ahora está \"en amarillo\". Precisó que un 14% del crédito total a personas registra algún nivel de atraso, con una brecha marcada: 7,6% en bancos frente a un 33% en billeteras virtuales y financieras no bancarias (dato de junio).",
+    "why_it_matters": "Es la primera lectura pública de un banquero de peso que sugiere que el pico de mora récord empezaría a quedar atrás, aunque la brecha entre bancos y fintechs/billeteras sigue siendo enorme y condiciona cuánto crédito al consumo puede sostener el gasto online.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/09/09/jorge-brito-hablo-sobre-la-mora-en-los-creditos-tocamos-el-semaforo-en-rojo-pero-ahora-ya-estamos-en-amarillo/",
+    "published_date": "2026-09-09",
+    "priority": "informativo",
+    "tags": [
+      "mora",
+      "créditos",
+      "Banco Macro",
+      "billeteras virtuales",
+      "fintech"
+    ],
+    "id": "nw-c211e9445c",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
   }
 ]

@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-10-01",
+    "at": "2026-10-01T12:15:13.929Z",
+    "status": "ok",
+    "added": {
+      "news": 0,
+      "events": 1,
+      "ai": 0,
+      "opportunities": 0,
+      "content": 0
+    },
+    "updated": {
+      "news": 0,
+      "events": 0,
+      "ai": 0
+    },
+    "archived": {
+      "events": 0,
+      "news": 1,
+      "ai": 0,
+      "opportunities": 0,
+      "content": 2
+    },
+    "discarded": 0,
+    "errors": []
+  },
+  {
     "date": "2026-09-30",
     "at": "2026-09-30T12:16:10.567Z",
     "status": "ok",
@@ -1054,31 +1080,5 @@
         "message": "Falta ANTHROPIC_API_KEY. Agregala como GitHub Secret del repositorio (Settings → Secrets and variables → Actions)."
       }
     ]
-  },
-  {
-    "date": "2026-08-24",
-    "at": "2026-08-24T12:34:52.134Z",
-    "status": "ok",
-    "added": {
-      "news": 2,
-      "events": 1,
-      "ai": 2,
-      "opportunities": 2,
-      "content": 3
-    },
-    "updated": {
-      "news": 1,
-      "events": 2,
-      "ai": 1
-    },
-    "archived": {
-      "events": 0,
-      "news": 0,
-      "ai": 0,
-      "opportunities": 2,
-      "content": 0
-    },
-    "discarded": 0,
-    "errors": []
   }
 ]
