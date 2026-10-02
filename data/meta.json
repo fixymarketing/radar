@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-01T12:15:13.928Z",
-  "last_updated_ar": "01/10/2026, 09:15",
-  "date": "2026-10-01",
+  "generated_at": "2026-10-02T12:16:30.183Z",
+  "last_updated_ar": "02/10/2026, 09:16",
+  "date": "2026-10-02",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Día con poco material nuevo: la CACE confirmó CyberMonday del 2 al 4 de noviembre, y siguen vigentes el desenlace del conflicto en el puerto de Montevideo y la suba de combustibles.",
+  "summary_line": "Día con poco material nuevo: sin novedades verificables adicionales; siguen vigentes el desenlace del conflicto en el puerto de Montevideo, la suba de combustibles y la preparación para CyberMonday del 2 al 4 de noviembre.",
   "counters": {
     "news_today": 0,
-    "news_total": 42,
-    "events_upcoming": 65,
-    "events_ar_upcoming": 39,
-    "events_intl_upcoming": 26,
+    "news_total": 35,
+    "events_upcoming": 62,
+    "events_ar_upcoming": 38,
+    "events_intl_upcoming": 24,
     "events_later": 36,
     "opportunities_open": 8,
     "opportunities_today": 0,
     "ai_today": 0,
     "ai_to_try": 59,
-    "content_ideas": 65,
+    "content_ideas": 63,
     "added_news": 0,
     "updated_news": 0,
-    "added_events": 1,
+    "added_events": 0,
     "updated_events": 0,
     "added_ai": 0,
-    "archived": 3,
+    "archived": 9,
     "discarded_quality": 0
   },
   "next_event": {
@@ -38,29 +38,21 @@
       "kind": "news",
       "title": "El plazo para resolver el conflicto portuario de TCP en Montevideo vence hoy, con 20 puntos ya acordados",
       "priority": "alta",
-      "one_liner": "Hoy se define si se normaliza la principal terminal de contenedores de Uruguay, por donde pasa carga argentina."
-    },
-    {
-      "id": "nw-9354e19ee1",
-      "kind": "news",
-      "title": "Los combustibles subieron hasta 5% y se rompió el acuerdo de precios que regía desde mayo",
-      "priority": "alta",
-      "one_liner": "Presiona los costos de transporte y última milla de cara al último trimestre."
+      "one_liner": "Hoy se define si se normaliza la terminal de contenedores clave para la carga de importación y exportación argentina."
     },
     {
       "id": "nw-1732c195bc",
       "kind": "news",
       "title": "CACE confirmó las fechas de CyberMonday y Black Friday 2026 y abrió las inscripciones",
       "priority": "alta",
-      "one_liner": "Con CyberMonday del 2 al 4 de noviembre según la CACE, arranca la planificación de capacidad de fin de año."
+      "one_liner": "Arranca la planificación de capacidad logística para el pico de fin de año, con CyberMonday del 2 al 4 de noviembre."
     },
     {
-      "id": "nw-04ec1c0b57",
+      "id": "nw-9354e19ee1",
       "kind": "news",
-      "title": "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega",
+      "title": "Los combustibles subieron hasta 5% y se rompió el acuerdo de precios que regía desde mayo",
       "priority": "relevante",
-      "one_liner": "Primer caso regional de compra completa dentro de un asistente de IA."
+      "one_liner": "Presiona los costos de transporte y última milla de cara al último trimestre."
     }
-  ],
-  "summary_from_previous_day": true
+  ]
 }
