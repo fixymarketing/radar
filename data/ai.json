@@ -357,6 +357,29 @@
     "first_seen": "2026-08-22"
   },
   {
+    "name": "Claude Sonnet 5.5",
+    "vendor": "Anthropic",
+    "what_it_is": "Modelo de Claude pensado para el trabajo de todos los días: armar documentos, planillas y presentaciones, analizar imágenes y ejecutar tareas de varios pasos usando herramientas.",
+    "what_changed": "Se lanzó el 28 de septiembre de 2026 como reemplazo de Sonnet 5: según Anthropic es más de un 30% más rápido y cuesta hasta un 30% menos por tarea, porque usa menos tokens con el mismo precio por token.",
+    "fixy_use": "Es una opción para los flujos que ya corren sobre Claude o la API (por ejemplo, clasificar y responder consultas de seguimiento de envíos, o armar reportes de operaciones desde planillas). Con menos costo por tarea conviene volver a medir los flujos automatizados que hoy usan un modelo más caro. Para uso diario en el chat o en Cowork no hace falta hacer nada: se elige desde el selector de modelos.",
+    "verdict": "probar",
+    "verdict_reason": "Mismo precio por token, más velocidad y menor consumo: vale la pena comparar contra el modelo actual en un flujo real antes de migrar.",
+    "categories": [
+      "Productividad",
+      "Automatización",
+      "Operaciones",
+      "Análisis"
+    ],
+    "pricing_note": "pago: API a USD 2 por millón de tokens de entrada y USD 10 por millón de salida (mismo precio que Sonnet 5); disponible en planes de Claude y en AWS, Google Cloud y Azure",
+    "source_url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "published_date": "2026-09-28",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-sonnet-5-5",
+    "source_kind": "auto",
+    "last_updated": "2026-10-03",
+    "first_seen": "2026-10-03"
+  },
+  {
     "name": "Microsoft Copilot unificado (Home, Code, Autopilot)",
     "vendor": "Microsoft",
     "what_it_is": "Microsoft rediseñó Copilot como una sola app con tres partes: Home (chat y retomar tareas), Code (crear apps y paneles internos con lenguaje natural, sin programar) y Autopilot (un agente que sigue trabajando en segundo plano aunque el usuario se desconecte).",

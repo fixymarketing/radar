@@ -620,5 +620,27 @@
     "source_kind": "auto",
     "last_updated": "2026-09-14",
     "first_seen": "2026-09-14"
+  },
+  {
+    "title": "Entró en vigencia la nueva concesión de la Hidrovía Paraná-Paraguay y bajan los peajes",
+    "what_happened": "El consorcio Vía Navegable Argentina, formado por la belga Jan De Nul y la argentina Servimagnus, asumió el 10 de septiembre la operación de la Vía Navegable Troncal por los próximos 25 años. La medida bajó 13,5% el valor del peaje (de US$4,30 a US$3,80 por tonelada de registro neto) e incluye obras de dragado hasta los 34 pies en los ríos Paraná Bravo y Guazú.",
+    "why_it_matters": "Por esta vía circula cerca del 80% de las exportaciones agroindustriales del país, así que la baja de costos de navegación es una señal más de reducción de costos logísticos estructurales en Argentina, aunque no toca directamente la última milla urbana.",
+    "fixy_impact": null,
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Saladillo Campo",
+    "source_url": "https://saladillocampo.com.ar/blog/2026/09/11/hidrovia-mas-barata-baja-135-el-peaje-y-el-agro-ahorraria-hasta-us-456-millones/",
+    "published_date": "2026-09-11",
+    "priority": "informativo",
+    "tags": [
+      "hidrovía",
+      "costos logísticos",
+      "comercio exterior",
+      "infraestructura"
+    ],
+    "id": "nw-0b1793a029",
+    "source_kind": "auto",
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-09-15"
   }
 ]

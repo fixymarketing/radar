@@ -2178,29 +2178,43 @@
   {
     "scope": "ar",
     "name": "Santex Week 2026",
-    "organizer": "Santex, junto a \"La Liga del Bien de AI\" y la fundación \"Tecnología con Propósito\"",
+    "organizer": "Santex",
     "date_start": "2026-11-13",
     "date_end": "2026-11-15",
     "date_confirmed": false,
-    "date_note": "Varias fuentes (Cadena 3, Canal C, Infonegocios, Puntoapunto) coinciden en las fechas 13, 14 y 15 de noviembre de 2026, pero describen el 13 como \"miércoles\": en 2026 el 13 de noviembre cae viernes, no miércoles. Se mantienen las fechas por ser las más citadas, pero conviene confirmar con la organización antes de publicar como definitivas.",
+    "date_note": "Las fuentes citan 13 al 15 de noviembre con el 13 como miércoles, lo que coincide con 2024; en 2026 el 13/11 es viernes. No hay anuncio verificable de la edición 2026: no se confirma fecha.",
     "city": "Córdoba",
     "province": "Córdoba",
     "country": "Argentina",
     "venue": "Hotel Quinto Centenario",
     "venue_confirmed": true,
-    "format": "híbrido",
-    "category": "Innovación",
-    "url": "https://week.santexgroup.com/",
+    "format": "presencial",
+    "category": "Tecnología",
+    "url": "https://puntoapunto.com.ar/para-agendar-se-viene-la-santex-week-el-evento-internacional-de-tecnologia-en-cordoba/",
     "source_url": "https://www.cadena3.com/noticia/informados-al-regreso/cordoba-recibe-el-santex-week-un-evento-internacional-de-tecnologia-y-negocios_400701",
-    "description": "Encuentro internacional gratuito organizado por Santex en Córdoba, con tres jornadas temáticas (desafíos globales, innovación tecnológica y desafíos humanos) y participación esperada de más de 3.000 asistentes entre tecnología, empresas y sector público.",
-    "fixy_relevance": "Buen termómetro de tendencias de IA e innovación aplicadas a negocios desde el ecosistema tech de Córdoba, con potencial de networking con partners tecnológicos del interior.",
+    "description": "Evento de tecnología y negocios organizado por Santex en Córdoba. La cobertura encontrada describe la edición con miércoles 13, jueves 14 y viernes 15 de noviembre, combinación que corresponde a 2024.",
+    "fixy_relevance": "Networking tecnológico en el interior; sirve para contactos con proveedores de software y empresas cordobesas.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-santex-week-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-23",
-    "first_seen": "2026-08-23"
+    "last_updated": "2026-10-03",
+    "first_seen": "2026-08-23",
+    "change_log": [
+      {
+        "date": "2026-10-03",
+        "fields": [
+          "organizer",
+          "date_note",
+          "format",
+          "category",
+          "url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -3731,29 +3745,43 @@
   {
     "scope": "ar",
     "name": "INNOVA SALTA 2026",
-    "organizer": "Gobierno de la Provincia de Salta, con apoyo del Consejo Federal de Inversiones (CFI), INTI y el Ecosistema Emprendedor de Salta",
+    "organizer": "Gobierno de la Provincia de Salta",
     "date_start": "2026-11-15",
     "date_end": "2026-11-15",
     "date_confirmed": false,
-    "date_note": "Varias notas de prensa del Gobierno de Salta indican 'jueves 15 de noviembre', pero el 15 de noviembre de 2026 cae domingo, no jueves; no se pudo determinar si el dato erróneo es el día de la semana o la fecha exacta. Conviene confirmar con la organización antes de agendar.",
+    "date_note": "La fuente citaba 'jueves 15 de noviembre', pero el 15/11/2026 es domingo (el 15/11 fue jueves en 2018). Fecha 2026 no verificada; no se confirma.",
     "city": "Salta",
     "province": "Salta",
     "country": "Argentina",
     "venue": "Centro de Convenciones de Limache",
     "venue_confirmed": true,
     "format": "presencial",
-    "category": "Innovación",
-    "url": "https://www.edusalta.gov.ar/index.php/informacion/partes-de-prensa/5578-el-innova-salta-llega-con-una-interesante-propuesta-para-emprendedores",
-    "source_url": "https://www.edusalta.gov.ar/index.php/informacion/partes-de-prensa/5578-el-innova-salta-llega-con-una-interesante-propuesta-para-emprendedores",
-    "description": "V edición del showroom de innovación y tecnología organizado por el Gobierno de Salta, con proyectos de emprendedores, pymes, universidades y grupos de investigación de la provincia; entrada libre y gratuita.",
-    "fixy_relevance": "Es una de las pocas señales concretas del ecosistema de innovación y emprendimiento salteño dentro de la ventana de 90 días; útil para que Fixy detecte pymes y proyectos tecnológicos del NOA que puedan necesitar fulfillment o última milla al escalar sus ventas online.",
+    "category": "Tecnología",
+    "url": "https://www.salta.gob.ar/prensa/noticias/salta-se-prepara-para-ser-sede-de-un-importante-evento-sobre-tecnologia-98606",
+    "source_url": "https://www.salta.gob.ar/prensa/noticias/salta-se-prepara-para-ser-sede-de-un-importante-evento-sobre-tecnologia-98606",
+    "description": "Showroom de innovación y tecnología del Gobierno de Salta, con ediciones anuales previas. No se halló anuncio verificable de la edición 2026.",
+    "fixy_relevance": "Evento del NOA para conocer el ecosistema tecnológico y emprendedor salteño.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-innova-salta-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-22",
-    "first_seen": "2026-09-22"
+    "last_updated": "2026-10-03",
+    "first_seen": "2026-09-22",
+    "change_log": [
+      {
+        "date": "2026-10-03",
+        "fields": [
+          "organizer",
+          "date_note",
+          "category",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -3873,7 +3901,7 @@
     "date_start": "2026-10-09",
     "date_end": "2026-10-09",
     "date_confirmed": false,
-    "date_note": "Las coberturas periodísticas indican \"jueves 9 de octubre de 2026\", pero el 9 de octubre de 2026 cae viernes según el calendario. Se mantiene la fecha 2026-10-09 informada por la fuente con la alerta correspondiente.",
+    "date_note": "El 'jueves 9 de octubre' corresponde a 2025; el 9/10/2026 es viernes. Sin anuncio verificable para 2026 en Mar del Plata (hay referencias a una edición 2026 en Mendoza, sin confirmar).",
     "city": "Mar del Plata",
     "province": "Buenos Aires",
     "country": "Argentina",
@@ -3881,17 +3909,30 @@
     "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
-    "url": "https://cace.org.ar/eventos/ecommerce-go-mar-del-plata/",
-    "source_url": "https://cace.org.ar/blogs/news/tagged/ecommerce-go",
-    "description": "Edición marplatense del ciclo federal eCommerce GO de CACE, con foco en tendencias, casos reales e inteligencia artificial aplicada a negocios digitales, gratuita para socios de la cámara.",
-    "fixy_relevance": "Encuentro de comercio electrónico fuera de CABA/GBA que junta a pymes y marcas de Mar del Plata que venden online: espacio de networking comercial y relevamiento de potenciales clientes de fulfillment en la costa atlántica.",
+    "url": "https://cace.org.ar/blogs/news/tagged/ecommerce-go",
+    "source_url": "https://cace.org.ar/blogs/news/el-ecommerce-go-2025-llega-a-mar-del-plata-con-foco-en-la-economia-digital",
+    "description": "Gira federal de CACE por distintas ciudades. La nota de Mar del Plata hallada corresponde a 2025 (jueves 9/10/2025 en Jano's Playa Grande); no hay confirmación de una parada marplatense en 2026.",
+    "fixy_relevance": "Evento de CACE, cámara clave del eCommerce; sirve para contactos de comerciantes online del interior.",
     "justification_type": null,
-    "priority": "relevante",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-ecommerce-go-mar-plata-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-24",
-    "first_seen": "2026-09-24"
+    "last_updated": "2026-10-03",
+    "first_seen": "2026-09-24",
+    "change_log": [
+      {
+        "date": "2026-10-03",
+        "fields": [
+          "date_note",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "ar",
@@ -4035,24 +4076,24 @@
     "date_start": null,
     "date_end": null,
     "date_confirmed": false,
-    "date_note": "El sitio financesecurityforum.com y el calendario de CriptoNoticias ubican la parada de Buenos Aires en noviembre de 2026, dentro de una gira regional que también incluye CDMX y Bogotá, pero no precisan el día exacto. Este dato difiere del 30/09/2026 cargado en otra entrada de la agenda para el mismo evento; se recomienda confirmar con la fuente oficial cuál corresponde y unificar ambas entradas.",
-    "city": "CABA",
-    "province": "Buenos Aires (CABA)",
+    "date_note": "CriptoNoticias y el sitio oficial indican noviembre de 2026 sin día exacto. La fecha 30/09/2026 de otra ficha no pudo verificarse; se recomienda unificar fichas en noviembre.",
+    "city": "Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
     "venue": "Por confirmar",
     "venue_confirmed": false,
     "format": "presencial",
     "category": "Pagos y Fintech",
-    "url": "https://financesecurityforum.com/",
+    "url": "https://financesecurityforum.com",
     "source_url": "https://www.criptonoticias.com/calendario-eventos/finance-security-forum/",
-    "description": "Encuentro de acceso restringido (por invitación o ticket sujeto a perfil) dirigido a bancos, fintechs y empresas del ecosistema cripto, centrado en seguridad financiera ante la creciente adopción de Bitcoin y criptomonedas.",
-    "fixy_relevance": "Relevancia acotada para Fixy: interesa solo si la empresa avanza en medios de pago con cripto o necesita monitorear tendencias de fraude y seguridad en pagos digitales, no es prioritario para logística u operaciones.",
+    "description": "Foro sobre seguridad financiera, fraude con IA, identidad digital y cumplimiento para bancos, fintechs y cripto. Parte de una gira regional con México y Bogotá.",
+    "fixy_relevance": "Útil para conocer prácticas de prevención de fraude en pagos aplicables al eCommerce.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-aires-buenos-finance-forum-security-La a",
     "source_kind": "auto",
-    "last_updated": "2026-09-28",
+    "last_updated": "2026-10-03",
     "first_seen": "2026-09-27",
     "change_log": [
       {
@@ -4063,6 +4104,17 @@
           "province",
           "format",
           "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-03",
+        "fields": [
+          "date_note",
+          "city",
+          "province",
+          "url",
           "description",
           "fixy_relevance"
         ]

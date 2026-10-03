@@ -69,28 +69,6 @@
     "first_seen": "2026-09-15"
   },
   {
-    "title": "Entró en vigencia la nueva concesión de la Hidrovía Paraná-Paraguay y bajan los peajes",
-    "what_happened": "El consorcio Vía Navegable Argentina, formado por la belga Jan De Nul y la argentina Servimagnus, asumió el 10 de septiembre la operación de la Vía Navegable Troncal por los próximos 25 años. La medida bajó 13,5% el valor del peaje (de US$4,30 a US$3,80 por tonelada de registro neto) e incluye obras de dragado hasta los 34 pies en los ríos Paraná Bravo y Guazú.",
-    "why_it_matters": "Por esta vía circula cerca del 80% de las exportaciones agroindustriales del país, así que la baja de costos de navegación es una señal más de reducción de costos logísticos estructurales en Argentina, aunque no toca directamente la última milla urbana.",
-    "fixy_impact": null,
-    "category": "Logística",
-    "geo": "Argentina",
-    "source_name": "Saladillo Campo",
-    "source_url": "https://saladillocampo.com.ar/blog/2026/09/11/hidrovia-mas-barata-baja-135-el-peaje-y-el-agro-ahorraria-hasta-us-456-millones/",
-    "published_date": "2026-09-11",
-    "priority": "informativo",
-    "tags": [
-      "hidrovía",
-      "costos logísticos",
-      "comercio exterior",
-      "infraestructura"
-    ],
-    "id": "nw-0b1793a029",
-    "source_kind": "auto",
-    "last_updated": "2026-09-15",
-    "first_seen": "2026-09-15"
-  },
-  {
     "title": "Management Logístico 2026 reúne a CEDOL, ARLOG y FADEEAC para debatir rentabilidad y costos del sector",
     "what_happened": "El encuentro se realizó el miércoles 16 de septiembre en GoldenCenter (CABA) y convocó a más de 1.700 profesionales del sector logístico. En la apertura, referentes de CEDOL, ARLOG y FADEEAC coincidieron en la necesidad de revisar costos y procesos, ganar eficiencia e incorporar tecnología de forma significativa. FADEEAC presentó además un relevamiento de 22.700 km de rutas nacionales con conclusiones de deterioro del pavimento, señalización deficiente y obras inconclusas que elevan la siniestralidad y los costos operativos del transporte.",
     "why_it_matters": "Confirma que, para el propio sector, la rentabilidad, la tecnología y el estado de la infraestructura vial son los tres frentes críticos de 2026, en un contexto de consumo débil y presión de costos sobre los operadores.",
@@ -805,5 +783,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-28",
     "first_seen": "2026-09-28"
+  },
+  {
+    "title": "TCP y el sindicato portuario firmaron un preacuerdo que pone fin al conflicto en el Puerto de Montevideo",
+    "what_happened": "Terminal Cuenca del Plata y el sindicato portuario (Supra) firmaron el miércoles 30 de septiembre, en la Dirección Nacional de Trabajo, un preacuerdo propuesto por el Poder Ejecutivo uruguayo. Los 197 trabajadores con 20 jornales mensuales garantizados pasarán a 21 desde el 1° de enero de 2027, y el convenio tendría cinco años de vigencia con cláusula de paz. El texto final todavía debe pasar por una asamblea de los trabajadores.",
+    "why_it_matters": "Si la asamblea lo ratifica, se despeja un conflicto que acumulaba más de cuatro meses de paros intermitentes en la principal terminal de contenedores de Uruguay, clave para el comercio exterior de la región.",
+    "fixy_impact": "Reduce el riesgo de demoras en importaciones y exportaciones que pasan por Montevideo; conviene seguir la ratificación en asamblea antes de dar por normalizados los plazos de stock importado.",
+    "category": "Logística",
+    "geo": "LATAM",
+    "source_name": "Radio Monte Carlo (Uruguay)",
+    "source_url": "https://www.radiomontecarlo.com.uy/2026/10/01/nacionales/sindicato-y-tcp-firmaron-la-propuesta-del-gobierno/",
+    "published_date": "2026-10-01",
+    "priority": "relevante",
+    "tags": [
+      "Puerto de Montevideo",
+      "TCP",
+      "paros",
+      "comercio exterior",
+      "Uruguay"
+    ],
+    "id": "nw-a3bbee79e2",
+    "source_kind": "auto",
+    "last_updated": "2026-10-03",
+    "first_seen": "2026-10-03"
   }
 ]
