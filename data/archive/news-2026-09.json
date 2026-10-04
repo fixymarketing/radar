@@ -642,5 +642,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-15",
     "first_seen": "2026-09-15"
+  },
+  {
+    "title": "Mercosur exige a las tiendas online informar los derechos del consumidor, bajo riesgo de baja de dominio",
+    "what_happened": "El Grupo Mercado Común del Mercosur aprobó la Resolución 31/26, que obliga a los sitios de venta online a mostrar de forma clara y accesible los derechos del consumidor, las condiciones de contratación y los mecanismos de reclamo antes de habilitar su dominio de internet. El incumplimiento puede derivar en la baja de la conexión al DNS a pedido de una autoridad administrativa o judicial.",
+    "why_it_matters": "Es la primera vez que el bloque liga directamente el cumplimiento de reglas de protección al consumidor con la continuidad técnica del dominio de una tienda online, lo que eleva el costo de no cumplir para cualquier eCommerce de la región.",
+    "fixy_impact": "Los clientes de Fixy que tienen tienda propia deberían revisar que su sitio muestre esta información obligatoria, para no quedar expuestos a un reclamo que termine en la baja del dominio.",
+    "category": "Regulación",
+    "geo": "LATAM",
+    "source_name": "Argentina.gob.ar / Prensa Mercosur",
+    "source_url": "https://www.argentina.gob.ar/noticias/mercosur-refuerza-la-proteccion-de-los-consumidores-en-el-comercio-electronico",
+    "published_date": "2026-09-12",
+    "priority": "relevante",
+    "tags": [
+      "mercosur",
+      "regulación",
+      "ecommerce",
+      "consumidor",
+      "compliance"
+    ],
+    "id": "nw-1707cb90c3",
+    "source_kind": "auto",
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-09-15"
   }
 ]
