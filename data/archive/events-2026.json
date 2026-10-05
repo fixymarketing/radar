@@ -2159,5 +2159,137 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "AILAT26 - AI in LatAm (Edición Argentina)",
+    "organizer": "AI in LatAm",
+    "date_start": "2026-10-01",
+    "date_end": "2026-10-01",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "country": "Argentina",
+    "venue": "CEC – Centro de Convenciones Buenos Aires",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Tecnología",
+    "url": "https://www.ai-lat.com/",
+    "source_url": "https://www.infobae.com/economia/2026/09/24/ailat26-el-encuentro-que-prepara-a-las-organizaciones-para-el-proximo-cambio-impulsado-por-la-ia/",
+    "description": "Tercera edición del evento corporativo de IA en LatAm, con más de 35 sesiones y speakers de Google, Microsoft, TikTok, SAP y Nvidia.",
+    "fixy_relevance": "Oportunidad de detectar casos concretos de IA aplicada a operaciones, atención al cliente y logística que Fixy podría adoptar.",
+    "justification_type": null,
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-ai-ailat26-argentina-in-latam-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-08-20",
+        "fields": [
+          "name",
+          "organizer",
+          "province",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-08-30",
+        "fields": [
+          "organizer",
+          "city",
+          "province",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "province",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "city",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "intl",
+    "name": "Shoptalk Fall 2026",
+    "organizer": "Shoptalk (Hyve Group)",
+    "date_start": "2026-09-29",
+    "date_end": "2026-10-01",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Nashville",
+    "province": null,
+    "country": "Estados Unidos",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Retail",
+    "url": "https://fall.shoptalk.com/",
+    "source_url": "https://shoptalk.com/",
+    "description": "Edición de otoño de Shoptalk, orientada a que retailers y marcas definan sus estrategias de 2027. Formato más chico y ejecutivo que Shoptalk Spring.",
+    "fixy_relevance": "Reuniones 1-a-1 con decisores de retail y eCommerce de EE.UU. Sirve para detectar tendencias de fulfillment y omnicanalidad con 12 a 18 meses de anticipación respecto de Argentina.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-fall-shoptalk-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "scope": "intl",
+    "name": "D2C Summit 2026",
+    "organizer": "Nuvemshop",
+    "date_start": "2026-09-30",
+    "date_end": "2026-10-01",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "São Paulo",
+    "province": null,
+    "country": "Brasil",
+    "venue": "Distrito Anhembi",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "eCommerce",
+    "url": "https://d2csummit.com.br/",
+    "source_url": "https://brasilinovador.com.br/d2c-summit-2026-reune-mais-de-7-mil-executivos-no-distrito-anhembi-para-debater-eficiencia-no-e-commerce/",
+    "description": "Evento propio de Nuvemshop enfocado en marcas D2C (direct-to-consumer), con más de 7.000 ejecutivos esperados y un eje temático específico de automatización logística y fulfillment (micro-centros de distribución urbana, reducción de costos de flete y tiempos de entrega).",
+    "fixy_relevance": "Es el mayor evento de Brasil dedicado específicamente a marcas D2C que operan eCommerce propio, con un track explícito de fulfillment y logística urbana: audiencia ideal para generación de negocios (marcas que buscan operador logístico) y benchmarking de tendencias de última milla en el mercado más grande de la región.",
+    "justification_type": "negocios",
+    "priority": "alta",
+    "beyond_90": false,
+    "id": "ev-d2c-summit-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-09-15"
   }
 ]
