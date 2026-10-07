@@ -357,6 +357,28 @@
     "first_seen": "2026-08-22"
   },
   {
+    "name": "Gemini Skills (reemplazan a los Gems)",
+    "vendor": "Google",
+    "what_it_is": "Instrucciones reutilizables que se activan escribiendo una barra (/) en el chat de Gemini y en Google Workspace. Se pueden combinar varias en una misma conversación.",
+    "what_changed": "Google las anunció el 30 de septiembre como reemplazo a largo plazo de los Gems. El despliegue en la app de Gemini arranca el 13 de octubre y en Workspace desde el 5 de octubre (Rapid Release) y el 19 de octubre (Scheduled Release). La migración automática de Gems a Skills está prevista desde el 17 de noviembre, según un aviso en la app.",
+    "fixy_use": "Se puede armar una Skill para armar respuestas tipo de atención al cliente sobre demoras o estado de envíos, otra para redactar propuestas comerciales con el tono de Fixy y otra para el reporte semanal de operaciones. Cualquiera del equipo las invoca con una barra, sin copiar y pegar prompts.",
+    "verdict": "probar",
+    "verdict_reason": "Si ya usan Gems o Gemini en Workspace, conviene migrar los prompts repetitivos a Skills antes de noviembre.",
+    "categories": [
+      "Productividad",
+      "Automatización",
+      "Contenido"
+    ],
+    "pricing_note": "gratis según la prensa especializada (disponible para todos los usuarios); disponibilidad por plan de Workspace por confirmar",
+    "source_url": "https://www.pcworld.com/article/3246807/adios-gems-googles-new-gemini-skills-wont-be-paywalled.html",
+    "published_date": "2026-09-30",
+    "priority": "relevante",
+    "id": "ai-google-gemini-skills-reemplazan-a-los-gems",
+    "source_kind": "auto",
+    "last_updated": "2026-10-07",
+    "first_seen": "2026-10-07"
+  },
+  {
     "name": "Claude Sonnet 5.5",
     "vendor": "Anthropic",
     "what_it_is": "Modelo de Claude pensado para el trabajo de todos los días: armar documentos, planillas y presentaciones, analizar imágenes y ejecutar tareas de varios pasos usando herramientas.",

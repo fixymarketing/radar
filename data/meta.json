@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-05T12:15:48.506Z",
-  "last_updated_ar": "05/10/2026, 09:15",
-  "date": "2026-10-05",
+  "generated_at": "2026-10-07T12:16:08.166Z",
+  "last_updated_ar": "07/10/2026, 09:16",
+  "date": "2026-10-07",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Domingo sin material nuevo verificable: siguen el preacuerdo en el puerto de Montevideo, la suba de combustibles y la preparación para CyberMonday del 2 al 4 de noviembre.",
+  "summary_line": "Vence hoy el plazo en el puerto de Montevideo, se acerca el CyberMonday (2 al 4 de noviembre) y Google reemplaza los Gems por Skills.",
   "counters": {
     "news_today": 0,
-    "news_total": 33,
-    "events_upcoming": 57,
+    "news_total": 31,
+    "events_upcoming": 56,
     "events_ar_upcoming": 35,
-    "events_intl_upcoming": 22,
+    "events_intl_upcoming": 21,
     "events_later": 37,
     "opportunities_open": 8,
     "opportunities_today": 0,
-    "ai_today": 0,
-    "ai_to_try": 60,
-    "content_ideas": 57,
+    "ai_today": 1,
+    "ai_to_try": 61,
+    "content_ideas": 52,
     "added_news": 0,
     "updated_news": 0,
-    "added_events": 1,
+    "added_events": 0,
     "updated_events": 0,
-    "added_ai": 0,
-    "archived": 5,
+    "added_ai": 1,
+    "archived": 11,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,25 +34,32 @@
   },
   "highlights": [
     {
-      "id": "nw-1732c195bc",
+      "id": "nw-80a629f30e",
       "kind": "news",
-      "title": "CACE confirmó las fechas de CyberMonday y Black Friday 2026 y abrió las inscripciones",
+      "title": "El plazo para resolver el conflicto portuario de TCP en Montevideo vence hoy, con 20 puntos ya acordados",
       "priority": "alta",
-      "one_liner": "Arranca la planificación de capacidad logística para el pico de fin de año, con CyberMonday del 2 al 4 de noviembre."
+      "one_liner": "Hoy se define si se normaliza la principal terminal de contenedores de Uruguay, por donde pasa mucha carga argentina."
     },
     {
-      "id": "nw-9354e19ee1",
-      "kind": "news",
-      "title": "Los combustibles subieron hasta 5% y se rompió el acuerdo de precios que regía desde mayo",
-      "priority": "relevante",
-      "one_liner": "Presiona los costos de transporte y última milla de cara al último trimestre."
+      "id": "ev-cybermonday-2026",
+      "kind": "event",
+      "title": "CyberMonday 2026",
+      "priority": "alta",
+      "one_liner": "Del 2 al 4 de noviembre: hay que cerrar capacidad de fulfillment y última milla con los clientes."
     },
     {
-      "id": "nw-a3bbee79e2",
+      "id": "nw-50881aad3b",
       "kind": "news",
-      "title": "TCP y el sindicato portuario firmaron un preacuerdo que pone fin al conflicto en el Puerto de Montevideo",
+      "title": "El e-commerce argentino creció 35,9% en 2026 y la logística ya mueve casi un millón de pedidos por día",
       "priority": "relevante",
-      "one_liner": "Si la asamblea lo ratifica, se normaliza la terminal de contenedores clave para la carga de importación y exportación argentina."
+      "one_liner": "La demanda del último trimestre presiona directamente la capacidad logística."
+    },
+    {
+      "id": "ai-google-gemini-skills-reemplazan-a-los-gems",
+      "kind": "ai",
+      "title": "Gemini Skills (reemplazan a los Gems)",
+      "priority": "relevante",
+      "one_liner": "Los Gems migran a Skills desde el 17 de noviembre: conviene pasar los prompts repetitivos del equipo antes."
     }
   ]
 }
