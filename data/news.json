@@ -24,31 +24,6 @@
     "updated_flag": true
   },
   {
-    "title": "Management Logístico 2026 reúne a CEDOL, ARLOG y FADEEAC para debatir rentabilidad y costos del sector",
-    "what_happened": "El encuentro se realizó el miércoles 16 de septiembre en GoldenCenter (CABA) y convocó a más de 1.700 profesionales del sector logístico. En la apertura, referentes de CEDOL, ARLOG y FADEEAC coincidieron en la necesidad de revisar costos y procesos, ganar eficiencia e incorporar tecnología de forma significativa. FADEEAC presentó además un relevamiento de 22.700 km de rutas nacionales con conclusiones de deterioro del pavimento, señalización deficiente y obras inconclusas que elevan la siniestralidad y los costos operativos del transporte.",
-    "why_it_matters": "Confirma que, para el propio sector, la rentabilidad, la tecnología y el estado de la infraestructura vial son los tres frentes críticos de 2026, en un contexto de consumo débil y presión de costos sobre los operadores.",
-    "fixy_impact": "El diagnóstico sobre rutas deterioradas y presión de costos operativos valida la necesidad de Fixy de seguir monitoreando el estado de las vías que usa en su logística de larga distancia e interior al planificar rutas y tiempos de entrega.",
-    "category": "Logística",
-    "geo": "Argentina",
-    "source_name": "Perfil",
-    "source_url": "https://www.perfil.com/noticias/empresas-y-protagonistas/management-logistico-2026-pone-en-agenda-los-desafios-que-estan-transformando-la-logistica-en-argentina.phtml",
-    "published_date": "2026-09-16",
-    "priority": "relevante",
-    "tags": [
-      "CEDOL",
-      "ARLOG",
-      "FADEEAC",
-      "costos logísticos",
-      "rutas",
-      "management logístico"
-    ],
-    "id": "nw-00dbed05c4",
-    "source_kind": "auto",
-    "last_updated": "2026-09-18",
-    "first_seen": "2026-09-15",
-    "updated_flag": true
-  },
-  {
     "title": "Mercado Libre refuerza su estrategia ante el avance de Shein y Temu en Argentina",
     "what_happened": "Durante la segunda edición de Mercado Libre Experience en Buenos Aires, la compañía reforzó su discurso sobre logística local, medios de pago y red de vendedores como respuesta a una posible 'fase 2' de expansión de Shein y Temu en el país. Según datos de Euromonitor citados en la nota, Mercado Libre concentra el 73% del comercio electrónico argentino, mientras que los consumidores ya gastaron más de u$s700 millones en Shein y Temu en lo que va del año.",
     "why_it_matters": "Marca que la competencia entre Mercado Libre y las plataformas chinas se está trasladando del precio a la logística local, que pasa a ser el verdadero campo de batalla del ecommerce argentino.",
@@ -162,29 +137,6 @@
     "source_kind": "auto",
     "last_updated": "2026-09-19",
     "first_seen": "2026-09-19"
-  },
-  {
-    "title": "Los ataques de piratas del asfalto se concentran cada vez más en los vehículos de reparto del e-commerce",
-    "what_happened": "Un relevamiento de la Mesa Intersectorial contra la Piratería del Transporte de Cargas registró 5.885 robos a vehículos de carga entre julio de 2025 y agosto de 2026, con el 83% de los casos afectando a utilitarios y camionetas de reparto y solo el 17% a camiones grandes. El informe vincula el corrimiento del delito hacia vehículos más chicos con el crecimiento del e-commerce y la última milla, que multiplicó las paradas y la circulación en zonas urbanas.",
-    "why_it_matters": "La última milla se consolidó como el segmento más expuesto de la piratería del asfalto, lo que presiona al alza los costos de seguros, GPS y protocolos de seguridad de los operadores logísticos.",
-    "fixy_impact": "Fixy debería revisar sus protocolos de seguridad en última milla (videovigilancia móvil, telemática y horarios de carga/descarga), ya que las camionetas y utilitarios de reparto son hoy el blanco más buscado según el estudio.",
-    "category": "Última milla",
-    "geo": "Argentina",
-    "source_name": "LA NACION",
-    "source_url": "https://www.lanacion.com.ar/seguridad/aumentaron-los-ataques-de-piratas-del-asfalto-a-los-vehiculos-que-reparten-mercaderia-de-e-commerce-nid16092026/",
-    "published_date": "2026-09-16",
-    "priority": "alta",
-    "tags": [
-      "última milla",
-      "seguridad",
-      "robos",
-      "piratería del asfalto",
-      "costos operativos"
-    ],
-    "id": "nw-4700ce9134",
-    "source_kind": "auto",
-    "last_updated": "2026-09-20",
-    "first_seen": "2026-09-20"
   },
   {
     "title": "El sindicato portuario de Montevideo convocó un nuevo paro nacional de 24 horas en pleno conflicto con TCP",
@@ -716,5 +668,50 @@
     "source_kind": "auto",
     "last_updated": "2026-10-03",
     "first_seen": "2026-10-03"
+  },
+  {
+    "title": "En Perú, la demanda de delivery podría crecer hasta 82% en el último trimestre por el pico de eCommerce",
+    "what_happened": "Revista Logistec publicó el 6 de octubre una nota que estima que la demanda de delivery en Perú podría crecer hasta 82% en el cuarto trimestre. El pico estaría impulsado por Cyber Days, Cyber Wow, Black Friday y Navidad, con moda y electrónica como las categorías de mayor crecimiento.",
+    "why_it_matters": "Muestra que el pico de fin de año presiona la última milla en toda la región y obliga a los operadores a planificar capacidad con anticipación. Es una referencia útil para dimensionar el CyberMonday y el Black Friday locales.",
+    "fixy_impact": null,
+    "category": "Última milla",
+    "geo": "LATAM",
+    "source_name": "Revista Logistec",
+    "source_url": "https://www.revistalogistec.com/index.php/2026/10/06/el-q4-acelera-el-comercio-electronico-la-demanda-de-delivery-podria-crecer-hasta-82-en-peru/",
+    "published_date": "2026-10-06",
+    "priority": "informativo",
+    "tags": [
+      "última milla",
+      "Perú",
+      "Q4",
+      "pico de demanda",
+      "delivery"
+    ],
+    "id": "nw-4492c39592",
+    "source_kind": "auto",
+    "last_updated": "2026-10-08",
+    "first_seen": "2026-10-08"
+  },
+  {
+    "title": "La acción de Mercado Libre subió más de 8% en Wall Street tras la primera vuelta presidencial en Brasil",
+    "what_happened": "El lunes 5 de octubre las acciones de Mercado Libre se dispararon más de 8% en Wall Street después de la victoria de Flávio Bolsonaro en la primera vuelta de las elecciones presidenciales de Brasil. Según Infobae, el avance de la compañía encabezó una rueda positiva para los ADR argentinos.",
+    "why_it_matters": "Brasil es un mercado clave para el marketplace y para Mercado Pago, así que el escenario político brasileño incide en las expectativas sobre el mayor competidor regional de los operadores logísticos independientes.",
+    "fixy_impact": null,
+    "category": "Marketplaces",
+    "geo": "LATAM",
+    "source_name": "La Nación",
+    "source_url": "https://lanacion.com.ar/economia/negocios/mercado-libre-se-dispara-en-wall-street-tras-el-batacazo-electoral-en-brasil-nid05102026",
+    "published_date": "2026-10-05",
+    "priority": "informativo",
+    "tags": [
+      "Mercado Libre",
+      "Brasil",
+      "Wall Street",
+      "marketplaces"
+    ],
+    "id": "nw-953d95e8f2",
+    "source_kind": "auto",
+    "last_updated": "2026-10-08",
+    "first_seen": "2026-10-08"
   }
 ]

@@ -2,11 +2,11 @@
   {
     "scope": "ar",
     "name": "Experiencia Endeavor Cuyo 2026",
-    "organizer": "Endeavor Argentina",
+    "organizer": "Endeavor Cuyo",
     "date_start": "2026-10-08",
     "date_end": "2026-10-08",
     "date_confirmed": true,
-    "date_note": null,
+    "date_note": "Un save the date anterior en Luma hablaba de septiembre; las notas más recientes de Descubre.vc confirman el 8 de octubre.",
     "city": "Mendoza",
     "province": "Mendoza",
     "country": "Argentina",
@@ -14,16 +14,16 @@
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Emprendimiento",
-    "url": "https://www.endeavor.org.ar/",
-    "source_url": "https://ecocuyo.com/nota/150499/la-proxima-experiencia-endeavor-en-mendoza-ya-tiene-fecha-y-lugar",
-    "description": "Jornada de Endeavor en Mendoza con masterclasses, mentores de la Red Endeavor e inversores, orientada a conectar al ecosistema emprendedor de Cuyo.",
-    "fixy_relevance": "Vínculo con emprendedores y empresas en expansión de la región Cuyo, potenciales clientes de fulfillment y logística de eCommerce.",
+    "url": "https://luma.com/lrr9vuun",
+    "source_url": "https://www.descubre.vc/noticia/mendoza-recibe-la-experiencia-endeavor-cuyo-2026-para-potenciar-el-ecosistema-emprendedor-2026-09-18",
+    "description": "Jornada anual del ecosistema emprendedor de Cuyo con oradores, Club del Pitch para startups y espacio Conecta Inversor. Una nota menciona el complejo Naves y Báscula como sede, sin confirmación oficial.",
+    "fixy_relevance": "Permite hacer networking con emprendedores y scale-ups del interior que venden online y pueden necesitar fulfillment y última milla.",
     "justification_type": null,
-    "priority": "informativo",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-cuyo-endeavor-experiencia-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-10-08",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -45,6 +45,18 @@
           "source_url",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-08",
+        "fields": [
+          "organizer",
+          "date_note",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
         ]
       }
     ]
@@ -135,11 +147,11 @@
   {
     "scope": "ar",
     "name": "Rosario TechWeek 2026",
-    "organizer": "Comunidad Rosario Tech Week",
+    "organizer": "El Hub - Rosario Innovation",
     "date_start": "2026-10-19",
     "date_end": "2026-10-23",
     "date_confirmed": true,
-    "date_note": "Formato de semana con actividades descentralizadas; algunas fuentes secundarias mencionan cierre el 23 y otras el 24 de octubre, sin confirmación oficial del día exacto de cierre.",
+    "date_note": "Luma indica del 19 al 23 de octubre; un listado de terceros mostraba el 23 de septiembre, que parece desactualizado.",
     "city": "Rosario",
     "province": "Santa Fe",
     "country": "Argentina",
@@ -147,29 +159,18 @@
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Tecnología",
-    "url": "https://www.rosariotechweek.com/",
-    "source_url": "https://www.rosariotechweek.com/",
-    "description": "Segunda edición de la semana tecnológica de Rosario, con charlas, talleres, hackathones y networking armados de forma colaborativa por startups, empresas, universidades e inversores de la región.",
-    "fixy_relevance": "Permite a Fixy conectar con el ecosistema tech y emprendedor de Rosario y el litoral, relevante para detectar proveedores tecnológicos y potenciales clientes eCommerce del interior.",
+    "url": "https://rosariotechweek.com",
+    "source_url": "https://luma.com/zmvln80p",
+    "description": "Semana de innovación, startups y tecnología con más de 20 actividades distribuidas en distintos puntos de Rosario. La agenda completa se está publicando.",
+    "fixy_relevance": "Es una oportunidad de presencia y contactos en el polo tecnológico de Rosario, con startups y comercios del interior potenciales clientes.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-rosario-techweek-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-18",
+    "last_updated": "2026-10-08",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-30",
-        "fields": [
-          "date_note",
-          "format",
-          "category",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-09-05",
         "fields": [
@@ -217,6 +218,17 @@
           "fixy_relevance",
           "priority"
         ]
+      },
+      {
+        "date": "2026-10-08",
+        "fields": [
+          "organizer",
+          "date_note",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
@@ -227,38 +239,26 @@
     "date_start": "2026-10-20",
     "date_end": "2026-10-31",
     "date_confirmed": true,
-    "date_note": "El sitio oficial y varias notas indican inicio el 20/10, pero otra cobertura menciona el 21/10; todas coinciden en el cierre el 31/10.",
-    "city": "Ciudad Autónoma de Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
+    "date_note": "iProfesional indica del 20 al 31 de octubre; Dealroom y la propuesta de patrocinio de la Ciudad indican del 21 al 31.",
+    "city": "Buenos Aires",
+    "province": "CABA",
     "country": "Argentina",
-    "venue": "Centro Costa Salguero (sede principal), con actividades también en el CEC y la Usina del Arte",
+    "venue": "BA Ferial (ex Costa Salguero) y otras sedes",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Tecnología",
-    "url": "https://www.tecweek.com.ar/",
-    "source_url": "https://buenosaires.gob.ar/noticias/continua-tecweek-la-gran-expo-de-tecnologia-innovacion-y-talento-emprendedor",
-    "description": "Tecweek 2026 reúne durante once días en Buenos Aires más de 23 encuentros sobre inteligencia artificial, blockchain, fintech y gaming, con epicentro en el Centro Costa Salguero.",
-    "fixy_relevance": "Concentra en pocos días gran parte del ecosistema tech y fintech del país; sirve para mapear proveedores tecnológicos y tendencias de IA aplicables a atención al cliente y operación.",
+    "url": "https://tumarcaenba.buenosaires.gob.ar/wp-content/uploads/2026/08/Tecweek-2026.pdf",
+    "source_url": "https://www.iprofesional.com/tecnologia/465639-llega-la-tecweek-2026-fecha-en-octubre-y-que-eventos-habra-este-ano",
+    "description": "Semana de tecnología con eventos de inteligencia artificial, fintech y gaming en varias sedes porteñas. La propuesta de la Ciudad marca la agenda como pendiente de confirmación.",
+    "fixy_relevance": "Reúne actores de tecnología, pagos e IA aplicada que pueden servir para alianzas e integraciones.",
     "justification_type": null,
-    "priority": "relevante",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-aires-buenos-tecweek-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-19",
+    "last_updated": "2026-10-08",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-06",
-        "fields": [
-          "organizer",
-          "venue",
-          "format",
-          "category",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
       {
         "date": "2026-09-13",
         "fields": [
@@ -301,17 +301,31 @@
           "description",
           "fixy_relevance"
         ]
+      },
+      {
+        "date": "2026-10-08",
+        "fields": [
+          "date_note",
+          "city",
+          "province",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
       }
     ]
   },
   {
     "scope": "ar",
     "name": "CyberMonday 2026",
-    "organizer": "Cámara Argentina de Comercio Electrónico (CACE)",
+    "organizer": "CACE",
     "date_start": "2026-11-02",
     "date_end": "2026-11-04",
     "date_confirmed": true,
-    "date_note": "La CACE confirmó oficialmente el 2 al 4 de noviembre como las 72 horas de CyberMonday, aunque el sitio cybermonday.com.ar muestra 3, 4 y 5 de noviembre y algunos medios también hablan del 3 al 5. Del 5 al 8 de noviembre, además, varias marcas extienden beneficios bajo el formato \"Cyber Week\".",
+    "date_note": "Elonce y Universal Assistance, citando a la CACE, indican del 2 al 4 de noviembre; el centro de ayuda de Tiendanube indica del 3 al 5. Conviene validar en cybermonday.com.ar.",
     "city": "Online",
     "province": "Buenos Aires",
     "country": "Argentina",
@@ -320,27 +334,17 @@
     "format": "virtual",
     "category": "eCommerce",
     "url": "https://www.cybermonday.com.ar",
-    "source_url": "https://mercado.com.ar/agenda/cybermonday-2026-abrio-contrataciones-y-definio-bonificaciones-para-nuevos-socios-y-pymes",
-    "description": "Evento de descuentos online de tres días organizado por la CACE, con las empresas adheridas ofreciendo promociones en la plataforma oficial.",
-    "fixy_relevance": "Es el pico de volumen de envíos del último trimestre para los clientes de fulfillment y última milla de Fixy. Con la duración confirmada en tres días conviene ajustar la capacidad y los plazos de despacho.",
+    "source_url": "https://www.universal-assistance.com/uablog/cuando-es-el-cyber-monday/",
+    "description": "Campaña de ofertas online de 72 horas organizada por la Cámara Argentina de Comercio Electrónico. Algunas marcas la extienden en una Cyber Week posterior.",
+    "fixy_relevance": "Marca uno de los picos de volumen del año para los clientes de Fixy y exige capacidad de despacho y planificación de última milla.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cybermonday-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-30",
+    "last_updated": "2026-10-08",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-06",
-        "fields": [
-          "date_note",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-09-10",
         "fields": [
@@ -382,6 +386,16 @@
           "city",
           "venue",
           "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-08",
+        "fields": [
+          "organizer",
+          "date_note",
           "source_url",
           "description",
           "fixy_relevance"
@@ -522,9 +536,9 @@
     "name": "Black Friday Argentina 2026",
     "organizer": "CACE (Cámara Argentina de Comercio Electrónico)",
     "date_start": "2026-11-27",
-    "date_end": "2026-11-29",
+    "date_end": "2026-11-27",
     "date_confirmed": true,
-    "date_note": "El viernes 27 de noviembre es el día central; los descuentos continúan el sábado 28 y el domingo 29 como \"Black Weekend\".",
+    "date_note": "Cae el viernes 27 de noviembre; algunas marcas extienden las ofertas durante el fin de semana y la semana siguiente. Un sitio de Lenovo indica el 28, que sería un error.",
     "city": "Argentina",
     "province": null,
     "country": "Argentina",
@@ -532,16 +546,16 @@
     "venue_confirmed": true,
     "format": "virtual",
     "category": "eCommerce",
-    "url": "https://www.cybermonday.com.ar/",
-    "source_url": "https://www.c5n.com/economia/cyber-monday-2026-que-rubros-se-pueden-aprovechar-los-descuentos-y-ofertas-n237329",
-    "description": "Jornada de descuentos online que se extiende en un fin de semana completo de ofertas (\"Black Weekend\") antes del Cyber Monday.",
-    "fixy_relevance": "Segundo gran pico de demanda del último trimestre del año: clave para dimensionar capacidad de despacho y coordinar SLAs con clientes retail.",
+    "url": "https://www.universal-assistance.com/uablog/cuando-es-el-black-friday/",
+    "source_url": "https://www.universal-assistance.com/uablog/cuando-es-el-black-friday/",
+    "description": "Jornada de promociones online y en tiendas que sigue el calendario internacional. En Argentina no la organiza la CACE y cada marca define su campaña.",
+    "fixy_relevance": "Concentra pedidos y devoluciones justo después del CyberMonday, lo que tensiona la operación de fulfillment y entregas.",
     "justification_type": null,
-    "priority": "alta",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-argentina-black-friday-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-10-08",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -582,6 +596,18 @@
           "source_url",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-08",
+        "fields": [
+          "date_end",
+          "date_note",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
         ]
       }
     ]
@@ -2510,58 +2536,6 @@
           "date_note",
           "description",
           "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
-    "name": "Money Expo Argentina 2026",
-    "organizer": "Money Expo Global",
-    "date_start": "2026-10-03",
-    "date_end": "2026-10-04",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Ciudad Autónoma de Buenos Aires",
-    "province": "CABA",
-    "country": "Argentina",
-    "venue": "Hilton Buenos Aires",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Pagos y Fintech",
-    "url": "https://moneyexpoglobal.com/argentina/en",
-    "source_url": "https://tradersunion.com/news/brokers-news/show/3470099-money-expo-argentina/",
-    "description": "Primera edición en Buenos Aires de este evento internacional de trading y fintech, con más de 3.000 asistentes, 40 expositores y 40 speakers esperados.",
-    "fixy_relevance": "Espacio para monitorear tendencias de pagos digitales y fintech que pueden impactar en los medios de cobro del eCommerce.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-argentina-money-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-27",
-    "first_seen": "2026-09-01",
-    "change_log": [
-      {
-        "date": "2026-09-04",
-        "fields": [
-          "organizer",
-          "province",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
-      {
-        "date": "2026-09-27",
-        "fields": [
-          "city",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
         ]
       }
     ]

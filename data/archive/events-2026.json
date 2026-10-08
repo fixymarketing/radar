@@ -2413,5 +2413,57 @@
     "source_kind": "auto",
     "last_updated": "2026-09-26",
     "first_seen": "2026-09-26"
+  },
+  {
+    "scope": "ar",
+    "name": "Money Expo Argentina 2026",
+    "organizer": "Money Expo Global",
+    "date_start": "2026-10-03",
+    "date_end": "2026-10-04",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "CABA",
+    "country": "Argentina",
+    "venue": "Hilton Buenos Aires",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Pagos y Fintech",
+    "url": "https://moneyexpoglobal.com/argentina/en",
+    "source_url": "https://tradersunion.com/news/brokers-news/show/3470099-money-expo-argentina/",
+    "description": "Primera edición en Buenos Aires de este evento internacional de trading y fintech, con más de 3.000 asistentes, 40 expositores y 40 speakers esperados.",
+    "fixy_relevance": "Espacio para monitorear tendencias de pagos digitales y fintech que pueden impactar en los medios de cobro del eCommerce.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-argentina-money-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-01",
+    "change_log": [
+      {
+        "date": "2026-09-04",
+        "fields": [
+          "organizer",
+          "province",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "city",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
   }
 ]

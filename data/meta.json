@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-10-07T12:16:08.166Z",
-  "last_updated_ar": "07/10/2026, 09:16",
-  "date": "2026-10-07",
+  "generated_at": "2026-10-08T12:16:31.075Z",
+  "last_updated_ar": "08/10/2026, 09:16",
+  "date": "2026-10-08",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Vence hoy el plazo en el puerto de Montevideo, se acerca el CyberMonday (2 al 4 de noviembre) y Google reemplaza los Gems por Skills.",
+  "summary_line": "Se firmó el preacuerdo en el puerto de Montevideo, se acerca el pico de CyberMonday y Black Friday y hay que cerrar capacidad con los clientes.",
   "counters": {
-    "news_today": 0,
+    "news_today": 2,
     "news_total": 31,
-    "events_upcoming": 56,
+    "events_upcoming": 54,
     "events_ar_upcoming": 35,
-    "events_intl_upcoming": 21,
+    "events_intl_upcoming": 19,
     "events_later": 37,
     "opportunities_open": 8,
-    "opportunities_today": 0,
-    "ai_today": 1,
+    "opportunities_today": 1,
+    "ai_today": 0,
     "ai_to_try": 61,
     "content_ideas": 52,
-    "added_news": 0,
+    "added_news": 2,
     "updated_news": 0,
     "added_events": 0,
-    "updated_events": 0,
-    "added_ai": 1,
-    "archived": 11,
+    "updated_events": 5,
+    "added_ai": 0,
+    "archived": 4,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-cscmp-edge-2026",
-    "name": "CSCMP EDGE 2026",
-    "date_start": "2026-10-04",
-    "city": "Nashville",
+    "id": "ev-congress-fiata-world-2026",
+    "name": "FIATA World Congress 2026",
+    "date_start": "2026-10-06",
+    "city": "Milán",
     "days_away": 0
   },
   "highlights": [
     {
-      "id": "nw-80a629f30e",
+      "id": "nw-a3bbee79e2",
       "kind": "news",
-      "title": "El plazo para resolver el conflicto portuario de TCP en Montevideo vence hoy, con 20 puntos ya acordados",
+      "title": "TCP y el sindicato portuario firmaron un preacuerdo que pone fin al conflicto en el Puerto de Montevideo",
       "priority": "alta",
-      "one_liner": "Hoy se define si se normaliza la principal terminal de contenedores de Uruguay, por donde pasa mucha carga argentina."
+      "one_liner": "Si la asamblea ratifica el preacuerdo se normaliza la principal terminal de contenedores de Uruguay, por donde pasa carga argentina."
     },
     {
       "id": "ev-cybermonday-2026",
       "kind": "event",
       "title": "CyberMonday 2026",
       "priority": "alta",
-      "one_liner": "Del 2 al 4 de noviembre: hay que cerrar capacidad de fulfillment y última milla con los clientes."
+      "one_liner": "Del 2 al 4 de noviembre (algunas fuentes dicen 3 al 5): hay que cerrar capacidad con los clientes ya."
     },
     {
-      "id": "nw-50881aad3b",
+      "id": "nw-4492c39592",
       "kind": "news",
-      "title": "El e-commerce argentino creció 35,9% en 2026 y la logística ya mueve casi un millón de pedidos por día",
+      "title": "En Perú, la demanda de delivery podría crecer hasta 82% en el último trimestre por el pico de eCommerce",
       "priority": "relevante",
-      "one_liner": "La demanda del último trimestre presiona directamente la capacidad logística."
+      "one_liner": "Referencia regional para dimensionar el pico de fin de año en última milla."
     },
     {
-      "id": "ai-google-gemini-skills-reemplazan-a-los-gems",
-      "kind": "ai",
-      "title": "Gemini Skills (reemplazan a los Gems)",
+      "id": "ev-cuyo-endeavor-experiencia-2026",
+      "kind": "event",
+      "title": "Experiencia Endeavor Cuyo 2026",
       "priority": "relevante",
-      "one_liner": "Los Gems migran a Skills desde el 17 de noviembre: conviene pasar los prompts repetitivos del equipo antes."
+      "one_liner": "Hoy en Mendoza: networking con emprendedores del interior que pueden necesitar fulfillment."
     }
   ]
 }

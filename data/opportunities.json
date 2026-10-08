@@ -1,5 +1,21 @@
 [
   {
+    "title": "Cerrar con los clientes la capacidad de fulfillment y última milla para el pico de CyberMonday y Black Friday",
+    "context": "CACE confirmó CyberMonday del 2 al 4 de noviembre y Black Friday el 27 de noviembre. Un relevamiento en Perú anticipa que la demanda de delivery puede crecer hasta 82% en el último trimestre, y en Argentina la logística ya mueve casi un millón de pedidos por día.",
+    "action": "Pedir esta semana a los clientes activos su proyección de volumen para noviembre y reservar capacidad de depósito, personal y rutas con esa base, ofreciendo un cupo garantizado a quienes confirmen primero.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.revistalogistec.com/index.php/2026/10/06/el-q4-acelera-el-comercio-electronico-la-demanda-de-delivery-podria-crecer-hasta-82-en-peru/",
+    "linked": [
+      "En Perú, la demanda de delivery podría crecer hasta 82% en el último trimestre por el pico de eCommerce",
+      "CyberMonday 2026"
+    ],
+    "id": "op-fdc880ae",
+    "source_kind": "auto",
+    "last_updated": "2026-10-08",
+    "first_seen": "2026-10-08"
+  },
+  {
     "title": "Preparar un plan de contingencia de rutas por si el conflicto de TCP Montevideo no se resuelve hoy",
     "context": "El plazo para cerrar el acuerdo con 20 puntos ya consensuados vence hoy, mientras cámaras empresariales uruguayas ya contabilizan 44 días de paro en 2026 y el sindicato SUPRA tiene aprobado un paro nacional de hasta 48 horas si la negociación fracasa. Un nuevo quiebre volvería a golpear la carga de exportación e importación argentina que pasa por Montevideo.",
     "action": "Relevar con los clientes que dependen de carga vía Montevideo qué volumen está en tránsito hoy y tener lista una ruta alternativa para activar si el paro se confirma en las próximas 24-48 horas.",
@@ -104,21 +120,6 @@
       "El Sindicato de Camioneros bloqueó una planta en Arrecifes por un reclamo de tercerización de choferes"
     ],
     "id": "op-abea5de4",
-    "source_kind": "auto",
-    "last_updated": "2026-09-26",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "title": "Pedir una demo de SimpliRoute ADA para la gestión de incidencias de última milla",
-    "context": "SimpliRoute confirmó que ADA, su agente de IA que ya opera en Argentina, decide solo -sin intervención humana previa- si llamar al cliente, contactar al conductor o escalar a un supervisor ante un atraso o un desvío de ruta, y acaba de dar el salto a Estados Unidos.",
-    "action": "Agendar una demo comercial con SimpliRoute para evaluar tercerizar en ADA la primera línea de gestión de incidencias de reparto (avisos de demora, reintento de contacto con el repartidor) y liberar horas del equipo de atención al cliente y coordinación de flota.",
-    "type": "producto",
-    "priority": "relevante",
-    "source_url": "https://www.revistalogistec.com/index.php/2026/09/22/ada-la-ia-autonoma-chilena-que-revoluciona-la-logistica-en-latinoamerica-y-da-el-salto-a-estados-unidos/",
-    "linked": [
-      "SimpliRoute ADA"
-    ],
-    "id": "op-df3591ac",
     "source_kind": "auto",
     "last_updated": "2026-09-26",
     "first_seen": "2026-09-26"

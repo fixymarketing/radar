@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Pedir una demo de SimpliRoute ADA para la gestión de incidencias de última milla",
+    "context": "SimpliRoute confirmó que ADA, su agente de IA que ya opera en Argentina, decide solo -sin intervención humana previa- si llamar al cliente, contactar al conductor o escalar a un supervisor ante un atraso o un desvío de ruta, y acaba de dar el salto a Estados Unidos.",
+    "action": "Agendar una demo comercial con SimpliRoute para evaluar tercerizar en ADA la primera línea de gestión de incidencias de reparto (avisos de demora, reintento de contacto con el repartidor) y liberar horas del equipo de atención al cliente y coordinación de flota.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://www.revistalogistec.com/index.php/2026/09/22/ada-la-ia-autonoma-chilena-que-revoluciona-la-logistica-en-latinoamerica-y-da-el-salto-a-estados-unidos/",
+    "linked": [
+      "SimpliRoute ADA"
+    ],
+    "id": "op-df3591ac",
+    "source_kind": "auto",
+    "last_updated": "2026-09-26",
+    "first_seen": "2026-09-26"
+  }
+]
