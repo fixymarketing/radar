@@ -780,5 +780,97 @@
     "source_kind": "auto",
     "last_updated": "2026-09-20",
     "first_seen": "2026-09-20"
+  },
+  {
+    "title": "Mercado Libre refuerza su estrategia ante el avance de Shein y Temu en Argentina",
+    "what_happened": "Durante la segunda edición de Mercado Libre Experience en Buenos Aires, la compañía reforzó su discurso sobre logística local, medios de pago y red de vendedores como respuesta a una posible 'fase 2' de expansión de Shein y Temu en el país. Según datos de Euromonitor citados en la nota, Mercado Libre concentra el 73% del comercio electrónico argentino, mientras que los consumidores ya gastaron más de u$s700 millones en Shein y Temu en lo que va del año.",
+    "why_it_matters": "Marca que la competencia entre Mercado Libre y las plataformas chinas se está trasladando del precio a la logística local, que pasa a ser el verdadero campo de batalla del ecommerce argentino.",
+    "fixy_impact": "Si Shein y Temu avanzan hacia una nueva fase en el país, van a necesitar operadores locales para el último tramo de entrega y el fulfillment de la mercadería que despacha aduana, lo que abre una oportunidad de negocio concreta para Fixy.",
+    "category": "Marketplaces",
+    "geo": "Argentina",
+    "source_name": "iProfesional",
+    "source_url": "https://www.iprofesional.com/tecnologia/464619-mercado-libre-refuerza-su-estrategia-ante-el-avance-de-shein-y-temu-en-argentina",
+    "published_date": "2026-09-17",
+    "priority": "alta",
+    "tags": [
+      "Mercado Libre",
+      "Shein",
+      "Temu",
+      "marketplaces",
+      "competencia"
+    ],
+    "id": "nw-0c8bf64104",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "La confianza del consumidor argentino subió en septiembre y cortó dos meses de caída",
+    "what_happened": "El Índice de Confianza del Consumidor de la Universidad Di Tella subió 2,4% en septiembre y alcanzó 41,18 puntos, revirtiendo dos caídas mensuales consecutivas (-4,8% en julio y -1,1% en agosto). La mejora fue liderada por el Interior del país (+5,23% mensual) y por los hogares de menores ingresos, mientras que en la Ciudad de Buenos Aires el índice cayó 6,78% mensual.",
+    "why_it_matters": "Es una señal temprana de que la confianza podría empezar a estabilizarse de cara a la temporada de fin de año, aunque el índice sigue 13% por debajo del pico de 2025 y la mejora no es uniforme entre regiones ni niveles de ingreso.",
+    "fixy_impact": "Si la mejora se sostiene, podría anticipar una recuperación de la demanda online más temprana en el Interior que en CABA, un dato a seguir para planificar capacidad de cara al Cyber Monday y el cierre de año.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/09/17/la-confianza-del-consumidor-subio-24-en-septiembre-y-corto-dos-meses-de-caida/",
+    "published_date": "2026-09-17",
+    "priority": "relevante",
+    "tags": [
+      "consumo",
+      "confianza del consumidor",
+      "Di Tella",
+      "Interior",
+      "tendencias"
+    ],
+    "id": "nw-38ddbaba51",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "title": "El PBI cayó 0,6% en el segundo trimestre y el consumo privado retrocedió 2,4%",
+    "what_happened": "El INDEC informó que el Producto Bruto Interno se contrajo 0,6% en el segundo trimestre de 2026 respecto al primero, en la medición desestacionalizada, tras haber crecido 0,7% en el trimestre anterior. El consumo privado cayó 2,4% y la inversión (formación bruta de capital fijo) bajó 0,8%, mientras que las exportaciones fueron el único componente que creció, 2,5%. En la comparación interanual el PBI todavía sube 2%, traccionado por pesca, minería y agro.",
+    "why_it_matters": "Es la primera lectura trimestral negativa en dos años y confirma que la demanda interna se enfría justo cuando el eCommerce depende del poder de compra de los hogares para sostener volumen de pedidos.",
+    "fixy_impact": "Un consumo privado más débil puede traducirse en menor cantidad de pedidos y mayor sensibilidad al costo del envío entre los clientes de Fixy, algo para monitorear de cara al último trimestre del año.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "La Nación (INDEC)",
+    "source_url": "https://www.lanacion.com.ar/economia/el-pbi-se-contrajo-06-en-el-segundo-trimestre-con-fuertes-caidas-en-el-consumo-y-la-inversion-nid17092026/",
+    "published_date": "2026-09-17",
+    "priority": "alta",
+    "tags": [
+      "PBI",
+      "consumo privado",
+      "INDEC",
+      "macroeconomía",
+      "recesión"
+    ],
+    "id": "nw-d04acae8ac",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "title": "El desempleo subió a 7,9% y la informalidad laboral tocó el 45% en el segundo trimestre",
+    "what_happened": "Según la Encuesta Permanente de Hogares (EPH) del INDEC, la desocupación llegó a 7,9% en el segundo trimestre de 2026, una de las tasas más altas desde la pandemia, y la informalidad laboral subió a 45% de los ocupados, frente al 43,2% de un año atrás (un aumento que el propio INDEC calificó de estadísticamente significativo). El Régimen de Incentivo a la Formalización Laboral (RIFL), lanzado junto con la reforma laboral, no logró revertir la tendencia.",
+    "why_it_matters": "El dato muestra que la reforma laboral y sus incentivos todavía no alcanzan para formalizar el empleo, en particular en sectores intensivos en mano de obra como comercio, industria y construcción, lo que sostiene la precariedad en la base de la cadena de consumo.",
+    "fixy_impact": null,
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "ABC Color (con datos de INDEC-EPH)",
+    "source_url": "https://www.abc.com.py/internacionales/2026/09/17/la-informalidad-laboral-bate-un-nuevo-record-en-argentina-y-sube-al-45/",
+    "published_date": "2026-09-17",
+    "priority": "informativo",
+    "tags": [
+      "empleo",
+      "informalidad",
+      "INDEC",
+      "reforma laboral",
+      "EPH"
+    ],
+    "id": "nw-c43fbb8a8e",
+    "source_kind": "auto",
+    "last_updated": "2026-09-21",
+    "first_seen": "2026-09-21"
   }
 ]
