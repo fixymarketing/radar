@@ -1,75 +1,5 @@
 [
   {
-    "title": "El conflicto laboral en la terminal de contenedores del Puerto de Montevideo escaló a un paro por tiempo indeterminado",
-    "what_happened": "El sindicato de la Terminal Cuenca del Plata (TCP) inició el miércoles 16 de septiembre a las 16 h el paro por tiempo indeterminado que venía anunciando, en el marco de la negociación del nuevo convenio colectivo, operando con 'servicios mínimos' dispuestos por el MTOP y el MTSS uruguayos. El jueves 17 de septiembre a las 23 h el gremio resolvió levantar la medida y la terminal retomó su operativa normal, aunque el reclamo de fondo por salarios y obras pendientes sigue sin resolverse.",
-    "why_it_matters": "Vuelve a mostrar la fragilidad del principal nodo portuario de contenedores de la región, clave para buena parte del comercio exterior que pasa por Uruguay, incluso con el paro ya levantado.",
-    "fixy_impact": "Si el conflicto no se resuelve en el plazo fijado por el gobierno uruguayo, los operadores que reciben o despachan mercadería vía Montevideo pueden sufrir demoras y sobrecostos que afecten los tiempos de reposición de stock importado.",
-    "category": "Logística",
-    "geo": "LATAM",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/america/agencias/2026/09/18/sindicato-pone-fin-al-primer-paro-en-el-puerto-de-montevideo-con-servicios-minimos/",
-    "published_date": "2026-09-18",
-    "priority": "informativo",
-    "tags": [
-      "Puerto de Montevideo",
-      "TCP",
-      "paro",
-      "comercio exterior",
-      "Uruguay"
-    ],
-    "id": "nw-787ba1c861",
-    "source_kind": "auto",
-    "last_updated": "2026-09-18",
-    "first_seen": "2026-08-31",
-    "updated_flag": true
-  },
-  {
-    "title": "El quick commerce crece 62% en América Latina y PedidosYa lidera el segmento",
-    "what_happened": "Un relevamiento regional difundido esta semana muestra que las compras de supermercado por quick commerce (entregas ultrarrápidas) crecieron 62% interanual en América Latina durante el primer semestre de 2026, con un alza de 53% en usuarios activos mensuales. PedidosYa Market concentra el 41% de los pedidos del segmento, y frutas y verduras lideran el crecimiento con un 70% interanual.",
-    "why_it_matters": "El comercio ultrarrápido dejó de ser un nicho: creció en seis meses lo que en los tres años anteriores, lo que presiona a toda la última milla regional a acortar tiempos de entrega y ganar densidad de puntos de despacho cerca del consumidor.",
-    "fixy_impact": "El avance del quick commerce eleva la vara de expectativa de entrega para todo el eCommerce argentino y abre una oportunidad de servicios de entrega en ventanas más cortas para los clientes de Fixy.",
-    "category": "Última milla",
-    "geo": "LATAM",
-    "source_name": "Infobae (agencias)",
-    "source_url": "https://www.infobae.com/america/agencias/2026/09/18/radiografia-del-quick-commerce-las-compras-de-supermercado-online-crecen-un-62-en-latinoamerica/",
-    "published_date": "2026-09-18",
-    "priority": "relevante",
-    "tags": [
-      "quick commerce",
-      "última milla",
-      "PedidosYa",
-      "LATAM",
-      "delivery"
-    ],
-    "id": "nw-9d2c8417c8",
-    "source_kind": "auto",
-    "last_updated": "2026-09-19",
-    "first_seen": "2026-09-19"
-  },
-  {
-    "title": "La mora temprana de los créditos bajó 33%, pero la normalización total llevará meses",
-    "what_happened": "Según datos difundidos esta semana, la mora temprana (atrasos de entre 30 y 90 días) bajó de un pico de 6,6% en noviembre de 2025 a 4,4% en julio de 2026, y la cantidad de personas en esa situación cayó de alrededor de un millón a 722.000, una baja del 28%. Especialistas del sector bancario advierten que la mora total todavía no cede porque quienes entran en planes de refinanciación necesitan varios meses de pagos consecutivos para salir de las estadísticas de incumplimiento.",
-    "why_it_matters": "Es la primera señal concreta de que el ciclo de sobreendeudamiento de las familias empezó a revertirse, aunque el crédito al consumo seguirá restringido varios meses más, algo que afecta directamente el financiamiento en cuotas de las compras online.",
-    "fixy_impact": null,
-    "category": "Fintech",
-    "geo": "Argentina",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/economia/2026/09/18/la-mora-temprana-en-los-creditos-empezo-a-reducirse-pero-advierten-que-la-normalizacion-llevara-tiempo/",
-    "published_date": "2026-09-18",
-    "priority": "informativo",
-    "tags": [
-      "mora",
-      "crédito al consumo",
-      "fintech",
-      "bancos",
-      "financiamiento"
-    ],
-    "id": "nw-5cb0d0bef3",
-    "source_kind": "auto",
-    "last_updated": "2026-09-19",
-    "first_seen": "2026-09-19"
-  },
-  {
     "title": "El sindicato portuario de Montevideo convocó un nuevo paro nacional de 24 horas en pleno conflicto con TCP",
     "what_happened": "El paro nacional de 24 horas convocado por el sindicato portuario se concretó el lunes 21 de septiembre y afectó a todos los puertos de Uruguay; la actividad se normalizó recién el martes 22 por la mañana. Cámaras empresariales uruguayas pidieron una respuesta urgente al Gobierno ante la seguidilla de medidas de fuerza, que en lo que va de 2026 ya acumulan 44 días de paro con un impacto promedio del 70% sobre los movimientos de contenedores en la terminal TCP.",
     "why_it_matters": "El conflicto en Montevideo, puerto clave para el comercio exterior de la región (incluida carga argentina que usa esa terminal como alternativa o complemento), sigue sin resolverse pese a la disposición de servicios mínimos, y ahora son las propias cámaras empresariales las que reclaman una intervención más firme del Estado uruguayo.",
@@ -92,29 +22,6 @@
     "last_updated": "2026-09-23",
     "first_seen": "2026-09-20",
     "updated_flag": true
-  },
-  {
-    "title": "Camioneros cerró una paritaria de 6,6% semestral y un bono de $1.200.000",
-    "what_happened": "El gremio de Camioneros que lidera Hugo Moyano firmó con FAETYL y FADEEAC un nuevo acuerdo salarial para el período septiembre 2026-febrero 2027, con un aumento escalonado que suma 6,6% (1,8% en septiembre, 1,7% en octubre y noviembre, 1,6% en diciembre y enero, y 1,5% en febrero). El acuerdo incluye una suma fija no remunerativa de $18.000 en septiembre y un bono de fin de año de $1.200.000 pagadero en cuatro cuotas a partir de enero de 2027.",
-    "why_it_matters": "El acuerdo está alineado con la pauta salarial moderada que impulsa el Gobierno y le da previsibilidad de costos laborales al transporte de cargas por los próximos seis meses, en un gremio clave para toda la cadena logística argentina.",
-    "fixy_impact": "Fixy puede proyectar con más certeza sus costos de transporte y flete para el próximo semestre, ya que buena parte de la estructura de costos de última milla y distribución depende directamente de esta paritaria.",
-    "category": "Logística",
-    "geo": "Argentina",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/politica/2026/09/18/hugo-moyano-volvio-a-firmar-un-acuerdo-salarial-alineado-con-la-pauta-del-gobierno-que-regira-durante-6-meses/",
-    "published_date": "2026-09-18",
-    "priority": "alta",
-    "tags": [
-      "camioneros",
-      "paritarias",
-      "costos logísticos",
-      "transporte de cargas",
-      "Moyano"
-    ],
-    "id": "nw-2c10c0d2d6",
-    "source_kind": "auto",
-    "last_updated": "2026-09-21",
-    "first_seen": "2026-09-21"
   },
   {
     "title": "El Congreso fijó el 29 de septiembre como fecha límite para dictaminar sobre la mora y el crédito",

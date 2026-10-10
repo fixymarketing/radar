@@ -1,58 +1,65 @@
 {
-  "generated_at": "2026-10-09T12:17:11.479Z",
-  "last_updated_ar": "09/10/2026, 09:17",
-  "date": "2026-10-09",
+  "generated_at": "2026-10-10T12:16:14.473Z",
+  "last_updated_ar": "10/10/2026, 09:16",
+  "date": "2026-10-10",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Día tranquilo: sin novedades nuevas verificables; se acerca el pico de CyberMonday y Black Friday.",
+  "summary_line": "Sábado sin novedades nuevas verificables; el foco sigue en el CyberMonday (2 al 4 de noviembre según CACE) y en la agenda de la semana próxima.",
   "counters": {
     "news_today": 0,
-    "news_total": 27,
-    "events_upcoming": 52,
-    "events_ar_upcoming": 33,
-    "events_intl_upcoming": 19,
+    "news_total": 23,
+    "events_upcoming": 48,
+    "events_ar_upcoming": 30,
+    "events_intl_upcoming": 18,
     "events_later": 37,
     "opportunities_open": 8,
     "opportunities_today": 0,
-    "ai_today": 0,
-    "ai_to_try": 61,
-    "content_ideas": 50,
+    "ai_today": 1,
+    "ai_to_try": 62,
+    "content_ideas": 47,
     "added_news": 0,
     "updated_news": 0,
     "added_events": 0,
-    "updated_events": 0,
-    "added_ai": 0,
-    "archived": 6,
+    "updated_events": 1,
+    "added_ai": 1,
+    "archived": 8,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-congress-fiata-world-2026",
-    "name": "FIATA World Congress 2026",
-    "date_start": "2026-10-06",
-    "city": "Milán",
+    "id": "ev-conocimiento-cordoba-innovacion-semana-semana-te-2026",
+    "name": "Semana de la Tecnología, Innovación y Conocimiento (Semana TIC) Córdoba 2026",
+    "date_start": "2026-10-09",
+    "city": "Córdoba",
     "days_away": 0
   },
   "highlights": [
     {
-      "id": "nw-a3bbee79e2",
+      "id": "ev-cybermonday-2026",
+      "kind": "event",
+      "title": "CyberMonday 2026",
+      "priority": "alta",
+      "one_liner": "Las fuentes ubican el CyberMonday del lunes 2 al miércoles 4 de noviembre (Tiendanube publica 3 al 5): conviene cerrar capacidad de picking y última milla con los clientes."
+    },
+    {
+      "id": "nw-4492c39592",
       "kind": "news",
-      "title": "TCP y el sindicato portuario firmaron un preacuerdo que pone fin al conflicto en el Puerto de Montevideo",
+      "title": "En Perú, la demanda de delivery podría crecer hasta 82% en el último trimestre por el pico de eCommerce",
       "priority": "relevante",
-      "one_liner": "Si la asamblea lo ratifica, se despeja un cuello de botella regional que venía afectando cargas."
+      "one_liner": "El pico de fin de año presiona la última milla en toda la región."
     },
     {
-      "id": "ev-ecommerce-go-mar-plata-2026",
+      "id": "ev-cumbre-federal-logistica-2026",
       "kind": "event",
-      "title": "eCommerce GO Mar del Plata 2026",
+      "title": "Cumbre Federal de Logística 2026",
       "priority": "relevante",
-      "one_liner": "Evento de CACE hoy en Mar del Plata para contactos con comerciantes online del interior."
+      "one_liner": "Se hace el 16 de octubre, la semana próxima, y puede anticipar definiciones de política logística."
     },
     {
-      "id": "ev-day-eretail-latam-mexico-2026",
+      "id": "ev-argentina-fintech-forum-2026",
       "kind": "event",
-      "title": "eRetail Day México 2026",
-      "priority": "relevante",
-      "one_liner": "Se confirma sede y fecha para el 15/10, útil para networking regional."
+      "title": "Argentina Fintech Forum 2026",
+      "priority": "informativo",
+      "one_liner": "Fecha tentativa 29/10 en el CEC de Buenos Aires, todavía sin confirmar por el organizador."
     }
   ]
 }

@@ -321,11 +321,11 @@
   {
     "scope": "ar",
     "name": "CyberMonday 2026",
-    "organizer": "CACE",
+    "organizer": "Cámara Argentina de Comercio Electrónico (CACE)",
     "date_start": "2026-11-02",
     "date_end": "2026-11-04",
     "date_confirmed": true,
-    "date_note": "Elonce y Universal Assistance, citando a la CACE, indican del 2 al 4 de noviembre; el centro de ayuda de Tiendanube indica del 3 al 5. Conviene validar en cybermonday.com.ar.",
+    "date_note": "Varias fuentes (Universal Assistance, Elonce) citan la confirmación de CACE para lunes 2 a miércoles 4 de noviembre. Tiendanube publica 3 al 5 de noviembre sin citar fuente; no se pudo contrastar con cybermonday.com.ar (sitio inaccesible desde el entorno). Cyber Week de extensión: 5 al 8 de noviembre según una fuente.",
     "city": "Online",
     "province": "Buenos Aires",
     "country": "Argentina",
@@ -335,28 +335,16 @@
     "category": "eCommerce",
     "url": "https://www.cybermonday.com.ar",
     "source_url": "https://www.universal-assistance.com/uablog/cuando-es-el-cyber-monday/",
-    "description": "Campaña de ofertas online de 72 horas organizada por la Cámara Argentina de Comercio Electrónico. Algunas marcas la extienden en una Cyber Week posterior.",
-    "fixy_relevance": "Marca uno de los picos de volumen del año para los clientes de Fixy y exige capacidad de despacho y planificación de última milla.",
+    "description": "Campaña de ofertas online de tres días organizada por CACE. Las fuentes consultadas la ubican del lunes 2 al miércoles 4 de noviembre de 2026.",
+    "fixy_relevance": "Es el pico de volumen de envíos del último trimestre: conviene confirmar capacidad de picking y última milla con los clientes antes del 2 de noviembre.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cybermonday-2026",
     "source_kind": "auto",
-    "last_updated": "2026-10-08",
+    "last_updated": "2026-10-10",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-10",
-        "fields": [
-          "date_end",
-          "date_note",
-          "province",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-09-25",
         "fields": [
@@ -397,6 +385,15 @@
           "organizer",
           "date_note",
           "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-10",
+        "fields": [
+          "organizer",
+          "date_note",
           "description",
           "fixy_relevance"
         ]
@@ -2474,33 +2471,6 @@
         ]
       }
     ]
-  },
-  {
-    "scope": "intl",
-    "name": "ECBR Summit Pagamentos 2026",
-    "organizer": "E-Commerce Brasil (ECBR)",
-    "date_start": "2026-10-06",
-    "date_end": "2026-10-06",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "São Paulo",
-    "province": null,
-    "country": "Brasil",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
-    "format": "presencial",
-    "category": "Pagos y Fintech",
-    "url": "https://eventos.ecommercebrasil.com.br/eventos-2026/ecbr-summit-pagamentos",
-    "source_url": "https://eventos.ecommercebrasil.com.br/eventos-2026/ecbr-summit-pagamentos",
-    "description": "Encuentro de un día organizado por E-Commerce Brasil, enfocado en medios de pago, prevención de fraude, billeteras digitales, autenticación y optimización del checkout para eCommerce y marketplaces. Distinto de ECBR Summit Logística 2026 (mismo organizador, fecha y temática diferentes).",
-    "fixy_relevance": "Permite entender hacia dónde va la fricción de pagos y checkout en el mercado de eCommerce más grande de LatAm, un insumo útil para asesorar a clientes de Fixy sobre pagos y logística, y para conectar con actores del fintech brasileño vinculados a marketplaces.",
-    "justification_type": "aprendizaje",
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-ecbr-pagamentos-summit-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-29",
-    "first_seen": "2026-08-29"
   },
   {
     "scope": "ar",

@@ -2465,5 +2465,32 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "intl",
+    "name": "ECBR Summit Pagamentos 2026",
+    "organizer": "E-Commerce Brasil (ECBR)",
+    "date_start": "2026-10-06",
+    "date_end": "2026-10-06",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "São Paulo",
+    "province": null,
+    "country": "Brasil",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Pagos y Fintech",
+    "url": "https://eventos.ecommercebrasil.com.br/eventos-2026/ecbr-summit-pagamentos",
+    "source_url": "https://eventos.ecommercebrasil.com.br/eventos-2026/ecbr-summit-pagamentos",
+    "description": "Encuentro de un día organizado por E-Commerce Brasil, enfocado en medios de pago, prevención de fraude, billeteras digitales, autenticación y optimización del checkout para eCommerce y marketplaces. Distinto de ECBR Summit Logística 2026 (mismo organizador, fecha y temática diferentes).",
+    "fixy_relevance": "Permite entender hacia dónde va la fricción de pagos y checkout en el mercado de eCommerce más grande de LatAm, un insumo útil para asesorar a clientes de Fixy sobre pagos y logística, y para conectar con actores del fintech brasileño vinculados a marketplaces.",
+    "justification_type": "aprendizaje",
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-ecbr-pagamentos-summit-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
   }
 ]

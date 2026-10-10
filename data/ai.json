@@ -357,6 +357,28 @@
     "first_seen": "2026-08-22"
   },
   {
+    "name": "Claude Haiku 5.5",
+    "vendor": "Anthropic",
+    "what_it_is": "El modelo chico de Claude: el más rápido y barato de la familia, pensado para tareas de mucho volumen como resumir, clasificar o consultar bases de datos.",
+    "what_changed": "Salió el 7 de octubre de 2026 y cuesta cerca de 75% menos que Haiku 4.5 (USD 0,10 por millón de tokens de entrada y USD 0,50 de salida en prompts de hasta 100k). Está disponible por API como claude-haiku-5-5 y en AWS, Google Cloud y Azure.",
+    "fixy_use": "Sirve para clasificar automáticamente tickets y mensajes de atención al cliente (reclamo, demora, dirección errónea) y para resumir novedades de seguimiento dentro de flujos de n8n o Make. Al costar tan poco, se puede aplicar a todos los envíos del día sin que el gasto sea un problema.",
+    "verdict": "probar",
+    "verdict_reason": "El costo por volumen lo hace viable para automatizaciones diarias de un equipo chico.",
+    "categories": [
+      "Automatización",
+      "Operaciones",
+      "Productividad"
+    ],
+    "pricing_note": "pago por uso vía API: USD 0,10 / 0,50 por millón de tokens (entrada / salida, hasta 100k de prompt)",
+    "source_url": "https://www.anthropic.com/claude-haiku-5-5",
+    "published_date": "2026-10-07",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-haiku-5-5",
+    "source_kind": "auto",
+    "last_updated": "2026-10-10",
+    "first_seen": "2026-10-10"
+  },
+  {
     "name": "Gemini Skills (reemplazan a los Gems)",
     "vendor": "Google",
     "what_it_is": "Instrucciones reutilizables que se activan escribiendo una barra (/) en el chat de Gemini y en Google Workspace. Se pueden combinar varias en una misma conversación.",
