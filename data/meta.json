@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-10T12:16:14.473Z",
-  "last_updated_ar": "10/10/2026, 09:16",
-  "date": "2026-10-10",
+  "generated_at": "2026-10-11T12:15:59.835Z",
+  "last_updated_ar": "11/10/2026, 09:15",
+  "date": "2026-10-11",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Sábado sin novedades nuevas verificables; el foco sigue en el CyberMonday (2 al 4 de noviembre según CACE) y en la agenda de la semana próxima.",
+  "summary_line": "Domingo sin novedades verificables: el foco sigue en el CyberMonday (2 al 4 de noviembre, a confirmar con CACE) y en la agenda de la semana próxima.",
   "counters": {
     "news_today": 0,
     "news_total": 23,
@@ -14,15 +14,15 @@
     "events_later": 37,
     "opportunities_open": 8,
     "opportunities_today": 0,
-    "ai_today": 1,
-    "ai_to_try": 62,
-    "content_ideas": 47,
+    "ai_today": 2,
+    "ai_to_try": 63,
+    "content_ideas": 44,
     "added_news": 0,
     "updated_news": 0,
     "added_events": 0,
     "updated_events": 1,
-    "added_ai": 1,
-    "archived": 8,
+    "added_ai": 2,
+    "archived": 5,
     "discarded_quality": 0
   },
   "next_event": {
@@ -38,28 +38,21 @@
       "kind": "event",
       "title": "CyberMonday 2026",
       "priority": "alta",
-      "one_liner": "Las fuentes ubican el CyberMonday del lunes 2 al miércoles 4 de noviembre (Tiendanube publica 3 al 5): conviene cerrar capacidad de picking y última milla con los clientes."
-    },
-    {
-      "id": "nw-4492c39592",
-      "kind": "news",
-      "title": "En Perú, la demanda de delivery podría crecer hasta 82% en el último trimestre por el pico de eCommerce",
-      "priority": "relevante",
-      "one_liner": "El pico de fin de año presiona la última milla en toda la región."
+      "one_liner": "Se confirma para el 2 al 4 de noviembre según medios, aunque falta la confirmación en el sitio de CACE: conviene cerrar capacidad con los clientes ya."
     },
     {
       "id": "ev-cumbre-federal-logistica-2026",
       "kind": "event",
       "title": "Cumbre Federal de Logística 2026",
       "priority": "relevante",
-      "one_liner": "Se hace el 16 de octubre, la semana próxima, y puede anticipar definiciones de política logística."
+      "one_liner": "Es el 16 de octubre en CABA y puede anticipar definiciones de política logística."
     },
     {
-      "id": "ev-argentina-fintech-forum-2026",
-      "kind": "event",
-      "title": "Argentina Fintech Forum 2026",
-      "priority": "informativo",
-      "one_liner": "Fecha tentativa 29/10 en el CEC de Buenos Aires, todavía sin confirmar por el organizador."
+      "id": "ai-openai-chatgpt-subida-de-archivos-de-audio-para-transcripcio",
+      "kind": "ai",
+      "title": "ChatGPT: subida de archivos de audio para transcripciones y resúmenes",
+      "priority": "relevante",
+      "one_liner": "Permite transcribir y resumir reuniones y llamados de reclamo sin herramientas aparte; vale probarlo con una grabación real."
     }
   ]
 }

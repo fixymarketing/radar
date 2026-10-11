@@ -2492,5 +2492,79 @@
     "source_kind": "auto",
     "last_updated": "2026-08-29",
     "first_seen": "2026-08-29"
+  },
+  {
+    "scope": "intl",
+    "name": "CSCMP EDGE 2026",
+    "organizer": "Council of Supply Chain Management Professionals (CSCMP)",
+    "date_start": "2026-10-04",
+    "date_end": "2026-10-07",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Nashville",
+    "province": null,
+    "country": "Estados Unidos",
+    "venue": "Gaylord Opryland Resort & Convention Center",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.cscmpedge.org/",
+    "source_url": "https://conventiongrid.com/shows/cscmp-edge/2026/nashville/",
+    "description": "Conferencia y exposición anual del CSCMP, considerada el evento de referencia global de supply chain, logística y transporte, con más de 100 sesiones educativas y más de 175 expositores en su Supply Chain Exchange.",
+    "fixy_relevance": "Es la conferencia global más relevante de supply chain y logística: aunque no tiene foco LATAM, permite acceso a tendencias de automatización de almacenes, tecnología de última milla y benchmarks operativos de nivel mundial que pueden aplicarse al fulfillment de Fixy; también es punto de contacto con proveedores tecnológicos y operadores 3PL internacionales.",
+    "justification_type": "aprendizaje",
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-cscmp-edge-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-15",
+    "first_seen": "2026-09-03",
+    "change_log": [
+      {
+        "date": "2026-09-12",
+        "fields": [
+          "city",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-15",
+        "fields": [
+          "city",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "intl",
+    "name": "CyberMonday Chile 2026",
+    "organizer": "Cámara de Comercio de Santiago (CCS)",
+    "date_start": "2026-10-05",
+    "date_end": "2026-10-07",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Santiago",
+    "province": null,
+    "country": "Chile",
+    "venue": "Online",
+    "venue_confirmed": true,
+    "format": "virtual",
+    "category": "eCommerce",
+    "url": "https://www.cybermonday.cl/",
+    "source_url": "https://www.cnnchile.com/negocios/cybermonday-2026-proyecta-us-460-millones-ventas-15-aniversario/",
+    "description": "Edición 15 del CyberMonday chileno, del 5 al 7 de octubre, con 514 marcas y ventas proyectadas por US$460 millones y 4,5 millones de transacciones.",
+    "fixy_relevance": "Adelanta con un mes la dinámica de picos de demanda y entregas que Fixy enfrentará en el CyberMonday argentino (2 al 4 de noviembre). El SERNAC reportó que casi 40% de los reclamos del CyberDay 2025 fueron por demoras de entrega: buen insumo de contenido y planificación.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-chile-cybermonday-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-10-01",
+    "first_seen": "2026-10-01"
   }
 ]

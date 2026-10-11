@@ -321,11 +321,11 @@
   {
     "scope": "ar",
     "name": "CyberMonday 2026",
-    "organizer": "Cámara Argentina de Comercio Electrónico (CACE)",
+    "organizer": "CACE (Cámara Argentina de Comercio Electrónico)",
     "date_start": "2026-11-02",
     "date_end": "2026-11-04",
     "date_confirmed": true,
-    "date_note": "Varias fuentes (Universal Assistance, Elonce) citan la confirmación de CACE para lunes 2 a miércoles 4 de noviembre. Tiendanube publica 3 al 5 de noviembre sin citar fuente; no se pudo contrastar con cybermonday.com.ar (sitio inaccesible desde el entorno). Cyber Week de extensión: 5 al 8 de noviembre según una fuente.",
+    "date_note": "Varias fuentes (Universal Assistance, Elonce) citan la confirmación de CACE para lunes 2 a miércoles 4 de noviembre. Tiendanube publica 3 al 5 de noviembre sin citar fuente; no se pudo contrastar con cybermonday.com.ar (sitio inaccesible desde el entorno).",
     "city": "Online",
     "province": "Buenos Aires",
     "country": "Argentina",
@@ -335,26 +335,16 @@
     "category": "eCommerce",
     "url": "https://www.cybermonday.com.ar",
     "source_url": "https://www.universal-assistance.com/uablog/cuando-es-el-cyber-monday/",
-    "description": "Campaña de ofertas online de tres días organizada por CACE. Las fuentes consultadas la ubican del lunes 2 al miércoles 4 de noviembre de 2026.",
-    "fixy_relevance": "Es el pico de volumen de envíos del último trimestre: conviene confirmar capacidad de picking y última milla con los clientes antes del 2 de noviembre.",
+    "description": "Evento de ventas online de tres días organizado por CACE, con descuentos de miles de marcas y tiendas.",
+    "fixy_relevance": "Es el primer pico de volumen del segundo semestre para fulfillment y última milla; permite planificar capacidad y comunicar a clientes con anticipación.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cybermonday-2026",
     "source_kind": "auto",
-    "last_updated": "2026-10-10",
+    "last_updated": "2026-10-11",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-25",
-        "fields": [
-          "date_end",
-          "date_note",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-09-27",
         "fields": [
@@ -391,6 +381,15 @@
       },
       {
         "date": "2026-10-10",
+        "fields": [
+          "organizer",
+          "date_note",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-11",
         "fields": [
           "organizer",
           "date_note",
@@ -2819,53 +2818,6 @@
   },
   {
     "scope": "intl",
-    "name": "CSCMP EDGE 2026",
-    "organizer": "Council of Supply Chain Management Professionals (CSCMP)",
-    "date_start": "2026-10-04",
-    "date_end": "2026-10-07",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Nashville",
-    "province": null,
-    "country": "Estados Unidos",
-    "venue": "Gaylord Opryland Resort & Convention Center",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Logística",
-    "url": "https://www.cscmpedge.org/",
-    "source_url": "https://conventiongrid.com/shows/cscmp-edge/2026/nashville/",
-    "description": "Conferencia y exposición anual del CSCMP, considerada el evento de referencia global de supply chain, logística y transporte, con más de 100 sesiones educativas y más de 175 expositores en su Supply Chain Exchange.",
-    "fixy_relevance": "Es la conferencia global más relevante de supply chain y logística: aunque no tiene foco LATAM, permite acceso a tendencias de automatización de almacenes, tecnología de última milla y benchmarks operativos de nivel mundial que pueden aplicarse al fulfillment de Fixy; también es punto de contacto con proveedores tecnológicos y operadores 3PL internacionales.",
-    "justification_type": "aprendizaje",
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-cscmp-edge-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-15",
-    "first_seen": "2026-09-03",
-    "change_log": [
-      {
-        "date": "2026-09-12",
-        "fields": [
-          "city",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-09-15",
-        "fields": [
-          "city",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "intl",
     "name": "Shoptalk Europe 2027",
     "organizer": "Shoptalk Europe (Hyve International Events Limited)",
     "date_start": "2027-06-01",
@@ -3903,33 +3855,6 @@
     "source_kind": "auto",
     "last_updated": "2026-09-28",
     "first_seen": "2026-09-28"
-  },
-  {
-    "scope": "intl",
-    "name": "CyberMonday Chile 2026",
-    "organizer": "Cámara de Comercio de Santiago (CCS)",
-    "date_start": "2026-10-05",
-    "date_end": "2026-10-07",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Santiago",
-    "province": null,
-    "country": "Chile",
-    "venue": "Online",
-    "venue_confirmed": true,
-    "format": "virtual",
-    "category": "eCommerce",
-    "url": "https://www.cybermonday.cl/",
-    "source_url": "https://www.cnnchile.com/negocios/cybermonday-2026-proyecta-us-460-millones-ventas-15-aniversario/",
-    "description": "Edición 15 del CyberMonday chileno, del 5 al 7 de octubre, con 514 marcas y ventas proyectadas por US$460 millones y 4,5 millones de transacciones.",
-    "fixy_relevance": "Adelanta con un mes la dinámica de picos de demanda y entregas que Fixy enfrentará en el CyberMonday argentino (2 al 4 de noviembre). El SERNAC reportó que casi 40% de los reclamos del CyberDay 2025 fueron por demoras de entrega: buen insumo de contenido y planificación.",
-    "justification_type": "aprendizaje",
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-chile-cybermonday-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-10-01",
-    "first_seen": "2026-10-01"
   },
   {
     "scope": "intl",

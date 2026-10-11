@@ -379,6 +379,28 @@
     "first_seen": "2026-10-10"
   },
   {
+    "name": "ChatGPT: subida de archivos de audio para transcripciones y resúmenes",
+    "vendor": "OpenAI",
+    "what_it_is": "Ahora se puede subir una grabación de audio a ChatGPT y pedirle que la transcriba, la resuma o responda preguntas sobre lo que se dijo.",
+    "what_changed": "OpenAI lo sumó el 6 de octubre de 2026 en las notas de versión de ChatGPT, para planes pagos y workspaces. Antes había que usar otra herramienta de transcripción aparte.",
+    "fixy_use": "Comercial y atención al cliente pueden subir la grabación de una reunión con un seller o de un llamado de reclamo y pedir acuerdos, objeciones y próximos pasos en una lista. Operaciones puede resumir reuniones de coordinación con transportistas sin que nadie tome notas a mano.",
+    "verdict": "probar",
+    "verdict_reason": "Es barato de probar con una grabación real; hay que revisar los errores de transcripción y la identificación de hablantes, que OpenAI advierte que puede fallar.",
+    "categories": [
+      "Productividad",
+      "Comercial",
+      "Organización"
+    ],
+    "pricing_note": "pago: solo planes pagos y workspaces, no está en Free; formatos y límite de tamaño no confirmados por OpenAI",
+    "source_url": "https://help.openai.com/chatgpt-release-notes",
+    "published_date": "2026-10-06",
+    "priority": "relevante",
+    "id": "ai-openai-chatgpt-subida-de-archivos-de-audio-para-transcripcio",
+    "source_kind": "auto",
+    "last_updated": "2026-10-11",
+    "first_seen": "2026-10-11"
+  },
+  {
     "name": "Gemini Skills (reemplazan a los Gems)",
     "vendor": "Google",
     "what_it_is": "Instrucciones reutilizables que se activan escribiendo una barra (/) en el chat de Gemini y en Google Workspace. Se pueden combinar varias en una misma conversación.",
@@ -1891,6 +1913,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "ChatGPT Intelligent UI (respuestas con comparativas y herramientas interactivas)",
+    "vendor": "OpenAI",
+    "what_it_is": "ChatGPT mezcla texto con elementos visuales e interactivos, como comparaciones lado a lado, diagramas y calculadoras, y elige solo el formato según la pregunta.",
+    "what_changed": "Se empezó a desplegar el 7 de octubre de 2026 junto con GPT-6 en el chat, primero en planes pagos y desde el día siguiente en Free y Go. Es gradual, así que puede no verse todavía en todas las cuentas.",
+    "fixy_use": "Comercial puede pedirle una comparación de tarifas o de opciones de fulfillment contra la competencia y obtener una tabla clara para mostrarle a un prospecto. Operaciones puede armar una calculadora rápida de costo por envío para cotizar sin planillas.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora de formato más que una capacidad nueva; conviene mirarla unas semanas antes de cambiar cómo se trabaja.",
+    "categories": [
+      "Comercial",
+      "Análisis",
+      "Productividad"
+    ],
+    "pricing_note": "freemium: GPT-6 Sol en planes pagos y GPT-6 Luna en Free y Go; el modo Pro no la soporta",
+    "source_url": "https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c",
+    "published_date": "2026-10-07",
+    "priority": "informativo",
+    "id": "ai-openai-chatgpt-intelligent-ui-respuestas-con-comparativas-y-",
+    "source_kind": "auto",
+    "last_updated": "2026-10-11",
+    "first_seen": "2026-10-11"
   },
   {
     "name": "Gemini: 14 nuevas Connected Apps (Airtable, monday.com, Zoho, PandaDoc, Webflow y más)",
