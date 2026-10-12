@@ -2774,27 +2774,5 @@
     "source_kind": "auto",
     "last_updated": "2026-08-25",
     "first_seen": "2026-08-25"
-  },
-  {
-    "name": "MCP 2026-07-28: el protocolo pasa a ser stateless",
-    "vendor": "Model Context Protocol (Anthropic)",
-    "what_it_is": "MCP es el estándar abierto que conecta asistentes de IA con herramientas y datos externos. La versión 2026-07-28 es la actualización más grande desde su lanzamiento: el núcleo del protocolo ahora es sin estado.",
-    "what_changed": "Publicado el 28 de julio de 2026 y ya soportado en Claude. Al ser stateless, desplegar y escalar servidores MCP remotos es mucho más simple, lo que baja el costo de que un proveedor ofrezca una integración oficial.",
-    "fixy_use": "No es algo para implementar esta semana, pero explica por qué en los próximos meses van a aparecer conectores oficiales de los sistemas que Fixy ya usa (facturación, courier, eCommerce) y conviene pedírselos a los proveedores. Si Fixy expone su tracking vía MCP, sus clientes podrían consultar envíos desde sus propios asistentes. Sirve para hacer la pregunta correcta al evaluar software nuevo.",
-    "verdict": "seguir",
-    "verdict_reason": "Es infraestructura, no un producto usable hoy, pero define qué integraciones van a estar disponibles en los próximos meses.",
-    "categories": [
-      "Automatización",
-      "Management",
-      "Operaciones"
-    ],
-    "pricing_note": "Gratis: especificación abierta. El costo está en los productos que la implementan.",
-    "source_url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
-    "published_date": "2026-07-28",
-    "priority": "informativo",
-    "id": "ai-model-context-protocol-anthropic-mcp-2026-07-28-el-protocolo",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
   }
 ]

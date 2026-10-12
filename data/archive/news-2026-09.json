@@ -965,5 +965,29 @@
     "source_kind": "auto",
     "last_updated": "2026-09-21",
     "first_seen": "2026-09-21"
+  },
+  {
+    "title": "El Congreso fijó el 29 de septiembre como fecha límite para dictaminar sobre la mora y el crédito",
+    "what_happened": "Las comisiones de Finanzas y de Defensa del Consumidor de Diputados, que analizan más de 60 proyectos sobre sobreendeudamiento familiar y regulación del crédito, realizaron el martes 22 de septiembre una nueva reunión informativa con especialistas convocados por la oposición. El cronograma acordado prevé que ambas comisiones firmen un dictamen conjunto el martes 29 de septiembre. Representantes de la Cámara Argentina Fintech volvieron a pedir que ningún proyecto intervenga en los contratos entre privados.",
+    "why_it_matters": "Si el Congreso avanza con un techo a las tasas o cambios en la ejecución de deudas, podría afectar el financiamiento al consumo y las condiciones de crédito que sostienen buena parte de las compras online a crédito.",
+    "fixy_impact": "Si el Congreso avanza con topes de tasas o restricciones al crédito fintech, podría afectar la disponibilidad de financiamiento en cuotas que usan los compradores de los clientes de Fixy, un driver relevante del ticket promedio en la temporada de fin de año.",
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "La Brújula 24",
+    "source_url": "https://www.labrujula24.com/notas/2026/09/20/diputados-retoma-el-debate-por-la-morosidad-y-se-prepara-para-avanzar-con-discapacidad-n521487/",
+    "published_date": "2026-09-20",
+    "priority": "relevante",
+    "tags": [
+      "mora",
+      "fintech",
+      "regulación",
+      "crédito",
+      "Congreso"
+    ],
+    "id": "nw-905978078c",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-22",
+    "updated_flag": true
   }
 ]

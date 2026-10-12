@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-11T12:15:59.835Z",
-  "last_updated_ar": "11/10/2026, 09:15",
-  "date": "2026-10-11",
+  "generated_at": "2026-10-12T12:16:15.575Z",
+  "last_updated_ar": "12/10/2026, 09:16",
+  "date": "2026-10-12",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Domingo sin novedades verificables: el foco sigue en el CyberMonday (2 al 4 de noviembre, a confirmar con CACE) y en la agenda de la semana próxima.",
+  "summary_line": "Lunes de pocas novedades verificables: el foco está en el Día de la Madre del 18/10, la agenda tech de la semana en Rosario y Buenos Aires, y la fecha final del CyberMonday.",
   "counters": {
-    "news_today": 0,
-    "news_total": 23,
-    "events_upcoming": 48,
-    "events_ar_upcoming": 30,
-    "events_intl_upcoming": 18,
-    "events_later": 37,
+    "news_today": 2,
+    "news_total": 24,
+    "events_upcoming": 50,
+    "events_ar_upcoming": 31,
+    "events_intl_upcoming": 19,
+    "events_later": 36,
     "opportunities_open": 8,
     "opportunities_today": 0,
-    "ai_today": 2,
+    "ai_today": 0,
     "ai_to_try": 63,
-    "content_ideas": 44,
-    "added_news": 0,
+    "content_ideas": 41,
+    "added_news": 2,
     "updated_news": 0,
-    "added_events": 0,
-    "updated_events": 1,
-    "added_ai": 2,
-    "archived": 5,
+    "added_events": 1,
+    "updated_events": 2,
+    "added_ai": 0,
+    "archived": 7,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,25 +34,32 @@
   },
   "highlights": [
     {
+      "id": "nw-74be7d3208",
+      "kind": "news",
+      "title": "Los comercios llegan al Día de la Madre más desafiante en años, con consumo flojo y menos financiamiento",
+      "priority": "relevante",
+      "one_liner": "El Día de la Madre es el 18/10: conviene confirmar capacidad de despacho y plazos de corte con los clientes esta semana."
+    },
+    {
+      "id": "nw-a4dfe99aea",
+      "kind": "news",
+      "title": "Comercio agéntico: la IA pasa de sugerir productos a decidir y ejecutar compras",
+      "priority": "informativo",
+      "one_liner": "Si los agentes eligen vendedor por stock y plazo de entrega, la promesa logística pasa a ser un factor de venta."
+    },
+    {
+      "id": "ev-rosario-techweek-2026",
+      "kind": "event",
+      "title": "Rosario TechWeek 2026",
+      "priority": "relevante",
+      "one_liner": "Del 19 al 23/10 en Rosario: networking con clientes y aliados potenciales del Litoral."
+    },
+    {
       "id": "ev-cybermonday-2026",
       "kind": "event",
       "title": "CyberMonday 2026",
       "priority": "alta",
-      "one_liner": "Se confirma para el 2 al 4 de noviembre según medios, aunque falta la confirmación en el sitio de CACE: conviene cerrar capacidad con los clientes ya."
-    },
-    {
-      "id": "ev-cumbre-federal-logistica-2026",
-      "kind": "event",
-      "title": "Cumbre Federal de Logística 2026",
-      "priority": "relevante",
-      "one_liner": "Es el 16 de octubre en CABA y puede anticipar definiciones de política logística."
-    },
-    {
-      "id": "ai-openai-chatgpt-subida-de-archivos-de-audio-para-transcripcio",
-      "kind": "ai",
-      "title": "ChatGPT: subida de archivos de audio para transcripciones y resúmenes",
-      "priority": "relevante",
-      "one_liner": "Permite transcribir y resumir reuniones y llamados de reclamo sin herramientas aparte; vale probarlo con una grabación real."
+      "one_liner": "La fecha sigue sin confirmarse del todo (2 al 4 o 3 al 5 de noviembre): hay que cerrar capacidad con los clientes."
     }
   ]
 }

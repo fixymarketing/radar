@@ -1,68 +1,6 @@
 [
   {
     "scope": "ar",
-    "name": "Experiencia Endeavor Cuyo 2026",
-    "organizer": "Endeavor Cuyo",
-    "date_start": "2026-10-08",
-    "date_end": "2026-10-08",
-    "date_confirmed": true,
-    "date_note": "Un save the date anterior en Luma hablaba de septiembre; las notas más recientes de Descubre.vc confirman el 8 de octubre.",
-    "city": "Mendoza",
-    "province": "Mendoza",
-    "country": "Argentina",
-    "venue": "Complejo Naves y Báscula (Las Cubas 201)",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Emprendimiento",
-    "url": "https://luma.com/lrr9vuun",
-    "source_url": "https://www.descubre.vc/noticia/mendoza-recibe-la-experiencia-endeavor-cuyo-2026-para-potenciar-el-ecosistema-emprendedor-2026-09-18",
-    "description": "Jornada anual del ecosistema emprendedor de Cuyo con oradores, Club del Pitch para startups y espacio Conecta Inversor. Una nota menciona el complejo Naves y Báscula como sede, sin confirmación oficial.",
-    "fixy_relevance": "Permite hacer networking con emprendedores y scale-ups del interior que venden online y pueden necesitar fulfillment y última milla.",
-    "justification_type": null,
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-cuyo-endeavor-experiencia-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-10-08",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-08-20",
-        "fields": [
-          "organizer",
-          "url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
-      {
-        "date": "2026-09-27",
-        "fields": [
-          "venue",
-          "venue_confirmed",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-10-08",
-        "fields": [
-          "organizer",
-          "date_note",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
     "name": "Cumbre Federal de Logística 2026",
     "organizer": "Consejo Federal de Inversiones (CFI) y provincias argentinas",
     "date_start": "2026-10-16",
@@ -151,7 +89,7 @@
     "date_start": "2026-10-19",
     "date_end": "2026-10-23",
     "date_confirmed": true,
-    "date_note": "Luma indica del 19 al 23 de octubre; un listado de terceros mostraba el 23 de septiembre, que parece desactualizado.",
+    "date_note": "Segunda edición, del lunes 19 al viernes 23 de octubre según el calendario en Luma. Un agregador (andresospina.co) trae el 23 de septiembre, que contradice a las demás fuentes y parece desactualizado.",
     "city": "Rosario",
     "province": "Santa Fe",
     "country": "Argentina",
@@ -159,30 +97,18 @@
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Tecnología",
-    "url": "https://rosariotechweek.com",
+    "url": "https://luma.com/zmvln80p",
     "source_url": "https://luma.com/zmvln80p",
-    "description": "Semana de innovación, startups y tecnología con más de 20 actividades distribuidas en distintos puntos de Rosario. La agenda completa se está publicando.",
-    "fixy_relevance": "Es una oportunidad de presencia y contactos en el polo tecnológico de Rosario, con startups y comercios del interior potenciales clientes.",
+    "description": "Semana de actividades colaborativas sobre innovación, startups y tecnología en Rosario. La agenda completa todavía no se publicó y cada actividad tendría su propia sede.",
+    "fixy_relevance": "Rosario es un polo logístico y de eCommerce del Litoral; sirve para hacer networking con empresas y emprendedores de la región y detectar posibles clientes y aliados.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-rosario-techweek-2026",
     "source_kind": "auto",
-    "last_updated": "2026-10-08",
+    "last_updated": "2026-10-12",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-05",
-        "fields": [
-          "organizer",
-          "format",
-          "category",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
       {
         "date": "2026-09-12",
         "fields": [
@@ -229,6 +155,15 @@
           "description",
           "fixy_relevance"
         ]
+      },
+      {
+        "date": "2026-10-12",
+        "fields": [
+          "date_note",
+          "url",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
@@ -239,37 +174,26 @@
     "date_start": "2026-10-20",
     "date_end": "2026-10-31",
     "date_confirmed": true,
-    "date_note": "iProfesional indica del 20 al 31 de octubre; Dealroom y la propuesta de patrocinio de la Ciudad indican del 21 al 31.",
-    "city": "Buenos Aires",
-    "province": "CABA",
+    "date_note": "iProfesional y el folleto oficial del Gobierno porteño dicen del 20 al 31 de octubre; Dealroom trae 21 al 31 y un agregador (andresospina.co) el 5 de noviembre, que parece erróneo.",
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "BA Ferial (ex Costa Salguero) y otras sedes",
+    "venue": "BA Ferial como sede principal, más CEC, Usina del Arte y CC Konex",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Tecnología",
-    "url": "https://tumarcaenba.buenosaires.gob.ar/wp-content/uploads/2026/08/Tecweek-2026.pdf",
+    "url": "https://tecweek.com.ar",
     "source_url": "https://www.iprofesional.com/tecnologia/465639-llega-la-tecweek-2026-fecha-en-octubre-y-que-eventos-habra-este-ano",
-    "description": "Semana de tecnología con eventos de inteligencia artificial, fintech y gaming en varias sedes porteñas. La propuesta de la Ciudad marca la agenda como pendiente de confirmación.",
-    "fixy_relevance": "Reúne actores de tecnología, pagos e IA aplicada que pueden servir para alianzas e integraciones.",
+    "description": "Semana de tecnologías emergentes con eventos distribuidos en distintos barrios porteños. Este año cambia la sede principal respecto de la edición 2025 en Costa Salguero.",
+    "fixy_relevance": "Concentra charlas sobre IA, fintech y tecnología aplicada que pueden servir para detectar herramientas y contactos para operaciones y comercial.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-aires-buenos-tecweek-2026",
     "source_kind": "auto",
-    "last_updated": "2026-10-08",
+    "last_updated": "2026-10-12",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-13",
-        "fields": [
-          "city",
-          "venue",
-          "category",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-09-16",
         "fields": [
@@ -314,6 +238,18 @@
           "description",
           "fixy_relevance",
           "priority"
+        ]
+      },
+      {
+        "date": "2026-10-12",
+        "fields": [
+          "date_note",
+          "city",
+          "province",
+          "venue",
+          "url",
+          "description",
+          "fixy_relevance"
         ]
       }
     ]
@@ -3536,33 +3472,6 @@
   },
   {
     "scope": "ar",
-    "name": "Semana Comex 2026 (Santa Fe)",
-    "organizer": "Cámara de Comercio Exterior de Santa Fe (CaCESFe) con Municipalidad de Santa Fe y Cámara Argentina de Comercio y Servicios (CAC)",
-    "date_start": "2026-10-06",
-    "date_end": "2026-10-08",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Santa Fe",
-    "province": "Santa Fe",
-    "country": "Argentina",
-    "venue": "Centro de Convenciones Los Maderos (Dique 1, Puerto de Santa Fe)",
-    "venue_confirmed": true,
-    "format": "híbrido",
-    "category": "Logística",
-    "url": "https://www.semanacomex.com.ar/",
-    "source_url": "https://www.miradorprovincial.com/2026/09/24/semana-comex-en-santa-fe-fechas-cronograma-y-detalles-de-las-rondas-de-negocios-en-la-estacion-belgrano/",
-    "description": "14ª edición de la Semana Comex: rondas de negocios internacionales (presenciales y virtuales) con compradores de Latinoamérica, conferencias y networking sobre comercio exterior, con acto inaugural el 6/10 y rondas concentradas el 7 y 8/10.",
-    "fixy_relevance": "Reúne pymes exportadoras y compradores regionales que necesitan resolver logística de despacho, almacenamiento y distribución cross-border; es una vidriera para posicionar servicios de fulfillment orientados a venta internacional.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-comex-fe-santa-semana-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-26",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "scope": "ar",
     "name": "Comex Day Córdoba 2026",
     "organizer": "Agencia ProCórdoba y Cámara de Comercio Exterior de Córdoba (CaCEC)",
     "date_start": "2026-11-05",
@@ -3882,5 +3791,32 @@
     "source_kind": "auto",
     "last_updated": "2026-10-05",
     "first_seen": "2026-10-05"
+  },
+  {
+    "scope": "ar",
+    "name": "Impulso 360 Rosario 2026",
+    "organizer": "Wootic y Poliedro, con coordinación de la Municipalidad de Rosario",
+    "date_start": "2026-10-23",
+    "date_end": "2026-10-23",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Rosario",
+    "province": "Santa Fe",
+    "country": "Argentina",
+    "venue": "Tecnoteca Rosario",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Tecnología",
+    "url": "https://www.criptonoticias.com/calendario-eventos/impulso-360-rosario-2026/",
+    "source_url": "https://www.criptonoticias.com/calendario-eventos/impulso-360-rosario-2026/",
+    "description": "Primera edición de un encuentro B2B de tecnología y negocios para el empresariado del Litoral, dentro de la Rosario Tech Week. Ejes: regulación, finanzas digitales, automatización con IA, infraestructura de datos e IA.",
+    "fixy_relevance": "Ofrece contacto directo con empresas del Litoral y contenido sobre automatización con IA y finanzas digitales aplicable a operaciones y ventas. Es una sola fuente, conviene confirmar inscripción y agenda.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-impulso-rosario-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-10-12",
+    "first_seen": "2026-10-12"
   }
 ]

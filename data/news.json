@@ -24,30 +24,6 @@
     "updated_flag": true
   },
   {
-    "title": "El Congreso fijó el 29 de septiembre como fecha límite para dictaminar sobre la mora y el crédito",
-    "what_happened": "Las comisiones de Finanzas y de Defensa del Consumidor de Diputados, que analizan más de 60 proyectos sobre sobreendeudamiento familiar y regulación del crédito, realizaron el martes 22 de septiembre una nueva reunión informativa con especialistas convocados por la oposición. El cronograma acordado prevé que ambas comisiones firmen un dictamen conjunto el martes 29 de septiembre. Representantes de la Cámara Argentina Fintech volvieron a pedir que ningún proyecto intervenga en los contratos entre privados.",
-    "why_it_matters": "Si el Congreso avanza con un techo a las tasas o cambios en la ejecución de deudas, podría afectar el financiamiento al consumo y las condiciones de crédito que sostienen buena parte de las compras online a crédito.",
-    "fixy_impact": "Si el Congreso avanza con topes de tasas o restricciones al crédito fintech, podría afectar la disponibilidad de financiamiento en cuotas que usan los compradores de los clientes de Fixy, un driver relevante del ticket promedio en la temporada de fin de año.",
-    "category": "Regulación",
-    "geo": "Argentina",
-    "source_name": "La Brújula 24",
-    "source_url": "https://www.labrujula24.com/notas/2026/09/20/diputados-retoma-el-debate-por-la-morosidad-y-se-prepara-para-avanzar-con-discapacidad-n521487/",
-    "published_date": "2026-09-20",
-    "priority": "relevante",
-    "tags": [
-      "mora",
-      "fintech",
-      "regulación",
-      "crédito",
-      "Congreso"
-    ],
-    "id": "nw-905978078c",
-    "source_kind": "auto",
-    "last_updated": "2026-09-24",
-    "first_seen": "2026-09-22",
-    "updated_flag": true
-  },
-  {
     "title": "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega",
     "what_happened": "MODO, la billetera de los bancos argentinos, habilitó esta semana (miércoles 23 de septiembre) la posibilidad de buscar, comparar y pagar productos dentro de su plug-in en ChatGPT, lo que presenta como el primer caso de \"comercio agéntico abierto\" con una transacción real concretada en América Latina. La función arrancó con Frávega como primer aliado comercial y la empresa anticipó que sumará más marcas en los próximos meses. El usuario igual debe autorizar el pago manualmente desde la app de MODO o de su banco.",
     "why_it_matters": "Es el primer caso regional en el que un asistente de IA generalista completa una compra real de punta a punta dentro de la conversación, lo que anticipa una nueva pelea entre bancos y billeteras por ser el método de pago que la IA elige y presiona a Mercado Pago a acelerar su propia integración.",
@@ -528,5 +504,51 @@
     "source_kind": "auto",
     "last_updated": "2026-10-08",
     "first_seen": "2026-10-08"
+  },
+  {
+    "title": "Los comercios llegan al Día de la Madre más desafiante en años, con consumo flojo y menos financiamiento",
+    "what_happened": "Infobae publicó el 11 de octubre un análisis sobre la temporada del Día de la Madre, que en Argentina se celebra el domingo 18 de octubre. La nota describe un escenario condicionado por la pérdida de poder adquisitivo y el freno del financiamiento, y recuerda que las ventas de la fecha habían caído 3,5% en 2025.",
+    "why_it_matters": "Es la primera fecha comercial fuerte del último trimestre y marca el tono de la demanda antes de CyberMonday y Black Friday. Con consumo contenido, las tiendas van a competir más con descuentos y cuotas y van a ser más sensibles al costo y la velocidad del envío.",
+    "fixy_impact": "Los clientes de Fixy pueden tener picos de pedidos más cortos y concentrados esta semana; conviene confirmar capacidad de despacho y plazos de corte para entregas antes del 18/10.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/10/11/por-que-los-comercios-enfrentan-su-dia-de-la-madre-mas-desafiante-en-anos/",
+    "published_date": "2026-10-11",
+    "priority": "relevante",
+    "tags": [
+      "Día de la Madre",
+      "consumo",
+      "ventas",
+      "financiamiento",
+      "estacionalidad"
+    ],
+    "id": "nw-74be7d3208",
+    "source_kind": "auto",
+    "last_updated": "2026-10-12",
+    "first_seen": "2026-10-12"
+  },
+  {
+    "title": "Comercio agéntico: la IA pasa de sugerir productos a decidir y ejecutar compras",
+    "what_happened": "Infobae publicó el 11 de octubre una nota sobre el comercio agéntico, en la que los asistentes de IA ya no solo recomiendan productos sino que deciden y ejecutan la compra, y el rol humano se limita a la instrucción inicial y, a veces, a la aprobación final. El tema vuelve a la agenda días después de que MODO habilitara compras dentro de ChatGPT en Argentina.",
+    "why_it_matters": "Si la decisión de compra se traslada a agentes de IA, cambia cómo las tiendas son descubiertas y comparadas. Pasan a pesar más los datos de catálogo, el stock, los plazos de entrega y el costo de envío que la publicidad tradicional.",
+    "fixy_impact": "Fixy podría ofrecer a sus clientes datos de stock y promesas de entrega confiables y estructurados, algo que los agentes de compra van a tener en cuenta al elegir vendedor.",
+    "category": "IA aplicada",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/10/11/como-sera-la-revolucion-del-comercio-agentico-la-ia-ya-dejo-de-sugerir-productos-y-empezo-a-decidir-las-compras/",
+    "published_date": "2026-10-11",
+    "priority": "informativo",
+    "tags": [
+      "comercio agéntico",
+      "IA",
+      "ChatGPT",
+      "eCommerce",
+      "pagos"
+    ],
+    "id": "nw-a4dfe99aea",
+    "source_kind": "auto",
+    "last_updated": "2026-10-12",
+    "first_seen": "2026-10-12"
   }
 ]
