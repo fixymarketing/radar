@@ -1,29 +1,5 @@
 [
   {
-    "title": "El sindicato portuario de Montevideo convocó un nuevo paro nacional de 24 horas en pleno conflicto con TCP",
-    "what_happened": "El paro nacional de 24 horas convocado por el sindicato portuario se concretó el lunes 21 de septiembre y afectó a todos los puertos de Uruguay; la actividad se normalizó recién el martes 22 por la mañana. Cámaras empresariales uruguayas pidieron una respuesta urgente al Gobierno ante la seguidilla de medidas de fuerza, que en lo que va de 2026 ya acumulan 44 días de paro con un impacto promedio del 70% sobre los movimientos de contenedores en la terminal TCP.",
-    "why_it_matters": "El conflicto en Montevideo, puerto clave para el comercio exterior de la región (incluida carga argentina que usa esa terminal como alternativa o complemento), sigue sin resolverse pese a la disposición de servicios mínimos, y ahora son las propias cámaras empresariales las que reclaman una intervención más firme del Estado uruguayo.",
-    "fixy_impact": "Los operadores que dependen de tránsito o transbordo por Montevideo deben seguir contemplando demoras y sobrecostos mientras el conflicto no tenga una resolución de fondo.",
-    "category": "Logística",
-    "geo": "LATAM",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/america/agencias/2026/09/21/camaras-empresariales-piden-una-respuesta-urgente-ante-paros-en-el-puerto-de-montevideo/",
-    "published_date": "2026-09-21",
-    "priority": "relevante",
-    "tags": [
-      "puerto Montevideo",
-      "TCP",
-      "paro",
-      "Uruguay",
-      "comercio exterior"
-    ],
-    "id": "nw-e19d279417",
-    "source_kind": "auto",
-    "last_updated": "2026-09-23",
-    "first_seen": "2026-09-20",
-    "updated_flag": true
-  },
-  {
     "title": "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega",
     "what_happened": "MODO, la billetera de los bancos argentinos, habilitó esta semana (miércoles 23 de septiembre) la posibilidad de buscar, comparar y pagar productos dentro de su plug-in en ChatGPT, lo que presenta como el primer caso de \"comercio agéntico abierto\" con una transacción real concretada en América Latina. La función arrancó con Frávega como primer aliado comercial y la empresa anticipó que sumará más marcas en los próximos meses. El usuario igual debe autorizar el pago manualmente desde la app de MODO o de su banco.",
     "why_it_matters": "Es el primer caso regional en el que un asistente de IA generalista completa una compra real de punta a punta dentro de la conversación, lo que anticipa una nueva pelea entre bancos y billeteras por ser el método de pago que la IA elige y presiona a Mercado Pago a acelerar su propia integración.",

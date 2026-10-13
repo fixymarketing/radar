@@ -1891,28 +1891,26 @@
     "first_seen": "2026-08-20"
   },
   {
-    "name": "Gemini Enterprise Business edition: servidores MCP propios",
-    "vendor": "Google",
-    "what_it_is": "Gemini Enterprise Business edition es la versión de la plataforma agéntica de Google para empresas chicas y equipos. Ahora permite conectar servidores MCP propios para que los agentes accedan a datos privados y herramientas internas.",
-    "what_changed": "Las conexiones a servidores MCP personalizados entraron en public preview el 29 de julio de 2026; Canvas para crear y editar slides llegó a disponibilidad general el 24 de julio; y el 13 de agosto habilitaron Gemini 3.7 Flash en el selector.",
-    "fixy_use": "Si Fixy tiene un sistema propio de gestión de envíos o tracking, un servidor MCP permitiría preguntarle en lenguaje natural qué envíos de un cliente están demorados más de 48 horas, sin salir de Gemini. Comercial podría generar propuestas y presentaciones con Canvas usando datos reales de servicio.",
+    "name": "Gemini agent",
+    "vendor": "Google Cloud",
+    "what_it_is": "Un agente de IA único para trabajo de oficina: le das un objetivo y arma documentos, responde consultas y ejecuta tareas largas en la nube usando Gmail, Drive, Docs, Sheets, Chat y Calendar.",
+    "what_changed": "Google Cloud lo presentó el 8 de octubre en Gemini at Work 2026. Está en vista previa para servicios financieros y legales, y anunciaron que llega pronto a retail; puede enrutar tareas entre modelos Gemini y Claude, con topes de gasto y permisos por rol.",
+    "fixy_use": "Podría encargarse de armar el informe semanal de operaciones cruzando planillas de despachos y mails de clientes, o de preparar propuestas comerciales desde Drive. Todavía no hay fecha de disponibilidad para PyMEs en Argentina, así que conviene seguirlo y no planificar nada sobre él.",
     "verdict": "seguir",
-    "verdict_reason": "Es la vía más limpia para conectar el sistema propio de Fixy a la IA, pero está en preview y requiere trabajo técnico.",
+    "verdict_reason": "Es relevante para un equipo chico que ya vive en Google Workspace, pero hoy no está disponible para retail ni logística.",
     "categories": [
+      "Productividad",
       "Automatización",
-      "Operaciones",
-      "Logística",
-      "Análisis",
-      "Management"
+      "Organización"
     ],
-    "pricing_note": "Pago: suscripción Gemini Enterprise Business edition con prueba gratuita. Google no publica precio en la página de release notes.",
-    "source_url": "https://support.google.com/g/answer/16719009?hl=en",
-    "published_date": "2026-07-29",
-    "priority": "relevante",
-    "id": "ai-google-gemini-enterprise-business-edition-servidores-mcp-pro",
+    "pricing_note": "no confirmado: en vista previa, sin precios públicos para este segmento",
+    "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+    "published_date": "2026-10-08",
+    "priority": "informativo",
+    "id": "ai-google-cloud-gemini-agent",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-10-13",
+    "first_seen": "2026-10-13"
   },
   {
     "name": "ChatGPT Intelligent UI (respuestas con comparativas y herramientas interactivas)",

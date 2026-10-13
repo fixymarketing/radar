@@ -2,42 +2,30 @@
   {
     "scope": "ar",
     "name": "Cumbre Federal de Logística 2026",
-    "organizer": "Consejo Federal de Inversiones (CFI) y provincias argentinas",
+    "organizer": "Consejo Federal de Inversiones (CFI)",
     "date_start": "2026-10-16",
     "date_end": "2026-10-16",
     "date_confirmed": true,
     "date_note": "Una búsqueda mostró una mención aislada a '10 de noviembre' para este evento, pero múltiples fuentes (Webpicking, medios provinciales) confirman de forma consistente el 16 de octubre en el CEC Buenos Aires; se prioriza esta fecha.",
-    "city": "CABA",
-    "province": "Buenos Aires",
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "CABA",
     "country": "Argentina",
     "venue": "Centro de Convenciones de Buenos Aires (CEC)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Logística",
-    "url": "https://webpicking.com/la-cumbre-federal-de-logistica-2026-tiene-fecha/",
-    "source_url": "https://webpicking.com/la-cumbre-federal-de-logistica-2026-tiene-fecha/",
-    "description": "Encuentro impulsado por el CFI y las provincias bajo el lema \"Hacia una logística competitiva para el desarrollo federal\", que reunirá a gobernadores, autoridades provinciales y CEOs del sector logístico y transporte.",
-    "fixy_relevance": "Permite a Fixy anticipar definiciones de política pública e inversión en infraestructura logística federal que pueden abrir oportunidades de expansión hacia el interior del país.",
+    "url": "https://eleconomista.com.ar/politica/cumbre-federal-logistica-2026-cfi-gobernadores-infraestructura-transporte--n98772",
+    "source_url": "https://eleconomista.com.ar/politica/cumbre-federal-logistica-2026-cfi-gobernadores-infraestructura-transporte--n98772",
+    "description": "Segunda edición de la cumbre del CFI con gobernadores y CEOs para debatir la Estrategia Federal Logística, infraestructura de transporte y unos 1.100 proyectos estratégicos. Se vincula con el Corredor Andes-Atlántico.",
+    "fixy_relevance": "Permite conocer el plan de infraestructura logística federal y hacer contactos con actores provinciales útiles para la expansión de Fixy en el interior.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cumbre-federal-logistica-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-10",
+    "last_updated": "2026-10-13",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-31",
-        "fields": [
-          "organizer",
-          "city",
-          "province",
-          "venue",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
       {
         "date": "2026-09-04",
         "fields": [
@@ -79,17 +67,29 @@
           "description",
           "fixy_relevance"
         ]
+      },
+      {
+        "date": "2026-10-13",
+        "fields": [
+          "organizer",
+          "city",
+          "province",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
       }
     ]
   },
   {
     "scope": "ar",
     "name": "Rosario TechWeek 2026",
-    "organizer": "El Hub - Rosario Innovation",
+    "organizer": "Rosario Tech Week",
     "date_start": "2026-10-19",
     "date_end": "2026-10-23",
     "date_confirmed": true,
-    "date_note": "Segunda edición, del lunes 19 al viernes 23 de octubre según el calendario en Luma. Un agregador (andresospina.co) trae el 23 de septiembre, que contradice a las demás fuentes y parece desactualizado.",
+    "date_note": "Una página de agenda de terceros menciona el 23/09, pero el listado oficial en Luma indica del 19 al 23 de octubre.",
     "city": "Rosario",
     "province": "Santa Fe",
     "country": "Argentina",
@@ -99,31 +99,16 @@
     "category": "Tecnología",
     "url": "https://luma.com/zmvln80p",
     "source_url": "https://luma.com/zmvln80p",
-    "description": "Semana de actividades colaborativas sobre innovación, startups y tecnología en Rosario. La agenda completa todavía no se publicó y cada actividad tendría su propia sede.",
-    "fixy_relevance": "Rosario es un polo logístico y de eCommerce del Litoral; sirve para hacer networking con empresas y emprendedores de la región y detectar posibles clientes y aliados.",
+    "description": "Segunda edición de una semana de eventos de tecnología, startups e innovación en Rosario, con actividades en distintas sedes.",
+    "fixy_relevance": "Ocasión de networking con el polo tecnológico rosarino y con tiendas y desarrolladores del interior que pueden necesitar logística.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-rosario-techweek-2026",
     "source_kind": "auto",
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-13",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-12",
-        "fields": [
-          "organizer",
-          "date_note",
-          "venue",
-          "format",
-          "category",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
       {
         "date": "2026-09-16",
         "fields": [
@@ -161,6 +146,15 @@
         "fields": [
           "date_note",
           "url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-13",
+        "fields": [
+          "organizer",
+          "date_note",
           "description",
           "fixy_relevance"
         ]
@@ -257,11 +251,11 @@
   {
     "scope": "ar",
     "name": "CyberMonday 2026",
-    "organizer": "CACE (Cámara Argentina de Comercio Electrónico)",
+    "organizer": "CACE",
     "date_start": "2026-11-02",
     "date_end": "2026-11-04",
     "date_confirmed": true,
-    "date_note": "Varias fuentes (Universal Assistance, Elonce) citan la confirmación de CACE para lunes 2 a miércoles 4 de noviembre. Tiendanube publica 3 al 5 de noviembre sin citar fuente; no se pudo contrastar con cybermonday.com.ar (sitio inaccesible desde el entorno).",
+    "date_note": "Tiendanube publica 3 al 5 de noviembre (con \"lunes 3\", que no coincide con el calendario 2026); la mayoría de las fuentes indica lunes 2 al miércoles 4.",
     "city": "Online",
     "province": "Buenos Aires",
     "country": "Argentina",
@@ -270,28 +264,17 @@
     "format": "virtual",
     "category": "eCommerce",
     "url": "https://www.cybermonday.com.ar",
-    "source_url": "https://www.universal-assistance.com/uablog/cuando-es-el-cyber-monday/",
-    "description": "Evento de ventas online de tres días organizado por CACE, con descuentos de miles de marcas y tiendas.",
-    "fixy_relevance": "Es el primer pico de volumen del segundo semestre para fulfillment y última milla; permite planificar capacidad y comunicar a clientes con anticipación.",
+    "source_url": "https://mercado.com.ar/agenda/cybermonday-2026-abrio-contrataciones-y-definio-bonificaciones-para-nuevos-socios-y-pymes",
+    "description": "Evento de descuentos online de la CACE, de tres días corridos, con inscripciones abiertas para socios y pymes.",
+    "fixy_relevance": "Pico de demanda de fulfillment y última milla; define la planificación de capacidad y la comunicación comercial a clientes.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cybermonday-2026",
     "source_kind": "auto",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-13",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-27",
-        "fields": [
-          "organizer",
-          "date_note",
-          "city",
-          "venue",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-09-30",
         "fields": [
@@ -329,6 +312,16 @@
         "fields": [
           "organizer",
           "date_note",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-13",
+        "fields": [
+          "organizer",
+          "date_note",
+          "source_url",
           "description",
           "fixy_relevance"
         ]
@@ -416,28 +409,28 @@
   {
     "scope": "ar",
     "name": "Somos Pymes Summit – El País que se Viene",
-    "organizer": "Comunidad Somos Pymes",
+    "organizer": "Somos Pymes",
     "date_start": "2026-11-18",
     "date_end": "2026-11-18",
     "date_confirmed": true,
-    "date_note": null,
-    "city": "Buenos Aires",
+    "date_note": "El listado de Eventbrite indica miércoles 18 de noviembre sin año; coincide con 2026 pero falta confirmación oficial.",
+    "city": "Ciudad Autónoma de Buenos Aires",
     "province": "CABA",
     "country": "Argentina",
-    "venue": "La Rural (Ingreso Proveedores, Calle Juncal)",
+    "venue": "La Rural (ingreso proveedores, calle Juncal)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Emprendimiento",
-    "url": "https://comunidadsomospymes.com.ar/el_pais_que_se_viene/",
-    "source_url": "https://www.somospymes.com.ar/eventos/somos-pymes-llega-el-pais-que-se-viene-n5400936",
-    "description": "Encuentro para más de 1.000 empresarios pyme centrado en anticipar escenarios económicos de 2027 y brindar herramientas para la toma de decisiones estratégicas.",
-    "fixy_relevance": "Concentra a dueños de pymes que son clientes potenciales directos de Fixy —marcas que venden online y necesitan tercerizar su logística—; buena instancia de generación de contactos comerciales.",
+    "url": "https://www.eventbrite.com.au/d/argentina/somos-pymes",
+    "source_url": "https://www.eventbrite.com.au/d/argentina/somos-pymes",
+    "description": "Cumbre pyme de Somos Pymes en Buenos Aires, a las 8:00.",
+    "fixy_relevance": "Concentra pymes que venden o van a vender online, un público directo para la oferta comercial de Fixy.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-pais-pymes-que-se-somos-summit-viene-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-04",
+    "last_updated": "2026-10-13",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -456,6 +449,19 @@
         "fields": [
           "city",
           "province",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-13",
+        "fields": [
+          "organizer",
+          "date_note",
+          "city",
+          "venue",
+          "url",
           "source_url",
           "description",
           "fixy_relevance"
@@ -549,7 +555,7 @@
     "name": "eRetail Day México 2026",
     "organizer": "eCommerce Institute y AMVO (Asociación Mexicana de Venta Online)",
     "date_start": "2026-10-15",
-    "date_end": "2026-10-16",
+    "date_end": "2026-10-15",
     "date_confirmed": true,
     "date_note": "El 15/10 es la jornada principal en el Auditorio BB; el 16/10 continúan actividades complementarias (Technical Roadshow y networking).",
     "city": "Ciudad de México",
@@ -559,32 +565,18 @@
     "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
-    "url": "https://eretailday.org/2026/mx/",
-    "source_url": "https://tecnoempresa.mx/reune-eretail-day-latam-2026-a-lideres-del-comercio-digital-en-mexico/",
-    "description": "Se confirmó la sede (Auditorio BB) de la 13ª edición, co-organizada por primera vez con AMVO, que suma una competencia de IA aplicada a comercio unificado y una competencia de startups de e-commerce.",
-    "fixy_relevance": "Es el evento de retail digital más relevante de México, con marketplaces, retailers y operadores logísticos regionales. Al estar co-organizado con AMVO (la cámara del sector), es una puerta de entrada institucional para explorar una eventual expansión de servicios de fulfillment hacia México.",
-    "justification_type": "expansión regional",
+    "url": "https://www.eretailday.com",
+    "source_url": "https://ecosistemastartup.com/?p=111129",
+    "description": "13.ª edición del encuentro de retail digital de México, organizada por el eCommerce Institute junto a AMVO. Foco en IA y nuevos canales de venta.",
+    "fixy_relevance": "Networking con marcas, marketplaces y proveedores logísticos de la región; referencia de tendencias de eCommerce en LATAM.",
+    "justification_type": "networking",
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-day-eretail-latam-mexico-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-19",
+    "last_updated": "2026-10-13",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-20",
-        "fields": [
-          "name",
-          "date_note",
-          "venue",
-          "venue_confirmed",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "justification_type",
-          "priority"
-        ]
-      },
       {
         "date": "2026-08-29",
         "fields": [
@@ -620,6 +612,17 @@
         "date": "2026-09-19",
         "fields": [
           "date_note",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type"
+        ]
+      },
+      {
+        "date": "2026-10-13",
+        "fields": [
+          "date_end",
+          "url",
           "source_url",
           "description",
           "fixy_relevance",
@@ -700,24 +703,24 @@
     "date_start": "2026-10-18",
     "date_end": "2026-10-21",
     "date_confirmed": true,
-    "date_note": null,
+    "date_note": "El domingo 18 son cumbres de contenido; el piso de exposición abre el lunes 19 y cierra el miércoles 21 al mediodía.",
     "city": "Las Vegas",
     "province": null,
     "country": "Estados Unidos",
-    "venue": "The Venetian Expo",
+    "venue": "The Venetian",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Pagos y Fintech",
-    "url": "https://us.money2020.com/",
-    "source_url": "https://us.money2020.com/attend",
-    "description": "Se confirmó la sede exacta: The Venetian Expo, en Las Vegas, del 18 al 21 de octubre de 2026, para la mayor conferencia mundial de fintech y medios de pago.",
-    "fixy_relevance": "Sirve para monitorear tendencias de pagos y fintech que después bajan a soluciones de checkout, cobranza y financiamiento usadas en eCommerce y logística; también es lugar de networking con actores de pagos que trabajan con operadores logísticos.",
+    "url": "https://us.money2020.com",
+    "source_url": "https://www.openbankingtracker.com/events/money2020-usa-2026",
+    "description": "Principal encuentro global de pagos y fintech, en The Venetian de Las Vegas.",
+    "fixy_relevance": "Aprendizaje sobre pagos y comercio agéntico; costo y distancia lo hacen poco probable como viaje, útil como seguimiento de tendencias.",
     "justification_type": "aprendizaje",
-    "priority": "relevante",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-money20-usa-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-10-13",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -729,34 +732,46 @@
           "fixy_relevance",
           "priority"
         ]
+      },
+      {
+        "date": "2026-10-13",
+        "fields": [
+          "date_note",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
       }
     ]
   },
   {
     "scope": "intl",
     "name": "eRetail Day Panamá 2026",
-    "organizer": "eCommerce Institute / ConnectaB2B",
+    "organizer": "eCommerce Institute y Connecta B2B",
     "date_start": "2026-10-22",
     "date_end": "2026-10-22",
     "date_confirmed": true,
-    "date_note": "La agenda oficial del tour (eretailday.com/2026/agenda) y la etiqueta 'Panamá' de eCommerce Institute ubican el evento el jueves 22 de octubre de 2026 (fecha que sí coincide con jueves). Una nota de prensa (insiderlatam.com) cita en cambio 'jueves 9 de octubre', pero el 9/10/2026 cae viernes, no jueves, por lo que esa versión es internamente inconsistente. Se prioriza el 22/10 por estar respaldado",
+    "date_note": "Fecha y sede surgen de una sola fuente secundaria; conviene confirmar en el sitio oficial.",
     "city": "Ciudad de Panamá",
     "province": null,
     "country": "Panamá",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
+    "venue": "Hotel Sheraton Grand Panamá",
+    "venue_confirmed": true,
     "format": "presencial",
-    "category": "Retail",
-    "url": "https://eretailday.com/2026/",
-    "source_url": "https://eretailday.com/2026/agenda/",
-    "description": "Encuentro exclusivo de Digital Commerce para el canal retail en Panamá, parte del tour eRetail Day Centroamérica del eCommerce Institute junto con Guatemala.",
-    "fixy_relevance": "Panamá es hub logístico y de comercio exterior de la región (Zona Libre de Colón, conexión marítima-aérea); el evento conecta con actores de eCommerce centroamericano que podrían necesitar operador de fulfillment regional.",
-    "justification_type": "networking",
-    "priority": "relevante",
+    "category": "eCommerce",
+    "url": "https://www.eretailday.com",
+    "source_url": "https://ecosistemastartup.com/?p=116376",
+    "description": "10.ª edición en Panamá del eRetail Day Latam, edición Centroamérica 2026, centrada en retail digital y comercio electrónico.",
+    "fixy_relevance": "Panamá es hub logístico regional; posible networking con actores de eCommerce y logística para expansión regional.",
+    "justification_type": "expansión regional",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-day-eretail-panama-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-20",
+    "last_updated": "2026-10-13",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -770,35 +785,68 @@
           "fixy_relevance",
           "justification_type"
         ]
+      },
+      {
+        "date": "2026-10-13",
+        "fields": [
+          "organizer",
+          "date_note",
+          "venue",
+          "venue_confirmed",
+          "category",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
+        ]
       }
     ]
   },
   {
     "scope": "intl",
     "name": "eRetail Day Guatemala 2026",
-    "organizer": "eCommerce Institute",
+    "organizer": "eCommerce Institute y Connecta B2B",
     "date_start": "2026-10-13",
     "date_end": "2026-10-13",
     "date_confirmed": true,
-    "date_note": null,
+    "date_note": "Fecha y sede surgen de una sola fuente secundaria; conviene confirmar en el sitio oficial.",
     "city": "Ciudad de Guatemala",
     "province": null,
     "country": "Guatemala",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
+    "venue": "Épica Convenciones Hotel Avia",
+    "venue_confirmed": true,
     "format": "presencial",
-    "category": "Retail",
-    "url": "https://eretailday.org/",
-    "source_url": "https://ecommerce.institute/",
-    "description": "Encuentro ejecutivo de eCommerce Institute enfocado en el canal retail de Centroamérica, con audiencia de cadenas y marcas regionales.",
-    "fixy_relevance": "Mercado centroamericano poco atendido por operadores argentinos. Relevante solo si Fixy considera alianzas o replicar modelo vía partners locales. Combinable con eRetail Day Panamá (22/10) en un mismo viaje.",
-    "justification_type": "expansión regional",
+    "category": "eCommerce",
+    "url": "https://www.eretailday.com",
+    "source_url": "https://ecosistemastartup.com/?p=116376",
+    "description": "9.ª edición en Guatemala del eRetail Day Latam, edición Centroamérica 2026, para profesionales del digital commerce.",
+    "fixy_relevance": "Evento informativo de la región; sin presencia argentina clara, sirve para seguir tendencias de eCommerce en Centroamérica.",
+    "justification_type": "aprendizaje",
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-day-eretail-guatemala-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-10-13",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-10-13",
+        "fields": [
+          "organizer",
+          "date_note",
+          "venue",
+          "venue_confirmed",
+          "category",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -1255,55 +1303,6 @@
   },
   {
     "scope": "ar",
-    "name": "Ekoparty Security Conference 2026",
-    "organizer": "Ekoparty",
-    "date_start": "2026-10-07",
-    "date_end": "2026-10-09",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Ciudad Autónoma de Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
-    "country": "Argentina",
-    "venue": "CEC – Centro de Convenciones Buenos Aires",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Tecnología",
-    "url": "https://ekoparty.org/",
-    "source_url": "https://www.cecbuenosaires.com.ar/ekoparty-security-conference-2026-llega-al-cec-buenos-aires/",
-    "description": "22ª edición de la conferencia de seguridad informática más grande de Latinoamérica, con charlas técnicas, workshops, CTF y más de 30 comunidades participantes.",
-    "fixy_relevance": "Sirve para entender riesgos de ciberseguridad en pagos y logística online, y para hacer networking con especialistas en protección de datos de clientes.",
-    "justification_type": null,
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-conference-ekoparty-security-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-27",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-09-06",
-        "fields": [
-          "province",
-          "venue",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-09-27",
-        "fields": [
-          "city",
-          "venue",
-          "url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
     "name": "Bootcamp Empresarial Mendoza 2026",
     "organizer": "Gobierno de Mendoza y Unión Industrial Joven de Mendoza (UIM)",
     "date_start": "2026-10-23",
@@ -1379,24 +1378,24 @@
     "date_start": "2026-10-29",
     "date_end": "2026-10-29",
     "date_confirmed": true,
-    "date_note": "El sitio oficial (argentinafintechforum.com) y varias notas de prensa especializada coinciden en el 29 de octubre de 2026 en el CEC, de 8 a 19:30 hs. Este dato difiere del 23/11/2026 que figuraba previamente cargado para este mismo evento en la agenda; se recomienda verificar con la fuente oficial cuál es la fecha correcta antes de confirmar.",
-    "city": "CABA",
-    "province": "Buenos Aires (CABA)",
+    "date_note": "Fecha tomada de una única página patrocinante (CleverTap); falta verificar en el sitio oficial.",
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "CABA",
     "country": "Argentina",
-    "venue": "CEC Centro de Convenciones de Buenos Aires",
+    "venue": "Centro de Convenciones de Buenos Aires (CEC)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Pagos y Fintech",
-    "url": "https://argentinafintechforum.com/",
-    "source_url": "https://argentinafintechforum.com/agenda/",
-    "description": "Foro anual de la Cámara Argentina Fintech sobre las tecnologías, regulaciones y modelos de colaboración que habilitan la próxima etapa del sistema financiero, con dos escenarios simultáneos, espacio de workshops y expo comercial.",
-    "fixy_relevance": "Permite entender hacia dónde evoluciona el ecosistema de pagos, financiamiento embebido y regulación fintech en Argentina, información útil para decisiones sobre medios de pago y checkout de los clientes eCommerce de Fixy.",
+    "url": "https://clevertap.com/?p=130989",
+    "source_url": "https://clevertap.com/?p=130989",
+    "description": "Foro sobre infraestructura para la nueva economía: IA, pagos, Open Finance, blockchain y regulación.",
+    "fixy_relevance": "Muestra hacia dónde van pagos y comercio agéntico, y sirve para contactos con fintechs que atienden a tiendas online.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-argentina-fintech-forum-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-28",
+    "last_updated": "2026-10-13",
     "first_seen": "2026-08-20",
     "change_log": [
       {
@@ -1446,6 +1445,19 @@
           "date_note",
           "city",
           "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-13",
+        "fields": [
+          "date_note",
+          "city",
+          "province",
+          "venue",
+          "url",
           "source_url",
           "description",
           "fixy_relevance"
@@ -1698,49 +1710,6 @@
     "source_kind": "auto",
     "last_updated": "2026-08-21",
     "first_seen": "2026-08-21"
-  },
-  {
-    "scope": "intl",
-    "name": "FIATA World Congress 2026",
-    "organizer": "FIATA (Federación Internacional de Asociaciones de Agentes de Carga), con Fedespedi como anfitrión local",
-    "date_start": "2026-10-06",
-    "date_end": "2026-10-09",
-    "date_confirmed": true,
-    "date_note": "Algunas fuentes indican del 6 al 9 de octubre y otras del 6 al 10; la sede en Milán está confirmada por el sitio oficial del congreso.",
-    "city": "Milán",
-    "province": null,
-    "country": "Italia",
-    "venue": "Allianz MiCo (Milano Convention Centre)",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Logística",
-    "url": "https://fiata2026.com/",
-    "source_url": "https://fiata2026.com/venue/",
-    "description": "El congreso mundial de FIATA celebra el centenario de la federación en Milán, reuniendo a la comunidad global de agentes de carga y forwarders.",
-    "fixy_relevance": "Ya lo teníamos en agenda sin sede confirmada; ahora se confirma que es en Milán, Italia (no en Panamá como en ediciones anteriores). Es el mayor encuentro mundial de forwarders y sirve para monitorear tendencias de comercio exterior que después impactan en los costos y tiempos de importación de los eCommerce que opera Fixy.",
-    "justification_type": "aprendizaje",
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-congress-fiata-world-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-27",
-    "first_seen": "2026-08-21",
-    "change_log": [
-      {
-        "date": "2026-09-27",
-        "fields": [
-          "organizer",
-          "date_note",
-          "venue",
-          "venue_confirmed",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "justification_type"
-        ]
-      }
-    ]
   },
   {
     "scope": "intl",
@@ -2401,44 +2370,6 @@
           "city",
           "venue",
           "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
-    "name": "5° Congreso sobre Medios de Transporte y sus Tecnologías Asociadas",
-    "organizer": "Universidad Tecnológica Nacional (UTN) - Facultad Regional Mar del Plata",
-    "date_start": "2026-10-07",
-    "date_end": "2026-10-09",
-    "date_confirmed": true,
-    "date_note": "Se confirma que el congreso se extiende del 7 al 9 de octubre de 2026 (no es un evento de un solo día).",
-    "city": "Mar del Plata",
-    "province": "Buenos Aires",
-    "country": "Argentina",
-    "venue": "UTN Facultad Regional Mar del Plata",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Logística",
-    "url": "https://www.congresotransporte.com.ar/",
-    "source_url": "https://es.linkedin.com/posts/utn-facultad-regional-haedo_5to-congreso-sobre-medios-de-transporte-y-activity-7447742134805544960-d2Rr",
-    "description": "Congreso académico de UTN sobre tecnologías de transporte automotor, ferroviario, marítimo, aéreo y espacial, con convocatoria abierta a investigadores, profesionales y estudiantes; se confirma que dura tres jornadas (7, 8 y 9 de octubre).",
-    "fixy_relevance": "Actualización menor sobre un evento ya en agenda: confirma que se trata de tres días (no uno solo) y fija la sede exacta en UTN Mar del Plata, útil si Fixy evalúa enviar a alguien del equipo de operaciones a alguna jornada específica.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-asociadas-congreso-medios-sobre-sus-tecnologias--2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-11",
-    "first_seen": "2026-09-01",
-    "change_log": [
-      {
-        "date": "2026-09-11",
-        "fields": [
-          "organizer",
-          "date_note",
           "description",
           "fixy_relevance"
         ]
@@ -3432,46 +3363,6 @@
   },
   {
     "scope": "ar",
-    "name": "eCommerce GO Mar del Plata 2026",
-    "organizer": "CACE - Cámara Argentina de Comercio Electrónico",
-    "date_start": "2026-10-09",
-    "date_end": "2026-10-09",
-    "date_confirmed": false,
-    "date_note": "El 'jueves 9 de octubre' corresponde a 2025; el 9/10/2026 es viernes. Sin anuncio verificable para 2026 en Mar del Plata (hay referencias a una edición 2026 en Mendoza, sin confirmar).",
-    "city": "Mar del Plata",
-    "province": "Buenos Aires",
-    "country": "Argentina",
-    "venue": "Jano's Playa Grande",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "eCommerce",
-    "url": "https://cace.org.ar/blogs/news/tagged/ecommerce-go",
-    "source_url": "https://cace.org.ar/blogs/news/el-ecommerce-go-2025-llega-a-mar-del-plata-con-foco-en-la-economia-digital",
-    "description": "Gira federal de CACE por distintas ciudades. La nota de Mar del Plata hallada corresponde a 2025 (jueves 9/10/2025 en Jano's Playa Grande); no hay confirmación de una parada marplatense en 2026.",
-    "fixy_relevance": "Evento de CACE, cámara clave del eCommerce; sirve para contactos de comerciantes online del interior.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-ecommerce-go-mar-plata-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-10-03",
-    "first_seen": "2026-09-24",
-    "change_log": [
-      {
-        "date": "2026-10-03",
-        "fields": [
-          "date_note",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
     "name": "Comex Day Córdoba 2026",
     "organizer": "Agencia ProCórdoba y Cámara de Comercio Exterior de Córdoba (CaCEC)",
     "date_start": "2026-11-05",
@@ -3558,24 +3449,24 @@
     "date_start": null,
     "date_end": null,
     "date_confirmed": false,
-    "date_note": "CriptoNoticias y el sitio oficial indican noviembre de 2026 sin día exacto. La fecha 30/09/2026 de otra ficha no pudo verificarse; se recomienda unificar fichas en noviembre.",
-    "city": "Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
+    "date_note": "Una fuente ubica la edición en noviembre de 2026; la misma página muestra también 30/09. Sin día confirmado.",
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "CABA",
     "country": "Argentina",
     "venue": "Por confirmar",
     "venue_confirmed": false,
     "format": "presencial",
     "category": "Pagos y Fintech",
-    "url": "https://financesecurityforum.com",
+    "url": "https://www.criptonoticias.com/calendario-eventos/finance-security-forum/",
     "source_url": "https://www.criptonoticias.com/calendario-eventos/finance-security-forum/",
-    "description": "Foro sobre seguridad financiera, fraude con IA, identidad digital y cumplimiento para bancos, fintechs y cripto. Parte de una gira regional con México y Bogotá.",
-    "fixy_relevance": "Útil para conocer prácticas de prevención de fraude en pagos aplicables al eCommerce.",
+    "description": "Foro de seguridad financiera para bancos, fintechs y empresas cripto; acceso por invitación o ticket.",
+    "fixy_relevance": "Interés marginal: útil solo para contactos en pagos y prevención de fraude.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-aires-buenos-finance-forum-security-La a",
     "source_kind": "auto",
-    "last_updated": "2026-10-03",
+    "last_updated": "2026-10-13",
     "first_seen": "2026-09-27",
     "change_log": [
       {
@@ -3592,6 +3483,17 @@
       },
       {
         "date": "2026-10-03",
+        "fields": [
+          "date_note",
+          "city",
+          "province",
+          "url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-13",
         "fields": [
           "date_note",
           "city",
@@ -3795,7 +3697,7 @@
   {
     "scope": "ar",
     "name": "Impulso 360 Rosario 2026",
-    "organizer": "Wootic y Poliedro, con coordinación de la Municipalidad de Rosario",
+    "organizer": "Wootic y Poliedro",
     "date_start": "2026-10-23",
     "date_end": "2026-10-23",
     "date_confirmed": true,
@@ -3806,17 +3708,28 @@
     "venue": "Tecnoteca Rosario",
     "venue_confirmed": true,
     "format": "presencial",
-    "category": "Tecnología",
+    "category": "Marketing",
     "url": "https://www.criptonoticias.com/calendario-eventos/impulso-360-rosario-2026/",
     "source_url": "https://www.criptonoticias.com/calendario-eventos/impulso-360-rosario-2026/",
-    "description": "Primera edición de un encuentro B2B de tecnología y negocios para el empresariado del Litoral, dentro de la Rosario Tech Week. Ejes: regulación, finanzas digitales, automatización con IA, infraestructura de datos e IA.",
-    "fixy_relevance": "Ofrece contacto directo con empresas del Litoral y contenido sobre automatización con IA y finanzas digitales aplicable a operaciones y ventas. Es una sola fuente, conviene confirmar inscripción y agenda.",
+    "description": "Jornada de 9:00 a 16:30 dentro de la Rosario Tech Week, organizada por Wootic y Poliedro.",
+    "fixy_relevance": "Permite captar pymes y emprendedores de Rosario en el marco de la semana tecnológica.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-impulso-rosario-2026",
     "source_kind": "auto",
-    "last_updated": "2026-10-12",
-    "first_seen": "2026-10-12"
+    "last_updated": "2026-10-13",
+    "first_seen": "2026-10-12",
+    "change_log": [
+      {
+        "date": "2026-10-13",
+        "fields": [
+          "organizer",
+          "category",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   }
 ]

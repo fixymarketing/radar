@@ -2655,5 +2655,175 @@
     "source_kind": "auto",
     "last_updated": "2026-09-26",
     "first_seen": "2026-09-26"
+  },
+  {
+    "scope": "ar",
+    "name": "Ekoparty Security Conference 2026",
+    "organizer": "Ekoparty",
+    "date_start": "2026-10-07",
+    "date_end": "2026-10-09",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "country": "Argentina",
+    "venue": "CEC – Centro de Convenciones Buenos Aires",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Tecnología",
+    "url": "https://ekoparty.org/",
+    "source_url": "https://www.cecbuenosaires.com.ar/ekoparty-security-conference-2026-llega-al-cec-buenos-aires/",
+    "description": "22ª edición de la conferencia de seguridad informática más grande de Latinoamérica, con charlas técnicas, workshops, CTF y más de 30 comunidades participantes.",
+    "fixy_relevance": "Sirve para entender riesgos de ciberseguridad en pagos y logística online, y para hacer networking con especialistas en protección de datos de clientes.",
+    "justification_type": null,
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-conference-ekoparty-security-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-09-06",
+        "fields": [
+          "province",
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "city",
+          "venue",
+          "url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "intl",
+    "name": "FIATA World Congress 2026",
+    "organizer": "FIATA (Federación Internacional de Asociaciones de Agentes de Carga), con Fedespedi como anfitrión local",
+    "date_start": "2026-10-06",
+    "date_end": "2026-10-09",
+    "date_confirmed": true,
+    "date_note": "Algunas fuentes indican del 6 al 9 de octubre y otras del 6 al 10; la sede en Milán está confirmada por el sitio oficial del congreso.",
+    "city": "Milán",
+    "province": null,
+    "country": "Italia",
+    "venue": "Allianz MiCo (Milano Convention Centre)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://fiata2026.com/",
+    "source_url": "https://fiata2026.com/venue/",
+    "description": "El congreso mundial de FIATA celebra el centenario de la federación en Milán, reuniendo a la comunidad global de agentes de carga y forwarders.",
+    "fixy_relevance": "Ya lo teníamos en agenda sin sede confirmada; ahora se confirma que es en Milán, Italia (no en Panamá como en ediciones anteriores). Es el mayor encuentro mundial de forwarders y sirve para monitorear tendencias de comercio exterior que después impactan en los costos y tiempos de importación de los eCommerce que opera Fixy.",
+    "justification_type": "aprendizaje",
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-congress-fiata-world-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-08-21",
+    "change_log": [
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "organizer",
+          "date_note",
+          "venue",
+          "venue_confirmed",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "5° Congreso sobre Medios de Transporte y sus Tecnologías Asociadas",
+    "organizer": "Universidad Tecnológica Nacional (UTN) - Facultad Regional Mar del Plata",
+    "date_start": "2026-10-07",
+    "date_end": "2026-10-09",
+    "date_confirmed": true,
+    "date_note": "Se confirma que el congreso se extiende del 7 al 9 de octubre de 2026 (no es un evento de un solo día).",
+    "city": "Mar del Plata",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "UTN Facultad Regional Mar del Plata",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.congresotransporte.com.ar/",
+    "source_url": "https://es.linkedin.com/posts/utn-facultad-regional-haedo_5to-congreso-sobre-medios-de-transporte-y-activity-7447742134805544960-d2Rr",
+    "description": "Congreso académico de UTN sobre tecnologías de transporte automotor, ferroviario, marítimo, aéreo y espacial, con convocatoria abierta a investigadores, profesionales y estudiantes; se confirma que dura tres jornadas (7, 8 y 9 de octubre).",
+    "fixy_relevance": "Actualización menor sobre un evento ya en agenda: confirma que se trata de tres días (no uno solo) y fija la sede exacta en UTN Mar del Plata, útil si Fixy evalúa enviar a alguien del equipo de operaciones a alguna jornada específica.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-asociadas-congreso-medios-sobre-sus-tecnologias--2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-01",
+    "change_log": [
+      {
+        "date": "2026-09-11",
+        "fields": [
+          "organizer",
+          "date_note",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "eCommerce GO Mar del Plata 2026",
+    "organizer": "CACE - Cámara Argentina de Comercio Electrónico",
+    "date_start": "2026-10-09",
+    "date_end": "2026-10-09",
+    "date_confirmed": false,
+    "date_note": "El 'jueves 9 de octubre' corresponde a 2025; el 9/10/2026 es viernes. Sin anuncio verificable para 2026 en Mar del Plata (hay referencias a una edición 2026 en Mendoza, sin confirmar).",
+    "city": "Mar del Plata",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Jano's Playa Grande",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "eCommerce",
+    "url": "https://cace.org.ar/blogs/news/tagged/ecommerce-go",
+    "source_url": "https://cace.org.ar/blogs/news/el-ecommerce-go-2025-llega-a-mar-del-plata-con-foco-en-la-economia-digital",
+    "description": "Gira federal de CACE por distintas ciudades. La nota de Mar del Plata hallada corresponde a 2025 (jueves 9/10/2025 en Jano's Playa Grande); no hay confirmación de una parada marplatense en 2026.",
+    "fixy_relevance": "Evento de CACE, cámara clave del eCommerce; sirve para contactos de comerciantes online del interior.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-ecommerce-go-mar-plata-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-10-03",
+    "first_seen": "2026-09-24",
+    "change_log": [
+      {
+        "date": "2026-10-03",
+        "fields": [
+          "date_note",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
   }
 ]

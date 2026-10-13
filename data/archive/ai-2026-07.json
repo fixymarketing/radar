@@ -44,5 +44,29 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "Gemini Enterprise Business edition: servidores MCP propios",
+    "vendor": "Google",
+    "what_it_is": "Gemini Enterprise Business edition es la versión de la plataforma agéntica de Google para empresas chicas y equipos. Ahora permite conectar servidores MCP propios para que los agentes accedan a datos privados y herramientas internas.",
+    "what_changed": "Las conexiones a servidores MCP personalizados entraron en public preview el 29 de julio de 2026; Canvas para crear y editar slides llegó a disponibilidad general el 24 de julio; y el 13 de agosto habilitaron Gemini 3.7 Flash en el selector.",
+    "fixy_use": "Si Fixy tiene un sistema propio de gestión de envíos o tracking, un servidor MCP permitiría preguntarle en lenguaje natural qué envíos de un cliente están demorados más de 48 horas, sin salir de Gemini. Comercial podría generar propuestas y presentaciones con Canvas usando datos reales de servicio.",
+    "verdict": "seguir",
+    "verdict_reason": "Es la vía más limpia para conectar el sistema propio de Fixy a la IA, pero está en preview y requiere trabajo técnico.",
+    "categories": [
+      "Automatización",
+      "Operaciones",
+      "Logística",
+      "Análisis",
+      "Management"
+    ],
+    "pricing_note": "Pago: suscripción Gemini Enterprise Business edition con prueba gratuita. Google no publica precio en la página de release notes.",
+    "source_url": "https://support.google.com/g/answer/16719009?hl=en",
+    "published_date": "2026-07-29",
+    "priority": "relevante",
+    "id": "ai-google-gemini-enterprise-business-edition-servidores-mcp-pro",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
   }
 ]
