@@ -1378,40 +1378,26 @@
     "date_start": "2026-10-29",
     "date_end": "2026-10-29",
     "date_confirmed": true,
-    "date_note": "Fecha tomada de una única página patrocinante (CleverTap); falta verificar en el sitio oficial.",
+    "date_note": "Fecha tomada de la página de un sponsor (CleverTap); no verificada en el sitio oficial. Por confirmar.",
     "city": "Ciudad Autónoma de Buenos Aires",
-    "province": "CABA",
+    "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro de Convenciones de Buenos Aires (CEC)",
+    "venue": "Centro de Convenciones de Buenos Aires (CEC), Av. Figueroa Alcorta 2099",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Pagos y Fintech",
-    "url": "https://clevertap.com/?p=130989",
+    "url": "https://argentinafintechforum.com",
     "source_url": "https://clevertap.com/?p=130989",
-    "description": "Foro sobre infraestructura para la nueva economía: IA, pagos, Open Finance, blockchain y regulación.",
-    "fixy_relevance": "Muestra hacia dónde van pagos y comercio agéntico, y sirve para contactos con fintechs que atienden a tiendas online.",
+    "description": "Foro anual de la industria fintech con eje en infraestructura para la nueva economía: pagos, Open Finance, IA, blockchain, seguridad y crédito. Incluye workshops, networking y zona de exhibición.",
+    "fixy_relevance": "Es el lugar donde se discuten los medios de pago y el crédito que usan las tiendas online, y sirve para contactar a proveedores y potenciales aliados comerciales.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-argentina-fintech-forum-2026",
     "source_kind": "auto",
-    "last_updated": "2026-10-13",
+    "last_updated": "2026-10-14",
     "first_seen": "2026-08-20",
     "change_log": [
-      {
-        "date": "2026-09-15",
-        "fields": [
-          "date_start",
-          "date_end",
-          "date_note",
-          "city",
-          "venue",
-          "format",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-09-19",
         "fields": [
@@ -1459,6 +1445,17 @@
           "venue",
           "url",
           "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-14",
+        "fields": [
+          "date_note",
+          "province",
+          "venue",
+          "url",
           "description",
           "fixy_relevance"
         ]
@@ -3731,5 +3728,59 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "2° Congreso de Comercio Exterior – Claves Macroeconómicas, Geopolítica y Puertos Inteligentes",
+    "organizer": "UCU (Centro Regional Gualeguaychú), CACEGU y CODEGU",
+    "date_start": "2026-10-16",
+    "date_end": "2026-10-16",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Gualeguaychú",
+    "province": "Entre Ríos",
+    "country": "Argentina",
+    "venue": "Centro de Convenciones de Gualeguaychú",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://gualeguaychu.gov.ar/adjuntos/transparencia/resolucioneshcd/resolucion_hcd_2026_18.pdf",
+    "source_url": "https://gualeguaychu.gov.ar/adjuntos/transparencia/resolucioneshcd/resolucion_hcd_2026_18.pdf",
+    "description": "Segunda edición de un congreso académico y empresarial sobre comercio internacional hacia 2027, con ejes en puertos inteligentes, logística e innovación. Habrá conferencias, paneles y mesas de trabajo. Programa, disertantes e inscripción: Por confirmar.",
+    "fixy_relevance": "Tiene un foco más cercano a comercio exterior y puertos que a eCommerce, así que sirve sobre todo para seguir tendencias de logística regional en Entre Ríos.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-claves-comercio-congreso-exterior-geopolitica-in-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-10-14",
+    "first_seen": "2026-10-14"
+  },
+  {
+    "scope": "intl",
+    "name": "Freightcamp LATAM 2027",
+    "organizer": "Freightcamp (Pangea Network / Panco Group)",
+    "date_start": "2027-04-11",
+    "date_end": "2027-04-15",
+    "date_confirmed": true,
+    "date_note": "Freightcamp indica del 11 al 15 de abril de 2027; Intermodal South America figura del 13 al 15 de abril.",
+    "city": "São Paulo",
+    "province": null,
+    "country": "Brasil",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.freightcamp.com/",
+    "source_url": "https://pangea-network.com/meetings/",
+    "description": "Encuentro de freight forwarders con reuniones uno a uno y talleres, que se hace junto a Intermodal South America.",
+    "fixy_relevance": "Se puede combinar con la visita a Intermodal South America (ya en el radar) para sumar contactos de forwarders y operadores regionales. Su foco es carga internacional, más que eCommerce.",
+    "justification_type": "networking",
+    "priority": "informativo",
+    "beyond_90": true,
+    "id": "ev-freightcamp-latam-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-10-14",
+    "first_seen": "2026-10-14"
   }
 ]

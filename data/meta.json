@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-10-13T12:15:49.970Z",
-  "last_updated_ar": "13/10/2026, 09:15",
-  "date": "2026-10-13",
+  "generated_at": "2026-10-14T12:16:04.306Z",
+  "last_updated_ar": "14/10/2026, 09:16",
+  "date": "2026-10-14",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Martes de pocas novedades verificables: la semana se concentra en la Cumbre Federal de Logística del viernes, el Día de la Madre del 18/10 y la TechWeek de Rosario.",
+  "summary_line": "Miércoles sin novedades nuevas verificables: la semana gira en torno a la Cumbre Federal de Logística del viernes, la TechWeek de Rosario y el Día de la Madre del 18/10.",
   "counters": {
     "news_today": 0,
-    "news_total": 23,
+    "news_total": 21,
     "events_upcoming": 49,
-    "events_ar_upcoming": 30,
-    "events_intl_upcoming": 19,
-    "events_later": 36,
+    "events_ar_upcoming": 31,
+    "events_intl_upcoming": 18,
+    "events_later": 37,
     "opportunities_open": 8,
     "opportunities_today": 0,
-    "ai_today": 1,
+    "ai_today": 0,
     "ai_to_try": 63,
-    "content_ideas": 38,
+    "content_ideas": 37,
     "added_news": 0,
     "updated_news": 0,
-    "added_events": 0,
-    "updated_events": 11,
-    "added_ai": 1,
-    "archived": 9,
+    "added_events": 2,
+    "updated_events": 1,
+    "added_ai": 0,
+    "archived": 3,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-day-eretail-guatemala-2026",
-    "name": "eRetail Day Guatemala 2026",
-    "date_start": "2026-10-13",
-    "city": "Ciudad de Guatemala",
+    "id": "ev-cessi-summit-2026",
+    "name": "CESSI Summit 2026",
+    "date_start": "2026-10-14",
+    "city": "Buenos Aires",
     "days_away": 0
   },
   "highlights": [
@@ -38,28 +38,28 @@
       "kind": "event",
       "title": "Cumbre Federal de Logística 2026",
       "priority": "alta",
-      "one_liner": "Este viernes 16/10 en CABA: el CFI presenta la estrategia logística federal, útil para la expansión de Fixy en el interior."
+      "one_liner": "El viernes 16/10 en CABA: plan de infraestructura logística federal y contactos con actores provinciales."
     },
     {
       "id": "nw-74be7d3208",
       "kind": "news",
       "title": "Los comercios llegan al Día de la Madre más desafiante en años, con consumo flojo y menos financiamiento",
       "priority": "relevante",
-      "one_liner": "El Día de la Madre es el 18/10: conviene confirmar capacidad de despacho y plazos de corte con los clientes esta semana."
+      "one_liner": "Marca el tono de la demanda antes del CyberMonday y el pico de fin de año."
     },
     {
       "id": "ev-rosario-techweek-2026",
       "kind": "event",
       "title": "Rosario TechWeek 2026",
       "priority": "relevante",
-      "one_liner": "Del 19 al 23/10 en Rosario: networking con tiendas y desarrolladores del Litoral."
+      "one_liner": "Arranca el 19/10: networking con el polo tecnológico del interior."
     },
     {
-      "id": "ai-openai-data-agent-en-chatgpt-work",
+      "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
       "kind": "ai",
-      "title": "Data Agent en ChatGPT Work",
+      "title": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
       "priority": "relevante",
-      "one_liner": "Permite armar reportes semanales de performance por cliente y courier a partir de las planillas de despachos."
+      "one_liner": "Conviene medir cuántos mensajes de servicio manda hoy Fixy para estimar el costo."
     }
   ]
 }
