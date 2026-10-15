@@ -8,7 +8,7 @@
     "date_confirmed": true,
     "date_note": "Una búsqueda mostró una mención aislada a '10 de noviembre' para este evento, pero múltiples fuentes (Webpicking, medios provinciales) confirman de forma consistente el 16 de octubre en el CEC Buenos Aires; se prioriza esta fecha.",
     "city": "Ciudad Autónoma de Buenos Aires",
-    "province": "CABA",
+    "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
     "venue": "Centro de Convenciones de Buenos Aires (CEC)",
     "venue_confirmed": true,
@@ -16,28 +16,16 @@
     "category": "Logística",
     "url": "https://eleconomista.com.ar/politica/cumbre-federal-logistica-2026-cfi-gobernadores-infraestructura-transporte--n98772",
     "source_url": "https://eleconomista.com.ar/politica/cumbre-federal-logistica-2026-cfi-gobernadores-infraestructura-transporte--n98772",
-    "description": "Segunda edición de la cumbre del CFI con gobernadores y CEOs para debatir la Estrategia Federal Logística, infraestructura de transporte y unos 1.100 proyectos estratégicos. Se vincula con el Corredor Andes-Atlántico.",
-    "fixy_relevance": "Permite conocer el plan de infraestructura logística federal y hacer contactos con actores provinciales útiles para la expansión de Fixy en el interior.",
+    "description": "Segunda edición de la cumbre del CFI, con el lema \"Hacia una logística competitiva para el desarrollo federal\". Reúne a gobernadores, autoridades nacionales y empresas; el plan federal ya identificó más de 1.100 proyectos logísticos.",
+    "fixy_relevance": "Muestra qué obras de infraestructura y corredores logísticos se priorizan por provincia, útil para planificar red de distribución y última milla en el interior.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cumbre-federal-logistica-2026",
     "source_kind": "auto",
-    "last_updated": "2026-10-13",
+    "last_updated": "2026-10-15",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-04",
-        "fields": [
-          "organizer",
-          "city",
-          "province",
-          "venue",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
       {
         "date": "2026-09-05",
         "fields": [
@@ -76,6 +64,14 @@
           "province",
           "url",
           "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-15",
+        "fields": [
+          "province",
           "description",
           "fixy_relevance"
         ]
@@ -1378,38 +1374,26 @@
     "date_start": "2026-10-29",
     "date_end": "2026-10-29",
     "date_confirmed": true,
-    "date_note": "Fecha tomada de la página de un sponsor (CleverTap); no verificada en el sitio oficial. Por confirmar.",
+    "date_note": "Fecha y sede surgen de un listado de tercero (CleverTap); conviene cotejar con el sitio oficial argentinafintechforum.com.",
     "city": "Ciudad Autónoma de Buenos Aires",
     "province": "Ciudad Autónoma de Buenos Aires",
     "country": "Argentina",
-    "venue": "Centro de Convenciones de Buenos Aires (CEC), Av. Figueroa Alcorta 2099",
+    "venue": "Centro de Convenciones de Buenos Aires (CEC)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Pagos y Fintech",
     "url": "https://argentinafintechforum.com",
     "source_url": "https://clevertap.com/?p=130989",
-    "description": "Foro anual de la industria fintech con eje en infraestructura para la nueva economía: pagos, Open Finance, IA, blockchain, seguridad y crédito. Incluye workshops, networking y zona de exhibición.",
-    "fixy_relevance": "Es el lugar donde se discuten los medios de pago y el crédito que usan las tiendas online, y sirve para contactar a proveedores y potenciales aliados comerciales.",
+    "description": "Foro anual de la industria fintech, con foco 2026 en \"Infraestructura para la nueva economía\": pagos, Open Finance, crédito, seguridad e IA. La Cámara lo presentó como el cierre del ciclo de Fintech Meetups 2026.",
+    "fixy_relevance": "Permite conocer novedades en medios de pago y contracargos que impactan la conversión y el cobro contra entrega de las tiendas clientes.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-argentina-fintech-forum-2026",
     "source_kind": "auto",
-    "last_updated": "2026-10-14",
+    "last_updated": "2026-10-15",
     "first_seen": "2026-08-20",
     "change_log": [
-      {
-        "date": "2026-09-19",
-        "fields": [
-          "date_note",
-          "city",
-          "format",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
       {
         "date": "2026-09-25",
         "fields": [
@@ -1456,6 +1440,15 @@
           "province",
           "venue",
           "url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-15",
+        "fields": [
+          "date_note",
+          "venue",
           "description",
           "fixy_relevance"
         ]
@@ -3782,5 +3775,32 @@
     "source_kind": "auto",
     "last_updated": "2026-10-14",
     "first_seen": "2026-10-14"
+  },
+  {
+    "scope": "intl",
+    "name": "Cargo Facts LATAM 2027",
+    "organizer": "Cargo Facts (Aviation Week Network)",
+    "date_start": "2027-02-09",
+    "date_end": "2027-02-11",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Ciudad de México",
+    "province": null,
+    "country": "México",
+    "venue": "Marquis Reforma",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://cargofactsevents.com/latam/",
+    "source_url": "https://cargofactsevents.com/latam/",
+    "description": "Quinta edición de la conferencia sobre carga aérea y flota de cargueros en Latinoamérica. Entre sus temas figuran e-commerce, nearshoring y comercio Asia-LATAM.",
+    "fixy_relevance": "Sirve para entender cómo se mueve el cross-border e-commerce por vía aérea hacia y desde LATAM y para conocer a aerolíneas y forwarders que podrían ser aliados en importación. El foco es carga aérea, no fulfillment ni última milla, y el programa 2027 todavía no está publicado, así que es de seguimiento.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": true,
+    "id": "ev-cargo-facts-latam-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-10-15",
+    "first_seen": "2026-10-15"
   }
 ]

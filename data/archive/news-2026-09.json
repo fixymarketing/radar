@@ -1059,5 +1059,96 @@
     "source_kind": "auto",
     "last_updated": "2026-09-26",
     "first_seen": "2026-09-26"
+  },
+  {
+    "title": "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega",
+    "what_happened": "MODO, la billetera de los bancos argentinos, habilitó esta semana (miércoles 23 de septiembre) la posibilidad de buscar, comparar y pagar productos dentro de su plug-in en ChatGPT, lo que presenta como el primer caso de \"comercio agéntico abierto\" con una transacción real concretada en América Latina. La función arrancó con Frávega como primer aliado comercial y la empresa anticipó que sumará más marcas en los próximos meses. El usuario igual debe autorizar el pago manualmente desde la app de MODO o de su banco.",
+    "why_it_matters": "Es el primer caso regional en el que un asistente de IA generalista completa una compra real de punta a punta dentro de la conversación, lo que anticipa una nueva pelea entre bancos y billeteras por ser el método de pago que la IA elige y presiona a Mercado Pago a acelerar su propia integración.",
+    "fixy_impact": "Si el comercio agéntico escala, parte de los pedidos que hoy nacen en un marketplace o una tienda propia podría empezar a originarse dentro de un chat de IA, lo que cambiaría el punto de entrada al que la logística de fulfillment necesita conectarse vía API.",
+    "category": "IA aplicada",
+    "geo": "Argentina",
+    "source_name": "iProUP",
+    "source_url": "https://www.iproup.com/finanzas/71779-modo-lanza-comercio-agentico-para-comprar-y-pagar-sin-salir-de-chatgpt",
+    "published_date": "2026-09-23",
+    "priority": "alta",
+    "tags": [
+      "comercio agéntico",
+      "MODO",
+      "ChatGPT",
+      "IA",
+      "pagos"
+    ],
+    "id": "nw-04ec1c0b57",
+    "source_kind": "auto",
+    "last_updated": "2026-09-23",
+    "first_seen": "2026-09-23"
+  },
+  {
+    "title": "Mercado Pago habilitará la compra y venta de acciones, adelantó Galperin",
+    "what_happened": "Marcos Galperin adelantó en una entrevista que Mercado Pago sumará en los próximos meses la posibilidad de comprar y vender acciones, como paso siguiente a los fondos comunes de inversión y al índice Merval que la billetera ya permite operar. No precisó fecha de lanzamiento, qué papeles estarán disponibles ni los montos mínimos de operación.",
+    "why_it_matters": "Profundiza la estrategia de Mercado Libre de convertir a Mercado Pago en una cuenta financiera integral, lo que además de competir con bancos y brokers tradicionales refuerza el ecosistema que retiene a compradores y vendedores dentro de su plataforma.",
+    "fixy_impact": null,
+    "category": "Fintech",
+    "geo": "Argentina",
+    "source_name": "Forbes Argentina",
+    "source_url": "https://www.forbesargentina.com/negocios/mercado-pago-permitira-comprar-vender-acciones-anuncio-marcos-galperin-n98384",
+    "published_date": "2026-09-23",
+    "priority": "informativo",
+    "tags": [
+      "Mercado Pago",
+      "Galperin",
+      "acciones",
+      "fintech"
+    ],
+    "id": "nw-4cce04ca49",
+    "source_kind": "auto",
+    "last_updated": "2026-09-23",
+    "first_seen": "2026-09-23"
+  },
+  {
+    "title": "Cámaras inteligentes y telemetría con IA, la apuesta del sector seguridad para frenar los robos en última milla",
+    "what_happened": "La Cámara Argentina de Seguridad Electrónica (Casel) impulsa la adopción de inteligencia artificial, telemática avanzada y cámaras inteligentes en cabina para prevenir los robos a los vehículos de reparto. Según datos de la entidad, el 83% de los robos de mercadería golpea a camionetas y utilitarios de reparto urbano, y el 81% ocurre durante la carga y descarga o en paradas en semáforos. Casel calcula que la inversión en estas tecnologías se recupera en un plazo de entre 6 y 14 meses.",
+    "why_it_matters": "El robo de mercadería en última milla creció de la mano del boom del e-commerce y ya es uno de los costos ocultos más relevantes de la operación logística; el sector de seguridad empieza a ofrecer respuestas tecnológicas con retorno de inversión medible.",
+    "fixy_impact": "Fixy podría evaluar sumar telemetría y cámaras con IA a su flota de reparto, dado que el retorno de inversión estimado (6 a 14 meses) y la concentración de robos en utilitarios coinciden con el perfil de vehículos que usa para última milla.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "iProfesional",
+    "source_url": "https://www.iprofesional.com/tecnologia/465014-la-inteligencia-artificial-frena-los-robos-logisticos-en-la-ultima-milla",
+    "published_date": "2026-09-23",
+    "priority": "relevante",
+    "tags": [
+      "última milla",
+      "seguridad",
+      "inteligencia artificial",
+      "robos",
+      "flotas"
+    ],
+    "id": "nw-ccdd476a5b",
+    "source_kind": "auto",
+    "last_updated": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "title": "El consumo masivo volvió a caer en agosto en supermercados y autoservicios",
+    "what_happened": "Según datos de Scentia difundidos junto con encuestas del INDEC, el consumo masivo cayó 1,5% interanual y 0,7% mensual en agosto de 2026. Los supermercados de cadena retrocedieron 3,3% interanual (4% acumulado en ocho meses) y los autoservicios independientes 1,3%, mientras que bebidas con y sin alcohol fueron las categorías más golpeadas. En el año, la caída acumulada del consumo masivo llega a 2,7%.",
+    "why_it_matters": "Confirma que la recuperación del consumo sigue sin llegar al canal físico pese a que el eCommerce continúa creciendo, y marca qué categorías de consumo masivo están más deprimidas de cara al último cuatrimestre.",
+    "fixy_impact": null,
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/09/23/el-consumo-masivo-cayo-07-en-agosto-y-mostro-senales-de-retroceso-en-supermercados-autoservicios-y-mayoristas/",
+    "published_date": "2026-09-23",
+    "priority": "relevante",
+    "tags": [
+      "consumo masivo",
+      "supermercados",
+      "INDEC",
+      "retail",
+      "Scentia"
+    ],
+    "id": "nw-77f1a665a6",
+    "source_kind": "auto",
+    "last_updated": "2026-09-25",
+    "first_seen": "2026-09-25"
   }
 ]
