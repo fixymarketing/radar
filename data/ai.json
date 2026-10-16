@@ -334,29 +334,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "name": "Gemini Spark",
-    "vendor": "Google",
-    "what_it_is": "Es un agente de IA de Google, dentro de la app Gemini, que ejecuta tareas de varios pasos por su cuenta (mandar mails, armar informes, reservar turnos, navegar sitios) sin que haya que estar chateando todo el tiempo para que avance.",
-    "what_changed": "Llegó de forma oficial a Argentina y al resto de Latinoamérica a fines de julio/comienzos de agosto, y a principios de agosto sumó navegación paso a paso por Chrome y conexión con apps como Canva y Dropbox, ampliando lo que puede resolver solo.",
-    "fixy_use": "Se le puede pedir que arme y mande el reporte semanal de despachos a partir de una planilla de Sheets, que redacte los mails de seguimiento a clientes con pedidos demorados, o que monitoree una casilla y avise cuando entra un reclamo urgente. Como pide confirmación antes de acciones sensibles, conviene probarlo primero en tareas administrativas de bajo riesgo.",
-    "verdict": "probar",
-    "verdict_reason": "Automatiza tareas repetitivas de oficina en Gmail, Sheets y Calendar sin armar un flujo en n8n, aunque por ahora requiere suscripción paga de Google.",
-    "categories": [
-      "Automatización",
-      "Productividad",
-      "Gestión del tiempo",
-      "Organización"
-    ],
-    "pricing_note": "pago: exclusivo por ahora para suscriptores de Google AI Ultra (y AI Pro)",
-    "source_url": "https://www.rosario3.com/tecnologia/ya-esta-disponible-gemini-spark-la-nueva-inteligencia-artificial-autonoma-de-google-llego-a-la-argentina-20260801-0012.html",
-    "published_date": "2026-08-01",
-    "priority": "alta",
-    "id": "ai-google-gemini-spark",
-    "source_kind": "auto",
-    "last_updated": "2026-08-22",
-    "first_seen": "2026-08-22"
-  },
-  {
     "name": "Claude Haiku 5.5",
     "vendor": "Anthropic",
     "what_it_is": "El modelo chico de Claude: el más rápido y barato de la familia, pensado para tareas de mucho volumen como resumir, clasificar o consultar bases de datos.",
@@ -1868,27 +1845,6 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
-  },
-  {
-    "name": "Meta Business Agent (WhatsApp AI)",
-    "vendor": "Meta",
-    "what_it_is": "Es el agente de IA de Meta que responde consultas, recomienda productos y puede cerrar ventas dentro de WhatsApp, Messenger e Instagram.",
-    "what_changed": "Desde el 1 de agosto de 2026 Meta terminó la ventana gratuita de prueba y pasó a cobrar por tokens: 2 dólares cada millón de tokens, una tarifa única que junta el procesamiento de IA y el envío del mensaje.",
-    "fixy_use": "Si Fixy evalúa usar este agente para atención por WhatsApp (por ejemplo consultas de estado de envío), ya no hay período gratis: conviene estimar cuántas conversaciones y qué tan largas serían antes de activarlo, porque el costo ahora depende de cuánto 'habla' el agente y no de un precio fijo por mensaje. Vale la pena comparar este costo contra el de Fin o un bot armado en n8n con WhatsApp Cloud API.",
-    "verdict": "seguir",
-    "verdict_reason": "Cambia la ecuación de costo de algo que ya está en el radar, pero todavía no es una decisión urgente para Fixy.",
-    "categories": [
-      "Comercial",
-      "Automatización"
-    ],
-    "pricing_note": "pago - USD 2 por millón de tokens desde el 1/8/2026, ya no hay ventana gratuita de prueba",
-    "source_url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/pricing/ai-providers",
-    "published_date": "2026-08-01",
-    "priority": "relevante",
-    "id": "ai-meta-meta-business-agent-whatsapp-ai",
-    "source_kind": "auto",
-    "last_updated": "2026-08-28",
-    "first_seen": "2026-08-20"
   },
   {
     "name": "Gemini agent",

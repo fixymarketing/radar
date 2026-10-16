@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-15T12:16:24.044Z",
-  "last_updated_ar": "15/10/2026, 09:16",
-  "date": "2026-10-15",
+  "generated_at": "2026-10-16T12:20:36.168Z",
+  "last_updated_ar": "16/10/2026, 09:20",
+  "date": "2026-10-16",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Jueves sin novedades nuevas verificables salvo la Cumbre Federal de Logística de mañana; la semana sigue con el Día de la Madre y la Rosario TechWeek.",
+  "summary_line": "Viernes sin novedades nuevas verificables: hoy la Cumbre Federal de Logística, el finde el Día de la Madre y el lunes arranca la Rosario TechWeek.",
   "counters": {
-    "news_today": 1,
-    "news_total": 18,
-    "events_upcoming": 48,
+    "news_today": 0,
+    "news_total": 10,
+    "events_upcoming": 47,
     "events_ar_upcoming": 30,
-    "events_intl_upcoming": 18,
+    "events_intl_upcoming": 17,
     "events_later": 38,
     "opportunities_open": 8,
     "opportunities_today": 0,
     "ai_today": 0,
-    "ai_to_try": 63,
-    "content_ideas": 34,
-    "added_news": 1,
+    "ai_to_try": 62,
+    "content_ideas": 31,
+    "added_news": 0,
     "updated_news": 0,
-    "added_events": 1,
-    "updated_events": 2,
+    "added_events": 0,
+    "updated_events": 0,
     "added_ai": 0,
-    "archived": 7,
+    "archived": 14,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,32 +34,32 @@
   },
   "highlights": [
     {
-      "id": "nw-dedc340c9e",
-      "kind": "news",
-      "title": "El CFI realiza mañana la segunda Cumbre Federal de Logística con foco en financiar 1.100 proyectos de infraestructura",
-      "priority": "relevante",
-      "one_liner": "Mañana se define qué obras logísticas se priorizan por provincia: señal temprana para planificar la red en el interior."
-    },
-    {
       "id": "ev-cumbre-federal-logistica-2026",
       "kind": "event",
       "title": "Cumbre Federal de Logística 2026",
       "priority": "alta",
-      "one_liner": "Es mañana viernes 16/10 en el CEC de Buenos Aires: conviene decidir hoy si Fixy asiste o la sigue por prensa."
+      "one_liner": "Hoy se prioriza qué obras y corredores logísticos se financian por provincia, útil para planificar la red hacia el interior."
+    },
+    {
+      "id": "nw-74be7d3208",
+      "kind": "news",
+      "title": "Los comercios llegan al Día de la Madre más desafiante en años, con consumo flojo y menos financiamiento",
+      "priority": "alta",
+      "one_liner": "Marca el tono de la demanda antes de CyberMonday y Black Friday y anticipa tiendas más sensibles al costo y la velocidad del envío."
     },
     {
       "id": "ev-rosario-techweek-2026",
       "kind": "event",
       "title": "Rosario TechWeek 2026",
       "priority": "relevante",
-      "one_liner": "Arranca el 19/10: networking con el polo tecnológico y tiendas del interior."
+      "one_liner": "El lunes arranca una semana de networking con el polo tecnológico rosarino y tiendas del interior."
     },
     {
-      "id": "nw-74be7d3208",
-      "kind": "news",
-      "title": "Los comercios llegan al Día de la Madre más desafiante en años, con consumo flojo y menos financiamiento",
+      "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
+      "kind": "ai",
+      "title": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
       "priority": "relevante",
-      "one_liner": "El Día de la Madre del 18/10 marca el tono de la demanda para el pico de fin de año."
+      "one_liner": "Conviene medir cuántos mensajes de servicio manda Fixy para estimar el costo extra del mes."
     }
   ]
 }
