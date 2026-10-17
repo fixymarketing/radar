@@ -1,65 +1,58 @@
 {
-  "generated_at": "2026-10-16T12:20:36.168Z",
-  "last_updated_ar": "16/10/2026, 09:20",
-  "date": "2026-10-16",
+  "generated_at": "2026-10-17T12:15:44.719Z",
+  "last_updated_ar": "17/10/2026, 09:15",
+  "date": "2026-10-17",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Viernes sin novedades nuevas verificables: hoy la Cumbre Federal de Logística, el finde el Día de la Madre y el lunes arranca la Rosario TechWeek.",
+  "summary_line": "Sábado tranquilo: el finde es el Día de la Madre y el lunes arranca la Rosario TechWeek; hoy sumamos una novedad de IA para paneles de datos.",
   "counters": {
     "news_today": 0,
-    "news_total": 10,
-    "events_upcoming": 47,
-    "events_ar_upcoming": 30,
-    "events_intl_upcoming": 17,
+    "news_total": 9,
+    "events_upcoming": 43,
+    "events_ar_upcoming": 27,
+    "events_intl_upcoming": 16,
     "events_later": 38,
     "opportunities_open": 8,
     "opportunities_today": 0,
-    "ai_today": 0,
+    "ai_today": 1,
     "ai_to_try": 62,
-    "content_ideas": 31,
+    "content_ideas": 28,
     "added_news": 0,
     "updated_news": 0,
     "added_events": 0,
     "updated_events": 0,
-    "added_ai": 0,
-    "archived": 14,
+    "added_ai": 1,
+    "archived": 5,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-cadena-cilog-congreso-internacional-logistica-su-2026",
-    "name": "CiLOG 2026 (Congreso Internacional de Logística y Cadena de Suministro)",
-    "date_start": "2026-10-14",
-    "city": "Ciudad Obregón, Sonora",
+    "id": "ev-comercio-effix-electronico-feria-2026",
+    "name": "EFFIX 2026 (Feria del Comercio Electrónico)",
+    "date_start": "2026-10-15",
+    "city": "Medellín",
     "days_away": 0
   },
   "highlights": [
     {
-      "id": "ev-cumbre-federal-logistica-2026",
+      "id": "ev-rosario-techweek-2026",
       "kind": "event",
-      "title": "Cumbre Federal de Logística 2026",
+      "title": "Rosario TechWeek 2026",
       "priority": "alta",
-      "one_liner": "Hoy se prioriza qué obras y corredores logísticos se financian por provincia, útil para planificar la red hacia el interior."
+      "one_liner": "Arranca el lunes 19: una oportunidad de networking con el polo tecnológico rosarino y con tiendas del interior."
     },
     {
       "id": "nw-74be7d3208",
       "kind": "news",
       "title": "Los comercios llegan al Día de la Madre más desafiante en años, con consumo flojo y menos financiamiento",
-      "priority": "alta",
-      "one_liner": "Marca el tono de la demanda antes de CyberMonday y Black Friday y anticipa tiendas más sensibles al costo y la velocidad del envío."
-    },
-    {
-      "id": "ev-rosario-techweek-2026",
-      "kind": "event",
-      "title": "Rosario TechWeek 2026",
       "priority": "relevante",
-      "one_liner": "El lunes arranca una semana de networking con el polo tecnológico rosarino y tiendas del interior."
+      "one_liner": "Este finde se juega la primera fecha comercial fuerte del trimestre y marca el tono de la demanda para el CyberMonday."
     },
     {
-      "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
+      "id": "ai-anthropic-claude-dashboards-y-claude-motion",
       "kind": "ai",
-      "title": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
+      "title": "Claude Dashboards y Claude Motion",
       "priority": "relevante",
-      "one_liner": "Conviene medir cuántos mensajes de servicio manda Fixy para estimar el costo extra del mes."
+      "one_liner": "Permite armar paneles de despachos, devoluciones y SLA a partir de una pregunta, sin depender de un analista."
     }
   ]
 }

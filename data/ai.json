@@ -334,6 +334,29 @@
     "first_seen": "2026-08-19"
   },
   {
+    "name": "Claude Dashboards y Claude Motion",
+    "vendor": "Anthropic",
+    "what_it_is": "Dashboards arma paneles de datos en vivo a partir de una pregunta en lenguaje natural, conectándose a plataformas de datos (BigQuery, Snowflake, Databricks, Redshift, ClickHouse) o a un CRM como Salesforce. Motion convierte reportes y gráficos en animaciones cortas editables que se exportan en MP4.",
+    "what_changed": "Anthropic los lanzó en beta el 8 de octubre de 2026. Cada número del panel se puede rastrear hasta su consulta y cada gráfico muestra cuándo se actualizó por última vez. Además, Docs, Slides y Design salieron de beta y quedaron disponibles en todos los planes, incluido el gratuito.",
+    "fixy_use": "Si Fixy tiene sus datos de despachos, devoluciones o SLA en una base o en un CRM, puede pedirle a Claude un panel que se mantenga actualizado por cliente o por courier, sin armar una herramienta de BI. Motion sirve para convertir el reporte mensual de performance en un video corto para mostrarle a un cliente o publicar en LinkedIn. Hoy los conectores son de plataformas de datos, así que con planillas sueltas habría que migrar los datos primero.",
+    "verdict": "seguir",
+    "verdict_reason": "Es útil solo si los datos operativos de Fixy están en una base o CRM compatible, y ambas funciones siguen en beta.",
+    "categories": [
+      "Análisis",
+      "Operaciones",
+      "Contenido",
+      "Management"
+    ],
+    "pricing_note": "pago: Dashboards en beta en planes pagos de Claude; Motion en beta en Team y Enterprise; Docs, Slides y Design disponibles en todos los planes, incluido Free",
+    "source_url": "https://claude.com/es/resources/articles/dashboards-and-motion",
+    "published_date": "2026-10-08",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-dashboards-y-claude-motion",
+    "source_kind": "auto",
+    "last_updated": "2026-10-17",
+    "first_seen": "2026-10-17"
+  },
+  {
     "name": "Claude Haiku 5.5",
     "vendor": "Anthropic",
     "what_it_is": "El modelo chico de Claude: el más rápido y barato de la familia, pensado para tareas de mucho volumen como resumir, clasificar o consultar bases de datos.",

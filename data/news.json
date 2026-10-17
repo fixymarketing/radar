@@ -1,28 +1,5 @@
 [
   {
-    "title": "El Sindicato de Camioneros bloqueó una planta en Arrecifes por un reclamo de tercerización de choferes",
-    "what_happened": "Durante 48 horas, representantes del Sindicato de Camioneros bloquearon el acceso a la planta de Southern Seeds Production en Arrecifes (sobre la ruta 8), impidiendo la carga y descarga de mercadería. El reclamo es que la empresa incorpore como empleados en relación de dependencia a cuatro choferes que hoy le prestan servicio bajo un vínculo comercial (tercerizado). La empresa denunció amenazas a transportistas de otras firmas que intentaban ingresar a cargar.",
-    "why_it_matters": "El caso reabre el debate sobre el riesgo gremial de tercerizar transporte de cargas en Argentina, un esquema muy usado en logística y última milla, y muestra que Camioneros puede paralizar por completo una operación por este tipo de reclamo.",
-    "fixy_impact": "Si Fixy trabaja con fleteros o choferes tercerizados/monotributistas para distribución o última milla, este precedente expone el riesgo de bloqueos gremiales y reclamos de relación de dependencia; conviene revisar cómo están encuadrados los contratos con transportistas externos.",
-    "category": "Logística",
-    "geo": "Argentina",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/politica/2026/09/25/el-sindicato-de-camioneros-mantiene-bloqueada-desde-hace-48-horas-una-empresa-en-arrecifes-y-denunciaron-que-hay-amenazas/",
-    "published_date": "2026-09-25",
-    "priority": "relevante",
-    "tags": [
-      "camioneros",
-      "tercerización",
-      "transporte de cargas",
-      "conflicto gremial",
-      "última milla"
-    ],
-    "id": "nw-67ab6a43ef",
-    "source_kind": "auto",
-    "last_updated": "2026-09-26",
-    "first_seen": "2026-09-26"
-  },
-  {
     "title": "El e-commerce argentino creció 35,9% en 2026 y la logística ya mueve casi un millón de pedidos por día",
     "what_happened": "Según datos de CACE difundidos por Infobae, las compras online crecieron 36,9% interanual en agosto y acumulan una suba de 35,9% en los primeros ocho meses de 2026, mientras el consumo masivo físico sigue en baja. El reporte señala que la preparación, el packaging, el transporte y la entrega a domicilio de cada pedido ya se repite casi un millón de veces por día en el país. Los rubros de mayor crecimiento son alimentos (+56,7% interanual) e higiene y cosmética (+54,4%), productos de bajo valor y alta rotación.",
     "why_it_matters": "Confirma que el e-commerce es el único canal de consumo con crecimiento sostenido en 2026, lo que traslada toda la presión de la demanda directamente a la capacidad logística de cara al último trimestre del año.",

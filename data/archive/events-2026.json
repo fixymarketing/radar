@@ -2852,5 +2852,49 @@
     "source_kind": "auto",
     "last_updated": "2026-08-27",
     "first_seen": "2026-08-27"
+  },
+  {
+    "scope": "intl",
+    "name": "eRetail Day Guatemala 2026",
+    "organizer": "eCommerce Institute y Connecta B2B",
+    "date_start": "2026-10-13",
+    "date_end": "2026-10-13",
+    "date_confirmed": true,
+    "date_note": "Fecha y sede surgen de una sola fuente secundaria; conviene confirmar en el sitio oficial.",
+    "city": "Ciudad de Guatemala",
+    "province": null,
+    "country": "Guatemala",
+    "venue": "Épica Convenciones Hotel Avia",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "eCommerce",
+    "url": "https://www.eretailday.com",
+    "source_url": "https://ecosistemastartup.com/?p=116376",
+    "description": "9.ª edición en Guatemala del eRetail Day Latam, edición Centroamérica 2026, para profesionales del digital commerce.",
+    "fixy_relevance": "Evento informativo de la región; sin presencia argentina clara, sirve para seguir tendencias de eCommerce en Centroamérica.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-day-eretail-guatemala-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-10-13",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-10-13",
+        "fields": [
+          "organizer",
+          "date_note",
+          "venue",
+          "venue_confirmed",
+          "category",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type"
+        ]
+      }
+    ]
   }
 ]

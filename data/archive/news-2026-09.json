@@ -1335,5 +1335,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-28",
     "first_seen": "2026-09-28"
+  },
+  {
+    "title": "El Sindicato de Camioneros bloqueó una planta en Arrecifes por un reclamo de tercerización de choferes",
+    "what_happened": "Durante 48 horas, representantes del Sindicato de Camioneros bloquearon el acceso a la planta de Southern Seeds Production en Arrecifes (sobre la ruta 8), impidiendo la carga y descarga de mercadería. El reclamo es que la empresa incorpore como empleados en relación de dependencia a cuatro choferes que hoy le prestan servicio bajo un vínculo comercial (tercerizado). La empresa denunció amenazas a transportistas de otras firmas que intentaban ingresar a cargar.",
+    "why_it_matters": "El caso reabre el debate sobre el riesgo gremial de tercerizar transporte de cargas en Argentina, un esquema muy usado en logística y última milla, y muestra que Camioneros puede paralizar por completo una operación por este tipo de reclamo.",
+    "fixy_impact": "Si Fixy trabaja con fleteros o choferes tercerizados/monotributistas para distribución o última milla, este precedente expone el riesgo de bloqueos gremiales y reclamos de relación de dependencia; conviene revisar cómo están encuadrados los contratos con transportistas externos.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/politica/2026/09/25/el-sindicato-de-camioneros-mantiene-bloqueada-desde-hace-48-horas-una-empresa-en-arrecifes-y-denunciaron-que-hay-amenazas/",
+    "published_date": "2026-09-25",
+    "priority": "relevante",
+    "tags": [
+      "camioneros",
+      "tercerización",
+      "transporte de cargas",
+      "conflicto gremial",
+      "última milla"
+    ],
+    "id": "nw-67ab6a43ef",
+    "source_kind": "auto",
+    "last_updated": "2026-09-26",
+    "first_seen": "2026-09-26"
   }
 ]
