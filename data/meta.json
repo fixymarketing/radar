@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-17T12:15:44.719Z",
-  "last_updated_ar": "17/10/2026, 09:15",
-  "date": "2026-10-17",
+  "generated_at": "2026-10-18T12:07:37.957Z",
+  "last_updated_ar": "18/10/2026, 09:07",
+  "date": "2026-10-18",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Sábado tranquilo: el finde es el Día de la Madre y el lunes arranca la Rosario TechWeek; hoy sumamos una novedad de IA para paneles de datos.",
+  "summary_line": "Domingo de Día de la Madre y semana de eventos que arranca; sumamos Gemini 4 Argon en IA.",
   "counters": {
     "news_today": 0,
     "news_total": 9,
@@ -15,14 +15,14 @@
     "opportunities_open": 8,
     "opportunities_today": 0,
     "ai_today": 1,
-    "ai_to_try": 62,
-    "content_ideas": 28,
+    "ai_to_try": 61,
+    "content_ideas": 26,
     "added_news": 0,
     "updated_news": 0,
     "added_events": 0,
     "updated_events": 0,
     "added_ai": 1,
-    "archived": 5,
+    "archived": 4,
     "discarded_quality": 0
   },
   "next_event": {
@@ -38,21 +38,21 @@
       "kind": "event",
       "title": "Rosario TechWeek 2026",
       "priority": "alta",
-      "one_liner": "Arranca el lunes 19: una oportunidad de networking con el polo tecnológico rosarino y con tiendas del interior."
+      "one_liner": "Arranca mañana lunes 19: networking con el polo tecnológico rosarino y con tiendas del interior."
     },
     {
       "id": "nw-74be7d3208",
       "kind": "news",
       "title": "Los comercios llegan al Día de la Madre más desafiante en años, con consumo flojo y menos financiamiento",
       "priority": "relevante",
-      "one_liner": "Este finde se juega la primera fecha comercial fuerte del trimestre y marca el tono de la demanda para el CyberMonday."
+      "one_liner": "Hoy se juega la primera fecha comercial fuerte del trimestre y marca el tono de la demanda para CyberMonday."
     },
     {
-      "id": "ai-anthropic-claude-dashboards-y-claude-motion",
+      "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
       "kind": "ai",
-      "title": "Claude Dashboards y Claude Motion",
+      "title": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
       "priority": "relevante",
-      "one_liner": "Permite armar paneles de despachos, devoluciones y SLA a partir de una pregunta, sin depender de un analista."
+      "one_liner": "Conviene medir cuántos mensajes de servicio manda Fixy para estimar el costo extra y derivar consultas repetitivas a un bot."
     }
   ]
 }

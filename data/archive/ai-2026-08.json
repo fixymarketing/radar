@@ -42,5 +42,29 @@
     "source_kind": "auto",
     "last_updated": "2026-08-28",
     "first_seen": "2026-08-20"
+  },
+  {
+    "name": "Lumi y Chat Nube: la IA nativa de Tiendanube",
+    "vendor": "Tiendanube / Nuvemshop",
+    "what_it_is": "Lumi es la IA integrada de Tiendanube para gestionar la tienda (insights, descripciones de producto desde fotos, SEO, cálculo de peso y dimensiones de envío). Chat Nube es el asistente de atención en WhatsApp e Instagram para consultas, seguimiento de pedidos y recupero de carritos.",
+    "what_changed": "Anunciado a comienzos de agosto de 2026 con una inversión declarada de US$10 millones. Incluye conectores oficiales con Claude y ChatGPT para consultar y modificar la tienda desde esos asistentes, y Tiendanube declaró el camino hacia agentes autónomos.",
+    "fixy_use": "Es la plataforma de muchos clientes de Fixy: entender Lumi permite ofrecer onboarding y buenas prácticas como diferencial. El cálculo automático de peso y dimensiones impacta directo en la cotización de envíos, así que conviene testear su precisión con productos reales. Chat Nube define quién responde el '¿dónde está mi pedido?': Fixy debería alinear su información de tracking con ese canal.",
+    "verdict": "probar",
+    "verdict_reason": "Toca directamente el negocio de Fixy porque cambia cómo sus propios clientes cotizan envíos y responden consultas de entrega.",
+    "categories": [
+      "Comercial",
+      "Logística",
+      "Operaciones",
+      "Marketing",
+      "Automatización"
+    ],
+    "pricing_note": "Gratis: Tiendanube declaró que Lumi está disponible sin costo adicional para sus comercios. Foco inicial comunicado en México y LATAM.",
+    "source_url": "https://esemanal.mx/2026/08/tiendanube-integra-ia-a-su-plataforma-y-prepara-el-camino-hacia-el-comercio-agentico/",
+    "published_date": "2026-08-03",
+    "priority": "alta",
+    "id": "ai-tiendanube-nuvemshop-lumi-y-chat-nube-la-ia-nativa-de-tienda",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
   }
 ]

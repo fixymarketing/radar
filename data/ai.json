@@ -310,28 +310,26 @@
     "first_seen": "2026-08-26"
   },
   {
-    "name": "Lumi y Chat Nube: la IA nativa de Tiendanube",
-    "vendor": "Tiendanube / Nuvemshop",
-    "what_it_is": "Lumi es la IA integrada de Tiendanube para gestionar la tienda (insights, descripciones de producto desde fotos, SEO, cálculo de peso y dimensiones de envío). Chat Nube es el asistente de atención en WhatsApp e Instagram para consultas, seguimiento de pedidos y recupero de carritos.",
-    "what_changed": "Anunciado a comienzos de agosto de 2026 con una inversión declarada de US$10 millones. Incluye conectores oficiales con Claude y ChatGPT para consultar y modificar la tienda desde esos asistentes, y Tiendanube declaró el camino hacia agentes autónomos.",
-    "fixy_use": "Es la plataforma de muchos clientes de Fixy: entender Lumi permite ofrecer onboarding y buenas prácticas como diferencial. El cálculo automático de peso y dimensiones impacta directo en la cotización de envíos, así que conviene testear su precisión con productos reales. Chat Nube define quién responde el '¿dónde está mi pedido?': Fixy debería alinear su información de tracking con ese canal.",
-    "verdict": "probar",
-    "verdict_reason": "Toca directamente el negocio de Fixy porque cambia cómo sus propios clientes cotizan envíos y responden consultas de entrega.",
+    "name": "Gemini 4 Argon",
+    "vendor": "Google",
+    "what_it_is": "El nuevo modelo de frontera de Google, disponible a través de la API de Gemini y Google AI Studio, pensado para resolver problemas complejos de razonamiento.",
+    "what_changed": "Google lo dejó disponible de forma general para desarrolladores y empresas el 13 de octubre de 2026, con precio introductorio hasta el 30 de noviembre.",
+    "fixy_use": "Sirve para armar automatizaciones propias (por ejemplo, en n8n o Make) que clasifiquen reclamos de envíos, lean planillas de clientes o analicen reportes de operaciones con mejor razonamiento. Conviene probarlo en AI Studio con un caso real antes de definir si vale el costo frente a modelos más chicos.",
+    "verdict": "seguir",
+    "verdict_reason": "Es un modelo potente pero se usa por API paga y el precio sube a partir del 1 de diciembre, así que conviene esperar a tener un caso concreto.",
     "categories": [
-      "Comercial",
-      "Logística",
-      "Operaciones",
-      "Marketing",
-      "Automatización"
+      "Análisis",
+      "Automatización",
+      "Operaciones"
     ],
-    "pricing_note": "Gratis: Tiendanube declaró que Lumi está disponible sin costo adicional para sus comercios. Foco inicial comunicado en México y LATAM.",
-    "source_url": "https://esemanal.mx/2026/08/tiendanube-integra-ia-a-su-plataforma-y-prepara-el-camino-hacia-el-comercio-agentico/",
-    "published_date": "2026-08-03",
-    "priority": "alta",
-    "id": "ai-tiendanube-nuvemshop-lumi-y-chat-nube-la-ia-nativa-de-tienda",
+    "pricing_note": "pago: no está en el plan gratuito de la API; USD 2 por millón de tokens de entrada y USD 10 de salida hasta el 30/11/2026, y USD 4 y USD 20 desde el 1/12/2026",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "published_date": "2026-10-13",
+    "priority": "relevante",
+    "id": "ai-google-gemini-4-argon",
     "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
+    "last_updated": "2026-10-18",
+    "first_seen": "2026-10-18"
   },
   {
     "name": "Claude Dashboards y Claude Motion",

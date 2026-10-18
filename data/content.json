@@ -1,35 +1,5 @@
 [
   {
-    "topic": "El paro portuario de Montevideo que nadie mira desde la vidriera del eCommerce",
-    "why_now": "El conflicto en la terminal de contenedores de Montevideo escaló a un paro por tiempo indeterminado, con pérdidas estimadas de entre US$400.000 y US$500.000 diarios para el transporte de cargas de la región y sin resolución de fondo a la vista.",
-    "fixy_angle": "Como operador logístico argentino, Fixy puede explicar en lenguaje simple por qué un paro en un puerto uruguayo encarece y demora la mercadería que llega por el Río de la Plata, y qué señales conviene mirar antes de que eso se traslade a los tiempos de entrega.",
-    "formats": [
-      "LinkedIn",
-      "nota"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.subrayado.com.uy/corre-el-plazo-72-horas-que-el-gobierno-le-dio-al-sindicato-y-tcp-que-acuerden-un-nuevo-convenio-y-termine-el-conflicto-n1017661",
-    "id": "ct-f35f1a5c",
-    "source_kind": "auto",
-    "last_updated": "2026-09-17",
-    "first_seen": "2026-09-17"
-  },
-  {
-    "topic": "Qué significa para el resto de la logística que Mercado Libre ya sea el 1% del PBI argentino",
-    "why_now": "Mercado Libre presentó \"Efecto MELI\", un informe propio que cuantifica su peso económico en el 1% del PBI del país, justo cuando además anuncia robots humanoides en su fulfillment.",
-    "fixy_angle": "Fixy puede usar ese dato para posicionarse como el socio logístico que le permite a las pymes competir con esa escala sin tener que replicarla por su cuenta.",
-    "formats": [
-      "LinkedIn",
-      "carrusel"
-    ],
-    "priority": "informativo",
-    "source_url": "https://www.cronista.com/finanzas-mercados/mercado-libre-ya-mueve-casi-el-1-del-pbi-argentino-que-esperar-para-la-accion/",
-    "id": "ct-2c2cb92c",
-    "source_kind": "auto",
-    "last_updated": "2026-09-17",
-    "first_seen": "2026-09-17"
-  },
-  {
     "topic": "Shein y Temu ya movieron u$s700 millones en Argentina: la pelea se mudó a la logística",
     "why_now": "Mercado Libre puso el tema en agenda pública en su propio evento de vendedores, mostrando que la disputa con las plataformas chinas ya no es solo de precio sino de quién entrega mejor y más rápido.",
     "fixy_angle": "Fixy puede posicionarse como la pieza de última milla y fulfillment que cualquier marketplace que quiera crecer en Argentina necesita, sin tener que montar su propia red.",
