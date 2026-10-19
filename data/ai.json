@@ -310,6 +310,28 @@
     "first_seen": "2026-08-26"
   },
   {
+    "name": "ChatGPT Slides (presentaciones colaborativas en ChatGPT Work)",
+    "vendor": "OpenAI",
+    "what_it_is": "Función de ChatGPT que arma una presentación editable a partir de lo que le pedís o de material que ya tenés, y que el equipo puede revisar y editar en conjunto.",
+    "what_changed": "El 16/10/2026 empezó a desplegarse para usuarios elegibles de Pro, Business y Enterprise con acceso a Space, en la web y en la app de escritorio. Se pide desde ChatGPT Work creando una presentación en Space.",
+    "fixy_use": "Armar propuestas comerciales para tiendas online, reportes mensuales de performance de fulfillment y presentaciones para licitaciones a partir de datos y textos ya existentes, y ajustarlas entre comercial y marketing sobre el mismo archivo. Sirve para bajar el tiempo de armado de decks de horas a minutos, siempre con revisión humana de cifras.",
+    "verdict": "probar",
+    "verdict_reason": "Si el equipo ya usa un plan Business, es una prueba sin costo adicional aparente para acelerar propuestas comerciales.",
+    "categories": [
+      "Comercial",
+      "Contenido",
+      "Productividad"
+    ],
+    "pricing_note": "pago: requiere plan ChatGPT Pro, Business o Enterprise con acceso a Space; despliegue gradual, puede no estar disponible todavía en todas las cuentas",
+    "source_url": "https://help.openai.com/en/articles/20001605-creating-and-collaborating-on-slides-in-chatgpt",
+    "published_date": "2026-10-16",
+    "priority": "relevante",
+    "id": "ai-openai-chatgpt-slides-presentaciones-colaborativas-en-chatgp",
+    "source_kind": "auto",
+    "last_updated": "2026-10-19",
+    "first_seen": "2026-10-19"
+  },
+  {
     "name": "Gemini 4 Argon",
     "vendor": "Google",
     "what_it_is": "El nuevo modelo de frontera de Google, disponible a través de la API de Gemini y Google AI Studio, pensado para resolver problemas complejos de razonamiento.",
@@ -1866,6 +1888,29 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "Google Meet: rutinas de próximos pasos tras la reunión",
+    "vendor": "Google Workspace",
+    "what_it_is": "Sección \"Routines for this meeting\" en la pantalla posterior a una reunión de Meet, que con un toque activa automatizaciones hechas con Gemini y Workspace Studio.",
+    "what_changed": "El 12/10/2026 Google lanzó dos rutinas iniciales: redactar un mail de seguimiento en Gmail y cargar los action items en Google Tasks. Requiere tener activado \"Take notes for me\" durante la reunión, y vienen más pasos en camino.",
+    "fixy_use": "Después de una reunión con un cliente o un marketplace, dejar armado el mail de seguimiento con lo acordado y que los pendientes (ajustar tarifas, enviar muestras de stock, fechas de ingreso) queden como tareas, sin que alguien tenga que pasar notas a mano. Útil para comercial y atención a cuentas clave.",
+    "verdict": "probar",
+    "verdict_reason": "Está activado por defecto en Workspace y evita trabajo administrativo repetitivo, pero conviene revisar cada mail antes de enviarlo.",
+    "categories": [
+      "Productividad",
+      "Comercial",
+      "Automatización",
+      "Gestión del tiempo"
+    ],
+    "pricing_note": "no confirmado: la nota de Google no detalla el plan exigido más allá de requerir \"Take notes for me\" (disponible en planes Workspace pagos con Gemini); el administrador puede desactivarlo",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+    "published_date": "2026-10-12",
+    "priority": "informativo",
+    "id": "ai-google-workspace-google-meet-rutinas-de-proximos-pasos-tras-",
+    "source_kind": "auto",
+    "last_updated": "2026-10-19",
+    "first_seen": "2026-10-19"
   },
   {
     "name": "Gemini agent",

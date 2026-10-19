@@ -1,28 +1,5 @@
 [
   {
-    "title": "El e-commerce argentino creció 35,9% en 2026 y la logística ya mueve casi un millón de pedidos por día",
-    "what_happened": "Según datos de CACE difundidos por Infobae, las compras online crecieron 36,9% interanual en agosto y acumulan una suba de 35,9% en los primeros ocho meses de 2026, mientras el consumo masivo físico sigue en baja. El reporte señala que la preparación, el packaging, el transporte y la entrega a domicilio de cada pedido ya se repite casi un millón de veces por día en el país. Los rubros de mayor crecimiento son alimentos (+56,7% interanual) e higiene y cosmética (+54,4%), productos de bajo valor y alta rotación.",
-    "why_it_matters": "Confirma que el e-commerce es el único canal de consumo con crecimiento sostenido en 2026, lo que traslada toda la presión de la demanda directamente a la capacidad logística de cara al último trimestre del año.",
-    "fixy_impact": "El crecimiento en alimentos e higiene/cosmética exige entregas frecuentes con costos de envío bajos, un desafío directo para la capacidad de fulfillment y última milla de Fixy de cara al pico de fin de año.",
-    "category": "eCommerce",
-    "geo": "Argentina",
-    "source_name": "Infobae (Movant)",
-    "source_url": "https://www.infobae.com/movant/2026/09/27/ecommerce-en-argentina-como-impacta-su-avance-en-la-logistica-durante-2026/",
-    "published_date": "2026-09-27",
-    "priority": "alta",
-    "tags": [
-      "ecommerce",
-      "logística",
-      "última milla",
-      "CACE",
-      "consumo"
-    ],
-    "id": "nw-50881aad3b",
-    "source_kind": "auto",
-    "last_updated": "2026-09-28",
-    "first_seen": "2026-09-28"
-  },
-  {
     "title": "El plazo para resolver el conflicto portuario de TCP en Montevideo vence hoy, con 20 puntos ya acordados",
     "what_happened": "El Ministerio de Trabajo uruguayo convocó una nueva instancia negociadora entre Terminal Cuenca del Plata (TCP) y el sindicato portuario SUPRA, con el objetivo de cerrar el convenio colectivo este lunes 28 de septiembre. Ya hay acuerdo en más de 20 puntos, pero persisten diferencias sobre la cantidad de jornales garantizados, las partidas económicas extraordinarias y la duración del convenio. Si no hay acuerdo, el sindicato amenaza con un paro nacional de 48 horas.",
     "why_it_matters": "El desenlace de esta jornada define si se normaliza la principal terminal de contenedores de Uruguay, clave para buena parte de la carga de exportación e importación argentina que transita por Montevideo.",
@@ -41,29 +18,6 @@
       "Uruguay"
     ],
     "id": "nw-80a629f30e",
-    "source_kind": "auto",
-    "last_updated": "2026-09-28",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "title": "Comenzó el juicio contra dos dirigentes de Camioneros por bloquear y extorsionar a una distribuidora",
-    "what_happened": "Los sindicalistas Maximiliano Cabaleyro y Fernando Espíndola, ex referentes de la seccional San Nicolás-Ramallo-San Pedro del gremio de Camioneros, enfrentan desde este lunes un juicio oral por turbación de la posesión, coacción, extorsión y amenazas contra la empresa Rey Distribución SRL, a la que bloquearon entre 2017 y 2021. Espíndola optó por un juicio abreviado y no irá al debate oral; junto a Cabaleyro hay otros seis imputados en la causa.",
-    "why_it_matters": "Es un antecedente judicial concreto sobre los límites legales de los bloqueos sindicales a empresas de distribución, en un contexto de conflictos similares recientes como el de Arrecifes.",
-    "fixy_impact": "Sienta precedente sobre las consecuencias legales de los bloqueos gremiales a operadores de distribución, un riesgo operativo que Fixy y otros operadores logísticos deben seguir de cerca.",
-    "category": "Regulación",
-    "geo": "Argentina",
-    "source_name": "La Nación",
-    "source_url": "https://www.lanacion.com.ar/politica/comienza-un-juicio-contra-dos-jefes-camioneros-por-bloqueos-a-una-empresa-distribuidora-nid27092026/",
-    "published_date": "2026-09-27",
-    "priority": "relevante",
-    "tags": [
-      "Camioneros",
-      "bloqueos",
-      "justicia",
-      "distribución",
-      "riesgo operativo"
-    ],
-    "id": "nw-eafbd7174d",
     "source_kind": "auto",
     "last_updated": "2026-09-28",
     "first_seen": "2026-09-28"
@@ -204,5 +158,28 @@
     "source_kind": "auto",
     "last_updated": "2026-10-15",
     "first_seen": "2026-10-15"
+  },
+  {
+    "title": "Día de la Madre: las ventas pyme cayeron 1,4% interanual, la quinta baja consecutiva, pese a las promociones",
+    "what_happened": "Según el relevamiento de CAME difundido el domingo 18 de octubre, las ventas minoristas pyme por el Día de la Madre bajaron 1,4% interanual a precios constantes. El ticket promedio fue de $63.197 y nueve de cada diez comercios ofrecieron descuentos. Cuatro de los seis rubros relevados cayeron, con las mayores bajas en electrodomésticos, hogar y audio y video.",
+    "why_it_matters": "Confirma un consumo débil que prioriza regalos de menor valor, aun con promociones masivas. Es la lectura más fresca de la demanda antes de CyberMonday y Black Friday.",
+    "fixy_impact": "Los clientes de Fixy llegan al pico de noviembre con ventas planas: conviene ajustar proyecciones de volumen y cuidar costos de almacenamiento y envío en la temporada.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/10/18/dia-de-la-madre-las-ventas-cayeron-por-quinto-ano-consecutivo-pese-a-que-9-de-cada-10-comercios-ofrecieron-descuentos/",
+    "published_date": "2026-10-18",
+    "priority": "relevante",
+    "tags": [
+      "Día de la Madre",
+      "CAME",
+      "consumo",
+      "pymes",
+      "retail"
+    ],
+    "id": "nw-62ae07ac72",
+    "source_kind": "auto",
+    "last_updated": "2026-10-19",
+    "first_seen": "2026-10-19"
   }
 ]

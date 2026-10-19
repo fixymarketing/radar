@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-18T12:07:37.957Z",
-  "last_updated_ar": "18/10/2026, 09:07",
-  "date": "2026-10-18",
+  "generated_at": "2026-10-19T12:18:16.556Z",
+  "last_updated_ar": "19/10/2026, 09:18",
+  "date": "2026-10-19",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Domingo de Día de la Madre y semana de eventos que arranca; sumamos Gemini 4 Argon en IA.",
+  "summary_line": "Semana previa a CyberMonday: consumo débil tras el Día de la Madre y CACE ajusta las fechas al 2–4 de noviembre.",
   "counters": {
-    "news_today": 0,
-    "news_total": 9,
+    "news_today": 1,
+    "news_total": 8,
     "events_upcoming": 43,
     "events_ar_upcoming": 27,
     "events_intl_upcoming": 16,
     "events_later": 38,
     "opportunities_open": 8,
     "opportunities_today": 0,
-    "ai_today": 1,
-    "ai_to_try": 61,
-    "content_ideas": 26,
-    "added_news": 0,
+    "ai_today": 2,
+    "ai_to_try": 63,
+    "content_ideas": 24,
+    "added_news": 1,
     "updated_news": 0,
     "added_events": 0,
-    "updated_events": 0,
-    "added_ai": 1,
-    "archived": 4,
+    "updated_events": 1,
+    "added_ai": 2,
+    "archived": 6,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,25 +34,25 @@
   },
   "highlights": [
     {
-      "id": "ev-rosario-techweek-2026",
+      "id": "ev-cybermonday-2026",
       "kind": "event",
-      "title": "Rosario TechWeek 2026",
+      "title": "CyberMonday 2026",
       "priority": "alta",
-      "one_liner": "Arranca mañana lunes 19: networking con el polo tecnológico rosarino y con tiendas del interior."
+      "one_liner": "CACE confirmaría el 2 al 4 de noviembre: define la capacidad de fulfillment que hay que tener lista."
     },
     {
-      "id": "nw-74be7d3208",
+      "id": "nw-62ae07ac72",
       "kind": "news",
-      "title": "Los comercios llegan al Día de la Madre más desafiante en años, con consumo flojo y menos financiamiento",
+      "title": "Día de la Madre: las ventas pyme cayeron 1,4% interanual, la quinta baja consecutiva, pese a las promociones",
       "priority": "relevante",
-      "one_liner": "Hoy se juega la primera fecha comercial fuerte del trimestre y marca el tono de la demanda para CyberMonday."
+      "one_liner": "Lectura más fresca de la demanda antes del pico de noviembre."
     },
     {
-      "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
+      "id": "ai-openai-chatgpt-slides-presentaciones-colaborativas-en-chatgp",
       "kind": "ai",
-      "title": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
+      "title": "ChatGPT Slides (presentaciones colaborativas en ChatGPT Work)",
       "priority": "relevante",
-      "one_liner": "Conviene medir cuántos mensajes de servicio manda Fixy para estimar el costo extra y derivar consultas repetitivas a un bot."
+      "one_liner": "Sirve para armar propuestas comerciales y reportes a clientes más rápido."
     }
   ]
 }

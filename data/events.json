@@ -247,11 +247,11 @@
   {
     "scope": "ar",
     "name": "CyberMonday 2026",
-    "organizer": "CACE",
+    "organizer": "Cámara Argentina de Comercio Electrónico (CACE)",
     "date_start": "2026-11-02",
     "date_end": "2026-11-04",
     "date_confirmed": true,
-    "date_note": "Tiendanube publica 3 al 5 de noviembre (con \"lunes 3\", que no coincide con el calendario 2026); la mayoría de las fuentes indica lunes 2 al miércoles 4.",
+    "date_note": "Varias fuentes (Elonce, Universal Assistance) citan la confirmación de CACE para el lunes 2 al miércoles 4 de noviembre; el centro de ayuda y el blog de Tiendanube todavía muestran 3 al 5 de noviembre, probablemente desactualizados. Conviene validar en cybermonday.com.ar.",
     "city": "Online",
     "province": "Buenos Aires",
     "country": "Argentina",
@@ -260,30 +260,17 @@
     "format": "virtual",
     "category": "eCommerce",
     "url": "https://www.cybermonday.com.ar",
-    "source_url": "https://mercado.com.ar/agenda/cybermonday-2026-abrio-contrataciones-y-definio-bonificaciones-para-nuevos-socios-y-pymes",
-    "description": "Evento de descuentos online de la CACE, de tres días corridos, con inscripciones abiertas para socios y pymes.",
-    "fixy_relevance": "Pico de demanda de fulfillment y última milla; define la planificación de capacidad y la comunicación comercial a clientes.",
+    "source_url": "https://www.elonce.com/uid-887093",
+    "description": "Evento de ofertas online de 72 horas organizado por CACE, con participación de miles de marcas y tiendas de todo el país.",
+    "fixy_relevance": "Es el primer gran pico de demanda de fulfillment y última milla del cierre de año: define la capacidad que Fixy tiene que tener lista para sus clientes de eCommerce.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cybermonday-2026",
     "source_kind": "auto",
-    "last_updated": "2026-10-13",
+    "last_updated": "2026-10-19",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-09-30",
-        "fields": [
-          "organizer",
-          "date_note",
-          "city",
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-10-08",
         "fields": [
@@ -314,6 +301,16 @@
       },
       {
         "date": "2026-10-13",
+        "fields": [
+          "organizer",
+          "date_note",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-19",
         "fields": [
           "organizer",
           "date_note",
@@ -542,87 +539,6 @@
           "description",
           "fixy_relevance",
           "priority"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "intl",
-    "name": "eRetail Day México 2026",
-    "organizer": "eCommerce Institute y AMVO (Asociación Mexicana de Venta Online)",
-    "date_start": "2026-10-15",
-    "date_end": "2026-10-15",
-    "date_confirmed": true,
-    "date_note": "El 15/10 es la jornada principal en el Auditorio BB; el 16/10 continúan actividades complementarias (Technical Roadshow y networking).",
-    "city": "Ciudad de México",
-    "province": null,
-    "country": "México",
-    "venue": "Auditorio BB",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "eCommerce",
-    "url": "https://www.eretailday.com",
-    "source_url": "https://ecosistemastartup.com/?p=111129",
-    "description": "13.ª edición del encuentro de retail digital de México, organizada por el eCommerce Institute junto a AMVO. Foco en IA y nuevos canales de venta.",
-    "fixy_relevance": "Networking con marcas, marketplaces y proveedores logísticos de la región; referencia de tendencias de eCommerce en LATAM.",
-    "justification_type": "networking",
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-day-eretail-latam-mexico-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-10-13",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-08-29",
-        "fields": [
-          "organizer",
-          "venue",
-          "category",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "justification_type"
-        ]
-      },
-      {
-        "date": "2026-09-09",
-        "fields": [
-          "organizer",
-          "venue",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-09-11",
-        "fields": [
-          "organizer",
-          "date_end",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-09-19",
-        "fields": [
-          "date_note",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "justification_type"
-        ]
-      },
-      {
-        "date": "2026-10-13",
-        "fields": [
-          "date_end",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "justification_type"
         ]
       }
     ]
