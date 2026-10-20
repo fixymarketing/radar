@@ -3004,5 +3004,190 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "Cumbre Federal de Logística 2026",
+    "organizer": "Consejo Federal de Inversiones (CFI)",
+    "date_start": "2026-10-16",
+    "date_end": "2026-10-16",
+    "date_confirmed": true,
+    "date_note": "Una búsqueda mostró una mención aislada a '10 de noviembre' para este evento, pero múltiples fuentes (Webpicking, medios provinciales) confirman de forma consistente el 16 de octubre en el CEC Buenos Aires; se prioriza esta fecha.",
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "country": "Argentina",
+    "venue": "Centro de Convenciones de Buenos Aires (CEC)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://eleconomista.com.ar/politica/cumbre-federal-logistica-2026-cfi-gobernadores-infraestructura-transporte--n98772",
+    "source_url": "https://eleconomista.com.ar/politica/cumbre-federal-logistica-2026-cfi-gobernadores-infraestructura-transporte--n98772",
+    "description": "Segunda edición de la cumbre del CFI, con el lema \"Hacia una logística competitiva para el desarrollo federal\". Reúne a gobernadores, autoridades nacionales y empresas; el plan federal ya identificó más de 1.100 proyectos logísticos.",
+    "fixy_relevance": "Muestra qué obras de infraestructura y corredores logísticos se priorizan por provincia, útil para planificar red de distribución y última milla en el interior.",
+    "justification_type": null,
+    "priority": "alta",
+    "beyond_90": false,
+    "id": "ev-cumbre-federal-logistica-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-10-15",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-09-05",
+        "fields": [
+          "organizer",
+          "city",
+          "province",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "fields": [
+          "organizer",
+          "city",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "fields": [
+          "organizer",
+          "city",
+          "province",
+          "url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-13",
+        "fields": [
+          "organizer",
+          "city",
+          "province",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-15",
+        "fields": [
+          "province",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "intl",
+    "name": "CiLOG 2026 (Congreso Internacional de Logística y Cadena de Suministro)",
+    "organizer": "Instituto Tecnológico de Sonora (ITSON)",
+    "date_start": "2026-10-14",
+    "date_end": "2026-10-16",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Ciudad Obregón, Sonora",
+    "province": null,
+    "country": "México",
+    "venue": "ITSON, Campus Centro, Unidad Nainari",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://cilog.aml.org.mx/",
+    "source_url": "https://cilog.aml.org.mx/",
+    "description": "Congreso académico-empresarial mexicano sobre logística y cadena de suministro, con ponencias de especialistas nacionales e internacionales y agenda de investigación aplicada.",
+    "fixy_relevance": "Espacio de aprendizaje y contacto con la academia y la industria logística mexicana; sirve para benchmarking de prácticas de cadena de suministro y como puerta de entrada a la conversación sobre expansión hacia México.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-cadena-cilog-congreso-internacional-logistica-su-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-08-26",
+    "change_log": [
+      {
+        "date": "2026-09-05",
+        "fields": [
+          "organizer",
+          "city",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "Envase Alimentek 2026 (Tecnoalimentaria Córdoba)",
+    "organizer": "Publitec Editorial e Instituto Argentino del Envase",
+    "date_start": "2026-10-14",
+    "date_end": "2026-10-16",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Córdoba",
+    "province": "Córdoba",
+    "country": "Argentina",
+    "venue": "Centro de Convenciones de Córdoba",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.envasealimentek.com.ar/",
+    "source_url": "https://comercioyjusticia.info/negocios/tecnoalimentaria-2026-cordoba-se-consolida-como-punto-de-encuentro-de-la-industria-alimentaria/",
+    "description": "Feria conjunta de tecnología alimentaria y de envases que reúne proveedores de maquinaria, packaging y logística para la industria de alimentos y bebidas, con unos 6.000 visitantes esperados.",
+    "fixy_relevance": "Reúne proveedores de packaging y soluciones de acondicionamiento que Fixy puede evaluar para mejorar procesos de fulfillment y bajar costos de embalaje.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-alimentek-cordoba-envase-tecnoalimentaria-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-12",
+    "change_log": [
+      {
+        "date": "2026-09-18",
+        "fields": [
+          "organizer",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "2° Congreso de Comercio Exterior – Claves Macroeconómicas, Geopolítica y Puertos Inteligentes",
+    "organizer": "UCU (Centro Regional Gualeguaychú), CACEGU y CODEGU",
+    "date_start": "2026-10-16",
+    "date_end": "2026-10-16",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Gualeguaychú",
+    "province": "Entre Ríos",
+    "country": "Argentina",
+    "venue": "Centro de Convenciones de Gualeguaychú",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://gualeguaychu.gov.ar/adjuntos/transparencia/resolucioneshcd/resolucion_hcd_2026_18.pdf",
+    "source_url": "https://gualeguaychu.gov.ar/adjuntos/transparencia/resolucioneshcd/resolucion_hcd_2026_18.pdf",
+    "description": "Segunda edición de un congreso académico y empresarial sobre comercio internacional hacia 2027, con ejes en puertos inteligentes, logística e innovación. Habrá conferencias, paneles y mesas de trabajo. Programa, disertantes e inscripción: Por confirmar.",
+    "fixy_relevance": "Tiene un foco más cercano a comercio exterior y puertos que a eCommerce, así que sirve sobre todo para seguir tendencias de logística regional en Entre Ríos.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-claves-comercio-congreso-exterior-geopolitica-in-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-10-14",
+    "first_seen": "2026-10-14"
   }
 ]

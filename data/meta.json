@@ -1,58 +1,65 @@
 {
-  "generated_at": "2026-10-19T12:18:16.556Z",
-  "last_updated_ar": "19/10/2026, 09:18",
-  "date": "2026-10-19",
+  "generated_at": "2026-10-20T12:07:13.464Z",
+  "last_updated_ar": "20/10/2026, 09:07",
+  "date": "2026-10-20",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Semana previa a CyberMonday: consumo débil tras el Día de la Madre y CACE ajusta las fechas al 2–4 de noviembre.",
+  "summary_line": "Semana previa a CyberMonday: sin novedades fuertes hoy, arrancan TecWeek Buenos Aires y SAIACONF, y ChatGPT suma control de pestañas en Chrome.",
   "counters": {
-    "news_today": 1,
-    "news_total": 8,
-    "events_upcoming": 43,
+    "news_today": 0,
+    "news_total": 7,
+    "events_upcoming": 42,
     "events_ar_upcoming": 27,
-    "events_intl_upcoming": 16,
+    "events_intl_upcoming": 15,
     "events_later": 38,
     "opportunities_open": 8,
     "opportunities_today": 0,
-    "ai_today": 2,
-    "ai_to_try": 63,
-    "content_ideas": 24,
-    "added_news": 1,
+    "ai_today": 1,
+    "ai_to_try": 64,
+    "content_ideas": 22,
+    "added_news": 0,
     "updated_news": 0,
     "added_events": 0,
-    "updated_events": 1,
-    "added_ai": 2,
-    "archived": 6,
+    "updated_events": 0,
+    "added_ai": 1,
+    "archived": 7,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-comercio-effix-electronico-feria-2026",
-    "name": "EFFIX 2026 (Feria del Comercio Electrónico)",
-    "date_start": "2026-10-15",
-    "city": "Medellín",
+    "id": "ev-money20-usa-2026",
+    "name": "Money20/20 USA 2026",
+    "date_start": "2026-10-18",
+    "city": "Las Vegas",
     "days_away": 0
   },
   "highlights": [
-    {
-      "id": "ev-cybermonday-2026",
-      "kind": "event",
-      "title": "CyberMonday 2026",
-      "priority": "alta",
-      "one_liner": "CACE confirmaría el 2 al 4 de noviembre: define la capacidad de fulfillment que hay que tener lista."
-    },
     {
       "id": "nw-62ae07ac72",
       "kind": "news",
       "title": "Día de la Madre: las ventas pyme cayeron 1,4% interanual, la quinta baja consecutiva, pese a las promociones",
       "priority": "relevante",
-      "one_liner": "Lectura más fresca de la demanda antes del pico de noviembre."
+      "one_liner": "Lectura más fresca de la demanda a dos semanas del pico de CyberMonday."
     },
     {
-      "id": "ai-openai-chatgpt-slides-presentaciones-colaborativas-en-chatgp",
-      "kind": "ai",
-      "title": "ChatGPT Slides (presentaciones colaborativas en ChatGPT Work)",
+      "id": "ev-aires-buenos-tecweek-2026",
+      "kind": "event",
+      "title": "TecWeek Buenos Aires 2026",
       "priority": "relevante",
-      "one_liner": "Sirve para armar propuestas comerciales y reportes a clientes más rápido."
+      "one_liner": "Arranca hoy en CABA con charlas de IA, fintech y tecnología aplicada que pueden servir para operaciones y comercial."
+    },
+    {
+      "id": "ev-mar-plata-tech-week-2026",
+      "kind": "event",
+      "title": "Mar del Plata Tech Week 2026",
+      "priority": "relevante",
+      "one_liner": "Mañana empieza con CACE como coorganizador: buena ocasión para captar tiendas de la costa atlántica."
+    },
+    {
+      "id": "ai-openai-chatgpt-en-chrome-control-de-pestanas-y-chat-lateral",
+      "kind": "ai",
+      "title": "ChatGPT en Chrome: control de pestañas y chat lateral",
+      "priority": "relevante",
+      "one_liner": "Puede cargar datos y completar formularios en portales de transportistas sin integración; conviene probarlo con tareas de bajo riesgo."
     }
   ]
 }

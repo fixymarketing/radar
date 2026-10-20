@@ -332,6 +332,28 @@
     "first_seen": "2026-10-19"
   },
   {
+    "name": "ChatGPT en Chrome: control de pestañas y chat lateral",
+    "vendor": "OpenAI",
+    "what_it_is": "Es la extensión de ChatGPT para Chrome, que abre un chat al costado de la página y puede usar como contexto las pestañas que tenés abiertas.",
+    "what_changed": "Según 9to5Google, el 15 de octubre de 2026 OpenAI actualizó la extensión: ahora ChatGPT puede tomar el control de las pestañas para enviar mensajes, completar formularios y descargar archivos. Pide permiso antes de usar el historial o de subir y bajar archivos.",
+    "fixy_use": "El equipo de atención o de operaciones podría pedirle que cargue datos repetitivos en los portales de transportistas o marketplaces, o que arme un resumen a partir de varias pestañas (tracking, planillas, paneles). Conviene probarlo primero con tareas de bajo riesgo y sin credenciales sensibles, porque actúa sobre sesiones reales del navegador.",
+    "verdict": "probar",
+    "verdict_reason": "Automatiza tareas manuales de portales sin integración, pero hay que acotar permisos y revisar lo que hace.",
+    "categories": [
+      "Productividad",
+      "Operaciones",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado - se reporta disponible en todos los planes de ChatGPT, pero no se pudo confirmar si Work en Chrome incluye el plan gratuito",
+    "source_url": "https://9to5google.com/2026/10/16/chatgpt-gets-deeper-google-chrome-integration-including-control-over-tabs/",
+    "published_date": "2026-10-16",
+    "priority": "relevante",
+    "id": "ai-openai-chatgpt-en-chrome-control-de-pestanas-y-chat-lateral",
+    "source_kind": "auto",
+    "last_updated": "2026-10-20",
+    "first_seen": "2026-10-20"
+  },
+  {
     "name": "Gemini 4 Argon",
     "vendor": "Google",
     "what_it_is": "El nuevo modelo de frontera de Google, disponible a través de la API de Gemini y Google AI Studio, pensado para resolver problemas complejos de razonamiento.",

@@ -1404,5 +1404,28 @@
     "source_kind": "auto",
     "last_updated": "2026-09-28",
     "first_seen": "2026-09-28"
+  },
+  {
+    "title": "El plazo para resolver el conflicto portuario de TCP en Montevideo vence hoy, con 20 puntos ya acordados",
+    "what_happened": "El Ministerio de Trabajo uruguayo convocó una nueva instancia negociadora entre Terminal Cuenca del Plata (TCP) y el sindicato portuario SUPRA, con el objetivo de cerrar el convenio colectivo este lunes 28 de septiembre. Ya hay acuerdo en más de 20 puntos, pero persisten diferencias sobre la cantidad de jornales garantizados, las partidas económicas extraordinarias y la duración del convenio. Si no hay acuerdo, el sindicato amenaza con un paro nacional de 48 horas.",
+    "why_it_matters": "El desenlace de esta jornada define si se normaliza la principal terminal de contenedores de Uruguay, clave para buena parte de la carga de exportación e importación argentina que transita por Montevideo.",
+    "fixy_impact": "Los operadores que importan mercadería vía Montevideo deben seguir monitoreando tiempos de tránsito y tener rutas alternativas mientras no haya un acuerdo firme.",
+    "category": "Logística",
+    "geo": "LATAM",
+    "source_name": "Prensa Latina",
+    "source_url": "https://www.prensa-latina.cu/2026/09/28/instancia-negociadora-para-conflicto-portuario-en-uruguay/",
+    "published_date": "2026-09-28",
+    "priority": "alta",
+    "tags": [
+      "puerto Montevideo",
+      "TCP",
+      "paro",
+      "comercio exterior",
+      "Uruguay"
+    ],
+    "id": "nw-80a629f30e",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
   }
 ]

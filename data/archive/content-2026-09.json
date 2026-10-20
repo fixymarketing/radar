@@ -631,5 +631,35 @@
     "source_kind": "auto",
     "last_updated": "2026-09-18",
     "first_seen": "2026-09-18"
+  },
+  {
+    "topic": "El quick commerce redefine la velocidad de entrega en la región: ¿a qué ritmo va Argentina?",
+    "why_now": "El crecimiento de 62% en seis meses en LATAM, liderado por PedidosYa, es un dato fresco y contundente que todavía no se instaló como tema de agenda en la logística argentina.",
+    "fixy_angle": "Fixy puede mostrar qué implica operativamente sostener una entrega en minutos (densidad de puntos, picking, última milla) y por qué eso ya no es un nicho sino la nueva vara de comparación para todo el eCommerce.",
+    "formats": [
+      "LinkedIn",
+      "nota"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/america/agencias/2026/09/18/radiografia-del-quick-commerce-las-compras-de-supermercado-online-crecen-un-62-en-latinoamerica/",
+    "id": "ct-7901f102",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "topic": "Robots humanoides en el depósito: qué significa la apuesta de Mercado Libre para el resto de la logística argentina",
+    "why_now": "El acuerdo confirmado entre Mercado Libre y Agility Robotics es la primera vez que un marketplace de la región integra robots humanoides a su fulfillment de forma explícita, y eleva la vara de eficiencia que el ecosistema deberá igualar.",
+    "fixy_angle": "Fixy puede explicar, sin exagerar el corto plazo, qué tareas de un depósito mediano ya se pueden automatizar hoy con tecnología accesible y cuáles siguen siendo terreno exclusivo de los grandes jugadores.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "informativo",
+    "source_url": "https://www.iproup.com/innovacion/71442-mercado-libre-ya-prueba-agentes-de-ia-y-robots-para-entregas",
+    "id": "ct-a4fef0ec",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-19"
   }
 ]
