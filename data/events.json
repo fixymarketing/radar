@@ -172,7 +172,7 @@
     "date_start": "2026-11-02",
     "date_end": "2026-11-04",
     "date_confirmed": true,
-    "date_note": "Varias fuentes (Elonce, Universal Assistance) citan la confirmación de CACE para el lunes 2 al miércoles 4 de noviembre; el centro de ayuda y el blog de Tiendanube todavía muestran 3 al 5 de noviembre, probablemente desactualizados. Conviene validar en cybermonday.com.ar.",
+    "date_note": "Medios (Elonce, 24/09/2026; Turismocity; Universal Assistance) informan que CACE confirmó del lunes 2 al miércoles 4 de noviembre. Algunas páginas (p. ej. Tiendanube) muestran 3 al 5 de noviembre, que parece ser dato de la edición anterior. Conviene chequear cybermonday.com.ar.",
     "city": "Online",
     "province": "Buenos Aires",
     "country": "Argentina",
@@ -181,27 +181,17 @@
     "format": "virtual",
     "category": "eCommerce",
     "url": "https://www.cybermonday.com.ar",
-    "source_url": "https://www.elonce.com/uid-887093",
-    "description": "Evento de ofertas online de 72 horas organizado por CACE, con participación de miles de marcas y tiendas de todo el país.",
-    "fixy_relevance": "Es el primer gran pico de demanda de fulfillment y última milla del cierre de año: define la capacidad que Fixy tiene que tener lista para sus clientes de eCommerce.",
+    "source_url": "https://www.universal-assistance.com/uablog/cuando-es-el-cyber-monday/",
+    "description": "Evento de ofertas online de 72 horas organizado por CACE, del lunes 2 al miércoles 4 de noviembre de 2026. Algunas marcas extienden promociones del 5 al 8 de noviembre (Cyber Week), a criterio de cada una.",
+    "fixy_relevance": "Es el primer pico de volumen de la temporada alta, justo antes del Black Friday. Define la capacidad de picking, packing y última milla que Fixy tiene que tener lista y sirve para ofrecer cupos de fulfillment a tiendas.",
     "justification_type": null,
     "priority": "alta",
     "beyond_90": false,
     "id": "ev-cybermonday-2026",
     "source_kind": "auto",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-21",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-10-08",
-        "fields": [
-          "organizer",
-          "date_note",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-10-10",
         "fields": [
@@ -234,6 +224,15 @@
         "date": "2026-10-19",
         "fields": [
           "organizer",
+          "date_note",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-21",
+        "fields": [
           "date_note",
           "source_url",
           "description",

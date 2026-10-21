@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-20T12:07:13.464Z",
-  "last_updated_ar": "20/10/2026, 09:07",
-  "date": "2026-10-20",
+  "generated_at": "2026-10-21T12:14:37.298Z",
+  "last_updated_ar": "21/10/2026, 09:14",
+  "date": "2026-10-21",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Semana previa a CyberMonday: sin novedades fuertes hoy, arrancan TecWeek Buenos Aires y SAIACONF, y ChatGPT suma control de pestañas en Chrome.",
+  "summary_line": "Día tranquilo a dos semanas de CyberMonday, que CACE habría fijado del 2 al 4 de noviembre (fecha a confirmar en el sitio oficial); hoy arranca Mar del Plata Tech Week y Dispatch lanza un conector de IA para última milla.",
   "counters": {
     "news_today": 0,
     "news_total": 7,
-    "events_upcoming": 42,
-    "events_ar_upcoming": 27,
+    "events_upcoming": 41,
+    "events_ar_upcoming": 26,
     "events_intl_upcoming": 15,
     "events_later": 38,
     "opportunities_open": 8,
     "opportunities_today": 0,
     "ai_today": 1,
-    "ai_to_try": 64,
-    "content_ideas": 22,
+    "ai_to_try": 63,
+    "content_ideas": 20,
     "added_news": 0,
     "updated_news": 0,
     "added_events": 0,
-    "updated_events": 0,
+    "updated_events": 1,
     "added_ai": 1,
-    "archived": 7,
+    "archived": 3,
     "discarded_quality": 0
   },
   "next_event": {
@@ -38,28 +38,21 @@
       "kind": "news",
       "title": "Día de la Madre: las ventas pyme cayeron 1,4% interanual, la quinta baja consecutiva, pese a las promociones",
       "priority": "relevante",
-      "one_liner": "Lectura más fresca de la demanda a dos semanas del pico de CyberMonday."
-    },
-    {
-      "id": "ev-aires-buenos-tecweek-2026",
-      "kind": "event",
-      "title": "TecWeek Buenos Aires 2026",
-      "priority": "relevante",
-      "one_liner": "Arranca hoy en CABA con charlas de IA, fintech y tecnología aplicada que pueden servir para operaciones y comercial."
+      "one_liner": "Lectura más fresca de la demanda a dos semanas de CyberMonday."
     },
     {
       "id": "ev-mar-plata-tech-week-2026",
       "kind": "event",
       "title": "Mar del Plata Tech Week 2026",
       "priority": "relevante",
-      "one_liner": "Mañana empieza con CACE como coorganizador: buena ocasión para captar tiendas de la costa atlántica."
+      "one_liner": "Arranca hoy con CACE como coorganizador: buena ocasión para captar tiendas de la costa atlántica."
     },
     {
-      "id": "ai-openai-chatgpt-en-chrome-control-de-pestanas-y-chat-lateral",
+      "id": "ai-dispatch-dispatch-mcp-server",
       "kind": "ai",
-      "title": "ChatGPT en Chrome: control de pestañas y chat lateral",
-      "priority": "relevante",
-      "one_liner": "Puede cargar datos y completar formularios en portales de transportistas sin integración; conviene probarlo con tareas de bajo riesgo."
+      "title": "Dispatch MCP Server",
+      "priority": "informativo",
+      "one_liner": "Un operador de última milla expone cotización y tracking a asistentes de IA; sirve de modelo, sin cobertura confirmada en Argentina."
     }
   ]
 }

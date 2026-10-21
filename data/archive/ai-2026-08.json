@@ -66,5 +66,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-19",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "ChatGPT gratis sin límite de mensajes de texto y control de razonamiento",
+    "vendor": "OpenAI",
+    "what_it_is": "El plan gratuito de ChatGPT pasó a GPT-5.6 Luna con chats de texto ilimitados y acceso al botón 'Think' para razonamiento profundo. Plus y Pro recibieron GPT-5.6 Sol con un slider para controlar cuánto piensa el modelo.",
+    "what_changed": "Anunciado el 6 de agosto de 2026. Antes el plan gratuito tenía tope de mensajes y no accedía a razonamiento extendido. Siguen habiendo límites separados para archivos, imágenes y voz.",
+    "fixy_use": "Permite dar acceso a IA a todo el equipo sin pagar licencias para todos: los usos de texto de alto volumen, como redactar respuestas a clientes o resumir reclamos, ya entran en el plan gratuito. Reservar las licencias pagas para quienes trabajan con archivos y planillas. El slider en Plus sirve para bajar tiempo de respuesta en tareas simples.",
+    "verdict": "probar",
+    "verdict_reason": "Baja a casi cero el costo de que todo el equipo use IA a diario, que es el principal freno en una PyME.",
+    "categories": [
+      "Productividad",
+      "Gestión del tiempo",
+      "Management",
+      "Contenido"
+    ],
+    "pricing_note": "Freemium: GPT-5.6 Luna y Think sin costo en el plan Free; GPT-5.6 Sol y el slider en Plus/Pro.",
+    "source_url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "published_date": "2026-08-06",
+    "priority": "relevante",
+    "id": "ai-openai-chatgpt-gratis-sin-limite-de-mensajes-de-texto-y-cont",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
   }
 ]
