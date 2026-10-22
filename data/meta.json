@@ -1,58 +1,58 @@
 {
-  "generated_at": "2026-10-21T12:14:37.298Z",
-  "last_updated_ar": "21/10/2026, 09:14",
-  "date": "2026-10-21",
+  "generated_at": "2026-10-22T12:11:19.498Z",
+  "last_updated_ar": "22/10/2026, 09:11",
+  "date": "2026-10-22",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Día tranquilo a dos semanas de CyberMonday, que CACE habría fijado del 2 al 4 de noviembre (fecha a confirmar en el sitio oficial); hoy arranca Mar del Plata Tech Week y Dispatch lanza un conector de IA para última milla.",
+  "summary_line": "Día sin novedades verificables nuevas: a pocos días de CyberMonday (2 de noviembre, a confirmar) el foco sigue en la capacidad de fulfillment y en un consumo que se muestra débil.",
   "counters": {
     "news_today": 0,
     "news_total": 7,
-    "events_upcoming": 41,
-    "events_ar_upcoming": 26,
-    "events_intl_upcoming": 15,
+    "events_upcoming": 39,
+    "events_ar_upcoming": 25,
+    "events_intl_upcoming": 14,
     "events_later": 38,
     "opportunities_open": 8,
     "opportunities_today": 0,
-    "ai_today": 1,
-    "ai_to_try": 63,
-    "content_ideas": 20,
+    "ai_today": 0,
+    "ai_to_try": 62,
+    "content_ideas": 17,
     "added_news": 0,
     "updated_news": 0,
     "added_events": 0,
-    "updated_events": 1,
-    "added_ai": 1,
-    "archived": 3,
+    "updated_events": 0,
+    "added_ai": 0,
+    "archived": 4,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-money20-usa-2026",
-    "name": "Money20/20 USA 2026",
-    "date_start": "2026-10-18",
-    "city": "Las Vegas",
+    "id": "ev-rosario-techweek-2026",
+    "name": "Rosario TechWeek 2026",
+    "date_start": "2026-10-19",
+    "city": "Rosario",
     "days_away": 0
   },
   "highlights": [
+    {
+      "id": "ev-cybermonday-2026",
+      "kind": "event",
+      "title": "CyberMonday 2026",
+      "priority": "alta",
+      "one_liner": "Arranca el 2 de noviembre (fecha a confirmar en el sitio oficial de CACE): es el primer pico de volumen de la temporada alta."
+    },
     {
       "id": "nw-62ae07ac72",
       "kind": "news",
       "title": "Día de la Madre: las ventas pyme cayeron 1,4% interanual, la quinta baja consecutiva, pese a las promociones",
       "priority": "relevante",
-      "one_liner": "Lectura más fresca de la demanda a dos semanas de CyberMonday."
+      "one_liner": "Lectura más fresca de una demanda débil antes de CyberMonday y Black Friday."
     },
     {
-      "id": "ev-mar-plata-tech-week-2026",
+      "id": "ev-argentina-fintech-forum-2026",
       "kind": "event",
-      "title": "Mar del Plata Tech Week 2026",
-      "priority": "relevante",
-      "one_liner": "Arranca hoy con CACE como coorganizador: buena ocasión para captar tiendas de la costa atlántica."
-    },
-    {
-      "id": "ai-dispatch-dispatch-mcp-server",
-      "kind": "ai",
-      "title": "Dispatch MCP Server",
+      "title": "Argentina Fintech Forum 2026",
       "priority": "informativo",
-      "one_liner": "Un operador de última milla expone cotización y tracking a asistentes de IA; sirve de modelo, sin cobertura confirmada en Argentina."
+      "one_liner": "El 29 de octubre en el CEC; novedades de pagos que impactan en conversión y cobro contra entrega."
     }
   ]
 }

@@ -1865,30 +1865,6 @@
     "first_seen": "2026-08-20"
   },
   {
-    "name": "Workspace Studio: paso \"Add a source to Gemini Notebook\"",
-    "vendor": "Google",
-    "what_it_is": "Workspace Studio es el creador de automatizaciones recurrentes de Google Workspace, tipo Zapier pero nativo. El paso nuevo agrega automáticamente textos, archivos de Drive, URLs web o de YouTube como fuentes de un Gemini Notebook.",
-    "what_changed": "Empezó el rollout el 6 de agosto de 2026. Antes había que cargar cada fuente a mano en el notebook; ahora se alimenta solo desde un flujo automatizado.",
-    "fixy_use": "Armar un flujo que cada semana vuelque a un Gemini Notebook los reportes de operaciones, los reclamos y las actas de reunión, para después preguntarle qué reclamos se repitieron y en qué zonas. Alimentar un notebook de competencia con notas del sector para que Marketing tenga contexto sin leer todo. Sumar los procedimientos a un notebook de onboarding que se actualice solo.",
-    "verdict": "probar",
-    "verdict_reason": "Es automatización nativa de Workspace, sin herramienta ni licencia extra, y la mayoría de las PyMEs no sabe que existe.",
-    "categories": [
-      "Automatización",
-      "Organización",
-      "Productividad",
-      "Análisis",
-      "Operaciones"
-    ],
-    "pricing_note": "Pago: incluido en Workspace Business Starter/Standard/Plus y Enterprise con Gemini habilitado. Rollout gradual de hasta 15 días hábiles.",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/08/automatically-add-sources-to-your-Gemini-Notebooks-in-Workspace-Studio.html",
-    "published_date": "2026-08-07",
-    "priority": "relevante",
-    "id": "ai-google-workspace-studio-paso-add-a-source-to-gemini-notebook",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
     "name": "Dispatch MCP Server",
     "vendor": "Dispatch",
     "what_it_is": "Un servidor MCP alojado que conecta asistentes de IA como Claude o ChatGPT con la plataforma de última milla de Dispatch.",

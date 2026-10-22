@@ -691,5 +691,51 @@
     "source_kind": "auto",
     "last_updated": "2026-09-20",
     "first_seen": "2026-09-20"
+  },
+  {
+    "topic": "El dominio en riesgo: lo que Mercosur exige ahora a toda tienda online",
+    "why_now": "Es la primera vez que el bloque liga el cumplimiento de las reglas de protección al consumidor con la continuidad técnica del dominio de una tienda online, algo que la mayoría de las pymes todavía no conoce.",
+    "fixy_angle": "Fixy trabaja todos los días con tiendas online y puede traducir una norma técnica en un checklist práctico y accionable, reforzando su lugar de partner integral del eCommerce y no solo de la parte logística.",
+    "formats": [
+      "nota",
+      "LinkedIn",
+      "prensa"
+    ],
+    "priority": "alta",
+    "source_url": "https://www.argentina.gob.ar/noticias/mercosur-refuerza-la-proteccion-de-los-consumidores-en-el-comercio-electronico",
+    "id": "ct-89d781c9",
+    "source_kind": "auto",
+    "last_updated": "2026-09-21",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "topic": "Efecto MELI: qué significa para las pymes del interior que Mercado Libre ya sea el 1% del PBI",
+    "why_now": "El propio informe de Mercado Libre confirma que casi la mitad de sus vendedores pyme usó IA por primera vez y que el comercio sigue expandiéndose a más ciudades del interior, justo cuando ese es un territorio donde Fixy busca crecer.",
+    "fixy_angle": "Fixy puede mostrarse como el operador que ya está preparado para acompañar a esos vendedores nuevos del interior que recién arrancan a vender más y a usar herramientas de IA, antes de que lleguen otros operadores a esas plazas.",
+    "formats": [
+      "LinkedIn",
+      "artículo"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.cronista.com/finanzas-mercados/mercado-libre-ya-mueve-casi-el-1-del-pbi-argentino-que-esperar-para-la-accion/",
+    "id": "ct-9434dfce",
+    "source_kind": "auto",
+    "last_updated": "2026-09-21",
+    "first_seen": "2026-09-21"
+  },
+  {
+    "topic": "El quick commerce creció en 6 meses lo que en 3 años: qué última milla exige ese ritmo",
+    "why_now": "El comercio ultrarrápido creció 62% en América Latina en solo seis meses, un salto que ninguna marca puede ignorar aunque no compita directamente en ese segmento hoy.",
+    "fixy_angle": "Fixy puede explicar, con datos propios de tiempos de entrega y densidad de puntos de despacho, qué infraestructura necesita una marca que quiera subirse a la entrega ultrarrápida, mostrando expertise técnico aunque el segmento hoy lo lideren otros jugadores.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/america/agencias/2026/09/18/radiografia-del-quick-commerce-las-compras-de-supermercado-online-crecen-un-62-en-latinoamerica/",
+    "id": "ct-14d6fb7c",
+    "source_kind": "auto",
+    "last_updated": "2026-09-21",
+    "first_seen": "2026-09-21"
   }
 ]
