@@ -1,0 +1,25 @@
+[
+  {
+    "title": "TCP y el sindicato portuario firmaron un preacuerdo que pone fin al conflicto en el Puerto de Montevideo",
+    "what_happened": "Terminal Cuenca del Plata y el sindicato portuario (Supra) firmaron el miércoles 30 de septiembre, en la Dirección Nacional de Trabajo, un preacuerdo propuesto por el Poder Ejecutivo uruguayo. Los 197 trabajadores con 20 jornales mensuales garantizados pasarán a 21 desde el 1° de enero de 2027, y el convenio tendría cinco años de vigencia con cláusula de paz. El texto final todavía debe pasar por una asamblea de los trabajadores.",
+    "why_it_matters": "Si la asamblea lo ratifica, se despeja un conflicto que acumulaba más de cuatro meses de paros intermitentes en la principal terminal de contenedores de Uruguay, clave para el comercio exterior de la región.",
+    "fixy_impact": "Reduce el riesgo de demoras en importaciones y exportaciones que pasan por Montevideo; conviene seguir la ratificación en asamblea antes de dar por normalizados los plazos de stock importado.",
+    "category": "Logística",
+    "geo": "LATAM",
+    "source_name": "Radio Monte Carlo (Uruguay)",
+    "source_url": "https://www.radiomontecarlo.com.uy/2026/10/01/nacionales/sindicato-y-tcp-firmaron-la-propuesta-del-gobierno/",
+    "published_date": "2026-10-01",
+    "priority": "relevante",
+    "tags": [
+      "Puerto de Montevideo",
+      "TCP",
+      "paros",
+      "comercio exterior",
+      "Uruguay"
+    ],
+    "id": "nw-a3bbee79e2",
+    "source_kind": "auto",
+    "last_updated": "2026-10-03",
+    "first_seen": "2026-10-03"
+  }
+]

@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-22T12:11:19.498Z",
-  "last_updated_ar": "22/10/2026, 09:11",
-  "date": "2026-10-22",
+  "generated_at": "2026-10-23T12:15:23.256Z",
+  "last_updated_ar": "23/10/2026, 09:15",
+  "date": "2026-10-23",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Día sin novedades verificables nuevas: a pocos días de CyberMonday (2 de noviembre, a confirmar) el foco sigue en la capacidad de fulfillment y en un consumo que se muestra débil.",
+  "summary_line": "Día sin novedades verificables nuevas: el foco sigue en la preparación para CyberMonday (2 de noviembre, a confirmar) y en un consumo que se muestra débil.",
   "counters": {
     "news_today": 0,
-    "news_total": 7,
-    "events_upcoming": 39,
+    "news_total": 6,
+    "events_upcoming": 36,
     "events_ar_upcoming": 25,
-    "events_intl_upcoming": 14,
+    "events_intl_upcoming": 11,
     "events_later": 38,
     "opportunities_open": 8,
     "opportunities_today": 0,
     "ai_today": 0,
     "ai_to_try": 62,
-    "content_ideas": 17,
+    "content_ideas": 16,
     "added_news": 0,
     "updated_news": 0,
     "added_events": 0,
     "updated_events": 0,
     "added_ai": 0,
-    "archived": 4,
+    "archived": 3,
     "discarded_quality": 0
   },
   "next_event": {
@@ -38,14 +38,14 @@
       "kind": "event",
       "title": "CyberMonday 2026",
       "priority": "alta",
-      "one_liner": "Arranca el 2 de noviembre (fecha a confirmar en el sitio oficial de CACE): es el primer pico de volumen de la temporada alta."
+      "one_liner": "Arranca el 2 de noviembre (a confirmar en el sitio de CACE): primer pico de volumen de la temporada alta."
     },
     {
       "id": "nw-62ae07ac72",
       "kind": "news",
       "title": "Día de la Madre: las ventas pyme cayeron 1,4% interanual, la quinta baja consecutiva, pese a las promociones",
       "priority": "relevante",
-      "one_liner": "Lectura más fresca de una demanda débil antes de CyberMonday y Black Friday."
+      "one_liner": "Lectura fresca de una demanda débil antes de CyberMonday y Black Friday."
     },
     {
       "id": "ev-argentina-fintech-forum-2026",
