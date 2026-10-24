@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-23T12:15:23.256Z",
-  "last_updated_ar": "23/10/2026, 09:15",
-  "date": "2026-10-23",
+  "generated_at": "2026-10-24T12:07:30.934Z",
+  "last_updated_ar": "24/10/2026, 09:07",
+  "date": "2026-10-24",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Día sin novedades verificables nuevas: el foco sigue en la preparación para CyberMonday (2 de noviembre, a confirmar) y en un consumo que se muestra débil.",
+  "summary_line": "Día sin novedades verificables nuevas: el radar se mantiene con la agenda vigente y la cuenta regresiva hacia el CyberMonday (fecha a confirmar).",
   "counters": {
     "news_today": 0,
     "news_total": 6,
-    "events_upcoming": 36,
-    "events_ar_upcoming": 25,
-    "events_intl_upcoming": 11,
+    "events_upcoming": 32,
+    "events_ar_upcoming": 22,
+    "events_intl_upcoming": 10,
     "events_later": 38,
     "opportunities_open": 8,
     "opportunities_today": 0,
     "ai_today": 0,
     "ai_to_try": 62,
-    "content_ideas": 16,
+    "content_ideas": 15,
     "added_news": 0,
     "updated_news": 0,
     "added_events": 0,
@@ -26,33 +26,47 @@
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-rosario-techweek-2026",
-    "name": "Rosario TechWeek 2026",
-    "date_start": "2026-10-19",
-    "city": "Rosario",
+    "id": "ev-aires-buenos-tecweek-2026",
+    "name": "TecWeek Buenos Aires 2026",
+    "date_start": "2026-10-20",
+    "city": "Ciudad Autónoma de Buenos Aires",
     "days_away": 0
   },
   "highlights": [
     {
-      "id": "ev-cybermonday-2026",
-      "kind": "event",
-      "title": "CyberMonday 2026",
-      "priority": "alta",
-      "one_liner": "Arranca el 2 de noviembre (a confirmar en el sitio de CACE): primer pico de volumen de la temporada alta."
+      "id": "nw-74be7d3208",
+      "kind": "news",
+      "title": "Los comercios llegan al Día de la Madre más desafiante en años, con consumo flojo y menos financiamiento",
+      "priority": "relevante",
+      "one_liner": "Es la primera fecha comercial fuerte del último trimestre y marca el tono de la demanda antes de CyberMonday y Black Friday. Con consumo contenido, las tiendas van a competir más con descuentos y cuotas y van a ser más sensibles al costo y la velocidad del envío."
     },
     {
       "id": "nw-62ae07ac72",
       "kind": "news",
       "title": "Día de la Madre: las ventas pyme cayeron 1,4% interanual, la quinta baja consecutiva, pese a las promociones",
       "priority": "relevante",
-      "one_liner": "Lectura fresca de una demanda débil antes de CyberMonday y Black Friday."
+      "one_liner": "Confirma un consumo débil que prioriza regalos de menor valor, aun con promociones masivas. Es la lectura más fresca de la demanda antes de CyberMonday y Black Friday."
     },
     {
-      "id": "ev-argentina-fintech-forum-2026",
-      "kind": "event",
-      "title": "Argentina Fintech Forum 2026",
+      "id": "nw-4492c39592",
+      "kind": "news",
+      "title": "En Perú, la demanda de delivery podría crecer hasta 82% en el último trimestre por el pico de eCommerce",
       "priority": "informativo",
-      "one_liner": "El 29 de octubre en el CEC; novedades de pagos que impactan en conversión y cobro contra entrega."
+      "one_liner": "Muestra que el pico de fin de año presiona la última milla en toda la región y obliga a los operadores a planificar capacidad con anticipación. Es una referencia útil para dimensionar el CyberMonday y el Black Friday locales."
+    },
+    {
+      "id": "nw-953d95e8f2",
+      "kind": "news",
+      "title": "La acción de Mercado Libre subió más de 8% en Wall Street tras la primera vuelta presidencial en Brasil",
+      "priority": "informativo",
+      "one_liner": "Brasil es un mercado clave para el marketplace y para Mercado Pago, así que el escenario político brasileño incide en las expectativas sobre el mayor competidor regional de los operadores logísticos independientes."
+    },
+    {
+      "id": "nw-a4dfe99aea",
+      "kind": "news",
+      "title": "Comercio agéntico: la IA pasa de sugerir productos a decidir y ejecutar compras",
+      "priority": "informativo",
+      "one_liner": "Si la decisión de compra se traslada a agentes de IA, cambia cómo las tiendas son descubiertas y comparadas. Pasan a pesar más los datos de catálogo, el stock, los plazos de entrega y el costo de envío que la publicidad tradicional."
     }
   ]
 }

@@ -3254,5 +3254,44 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "SAIACONF 2026",
+    "organizer": "SAIA",
+    "date_start": "2026-10-20",
+    "date_end": "2026-10-20",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "country": "Argentina",
+    "venue": "BA Ferial, Centro Costa Salguero",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Tecnología",
+    "url": "https://saiaconf.ar/",
+    "source_url": "https://www.ambito.com/tecnologia/saiaconf-la-cumbre-innovacion-y-debate-inteligencia-artificial-argentina-n5876450",
+    "description": "Cuarta edición de SAIACONF, la conferencia nacional de inteligencia artificial organizada por la comunidad SAIA, con más de 40 oradores y foco en aplicaciones prácticas de IA.",
+    "fixy_relevance": "Punto de encuentro para ver casos reales de IA aplicada a operaciones y atención al cliente que Fixy podría adaptar a logística y fulfillment.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-saiaconf-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-19",
+    "first_seen": "2026-09-01",
+    "change_log": [
+      {
+        "date": "2026-09-19",
+        "fields": [
+          "organizer",
+          "city",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
   }
 ]

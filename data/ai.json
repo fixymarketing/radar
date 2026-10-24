@@ -1843,28 +1843,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "name": "ChatGPT Work en la app de escritorio unificada",
-    "vendor": "OpenAI",
-    "what_it_is": "La app de escritorio de ChatGPT que reúne en un solo lugar el chat, Codex, un navegador con capacidad de navegar solo por internet y el modo 'ChatGPT Work' pensado para tareas de oficina.",
-    "what_changed": "OpenAI discontinuó Atlas, su navegador con IA aparte, el 9 de agosto de 2026, y trasladó esa navegación agéntica (varias pestañas a la vez, completar formularios, iniciar sesión, descargar archivos) al navegador integrado de la app de escritorio de ChatGPT, unificando en un solo producto lo que antes eran productos separados.",
-    "fixy_use": "El equipo de Fixy puede pedirle a ChatGPT que navegue por su cuenta en portales de transportistas o marketplaces para chequear estados de envío, completar formularios repetitivos o bajar reportes, sin instalar un navegador aparte ni copiar y pegar datos a mano entre pestañas.",
-    "verdict": "seguir",
-    "verdict_reason": "Simplifica una tarea operativa concreta, pero conviene ver cómo madura antes de depender de ella para procesos críticos.",
-    "categories": [
-      "Operaciones",
-      "Automatización",
-      "Productividad"
-    ],
-    "pricing_note": "no confirmado — el navegador viene incluido en la app de escritorio de ChatGPT, no está claro si la navegación agéntica completa requiere un plan pago",
-    "source_url": "https://help.openai.com/en/articles/20001371-evolving-atlas-into-chatgpt-for-browser-based-agentic-work",
-    "published_date": "2026-08-09",
-    "priority": "relevante",
-    "id": "ai-openai-chatgpt-work-en-la-app-de-escritorio-unificada",
-    "source_kind": "auto",
-    "last_updated": "2026-08-24",
-    "first_seen": "2026-08-20"
-  },
-  {
     "name": "Dispatch MCP Server",
     "vendor": "Dispatch",
     "what_it_is": "Un servidor MCP alojado que conecta asistentes de IA como Claude o ChatGPT con la plataforma de última milla de Dispatch.",
