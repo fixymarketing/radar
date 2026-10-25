@@ -1820,29 +1820,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "name": "Sheets canvas: mini-apps con Gemini en Google Sheets",
-    "vendor": "Google",
-    "what_it_is": "Es una función de Gemini dentro de Google Sheets que arma, a partir de instrucciones en lenguaje natural, mini-aplicaciones interactivas tipo dashboard, tablero kanban, calendario o formulario que leen y escriben directo sobre los datos de la planilla.",
-    "what_changed": "Google amplió el despliegue a partir del 10 de agosto de 2026 (antes era una vista previa limitada): ya está disponible en inglés para todos los suscriptores de Google AI Pro y Ultra, y se está habilitando para cuentas de Workspace Business Standard, Business Plus y Enterprise Standard/Plus con las funciones inteligentes activadas.",
-    "fixy_use": "Permite armar, sin programar, un tablero interactivo sobre una planilla que ya usa el equipo para trackear pedidos o incidencias, por ejemplo un kanban de estados de envío o un panel de reclamos por cliente, que lee y actualiza directamente las filas de Sheets. Es útil para operaciones y atención al cliente que hoy dependen de planillas armadas a mano, sin necesidad de migrar a otra herramienta.",
-    "verdict": "probar",
-    "verdict_reason": "Si el equipo ya usa Sheets para seguimiento operativo, armar un mini-dashboard con un prompt es una prueba de bajo costo y alto impacto potencial.",
-    "categories": [
-      "Operaciones",
-      "Logística",
-      "Productividad",
-      "Análisis"
-    ],
-    "pricing_note": "freemium | incluido en Google AI Pro/Ultra y en planes Workspace Business/Enterprise con funciones inteligentes activadas, con límites de uso por usuario",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/08/use-google-sheets-canvas-to-visualize-data.html",
-    "published_date": "2026-08-10",
-    "priority": "relevante",
-    "id": "ai-google-sheets-canvas-mini-apps-con-gemini-en-google-sheets",
-    "source_kind": "auto",
-    "last_updated": "2026-08-23",
-    "first_seen": "2026-08-19"
-  },
-  {
     "name": "Dispatch MCP Server",
     "vendor": "Dispatch",
     "what_it_is": "Un servidor MCP alojado que conecta asistentes de IA como Claude o ChatGPT con la plataforma de última milla de Dispatch.",
@@ -2727,47 +2704,5 @@
     "source_kind": "auto",
     "last_updated": "2026-08-21",
     "first_seen": "2026-08-21"
-  },
-  {
-    "name": "Asientos Premium para ChatGPT Business",
-    "vendor": "OpenAI",
-    "what_it_is": "Una nueva categoría de licencia dentro de ChatGPT Business, pensada para las personas de un equipo que usan más intensamente el agente de ChatGPT (tareas largas tipo Agent o Workspace Agent conectadas a archivos y apps).",
-    "what_changed": "OpenAI lanzó el 10 de agosto de 2026 el asiento Premium a 125 USD por usuario por mes (100 USD facturado anual), que da 5 veces más uso que el asiento Standard (25 USD) y elimina el límite de 5 horas que hoy corta las tareas del agente a mitad de camino. Se pueden combinar asientos Standard y Premium en el mismo workspace.",
-    "fixy_use": "Si Fixy usa (o evalúa usar) ChatGPT Business en equipo, esto sirve puntualmente para la persona que más lo exprime para tareas largas: por ejemplo management armando un informe mensual completo cruzando varias fuentes, o comercial generando propuestas extensas para clientes grandes, sin que el chat se corte a mitad de tarea por el límite de horas.",
-    "verdict": "no_prioritario",
-    "verdict_reason": "Es un cambio de plan/precio más que una capacidad nueva, y para un equipo chico probablemente alcance con los asientos Standard o el plan Plus actual.",
-    "categories": [
-      "Productividad",
-      "Management"
-    ],
-    "pricing_note": "pago: asiento Premium 125 USD/usuario/mes (100 USD facturado anual) sobre el Standard existente de 25 USD/usuario/mes",
-    "source_url": "https://openai.com/index/premium-seats-chatgpt-business/",
-    "published_date": "2026-08-10",
-    "priority": "informativo",
-    "id": "ai-openai-asientos-premium-para-chatgpt-business",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "name": "ElevenLabs Dubbing v2 API",
-    "vendor": "ElevenLabs",
-    "what_it_is": "Una API de doblaje automático que traduce audio o video a otro idioma conservando la voz, la emoción y el ritmo de quien habla, con soporte para más de 90 idiomas y sincronización de inicios y finales de frase con el audio original.",
-    "what_changed": "ElevenLabs liberó el 10 de agosto de 2026 el acceso vía API a su modelo Dubbing v2 (presentado en mayo con interfaz propia), permitiendo integrarlo directamente en productos y flujos de trabajo propios en vez de usar solo la web de ElevenLabs.",
-    "fixy_use": "Le sirve al equipo de contenido si Fixy produce videos explicativos o institucionales (onboarding de nuevos clientes, tutoriales de uso del panel de seguimiento) y quiere ofrecer versiones en otro idioma —por ejemplo portugués, para clientes que venden a Brasil vía Mercado Libre Full— sin recontratar locución. No es una prioridad operativa, pero es una herramienta barata de tener anotada para cuando surja esa necesidad puntual de contenido multilingüe.",
-    "verdict": "no_prioritario",
-    "verdict_reason": "Es útil solo si Fixy necesita contenido en otro idioma, algo que hoy no es una necesidad central del negocio.",
-    "categories": [
-      "Contenido",
-      "Marketing"
-    ],
-    "pricing_note": "pago — por uso vía API, consumo de créditos ElevenLabs según minutos procesados",
-    "source_url": "https://elevenlabs.io/blog/dubbing-api",
-    "published_date": "2026-08-10",
-    "priority": "informativo",
-    "id": "ai-elevenlabs-elevenlabs-dubbing-v2-api",
-    "source_kind": "auto",
-    "last_updated": "2026-08-25",
-    "first_seen": "2026-08-25"
   }
 ]

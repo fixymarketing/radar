@@ -465,57 +465,6 @@
   },
   {
     "scope": "intl",
-    "name": "Money20/20 USA 2026",
-    "organizer": "Money20/20",
-    "date_start": "2026-10-18",
-    "date_end": "2026-10-21",
-    "date_confirmed": true,
-    "date_note": "El domingo 18 son cumbres de contenido; el piso de exposición abre el lunes 19 y cierra el miércoles 21 al mediodía.",
-    "city": "Las Vegas",
-    "province": null,
-    "country": "Estados Unidos",
-    "venue": "The Venetian",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Pagos y Fintech",
-    "url": "https://us.money2020.com",
-    "source_url": "https://www.openbankingtracker.com/events/money2020-usa-2026",
-    "description": "Principal encuentro global de pagos y fintech, en The Venetian de Las Vegas.",
-    "fixy_relevance": "Aprendizaje sobre pagos y comercio agéntico; costo y distancia lo hacen poco probable como viaje, útil como seguimiento de tendencias.",
-    "justification_type": "aprendizaje",
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-money20-usa-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-10-13",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-09-06",
-        "fields": [
-          "venue",
-          "venue_confirmed",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
-      {
-        "date": "2026-10-13",
-        "fields": [
-          "date_note",
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "intl",
     "name": "eRetail Day Panamá 2026",
     "organizer": "eCommerce Institute y Connecta B2B",
     "date_start": "2026-10-22",
@@ -1998,33 +1947,6 @@
         ]
       }
     ]
-  },
-  {
-    "scope": "ar",
-    "name": "IE Venture Day Buenos Aires 2026",
-    "organizer": "Cancillería Argentina (DNTEC), Ministerio de Desarrollo Económico de la Ciudad de Buenos Aires, IE University y South Summit",
-    "date_start": "2026-10-21",
-    "date_end": "2026-10-21",
-    "date_confirmed": true,
-    "date_note": "Se realiza en el marco de TecWeek Buenos Aires 2026, pero es una competencia con organizadores, marca e inscripción propios (aplicaciones hasta el 20/09/2026).",
-    "city": "Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
-    "country": "Argentina",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
-    "format": "presencial",
-    "category": "Emprendimiento",
-    "url": "https://www.competition.southsummit.io/calls/ie_venture_day",
-    "source_url": "https://idep.gov.ar/noticias/ie-venture-day-buenos-aires-2026-un-evento-para-potenciar-a-las-nuevas-startups/",
-    "description": "Competencia de pitch para startups en etapa de crecimiento; hasta 10 finalistas compiten presencialmente ante inversores por un lugar en la final de South Summit Madrid o Brasil 2027.",
-    "fixy_relevance": "Permite detectar startups emergentes de eCommerce, logística o fintech que podrían ser futuros clientes, socios tecnológicos o competidores, y da acceso a inversores activos en el ecosistema.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-aires-buenos-day-ie-venture-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-01",
-    "first_seen": "2026-09-01"
   },
   {
     "scope": "intl",
