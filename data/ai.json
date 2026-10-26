@@ -1775,51 +1775,6 @@
     "first_seen": "2026-08-19"
   },
   {
-    "name": "n8n 2.35: Agent Builder con test runs y human-in-the-loop",
-    "vendor": "n8n",
-    "what_it_is": "n8n es una plataforma de automatización visual, autohospedable, que compite con Zapier y Make y además permite armar agentes de IA. Agent Builder es su constructor de agentes.",
-    "what_changed": "La versión 2.35.0, del 11 de agosto de 2026, agregó test runs del Agent Builder con soporte human-in-the-loop, conteo local de tokens y mejoras en MCP. La 2.34.0 se centró en confiabilidad de ejecución.",
-    "fixy_use": "Armar un agente que reciba los pedidos de envío por mail o formulario, valide dirección y código postal, y los cargue al sistema, con aprobación humana obligatoria antes de despachar. Automatizar el aviso proactivo al cliente cuando un envío pasa cierta cantidad de horas sin movimiento. Al ser autohospedable, es la opción más barata para volúmenes altos.",
-    "verdict": "probar",
-    "verdict_reason": "El test run con aprobación humana es lo que faltaba para poner un agente en un proceso operativo real sin miedo a que despache algo mal.",
-    "categories": [
-      "Automatización",
-      "Operaciones",
-      "Logística",
-      "Productividad"
-    ],
-    "pricing_note": "Freemium: Community Edition autohospedada gratis; n8n Cloud es pago por ejecuciones.",
-    "source_url": "https://releasebot.io/updates/n8n",
-    "published_date": "2026-08-11",
-    "priority": "relevante",
-    "id": "ai-n8n-n8n-2-35-agent-builder-con-test-runs-y-human-in-the-loop",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "name": "Importación mejorada de Excel en Google Sheets (tablas y tablas dinámicas vinculadas)",
-    "vendor": "Google Workspace",
-    "what_it_is": "Una mejora de Google Sheets que convierte los archivos de Excel al importarlos: las tablas de Excel pasan a ser tablas nativas de Sheets, y las tablas dinámicas (pivot) que están basadas en rangos de tabla se importan como tablas dinámicas interactivas y conectadas a los datos, en vez de quedar como una foto estática de números.",
-    "what_changed": "Antes, al subir un Excel con tablas dinámicas a Sheets, éstas se rompían y quedaban como valores fijos sin poder filtrarse ni actualizarse. Google lo solucionó y empezó a distribuirlo el 11 de agosto de 2026 para todas las cuentas de Workspace y personales, sin que haya que activar nada.",
-    "fixy_use": "Fixy recibe todo el tiempo reportes en Excel de couriers (Andreani, OCA, Correo Argentino) y de marketplaces con tablas dinámicas de volúmenes, SLA o devoluciones. Ahora esos archivos se pueden pasar a Sheets y seguir filtrando y cruzando datos en vivo, sin tener que rearmar la tabla dinámica a mano cada vez que operaciones o management quiere ver el reporte semanal.",
-    "verdict": "probar",
-    "verdict_reason": "Es gratis, no requiere configuración y ahorra un trabajo manual repetitivo que hoy seguramente hace alguien de operaciones o análisis.",
-    "categories": [
-      "Análisis",
-      "Operaciones",
-      "Productividad"
-    ],
-    "pricing_note": "gratis (incluido en Google Workspace y cuentas personales de Sheets, sin costo adicional)",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/08/improved-file-import-google-sheets-tables.html",
-    "published_date": "2026-08-11",
-    "priority": "relevante",
-    "id": "ai-google-workspace-importacion-mejorada-de-excel-en-google-she",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
     "name": "Dispatch MCP Server",
     "vendor": "Dispatch",
     "what_it_is": "Un servidor MCP alojado que conecta asistentes de IA como Claude o ChatGPT con la plataforma de última milla de Dispatch.",
@@ -2683,26 +2638,5 @@
     "source_kind": "auto",
     "last_updated": "2026-08-20",
     "first_seen": "2026-08-20"
-  },
-  {
-    "name": "Grok Bot (agentes con computadora propia)",
-    "vendor": "xAI",
-    "what_it_is": "Es una aplicación de xAI que convierte a Grok en un equipo de agentes autónomos, cada uno con su propia computadora en la nube que inicia sesión en aplicaciones web (Gmail, CRMs, sitios) tomando capturas de pantalla y manejando mouse y teclado, igual que lo haría una persona, sin necesidad de integraciones por API.",
-    "what_changed": "xAI abrió la beta el 11 de agosto de 2026, integrada dentro de las suscripciones SuperGrok Heavy, Cursor Ultra y Cursor Teams Premium, coincidiendo con la fusión de xAI con la startup Cursor.",
-    "fixy_use": "Es un anticipo de hacia dónde va la automatización de tareas repetitivas en apps sin API propia, como actualizar un estado de pedido en un panel web o completar una planilla online, sin necesitar desarrollo técnico. Hoy no conviene adoptarlo en Fixy porque es beta cerrada, atado a suscripciones de programación (Cursor) y sin plan pensado para pymes.",
-    "verdict": "seguir",
-    "verdict_reason": "La idea de agentes que operan cualquier aplicación sin integración por API es prometedora para automatizar tareas manuales, pero hoy es una beta cerrada orientada a equipos de desarrollo, no a pymes.",
-    "categories": [
-      "Automatización",
-      "Operaciones"
-    ],
-    "pricing_note": "no confirmado — incluido dentro de suscripciones SuperGrok Heavy, Cursor Ultra o Cursor Teams Premium; sin plan independiente anunciado",
-    "source_url": "https://www.unite.ai/xai-launches-grok-bot-always-on-ai-teammates-with-their-own-cloud-computers/",
-    "published_date": "2026-08-11",
-    "priority": "informativo",
-    "id": "ai-xai-grok-bot-agentes-con-computadora-propia",
-    "source_kind": "auto",
-    "last_updated": "2026-08-21",
-    "first_seen": "2026-08-21"
   }
 ]

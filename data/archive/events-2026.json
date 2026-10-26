@@ -3371,5 +3371,142 @@
     "source_kind": "auto",
     "last_updated": "2026-09-01",
     "first_seen": "2026-09-01"
+  },
+  {
+    "scope": "intl",
+    "name": "eRetail Day Panamá 2026",
+    "organizer": "eCommerce Institute y Connecta B2B",
+    "date_start": "2026-10-22",
+    "date_end": "2026-10-22",
+    "date_confirmed": true,
+    "date_note": "Fecha y sede surgen de una sola fuente secundaria; conviene confirmar en el sitio oficial.",
+    "city": "Ciudad de Panamá",
+    "province": null,
+    "country": "Panamá",
+    "venue": "Hotel Sheraton Grand Panamá",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "eCommerce",
+    "url": "https://www.eretailday.com",
+    "source_url": "https://ecosistemastartup.com/?p=116376",
+    "description": "10.ª edición en Panamá del eRetail Day Latam, edición Centroamérica 2026, centrada en retail digital y comercio electrónico.",
+    "fixy_relevance": "Panamá es hub logístico regional; posible networking con actores de eCommerce y logística para expansión regional.",
+    "justification_type": "expansión regional",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-day-eretail-panama-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-10-13",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-08-20",
+        "fields": [
+          "organizer",
+          "date_note",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type"
+        ]
+      },
+      {
+        "date": "2026-10-13",
+        "fields": [
+          "organizer",
+          "date_note",
+          "venue",
+          "venue_confirmed",
+          "category",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "intl",
+    "name": "TOC Americas 2026",
+    "organizer": "Informa Markets (TOC Worldwide)",
+    "date_start": "2026-10-20",
+    "date_end": "2026-10-22",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Cartagena",
+    "province": null,
+    "country": "Colombia",
+    "venue": "Centro de Convenciones Cartagena de Indias (CCCI)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.tocevents-americas.com/sp/home.html",
+    "source_url": "https://www.mundomaritimo.cl/noticias/toc-americas-2026-reunira-a-lideres-y-debates-clave-de-la-cadena-de-suministro-de-contenedores",
+    "description": "Actualización de ficha ya cargada: se confirmó el rango completo de fechas (20 al 22 de octubre) y el venue exacto. Es el principal encuentro de las Américas para la industria portuaria, naviera y de terminales de contenedores, con más de 1.800 profesionales de 60 países esperados bajo los ejes CSC Live y TECH TOC.",
+    "fixy_relevance": "Reúne a operadores portuarios, navieras y terminales que definen tiempos y costos de importación/exportación; útil para anticipar cambios en la cadena logística internacional que afectan el abastecimiento de los eCommerce que Fixy atiende, y para hacer networking con actores de comercio exterior de la región.",
+    "justification_type": "networking",
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-americas-toc-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-08-22",
+    "change_log": [
+      {
+        "date": "2026-09-13",
+        "fields": [
+          "venue",
+          "venue_confirmed",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "intl",
+    "name": "FILCE 2026 (Feria Internacional de Logística, Comercio Exterior y E-Commerce)",
+    "organizer": "TMI Logistics Group, en alianza con APLOG A.G.",
+    "date_start": "2026-10-21",
+    "date_end": "2026-10-22",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Santiago (Las Condes)",
+    "province": null,
+    "country": "Chile",
+    "venue": "CentroParque, Parque Araucano",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.filce.cl/",
+    "source_url": "https://www.agendalogistica.cl/filce-2026/1847262",
+    "description": "Feria chilena que reúne en un mismo espacio a la logística, el comercio exterior y el e-commerce, con foco en inteligencia artificial, ciberseguridad y transformación digital de la cadena de suministro.",
+    "fixy_relevance": "Es el punto de encuentro más relevante del ecosistema logístico chileno, con cargadores, proveedores tecnológicos y actores de comercio exterior; útil para evaluar un viaje de relevamiento o alianzas de cara a una eventual expansión de Fixy en Chile.",
+    "justification_type": "expansión regional",
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-comercio-commerce-exterior-feria-filce-internaci-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-08-29",
+    "change_log": [
+      {
+        "date": "2026-09-05",
+        "fields": [
+          "organizer",
+          "city",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   }
 ]

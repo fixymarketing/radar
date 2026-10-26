@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T12:06:25.932Z",
-  "last_updated_ar": "25/10/2026, 09:06",
-  "date": "2026-10-25",
+  "generated_at": "2026-10-26T12:27:52.781Z",
+  "last_updated_ar": "26/10/2026, 09:27",
+  "date": "2026-10-26",
   "run_status": "ok",
   "run_errors": [],
   "summary_line": "Día sin novedades verificables nuevas: el radar mantiene la agenda vigente y la cuenta regresiva hacia el CyberMonday (2 al 4 de noviembre, confirmado por CACE).",
@@ -15,14 +15,14 @@
     "opportunities_open": 8,
     "opportunities_today": 0,
     "ai_today": 0,
-    "ai_to_try": 61,
-    "content_ideas": 12,
+    "ai_to_try": 59,
+    "content_ideas": 9,
     "added_news": 0,
     "updated_news": 0,
     "added_events": 0,
     "updated_events": 0,
     "added_ai": 0,
-    "archived": 8,
+    "archived": 9,
     "discarded_quality": 0
   },
   "next_event": {
@@ -38,7 +38,7 @@
       "kind": "news",
       "title": "Los comercios llegan al Día de la Madre más desafiante en años, con consumo flojo y menos financiamiento",
       "priority": "relevante",
-      "one_liner": "Es la primera fecha comercial fuerte del último trimestre y marca el tono de la demanda antes de CyberMonday y Black Friday. Con consumo contenido, las tiendas van a competir más con descuentos y cuotas y van a ser más sensibles al costo y la velocidad del env"
+      "one_liner": "Es la primera fecha comercial fuerte del último trimestre y marca el tono de la demanda antes de CyberMonday y Black Friday. Con consumo contenido, las tiendas van a competir más con descuentos y cuotas y van a ser más sensibles al costo y la velocidad del envío."
     },
     {
       "id": "nw-62ae07ac72",
