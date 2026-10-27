@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-26T12:27:52.781Z",
-  "last_updated_ar": "26/10/2026, 09:27",
-  "date": "2026-10-26",
+  "generated_at": "2026-10-27T12:12:52.619Z",
+  "last_updated_ar": "27/10/2026, 09:12",
+  "date": "2026-10-27",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Día sin novedades verificables nuevas: el radar mantiene la agenda vigente y la cuenta regresiva hacia el CyberMonday (2 al 4 de noviembre, confirmado por CACE).",
+  "summary_line": "Día sin novedades verificables nuevas: el radar mantiene la agenda vigente y la cuenta regresiva hacia el CyberMonday (2 al 4 de noviembre).",
   "counters": {
     "news_today": 0,
-    "news_total": 6,
+    "news_total": 5,
     "events_upcoming": 32,
     "events_ar_upcoming": 22,
     "events_intl_upcoming": 10,
@@ -15,14 +15,14 @@
     "opportunities_open": 8,
     "opportunities_today": 0,
     "ai_today": 0,
-    "ai_to_try": 59,
-    "content_ideas": 9,
+    "ai_to_try": 57,
+    "content_ideas": 7,
     "added_news": 0,
     "updated_news": 0,
-    "added_events": 0,
+    "added_events": 1,
     "updated_events": 0,
     "added_ai": 0,
-    "archived": 9,
+    "archived": 10,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,39 +34,25 @@
   },
   "highlights": [
     {
-      "id": "nw-74be7d3208",
-      "kind": "news",
-      "title": "Los comercios llegan al Día de la Madre más desafiante en años, con consumo flojo y menos financiamiento",
+      "id": "ev-cybermonday-2026",
+      "kind": "event",
+      "title": "CyberMonday 2026",
+      "priority": "alta",
+      "one_liner": "Arranca el lunes 2 de noviembre: es el primer pico de volumen de la temporada alta y define la capacidad de picking, packing y última milla."
+    },
+    {
+      "id": "ev-argentina-fintech-forum-2026",
+      "kind": "event",
+      "title": "Argentina Fintech Forum 2026",
       "priority": "relevante",
-      "one_liner": "Es la primera fecha comercial fuerte del último trimestre y marca el tono de la demanda antes de CyberMonday y Black Friday. Con consumo contenido, las tiendas van a competir más con descuentos y cuotas y van a ser más sensibles al costo y la velocidad del envío."
+      "one_liner": "Esta semana: novedades en medios de pago y contracargos que impactan el cobro contra entrega de las tiendas."
     },
     {
-      "id": "nw-62ae07ac72",
-      "kind": "news",
-      "title": "Día de la Madre: las ventas pyme cayeron 1,4% interanual, la quinta baja consecutiva, pese a las promociones",
+      "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
+      "kind": "ai",
+      "title": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
       "priority": "relevante",
-      "one_liner": "Confirma un consumo débil que prioriza regalos de menor valor, aun con promociones masivas. Es la lectura más fresca de la demanda antes de CyberMonday y Black Friday."
-    },
-    {
-      "id": "nw-4492c39592",
-      "kind": "news",
-      "title": "En Perú, la demanda de delivery podría crecer hasta 82% en el último trimestre por el pico de eCommerce",
-      "priority": "informativo",
-      "one_liner": "Muestra que el pico de fin de año presiona la última milla en toda la región y obliga a los operadores a planificar capacidad con anticipación. Es una referencia útil para dimensionar el CyberMonday y el Black Friday locales."
-    },
-    {
-      "id": "nw-953d95e8f2",
-      "kind": "news",
-      "title": "La acción de Mercado Libre subió más de 8% en Wall Street tras la primera vuelta presidencial en Brasil",
-      "priority": "informativo",
-      "one_liner": "Brasil es un mercado clave para el marketplace y para Mercado Pago, así que el escenario político brasileño incide en las expectativas sobre el mayor competidor regional de los operadores logísticos independientes."
-    },
-    {
-      "id": "nw-a4dfe99aea",
-      "kind": "news",
-      "title": "Comercio agéntico: la IA pasa de sugerir productos a decidir y ejecutar compras",
-      "priority": "informativo",
-      "one_liner": "Si la decisión de compra se traslada a agentes de IA, cambia cómo las tiendas son descubiertas y comparadas. Pasan a pesar más los datos de catálogo, el stock, los plazos de entrega y el costo de envío que la publicidad tradicional."
+      "one_liner": "Conviene medir cuántos mensajes de servicio manda Fixy por WhatsApp para ver el impacto en costos."
     }
   ]
 }

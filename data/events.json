@@ -1,85 +1,6 @@
 [
   {
     "scope": "ar",
-    "name": "Rosario TechWeek 2026",
-    "organizer": "Rosario Tech Week",
-    "date_start": "2026-10-19",
-    "date_end": "2026-10-23",
-    "date_confirmed": true,
-    "date_note": "Una página de agenda de terceros menciona el 23/09, pero el listado oficial en Luma indica del 19 al 23 de octubre.",
-    "city": "Rosario",
-    "province": "Santa Fe",
-    "country": "Argentina",
-    "venue": "Sedes distribuidas en distintos espacios de Rosario (formato descentralizado)",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Tecnología",
-    "url": "https://luma.com/zmvln80p",
-    "source_url": "https://luma.com/zmvln80p",
-    "description": "Segunda edición de una semana de eventos de tecnología, startups e innovación en Rosario, con actividades en distintas sedes.",
-    "fixy_relevance": "Ocasión de networking con el polo tecnológico rosarino y con tiendas y desarrolladores del interior que pueden necesitar logística.",
-    "justification_type": null,
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-rosario-techweek-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-10-13",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-09-16",
-        "fields": [
-          "venue",
-          "venue_confirmed",
-          "format",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
-      {
-        "date": "2026-09-18",
-        "fields": [
-          "organizer",
-          "venue",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
-      {
-        "date": "2026-10-08",
-        "fields": [
-          "organizer",
-          "date_note",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-10-12",
-        "fields": [
-          "date_note",
-          "url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-10-13",
-        "fields": [
-          "organizer",
-          "date_note",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
     "name": "TecWeek Buenos Aires 2026",
     "organizer": "Gobierno de la Ciudad de Buenos Aires",
     "date_start": "2026-10-20",
@@ -918,33 +839,6 @@
   },
   {
     "scope": "ar",
-    "name": "Bootcamp Empresarial Mendoza 2026",
-    "organizer": "Gobierno de Mendoza y Unión Industrial Joven de Mendoza (UIM)",
-    "date_start": "2026-10-23",
-    "date_end": "2026-10-23",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Mendoza",
-    "province": "Mendoza",
-    "country": "Argentina",
-    "venue": "Hotel Sheraton Mendoza",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Emprendimiento",
-    "url": "https://bootcampempresarial.mendozaeventos.com.ar",
-    "source_url": "https://ecocuyo.com/nota/150436/el-bootcamp-empresarial-mendoza-se-prepara-para-reunir-a-700-lideres-de-la-region",
-    "description": "Tercera edición del encuentro público-privado que reúne a 700 empresarios, directivos y emprendedores de la región de Cuyo bajo el lema 'Una nueva agenda para el crecimiento', con Mario Pergolini y Alejandro Melamed entre los expositores.",
-    "fixy_relevance": "Espacio de networking con empresas y comercios de Cuyo que podrían tercerizar fulfillment y última milla al expandir su venta online hacia esa región del país.",
-    "justification_type": null,
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-bootcamp-empresarial-mendoza-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-19",
-    "first_seen": "2026-08-19"
-  },
-  {
-    "scope": "ar",
     "name": "Emprendimiento Argentino 2026 (Final Nacional)",
     "organizer": "Secretaría de Industria, Comercio y la Pequeña y Mediana Empresa – Ministerio de Economía de la Nación",
     "date_start": "2026-11-19",
@@ -1660,33 +1554,6 @@
     "source_kind": "auto",
     "last_updated": "2026-08-26",
     "first_seen": "2026-08-26"
-  },
-  {
-    "scope": "intl",
-    "name": "Last Mile Delivery Conference & Expo 2026",
-    "organizer": "Por confirmar",
-    "date_start": "2026-10-22",
-    "date_end": "2026-10-23",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Las Vegas",
-    "province": null,
-    "country": "Estados Unidos",
-    "venue": "Horseshoe Las Vegas",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Logística",
-    "url": "https://lmdconference.com/",
-    "source_url": "https://fleetinsights.emkay.com/events/2026-last-mile-delivery-conference-and-expo-las-vegas",
-    "description": "Conferencia y expo dedicada exclusivamente a la última milla: reúne a retailers, eCommerce, operadores logísticos, flotas y proveedores de tecnología de entrega para debatir innovación y casos de uso en delivery.",
-    "fixy_relevance": "Es uno de los pocos eventos globales enfocados al 100% en última milla, el corazón del negocio de Fixy; permite relevar tecnología de ruteo, flotas y experiencia de entrega aplicable en Argentina.",
-    "justification_type": "aprendizaje",
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-conference-delivery-last-mile-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-27",
-    "first_seen": "2026-08-27"
   },
   {
     "scope": "intl",
@@ -3025,44 +2892,6 @@
     "first_seen": "2026-10-05"
   },
   {
-    "scope": "ar",
-    "name": "Impulso 360 Rosario 2026",
-    "organizer": "Wootic y Poliedro",
-    "date_start": "2026-10-23",
-    "date_end": "2026-10-23",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Rosario",
-    "province": "Santa Fe",
-    "country": "Argentina",
-    "venue": "Tecnoteca Rosario",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Marketing",
-    "url": "https://www.criptonoticias.com/calendario-eventos/impulso-360-rosario-2026/",
-    "source_url": "https://www.criptonoticias.com/calendario-eventos/impulso-360-rosario-2026/",
-    "description": "Jornada de 9:00 a 16:30 dentro de la Rosario Tech Week, organizada por Wootic y Poliedro.",
-    "fixy_relevance": "Permite captar pymes y emprendedores de Rosario en el marco de la semana tecnológica.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-impulso-rosario-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-10-13",
-    "first_seen": "2026-10-12",
-    "change_log": [
-      {
-        "date": "2026-10-13",
-        "fields": [
-          "organizer",
-          "category",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
     "scope": "intl",
     "name": "Freightcamp LATAM 2027",
     "organizer": "Freightcamp (Pangea Network / Panco Group)",
@@ -3115,5 +2944,32 @@
     "source_kind": "auto",
     "last_updated": "2026-10-15",
     "first_seen": "2026-10-15"
+  },
+  {
+    "scope": "ar",
+    "name": "Finance Security Forum Buenos Aires 2026",
+    "organizer": "Finance Security Forum",
+    "date_start": "2026-11-13",
+    "date_end": "2026-11-13",
+    "date_confirmed": false,
+    "date_note": "Fecha tomada de una única fuente (agenda de CriptoNoticias, que aclara que puede haber cambios); no se encontró el sitio oficial del organizador.",
+    "city": "Ciudad de Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "country": "Argentina",
+    "venue": "Edificio Plaza Galicia",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Pagos y Fintech",
+    "url": "https://www.criptonoticias.com/calendario-eventos/finance-security-forum/",
+    "source_url": "https://www.criptonoticias.com/calendario-eventos/finance-security-forum/",
+    "description": "Foro dirigido a bancos, fintechs y empresas del ecosistema cripto, con foco en fraudes potenciados por IA e identidad digital. El acceso es por invitación o entrada sujeta a perfil.",
+    "fixy_relevance": "Sirve para entender cómo evoluciona el fraude en pagos online, un tema que afecta a las tiendas que Fixy atiende y a los contrarreembolsos.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-aires-buenos-finance-forum-security-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-10-27",
+    "first_seen": "2026-10-27"
   }
 ]

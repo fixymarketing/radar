@@ -1,35 +1,5 @@
 [
   {
-    "topic": "Cuando tercerizar transporte sale caro: qué mostró el bloqueo de Camioneros en Arrecifes",
-    "why_now": "Es un caso concreto y de esta semana, con una empresa parada 48 horas por un reclamo de tercerización de choferes.",
-    "fixy_angle": "Fixy puede posicionarse como una voz que conoce de primera mano los riesgos gremiales de la tercerización de transporte y cómo blindarse contractualmente.",
-    "formats": [
-      "LinkedIn",
-      "nota"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/politica/2026/09/25/el-sindicato-de-camioneros-mantiene-bloqueada-desde-hace-48-horas-una-empresa-en-arrecifes-y-denunciaron-que-hay-amenazas/",
-    "id": "ct-c1759d36",
-    "source_kind": "auto",
-    "last_updated": "2026-09-26",
-    "first_seen": "2026-09-26"
-  },
-  {
-    "topic": "La IA que ya no solo responde: lo que significan ChatGPT Voice agéntico y el Copilot Autopilot de Microsoft para un equipo chico",
-    "why_now": "Las dos novedades se anunciaron esta misma semana y apuntan a lo mismo: que la IA ejecute tareas completas sin supervisión constante, algo directamente aprovechable por un equipo chico como el de Fixy.",
-    "fixy_angle": "Mostrar casos de uso concretos de management y operaciones delegando tareas por voz o dejando un agente trabajando en segundo plano, sin perder el control humano de las decisiones.",
-    "formats": [
-      "LinkedIn",
-      "Reel"
-    ],
-    "priority": "informativo",
-    "source_url": "https://news.microsoft.com/source/emea/features/microsoft-presenta-el-nuevo-copilot-con-home-code-y-autopilot/?lang=es",
-    "id": "ct-1a356ac0",
-    "source_kind": "auto",
-    "last_updated": "2026-09-26",
-    "first_seen": "2026-09-26"
-  },
-  {
     "topic": "El bloqueo de Camioneros en Arrecifes, en criollo: qué significa para quien terceriza el transporte de su última milla",
     "why_now": "El gremio mantuvo bloqueada 48 horas una planta por un reclamo de tercerización de choferes, justo cuando muchas empresas de eCommerce recién empiezan a planificar la logística de fin de año.",
     "fixy_angle": "Fixy puede explicar en criollo qué encuadre laboral evita este tipo de conflicto y por qué contratar un operador logístico especializado reduce ese riesgo gremial frente a tercerizar transporte de forma informal.",

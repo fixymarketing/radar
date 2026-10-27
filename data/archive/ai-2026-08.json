@@ -266,5 +266,72 @@
     "source_kind": "auto",
     "last_updated": "2026-08-21",
     "first_seen": "2026-08-21"
+  },
+  {
+    "name": "Compras y pagos agénticos en Argentina",
+    "vendor": "Mercado Pago, Tiendanube, Visa, Mastercard, Pomelo",
+    "what_it_is": "Compras iniciadas y pagadas por un asistente de IA en lugar del usuario navegando una tienda. Incluye el Asistente Personal de IA de Mercado Pago (pagar servicios desde la foto de una boleta) y pilotos de pago con credenciales tokenizadas.",
+    "what_changed": "El 12 de agosto de 2026 se reportaron pilotos operativos en vivo en Argentina: Visa probó compras de productos digitales con credenciales tokenizadas y Mastercard, junto a Pomelo y bancos locales, ejecutó el primer pago agéntico dentro del chat de ChatGPT.",
+    "fixy_use": "Si las compras empiezan a cerrarse dentro de un chat de IA, el dato de envío que Fixy expone (plazo, costo, cobertura por CP) tiene que ser legible por máquinas: conviene empezar a preparar una API o feed limpio de cotización y tracking. Comercial puede usarlo como argumento de venta consultiva. Management debería seguirlo como riesgo y oportunidad de canal a 6-12 meses.",
+    "verdict": "seguir",
+    "verdict_reason": "Todavía son pilotos, pero cambia dónde se decide el envío y eso afecta el core del negocio.",
+    "categories": [
+      "Management",
+      "Comercial",
+      "Logística",
+      "Operaciones"
+    ],
+    "pricing_note": "No confirmado: son pilotos de bancos, procesadores y plataformas. No hay producto contratable por una PyME todavía.",
+    "source_url": "https://www.iproup.com/finanzas/70397-mercado-libre-tiendanube-y-tarjetas-ya-prueban-compras-agenticas-en-argentina",
+    "published_date": "2026-08-12",
+    "priority": "alta",
+    "id": "ai-mercado-pago-tiendanube-visa-mastercard-pomelo-compras-y-pag",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "name": "Maia by Make",
+    "vendor": "Make",
+    "what_it_is": "Una copiloto conversacional integrada dentro del propio editor de escenarios de Make que arma, modifica y depura automatizaciones a partir de instrucciones escritas en lenguaje simple, sin necesidad de arrastrar módulos manualmente.",
+    "what_changed": "Make la lanzó en beta pública el 12 de agosto de 2026 para todos los planes pagos, con prueba de 30 días para cuentas gratuitas; antes de esto armar o arreglar un escenario en Make requería conocimiento técnico de la herramienta.",
+    "fixy_use": "El equipo de operaciones o comercial de Fixy podría pedirle a Maia, en español, que arme una automatización tipo 'cuando llega un pedido nuevo de Tiendanube, avisar por WhatsApp al cliente y crear una fila en la planilla de despachos', sin depender de que alguien con perfil técnico programe el flujo. También sirve para depurar automatizaciones existentes que fallan, explicando el error en lenguaje natural en vez de leer logs.",
+    "verdict": "probar",
+    "verdict_reason": "Baja fricción para que gente no técnica del equipo arme y arregle automatizaciones reales de Fixy sin depender de un desarrollador.",
+    "categories": [
+      "Automatización",
+      "Operaciones",
+      "Productividad"
+    ],
+    "pricing_note": "freemium — beta pública incluida en planes pagos de Make; en el plan gratuito hay prueba de 30 días",
+    "source_url": "https://www.make.com/en/blog/maia-conversational-ai-coworker-for-ai-agents-and-automation",
+    "published_date": "2026-08-12",
+    "priority": "alta",
+    "id": "ai-make-maia-by-make",
+    "source_kind": "auto",
+    "last_updated": "2026-08-26",
+    "first_seen": "2026-08-26"
+  },
+  {
+    "name": "Claude Cowork en el panel lateral de Chrome",
+    "vendor": "Anthropic",
+    "what_it_is": "Es la extensión de Claude para Chrome: un panel lateral que ve la página que estás mirando y puede actuar sobre ella (hacer clic, completar formularios, navegar) usando tus sesiones ya iniciadas.",
+    "what_changed": "El 12 de agosto de 2026 Anthropic convirtió ese panel en una sesión completa de Cowork: lo que arrancás en el navegador queda guardado en tu cuenta y lo podés seguir después desde la app de escritorio, la web o el celular, con las skills y conectores que ya tenías configurados funcionando también ahí. Por ahora está disponible para planes Max y Team, con Pro sumándose en las próximas semanas.",
+    "fixy_use": "Sirve para pedirle a Claude que recorra los portales de varios couriers o proveedores para juntar tarifas o estados de envío en una planilla, y después retomar esa misma sesión desde la compu del escritorio para armar el informe final. También ahorra tiempo en tareas repetitivas de completar formularios en portales de clientes o de organismos públicos sin copiar y pegar a mano.",
+    "verdict": "probar",
+    "verdict_reason": "El equipo ya usa Claude, así que sumar acciones dentro del navegador con continuidad entre dispositivos es una prueba de costo cero.",
+    "categories": [
+      "Productividad",
+      "Automatización",
+      "Operaciones"
+    ],
+    "pricing_note": "pago | incluido sin costo extra en los planes Claude Max y Team (Pro se suma en las próximas semanas)",
+    "source_url": "https://claude.com/blog/cowork-chrome-side-panel",
+    "published_date": "2026-08-12",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-cowork-en-el-panel-lateral-de-chrome",
+    "source_kind": "auto",
+    "last_updated": "2026-08-23",
+    "first_seen": "2026-08-19"
   }
 ]
