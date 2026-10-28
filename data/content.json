@@ -1,50 +1,5 @@
 [
   {
-    "topic": "El bloqueo de Camioneros en Arrecifes, en criollo: qué significa para quien terceriza el transporte de su última milla",
-    "why_now": "El gremio mantuvo bloqueada 48 horas una planta por un reclamo de tercerización de choferes, justo cuando muchas empresas de eCommerce recién empiezan a planificar la logística de fin de año.",
-    "fixy_angle": "Fixy puede explicar en criollo qué encuadre laboral evita este tipo de conflicto y por qué contratar un operador logístico especializado reduce ese riesgo gremial frente a tercerizar transporte de forma informal.",
-    "formats": [
-      "LinkedIn",
-      "nota"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/politica/2026/09/25/el-sindicato-de-camioneros-mantiene-bloqueada-desde-hace-48-horas-una-empresa-en-arrecifes-y-denunciaron-que-hay-amenazas/",
-    "id": "ct-aedc3e19",
-    "source_kind": "auto",
-    "last_updated": "2026-09-27",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "topic": "Mercado Pago banco: qué significa para las pymes de eCommerce que una billetera se convierta en banco",
-    "why_now": "El BCRA confirmó la fecha para que Mercado Pago (y Revolut) operen como bancos, un cambio de estatus regulatorio inédito en el ecosistema fintech argentino.",
-    "fixy_angle": "Fixy puede explicarles a sus clientes de eCommerce qué cambia en la práctica para el cobro y el financiamiento de sus ventas, un tema que les importa directamente aunque no lo entiendan en detalle.",
-    "formats": [
-      "nota",
-      "LinkedIn"
-    ],
-    "priority": "informativo",
-    "source_url": "https://www.infobae.com/economia/2026/09/24/el-banco-central-confirmo-que-mercado-libre-tendra-licencia-para-operar-como-banco-antes-de-fin-de-ano/",
-    "id": "ct-f3877d6b",
-    "source_kind": "auto",
-    "last_updated": "2026-09-27",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "topic": "El chat que dejó de ser gratis: qué hacer antes de que WhatsApp empiece a cobrar mensajes de seguimiento de pedidos",
-    "why_now": "Meta empieza a cobrar los mensajes de servicio de WhatsApp Business que superen el umbral gratuito a partir de octubre, y muchas pymes de eCommerce todavía no lo saben.",
-    "fixy_angle": "Fixy puede compartir con sus clientes una checklist simple para medir su volumen de mensajes y decidir si conviene automatizar las consultas más repetitivas antes de que llegue la factura.",
-    "formats": [
-      "LinkedIn",
-      "carrusel"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/tecno/2026/09/06/whatsapp-business-cobrara-por-responder-mensajes-en-2026-a-quienes-afecta-y-a-quienes-no/",
-    "id": "ct-feb37c0c",
-    "source_kind": "auto",
-    "last_updated": "2026-09-27",
-    "first_seen": "2026-09-27"
-  },
-  {
     "topic": "1 millón de pedidos por día: el número que muestra cuánto creció el e-commerce argentino en 2026",
     "why_now": "Los datos del sector confirmaron que el e-commerce creció 35,9% en 2026 y ya mueve casi un millón de pedidos diarios, justo cuando arranca la planificación de CyberMonday y Black Friday.",
     "fixy_angle": "Fixy puede traducir ese número a lo que implica en capacidad logística real -depósito, personal, última milla- y usarlo como prueba de que el negocio de fulfillment tercerizado no para de crecer.",

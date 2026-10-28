@@ -333,5 +333,72 @@
     "source_kind": "auto",
     "last_updated": "2026-08-23",
     "first_seen": "2026-08-19"
+  },
+  {
+    "name": "Google Drive dentro de la Library de ChatGPT",
+    "vendor": "OpenAI",
+    "what_it_is": "Los archivos de Google Drive se navegan desde la barra lateral de ChatGPT: Docs, Sheets y Slides quedan abiertos al lado de la conversación, incluso a nivel carpeta, y ChatGPT puede actualizar el archivo original con permiso.",
+    "what_changed": "Anunciado el 13 de agosto de 2026 en las release notes, con rollout a Plus, Pro, Business, Enterprise y Edu. Antes había que subir cada archivo a mano en cada chat.",
+    "fixy_use": "Trabajar sobre la planilla real de envíos o de costos sin exportarla: pedirle que detecte inconsistencias de zonas y tarifas y escriba las correcciones en el mismo Sheet. Que Marketing itere el calendario de contenidos y las propuestas comerciales directo sobre los Docs compartidos. Analizar la carpeta entera de reportes mensuales en un solo pedido.",
+    "verdict": "probar",
+    "verdict_reason": "Saca la fricción de subir archivos y permite que el análisis vuelva escrito al documento que el equipo ya usa.",
+    "categories": [
+      "Productividad",
+      "Análisis",
+      "Organización",
+      "Operaciones"
+    ],
+    "pricing_note": "Pago: planes Plus, Pro, Business, Enterprise y Edu. No está en el plan gratuito.",
+    "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "published_date": "2026-08-13",
+    "priority": "relevante",
+    "id": "ai-openai-google-drive-dentro-de-la-library-de-chatgpt",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "name": "Fin: memoria entre canales y detección de incidentes en tiempo real",
+    "vendor": "Fin (ex Intercom)",
+    "what_it_is": "Fin es el agente de IA de atención al cliente de Intercom. La memoria le permite reconocer a un cliente que vuelve y retomar el contexto aunque cambie de canal; la detección de incidentes avisa cuando aparece un problema que se repite entre varios clientes.",
+    "what_changed": "El changelog oficial registra la memoria de Fin el 13 de agosto de 2026 y Real Time Incident Detection el 17 de agosto de 2026, además de routing por canal.",
+    "fixy_use": "En logística el reclamo típico es '¿dónde está mi pedido?' repetido por WhatsApp, mail y web: la memoria evita que el cliente explique todo de nuevo en cada canal. La detección de incidentes sirve para enterarse de una demora en una zona o con un courier por el patrón de consultas, antes de que escale a quejas públicas.",
+    "verdict": "seguir",
+    "verdict_reason": "Encaja muy bien con el patrón de reclamos de Fixy, pero el costo por resolución suele ser alto para el volumen de una PyME: primero hay que hacer el número.",
+    "categories": [
+      "Operaciones",
+      "Automatización",
+      "Análisis",
+      "Management"
+    ],
+    "pricing_note": "Pago: modelo por resolución más add-on con consumo. Conviene pedir cotización antes de probar.",
+    "source_url": "https://www.intercom.com/changes/en",
+    "published_date": "2026-08-13",
+    "priority": "relevante",
+    "id": "ai-fin-ex-intercom-fin-memoria-entre-canales-y-deteccion-de-inc",
+    "source_kind": "auto",
+    "last_updated": "2026-08-19",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "name": "Gemini 3.7 Flash",
+    "vendor": "Google",
+    "what_it_is": "Es el modelo más nuevo y económico de Google para tareas de programación y construcción de agentes de IA, disponible en Google AI Studio.",
+    "what_changed": "Se lanzó el 13 de agosto de 2026, apenas tres semanas después del modelo anterior, con mejor precisión en código y un precio introductorio de la mitad respecto al modelo previo (USD 0,75 cada millón de tokens de entrada).",
+    "fixy_use": "Sirve para quien arme las automatizaciones internas de Fixy (scripts que cruzan datos de envíos, integraciones con n8n, prototipos rápidos en AI Studio): permite construir y probar agentes o mini-herramientas a menor costo antes de llevarlas a producción. No es una herramienta de uso directo para marketing o atención al cliente.",
+    "verdict": "no_prioritario",
+    "verdict_reason": "Es relevante solo para quien programa o arma automatizaciones técnicas en Fixy, no para el uso diario del resto del equipo.",
+    "categories": [
+      "Automatización",
+      "Análisis"
+    ],
+    "pricing_note": "pago - uso por API, USD 0,75 por millón de tokens de entrada, precio introductorio hasta fin de año",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "published_date": "2026-08-13",
+    "priority": "informativo",
+    "id": "ai-google-gemini-3-7-flash",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
   }
 ]
