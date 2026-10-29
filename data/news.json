@@ -90,5 +90,51 @@
     "source_kind": "auto",
     "last_updated": "2026-10-19",
     "first_seen": "2026-10-19"
+  },
+  {
+    "title": "Mercado Libre inauguró en Escobar su mayor centro logístico del país, con inversión de US$115 millones",
+    "what_happened": "Mercado Libre abrió en Escobar su centro de almacenamiento más grande de Argentina, con más de 100.000 m² y capacidad para dos millones de productos. Según la compañía, generará más de 1.300 empleos directos y se desarrolló junto a Plaza Logística. La inversión informada es de US$115 millones.",
+    "why_it_matters": "La apertura llega días antes del CyberMonday y de las fiestas, y refuerza la capacidad de fulfillment del principal marketplace del país, que además compite con los operadores logísticos independientes.",
+    "fixy_impact": "Mercado Libre amplía su propia capacidad de fulfillment justo antes del pico de ventas. Fixy puede reforzar ante vendedores multicanal su propuesta de fulfillment y envíos propios, con flexibilidad y atención cercana.",
+    "category": "Fulfillment",
+    "geo": "Argentina",
+    "source_name": "DolarHoy",
+    "source_url": "https://dolarhoy.com/empresas/mercado-libre-abre-su-mayor-centro-logistico-en-argentina-con-una-inversion-de-usd-115-millones-202610281163",
+    "published_date": "2026-10-28",
+    "priority": "alta",
+    "tags": [
+      "Mercado Libre",
+      "fulfillment",
+      "Escobar",
+      "CyberMonday",
+      "infraestructura"
+    ],
+    "id": "nw-66c1f6c085",
+    "source_kind": "auto",
+    "last_updated": "2026-10-29",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "title": "Mercado Libre suma un centro de última milla en Luján de Cuyo y vuelos semanales con Aerolíneas",
+    "what_happened": "Mercado Libre inauguró en Luján de Cuyo, Mendoza, un centro de última milla con una inversión de US$8 millones y capacidad para clasificar y distribuir hasta 96.000 paquetes por día. Además incorporó un esquema de cinco vuelos semanales junto a Aerolíneas.",
+    "why_it_matters": "La expansión de la red de entregas hacia el interior, con envíos aéreos, acorta plazos fuera del AMBA y sube la vara de lo que esperan los compradores de provincias.",
+    "fixy_impact": null,
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "Cadena 3",
+    "source_url": "https://www.cadena3.com/noticia/politica-y-economia/mercado-libre-fortalece-su-red-de-entregas-con-un-nuevo-centro-logistico-en-mendoza-y-envios-aereos_607145",
+    "published_date": "2026-10-26",
+    "priority": "relevante",
+    "tags": [
+      "Mercado Libre",
+      "última milla",
+      "Mendoza",
+      "interior",
+      "envíos aéreos"
+    ],
+    "id": "nw-0a32c5d31c",
+    "source_kind": "auto",
+    "last_updated": "2026-10-29",
+    "first_seen": "2026-10-29"
   }
 ]
