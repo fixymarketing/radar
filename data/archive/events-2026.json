@@ -3679,5 +3679,32 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "Mar del Plata Tech Week 2026",
+    "organizer": "Municipalidad de General Pueyrredon junto a ATICMA, North Valley, CACE, UTN y GameDev MDQ",
+    "date_start": "2026-10-21",
+    "date_end": "2026-10-26",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Mar del Plata",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Centro Cultural Terminal Sur (sede de ExpoTech, 25 de octubre)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Tecnología",
+    "url": "https://mardelplatatechweek.aticma.org.ar/",
+    "source_url": "https://www.mardelplata.gob.ar/Noticias/se-viene-la-mar-del-plata-tech-week-tecnolog%C3%ADa-conocimiento-e-innovaci%C3%B3n",
+    "description": "Semana de actividades tecnológicas en Mar del Plata dentro del plan Mar del Plata Ciudad del Conocimiento, con ExpoTech, charlas B2B, AI Talks y los premios ATICMA Awards a la innovación regional.",
+    "fixy_relevance": "CACE es coorganizador, lo que cruza directamente con eCommerce; útil para relevar proveedores tecnológicos y talento IT de la región atlántica que podrían resolver necesidades de sistemas para fulfillment y última milla.",
+    "justification_type": null,
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-mar-plata-tech-week-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-26",
+    "first_seen": "2026-08-26"
   }
 ]
