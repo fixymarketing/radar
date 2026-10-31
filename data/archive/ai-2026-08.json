@@ -465,5 +465,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-24",
     "first_seen": "2026-08-24"
+  },
+  {
+    "name": "Tiendanube Admin MCP",
+    "vendor": "Tiendanube / Nuvemshop",
+    "what_it_is": "Un conector oficial que expone la administración de una tienda Tiendanube (catálogo, pedidos, clientes, métricas del negocio) como servidor MCP, para que se pueda operar por lenguaje natural desde ChatGPT, Gemini o Claude sin escribir código.",
+    "what_changed": "Tiendanube lo presentó el 16 de agosto de 2026 y quedó listado en el directorio oficial de Claude (como Nuvemshop), siendo la primera plataforma de eCommerce de Latinoamérica en sumarse a ese directorio; llega a sus más de 65.000 tiendas en Argentina.",
+    "fixy_use": "Muchos clientes y prospectos de Fixy operan sobre Tiendanube: el equipo comercial o de atención al cliente podría, con permiso del cliente, consultar pedidos y estados de catálogo de una tienda directamente desde Claude o ChatGPT para resolver un reclamo o preparar una cotización sin entrar al panel de Tiendanube. También sirve como referencia técnica si Fixy quiere exponer sus propios datos de tracking como servidor MCP.",
+    "verdict": "seguir",
+    "verdict_reason": "Es muy relevante para el ecosistema de clientes de Fixy pero requiere evaluar con qué clientes tiene sentido activarlo y quién administra los permisos de acceso.",
+    "categories": [
+      "Comercial",
+      "Operaciones",
+      "Automatización",
+      "Atención al cliente"
+    ],
+    "pricing_note": "no confirmado — se presenta como conector oficial incluido para tiendas Tiendanube, sin detalle público de costo adicional",
+    "source_url": "https://www.businessempresarial.com.pe/tiendanube-conecta-a-sus-180000-tiendas-con-chatgpt-gemini-claude-y-los-principales-modelos-de-ia-globales/",
+    "published_date": "2026-08-16",
+    "priority": "alta",
+    "id": "ai-tiendanube-nuvemshop-tiendanube-admin-mcp",
+    "source_kind": "auto",
+    "last_updated": "2026-08-26",
+    "first_seen": "2026-08-26"
   }
 ]

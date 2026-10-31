@@ -242,29 +242,6 @@
     "first_seen": "2026-08-20"
   },
   {
-    "name": "Tiendanube Admin MCP",
-    "vendor": "Tiendanube / Nuvemshop",
-    "what_it_is": "Un conector oficial que expone la administración de una tienda Tiendanube (catálogo, pedidos, clientes, métricas del negocio) como servidor MCP, para que se pueda operar por lenguaje natural desde ChatGPT, Gemini o Claude sin escribir código.",
-    "what_changed": "Tiendanube lo presentó el 16 de agosto de 2026 y quedó listado en el directorio oficial de Claude (como Nuvemshop), siendo la primera plataforma de eCommerce de Latinoamérica en sumarse a ese directorio; llega a sus más de 65.000 tiendas en Argentina.",
-    "fixy_use": "Muchos clientes y prospectos de Fixy operan sobre Tiendanube: el equipo comercial o de atención al cliente podría, con permiso del cliente, consultar pedidos y estados de catálogo de una tienda directamente desde Claude o ChatGPT para resolver un reclamo o preparar una cotización sin entrar al panel de Tiendanube. También sirve como referencia técnica si Fixy quiere exponer sus propios datos de tracking como servidor MCP.",
-    "verdict": "seguir",
-    "verdict_reason": "Es muy relevante para el ecosistema de clientes de Fixy pero requiere evaluar con qué clientes tiene sentido activarlo y quién administra los permisos de acceso.",
-    "categories": [
-      "Comercial",
-      "Operaciones",
-      "Automatización",
-      "Atención al cliente"
-    ],
-    "pricing_note": "no confirmado — se presenta como conector oficial incluido para tiendas Tiendanube, sin detalle público de costo adicional",
-    "source_url": "https://www.businessempresarial.com.pe/tiendanube-conecta-a-sus-180000-tiendas-con-chatgpt-gemini-claude-y-los-principales-modelos-de-ia-globales/",
-    "published_date": "2026-08-16",
-    "priority": "alta",
-    "id": "ai-tiendanube-nuvemshop-tiendanube-admin-mcp",
-    "source_kind": "auto",
-    "last_updated": "2026-08-26",
-    "first_seen": "2026-08-26"
-  },
-  {
     "name": "ChatGPT Slides (presentaciones colaborativas en ChatGPT Work)",
     "vendor": "OpenAI",
     "what_it_is": "Función de ChatGPT que arma una presentación editable a partir de lo que le pedís o de material que ya tenés, y que el equipo puede revisar y editar en conjunto.",
@@ -1595,6 +1572,28 @@
     "source_kind": "auto",
     "last_updated": "2026-08-31",
     "first_seen": "2026-08-26"
+  },
+  {
+    "name": "Gemini 4 Carbon",
+    "vendor": "Google",
+    "what_it_is": "Nuevo modelo de IA de Google, el siguiente tras Gemini 4 Argon, orientado a programación y tareas de agentes.",
+    "what_changed": "Google lo anunció el 28 de octubre de 2026 con \"avances significativos en programación y tareas agénticas\". Todavía figura como \"próximamente\" para desarrolladores, empresas y consumidores.",
+    "fixy_use": "Cuando esté disponible, vale probarlo en automatizaciones y agentes que hoy corren con otros modelos, por ejemplo clasificación de reclamos o armado de reportes de operaciones. Por ahora no hay fecha de lanzamiento ni precios confirmados, así que conviene esperar antes de planificar nada.",
+    "verdict": "seguir",
+    "verdict_reason": "Está anunciado pero sin disponibilidad ni precios confirmados.",
+    "categories": [
+      "Automatización",
+      "Productividad",
+      "Análisis"
+    ],
+    "pricing_note": "no confirmado: Google no publicó precios ni fecha de disponibilidad en la fuente consultada",
+    "source_url": "https://9to5google.com/2026/10/28/gemini-4-carbon-announcement/",
+    "published_date": "2026-10-28",
+    "priority": "informativo",
+    "id": "ai-google-gemini-4-carbon",
+    "source_kind": "auto",
+    "last_updated": "2026-10-31",
+    "first_seen": "2026-10-31"
   },
   {
     "name": "Dispatch MCP Server",

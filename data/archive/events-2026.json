@@ -3706,5 +3706,32 @@
     "source_kind": "auto",
     "last_updated": "2026-08-26",
     "first_seen": "2026-08-26"
+  },
+  {
+    "scope": "intl",
+    "name": "Brasil Supply Chain & Logistics Summit 2026",
+    "organizer": "W6 Connect",
+    "date_start": "2026-10-27",
+    "date_end": "2026-10-27",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "São Paulo",
+    "province": null,
+    "country": "Brasil",
+    "venue": "Nacional Inn Jaraguá São Paulo",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://brazilsupplychainsummit.com/",
+    "source_url": "https://www.w6connectevents.co.uk/event-details/brasil-supply-chain-logistics-summit-2026",
+    "description": "Congreso y feria de soluciones enfocado en IA aplicada, S&OP y Logística 4.0, que reúne a líderes de industria, tecnología y supply chain del mercado brasileño, el más grande de la región.",
+    "fixy_relevance": "Punto de referencia para monitorear cómo el mayor mercado de eCommerce de LATAM está aplicando automatización e IA a la última milla y el almacenamiento, y para hacer networking con proveedores tecnológicos y operadores logísticos brasileños de cara a una eventual expansión regional.",
+    "justification_type": "aprendizaje",
+    "priority": "relevante",
+    "beyond_90": false,
+    "id": "ev-brasil-chain-logistics-summit-supply-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
   }
 ]
