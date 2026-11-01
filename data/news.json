@@ -136,5 +136,27 @@
     "source_kind": "auto",
     "last_updated": "2026-10-29",
     "first_seen": "2026-10-29"
+  },
+  {
+    "title": "CyberMonday 2026 arranca el 2/11 con casi 800 empresas y 15.000 ofertas",
+    "what_happened": "La CACE confirmó que el CyberMonday se realiza del 2 al 4 de noviembre con casi 800 empresas, el 47% pymes, y unas 15.000 ofertas en diez categorías. Gustavo Sambucetti, director institucional de la CACE, sostuvo que en tres días se concentra el volumen de operaciones de unas tres semanas de ventas habituales.",
+    "why_it_matters": "Es el primer gran pico de demanda del eCommerce argentino antes de las fiestas y condiciona la capacidad de las operaciones logísticas y de entrega.",
+    "fixy_impact": "Se espera un pico de pedidos a despachar en pocas horas: conviene reforzar picking, packing y coordinación con los operadores de última milla.",
+    "category": "eCommerce",
+    "geo": "Argentina",
+    "source_name": "El Argentino Diario",
+    "source_url": "https://elargentinodiario.com.ar/zona-destacada/29/10/2026/cybermonday-2026-fechas-empresas/",
+    "published_date": "2026-10-29",
+    "priority": "alta",
+    "tags": [
+      "CyberMonday",
+      "CACE",
+      "pymes",
+      "picos de demanda"
+    ],
+    "id": "nw-adadbdebe2",
+    "source_kind": "auto",
+    "last_updated": "2026-11-01",
+    "first_seen": "2026-11-01"
   }
 ]

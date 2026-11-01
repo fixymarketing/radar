@@ -1530,50 +1530,6 @@
     "first_seen": "2026-08-28"
   },
   {
-    "name": "Gemini Notebook: copiar notebooks y analizar datos con código",
-    "vendor": "Google",
-    "what_it_is": "Gemini Notebook (la ex NotebookLM) es la herramienta de Google para subir documentos propios y hacerle preguntas, generar resúmenes e informes, y ahora también correr análisis de datos ejecutando código en la nube.",
-    "what_changed": "El 17 de agosto Google sumó la posibilidad de copiar un notebook entero, con sus fuentes y los informes o gráficos ya generados incluidos, algo que se apoya en la actualización reciente que le dio a los planes Pro ejecución de código para producir gráficos, PDFs y planillas automáticamente a partir de las fuentes cargadas.",
-    "fixy_use": "Se puede armar un notebook plantilla con la estructura del análisis mensual de KPIs logísticos (entregas a tiempo, devoluciones, costo por envío) y copiarlo cada mes cambiando solo la planilla de origen, sin rearmar todo de cero. También sirve para que alguien sin perfil de analista cargue el Excel de despachos y pida directamente el gráfico o la planilla resumen.",
-    "verdict": "probar",
-    "verdict_reason": "Achica el trabajo manual de armar reportes mensuales, aunque el análisis con código todavía está limitado a cuentas Pro o Ultra.",
-    "categories": [
-      "Análisis",
-      "Productividad",
-      "Operaciones"
-    ],
-    "pricing_note": "freemium: copiar notebooks es amplio, pero la ejecución de código para generar gráficos y planillas es de los planes Pro/Ultra de Google AI",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/08/make-copy-of-notebook-in-gemini-notebook.html",
-    "published_date": "2026-08-17",
-    "priority": "relevante",
-    "id": "ai-google-gemini-notebook-copiar-notebooks-y-analizar-datos-con",
-    "source_kind": "auto",
-    "last_updated": "2026-08-22",
-    "first_seen": "2026-08-22"
-  },
-  {
-    "name": "Large Vehicle Routing (LVR) en Google Maps Platform",
-    "vendor": "Google",
-    "what_it_is": "Es una capacidad de las APIs de rutas de Google Maps Platform (Routes API, Route Optimization API y Navigation SDK) pensada para vehículos grandes: se carga el perfil físico del vehículo (altura, peso, largo, ancho, cantidad de ejes, cargas peligrosas) y el sistema calcula rutas que evitan puentes bajos, restricciones de peso y calles prohibidas para camiones.",
-    "what_changed": "Google anunció la disponibilidad general (GA) de LVR el 17 de agosto de 2026, tras un período de preview. Por ahora el lanzamiento es exclusivo para Estados Unidos.",
-    "fixy_use": "Es exactamente el tipo de dato que Fixy necesita para rutear última milla con utilitarios y camiones chicos, evitando calles con restricciones de circulación en CABA y GBA. Hoy no está disponible en Argentina, pero vale la pena monitorear cuándo Google lo habilite acá o si aparece vía integradores locales de ruteo, porque impacta directo en kilómetros recorridos y tiempos muertos.",
-    "verdict": "seguir",
-    "verdict_reason": "Altísimo potencial para el ruteo de Fixy, pero todavía no está disponible fuera de Estados Unidos.",
-    "categories": [
-      "Operaciones",
-      "Logística",
-      "Automatización"
-    ],
-    "pricing_note": "no confirmado — se factura por uso de las APIs de Google Maps Platform, sin precio específico publicado para LVR",
-    "source_url": "https://mapsplatform.google.com/resources/blog/introducing-large-vehicle-routing-address-the-unique-logistics-needs-of-large-vehicle-fleets/",
-    "published_date": "2026-08-17",
-    "priority": "relevante",
-    "id": "ai-google-large-vehicle-routing-lvr-en-google-maps-platform",
-    "source_kind": "auto",
-    "last_updated": "2026-08-31",
-    "first_seen": "2026-08-26"
-  },
-  {
     "name": "Gemini 4 Carbon",
     "vendor": "Google",
     "what_it_is": "Nuevo modelo de IA de Google, el siguiente tras Gemini 4 Argon, orientado a programación y tareas de agentes.",
@@ -1596,6 +1552,28 @@
     "first_seen": "2026-10-31"
   },
   {
+    "name": "GPT-6.1 Terra",
+    "vendor": "OpenAI",
+    "what_it_is": "Nuevo modelo de OpenAI, disponible en la API como gpt-6.1-terra y dentro de ChatGPT Work y Codex.",
+    "what_changed": "Según las notas de versión de OpenAI, empezó a desplegarse el 26/10/2026 en la API, ChatGPT Work y Codex. Aún no verifiqué en detalle sus capacidades ni precios por token.",
+    "fixy_use": "Si ya usan ChatGPT Work o automatizaciones con la API (clasificación de reclamos, respuestas de atención al cliente, análisis de planillas de envíos), vale comparar este modelo contra el actual en una tarea real. Puede ser una mejora de calidad o costo sin cambiar el flujo.",
+    "verdict": "seguir",
+    "verdict_reason": "Falta confirmar capacidades y precio en la documentación oficial antes de migrar flujos.",
+    "categories": [
+      "Automatización",
+      "Productividad",
+      "Análisis"
+    ],
+    "pricing_note": "Sin verificar; revisar la tabla de precios de la API de OpenAI.",
+    "source_url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+    "published_date": "2026-10-26",
+    "priority": "informativo",
+    "id": "ai-openai-gpt-6-1-terra",
+    "source_kind": "auto",
+    "last_updated": "2026-11-01",
+    "first_seen": "2026-11-01"
+  },
+  {
     "name": "Dispatch MCP Server",
     "vendor": "Dispatch",
     "what_it_is": "Un servidor MCP alojado que conecta asistentes de IA como Claude o ChatGPT con la plataforma de última milla de Dispatch.",
@@ -1616,6 +1594,28 @@
     "source_kind": "auto",
     "last_updated": "2026-10-21",
     "first_seen": "2026-10-21"
+  },
+  {
+    "name": "Claude Duet",
+    "vendor": "Anthropic",
+    "what_it_is": "Agente proactivo (app en iOS, Android y claude.ai) que arma cada mañana un resumen de lo importante en las apps conectadas y avisa solo cuando algo requiere atención.",
+    "what_changed": "Se abrió como research preview el 21/10/2026 por lista de espera, solo en EE.UU. y para planes Pro, Max y Ultra. Corre sobre Claude Opus 5.5 y pide aprobación antes de enviar mensajes, pagar, firmar o borrar.",
+    "fixy_use": "Podría ordenar la bandeja y el calendario del equipo chico: priorizar reclamos de clientes de ecommerce, correos de transportistas y reuniones, y avisar solo de lo urgente. Por ahora no está disponible en Argentina ni en planes Team, así que sirve como referencia para evaluar a futuro.",
+    "verdict": "seguir",
+    "verdict_reason": "Limitado a EE.UU. y a planes individuales; conviene esperar disponibilidad regional y en Team antes de probarlo.",
+    "categories": [
+      "Productividad",
+      "Gestión del tiempo",
+      "Organización"
+    ],
+    "pricing_note": "Incluido sin costo extra en Pro, Max y Ultra durante el preview; comparte los límites del plan. Reseteo de límites para nuevos admitidos hasta el 30/11/2026.",
+    "source_url": "https://claude.com/resources/articles/claude-duet",
+    "published_date": "2026-10-21",
+    "priority": "informativo",
+    "id": "ai-anthropic-claude-duet",
+    "source_kind": "auto",
+    "last_updated": "2026-11-01",
+    "first_seen": "2026-11-01"
   },
   {
     "name": "Google Meet: rutinas de próximos pasos tras la reunión",
@@ -2417,26 +2417,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-01",
     "first_seen": "2026-08-20"
-  },
-  {
-    "name": "ElevenLabs Conversational AI (voz)",
-    "vendor": "ElevenLabs",
-    "what_it_is": "La plataforma de ElevenLabs para crear agentes de voz conversacionales que pueden atender llamados, responder preguntas y derivar casos a una persona.",
-    "what_changed": "El changelog del 17 de agosto de 2026 sumó a los agentes resúmenes de conversación más livianos, paginación y controles de cola por tema, y mejoras en la transcripción en tiempo real (STT), pensados para agentes que manejan muchas conversaciones simultáneas.",
-    "fixy_use": "Para un eventual bot de voz de atención al cliente o seguimiento de envíos, estas mejoras implican menos costo de cómputo por llamado y mejor manejo de picos de consultas por tema, algo relevante en fechas pico de eCommerce como Hot Sale o Navidad.",
-    "verdict": "seguir",
-    "verdict_reason": "Mejora técnica de una herramienta ya evaluada, útil para cuando Fixy decida escalar la atención por voz.",
-    "categories": [
-      "Operaciones",
-      "Automatización"
-    ],
-    "pricing_note": "freemium — plan gratuito limitado, el uso de agentes de voz se cobra por minutos/créditos en planes pagos",
-    "source_url": "https://elevenlabs.io/docs/changelog/2026/8/17",
-    "published_date": "2026-08-17",
-    "priority": "informativo",
-    "id": "ai-elevenlabs-elevenlabs-conversational-ai-voz",
-    "source_kind": "auto",
-    "last_updated": "2026-08-27",
-    "first_seen": "2026-08-24"
   }
 ]
