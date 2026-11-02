@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T12:08:16.736Z",
+  "updated_at": "2026-11-02T12:11:06.349Z",
   "files": [
     {
       "file": "ai-2026-05.json",
@@ -14,7 +14,7 @@
     {
       "file": "ai-2026-08.json",
       "kind": "ai",
-      "count": 25
+      "count": 28
     },
     {
       "file": "content-2026-08.json",
@@ -29,7 +29,7 @@
     {
       "file": "events-2026.json",
       "kind": "events",
-      "count": 87
+      "count": 89
     },
     {
       "file": "news-2026-08.json",
@@ -44,7 +44,7 @@
     {
       "file": "news-2026-10.json",
       "kind": "news",
-      "count": 3
+      "count": 5
     },
     {
       "file": "opportunities-2026-08.json",

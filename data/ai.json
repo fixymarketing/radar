@@ -220,28 +220,6 @@
     "first_seen": "2026-09-01"
   },
   {
-    "name": "n8n MCP nativo (Server y Client)",
-    "vendor": "n8n",
-    "what_it_is": "n8n es la plataforma de automatización de flujos de trabajo (workflows) que conecta sistemas y apps sin programar mucho código.",
-    "what_changed": "La actualización del 18 de agosto de 2026 hace nativo el Protocolo de Contexto de Modelo (MCP): n8n puede actuar como cliente MCP (usar herramientas externas de IA) y como servidor MCP (exponer cualquier flujo de n8n para que Claude, ChatGPT u otros agentes lo llamen directamente), sumando además memoria y nodos de IA de primera clase sin necesidad de sub-workflows separados.",
-    "fixy_use": "Operaciones podría exponer como \"herramienta MCP\" el flujo que consulta el estado de un envío o el stock, para que un agente de IA lo consulte directamente y responda a un cliente o vendedor sin que nadie entre al sistema manualmente. También simplifica armar un asistente interno que dispare automatizaciones (generar una etiqueta, avisar una demora) con lenguaje natural en vez de configurar cada paso a mano.",
-    "verdict": "probar",
-    "verdict_reason": "Encaja directo con la automatización que ya se usa en pymes de logística y baja la fricción para conectar IA con los sistemas internos.",
-    "categories": [
-      "Automatización",
-      "Operaciones",
-      "Productividad"
-    ],
-    "pricing_note": "freemium - self-hosted con límites gratis, planes cloud pagos",
-    "source_url": "https://docs.n8n.io/release-notes/",
-    "published_date": "2026-08-18",
-    "priority": "alta",
-    "id": "ai-n8n-n8n-mcp-nativo-server-y-client",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
     "name": "ChatGPT Slides (presentaciones colaborativas en ChatGPT Work)",
     "vendor": "OpenAI",
     "what_it_is": "Función de ChatGPT que arma una presentación editable a partir de lo que le pedís o de material que ya tenés, y que el equipo puede revisar y editar en conjunto.",
@@ -2373,49 +2351,5 @@
     "source_kind": "auto",
     "last_updated": "2026-08-22",
     "first_seen": "2026-08-22"
-  },
-  {
-    "name": "Researcher reemplaza a Deep Research en Copilot",
-    "vendor": "Microsoft",
-    "what_it_is": "Researcher es la herramienta de Copilot que genera informes de investigación profunda cruzando múltiples fuentes web y documentos, y pasa a ser la sucesora de la función gratuita 'Deep Research'.",
-    "what_changed": "Desde el 18/8/2026 Microsoft retiró Deep Research de la app gratuita de Copilot y la reemplazó por Researcher, que solo está disponible para suscriptores de Microsoft 365 Premium (USD 19,99/mes) o con licencias business/enterprise; los informes ya generados siguen accesibles en el historial de chat.",
-    "fixy_use": "Si alguien en Fixy usaba Copilot gratis para investigar proveedores, tarifas de courier o competencia, esa función deja de estar disponible sin pagar la suscripción Premium. Antes de pagarla conviene evaluar alternativas gratuitas equivalentes (por ejemplo Gemini o Perplexity) para el mismo tipo de investigación.",
-    "verdict": "no_prioritario",
-    "verdict_reason": "La función gratuita que se podía aprovechar desaparece y pagar la alternativa no se justifica para un equipo chico con opciones gratuitas similares disponibles.",
-    "categories": [
-      "Management",
-      "Análisis"
-    ],
-    "pricing_note": "pago - Researcher solo en Microsoft 365 Premium (USD 19,99/mes) o licencias business/enterprise; Deep Research gratuita se discontinúa",
-    "source_url": "https://support.microsoft.com/en-us/microsoft-copilot/deep-research-in-microsoft-copilot",
-    "published_date": "2026-08-18",
-    "priority": "informativo",
-    "id": "ai-microsoft-researcher-reemplaza-a-deep-research-en-copilot",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "name": "Copilot unificado (AutoPilot)",
-    "vendor": "Microsoft",
-    "what_it_is": "Microsoft empezó a fusionar sus apps de Copilot (chat, código, agentes) en una sola aplicación y sumó una nueva categoría de agentes llamados \"Autopilots\": IA que trabaja sola en segundo plano, sin que alguien le vaya dando instrucciones paso a paso.",
-    "what_changed": "La migración a la app unificada arrancó el 18 de agosto de 2026 y de paso Microsoft dio de baja funciones poco usadas (Podcasts, Group Chat, Deep Research). El primer Autopilot, Microsoft Scout, está en vista previa privada para organizaciones \"Frontier\" y se encarga de organizar reuniones, preparar material y avisar vencimientos en Teams, Outlook, OneDrive y SharePoint.",
-    "fixy_use": "Si Fixy usa Microsoft 365, un Autopilot tipo Scout podría sacarle a management/operaciones tareas administrativas repetitivas —armar la agenda con contexto de mails y archivos, avisar vencimientos de contratos u obligaciones— sin que nadie tenga que pedírselo cada vez. Hoy no se puede probar porque está en preview privado, pero Microsoft apunta a la app completa para fines de septiembre de 2026 y adelantó que estos agentes se cobrarían aparte del abono habitual, así que conviene tenerlo anotado para presupuestar.",
-    "verdict": "seguir",
-    "verdict_reason": "Es una capacidad prometedora para tareas administrativas, pero sigue en preview privado y sin precio público confirmado.",
-    "categories": [
-      "Management",
-      "Organización",
-      "Productividad",
-      "Automatización"
-    ],
-    "pricing_note": "no confirmado — Microsoft adelantó que los Autopilots tendrían costo aparte del abono de Copilot, sin tarifa publicada",
-    "source_url": "https://theaicareerlab.com/blog/microsoft-copilot-autopilot-agents-professionals-2026",
-    "published_date": "2026-08-18",
-    "priority": "informativo",
-    "id": "ai-microsoft-copilot-unificado-autopilot",
-    "source_kind": "auto",
-    "last_updated": "2026-09-01",
-    "first_seen": "2026-08-20"
   }
 ]

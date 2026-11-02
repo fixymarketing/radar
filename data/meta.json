@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-01T12:08:16.701Z",
-  "last_updated_ar": "01/11/2026, 09:08",
-  "date": "2026-11-01",
+  "generated_at": "2026-11-02T12:11:06.318Z",
+  "last_updated_ar": "02/11/2026, 09:11",
+  "date": "2026-11-02",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Domingo previo al CyberMonday: arranca mañana y la operación tiene que estar lista; sin otras novedades verificables hoy.",
+  "summary_line": "Arrancó el CyberMonday: la operación está en pleno pico y no hubo otras novedades verificables nuevas hoy.",
   "counters": {
-    "news_today": 1,
-    "news_total": 7,
+    "news_today": 0,
+    "news_total": 5,
     "events_upcoming": 27,
     "events_ar_upcoming": 19,
     "events_intl_upcoming": 8,
     "events_later": 38,
     "opportunities_open": 8,
     "opportunities_today": 0,
-    "ai_today": 2,
-    "ai_to_try": 53,
+    "ai_today": 0,
+    "ai_to_try": 52,
     "content_ideas": 1,
-    "added_news": 1,
+    "added_news": 0,
     "updated_news": 0,
     "added_events": 0,
-    "updated_events": 8,
-    "added_ai": 2,
-    "archived": 3,
+    "updated_events": 0,
+    "added_ai": 0,
+    "archived": 7,
     "discarded_quality": 0
   },
   "next_event": {
@@ -30,7 +30,7 @@
     "name": "CyberMonday 2026",
     "date_start": "2026-11-02",
     "city": "Online",
-    "days_away": 1
+    "days_away": 0
   },
   "highlights": [
     {
@@ -38,28 +38,21 @@
       "kind": "news",
       "title": "CyberMonday 2026 arranca el 2/11 con casi 800 empresas y 15.000 ofertas",
       "priority": "alta",
-      "one_liner": "Arranca mañana el primer gran pico del año: hay que tener picking, packing y última milla listos desde el lunes."
+      "one_liner": "Arranca hoy el primer gran pico del año: toda la operación tiene que estar lista para tres días de volumen concentrado."
     },
     {
       "id": "ev-cybermonday-2026",
       "kind": "event",
       "title": "CyberMonday 2026",
       "priority": "alta",
-      "one_liner": "Del 2 al 4 de noviembre se concentra el volumen de unas tres semanas de ventas."
+      "one_liner": "Del 2 al 4 de noviembre, con picos de envíos y devoluciones que exigen capacidad de última milla reforzada."
     },
     {
       "id": "nw-66c1f6c085",
       "kind": "news",
       "title": "Mercado Libre inauguró en Escobar su mayor centro logístico del país, con inversión de US$115 millones",
       "priority": "relevante",
-      "one_liner": "Sube la vara de lo que esperan los compradores en plazos de entrega justo antes del pico."
-    },
-    {
-      "id": "ev-arlog-empresaria-encuentro-logistica-nacional-2026",
-      "kind": "event",
-      "title": "ARLOG - XXXIII Encuentro Nacional de Logística Empresaria",
-      "priority": "relevante",
-      "one_liner": "El 12/11 en Escobar: el evento central del sector para hacer networking."
+      "one_liner": "Mercado Libre amplía su capacidad logística justo antes del pico de fin de año."
     }
   ]
 }

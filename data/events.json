@@ -934,94 +934,6 @@
   },
   {
     "scope": "ar",
-    "name": "Argentina Fintech Forum 2026",
-    "organizer": "Cámara Argentina Fintech",
-    "date_start": "2026-10-29",
-    "date_end": "2026-10-29",
-    "date_confirmed": true,
-    "date_note": "Fecha y sede surgen de un listado de tercero (CleverTap); conviene cotejar con el sitio oficial argentinafintechforum.com.",
-    "city": "Ciudad Autónoma de Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
-    "country": "Argentina",
-    "venue": "Centro de Convenciones de Buenos Aires (CEC)",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Pagos y Fintech",
-    "url": "https://argentinafintechforum.com",
-    "source_url": "https://clevertap.com/?p=130989",
-    "description": "Foro anual de la industria fintech, con foco 2026 en \"Infraestructura para la nueva economía\": pagos, Open Finance, crédito, seguridad e IA. La Cámara lo presentó como el cierre del ciclo de Fintech Meetups 2026.",
-    "fixy_relevance": "Permite conocer novedades en medios de pago y contracargos que impactan la conversión y el cobro contra entrega de las tiendas clientes.",
-    "justification_type": null,
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-argentina-fintech-forum-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-10-15",
-    "first_seen": "2026-08-20",
-    "change_log": [
-      {
-        "date": "2026-09-25",
-        "fields": [
-          "date_note",
-          "city",
-          "province",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
-      {
-        "date": "2026-09-28",
-        "fields": [
-          "date_start",
-          "date_end",
-          "date_note",
-          "city",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-10-13",
-        "fields": [
-          "date_note",
-          "city",
-          "province",
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-10-14",
-        "fields": [
-          "date_note",
-          "province",
-          "venue",
-          "url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-10-15",
-        "fields": [
-          "date_note",
-          "venue",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
     "name": "Expo GlobalPorts 2026 – Hidrovía & Offshore",
     "organizer": "CIP-OEA, AAPA-LATAM, Bolsa de Cereales de Buenos Aires, CPPC y CIARA-CEC",
     "date_start": "2026-11-03",
@@ -1938,33 +1850,6 @@
     "priority": "relevante",
     "beyond_90": true,
     "id": "ev-air-americas-americas-cargo-logistic-transport-2027",
-    "source_kind": "auto",
-    "last_updated": "2026-09-02",
-    "first_seen": "2026-09-02"
-  },
-  {
-    "scope": "intl",
-    "name": "Air Cargo Forum 2026 (TIACA)",
-    "organizer": "TIACA (The International Air Cargo Association)",
-    "date_start": "2026-10-26",
-    "date_end": "2026-10-29",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Miami Beach",
-    "province": null,
-    "country": "Estados Unidos",
-    "venue": "Miami Beach Convention Center",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Logística",
-    "url": "https://www.aircargoforum.org/event/Home/summary",
-    "source_url": "https://tiaca.org/tiaca-announces-air-cargo-forum-2026-returning-to-miami-beach-for-a-bold-new-chapter-of-global-leadership-and-connection/",
-    "description": "Encuentro global de la industria de carga aérea, con más de 4.000 profesionales de 80 países y 150 expositores, centrado en innovación y eficiencia en el transporte aéreo de mercadería.",
-    "fixy_relevance": "Buena parte del stock que Fixy almacena para sus clientes de eCommerce llega vía carga aérea desde Miami; útil para entender tendencias de costos y tiempos de importación que afectan directamente al fulfillment.",
-    "justification_type": "networking",
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-air-cargo-forum-tiaca-2026",
     "source_kind": "auto",
     "last_updated": "2026-09-02",
     "first_seen": "2026-09-02"
