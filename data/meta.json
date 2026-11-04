@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-03T12:08:28.442Z",
-  "last_updated_ar": "03/11/2026, 09:08",
-  "date": "2026-11-03",
+  "generated_at": "2026-11-04T12:06:15.950Z",
+  "last_updated_ar": "04/11/2026, 09:06",
+  "date": "2026-11-04",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "CyberMonday en pleno desarrollo hasta el 4/11 y sin novedades verificables nuevas hoy.",
+  "summary_line": "CyberMonday cierra hoy con datos preliminares de crecimiento nominal fuerte pero conversión a la baja; sin novedades verificables nuevas de agenda ni IA.",
   "counters": {
-    "news_today": 0,
-    "news_total": 5,
+    "news_today": 1,
+    "news_total": 6,
     "events_upcoming": 27,
     "events_ar_upcoming": 19,
     "events_intl_upcoming": 8,
@@ -15,14 +15,14 @@
     "opportunities_open": 8,
     "opportunities_today": 0,
     "ai_today": 0,
-    "ai_to_try": 52,
+    "ai_to_try": 51,
     "content_ideas": 1,
-    "added_news": 0,
+    "added_news": 1,
     "updated_news": 0,
     "added_events": 0,
     "updated_events": 0,
     "added_ai": 0,
-    "archived": 0,
+    "archived": 3,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,25 +34,25 @@
   },
   "highlights": [
     {
-      "id": "nw-adadbdebe2",
+      "id": "nw-21732ecc66",
       "kind": "news",
-      "title": "CyberMonday 2026 arranca el 2/11 con casi 800 empresas y 15.000 ofertas",
-      "priority": "alta",
-      "one_liner": "El pico de CyberMonday sigue hasta el 4/11: la operación tiene que sostener volumen concentrado."
+      "title": "CyberMonday arrancó con $25.000 millones en un día en Tiendanube y 2,1 millones de visitas al sitio oficial",
+      "priority": "relevante",
+      "one_liner": "Más tráfico que conversión: el pico de pedidos llega concentrado a la operación en estos días."
     },
     {
       "id": "ev-cybermonday-2026",
       "kind": "event",
       "title": "CyberMonday 2026",
       "priority": "alta",
-      "one_liner": "Del 2 al 4 de noviembre, con picos de envíos y devoluciones que exigen capacidad de última milla reforzada."
+      "one_liner": "Hoy es el último día del evento; la semana siguiente trae el pico de devoluciones y entregas pendientes."
     },
     {
       "id": "nw-66c1f6c085",
       "kind": "news",
       "title": "Mercado Libre inauguró en Escobar su mayor centro logístico del país, con inversión de US$115 millones",
       "priority": "relevante",
-      "one_liner": "Mercado Libre amplía su capacidad logística justo antes del pico de fin de año."
+      "one_liner": "Mercado Libre amplía capacidad de fulfillment justo antes del pico de fin de año."
     }
   ]
 }

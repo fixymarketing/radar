@@ -112,5 +112,28 @@
     "source_kind": "auto",
     "last_updated": "2026-11-01",
     "first_seen": "2026-11-01"
+  },
+  {
+    "title": "CyberMonday arrancó con $25.000 millones en un día en Tiendanube y 2,1 millones de visitas al sitio oficial",
+    "what_happened": "Según Tiendanube, las tiendas de su plataforma facturaron $25.000 millones en la primera jornada del CyberMonday (2/11), un 42,5% más que en 2025, aunque la conversión bajó de 1,28% a 1,10% pese al aumento de sesiones. La CACE informó más de 2,1 millones de visitas acumuladas en el sitio oficial. Todavía no hay balance consolidado de la CACE.",
+    "why_it_matters": "El tráfico crece más que la conversión: hay más curiosidad que compra, y con inflación del 33,4% interanual el crecimiento real es bastante menor que el nominal. Las cifras son preliminares y dependen del deflactor.",
+    "fixy_impact": "El pico de pedidos de las tiendas chicas llega concentrado a la operación de fulfillment y última milla en estos días y en la semana siguiente.",
+    "category": "eCommerce",
+    "geo": "Argentina",
+    "source_name": "Diario de Cuyo",
+    "source_url": "https://www.diariodecuyo.com.ar/economia/el-cybermonday-2026-arranco-ventas-record-25000-millones-la-primera-jornada-n6587573",
+    "published_date": "2026-11-03",
+    "priority": "relevante",
+    "tags": [
+      "CyberMonday",
+      "Tiendanube",
+      "conversión",
+      "ventas",
+      "pico de demanda"
+    ],
+    "id": "nw-21732ecc66",
+    "source_kind": "auto",
+    "last_updated": "2026-11-04",
+    "first_seen": "2026-11-04"
   }
 ]

@@ -3848,5 +3848,178 @@
     "source_kind": "auto",
     "last_updated": "2026-09-02",
     "first_seen": "2026-09-02"
+  },
+  {
+    "scope": "ar",
+    "name": "TecWeek Buenos Aires 2026",
+    "organizer": "Gobierno de la Ciudad de Buenos Aires",
+    "date_start": "2026-10-20",
+    "date_end": "2026-10-31",
+    "date_confirmed": true,
+    "date_note": "iProfesional y el folleto oficial del Gobierno porteño dicen del 20 al 31 de octubre; Dealroom trae 21 al 31 y un agregador (andresospina.co) el 5 de noviembre, que parece erróneo.",
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "country": "Argentina",
+    "venue": "BA Ferial como sede principal, más CEC, Usina del Arte y CC Konex",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Tecnología",
+    "url": "https://tecweek.com.ar",
+    "source_url": "https://www.iprofesional.com/tecnologia/465639-llega-la-tecweek-2026-fecha-en-octubre-y-que-eventos-habra-este-ano",
+    "description": "Semana de tecnologías emergentes con eventos distribuidos en distintos barrios porteños. Este año cambia la sede principal respecto de la edición 2025 en Costa Salguero.",
+    "fixy_relevance": "Concentra charlas sobre IA, fintech y tecnología aplicada que pueden servir para detectar herramientas y contactos para operaciones y comercial.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-aires-buenos-tecweek-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-10-12",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-09-16",
+        "fields": [
+          "province",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-18",
+        "fields": [
+          "date_note",
+          "province",
+          "venue",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-09-19",
+        "fields": [
+          "date_note",
+          "city",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-10-08",
+        "fields": [
+          "date_note",
+          "city",
+          "province",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-10-12",
+        "fields": [
+          "date_note",
+          "city",
+          "province",
+          "venue",
+          "url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "LABITCONF 26",
+    "organizer": "LABITCONF",
+    "date_start": "2026-10-30",
+    "date_end": "2026-10-31",
+    "date_confirmed": true,
+    "date_note": "En la agenda figuraba el 29/10 como fecha única. Según fuentes oficiales, el 29/10 es un evento de networking ejecutivo solo para tickets \"Experience\"; la conferencia principal es el 30 y 31 de octubre en Costa Salguero.",
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "country": "Argentina",
+    "venue": "BAFerial (ex Costa Salguero)",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Pagos y Fintech",
+    "url": "https://www.labitconf.com/",
+    "source_url": "https://www.diariobitcoin.com/argentina/regresa-labitconf-2026-con-su-edicion-hodl-a-la-capital-argentina-este-30-y-31-de-octubre/",
+    "description": "14ª edición de la conferencia cripto más grande de Latinoamérica, con foco en Bitcoin, el concepto HODL e inteligencia artificial aplicada a finanzas.",
+    "fixy_relevance": "Permite seguir de cerca la adopción de cripto y stablecoins como medio de pago, relevante para la estrategia de cobros de Fixy y de sus clientes de eCommerce.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-labitconf-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-08-23",
+    "change_log": [
+      {
+        "date": "2026-08-27",
+        "fields": [
+          "organizer",
+          "date_note",
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-08-30",
+        "fields": [
+          "organizer",
+          "date_start",
+          "date_end",
+          "date_note",
+          "province",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-13",
+        "fields": [
+          "date_end",
+          "date_note",
+          "province",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-19",
+        "fields": [
+          "organizer",
+          "date_start",
+          "date_note",
+          "city",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "fields": [
+          "organizer",
+          "venue",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   }
 ]

@@ -619,5 +619,27 @@
     "source_kind": "auto",
     "last_updated": "2026-09-01",
     "first_seen": "2026-08-20"
+  },
+  {
+    "name": "Claude Academy",
+    "vendor": "Anthropic",
+    "what_it_is": "Centro de aprendizaje gratuito de Anthropic con 26 cursos cortos para aprender a usar Claude, desde lo básico hasta Claude Code y la API, sin pagar suscripción.",
+    "what_changed": "El 20 de agosto Anthropic relanzó lo que antes era Anthropic Academy bajo el nombre Claude Academy, en academy.claude.com, reorganizando los cursos por producto y sumando recomendaciones personalizadas de qué camino seguir.",
+    "fixy_use": "Sirve para destrabar a quienes en el equipo todavía usan Claude solo para preguntas sueltas: con un par de cursos cortos y gratuitos pueden aprender a armar prompts para atención al cliente o a usar Claude Cowork para tareas de fondo, sin depender de que alguien les explique todo a mano.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis y resuelve un problema real de un equipo chico sin tiempo para capacitarse por su cuenta.",
+    "categories": [
+      "Organización",
+      "Management",
+      "Productividad"
+    ],
+    "pricing_note": "gratis: no requiere suscripción paga de Claude",
+    "source_url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+    "published_date": "2026-08-20",
+    "priority": "informativo",
+    "id": "ai-anthropic-claude-academy",
+    "source_kind": "auto",
+    "last_updated": "2026-08-22",
+    "first_seen": "2026-08-22"
   }
 ]
