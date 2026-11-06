@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T12:07:05.735Z",
+  "updated_at": "2026-11-06T12:07:25.326Z",
   "files": [
     {
       "file": "ai-2026-05.json",
@@ -44,7 +44,7 @@
     {
       "file": "news-2026-10.json",
       "kind": "news",
-      "count": 5
+      "count": 6
     },
     {
       "file": "opportunities-2026-08.json",
