@@ -112,5 +112,28 @@
     "source_kind": "auto",
     "last_updated": "2026-11-04",
     "first_seen": "2026-11-04"
+  },
+  {
+    "title": "CyberMonday 2026 cerró con $682.185 millones: más unidades vendidas, pero la facturación cayó 20% real",
+    "what_happened": "CACE informó que la edición del 2 al 4 de noviembre facturó $682.185 millones, 6,8% más que los $639.000 millones de 2025 en términos nominales. Las órdenes de compra bajaron a casi 6,5 millones (desde 6,9 millones), mientras que las unidades vendidas subieron a más de 14,6 millones (12,1 millones en 2025) y el ticket promedio pasó de $92.000 a $105.039.",
+    "why_it_matters": "Con inflación interanual cercana al 34%, la facturación real cayó alrededor de 20%. El comprador consolida más productos por pedido y compra de forma más planificada y selectiva.",
+    "fixy_impact": "Menos pedidos pero más unidades por orden implica paquetes más grandes y de mayor valor: conviene reforzar el mensaje de calidad de preparación y seguro ante el Black Friday del 27/11.",
+    "category": "eCommerce",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/11/06/malas-noticias-para-el-consumo-online-el-cybermonday-vendio-un-20-menos-que-el-ano-anterior/",
+    "published_date": "2026-11-06",
+    "priority": "alta",
+    "tags": [
+      "CyberMonday",
+      "CACE",
+      "consumo",
+      "ticket promedio",
+      "facturación"
+    ],
+    "id": "nw-b5333cd4e2",
+    "source_kind": "auto",
+    "last_updated": "2026-11-07",
+    "first_seen": "2026-11-07"
   }
 ]
