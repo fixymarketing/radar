@@ -1,85 +1,6 @@
 [
   {
     "scope": "ar",
-    "name": "CyberMonday 2026",
-    "organizer": "CACE (Cámara Argentina de Comercio Electrónico)",
-    "date_start": "2026-11-02",
-    "date_end": "2026-11-04",
-    "date_confirmed": true,
-    "date_note": "Lunes 2 a miércoles 4 de noviembre según CACE y notas de fines de octubre; Tiendanube publica 3 al 5 (dato desactualizado de 2025).",
-    "city": "Online",
-    "province": "Nacional",
-    "country": "Argentina",
-    "venue": "Online (cybermonday.com.ar)",
-    "venue_confirmed": true,
-    "format": "virtual",
-    "category": "eCommerce",
-    "url": "https://www.cybermonday.com.ar",
-    "source_url": "https://www.noticiasnqn.com.ar/noticias/2026/10/28/358518-cybermonday-2026-en-argentina-tres-dias-de-ofertas-cuotas-y-descuentos-desde-el-2-de-noviembre",
-    "description": "Evento de ventas online de 72 horas con más de 900 empresas adheridas.",
-    "fixy_relevance": "Pico de volumen de envíos y devoluciones; exige capacidad operativa y última milla reforzadas.",
-    "justification_type": null,
-    "priority": "alta",
-    "beyond_90": false,
-    "id": "ev-cybermonday-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-11-01",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-10-11",
-        "fields": [
-          "organizer",
-          "date_note",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-10-13",
-        "fields": [
-          "organizer",
-          "date_note",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-10-19",
-        "fields": [
-          "organizer",
-          "date_note",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-10-21",
-        "fields": [
-          "date_note",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-11-01",
-        "fields": [
-          "organizer",
-          "date_note",
-          "province",
-          "venue",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
     "name": "ARLOG - XXXIII Encuentro Nacional de Logística Empresaria",
     "organizer": "ARLOG - Asociación Argentina de Logística Empresaria",
     "date_start": "2026-11-12",
@@ -852,78 +773,6 @@
           "fixy_relevance",
           "priority",
           "beyond_90"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
-    "name": "Expo GlobalPorts 2026 – Hidrovía & Offshore",
-    "organizer": "CIP-OEA, AAPA-LATAM, Bolsa de Cereales de Buenos Aires, CPPC y CIARA-CEC",
-    "date_start": "2026-11-03",
-    "date_end": "2026-11-04",
-    "date_confirmed": true,
-    "date_note": "Se confirmó el segundo día del evento (4 de noviembre) y la sede exacta, antes solo figuraba el 3 de noviembre.",
-    "city": "Buenos Aires",
-    "province": "Buenos Aires",
-    "country": "Argentina",
-    "venue": "Bolsa de Cereales de Buenos Aires",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Logística",
-    "url": "https://eventos.globalports.com.ar/en/",
-    "source_url": "https://www.globalports.com.ar/expo-globalports-2026-hidrovia-offshore-buenos-aires/",
-    "description": "Exposición con 50 stands, el 36° Seminario Internacional de Puertos, Vías Navegables, Transporte Multimodal y Comercio Exterior, workshops técnicos y rondas de negocios sobre logística portuaria, hidrovía y offshore.",
-    "fixy_relevance": "Conecta a Fixy con el ecosistema portuario y de comercio exterior que define costos y tiempos de importación de mercadería para eCommerce, clave para anticipar cuellos de botella logísticos y negociar tarifas de transporte.",
-    "justification_type": null,
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-globalports-hidrovia-offshore-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-29",
-    "first_seen": "2026-08-20",
-    "change_log": [
-      {
-        "date": "2026-08-21",
-        "fields": [
-          "organizer",
-          "city",
-          "province",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
-      {
-        "date": "2026-08-26",
-        "fields": [
-          "organizer",
-          "city",
-          "province",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-08-27",
-        "fields": [
-          "organizer",
-          "date_note",
-          "url",
-          "description",
-          "fixy_relevance",
-          "priority"
-        ]
-      },
-      {
-        "date": "2026-08-29",
-        "fields": [
-          "organizer",
-          "province",
-          "url",
-          "description",
-          "fixy_relevance",
-          "priority"
         ]
       }
     ]
@@ -1938,33 +1787,6 @@
         ]
       }
     ]
-  },
-  {
-    "scope": "ar",
-    "name": "AWS Cloud and AI Day Buenos Aires 2026",
-    "organizer": "Amazon Web Services (AWS)",
-    "date_start": "2026-11-04",
-    "date_end": "2026-11-04",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Ciudad Autónoma de Buenos Aires",
-    "province": "Buenos Aires (CABA)",
-    "country": "Argentina",
-    "venue": "Centro de Convenciones Buenos Aires (Av. Pres. Figueroa Alcorta 2099, CABA)",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Tecnología",
-    "url": "https://aws.amazon.com/es/events/cloud-days/buenos-aires/",
-    "source_url": "https://aws.amazon.com/es/events/cloud-days/buenos-aires/",
-    "description": "Evento gratuito de un día organizado directamente por AWS, con charlas y casos de clientes sobre inteligencia artificial, analítica de datos, migración a la nube y soluciones por industria. Es un evento distinto del AWS Community Day Argentina (organizado por la comunidad, ya realizado el 12 de septiembre).",
-    "fixy_relevance": "Buena fuente para entender hacia dónde va la adopción de IA y nube aplicada a operaciones (incluye casos por industria), útil para evaluar proveedores tecnológicos y tendencias que después bajan al sector logístico y retail.",
-    "justification_type": null,
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-ai-aires-aws-buenos-cloud-day-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-14",
-    "first_seen": "2026-09-14"
   },
   {
     "scope": "intl",

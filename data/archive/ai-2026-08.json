@@ -641,5 +641,68 @@
     "source_kind": "auto",
     "last_updated": "2026-08-22",
     "first_seen": "2026-08-22"
+  },
+  {
+    "name": "Simulaciones y visualizaciones interactivas en la app de Gemini",
+    "vendor": "Google",
+    "what_it_is": "Gemini puede convertir una pregunta en una visualización interactiva (tablas, gráficos, simulaciones) directamente en el chat, en vez de devolver solo texto o una imagen fija.",
+    "what_changed": "Google empezó a lanzar esta función el 24 de agosto de 2026 para todos los clientes de Workspace y suscriptores de Gemini; antes las respuestas eran mayormente texto con diagramas estáticos.",
+    "fixy_use": "Sirve para pedirle a Gemini que arme, por ejemplo, una tabla interactiva que explique cómo evoluciona el volumen de despachos por zona o el costo por envío, para mostrarla en una reunión de management sin depender de un diseñador ni armar el gráfico a mano. También puede usarse para explicarle a un cliente de forma visual cómo funciona una tarifa o una promoción de envíos.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis para quien ya usa Gemini y puede mejorar cómo se presentan datos operativos sin herramientas extra.",
+    "categories": [
+      "Análisis",
+      "Contenido"
+    ],
+    "pricing_note": "freemium - incluido en cuentas de Workspace y la app de Gemini, sin costo adicional confirmado",
+    "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/",
+    "published_date": "2026-08-24",
+    "priority": "relevante",
+    "id": "ai-google-simulaciones-y-visualizaciones-interactivas-en-la-app",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-28"
+  },
+  {
+    "name": "\"Take notes for me\" de Google Meet para reuniones presenciales",
+    "vendor": "Google",
+    "what_it_is": "Función de Gemini en Google Meet que toma notas automáticamente durante reuniones presenciales, usando el hardware de la sala.",
+    "what_changed": "Google anunció que a partir del 26 de agosto (dispositivos Early Preview) y del 2 de septiembre de 2026 (el resto) se puede iniciar, pausar y controlar la toma de notas directamente desde el controlador táctil del hardware de la sala, sin necesitar el modo Companion en un celular o notebook.",
+    "fixy_use": "En una reunión de coordinación diaria entre operaciones y atención al cliente, cualquier persona presente puede pausar la toma de notas con un toque en la pantalla de la sala (por ejemplo al tratar un tema sensible con un cliente puntual) y retomarla después, sin depender de que alguien tenga la laptop abierta.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora de comodidad sobre algo que ya estaba en el radar; solo aplica si Fixy tiene hardware de sala compatible con Google Meet.",
+    "categories": [
+      "Organización",
+      "Gestión del tiempo"
+    ],
+    "pricing_note": "no confirmado - depende de contar con hardware de Google Meet compatible y plan de Workspace con Gemini",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/08/control-take-notes-for-me-directly-from-Google-Meet-hardware-touch-controllers.html",
+    "published_date": "2026-08-24",
+    "priority": "informativo",
+    "id": "ai-google-take-notes-for-me-de-google-meet-para-reuniones-prese",
+    "source_kind": "auto",
+    "last_updated": "2026-08-28",
+    "first_seen": "2026-08-19"
+  },
+  {
+    "name": "ElevenAgents: triage de conversaciones",
+    "vendor": "ElevenLabs",
+    "what_it_is": "Es una función de la plataforma de agentes de voz y chat de ElevenLabs que permite revisar automáticamente las conversaciones de un agente de IA, marcar cuando dio una respuesta incorrecta o inventó información, y generar un ticket para que una persona lo corrija.",
+    "what_changed": "El 24 de agosto de 2026 ElevenLabs sacó esta función de beta y la puso disponible de forma general dentro de ElevenAgents, con tipos de ticket predefinidos como 'información incorrecta' o 'acción equivocada' y asignación a miembros del equipo.",
+    "fixy_use": "Si Fixy avanza con un agente de voz o de WhatsApp para responder consultas de estado de envío o turnos de entrega, esta función permite detectar cuándo el agente contestó mal sobre una demora o una dirección y corregirlo antes de que se repita, algo clave para no perder confianza con clientes finales en la última milla.",
+    "verdict": "seguir",
+    "verdict_reason": "Todavía no hay un agente de este tipo en Fixy, pero es una función a tener en cuenta si en algún momento se evalúa un proveedor de agentes de voz para atención al cliente.",
+    "categories": [
+      "Operaciones",
+      "Automatización"
+    ],
+    "pricing_note": "freemium + función incluida en los planes pagos de ElevenAgents; ElevenLabs tiene un nivel gratuito limitado para probar.",
+    "source_url": "https://elevenlabs.io/docs/changelog/2026/8/24",
+    "published_date": "2026-08-24",
+    "priority": "informativo",
+    "id": "ai-elevenlabs-elevenagents-triage-de-conversaciones",
+    "source_kind": "auto",
+    "last_updated": "2026-09-04",
+    "first_seen": "2026-09-04"
   }
 ]
