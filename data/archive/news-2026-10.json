@@ -135,5 +135,28 @@
     "source_kind": "auto",
     "last_updated": "2026-10-15",
     "first_seen": "2026-10-15"
+  },
+  {
+    "title": "Día de la Madre: las ventas pyme cayeron 1,4% interanual, la quinta baja consecutiva, pese a las promociones",
+    "what_happened": "Según el relevamiento de CAME difundido el domingo 18 de octubre, las ventas minoristas pyme por el Día de la Madre bajaron 1,4% interanual a precios constantes. El ticket promedio fue de $63.197 y nueve de cada diez comercios ofrecieron descuentos. Cuatro de los seis rubros relevados cayeron, con las mayores bajas en electrodomésticos, hogar y audio y video.",
+    "why_it_matters": "Confirma un consumo débil que prioriza regalos de menor valor, aun con promociones masivas. Es la lectura más fresca de la demanda antes de CyberMonday y Black Friday.",
+    "fixy_impact": "Los clientes de Fixy llegan al pico de noviembre con ventas planas: conviene ajustar proyecciones de volumen y cuidar costos de almacenamiento y envío en la temporada.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/10/18/dia-de-la-madre-las-ventas-cayeron-por-quinto-ano-consecutivo-pese-a-que-9-de-cada-10-comercios-ofrecieron-descuentos/",
+    "published_date": "2026-10-18",
+    "priority": "relevante",
+    "tags": [
+      "Día de la Madre",
+      "CAME",
+      "consumo",
+      "pymes",
+      "retail"
+    ],
+    "id": "nw-62ae07ac72",
+    "source_kind": "auto",
+    "last_updated": "2026-10-19",
+    "first_seen": "2026-10-19"
   }
 ]

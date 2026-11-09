@@ -1443,50 +1443,6 @@
     "first_seen": "2026-08-21"
   },
   {
-    "name": "Python en Excel con Copilot",
-    "vendor": "Microsoft",
-    "what_it_is": "Una función de Copilot en Excel que permite pedirle en lenguaje natural que ejecute código Python sobre los datos de la planilla, para hacer análisis estadísticos, simulaciones y gráficos más avanzados que con fórmulas tradicionales.",
-    "what_changed": "En la actualización de agosto de 2026, 'Edit with Copilot' sumó la skill @python-in-excel que genera fórmulas Python editables y refrescables directamente en la planilla, junto con un historial de cambios que resume cómo evolucionó el archivo y permite deshacer ediciones puntuales.",
-    "fixy_use": "Fixy podría usarlo para analizar planillas de pedidos, costos de envío por zona o performance de repartidores sin depender de alguien que sepa programar: se pide en español que calcule promedios, detecte outliers o arme un gráfico, y Excel genera y explica el código solo. También sirve para armar reportes mensuales para management sin exportar los datos a otra herramienta.",
-    "verdict": "probar",
-    "verdict_reason": "Baja fricción si el equipo ya usa Microsoft 365, y habilita análisis que hoy probablemente no se hacen por falta de tiempo o de alguien que programe.",
-    "categories": [
-      "Análisis",
-      "Productividad",
-      "Automatización"
-    ],
-    "pricing_note": "pago — requiere suscripción a Microsoft 365 Copilot; la skill de Python está en fase Insiders/Feedback in Action, puede tardar en llegar a todas las cuentas",
-    "source_url": "https://www.neowin.net/news/here-are-all-the-new-features-microsoft-added-to-excel-in-august-2026/",
-    "published_date": "2026-08-25",
-    "priority": "relevante",
-    "id": "ai-microsoft-python-en-excel-con-copilot",
-    "source_kind": "auto",
-    "last_updated": "2026-08-27",
-    "first_seen": "2026-08-27"
-  },
-  {
-    "name": "Copilot en Excel: habilidades de gráficos, tablas dinámicas e historial de cambios",
-    "vendor": "Microsoft",
-    "what_it_is": "Nuevas 'habilidades' de Copilot dentro de Excel: @chart-design para armar gráficos y tablas dinámicas automáticamente, y un historial de cambios que resume cómo evolucionó una planilla y quién hizo cada modificación (persona o IA).",
-    "what_changed": "Microsoft las incorporó en la actualización de Excel de agosto de 2026, disponibles en Windows, Mac y web.",
-    "fixy_use": "Alguien de operaciones o comercial puede pedirle a Copilot que arme un gráfico o tabla dinámica de despachos por zona o cliente sin construirla a mano, y usar el historial de cambios para entender rápido qué se modificó en una planilla compartida de tarifas o stock sin revisar celda por celda.",
-    "verdict": "probar",
-    "verdict_reason": "Reduce tiempo armando reportes en Excel, que probablemente es donde vive buena parte de la data operativa de Fixy.",
-    "categories": [
-      "Análisis",
-      "Productividad",
-      "Operaciones"
-    ],
-    "pricing_note": "pago - requiere licencia de Microsoft 365 Copilot",
-    "source_url": "https://techcommunity.microsoft.com/blog/excelblog/whats-new-in-excel-august-2026/4527283",
-    "published_date": "2026-08-25",
-    "priority": "relevante",
-    "id": "ai-microsoft-copilot-en-excel-habilidades-de-graficos-tablas-di",
-    "source_kind": "auto",
-    "last_updated": "2026-08-28",
-    "first_seen": "2026-08-28"
-  },
-  {
     "name": "Gemini 4 Carbon",
     "vendor": "Google",
     "what_it_is": "Nuevo modelo de IA de Google, el siguiente tras Gemini 4 Argon, orientado a programación y tareas de agentes.",
@@ -2224,47 +2180,5 @@
     "source_kind": "auto",
     "last_updated": "2026-08-31",
     "first_seen": "2026-08-30"
-  },
-  {
-    "name": "ChatGPT: Site tools con WebMCP en el navegador",
-    "vendor": "OpenAI",
-    "what_it_is": "Una función del navegador integrado de ChatGPT en la app de escritorio que le permite a los agentes de ChatGPT usar herramientas que el propio sitio web expone (WebMCP), en vez de tener que simular clics y formularios como hace un agente de navegación tradicional.",
-    "what_changed": "OpenAI lo anunció el 25 de agosto de 2026 junto con un 'WebMCP Challenge' de diez días para que desarrolladores agreguen soporte a sus sitios; disponible para ChatGPT Work y Codex en el navegador de escritorio.",
-    "fixy_use": "Hoy tiene poco impacto directo porque casi ningún sitio que usa Fixy (bancos, AFIP, portales de transportistas) soporta todavía WebMCP, pero es una tendencia para seguir de cerca: si Tiendanube, Mercado Pago o algún transportista lo suman, ChatGPT podría operar esos paneles de forma mucho más confiable que hoy. Vale la pena guardarlo en el radar y volver a mirarlo en unos meses.",
-    "verdict": "seguir",
-    "verdict_reason": "Es un estándar recién anunciado sin adopción todavía entre los sitios que usa Fixy, así que por ahora no hay una acción concreta que tomar.",
-    "categories": [
-      "Automatización",
-      "Operaciones"
-    ],
-    "pricing_note": "pago: disponible dentro de ChatGPT Work y Codex; el estándar WebMCP en sí es abierto y gratuito para que los sitios lo implementen",
-    "source_url": "https://x.com/OpenAIDevs/status/2092344885676495197",
-    "published_date": "2026-08-25",
-    "priority": "informativo",
-    "id": "ai-openai-chatgpt-site-tools-con-webmcp-en-el-navegador",
-    "source_kind": "auto",
-    "last_updated": "2026-09-02",
-    "first_seen": "2026-09-02"
-  },
-  {
-    "name": "n8n 2.37: validación de credenciales y estabilidad para agentes IA",
-    "vendor": "n8n",
-    "what_it_is": "Una actualización de mantenimiento de n8n que valida las credenciales de los triggers de Chat y MCP contra el usuario final en vez de saltear ese chequeo, y sube el límite de tokens de verificación de modelos para que dejen de fallar las credenciales de IA con modelos de contexto grande.",
-    "what_changed": "Se liberó el 25 de agosto de 2026 (versión 2.37.0, con el mismo fix también en 2.36.7): corrige fallas que hacían que flujos con agentes de IA o triggers de chat/MCP se rompieran por problemas de autenticación o por modelos con ventanas de contexto grandes.",
-    "fixy_use": "Si Fixy ya tiene flujos de n8n con el trigger de Chat o el servidor MCP conectados a un agente de IA (por ejemplo, para atención al cliente o para el Agent Builder ya trackeado en el radar), esta actualización reduce errores silenciosos de autenticación y evita que se corten por límites de tokens al usar modelos más grandes. Conviene actualizar la instancia y revisar que los triggers de chat sigan funcionando después del update.",
-    "verdict": "seguir",
-    "verdict_reason": "Es una mejora de estabilidad, no una capacidad nueva, así que solo aplica si Fixy ya tiene flujos de IA corriendo en n8n.",
-    "categories": [
-      "Automatización",
-      "Operaciones"
-    ],
-    "pricing_note": "gratis en la edición self-hosted de código abierto; pago en n8n Cloud según plan",
-    "source_url": "https://github.com/n8n-io/n8n/releases/tag/n8n@2.37.0",
-    "published_date": "2026-08-25",
-    "priority": "informativo",
-    "id": "ai-n8n-n8n-2-37-validacion-de-credenciales-y-estabilidad-para-a",
-    "source_kind": "auto",
-    "last_updated": "2026-09-02",
-    "first_seen": "2026-09-02"
   }
 ]
