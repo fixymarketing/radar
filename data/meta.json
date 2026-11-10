@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-09T12:08:56.007Z",
-  "last_updated_ar": "09/11/2026, 09:08",
-  "date": "2026-11-09",
+  "generated_at": "2026-11-10T12:07:49.836Z",
+  "last_updated_ar": "10/11/2026, 09:07",
+  "date": "2026-11-10",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Lunes sin novedades verificables nuevas: sigue central el balance del CyberMonday y esta semana se juega el Encuentro de ARLOG (12/11) y Food Delivery Day en la agenda.",
+  "summary_line": "Martes sin novedades verificables nuevas: sigue el balance del CyberMonday y esta semana se juegan ARLOG y Food Delivery Day (12/11).",
   "counters": {
     "news_today": 0,
     "news_total": 5,
-    "events_upcoming": 21,
+    "events_upcoming": 22,
     "events_ar_upcoming": 13,
-    "events_intl_upcoming": 8,
-    "events_later": 38,
+    "events_intl_upcoming": 9,
+    "events_later": 37,
     "opportunities_open": 8,
     "opportunities_today": 0,
     "ai_today": 0,
-    "ai_to_try": 48,
+    "ai_to_try": 43,
     "content_ideas": 2,
     "added_news": 0,
     "updated_news": 0,
     "added_events": 0,
     "updated_events": 0,
     "added_ai": 0,
-    "archived": 7,
+    "archived": 5,
     "discarded_quality": 0
   },
   "next_event": {
@@ -38,21 +38,21 @@
       "kind": "event",
       "title": "ARLOG - XXXIII Encuentro Nacional de Logística Empresaria",
       "priority": "alta",
-      "one_liner": "El jueves 12/11 en Escobar es el evento central del sector logístico argentino de este mes."
-    },
-    {
-      "id": "nw-b5333cd4e2",
-      "kind": "news",
-      "title": "CyberMonday 2026 cerró con $682.185 millones: más unidades vendidas, pero la facturación cayó 20% real",
-      "priority": "alta",
-      "one_liner": "El balance del CyberMonday marca el piso de demanda con el que Fixy llega al Black Friday del 27/11."
+      "one_liner": "El jueves 12/11 en Escobar se reúne el sector logístico argentino: networking directo y lectura de tendencias."
     },
     {
       "id": "ev-day-delivery-food-2026",
       "kind": "event",
       "title": "Food Delivery Day 2026",
       "priority": "relevante",
-      "one_liner": "Foco directo en última milla y reparto urbano el 12/11 en Buenos Aires."
+      "one_liner": "El 12/11 en Buenos Aires, con foco en última milla y reparto urbano."
+    },
+    {
+      "id": "nw-b5333cd4e2",
+      "kind": "news",
+      "title": "CyberMonday 2026 cerró con $682.185 millones: más unidades vendidas, pero la facturación cayó 20% real",
+      "priority": "relevante",
+      "one_liner": "Más unidades pero menos facturación real: insumo para planificar el Black Friday del 27/11."
     }
   ]
 }
