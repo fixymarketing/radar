@@ -112,5 +112,50 @@
     "source_kind": "auto",
     "last_updated": "2026-11-07",
     "first_seen": "2026-11-07"
+  },
+  {
+    "title": "Las ventas minoristas pyme cayeron 1,6% en octubre, pero las ventas online de los comercios crecieron 17,7%",
+    "what_happened": "Según el Índice de Ventas Minoristas Pymes de CAME, las ventas de octubre cayeron 1,6% interanual a precios constantes y subieron 0,3% frente a septiembre, con un acumulado de -2% en el año. Las ventas online de los comercios con local a la calle crecieron 17,7% interanual. El relevamiento abarcó 1.161 comercios entre el 30 de octubre y el 5 de noviembre.",
+    "why_it_matters": "El canal online sigue siendo el único que crece con firmeza en el comercio pyme, aun con el consumo general en baja y compras de ticket chico. Confirma que el comercio con local físico sigue migrando ventas al canal digital.",
+    "fixy_impact": "Los comercios pyme con local que ya venden online son un segmento en expansión que necesita resolver almacenamiento y envíos: es argumento comercial concreto para ofrecerles fulfillment de cara a Black Friday y fin de año.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Misiones Online (informe de CAME)",
+    "source_url": "https://misionesonline.net/2026/11/08/ventas-minoristas-pyme-cayeron-octubre-2026/",
+    "published_date": "2026-11-08",
+    "priority": "relevante",
+    "tags": [
+      "CAME",
+      "ventas minoristas",
+      "pymes",
+      "canal online"
+    ],
+    "id": "nw-865dad25b1",
+    "source_kind": "auto",
+    "last_updated": "2026-11-11",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "title": "Bagayeros saquearon oficinas de Andreani y Center Pack en Aguas Blancas en una protesta contra las empresas de encomiendas",
+    "what_happened": "El martes 10 de noviembre, una protesta de bagayeros en la frontera de Aguas Blancas (Salta) y Bermejo (Bolivia) terminó con ataques y saqueos a oficinas de empresas de encomiendas, entre ellas Andreani y Center Pack, con intervención policial y personas varadas en el paso. Los manifestantes reclaman que las empresas de courier y las ventas online les quitaron el trabajo de traslado de mercadería. El interventor de Aguas Blancas, Adrián Zigarán, pidió por escrito a la Fiscalía que los transportes y las empresas de encomiendas pasen obligatoriamente por el control integrado de Aduana sobre la Ruta Nacional 50.",
+    "why_it_matters": "El avance del eCommerce y de las redes de encomiendas en el norte está generando conflicto con el comercio informal de frontera, y eso se traduce en riesgo físico para sucursales y mercadería. Además, podría derivar en controles aduaneros más estrictos para los envíos que circulan por la zona.",
+    "fixy_impact": "Si Fixy despacha envíos hacia Salta o el NOA a través de transportistas que operan en esa zona, conviene monitorear demoras y posibles nuevos controles sobre la Ruta 50 y avisar a los clientes con anticipación.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "El Tribuno",
+    "source_url": "https://www.eltribuno.com/municipios/2026-11-10-19-52-0-video-tension-en-aguas-blancas-bagayeros-reclaman-contra-empresas-de-encomiendas-y-saquearon-una-oficina-de-andreani",
+    "published_date": "2026-11-10",
+    "priority": "informativo",
+    "tags": [
+      "Andreani",
+      "encomiendas",
+      "seguridad",
+      "Salta",
+      "frontera"
+    ],
+    "id": "nw-3e5084e5e7",
+    "source_kind": "auto",
+    "last_updated": "2026-11-11",
+    "first_seen": "2026-11-11"
   }
 ]

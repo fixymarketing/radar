@@ -1,5 +1,27 @@
 [
   {
+    "name": "Businesses in ChatGPT (Business Hub y Business Agents)",
+    "vendor": "OpenAI",
+    "what_it_is": "Un perfil verificado de empresa dentro de ChatGPT, parecido a la ficha de Google: la empresa reclama su perfil, corrige sus datos y ve métricas de cuántas veces ChatGPT la menciona y cuántos clics manda a su web.",
+    "what_changed": "OpenAI lo lanzó en beta el 10 de noviembre de 2026. Reclamar el perfil (Business Hub) está disponible para negocios con sitio web en los mercados donde funciona ChatGPT; los Business Agents, que atienden consultas de usuarios, por ahora son solo para eCommerce y servicios online de Estados Unidos.",
+    "fixy_use": "Marketing puede reclamar el perfil de Fixy para que ChatGPT muestre datos correctos (servicios, zonas de cobertura, contacto) cuando alguien pregunte por operadores logísticos para su tienda online. El panel muestra en qué temas aparece Fixy y cuántos clics llegan a la web, un dato que hoy no tienen sobre la visibilidad en buscadores con IA.",
+    "verdict": "probar",
+    "verdict_reason": "Reclamar el perfil es rápido y le da a Fixy control y métricas sobre cómo la presenta ChatGPT a potenciales clientes.",
+    "categories": [
+      "Marketing",
+      "Comercial",
+      "Análisis"
+    ],
+    "pricing_note": "no confirmado — beta; las fuentes no informan costo para reclamar el perfil, y los anuncios patrocinados son pagos",
+    "source_url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "published_date": "2026-11-10",
+    "priority": "alta",
+    "id": "ai-openai-businesses-in-chatgpt-business-hub-y-business-agents",
+    "source_kind": "auto",
+    "last_updated": "2026-11-11",
+    "first_seen": "2026-11-11"
+  },
+  {
     "name": "SimpliRoute ADA",
     "vendor": "SimpliRoute",
     "what_it_is": "ADA es el conjunto de agentes de inteligencia artificial autónomos de SimpliRoute que toman decisiones en tiempo real sobre rutas, incidencias y excepciones en operaciones de última milla.",
@@ -152,6 +174,74 @@
     "source_kind": "auto",
     "last_updated": "2026-09-19",
     "first_seen": "2026-09-19"
+  },
+  {
+    "name": "Claude Meetings",
+    "vendor": "Anthropic",
+    "what_it_is": "Claude entra a las videollamadas de Google Meet como un participante visible: toma notas, contesta preguntas en el chat de la reunión, busca datos en las apps conectadas y arma planes o tareas mientras la gente habla.",
+    "what_changed": "Anthropic lo anunció el 10 de noviembre de 2026 como beta para los planes Team y Enterprise. Por ahora funciona solo con Google Meet; Teams y Zoom vendrán más adelante. Al terminar la llamada, las notas, los pendientes y lo que armó Claude quedan en claude.ai.",
+    "fixy_use": "En la reunión semanal de operaciones o en una llamada comercial interna, Claude puede ir anotando incidencias por cliente, sacar la lista de pendientes con responsables y dejar un borrador del plan de acción antes de que se corte la llamada. Con clientes o carriers de afuera solo se suma si el admin lo habilita, así que conviene arrancar por reuniones internas.",
+    "verdict": "seguir",
+    "verdict_reason": "Muy útil para un equipo chico con muchas reuniones, pero está en beta, pide plan Team o Enterprise y solo anda con Google Meet.",
+    "categories": [
+      "Productividad",
+      "Organización",
+      "Gestión del tiempo",
+      "Management"
+    ],
+    "pricing_note": "pago — incluido en la beta de los planes Team y Enterprise de Claude; no hay precio propio publicado",
+    "source_url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "published_date": "2026-11-10",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-meetings",
+    "source_kind": "auto",
+    "last_updated": "2026-11-11",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "name": "Claude Sheets",
+    "vendor": "Anthropic",
+    "what_it_is": "Una planilla de cálculo dentro de Claude que editás junto con la IA: pestañas, fórmulas, formato y listas desplegables, con cada cambio de Claude resaltado. Se exporta a .xlsx o CSV.",
+    "what_changed": "Salió en beta el 10 de noviembre de 2026 para los planes pagos (Pro, Max, Ultra, Team y Enterprise), junto con Claude Whiteboards. Anthropic la define como básica por ahora: no trae datos en vivo de apps conectadas.",
+    "fixy_use": "Sirve para armar rápido un cotizador de fulfillment por cliente (almacenamiento, picking, envíos) o una planilla de control de incidencias de última milla, pidiéndole a Claude que arme fórmulas y validaciones y después bajarla a Excel. Para planillas grandes que ya existen conviene seguir usando Excel o Google Sheets con su integración de Claude.",
+    "verdict": "probar",
+    "verdict_reason": "Si ya pagan Claude, no cuesta nada probarla para planillas chicas de cotización y control.",
+    "categories": [
+      "Productividad",
+      "Análisis",
+      "Comercial",
+      "Operaciones"
+    ],
+    "pricing_note": "pago — beta incluida en los planes pagos de Claude; en Enterprise la tiene que activar el admin",
+    "source_url": "https://support.claude.com/en/articles/18324300-get-started-with-claude-sheets",
+    "published_date": "2026-11-10",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-sheets",
+    "source_kind": "auto",
+    "last_updated": "2026-11-11",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "name": "Gemini: edición de archivos dentro del chat",
+    "vendor": "Google",
+    "what_it_is": "Los archivos que genera Gemini (Docs, Sheets, presentaciones, PDF, texto) ahora se ven y se editan dentro del mismo chat: los abrís en pantalla completa y escribís a mano, o marcás una parte y le pedís a Gemini que la cambie.",
+    "what_changed": "Google lo anunció el 29 de octubre de 2026, ampliando la generación de archivos que había lanzado en abril. En la web funciona con todos los formatos; en el celular, por ahora, solo con PDF.",
+    "fixy_use": "Comercial puede pedirle a Gemini una propuesta o un PDF de tarifas para un cliente nuevo y ajustar los números o el texto ahí mismo, sin bajar el archivo ni pasarlo a otro programa. Atención al cliente puede hacer lo mismo con instructivos de devoluciones o de preparación de envíos.",
+    "verdict": "probar",
+    "verdict_reason": "Ahorra el ida y vuelta entre chat y editor en documentos comerciales del día a día, sin costo extra para quien ya usa Gemini.",
+    "categories": [
+      "Productividad",
+      "Comercial",
+      "Contenido"
+    ],
+    "pricing_note": "freemium — disponible para todos los usuarios de Gemini en los idiomas y regiones soportados",
+    "source_url": "https://www.androidheadlines.com/2026/10/gemini-edit-files-docs-pdf-directly-in-chat.html",
+    "published_date": "2026-10-29",
+    "priority": "relevante",
+    "id": "ai-google-gemini-edicion-de-archivos-dentro-del-chat",
+    "source_kind": "auto",
+    "last_updated": "2026-11-11",
+    "first_seen": "2026-11-11"
   },
   {
     "name": "ChatGPT Slides (presentaciones colaborativas en ChatGPT Work)",
@@ -1332,6 +1422,27 @@
     "first_seen": "2026-09-10"
   },
   {
+    "name": "ChatGPT Images 2.6",
+    "vendor": "OpenAI",
+    "what_it_is": "Nueva versión del generador de imágenes de ChatGPT, que ahora también hace GIFs animados y guarda imágenes de referencia (personas, personajes, productos) para reusarlas sin volver a subirlas.",
+    "what_changed": "OpenAI la lanzó el 4 de noviembre de 2026, dos meses después de Images 2.5, para todos los planes de ChatGPT. Suma los GIFs, las referencias guardadas y generación más rápida.",
+    "fixy_use": "Marketing puede animar en GIF el recorrido de un pedido (recepción, picking, despacho, entrega) para redes o emails, y guardar como referencia la mascota, el uniforme o el vehículo de Fixy para que todas las piezas salgan consistentes.",
+    "verdict": "probar",
+    "verdict_reason": "Mejora concreta para contenido de redes, con costo cero para quien ya usa ChatGPT.",
+    "categories": [
+      "Marketing",
+      "Contenido"
+    ],
+    "pricing_note": "freemium — disponible en todos los planes de ChatGPT, con límites de uso según el plan",
+    "source_url": "https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference/",
+    "published_date": "2026-11-04",
+    "priority": "informativo",
+    "id": "ai-openai-chatgpt-images-2-6",
+    "source_kind": "auto",
+    "last_updated": "2026-11-11",
+    "first_seen": "2026-11-11"
+  },
+  {
     "name": "Gemini 4 Carbon",
     "vendor": "Google",
     "what_it_is": "Nuevo modelo de IA de Google, el siguiente tras Gemini 4 Argon, orientado a programación y tareas de agentes.",
@@ -2048,26 +2159,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-15",
     "first_seen": "2026-09-15"
-  },
-  {
-    "name": "Gemini Omni 1.1 Flash",
-    "vendor": "Google",
-    "what_it_is": "Modelo de Google para generar y editar video con IA a través de la API de Gemini, con extensión de escenas, control por keyframes y salida en resolución de hasta 4K.",
-    "what_changed": "Pasó de preview a disponibilidad general (GA) el 27 de agosto de 2026, sumando esas funciones nuevas; Google va a discontinuar la versión preview anterior el 30 de septiembre de 2026.",
-    "fixy_use": "Es una capa técnica (API para desarrolladores), no una app lista para usar por marketing. Le sirve a Fixy si en algún momento se integra en una herramienta de edición o en Google Vids/Flow para generar clips cortos de producto o de operaciones para redes, pero hoy exige capacidad técnica que el equipo no tiene, así que conviene esperar a que llegue empaquetado en una app de consumo.",
-    "verdict": "seguir",
-    "verdict_reason": "Prometedor para contenido en video a futuro, pero hoy requiere integración vía desarrollador que el equipo no tiene.",
-    "categories": [
-      "Contenido",
-      "Productividad"
-    ],
-    "pricing_note": "pago — se factura por uso a través de la API de Gemini, sin tier gratis confirmado para este modelo",
-    "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-    "published_date": "2026-08-27",
-    "priority": "informativo",
-    "id": "ai-google-gemini-omni-1-1-flash",
-    "source_kind": "auto",
-    "last_updated": "2026-08-31",
-    "first_seen": "2026-08-30"
   }
 ]

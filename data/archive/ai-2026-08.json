@@ -901,5 +901,26 @@
     "source_kind": "auto",
     "last_updated": "2026-09-02",
     "first_seen": "2026-08-21"
+  },
+  {
+    "name": "Gemini Omni 1.1 Flash",
+    "vendor": "Google",
+    "what_it_is": "Modelo de Google para generar y editar video con IA a través de la API de Gemini, con extensión de escenas, control por keyframes y salida en resolución de hasta 4K.",
+    "what_changed": "Pasó de preview a disponibilidad general (GA) el 27 de agosto de 2026, sumando esas funciones nuevas; Google va a discontinuar la versión preview anterior el 30 de septiembre de 2026.",
+    "fixy_use": "Es una capa técnica (API para desarrolladores), no una app lista para usar por marketing. Le sirve a Fixy si en algún momento se integra en una herramienta de edición o en Google Vids/Flow para generar clips cortos de producto o de operaciones para redes, pero hoy exige capacidad técnica que el equipo no tiene, así que conviene esperar a que llegue empaquetado en una app de consumo.",
+    "verdict": "seguir",
+    "verdict_reason": "Prometedor para contenido en video a futuro, pero hoy requiere integración vía desarrollador que el equipo no tiene.",
+    "categories": [
+      "Contenido",
+      "Productividad"
+    ],
+    "pricing_note": "pago — se factura por uso a través de la API de Gemini, sin tier gratis confirmado para este modelo",
+    "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+    "published_date": "2026-08-27",
+    "priority": "informativo",
+    "id": "ai-google-gemini-omni-1-1-flash",
+    "source_kind": "auto",
+    "last_updated": "2026-08-31",
+    "first_seen": "2026-08-30"
   }
 ]

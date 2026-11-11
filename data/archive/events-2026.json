@@ -4253,5 +4253,47 @@
     "source_kind": "auto",
     "last_updated": "2026-09-26",
     "first_seen": "2026-09-26"
+  },
+  {
+    "scope": "ar",
+    "name": "Congreso de Logística y Transporte 2026 (UNaB)",
+    "organizer": "Universidad Nacional Guillermo Brown (UNaB)",
+    "date_start": "2026-11-07",
+    "date_end": "2026-11-07",
+    "date_confirmed": true,
+    "date_note": "Segunda edición; la fecha estaba antes sin confirmar y ya se definió para el sábado 7 de noviembre.",
+    "city": "Burzaco",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Campus de la Universidad Nacional Guillermo Brown, Blas Parera 132, Burzaco",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.congresologistica.unab.edu.ar/",
+    "source_url": "https://webpicking.com/la-unab-realizara-su-segundo-congreso-de-logistica-y-transporte/",
+    "description": "Segundo Congreso de Logística y Transporte organizado por la UNaB, con foco en innovación y desafíos del sector, dirigido a empresas, profesionales y expositores del sur del GBA.",
+    "fixy_relevance": "Espacio de networking de bajo costo con actores logísticos del sur del GBA, útil para detectar proveedores, tendencias operativas y potenciales alianzas para Fixy.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-congreso-logistica-transporte-unab-La 1",
+    "source_kind": "auto",
+    "last_updated": "2026-09-18",
+    "first_seen": "2026-09-13",
+    "change_log": [
+      {
+        "date": "2026-09-18",
+        "fields": [
+          "date_start",
+          "date_end",
+          "date_confirmed",
+          "date_note",
+          "venue_confirmed",
+          "description",
+          "fixy_relevance",
+          "source_url"
+        ]
+      }
+    ]
   }
 ]

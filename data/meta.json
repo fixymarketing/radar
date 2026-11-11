@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-11-10T12:07:49.836Z",
-  "last_updated_ar": "10/11/2026, 09:07",
-  "date": "2026-11-10",
+  "generated_at": "2026-11-11T12:11:05.357Z",
+  "last_updated_ar": "11/11/2026, 09:11",
+  "date": "2026-11-11",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Martes sin novedades verificables nuevas: sigue el balance del CyberMonday y esta semana se juegan ARLOG y Food Delivery Day (12/11).",
+  "summary_line": "Miércoles con ARLOG y Food Delivery Day a un día: el canal online de las pymes con local crece 17,7% mientras el consumo cae, y ChatGPT abre perfiles para empresas.",
   "counters": {
-    "news_today": 0,
-    "news_total": 5,
-    "events_upcoming": 22,
-    "events_ar_upcoming": 13,
-    "events_intl_upcoming": 9,
-    "events_later": 37,
+    "news_today": 2,
+    "news_total": 7,
+    "events_upcoming": 25,
+    "events_ar_upcoming": 15,
+    "events_intl_upcoming": 10,
+    "events_later": 38,
     "opportunities_open": 8,
-    "opportunities_today": 0,
-    "ai_today": 0,
-    "ai_to_try": 43,
-    "content_ideas": 2,
-    "added_news": 0,
+    "opportunities_today": 2,
+    "ai_today": 5,
+    "ai_to_try": 47,
+    "content_ideas": 3,
+    "added_news": 2,
     "updated_news": 0,
-    "added_events": 0,
-    "updated_events": 0,
-    "added_ai": 0,
-    "archived": 5,
+    "added_events": 5,
+    "updated_events": 2,
+    "added_ai": 5,
+    "archived": 4,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-cordoba-startup-weekend-2026",
-    "name": "Startup Weekend Córdoba 2026",
-    "date_start": "2026-11-08",
-    "city": "Córdoba",
+    "id": "ev-lisboa-summit-web-2026",
+    "name": "Web Summit Lisboa 2026",
+    "date_start": "2026-11-09",
+    "city": "Lisboa",
     "days_away": 0
   },
   "highlights": [
@@ -38,21 +38,35 @@
       "kind": "event",
       "title": "ARLOG - XXXIII Encuentro Nacional de Logística Empresaria",
       "priority": "alta",
-      "one_liner": "El jueves 12/11 en Escobar se reúne el sector logístico argentino: networking directo y lectura de tendencias."
+      "one_liner": "Es mañana en Escobar: el encuentro central del sector logístico argentino para hacer networking con operadores y transportistas."
     },
     {
       "id": "ev-day-delivery-food-2026",
       "kind": "event",
       "title": "Food Delivery Day 2026",
       "priority": "relevante",
-      "one_liner": "El 12/11 en Buenos Aires, con foco en última milla y reparto urbano."
+      "one_liner": "También mañana: foco directo en última milla y reparto urbano, el núcleo del negocio de Fixy."
     },
     {
-      "id": "nw-b5333cd4e2",
+      "id": "nw-865dad25b1",
       "kind": "news",
-      "title": "CyberMonday 2026 cerró con $682.185 millones: más unidades vendidas, pero la facturación cayó 20% real",
+      "title": "Las ventas minoristas pyme cayeron 1,6% en octubre, pero las ventas online de los comercios crecieron 17,7%",
       "priority": "relevante",
-      "one_liner": "Más unidades pero menos facturación real: insumo para planificar el Black Friday del 27/11."
+      "one_liner": "El canal online de las pymes con local crece fuerte con el consumo en baja: un segmento concreto para ofrecer fulfillment antes de fin de año."
+    },
+    {
+      "id": "ai-openai-businesses-in-chatgpt-business-hub-y-business-agents",
+      "kind": "ai",
+      "title": "Businesses in ChatGPT (Business Hub y Business Agents)",
+      "priority": "relevante",
+      "one_liner": "Fixy puede reclamar su perfil para controlar cómo aparece cuando alguien le pregunta a ChatGPT por operadores logísticos."
+    },
+    {
+      "id": "nw-3e5084e5e7",
+      "kind": "news",
+      "title": "Bagayeros saquearon oficinas de Andreani y Center Pack en Aguas Blancas en una protesta contra las empresas de encomiendas",
+      "priority": "informativo",
+      "one_liner": "Conflicto en la frontera salteña que puede traer demoras y más controles aduaneros en los envíos al NOA."
     }
   ]
 }

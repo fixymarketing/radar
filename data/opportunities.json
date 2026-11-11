@@ -1,5 +1,36 @@
 [
   {
+    "title": "Ofrecer un paquete de fulfillment de fin de año a pymes con local que están creciendo en el canal online",
+    "context": "Según el índice de CAME de octubre, las ventas minoristas pyme cayeron 1,6% interanual, pero las ventas online de los comercios con local crecieron 17,7%. Son comercios que suman pedidos digitales sin tener resuelto el almacenamiento ni los envíos, justo antes de Black Friday y las fiestas.",
+    "action": "Armar esta semana una propuesta corta (almacenamiento + picking + última milla, sin mínimos altos) dirigida a comercios pyme con local que venden online, y moverla en las cámaras de comercio locales y en el Día del Emprendedor del 17/11.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://misionesonline.net/2026/11/08/ventas-minoristas-pyme-cayeron-octubre-2026/",
+    "linked": [
+      "Las ventas minoristas pyme cayeron 1,6% en octubre, pero las ventas online de los comercios crecieron 17,7%",
+      "Día del Emprendedor (Buenos Aires Ciudad) 2026"
+    ],
+    "id": "op-2fb142f4",
+    "source_kind": "auto",
+    "last_updated": "2026-11-11",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "title": "Reclamar y completar el perfil de Fixy en Businesses in ChatGPT",
+    "context": "OpenAI habilitó que las empresas reclamen su perfil para que ChatGPT muestre datos correctos cuando alguien pregunta por un servicio, con un panel de visibilidad y clics. Cada vez más tiendas online buscan proveedores logísticos preguntándole a un asistente de IA.",
+    "action": "Que marketing reclame el perfil de Fixy, cargue servicios, zonas de cobertura y contacto, y revise en un mes en qué consultas aparece Fixy y cuántos clics llegan a la web.",
+    "type": "marketing",
+    "priority": "relevante",
+    "source_url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "linked": [
+      "Businesses in ChatGPT (Business Hub y Business Agents)"
+    ],
+    "id": "op-893f6b12",
+    "source_kind": "auto",
+    "last_updated": "2026-11-11",
+    "first_seen": "2026-11-11"
+  },
+  {
     "title": "Cerrar con los clientes la capacidad de fulfillment y última milla para el pico de CyberMonday y Black Friday",
     "context": "CACE confirmó CyberMonday del 2 al 4 de noviembre y Black Friday el 27 de noviembre. Un relevamiento en Perú anticipa que la demanda de delivery puede crecer hasta 82% en el último trimestre, y en Argentina la logística ya mueve casi un millón de pedidos por día.",
     "action": "Pedir esta semana a los clientes activos su proyección de volumen para noviembre y reservar capacidad de depósito, personal y rutas con esa base, ofreciendo un cupo garantizado a quienes confirmen primero.",
@@ -93,35 +124,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-27",
     "first_seen": "2026-09-27"
-  },
-  {
-    "title": "Evaluar qué cambia para el cobro y el financiamiento de Fixy cuando Mercado Pago sea banco",
-    "context": "El BCRA confirmó que Mercado Pago (y Revolut) tendrán licencia bancaria antes de fin de año. Fixy cobra a través del ecosistema de pagos que usan sus clientes de eCommerce, así que el cambio de estatus de Mercado Pago puede modificar plazos de acreditación o condiciones de crédito disponibles.",
-    "action": "Pedir a Mercado Pago información concreta sobre cómo cambian los plazos de acreditación y las condiciones de crédito para cuentas comerciales cuando obtenga la licencia bancaria, y evaluar si conviene renegociar condiciones antes de fin de año.",
-    "type": "estratégica",
-    "priority": "informativo",
-    "source_url": "https://www.infobae.com/economia/2026/09/24/el-banco-central-confirmo-que-mercado-libre-tendra-licencia-para-operar-como-banco-antes-de-fin-de-ano/",
-    "linked": [
-      "El BCRA confirmó que Mercado Pago y Revolut serán bancos antes de fin de año"
-    ],
-    "id": "op-6391d75a",
-    "source_kind": "auto",
-    "last_updated": "2026-09-27",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "title": "Auditar el encuadre legal de los choferes tercerizados que mueven la mercadería de Fixy",
-    "context": "El Sindicato de Camioneros bloqueó 48 horas una planta en Arrecifes para exigir que se pase a relación de dependencia a choferes que hoy trabajan bajo un vínculo comercial tercerizado. El precedente muestra que el gremio puede paralizar por completo una operación logística por este reclamo, algo que golpea directo a esquemas de fleteros o transportistas externos como los que suele usar la última milla.",
-    "action": "Revisar con Legales cómo están encuadrados hoy los contratos con fleteros y choferes tercerizados de Fixy, para anticipar el mismo tipo de reclamo antes de que escale a un bloqueo.",
-    "type": "estratégica",
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/politica/2026/09/25/el-sindicato-de-camioneros-mantiene-bloqueada-desde-hace-48-horas-una-empresa-en-arrecifes-y-denunciaron-que-hay-amenazas/",
-    "linked": [
-      "El Sindicato de Camioneros bloqueó una planta en Arrecifes por un reclamo de tercerización de choferes"
-    ],
-    "id": "op-abea5de4",
-    "source_kind": "auto",
-    "last_updated": "2026-09-26",
-    "first_seen": "2026-09-26"
   }
 ]

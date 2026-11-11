@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Evaluar qué cambia para el cobro y el financiamiento de Fixy cuando Mercado Pago sea banco",
+    "context": "El BCRA confirmó que Mercado Pago (y Revolut) tendrán licencia bancaria antes de fin de año. Fixy cobra a través del ecosistema de pagos que usan sus clientes de eCommerce, así que el cambio de estatus de Mercado Pago puede modificar plazos de acreditación o condiciones de crédito disponibles.",
+    "action": "Pedir a Mercado Pago información concreta sobre cómo cambian los plazos de acreditación y las condiciones de crédito para cuentas comerciales cuando obtenga la licencia bancaria, y evaluar si conviene renegociar condiciones antes de fin de año.",
+    "type": "estratégica",
+    "priority": "informativo",
+    "source_url": "https://www.infobae.com/economia/2026/09/24/el-banco-central-confirmo-que-mercado-libre-tendra-licencia-para-operar-como-banco-antes-de-fin-de-ano/",
+    "linked": [
+      "El BCRA confirmó que Mercado Pago y Revolut serán bancos antes de fin de año"
+    ],
+    "id": "op-6391d75a",
+    "source_kind": "auto",
+    "last_updated": "2026-09-27",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "title": "Auditar el encuadre legal de los choferes tercerizados que mueven la mercadería de Fixy",
+    "context": "El Sindicato de Camioneros bloqueó 48 horas una planta en Arrecifes para exigir que se pase a relación de dependencia a choferes que hoy trabajan bajo un vínculo comercial tercerizado. El precedente muestra que el gremio puede paralizar por completo una operación logística por este reclamo, algo que golpea directo a esquemas de fleteros o transportistas externos como los que suele usar la última milla.",
+    "action": "Revisar con Legales cómo están encuadrados hoy los contratos con fleteros y choferes tercerizados de Fixy, para anticipar el mismo tipo de reclamo antes de que escale a un bloqueo.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/politica/2026/09/25/el-sindicato-de-camioneros-mantiene-bloqueada-desde-hace-48-horas-una-empresa-en-arrecifes-y-denunciaron-que-hay-amenazas/",
+    "linked": [
+      "El Sindicato de Camioneros bloqueó una planta en Arrecifes por un reclamo de tercerización de choferes"
+    ],
+    "id": "op-abea5de4",
+    "source_kind": "auto",
+    "last_updated": "2026-09-26",
+    "first_seen": "2026-09-26"
+  }
+]
