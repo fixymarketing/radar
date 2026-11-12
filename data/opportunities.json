@@ -1,5 +1,35 @@
 [
   {
+    "title": "Diferenciar a las tiendas locales frente al cross-border con entrega rápida desde stock en Argentina",
+    "context": "Aeropuertos Argentina prepara en Ezeiza una terminal única de courier de 15.000 m² porque el volumen de compras en Shein, Temu y Amazon casi se triplicó en un año. Con el cross-border ganando infraestructura propia, las marcas locales necesitan competir por plazo y previsibilidad de entrega, no solo por precio.",
+    "action": "Armar una propuesta comercial para tiendas que compiten con productos importados: fulfillment con stock en Argentina, despacho en el día y entrega en 24-48 h, con un comparativo de plazos frente al courier internacional para usar en la venta.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.mdzol.com/sociedad/2026/11/11/boom-de-shein-y-temu-ezeiza-inaugura-una-nueva-terminal-para-recibir-las-compras-1994691.html",
+    "linked": [
+      "Ezeiza prepara una terminal única de courier de 15.000 m² ante el boom de compras en Shein, Temu y Amazon"
+    ],
+    "id": "op-d9b329f9",
+    "source_kind": "auto",
+    "last_updated": "2026-11-12",
+    "first_seen": "2026-11-12"
+  },
+  {
+    "title": "Probar un tablero de stock y envíos por cliente publicado con Gemini Sheets Canvas antes de Black Friday",
+    "context": "Google habilitó publicar un canvas de Sheets en un link propio de solo lectura, sin compartir la planilla de origen. Con el pico de Black Friday (27/11) en camino, los clientes van a pedir más visibilidad sobre su stock y sus despachos.",
+    "action": "Armar un piloto con uno o dos clientes: un canvas con stock disponible, pedidos del día y estado de envíos, publicado como link restringido al dominio del cliente, y medir si baja la cantidad de consultas a atención durante la temporada alta.",
+    "type": "producto",
+    "priority": "informativo",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/11/publish-sheets-canvas-as-standalone-link.html",
+    "linked": [
+      "Gemini Sheets Canvas: hojas de cálculo a apps interactivas"
+    ],
+    "id": "op-75b23088",
+    "source_kind": "auto",
+    "last_updated": "2026-11-12",
+    "first_seen": "2026-11-12"
+  },
+  {
     "title": "Ofrecer un paquete de fulfillment de fin de año a pymes con local que están creciendo en el canal online",
     "context": "Según el índice de CAME de octubre, las ventas minoristas pyme cayeron 1,6% interanual, pero las ventas online de los comercios con local crecieron 17,7%. Son comercios que suman pedidos digitales sin tener resuelto el almacenamiento ni los envíos, justo antes de Black Friday y las fiestas.",
     "action": "Armar esta semana una propuesta corta (almacenamiento + picking + última milla, sin mínimos altos) dirigida a comercios pyme con local que venden online, y moverla en las cámaras de comercio locales y en el Día del Emprendedor del 17/11.",
@@ -93,36 +123,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-28",
     "first_seen": "2026-09-28"
-  },
-  {
-    "title": "Cerrar el presupuesto de transporte de los próximos 6 meses con la paritaria de Camioneros ya firmada",
-    "context": "Camioneros cerró un acuerdo salarial de 6,6% semestral más un bono de $1.200.000, alineado con la pauta oficial. Es una de las pocas variables de costo laboral logístico que quedó fija y previsible hasta marzo, justo antes de que arranquen CyberMonday y Black Friday.",
-    "action": "Actualizar ya el presupuesto de transporte y flota tercerizada con el nuevo costo laboral confirmado, antes de cerrar tarifas con clientes para la temporada de fin de año.",
-    "type": "estratégica",
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/politica/2026/09/18/hugo-moyano-volvio-a-firmar-un-acuerdo-salarial-alineado-con-la-pauta-del-gobierno-que-regira-durante-6-meses/",
-    "linked": [
-      "Camioneros cerró una paritaria de 6,6% semestral y un bono de $1.200.000",
-      "CACE confirmó las fechas de CyberMonday y Black Friday 2026 y abrió las inscripciones"
-    ],
-    "id": "op-071da1ff",
-    "source_kind": "auto",
-    "last_updated": "2026-09-27",
-    "first_seen": "2026-09-27"
-  },
-  {
-    "title": "Auditar el volumen de mensajes de servicio por WhatsApp antes de que Meta empiece a cobrarlos en octubre",
-    "context": "Meta empieza a cobrar los mensajes de servicio de WhatsApp Business que superen los 1.000 gratis por número a partir de octubre. Fixy usa WhatsApp para avisos de seguimiento de pedidos y coordinación de entregas con clientes finales, un volumen que puede superar ese límite en temporada alta.",
-    "action": "Medir cuántos mensajes de servicio manda hoy Fixy por WhatsApp, decidir si conviene repartir el volumen en más números o derivar las consultas repetitivas (\"¿dónde está mi pedido?\") a un bot antes de que empiece a cobrarse, especialmente de cara a CyberMonday.",
-    "type": "producto",
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/tecno/2026/09/06/whatsapp-business-cobrara-por-responder-mensajes-en-2026-a-quienes-afecta-y-a-quienes-no/",
-    "linked": [
-      "WhatsApp Business: cobro de mensajes de servicio desde octubre"
-    ],
-    "id": "op-67f56c78",
-    "source_kind": "auto",
-    "last_updated": "2026-09-27",
-    "first_seen": "2026-09-27"
   }
 ]

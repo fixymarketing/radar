@@ -157,5 +157,50 @@
     "source_kind": "auto",
     "last_updated": "2026-11-11",
     "first_seen": "2026-11-11"
+  },
+  {
+    "title": "Ezeiza prepara una terminal única de courier de 15.000 m² ante el boom de compras en Shein, Temu y Amazon",
+    "what_happened": "Aeropuertos Argentina prevé inaugurar esta semana en Ezeiza la Terminal Única de Courier, un espacio de 15.000 metros cuadrados para centralizar el procesamiento de los envíos internacionales. El aeropuerto recibe hoy unas 2.500 toneladas mensuales de compras por courier, casi el triple que hace un año. Según el INDEC, las importaciones por courier sumaron unos US$960 millones entre enero y septiembre de 2026, un 59,5% más que en el mismo período de 2025.",
+    "why_it_matters": "El cross-border de plataformas como Shein, Temu y Amazon gana escala con infraestructura propia y entregas más rápidas, lo que aumenta la presión competitiva sobre las marcas y tiendas locales en precio y en plazos de entrega.",
+    "fixy_impact": "Más velocidad en el ingreso de paquetes del exterior sube la vara de plazos que esperan los compradores; conviene reforzar en la comunicación comercial la ventaja del stock local con entrega en el día o al día siguiente.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "MDZ Online",
+    "source_url": "https://www.mdzol.com/sociedad/2026/11/11/boom-de-shein-y-temu-ezeiza-inaugura-una-nueva-terminal-para-recibir-las-compras-1994691.html",
+    "published_date": "2026-11-11",
+    "priority": "relevante",
+    "tags": [
+      "courier",
+      "cross-border",
+      "Ezeiza",
+      "Shein y Temu",
+      "importaciones"
+    ],
+    "id": "nw-89c3f3004e",
+    "source_kind": "auto",
+    "last_updated": "2026-11-12",
+    "first_seen": "2026-11-12"
+  },
+  {
+    "title": "Paro indefinido de camioneros en Chile por la suba del diésel: bloqueos de rutas y alertas por el abastecimiento",
+    "what_happened": "Desde el martes 10 de noviembre, transportistas chilenos sostienen un paro indefinido con bloqueos parciales de rutas en protesta por el alza de los combustibles, en particular del diésel. El gobierno anunció un proyecto para contener los precios, pero los dirigentes del paro dijeron que la medida continúa; las confederaciones CNTC y CNDC no se sumaron. La Cámara Nacional de Comercio de Chile advirtió que el conflicto amenaza el abastecimiento y las ventas de fin de año.",
+    "why_it_matters": "Muestra cómo el costo del combustible puede escalar a conflictos que cortan cadenas de suministro en plena temporada alta, y suma incertidumbre al transporte internacional entre Argentina y Chile.",
+    "fixy_impact": null,
+    "category": "Logística",
+    "geo": "LATAM",
+    "source_name": "Infobae (Movant)",
+    "source_url": "https://www.infobae.com/movant/2026/11/12/el-costo-del-diesel-en-chile-empuja-un-paro-de-camioneros-con-efectos-en-el-suministro-regional/",
+    "published_date": "2026-11-12",
+    "priority": "informativo",
+    "tags": [
+      "Chile",
+      "paro de transporte",
+      "diésel",
+      "abastecimiento"
+    ],
+    "id": "nw-17fd3ce48d",
+    "source_kind": "auto",
+    "last_updated": "2026-11-12",
+    "first_seen": "2026-11-12"
   }
 ]

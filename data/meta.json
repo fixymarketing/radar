@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-11T12:11:05.357Z",
-  "last_updated_ar": "11/11/2026, 09:11",
-  "date": "2026-11-11",
+  "generated_at": "2026-11-12T12:11:13.629Z",
+  "last_updated_ar": "12/11/2026, 09:11",
+  "date": "2026-11-12",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Miércoles con ARLOG y Food Delivery Day a un día: el canal online de las pymes con local crece 17,7% mientras el consumo cae, y ChatGPT abre perfiles para empresas.",
+  "summary_line": "Jueves de ARLOG en Escobar: Ezeiza suma una terminal de courier ante el boom de Shein y Temu, Chile arranca un paro de camioneros por el diésel y la Black Week mayorista adelanta el pico de Black Friday.",
   "counters": {
     "news_today": 2,
-    "news_total": 7,
-    "events_upcoming": 25,
-    "events_ar_upcoming": 15,
+    "news_total": 9,
+    "events_upcoming": 27,
+    "events_ar_upcoming": 17,
     "events_intl_upcoming": 10,
-    "events_later": 38,
+    "events_later": 39,
     "opportunities_open": 8,
     "opportunities_today": 2,
-    "ai_today": 5,
-    "ai_to_try": 47,
-    "content_ideas": 3,
+    "ai_today": 1,
+    "ai_to_try": 45,
+    "content_ideas": 4,
     "added_news": 2,
     "updated_news": 0,
-    "added_events": 5,
-    "updated_events": 2,
-    "added_ai": 5,
-    "archived": 4,
+    "added_events": 3,
+    "updated_events": 0,
+    "added_ai": 1,
+    "archived": 7,
     "discarded_quality": 0
   },
   "next_event": {
@@ -38,35 +38,35 @@
       "kind": "event",
       "title": "ARLOG - XXXIII Encuentro Nacional de Logística Empresaria",
       "priority": "alta",
-      "one_liner": "Es mañana en Escobar: el encuentro central del sector logístico argentino para hacer networking con operadores y transportistas."
+      "one_liner": "Es hoy en Escobar: el encuentro central del sector logístico argentino para hacer networking con operadores, transportistas y dadores de carga."
     },
     {
-      "id": "ev-day-delivery-food-2026",
-      "kind": "event",
-      "title": "Food Delivery Day 2026",
-      "priority": "relevante",
-      "one_liner": "También mañana: foco directo en última milla y reparto urbano, el núcleo del negocio de Fixy."
-    },
-    {
-      "id": "nw-865dad25b1",
+      "id": "nw-89c3f3004e",
       "kind": "news",
-      "title": "Las ventas minoristas pyme cayeron 1,6% en octubre, pero las ventas online de los comercios crecieron 17,7%",
+      "title": "Ezeiza prepara una terminal única de courier de 15.000 m² ante el boom de compras en Shein, Temu y Amazon",
       "priority": "relevante",
-      "one_liner": "El canal online de las pymes con local crece fuerte con el consumo en baja: un segmento concreto para ofrecer fulfillment antes de fin de año."
+      "one_liner": "El cross-border casi triplicó su volumen en un año y ahora suma infraestructura propia: más presión en precio y plazo para las tiendas locales que atiende Fixy."
     },
     {
-      "id": "ai-openai-businesses-in-chatgpt-business-hub-y-business-agents",
-      "kind": "ai",
-      "title": "Businesses in ChatGPT (Business Hub y Business Agents)",
-      "priority": "relevante",
-      "one_liner": "Fixy puede reclamar su perfil para controlar cómo aparece cuando alguien le pregunta a ChatGPT por operadores logísticos."
-    },
-    {
-      "id": "nw-3e5084e5e7",
+      "id": "nw-17fd3ce48d",
       "kind": "news",
-      "title": "Bagayeros saquearon oficinas de Andreani y Center Pack en Aguas Blancas en una protesta contra las empresas de encomiendas",
+      "title": "Paro indefinido de camioneros en Chile por la suba del diésel: bloqueos de rutas y alertas por el abastecimiento",
       "priority": "informativo",
-      "one_liner": "Conflicto en la frontera salteña que puede traer demoras y más controles aduaneros en los envíos al NOA."
+      "one_liner": "Conviene seguirlo si algún cliente depende de insumos o envíos que cruzan a Chile en plena temporada alta."
+    },
+    {
+      "id": "ev-black-mayorista-nacional-week-2026",
+      "kind": "event",
+      "title": "Black Week Nacional Mayorista 2026",
+      "priority": "informativo",
+      "one_liner": "Del 16 al 23 de noviembre adelanta la demanda de Black Friday en consumo masivo: dato útil para planificar capacidad de despacho."
+    },
+    {
+      "id": "ai-google-gemini-sheets-canvas-hojas-de-calculo-a-apps-interact",
+      "kind": "ai",
+      "title": "Gemini Sheets Canvas: hojas de cálculo a apps interactivas",
+      "priority": "relevante",
+      "one_liner": "Ahora se puede publicar un tablero en un link de solo lectura sin exponer la planilla: sirve para darle a cada cliente visibilidad de su stock y sus envíos."
     }
   ]
 }

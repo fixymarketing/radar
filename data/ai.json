@@ -176,6 +176,28 @@
     "first_seen": "2026-09-19"
   },
   {
+    "name": "Gemini Sheets Canvas: hojas de cálculo a apps interactivas",
+    "vendor": "Google",
+    "what_it_is": "Función de Gemini en Google Sheets que convierte una planilla en una mini app visual (tablero, kanban o calendario) sin programar.",
+    "what_changed": "Desde el 11/11 (Rapid Release) un canvas se puede publicar en un link propio de solo lectura, separado de la planilla y con su propia audiencia, así se comparte la vista sin exponer el archivo completo. Viene activado por defecto y depende de que el admin tenga habilitado \"Publicar en la web\" en Drive.",
+    "fixy_use": "Armar en Sheets un canvas por cliente con stock disponible, pedidos del día y estado de envíos, y mandarle solo el link publicado en vez de compartir la planilla con todos los datos internos. Internamente, publicar un tablero de la temporada alta (Black Friday) para que operaciones y atención vean lo mismo sin tocar la fuente. Ojo: si se publica a la web, el link es accesible sin login, así que conviene restringir la audiencia al dominio o no incluir datos sensibles.",
+    "verdict": "probar",
+    "verdict_reason": "Resuelve con herramientas que Fixy probablemente ya usa el problema de compartir reportes a clientes sin exponer la planilla madre.",
+    "categories": [
+      "Análisis",
+      "Operaciones",
+      "Comercial"
+    ],
+    "pricing_note": "pago: incluido en ediciones de Google Workspace con Gemini; la lista exacta de planes es Por confirmar y hay límites de uso por usuario",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/11/publish-sheets-canvas-as-standalone-link.html",
+    "published_date": "2026-11-11",
+    "priority": "relevante",
+    "id": "ai-google-gemini-sheets-canvas-hojas-de-calculo-a-apps-interact",
+    "source_kind": "auto",
+    "last_updated": "2026-11-12",
+    "first_seen": "2026-09-08"
+  },
+  {
     "name": "Claude Meetings",
     "vendor": "Anthropic",
     "what_it_is": "Claude entra a las videollamadas de Google Meet como un participante visible: toma notas, contesta preguntas en el chat de la reunión, busca datos en las apps conectadas y arma planes o tareas mientras la gente habla.",
@@ -220,6 +242,28 @@
     "source_kind": "auto",
     "last_updated": "2026-11-11",
     "first_seen": "2026-11-11"
+  },
+  {
+    "name": "Claude Dashboards y Claude Motion",
+    "vendor": "Anthropic",
+    "what_it_is": "Función de Claude que arma tableros e informes a partir de datos conectados (bases de datos, warehouses o CRM), con gráficos que se pueden compartir con el equipo.",
+    "what_changed": "El 10/11 Anthropic sacó Dashboards de la beta y la relanzó como Claude Data, disponible en todos los planes pagos. Suma métricas \"certificadas\", caché con frecuencia de actualización por tablero, historial de cambios con vuelta atrás y \"data stories\" o videos narrados a partir de las métricas; las consultas certificadas y el uso compartido en vivo siguen en beta.",
+    "fixy_use": "Conectar la base de pedidos o el WMS (si vive en BigQuery, Redshift o similar) y armar un tablero fijo de operación: pedidos despachados por día, cumplimiento de SLA de última milla y devoluciones por cliente, con las definiciones de cada métrica fijadas para que no se discutan. Con el uso compartido en vivo, management o un cliente puede ver el resultado sin tener acceso al conector. La \"data story\" sirve para preparar en minutos el resumen mensual de desempeño que se manda a cada cliente.",
+    "verdict": "probar",
+    "verdict_reason": "Ya es GA, no tiene costo extra sobre el plan pago y ataca directo el reporting operativo que hoy se arma a mano.",
+    "categories": [
+      "Análisis",
+      "Operaciones",
+      "Management"
+    ],
+    "pricing_note": "pago: incluido en todos los planes pagos de Claude, sin cargo adicional anunciado (sujeto a los límites de uso)",
+    "source_url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "published_date": "2026-11-10",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-dashboards-y-claude-motion",
+    "source_kind": "auto",
+    "last_updated": "2026-11-12",
+    "first_seen": "2026-10-17"
   },
   {
     "name": "Gemini: edición de archivos dentro del chat",
@@ -308,29 +352,6 @@
     "source_kind": "auto",
     "last_updated": "2026-10-18",
     "first_seen": "2026-10-18"
-  },
-  {
-    "name": "Claude Dashboards y Claude Motion",
-    "vendor": "Anthropic",
-    "what_it_is": "Dashboards arma paneles de datos en vivo a partir de una pregunta en lenguaje natural, conectándose a plataformas de datos (BigQuery, Snowflake, Databricks, Redshift, ClickHouse) o a un CRM como Salesforce. Motion convierte reportes y gráficos en animaciones cortas editables que se exportan en MP4.",
-    "what_changed": "Anthropic los lanzó en beta el 8 de octubre de 2026. Cada número del panel se puede rastrear hasta su consulta y cada gráfico muestra cuándo se actualizó por última vez. Además, Docs, Slides y Design salieron de beta y quedaron disponibles en todos los planes, incluido el gratuito.",
-    "fixy_use": "Si Fixy tiene sus datos de despachos, devoluciones o SLA en una base o en un CRM, puede pedirle a Claude un panel que se mantenga actualizado por cliente o por courier, sin armar una herramienta de BI. Motion sirve para convertir el reporte mensual de performance en un video corto para mostrarle a un cliente o publicar en LinkedIn. Hoy los conectores son de plataformas de datos, así que con planillas sueltas habría que migrar los datos primero.",
-    "verdict": "seguir",
-    "verdict_reason": "Es útil solo si los datos operativos de Fixy están en una base o CRM compatible, y ambas funciones siguen en beta.",
-    "categories": [
-      "Análisis",
-      "Operaciones",
-      "Contenido",
-      "Management"
-    ],
-    "pricing_note": "pago: Dashboards en beta en planes pagos de Claude; Motion en beta en Team y Enterprise; Docs, Slides y Design disponibles en todos los planes, incluido Free",
-    "source_url": "https://claude.com/es/resources/articles/dashboards-and-motion",
-    "published_date": "2026-10-08",
-    "priority": "relevante",
-    "id": "ai-anthropic-claude-dashboards-y-claude-motion",
-    "source_kind": "auto",
-    "last_updated": "2026-10-17",
-    "first_seen": "2026-10-17"
   },
   {
     "name": "Claude Haiku 5.5",
@@ -1285,141 +1306,26 @@
     "first_seen": "2026-09-14"
   },
   {
-    "name": "Gemini Sheets Canvas: hojas de cálculo a apps interactivas",
+    "name": "Gemini en Google Forms: análisis de respuestas con recomendaciones",
     "vendor": "Google",
-    "what_it_is": "Función de Gemini dentro de Google Sheets que convierte una hoja de cálculo en un panel de control, calendario, galería de tarjetas o mapa de calor interactivo a partir de un pedido escrito en lenguaje natural, sin fórmulas ni código.",
-    "what_changed": "Google la anunció el 13 de agosto de 2026 y a fines de ese mes empezó a difundirla entre usuarios de Google AI Pro y Ultra en Estados Unidos; todavía no tiene fecha confirmada de llegada a Argentina ni al resto de América Latina.",
-    "fixy_use": "Fixy podría usarla para transformar la planilla de seguimiento de envíos o de stock en un tablero visual —por ejemplo, un mapa de calor de demoras por zona o un panel de pedidos pendientes— sin depender de un desarrollador. Conviene anotarla para probarla apenas esté disponible en Argentina, porque hoy todavía no se puede activar acá.",
+    "what_it_is": "Gemini analiza las respuestas de un formulario de Google Forms desde la pestaña Respuestas, detecta tendencias y cruces entre preguntas y sugiere próximos pasos.",
+    "what_changed": "Google lo anunció en noviembre: los cálculos (conteos, porcentajes, comparaciones) los hace escribiendo y corriendo código Python sobre las respuestas reales, no \"a ojo\". Se despliega desde el 2/11 en dominios Rapid Release y desde el 19/11 en Scheduled Release.",
+    "fixy_use": "Mandar después de Black Friday una encuesta corta de satisfacción a las tiendas clientes (tiempos de despacho, comunicación, reclamos) y pedirle a Gemini qué problemas se repiten y en qué segmento de cliente. También sirve para la encuesta interna a choferes o al equipo de depósito sobre el pico de temporada. Ahorra el armado manual de tablas dinámicas para leer los resultados.",
     "verdict": "seguir",
-    "verdict_reason": "El potencial para armar tableros operativos sin código es alto, pero todavía no está disponible en Argentina.",
+    "verdict_reason": "Útil y sin costo extra en Workspace, pero fuentes secundarias indican que está en beta y solo en inglés; hay que confirmar si funciona con formularios en español.",
     "categories": [
       "Análisis",
-      "Operaciones",
-      "Logística",
+      "Comercial",
       "Productividad"
     ],
-    "pricing_note": "no confirmado — por ahora solo para suscriptores de Google AI Pro/Ultra en EE.UU., dentro de su plan pago",
-    "source_url": "https://www.infobae.com/tecno/2026/08/29/gemini-puede-convertir-tus-hojas-de-calculo-en-apps-interactivas-con-su-nueva-funcion-de-ia/",
-    "published_date": "2026-08-29",
-    "priority": "relevante",
-    "id": "ai-google-gemini-sheets-canvas-hojas-de-calculo-a-apps-interact",
+    "pricing_note": "pago: incluido en Workspace Business Standard/Plus y Enterprise Standard/Plus, entre otros; soporte en español Por confirmar",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html",
+    "published_date": "2026-11-05",
+    "priority": "informativo",
+    "id": "ai-google-gemini-en-google-forms-analisis-de-respuestas-con-rec",
     "source_kind": "auto",
-    "last_updated": "2026-09-08",
-    "first_seen": "2026-09-08"
-  },
-  {
-    "name": "Meta Business Agent: cobro por tokens en WhatsApp",
-    "vendor": "Meta",
-    "what_it_is": "Es una novedad sobre el agente de IA de Meta para WhatsApp Business (ya en el radar de Fixy), que atiende clientes, recomienda productos y puede cerrar ventas de forma autónoma en WhatsApp, Instagram y Messenger.",
-    "what_changed": "Desde el 1° de agosto de 2026 Meta empezó a cobrar el uso de este agente por tokens procesados, a razón de USD 2 por millón de tokens (tarifa única a nivel mundial), lo que equivale a unos 4-5 centavos de dólar por conversación completa; antes había un período de prueba gratuito durante julio de 2026.",
-    "fixy_use": "Si Fixy activa el Business Agent para atender consultas de seguimiento de pedidos o reclamos por WhatsApp, ahora ese uso tiene un costo variable por conversación que hay que presupuestar. Conviene estimar cuántas conversaciones mensuales manejaría el bot (por ejemplo, '¿dónde está mi pedido?') antes de escalarlo a todos los clientes, y usarlo primero solo para las consultas más repetitivas y de bajo riesgo.",
-    "verdict": "seguir",
-    "verdict_reason": "El cambio de precio obliga a hacer números antes de escalar el uso del bot en WhatsApp; no conviene activarlo a full sin estimar el costo mensual.",
-    "categories": [
-      "Comercial",
-      "Análisis",
-      "Automatización"
-    ],
-    "pricing_note": "pago: USD 2 por millón de tokens desde el 1/8/2026 (antes gratuito durante el período de prueba de julio 2026)",
-    "source_url": "https://eltiempolatino.com/2026/08/28/tecnologia/meta-lanza-ia-para-negocios-en-whatsapp-que-hace-y-cuanto-cuesta/",
-    "published_date": "2026-08-28",
-    "priority": "relevante",
-    "id": "ai-meta-meta-business-agent-cobro-por-tokens-en-whatsapp",
-    "source_kind": "auto",
-    "last_updated": "2026-08-29",
-    "first_seen": "2026-08-29"
-  },
-  {
-    "name": "Skills en Workspace Studio",
-    "vendor": "Google",
-    "what_it_is": "Una función de Workspace Studio para armar una instrucción reutilizable ('skill') una sola vez -en lenguaje simple o con un formulario corto- y después invocarla escribiendo '@' más el nombre en Gmail, Docs, Slides, Drive o Chat.",
-    "what_changed": "Empezó a estar disponible en beta a fines de agosto de 2026 dentro del 'August 2026 Workspace feature drop', pensada para que un equipo no tenga que reexplicarle el mismo formato a Gemini cada vez que pide algo repetitivo.",
-    "fixy_use": "Fixy podría crear una skill con el formato exacto para responder reclamos de envíos demorados, otra para armar el resumen semanal de KPIs operativos, y otra para redactar cotizaciones a clientes nuevos con el tono y la estructura de siempre. Ahorra el tiempo de reescribir el mismo prompt largo cada vez y estandariza cómo responde cada persona del equipo.",
-    "verdict": "probar",
-    "verdict_reason": "Ataca directamente un problema real de equipos chicos -reinventar el mismo prompt- y no tiene costo extra dentro de Workspace con Gemini.",
-    "categories": [
-      "Productividad",
-      "Automatización",
-      "Organización",
-      "Contenido"
-    ],
-    "pricing_note": "freemium: incluido para cuentas de Workspace inscriptas en el programa Gemini Beta, sin costo adicional confirmado",
-    "source_url": "https://workspace.google.com/blog/product-announcements/august-2026-workspace-feature-drop",
-    "published_date": "2026-08-28",
-    "priority": "relevante",
-    "id": "ai-google-skills-en-workspace-studio",
-    "source_kind": "auto",
-    "last_updated": "2026-09-02",
-    "first_seen": "2026-09-02"
-  },
-  {
-    "name": "Copilot Cowork: niveles de esfuerzo y pestaña Automatizaciones",
-    "vendor": "Microsoft",
-    "what_it_is": "Copilot Cowork ahora deja elegir un nivel de esfuerzo (Light, Medium, High, Extra High, Max) para cada tarea delegada, y renombró su pestaña 'Scheduled' a 'Automations', unificando en un solo lugar las tareas programadas y las que se disparan por eventos.",
-    "what_changed": "Microsoft lo publicó en su resumen de novedades de agosto de 2026: antes Cowork usaba un solo nivel de esfuerzo fijo y separaba tareas programadas de automatizaciones por evento; ahora la elección persiste entre tareas y todo se administra desde una vista única.",
-    "fixy_use": "Para tareas simples de rutina -filtrar mails, armar un borrador corto- conviene usar esfuerzo Light y gastar menos créditos; para pedirle que arme un análisis más completo de indicadores logísticos conviene subir el esfuerzo. La pestaña Automations sirve para que management tenga a la vista, en un solo lugar, qué tareas quedaron corriendo solas (por ejemplo, un reporte semanal automático) y cuáles hay que revisar.",
-    "verdict": "probar",
-    "verdict_reason": "Da control directo sobre costo y calidad de las tareas delegadas a la IA, algo clave para un equipo chico que ya usa Microsoft 365 Copilot.",
-    "categories": [
-      "Productividad",
-      "Automatización",
-      "Gestión del tiempo",
-      "Management"
-    ],
-    "pricing_note": "pago: requiere licencia de Microsoft 365 Copilot con acceso a Cowork; el esfuerzo más alto consume más créditos/límites de uso",
-    "source_url": "https://techcommunity.microsoft.com/blog/microsoft365copilotblog/what%e2%80%99s-new-in-microsoft-copilot--august-2026/4551960",
-    "published_date": "2026-08-28",
-    "priority": "relevante",
-    "id": "ai-microsoft-copilot-cowork-niveles-de-esfuerzo-y-pestana-autom",
-    "source_kind": "auto",
-    "last_updated": "2026-09-02",
-    "first_seen": "2026-09-02"
-  },
-  {
-    "name": "Slackbot: Big Mode, Deep Research y Skill Sets",
-    "vendor": "Slack (Salesforce)",
-    "what_it_is": "Es un paquete de nuevas funciones para el asistente de IA de Slack: Big Mode abre un espacio de pantalla completa para investigar y redactar textos largos, Deep Research busca en los datos internos del equipo y en la web y arma un informe con fuentes citadas, y Skill Sets permite agrupar hasta 25 'habilidades' (prompts reutilizables) y compartirlas con todo el equipo en un solo clic.",
-    "what_changed": "Slack lo lanzó el 28 de agosto de 2026, la actualización más grande de Slackbot desde que Salesforce compró la empresa.",
-    "fixy_use": "Si el equipo de Fixy coordina trabajo por Slack, Deep Research sirve para armar rápido un informe con fuentes sobre, por ejemplo, tarifas de la competencia en última milla o cambios normativos de transporte. Skill Sets permite que comercial y atención al cliente compartan de una vez las mismas plantillas de respuesta o reportes armados por management, en vez de configurar lo mismo persona por persona.",
-    "verdict": "probar",
-    "verdict_reason": "Si el equipo ya usa Slack, cuesta poco probarlo y ataca un problema real: reportes armados a mano y conocimiento disperso entre personas.",
-    "categories": [
-      "Organización",
-      "Productividad",
-      "Gestión del tiempo",
-      "Automatización"
-    ],
-    "pricing_note": "freemium: incluido según el plan pago de Slack, alcance exacto por plan no confirmado",
-    "source_url": "https://slack.com/blog/news/slackbot-ai-workspace-for-deep-work",
-    "published_date": "2026-08-28",
-    "priority": "relevante",
-    "id": "ai-slack-salesforce-slackbot-big-mode-deep-research-y-skill-set",
-    "source_kind": "auto",
-    "last_updated": "2026-09-05",
-    "first_seen": "2026-09-05"
-  },
-  {
-    "name": "Copilot Notebooks: captura multimodal en OneNote (Android)",
-    "vendor": "Microsoft",
-    "what_it_is": "Es una función de OneNote/Copilot Notebooks que graba una sesión combinando audio, fotos y notas escritas, y al cerrarla arma sola una página resumen con los puntos clave.",
-    "what_changed": "Microsoft ya la tenía en iPhone/iPad y la llevó a Android, con lanzamiento entre fines de agosto y principios de septiembre de 2026, pensada para reuniones presenciales, recorridas de campo y sesiones frente a un pizarrón.",
-    "fixy_use": "Sirve para que alguien de operaciones registre una recorrida de depósito, una charla con un transportista o una reunión de coordinación sacando fotos y grabando audio con el celular, y que Copilot arme solo una minuta con los puntos clave, sin que nadie tenga que redactarla después. También ayuda a management a dejar registro ordenado de reuniones internas sin que una persona tenga que tomar notas a mano mientras participa.",
-    "verdict": "probar",
-    "verdict_reason": "Es una función ya disponible que ahorra tiempo de armar minutas a mano, siempre que el equipo ya tenga licencia de Microsoft 365 Copilot.",
-    "categories": [
-      "Organización",
-      "Productividad",
-      "Gestión del tiempo",
-      "Operaciones"
-    ],
-    "pricing_note": "pago: requiere licencia de Microsoft 365 Copilot (y OneDrive/SharePoint); no hay versión gratuita confirmada.",
-    "source_url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/what%E2%80%99s-new-in-microsoft-copilot--august-2026/4551960",
-    "published_date": "2026-08-28",
-    "priority": "relevante",
-    "id": "ai-microsoft-copilot-notebooks-captura-multimodal-en-onenote-an",
-    "source_kind": "auto",
-    "last_updated": "2026-09-10",
-    "first_seen": "2026-09-10"
+    "last_updated": "2026-11-12",
+    "first_seen": "2026-11-12"
   },
   {
     "name": "ChatGPT Images 2.6",

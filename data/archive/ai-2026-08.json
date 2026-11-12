@@ -922,5 +922,119 @@
     "source_kind": "auto",
     "last_updated": "2026-08-31",
     "first_seen": "2026-08-30"
+  },
+  {
+    "name": "Meta Business Agent: cobro por tokens en WhatsApp",
+    "vendor": "Meta",
+    "what_it_is": "Es una novedad sobre el agente de IA de Meta para WhatsApp Business (ya en el radar de Fixy), que atiende clientes, recomienda productos y puede cerrar ventas de forma autónoma en WhatsApp, Instagram y Messenger.",
+    "what_changed": "Desde el 1° de agosto de 2026 Meta empezó a cobrar el uso de este agente por tokens procesados, a razón de USD 2 por millón de tokens (tarifa única a nivel mundial), lo que equivale a unos 4-5 centavos de dólar por conversación completa; antes había un período de prueba gratuito durante julio de 2026.",
+    "fixy_use": "Si Fixy activa el Business Agent para atender consultas de seguimiento de pedidos o reclamos por WhatsApp, ahora ese uso tiene un costo variable por conversación que hay que presupuestar. Conviene estimar cuántas conversaciones mensuales manejaría el bot (por ejemplo, '¿dónde está mi pedido?') antes de escalarlo a todos los clientes, y usarlo primero solo para las consultas más repetitivas y de bajo riesgo.",
+    "verdict": "seguir",
+    "verdict_reason": "El cambio de precio obliga a hacer números antes de escalar el uso del bot en WhatsApp; no conviene activarlo a full sin estimar el costo mensual.",
+    "categories": [
+      "Comercial",
+      "Análisis",
+      "Automatización"
+    ],
+    "pricing_note": "pago: USD 2 por millón de tokens desde el 1/8/2026 (antes gratuito durante el período de prueba de julio 2026)",
+    "source_url": "https://eltiempolatino.com/2026/08/28/tecnologia/meta-lanza-ia-para-negocios-en-whatsapp-que-hace-y-cuanto-cuesta/",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "id": "ai-meta-meta-business-agent-cobro-por-tokens-en-whatsapp",
+    "source_kind": "auto",
+    "last_updated": "2026-08-29",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "name": "Skills en Workspace Studio",
+    "vendor": "Google",
+    "what_it_is": "Una función de Workspace Studio para armar una instrucción reutilizable ('skill') una sola vez -en lenguaje simple o con un formulario corto- y después invocarla escribiendo '@' más el nombre en Gmail, Docs, Slides, Drive o Chat.",
+    "what_changed": "Empezó a estar disponible en beta a fines de agosto de 2026 dentro del 'August 2026 Workspace feature drop', pensada para que un equipo no tenga que reexplicarle el mismo formato a Gemini cada vez que pide algo repetitivo.",
+    "fixy_use": "Fixy podría crear una skill con el formato exacto para responder reclamos de envíos demorados, otra para armar el resumen semanal de KPIs operativos, y otra para redactar cotizaciones a clientes nuevos con el tono y la estructura de siempre. Ahorra el tiempo de reescribir el mismo prompt largo cada vez y estandariza cómo responde cada persona del equipo.",
+    "verdict": "probar",
+    "verdict_reason": "Ataca directamente un problema real de equipos chicos -reinventar el mismo prompt- y no tiene costo extra dentro de Workspace con Gemini.",
+    "categories": [
+      "Productividad",
+      "Automatización",
+      "Organización",
+      "Contenido"
+    ],
+    "pricing_note": "freemium: incluido para cuentas de Workspace inscriptas en el programa Gemini Beta, sin costo adicional confirmado",
+    "source_url": "https://workspace.google.com/blog/product-announcements/august-2026-workspace-feature-drop",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "id": "ai-google-skills-en-workspace-studio",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "name": "Copilot Cowork: niveles de esfuerzo y pestaña Automatizaciones",
+    "vendor": "Microsoft",
+    "what_it_is": "Copilot Cowork ahora deja elegir un nivel de esfuerzo (Light, Medium, High, Extra High, Max) para cada tarea delegada, y renombró su pestaña 'Scheduled' a 'Automations', unificando en un solo lugar las tareas programadas y las que se disparan por eventos.",
+    "what_changed": "Microsoft lo publicó en su resumen de novedades de agosto de 2026: antes Cowork usaba un solo nivel de esfuerzo fijo y separaba tareas programadas de automatizaciones por evento; ahora la elección persiste entre tareas y todo se administra desde una vista única.",
+    "fixy_use": "Para tareas simples de rutina -filtrar mails, armar un borrador corto- conviene usar esfuerzo Light y gastar menos créditos; para pedirle que arme un análisis más completo de indicadores logísticos conviene subir el esfuerzo. La pestaña Automations sirve para que management tenga a la vista, en un solo lugar, qué tareas quedaron corriendo solas (por ejemplo, un reporte semanal automático) y cuáles hay que revisar.",
+    "verdict": "probar",
+    "verdict_reason": "Da control directo sobre costo y calidad de las tareas delegadas a la IA, algo clave para un equipo chico que ya usa Microsoft 365 Copilot.",
+    "categories": [
+      "Productividad",
+      "Automatización",
+      "Gestión del tiempo",
+      "Management"
+    ],
+    "pricing_note": "pago: requiere licencia de Microsoft 365 Copilot con acceso a Cowork; el esfuerzo más alto consume más créditos/límites de uso",
+    "source_url": "https://techcommunity.microsoft.com/blog/microsoft365copilotblog/what%e2%80%99s-new-in-microsoft-copilot--august-2026/4551960",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "id": "ai-microsoft-copilot-cowork-niveles-de-esfuerzo-y-pestana-autom",
+    "source_kind": "auto",
+    "last_updated": "2026-09-02",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "name": "Slackbot: Big Mode, Deep Research y Skill Sets",
+    "vendor": "Slack (Salesforce)",
+    "what_it_is": "Es un paquete de nuevas funciones para el asistente de IA de Slack: Big Mode abre un espacio de pantalla completa para investigar y redactar textos largos, Deep Research busca en los datos internos del equipo y en la web y arma un informe con fuentes citadas, y Skill Sets permite agrupar hasta 25 'habilidades' (prompts reutilizables) y compartirlas con todo el equipo en un solo clic.",
+    "what_changed": "Slack lo lanzó el 28 de agosto de 2026, la actualización más grande de Slackbot desde que Salesforce compró la empresa.",
+    "fixy_use": "Si el equipo de Fixy coordina trabajo por Slack, Deep Research sirve para armar rápido un informe con fuentes sobre, por ejemplo, tarifas de la competencia en última milla o cambios normativos de transporte. Skill Sets permite que comercial y atención al cliente compartan de una vez las mismas plantillas de respuesta o reportes armados por management, en vez de configurar lo mismo persona por persona.",
+    "verdict": "probar",
+    "verdict_reason": "Si el equipo ya usa Slack, cuesta poco probarlo y ataca un problema real: reportes armados a mano y conocimiento disperso entre personas.",
+    "categories": [
+      "Organización",
+      "Productividad",
+      "Gestión del tiempo",
+      "Automatización"
+    ],
+    "pricing_note": "freemium: incluido según el plan pago de Slack, alcance exacto por plan no confirmado",
+    "source_url": "https://slack.com/blog/news/slackbot-ai-workspace-for-deep-work",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "id": "ai-slack-salesforce-slackbot-big-mode-deep-research-y-skill-set",
+    "source_kind": "auto",
+    "last_updated": "2026-09-05",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "name": "Copilot Notebooks: captura multimodal en OneNote (Android)",
+    "vendor": "Microsoft",
+    "what_it_is": "Es una función de OneNote/Copilot Notebooks que graba una sesión combinando audio, fotos y notas escritas, y al cerrarla arma sola una página resumen con los puntos clave.",
+    "what_changed": "Microsoft ya la tenía en iPhone/iPad y la llevó a Android, con lanzamiento entre fines de agosto y principios de septiembre de 2026, pensada para reuniones presenciales, recorridas de campo y sesiones frente a un pizarrón.",
+    "fixy_use": "Sirve para que alguien de operaciones registre una recorrida de depósito, una charla con un transportista o una reunión de coordinación sacando fotos y grabando audio con el celular, y que Copilot arme solo una minuta con los puntos clave, sin que nadie tenga que redactarla después. También ayuda a management a dejar registro ordenado de reuniones internas sin que una persona tenga que tomar notas a mano mientras participa.",
+    "verdict": "probar",
+    "verdict_reason": "Es una función ya disponible que ahorra tiempo de armar minutas a mano, siempre que el equipo ya tenga licencia de Microsoft 365 Copilot.",
+    "categories": [
+      "Organización",
+      "Productividad",
+      "Gestión del tiempo",
+      "Operaciones"
+    ],
+    "pricing_note": "pago: requiere licencia de Microsoft 365 Copilot (y OneDrive/SharePoint); no hay versión gratuita confirmada.",
+    "source_url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/what%E2%80%99s-new-in-microsoft-copilot--august-2026/4551960",
+    "published_date": "2026-08-28",
+    "priority": "relevante",
+    "id": "ai-microsoft-copilot-notebooks-captura-multimodal-en-onenote-an",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-10"
   }
 ]
