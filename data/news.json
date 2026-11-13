@@ -183,24 +183,49 @@
   },
   {
     "title": "Paro indefinido de camioneros en Chile por la suba del diésel: bloqueos de rutas y alertas por el abastecimiento",
-    "what_happened": "Desde el martes 10 de noviembre, transportistas chilenos sostienen un paro indefinido con bloqueos parciales de rutas en protesta por el alza de los combustibles, en particular del diésel. El gobierno anunció un proyecto para contener los precios, pero los dirigentes del paro dijeron que la medida continúa; las confederaciones CNTC y CNDC no se sumaron. La Cámara Nacional de Comercio de Chile advirtió que el conflicto amenaza el abastecimiento y las ventas de fin de año.",
-    "why_it_matters": "Muestra cómo el costo del combustible puede escalar a conflictos que cortan cadenas de suministro en plena temporada alta, y suma incertidumbre al transporte internacional entre Argentina y Chile.",
-    "fixy_impact": null,
+    "what_happened": "El jueves 12 de noviembre el gobierno chileno cerró un acuerdo con la Confederación de Transportistas Fuerza del Norte y la Confederación de Camioneros Centro-Sur, que contempla una rebaja total de $142 por litro de diésel y un techo para el precio de los combustibles hasta el 31 de marzo de 2027, sujeto a un proyecto de ley ya ingresado al Congreso. Sin embargo, camioneros independientes de Antofagasta y Temuco y el movimiento No+TAG rechazaron el entendimiento y mantuvieron bloqueos en distintas regiones, por lo que el gobierno no logró levantar todas las protestas y dejó abierta la vía de acciones legales.",
+    "why_it_matters": "El conflicto entra en fase de desescalada, pero sin normalización total: la logística chilena sigue expuesta a cortes puntuales en plena antesala del pico de fin de año.",
+    "fixy_impact": "Para clientes de Fixy que importan o exportan vía Chile, o que dependen de insumos que transitan por ese país, conviene sostener márgenes de stock y monitorear los cortes remanentes en los próximos días.",
     "category": "Logística",
     "geo": "LATAM",
-    "source_name": "Infobae (Movant)",
-    "source_url": "https://www.infobae.com/movant/2026/11/12/el-costo-del-diesel-en-chile-empuja-un-paro-de-camioneros-con-efectos-en-el-suministro-regional/",
-    "published_date": "2026-11-12",
-    "priority": "informativo",
+    "source_name": "El Mostrador",
+    "source_url": "https://www.elmostrador.cl/noticias/pais/2026/11/13/gobierno-anuncia-fin-del-paro-de-camioneros-con-rebaja-del-diesel-y-congelamiento-de-combustibles/",
+    "published_date": "2026-11-13",
+    "priority": "relevante",
     "tags": [
       "Chile",
-      "paro de transporte",
+      "paro de camioneros",
       "diésel",
-      "abastecimiento"
+      "transporte de cargas",
+      "supply chain"
     ],
     "id": "nw-17fd3ce48d",
     "source_kind": "auto",
-    "last_updated": "2026-11-12",
-    "first_seen": "2026-11-12"
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-11-12",
+    "updated_flag": true
+  },
+  {
+    "title": "La inflación de octubre fue 2,2%, la más alta desde abril, y complica el consumo en la previa del Black Friday",
+    "what_happened": "El INDEC informó el jueves 12 de noviembre que el IPC de octubre subió 2,2% mensual, por encima del 1,9% de septiembre y del 1,8% que anticipaba el REM. La variación interanual bajó a 33,1% y la acumulada en el año llegó a 26,3%; la núcleo fue 1,5%, mientras que los estacionales subieron 5,5% y los regulados 2,9%.",
+    "why_it_matters": "La aceleración de precios golpea un consumo que ya venía débil (el CyberMonday cayó en términos reales) y presiona los costos operativos de cara a la temporada alta de noviembre y diciembre.",
+    "fixy_impact": "Es un insumo para la revisión de tarifas de almacenamiento y última milla, y anticipa clientes más sensibles al precio en Black Friday: conviene ofrecer esquemas de costo previsible por pedido.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/11/12/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses/",
+    "published_date": "2026-11-12",
+    "priority": "relevante",
+    "tags": [
+      "inflación",
+      "INDEC",
+      "consumo",
+      "costos",
+      "Black Friday"
+    ],
+    "id": "nw-e3b8caf0c0",
+    "source_kind": "auto",
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-11-13"
   }
 ]

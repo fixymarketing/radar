@@ -1,5 +1,28 @@
 [
   {
+    "name": "Gemini Sheets Canvas: hojas de cálculo a apps interactivas",
+    "vendor": "Google",
+    "what_it_is": "Función de Google Sheets que, con Gemini, convierte los datos de una planilla en una mini app o tablero interactivo dentro de la misma hoja.",
+    "what_changed": "Desde el 11 de noviembre (dominios Rapid Release; Scheduled Release desde el 2 de diciembre) se puede publicar el canvas en un link propio de solo lectura, separado de la planilla y con su propia audiencia. Se puede elegir que se actualice solo con cada cambio de la hoja o publicar una foto fija.",
+    "fixy_use": "Armar un canvas por cliente con pedidos despachados, en tránsito, entregados y stock disponible, y mandarle el link de solo lectura sin darle acceso a la planilla interna ni a los datos de otros clientes. Con la republicación automática, el tablero queda al día durante Black Friday sin que nadie tenga que exportar ni mandar reportes a mano.",
+    "verdict": "probar",
+    "verdict_reason": "Resuelve justo el problema de compartir tableros con clientes sin exponer la hoja y cae a tiempo para el pico de fin de año.",
+    "categories": [
+      "Operaciones",
+      "Logística",
+      "Análisis",
+      "Comercial"
+    ],
+    "pricing_note": "pago: incluido en planes Google Workspace Business y Enterprise y en Google AI Pro/Ultra; requiere que el admin tenga habilitado \"Publicar en la web\" en Drive. Por ahora solo en la versión web.",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/11/publish-sheets-canvas-as-standalone-link.html",
+    "published_date": "2026-11-11",
+    "priority": "alta",
+    "id": "ai-google-gemini-sheets-canvas-hojas-de-calculo-a-apps-interact",
+    "source_kind": "auto",
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-09-08"
+  },
+  {
     "name": "Businesses in ChatGPT (Business Hub y Business Agents)",
     "vendor": "OpenAI",
     "what_it_is": "Un perfil verificado de empresa dentro de ChatGPT, parecido a la ficha de Google: la empresa reclama su perfil, corrige sus datos y ve métricas de cuántas veces ChatGPT la menciona y cuántos clics manda a su web.",
@@ -176,28 +199,6 @@
     "first_seen": "2026-09-19"
   },
   {
-    "name": "Gemini Sheets Canvas: hojas de cálculo a apps interactivas",
-    "vendor": "Google",
-    "what_it_is": "Función de Gemini en Google Sheets que convierte una planilla en una mini app visual (tablero, kanban o calendario) sin programar.",
-    "what_changed": "Desde el 11/11 (Rapid Release) un canvas se puede publicar en un link propio de solo lectura, separado de la planilla y con su propia audiencia, así se comparte la vista sin exponer el archivo completo. Viene activado por defecto y depende de que el admin tenga habilitado \"Publicar en la web\" en Drive.",
-    "fixy_use": "Armar en Sheets un canvas por cliente con stock disponible, pedidos del día y estado de envíos, y mandarle solo el link publicado en vez de compartir la planilla con todos los datos internos. Internamente, publicar un tablero de la temporada alta (Black Friday) para que operaciones y atención vean lo mismo sin tocar la fuente. Ojo: si se publica a la web, el link es accesible sin login, así que conviene restringir la audiencia al dominio o no incluir datos sensibles.",
-    "verdict": "probar",
-    "verdict_reason": "Resuelve con herramientas que Fixy probablemente ya usa el problema de compartir reportes a clientes sin exponer la planilla madre.",
-    "categories": [
-      "Análisis",
-      "Operaciones",
-      "Comercial"
-    ],
-    "pricing_note": "pago: incluido en ediciones de Google Workspace con Gemini; la lista exacta de planes es Por confirmar y hay límites de uso por usuario",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/11/publish-sheets-canvas-as-standalone-link.html",
-    "published_date": "2026-11-11",
-    "priority": "relevante",
-    "id": "ai-google-gemini-sheets-canvas-hojas-de-calculo-a-apps-interact",
-    "source_kind": "auto",
-    "last_updated": "2026-11-12",
-    "first_seen": "2026-09-08"
-  },
-  {
     "name": "Claude Meetings",
     "vendor": "Anthropic",
     "what_it_is": "Claude entra a las videollamadas de Google Meet como un participante visible: toma notas, contesta preguntas en el chat de la reunión, busca datos en las apps conectadas y arma planes o tareas mientras la gente habla.",
@@ -244,26 +245,51 @@
     "first_seen": "2026-11-11"
   },
   {
-    "name": "Claude Dashboards y Claude Motion",
-    "vendor": "Anthropic",
-    "what_it_is": "Función de Claude que arma tableros e informes a partir de datos conectados (bases de datos, warehouses o CRM), con gráficos que se pueden compartir con el equipo.",
-    "what_changed": "El 10/11 Anthropic sacó Dashboards de la beta y la relanzó como Claude Data, disponible en todos los planes pagos. Suma métricas \"certificadas\", caché con frecuencia de actualización por tablero, historial de cambios con vuelta atrás y \"data stories\" o videos narrados a partir de las métricas; las consultas certificadas y el uso compartido en vivo siguen en beta.",
-    "fixy_use": "Conectar la base de pedidos o el WMS (si vive en BigQuery, Redshift o similar) y armar un tablero fijo de operación: pedidos despachados por día, cumplimiento de SLA de última milla y devoluciones por cliente, con las definiciones de cada métrica fijadas para que no se discutan. Con el uso compartido en vivo, management o un cliente puede ver el resultado sin tener acceso al conector. La \"data story\" sirve para preparar en minutos el resumen mensual de desempeño que se manda a cada cliente.",
+    "name": "Gemini Skills (reemplazan a los Gems)",
+    "vendor": "Google",
+    "what_it_is": "Instrucciones reutilizables para Gemini (por ejemplo, \"responder un reclamo de envío con nuestro tono y política\") que se guardan una vez y se usan siempre igual.",
+    "what_changed": "Las skills, que hasta ahora estaban en la app de Gemini, empezaron a llegar el 9 y 10 de noviembre a Gmail, Docs, Slides, Drive, Chat y Workspace Studio: se crean desde la misma app, se comparten con el equipo, se invocan con \"@\" y pueden disparar flujos de Workspace Studio programados o manuales.",
+    "fixy_use": "Atención al cliente puede tener una skill compartida para responder en Gmail reclamos de demoras o paquetes no entregados con el mismo tono y los mismos plazos de política. Comercial puede tener otra para armar en Docs propuestas de fulfillment con la estructura y tarifas estándar, y operaciones una que todos los viernes genere el resumen semanal a partir de notas de reunión y archivos de Drive.",
     "verdict": "probar",
-    "verdict_reason": "Ya es GA, no tiene costo extra sobre el plan pago y ataca directo el reporting operativo que hoy se arma a mano.",
+    "verdict_reason": "Ayuda a que un equipo chico responda y documente siempre igual sin pagar otra herramienta, si Fixy ya trabaja en Google Workspace.",
     "categories": [
-      "Análisis",
+      "Productividad",
+      "Automatización",
       "Operaciones",
-      "Management"
+      "Comercial",
+      "Organización"
     ],
-    "pricing_note": "pago: incluido en todos los planes pagos de Claude, sin cargo adicional anunciado (sujeto a los límites de uso)",
-    "source_url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "pricing_note": "pago: incluido en Workspace Business Starter, Standard y Plus y en Enterprise Starter, Standard y Plus; activado por defecto en las ediciones elegibles, con despliegue gradual desde el 9 y el 30 de noviembre según el can",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/11/skills-in-workspace.html",
     "published_date": "2026-11-10",
     "priority": "relevante",
-    "id": "ai-anthropic-claude-dashboards-y-claude-motion",
+    "id": "ai-google-gemini-skills-reemplazan-a-los-gems",
     "source_kind": "auto",
-    "last_updated": "2026-11-12",
-    "first_seen": "2026-10-17"
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-10-07"
+  },
+  {
+    "name": "Claude Whiteboards",
+    "vendor": "Anthropic",
+    "what_it_is": "Un pizarrón compartido dentro de Claude donde el equipo hace lluvia de ideas o planifica y Claude lo ordena en tareas, responsables y fechas.",
+    "what_changed": "Se lanzó en beta el 10 de noviembre de 2026: convierte una charla en un tablero con línea de tiempo, responsables y fechas, agrupa notas por tema, redacta próximos pasos y exporta a documento, presentación, Lucid o Miro.",
+    "fixy_use": "Usarlo en la reunión de planificación del pico de Black Friday y fin de año: volcar los problemas del CyberMonday (demoras, faltantes, reclamos) y que Claude los agrupe y arme el plan con quién hace qué y para cuándo. También sirve para el onboarding de un cliente nuevo de fulfillment, con un tablero de tareas compartido entre comercial y operaciones.",
+    "verdict": "probar",
+    "verdict_reason": "Si Fixy tiene un plan pago de Claude es gratis probarlo y reemplaza el ida y vuelta de minutas para planificar el pico.",
+    "categories": [
+      "Organización",
+      "Management",
+      "Gestión del tiempo",
+      "Operaciones"
+    ],
+    "pricing_note": "pago: incluido en todos los planes pagos de Claude (en beta); activo por defecto en Team y desactivado por defecto en Enterprise.",
+    "source_url": "https://claude.com/blog/sheets-whiteboards-data",
+    "published_date": "2026-11-10",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-whiteboards",
+    "source_kind": "auto",
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-11-13"
   },
   {
     "name": "Gemini: edición de archivos dentro del chat",
@@ -396,28 +422,6 @@
     "source_kind": "auto",
     "last_updated": "2026-10-11",
     "first_seen": "2026-10-11"
-  },
-  {
-    "name": "Gemini Skills (reemplazan a los Gems)",
-    "vendor": "Google",
-    "what_it_is": "Instrucciones reutilizables que se activan escribiendo una barra (/) en el chat de Gemini y en Google Workspace. Se pueden combinar varias en una misma conversación.",
-    "what_changed": "Google las anunció el 30 de septiembre como reemplazo a largo plazo de los Gems. El despliegue en la app de Gemini arranca el 13 de octubre y en Workspace desde el 5 de octubre (Rapid Release) y el 19 de octubre (Scheduled Release). La migración automática de Gems a Skills está prevista desde el 17 de noviembre, según un aviso en la app.",
-    "fixy_use": "Se puede armar una Skill para armar respuestas tipo de atención al cliente sobre demoras o estado de envíos, otra para redactar propuestas comerciales con el tono de Fixy y otra para el reporte semanal de operaciones. Cualquiera del equipo las invoca con una barra, sin copiar y pegar prompts.",
-    "verdict": "probar",
-    "verdict_reason": "Si ya usan Gems o Gemini en Workspace, conviene migrar los prompts repetitivos a Skills antes de noviembre.",
-    "categories": [
-      "Productividad",
-      "Automatización",
-      "Contenido"
-    ],
-    "pricing_note": "gratis según la prensa especializada (disponible para todos los usuarios); disponibilidad por plan de Workspace por confirmar",
-    "source_url": "https://www.pcworld.com/article/3246807/adios-gems-googles-new-gemini-skills-wont-be-paywalled.html",
-    "published_date": "2026-09-30",
-    "priority": "relevante",
-    "id": "ai-google-gemini-skills-reemplazan-a-los-gems",
-    "source_kind": "auto",
-    "last_updated": "2026-10-07",
-    "first_seen": "2026-10-07"
   },
   {
     "name": "Claude Sonnet 5.5",
@@ -1304,6 +1308,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-14",
     "first_seen": "2026-09-14"
+  },
+  {
+    "name": "Zendesk Outcome AI Platform",
+    "vendor": "Zendesk",
+    "what_it_is": "La nueva plataforma de Zendesk que agrupa sus agentes de IA especializados (empezando por comercio: pedidos, devoluciones y cambios) con un esquema en el que se paga por caso resuelto, no por uso de la IA.",
+    "what_changed": "Se presentó en el AI Summit de Zendesk de noviembre de 2026: suma Open Service Directory, Zendesk Bridge, agentes especializados y un \"Zendesk que se mejora solo\" aprendiendo de cada caso. El cliente define un presupuesto y paga solo por resoluciones verificadas por un modelo evaluador.",
+    "fixy_use": "Si atención al cliente de Fixy usa o evalúa Zendesk, el modelo de pago por resultado permite automatizar las consultas de \"dónde está mi pedido\" y de devoluciones pagando solo cuando el caso queda resuelto, y así poner un tope de gasto antes del pico de Black Friday.",
+    "verdict": "seguir",
+    "verdict_reason": "Interesa solo si Fixy ya usa Zendesk, y todavía no hay precios publicados ni comunicado oficial accesible con el detalle de los planes.",
+    "categories": [
+      "Operaciones",
+      "Automatización",
+      "Management"
+    ],
+    "pricing_note": "no confirmado: pago por resolución o tarea completada con un \"Outcome Budget\"; los precios no son públicos.",
+    "source_url": "https://itbrief.com.au/story/zendesk-moves-beyond-ticket-closures-with-outcome-based-ai",
+    "published_date": "2026-11-11",
+    "priority": "informativo",
+    "id": "ai-zendesk-zendesk-outcome-ai-platform",
+    "source_kind": "auto",
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-11-13"
+  },
+  {
+    "name": "Claude Dashboards y Claude Motion",
+    "vendor": "Anthropic",
+    "what_it_is": "Claude se conecta a los datos de la empresa (base de datos, CRM o herramientas de analítica) y responde preguntas o arma tableros a partir de ellos.",
+    "what_changed": "El 10 de noviembre de 2026 Claude Dashboards pasó a disponibilidad general con el nombre Claude Data. Suma consultas \"certificadas\", historias de datos y videos narrados, caché con frecuencia de actualización por tablero, control de cambios con vuelta atrás y links en vivo para que otros vean los resultados sin acceso al conector (estas dos últimas funciones siguen en beta).",
+    "fixy_use": "Si Fixy tiene sus pedidos y entregas en una base de datos o un CRM conectable, management podría preguntar directamente \"¿qué clientes tuvieron más entregas fallidas esta semana?\" y dejar un tablero que se actualiza solo. Con las consultas certificadas, todo el equipo usa la misma definición de \"entrega a tiempo\".",
+    "verdict": "seguir",
+    "verdict_reason": "Necesita un conector de datos (data warehouse, CRM o herramienta de analítica) que un equipo chico puede no tener armado todavía.",
+    "categories": [
+      "Análisis",
+      "Management",
+      "Operaciones"
+    ],
+    "pricing_note": "pago: incluido en los planes pagos de Claude; en Enterprise se activa por defecto el 19 de noviembre de 2026. Requiere un conector de datos.",
+    "source_url": "https://claude.com/blog/sheets-whiteboards-data",
+    "published_date": "2026-11-10",
+    "priority": "informativo",
+    "id": "ai-anthropic-claude-dashboards-y-claude-motion",
+    "source_kind": "auto",
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-10-17"
   },
   {
     "name": "Gemini en Google Forms: análisis de respuestas con recomendaciones",

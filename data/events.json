@@ -565,34 +565,22 @@
     "city": "São Paulo",
     "province": null,
     "country": "Brasil",
-    "venue": "São Paulo Expo",
+    "venue": "São Paulo Expo (Rodovia dos Imigrantes, km 1,5)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
     "url": "https://www.vtex.com/en-us/vtexday",
     "source_url": "https://www.vtex.com/en-us/vtexday/faq",
-    "description": "Principal evento de transformación digital del comercio en Latinoamérica, organizado por VTEX.",
-    "fixy_relevance": "Reúne marcas, retailers y marketplaces que son clientes potenciales de fulfillment y última milla.",
-    "justification_type": "negocios",
+    "description": "Es el mayor evento de comercio digital de Latinoamérica. Según el FAQ oficial, se hace el lunes 31 de mayo y el martes 1 de junio de 2027 en São Paulo Expo, de 9 a 20 h.",
+    "fixy_relevance": "Reúne a retailers enterprise, integradores y partners logísticos del ecosistema VTEX, que es clave para los clientes de fulfillment de Fixy en LATAM. Es una buena oportunidad para alianzas tecnológicas y para generar negocios con marcas regionales.",
+    "justification_type": "networking",
     "priority": "alta",
     "beyond_90": true,
     "id": "ev-day-vtex-2027",
     "source_kind": "auto",
-    "last_updated": "2026-11-01",
+    "last_updated": "2026-11-13",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-20",
-        "fields": [
-          "name",
-          "date_note",
-          "city",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
       {
         "date": "2026-08-30",
         "fields": [
@@ -637,6 +625,15 @@
           "fixy_relevance",
           "justification_type",
           "priority"
+        ]
+      },
+      {
+        "date": "2026-11-13",
+        "fields": [
+          "venue",
+          "description",
+          "fixy_relevance",
+          "justification_type"
         ]
       }
     ]
@@ -1340,11 +1337,11 @@
   {
     "scope": "intl",
     "name": "Logistec Show 2027",
-    "organizer": "Revista Logistec",
+    "organizer": "Logistec Show",
     "date_start": "2027-05-26",
     "date_end": "2027-05-27",
     "date_confirmed": true,
-    "date_note": "Novedad: el sitio oficial logistecshow.cl anuncia 26 y 27 de mayo de 2027 (miércoles y jueves), de 9:30 a 18 h. Directorios de terceros (Neventum, nTradeShows, 10Times) siguen listando 12 y 13 de mayo de 2027; prevalece la fecha del organizador, verificada vía índice de búsqueda porque el sitio bloquea el acceso automatizado.",
+    "date_note": "El sitio oficial (logistecshow.cl) indica del miércoles 26 al jueves 27 de mayo de 2027, de 9:30 a 18:00. Los agregadores Neventum y nTradeshows publican en cambio del 12 al 13 de mayo de 2027 en la misma sede, así que prevalece la fecha oficial.",
     "city": "Santiago",
     "province": null,
     "country": "Chile",
@@ -1353,15 +1350,15 @@
     "format": "presencial",
     "category": "Logística",
     "url": "https://www.logistecshow.cl/",
-    "source_url": "https://www.logistecshow.cl/",
-    "description": "Feria de logística, transporte y supply chain organizada por Revista Logistec, principal punto de encuentro del sector en Chile.",
-    "fixy_relevance": "Corrige la fecha que teníamos (12-13/05): clave si se combina el viaje con otras agendas en Chile. Sirve para networking con operadores y proveedores de intralogística y benchmarking de operación en el mercado chileno.",
-    "justification_type": "networking",
+    "source_url": "https://www.agendalogistica.cl/logistec-show-2027/2210369",
+    "description": "Es la principal exposición de logística de Chile, con proveedores de almacenamiento, intralogística, transporte y tecnología para supply chain.",
+    "fixy_relevance": "Es la vidriera del mercado logístico chileno, un destino natural de expansión regional. Permite relevar proveedores de automatización y WMS, y conectar con operadores y retailers de Chile.",
+    "justification_type": "expansión regional",
     "priority": "relevante",
     "beyond_90": true,
     "id": "ev-logistec-show-La o",
     "source_kind": "auto",
-    "last_updated": "2026-11-11",
+    "last_updated": "2026-11-13",
     "first_seen": "2026-08-21",
     "change_log": [
       {
@@ -1395,6 +1392,17 @@
           "source_url",
           "description",
           "fixy_relevance"
+        ]
+      },
+      {
+        "date": "2026-11-13",
+        "fields": [
+          "organizer",
+          "date_note",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type"
         ]
       }
     ]
@@ -2252,29 +2260,45 @@
   {
     "scope": "ar",
     "name": "Hackathon Retail Chain 4.0",
-    "organizer": "Comunidad Retail Chain 4.0, con apoyo de la Universidad Nacional del Sur (UNS), Universidad CAECE y Silicon Misiones",
+    "organizer": "Escuela Argentina de Supermercadismo, con la Universidad CAECE y GS1 Argentina (sede Bahía Blanca en articulación con la Universidad Nacional del Sur)",
     "date_start": "2026-11-16",
     "date_end": "2026-11-19",
     "date_confirmed": true,
-    "date_note": "Evento multisede: lanzamiento y sede Bahía Blanca el 16/11, sede Ciudad de Buenos Aires el 18/11 y sede Posadas el 19/11 de 2026.",
-    "city": "Bahía Blanca / CABA / Posadas",
-    "province": "Buenos Aires, CABA y Misiones (evento multisede)",
+    "date_note": "Del lunes 16 al jueves 19 de noviembre de 2026, en simultáneo en tres sedes. Las notas de prensa lo llaman «Hackathon federal de logística y retail».",
+    "city": "Ciudad de Buenos Aires / Bahía Blanca / Posadas",
+    "province": "CABA / Buenos Aires / Misiones",
     "country": "Argentina",
     "venue": "Por confirmar",
     "venue_confirmed": false,
-    "format": "presencial",
+    "format": "híbrido",
     "category": "Logística",
     "url": "https://www.enfoqueu.uns.edu.ar/competencia-para-impulsar-la-innovacion-en-cadenas-de-suministro/",
-    "source_url": "https://masindustrias.com.ar/la-uns-sera-sede-del-lanzamiento-de-un-hackathon-para-la-cadena-de-suministro/",
-    "description": "Hackathon federal organizado por la Comunidad Retail Chain 4.0 que convoca a universidades, empresas y profesionales de logística, operaciones y cadena de suministro a desarrollar soluciones a desafíos reales del sector, con sedes simultáneas en Bahía Blanca, Buenos Aires y Posadas.",
-    "fixy_relevance": "Es una oportunidad concreta de posicionarse como empresa desafiante o mentora ante talento universitario de logística y supply chain, y de captar ideas o contactos aplicables a fulfillment y última milla, en tres plazas donde Fixy podría tener o buscar operación.",
+    "source_url": "https://ecosistemastartup.com/?p=102493",
+    "description": "Hackathon federal sobre digitalización y transformación digital de procesos logísticos y de retail. Es híbrido en Buenos Aires y presencial en Bahía Blanca y Posadas.",
+    "fixy_relevance": "Sirve para detectar talento y soluciones de supply chain para retail. También es una vidriera ante supermercadistas y GS1, cuyo estándar de codificación es clave en fulfillment.",
     "justification_type": null,
-    "priority": "relevante",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-chain-hackathon-retail-2026",
     "source_kind": "auto",
-    "last_updated": "2026-09-28",
-    "first_seen": "2026-09-28"
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-09-28",
+    "change_log": [
+      {
+        "date": "2026-11-13",
+        "fields": [
+          "organizer",
+          "date_note",
+          "city",
+          "province",
+          "format",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -2694,5 +2718,86 @@
     "source_kind": "auto",
     "last_updated": "2026-11-12",
     "first_seen": "2026-11-12"
+  },
+  {
+    "scope": "ar",
+    "name": "8° Foro de Inversiones & Negocios Mendoza 2027",
+    "organizer": "Gobierno de Mendoza (Ministerio de Producción) y Consejo Empresario Mendocino (CEM)",
+    "date_start": "2027-03-03",
+    "date_end": "2027-03-04",
+    "date_confirmed": true,
+    "date_note": "Miércoles 3 y jueves 4 de marzo de 2027. La sede no está anunciada; las ediciones anteriores fueron en el Hilton Mendoza.",
+    "city": "Mendoza",
+    "province": "Mendoza",
+    "country": "Argentina",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Innovación",
+    "url": "https://mercado.com.ar/eventos/mendoza-presento-en-buenos-aires-el-foro-de-inversiones-negocios-2027",
+    "source_url": "https://mercado.com.ar/eventos/mendoza-presento-en-buenos-aires-el-foro-de-inversiones-negocios-2027",
+    "description": "Octava edición del foro provincial de inversiones, con más de 1.200 empresarios e inversores esperados. Incluye paneles, rondas de inversión y negocios, reuniones preagendadas y el espacio Innova Invest.",
+    "fixy_relevance": "Cuyo está ganando peso logístico: Mercado Libre abrió un centro de última milla en Luján de Cuyo y Andesmar Cargas amplió su operación. El foro sirve para relacionarse con empresas mendocinas que venden online a todo el país.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": true,
+    "id": "ev-foro-inversiones-mendoza-negocios-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-11-13"
+  },
+  {
+    "scope": "intl",
+    "name": "Feria Effix 2027",
+    "organizer": "Feria Effix",
+    "date_start": null,
+    "date_end": null,
+    "date_confirmed": false,
+    "date_note": "El sitio oficial anuncia la edición 2027 para agosto de 2027 en Plaza Mayor, sin días exactos. La edición 2026 fue del 15 al 19 de octubre y la 2025 del 22 al 24 de agosto.",
+    "city": "Medellín",
+    "province": null,
+    "country": "Colombia",
+    "venue": "Plaza Mayor Medellín",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "eCommerce",
+    "url": "https://feriaeffix.com/",
+    "source_url": "https://feriaeffix.com/",
+    "description": "La feria de eCommerce, emprendimiento y marketing digital más masiva de Latinoamérica, con más de 50.000 asistentes, cientos de marcas y speakers de unos 20 países.",
+    "fixy_relevance": "Concentra a miles de sellers, marcas D2C y proveedores de logística de la región andina en un solo lugar. Sirve para relevar la demanda de fulfillment y última milla en Colombia y para hacer networking con miras a una expansión regional.",
+    "justification_type": "expansión regional",
+    "priority": "relevante",
+    "beyond_90": true,
+    "id": "ev-effix-feria-El s",
+    "source_kind": "auto",
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-11-13"
+  },
+  {
+    "scope": "intl",
+    "name": "XXVII Congreso de Logística: Supply Chain 2027, del reto global a la ventaja competitiva",
+    "organizer": "WE Educación Ejecutiva / Fundación WE",
+    "date_start": "2026-11-20",
+    "date_end": "2026-11-21",
+    "date_confirmed": true,
+    "date_note": "El viernes 20/11 es la jornada virtual y el sábado 21/11 la presencial. Solo lo confirma una fuente (The Logistics World). La edición XXVI se hizo en junio de 2026 en el Hotel Marriott, así que conviene verificar en el sitio del organizador.",
+    "city": "Lima",
+    "province": null,
+    "country": "Perú",
+    "venue": "The Westin Lima Hotel & Convention Center",
+    "venue_confirmed": true,
+    "format": "híbrido",
+    "category": "Logística",
+    "url": "https://we-educacion.com/congreso-logistica",
+    "source_url": "https://thelogisticsworld.com/eventos-de-la-industria/congreso-logistica-peru-agenda-inteligencia-artificial-resiliencia-supply-chain-2027/",
+    "description": "Es el congreso anual de supply chain de referencia en Perú. Su agenda gira en torno a la IA, la automatización logística, la resiliencia y la gestión de operaciones y carga, y en ediciones anteriores participaron ejecutivos de DHL, Ransa y Softys.",
+    "fixy_relevance": "Sirve para tomarle el pulso al mercado logístico peruano y a los operadores regionales. La jornada virtual permite seguir los contenidos sin viajar; el viaje solo se justificaría si Perú entra en la agenda de expansión.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-chain-competitiva-congreso-global-logistica-reto-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-11-13"
   }
 ]

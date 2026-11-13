@@ -58,5 +58,20 @@
     "source_kind": "auto",
     "last_updated": "2026-11-12",
     "first_seen": "2026-11-12"
+  },
+  {
+    "topic": "Inflación al 2,2% y Black Friday: cómo planificar envíos con costo previsible",
+    "why_now": "El dato de inflación de octubre salió el 12/11 y el Black Friday es el 27/11: las tiendas están definiendo precios y promociones con costos en alza.",
+    "fixy_angle": "Fixy puede explicar qué parte del costo logístico de un pedido se puede fijar de antemano y cómo el fulfillment tercerizado convierte costos variables en un precio por pedido conocido.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/11/12/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses/",
+    "id": "ct-5325f8b1",
+    "source_kind": "auto",
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-11-13"
   }
 ]

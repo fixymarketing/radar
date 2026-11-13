@@ -1,5 +1,36 @@
 [
   {
+    "title": "Ofrecer a los clientes una tarifa por pedido cerrada hasta fin de año para Black Friday y Fiestas",
+    "context": "El INDEC informó que la inflación de octubre fue 2,2%, la más alta desde abril y por encima de lo que esperaba el mercado. El consumo ya venía débil (el CyberMonday cayó 20% real) y las tiendas llegan a la temporada alta muy sensibles a costos que cambian mes a mes.",
+    "action": "Armar esta semana una propuesta comercial de fulfillment + envío con precio por pedido fijo entre el 16/11 y el 31/12 para clientes con volumen comprometido, y presentarla antes del Black Friday del 27/11.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/11/12/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses/",
+    "linked": [
+      "La inflación de octubre fue 2,2%, la más alta desde abril, y complica el consumo en la previa del Black Friday"
+    ],
+    "id": "op-844fe88d",
+    "source_kind": "auto",
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-11-13"
+  },
+  {
+    "title": "Crear una skill de Gemini con respuestas estándar a reclamos de envío para el pico de fin de año",
+    "context": "Google lanzó las Gemini Skills en Workspace: se crean una vez, se comparten con el equipo y se invocan con \"@\" dentro de Gmail, Docs y Chat. Con la Black Week Mayorista y el Black Friday en puerta, atención al cliente va a recibir más consultas de \"dónde está mi pedido\" y demoras.",
+    "action": "Que atención al cliente arme una skill compartida con las respuestas aprobadas para demoras, direcciones erróneas y reprogramaciones, y la pruebe en Gmail antes del 27/11.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/11/skills-in-workspace.html",
+    "linked": [
+      "Gemini Skills (reemplazan a los Gems)",
+      "Black Week Nacional Mayorista 2026"
+    ],
+    "id": "op-a44e5ad2",
+    "source_kind": "auto",
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-11-13"
+  },
+  {
     "title": "Diferenciar a las tiendas locales frente al cross-border con entrega rápida desde stock en Argentina",
     "context": "Aeropuertos Argentina prepara en Ezeiza una terminal única de courier de 15.000 m² porque el volumen de compras en Shein, Temu y Amazon casi se triplicó en un año. Con el cross-border ganando infraestructura propia, las marcas locales necesitan competir por plazo y previsibilidad de entrega, no solo por precio.",
     "action": "Armar una propuesta comercial para tiendas que compiten con productos importados: fulfillment con stock en Argentina, despacho en el día y entrega en 24-48 h, con un comparativo de plazos frente al courier internacional para usar en la venta.",
@@ -89,37 +120,6 @@
       "Uruguay propone subir a 21 los jornales garantizados para destrabar el paro en el puerto de Montevideo"
     ],
     "id": "op-c50d8648",
-    "source_kind": "auto",
-    "last_updated": "2026-09-28",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "title": "Revisar tarifas de transporte y última milla ante la suba de combustibles y la ruptura del acuerdo de precios",
-    "context": "Los combustibles subieron hasta 5% y se rompió el esquema de precios de referencia que regía desde mayo, justo cuando se firmó la paritaria de Camioneros con un aumento moderado. El combustible es uno de los componentes principales del costo de transporte, y la volatilidad amenaza con licuar el margen justo antes del pico de demanda de CyberMonday y Black Friday.",
-    "action": "Recalcular el costo por kilómetro y por entrega con el nuevo precio de combustible, y ajustar tarifas o cláusulas de ajuste automático en los contratos con clientes antes de que arranque la campaña de fin de año.",
-    "type": "comercial",
-    "priority": "alta",
-    "source_url": "https://www.iprofesional.com/economia/465136-combustibles-suben-hasta-5-y-cambian-los-precios-de-referencia",
-    "linked": [
-      "Los combustibles subieron hasta 5% y se rompió el acuerdo de precios que regía desde mayo",
-      "Camioneros cerró una paritaria de 6,6% semestral y un bono de $1.200.000"
-    ],
-    "id": "op-5ad295d1",
-    "source_kind": "auto",
-    "last_updated": "2026-09-28",
-    "first_seen": "2026-09-28"
-  },
-  {
-    "title": "Evaluar cómo va a recibir Fixy los pedidos generados por compra agéntica dentro de asistentes de IA",
-    "context": "MODO lanzó comercio agéntico abierto en ChatGPT junto con Frávega, el primer caso regional donde un asistente de IA generalista completa una compra de punta a punta dentro de la conversación. Esto anticipa que una porción creciente de los pedidos de eCommerce va a llegar generados por agentes de IA y no por una persona navegando el checkout.",
-    "action": "Revisar con los clientes de eCommerce que operan con MODO o integraciones similares si sus flujos de pedido hacia Fixy están preparados para recibir órdenes generadas por compra agéntica, y si los tiempos de entrega que promete el asistente coinciden con los SLA reales de Fixy.",
-    "type": "estratégica",
-    "priority": "relevante",
-    "source_url": "https://www.iproup.com/finanzas/71779-modo-lanza-comercio-agentico-para-comprar-y-pagar-sin-salir-de-chatgpt",
-    "linked": [
-      "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega"
-    ],
-    "id": "op-896ebc73",
     "source_kind": "auto",
     "last_updated": "2026-09-28",
     "first_seen": "2026-09-28"

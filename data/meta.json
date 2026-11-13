@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-11-12T12:11:13.629Z",
-  "last_updated_ar": "12/11/2026, 09:11",
-  "date": "2026-11-12",
+  "generated_at": "2026-11-13T12:10:03.847Z",
+  "last_updated_ar": "13/11/2026, 09:10",
+  "date": "2026-11-13",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Jueves de ARLOG en Escobar: Ezeiza suma una terminal de courier ante el boom de Shein y Temu, Chile arranca un paro de camioneros por el diésel y la Black Week mayorista adelanta el pico de Black Friday.",
+  "summary_line": "Viernes de costos en alza: la inflación de octubre saltó a 2,2% en la previa del Black Friday, Chile firmó un acuerdo con los camioneros pero siguen bloqueos, y el lunes arrancan la Black Week Mayorista y el Hackathon Retail Chain 4.0.",
   "counters": {
-    "news_today": 2,
-    "news_total": 9,
-    "events_upcoming": 27,
-    "events_ar_upcoming": 17,
+    "news_today": 1,
+    "news_total": 10,
+    "events_upcoming": 25,
+    "events_ar_upcoming": 15,
     "events_intl_upcoming": 10,
-    "events_later": 39,
+    "events_later": 40,
     "opportunities_open": 8,
     "opportunities_today": 2,
-    "ai_today": 1,
+    "ai_today": 2,
     "ai_to_try": 45,
-    "content_ideas": 4,
-    "added_news": 2,
-    "updated_news": 0,
+    "content_ideas": 5,
+    "added_news": 1,
+    "updated_news": 1,
     "added_events": 3,
-    "updated_events": 0,
-    "added_ai": 1,
-    "archived": 7,
+    "updated_events": 3,
+    "added_ai": 2,
+    "archived": 2,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-lisboa-summit-web-2026",
-    "name": "Web Summit Lisboa 2026",
+    "id": "ev-cargas-do-fenatran-internacional-rodoviario-sala-2026",
+    "name": "FENATRAN 2026 (25º Salão Internacional do Transporte Rodoviário de Cargas)",
     "date_start": "2026-11-09",
-    "city": "Lisboa",
+    "city": "São Paulo",
     "days_away": 0
   },
   "highlights": [
     {
-      "id": "ev-arlog-empresaria-encuentro-logistica-nacional-2026",
-      "kind": "event",
-      "title": "ARLOG - XXXIII Encuentro Nacional de Logística Empresaria",
-      "priority": "alta",
-      "one_liner": "Es hoy en Escobar: el encuentro central del sector logístico argentino para hacer networking con operadores, transportistas y dadores de carga."
-    },
-    {
-      "id": "nw-89c3f3004e",
+      "id": "nw-e3b8caf0c0",
       "kind": "news",
-      "title": "Ezeiza prepara una terminal única de courier de 15.000 m² ante el boom de compras en Shein, Temu y Amazon",
+      "title": "La inflación de octubre fue 2,2%, la más alta desde abril, y complica el consumo en la previa del Black Friday",
       "priority": "relevante",
-      "one_liner": "El cross-border casi triplicó su volumen en un año y ahora suma infraestructura propia: más presión en precio y plazo para las tiendas locales que atiende Fixy."
-    },
-    {
-      "id": "nw-17fd3ce48d",
-      "kind": "news",
-      "title": "Paro indefinido de camioneros en Chile por la suba del diésel: bloqueos de rutas y alertas por el abastecimiento",
-      "priority": "informativo",
-      "one_liner": "Conviene seguirlo si algún cliente depende de insumos o envíos que cruzan a Chile en plena temporada alta."
+      "one_liner": "Presiona costos y precios justo antes de la temporada alta: es el dato de base para revisar tarifas y la propuesta comercial de fin de año."
     },
     {
       "id": "ev-black-mayorista-nacional-week-2026",
       "kind": "event",
       "title": "Black Week Nacional Mayorista 2026",
-      "priority": "informativo",
-      "one_liner": "Del 16 al 23 de noviembre adelanta la demanda de Black Friday en consumo masivo: dato útil para planificar capacidad de despacho."
+      "priority": "relevante",
+      "one_liner": "Arranca el lunes 16/11 y adelanta el pico de despachos de consumo masivo antes del Black Friday."
     },
     {
-      "id": "ai-google-gemini-sheets-canvas-hojas-de-calculo-a-apps-interact",
-      "kind": "ai",
-      "title": "Gemini Sheets Canvas: hojas de cálculo a apps interactivas",
+      "id": "nw-17fd3ce48d",
+      "kind": "news",
+      "title": "Paro indefinido de camioneros en Chile por la suba del diésel: bloqueos de rutas y alertas por el abastecimiento",
       "priority": "relevante",
-      "one_liner": "Ahora se puede publicar un tablero en un link de solo lectura sin exponer la planilla: sirve para darle a cada cliente visibilidad de su stock y sus envíos."
+      "one_liner": "Hubo acuerdo con las principales confederaciones, pero siguen bloqueos en Antofagasta y Temuco: la logística vía Chile todavía no se normaliza."
+    },
+    {
+      "id": "ev-chain-hackathon-retail-2026",
+      "kind": "event",
+      "title": "Hackathon Retail Chain 4.0",
+      "priority": "informativo",
+      "one_liner": "Del 16 al 19/11 en CABA, Bahía Blanca y Posadas, con GS1 y supermercadistas: vidriera para soluciones de supply chain en retail."
+    },
+    {
+      "id": "ai-google-gemini-skills-reemplazan-a-los-gems",
+      "kind": "ai",
+      "title": "Gemini Skills (reemplazan a los Gems)",
+      "priority": "relevante",
+      "one_liner": "Ya se pueden compartir y usar con \"@\" en Gmail y Docs: sirve para estandarizar respuestas a reclamos de envío antes del pico."
     }
   ]
 }

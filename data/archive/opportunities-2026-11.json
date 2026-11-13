@@ -59,5 +59,36 @@
     "source_kind": "auto",
     "last_updated": "2026-09-27",
     "first_seen": "2026-09-27"
+  },
+  {
+    "title": "Revisar tarifas de transporte y última milla ante la suba de combustibles y la ruptura del acuerdo de precios",
+    "context": "Los combustibles subieron hasta 5% y se rompió el esquema de precios de referencia que regía desde mayo, justo cuando se firmó la paritaria de Camioneros con un aumento moderado. El combustible es uno de los componentes principales del costo de transporte, y la volatilidad amenaza con licuar el margen justo antes del pico de demanda de CyberMonday y Black Friday.",
+    "action": "Recalcular el costo por kilómetro y por entrega con el nuevo precio de combustible, y ajustar tarifas o cláusulas de ajuste automático en los contratos con clientes antes de que arranque la campaña de fin de año.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.iprofesional.com/economia/465136-combustibles-suben-hasta-5-y-cambian-los-precios-de-referencia",
+    "linked": [
+      "Los combustibles subieron hasta 5% y se rompió el acuerdo de precios que regía desde mayo",
+      "Camioneros cerró una paritaria de 6,6% semestral y un bono de $1.200.000"
+    ],
+    "id": "op-5ad295d1",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "title": "Evaluar cómo va a recibir Fixy los pedidos generados por compra agéntica dentro de asistentes de IA",
+    "context": "MODO lanzó comercio agéntico abierto en ChatGPT junto con Frávega, el primer caso regional donde un asistente de IA generalista completa una compra de punta a punta dentro de la conversación. Esto anticipa que una porción creciente de los pedidos de eCommerce va a llegar generados por agentes de IA y no por una persona navegando el checkout.",
+    "action": "Revisar con los clientes de eCommerce que operan con MODO o integraciones similares si sus flujos de pedido hacia Fixy están preparados para recibir órdenes generadas por compra agéntica, y si los tiempos de entrega que promete el asistente coinciden con los SLA reales de Fixy.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.iproup.com/finanzas/71779-modo-lanza-comercio-agentico-para-comprar-y-pagar-sin-salir-de-chatgpt",
+    "linked": [
+      "MODO lanza comercio agéntico abierto en ChatGPT junto con Frávega"
+    ],
+    "id": "op-896ebc73",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
   }
 ]
