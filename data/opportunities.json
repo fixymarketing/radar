@@ -1,5 +1,20 @@
 [
   {
+    "title": "Explorar una integración o alianza con Base.com ahora que opera con equipo propio en Argentina",
+    "context": "Base.com empezó a operar con equipo local como hub que conecta ventas, stock y envíos de Mercado Libre, Tiendanube y Shopify. Las marcas que lo adopten van a buscar un operador logístico que se conecte con ese mismo sistema.",
+    "action": "Contactar al equipo local de Base.com para saber si tienen integración con operadores de fulfillment y qué haría falta para que Fixy aparezca como opción logística dentro de su plataforma.",
+    "type": "alianza",
+    "priority": "relevante",
+    "source_url": "https://www.lanacion.com.ar/economia/negocios/una-plataforma-global-de-e-commerce-llega-a-la-argentina-para-integrar-ventas-stock-y-logistica-nid11112026/",
+    "linked": [
+      "La plataforma Base.com opera con equipo propio en Argentina para integrar ventas, stock y logística"
+    ],
+    "id": "op-526dba46",
+    "source_kind": "auto",
+    "last_updated": "2026-11-14",
+    "first_seen": "2026-11-14"
+  },
+  {
     "title": "Ofrecer a los clientes una tarifa por pedido cerrada hasta fin de año para Black Friday y Fiestas",
     "context": "El INDEC informó que la inflación de octubre fue 2,2%, la más alta desde abril y por encima de lo que esperaba el mercado. El consumo ya venía débil (el CyberMonday cayó 20% real) y las tiendas llegan a la temporada alta muy sensibles a costos que cambian mes a mes.",
     "action": "Armar esta semana una propuesta comercial de fulfillment + envío con precio por pedido fijo entre el 16/11 y el 31/12 para clientes con volumen comprometido, y presentarla antes del Black Friday del 27/11.",
@@ -106,22 +121,5 @@
     "source_kind": "auto",
     "last_updated": "2026-10-08",
     "first_seen": "2026-10-08"
-  },
-  {
-    "title": "Preparar un plan de contingencia de rutas por si el conflicto de TCP Montevideo no se resuelve hoy",
-    "context": "El plazo para cerrar el acuerdo con 20 puntos ya consensuados vence hoy, mientras cámaras empresariales uruguayas ya contabilizan 44 días de paro en 2026 y el sindicato SUPRA tiene aprobado un paro nacional de hasta 48 horas si la negociación fracasa. Un nuevo quiebre volvería a golpear la carga de exportación e importación argentina que pasa por Montevideo.",
-    "action": "Relevar con los clientes que dependen de carga vía Montevideo qué volumen está en tránsito hoy y tener lista una ruta alternativa para activar si el paro se confirma en las próximas 24-48 horas.",
-    "type": "estratégica",
-    "priority": "alta",
-    "source_url": "https://www.prensa-latina.cu/2026/09/28/instancia-negociadora-para-conflicto-portuario-en-uruguay/",
-    "linked": [
-      "El plazo para resolver el conflicto portuario de TCP en Montevideo vence hoy, con 20 puntos ya acordados",
-      "Cámaras empresariales de Uruguay advierten que la crisis del Puerto de Montevideo ya lleva 44 días de paros en 2026",
-      "Uruguay propone subir a 21 los jornales garantizados para destrabar el paro en el puerto de Montevideo"
-    ],
-    "id": "op-c50d8648",
-    "source_kind": "auto",
-    "last_updated": "2026-09-28",
-    "first_seen": "2026-09-28"
   }
 ]

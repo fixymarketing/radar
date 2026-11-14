@@ -744,11 +744,11 @@
   {
     "scope": "ar",
     "name": "Emprendimiento Argentino 2026 (Final Nacional)",
-    "organizer": "Secretaría de Industria, Comercio y la Pequeña y Mediana Empresa – Ministerio de Economía de la Nación",
+    "organizer": "Gobierno nacional – Ministerio de Economía (Concurso Emprendimiento Argentino)",
     "date_start": "2026-11-19",
     "date_end": "2026-11-20",
     "date_confirmed": true,
-    "date_note": "Corresponde a la final nacional del concurso; las instancias provinciales se desarrollan entre agosto y octubre en distintas provincias del país.",
+    "date_note": "Hay dos versiones: un medio de Mar del Plata ubica la final nacional el 19 y 20/11; el calendario oficial de Nación solo dice segunda quincena de noviembre. Mar del Plata fue sede de la final provincial de Buenos Aires (octubre), no hay confirmación oficial de la sede de la final nacional.",
     "city": "Mar del Plata",
     "province": "Buenos Aires",
     "country": "Argentina",
@@ -757,15 +757,15 @@
     "format": "presencial",
     "category": "Emprendimiento",
     "url": "https://www.argentina.gob.ar/economia/pymes-emprendedores-y-economia-del-conocimiento/ecosistema-emprendedor/concurso-emprendimiento",
-    "source_url": "https://www.infobrisas.com/noticias/2026/07/11/100921-muro-destaco-la-eleccion-de-mar-del-plata-como-sede-del-concurso-que-premiara-a-los-mejores-emprendimientos-del-pais",
-    "description": "El municipio de General Pueyrredon confirmó que Mar del Plata será la sede de la final nacional del concurso federal Emprendimiento Argentino 2026, que se realizará el 19 y 20 de noviembre luego de cerrarse la etapa de inscripciones el 18 de agosto.",
-    "fixy_relevance": "Reúne a los mejores emprendimientos de todo el país, incluidos proyectos de eCommerce, tecnología y logística: es una oportunidad para detectar potenciales clientes, partners o señales tempranas de negocios digitales en el interior.",
+    "source_url": "https://www.lacapitalmdp.com/mar-del-plata-sera-sede-de-la-final-provincial-del-concurso-emprendimiento-argentino-2026/",
+    "description": "Final nacional del concurso federal de emprendimientos, donde compiten los ganadores de las instancias provinciales (31/8 al 30/10). Corrección: la sede de Mar del Plata corresponde a la final provincial, no a la nacional.",
+    "fixy_relevance": "Concentra a emprendimientos de todo el país con potencial de escalar sus ventas online, que podrían ser clientes de fulfillment. Conviene no agendar Mar del Plata hasta que se confirme la sede.",
     "justification_type": null,
-    "priority": "relevante",
+    "priority": "informativo",
     "beyond_90": false,
     "id": "ev-argentino-emprendimiento-final-nacional-2026",
     "source_kind": "auto",
-    "last_updated": "2026-08-24",
+    "last_updated": "2026-11-14",
     "first_seen": "2026-08-19",
     "change_log": [
       {
@@ -781,35 +781,19 @@
           "priority",
           "beyond_90"
         ]
+      },
+      {
+        "date": "2026-11-14",
+        "fields": [
+          "organizer",
+          "date_note",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
       }
     ]
-  },
-  {
-    "scope": "ar",
-    "name": "Startup Weekend Córdoba 2026",
-    "organizer": "Startup Weekend Córdoba (comunidad Techstars)",
-    "date_start": "2026-11-08",
-    "date_end": "2026-11-10",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Córdoba",
-    "province": "Córdoba",
-    "country": "Argentina",
-    "venue": "Casa Naranja X",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Emprendimiento",
-    "url": "https://www.facebook.com/SWCordoba/",
-    "source_url": "https://viapais.com.ar/cordoba/662085-inscripciones-abiertas-a-startup-weekend-cordoba/",
-    "description": "Maratón de 54 horas donde equipos convierten una idea vinculada a inteligencia artificial en un prototipo de negocio con plan viable, evaluado por mentores y jurado.",
-    "fixy_relevance": "Es una cantera de emprendimientos digitales y de IA del interior que en poco tiempo pueden necesitar fulfillment y logística de eCommerce; vale la pena mapear proyectos ganadores como potenciales clientes.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-cordoba-startup-weekend-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-20",
-    "first_seen": "2026-08-20"
   },
   {
     "scope": "ar",
@@ -2260,7 +2244,7 @@
   {
     "scope": "ar",
     "name": "Hackathon Retail Chain 4.0",
-    "organizer": "Escuela Argentina de Supermercadismo, con la Universidad CAECE y GS1 Argentina (sede Bahía Blanca en articulación con la Universidad Nacional del Sur)",
+    "organizer": "Escuela Argentina de Supermercadismo, con Universidad CAECE y GS1 Argentina",
     "date_start": "2026-11-16",
     "date_end": "2026-11-19",
     "date_confirmed": true,
@@ -2273,15 +2257,15 @@
     "format": "híbrido",
     "category": "Logística",
     "url": "https://www.enfoqueu.uns.edu.ar/competencia-para-impulsar-la-innovacion-en-cadenas-de-suministro/",
-    "source_url": "https://ecosistemastartup.com/?p=102493",
-    "description": "Hackathon federal sobre digitalización y transformación digital de procesos logísticos y de retail. Es híbrido en Buenos Aires y presencial en Bahía Blanca y Posadas.",
-    "fixy_relevance": "Sirve para detectar talento y soluciones de supply chain para retail. También es una vidriera ante supermercadistas y GS1, cuyo estándar de codificación es clave en fulfillment.",
+    "source_url": "https://tradeyretail.com/pdf/revistas/actualidad-en-supermercados-473.pdf",
+    "description": "Hackathon federal sobre innovación en cadenas de suministro de retail que se hace en simultáneo en tres sedes: híbrido en Buenos Aires y presencial en Bahía Blanca (con la UNS) y Misiones. Datos nuevos: termina el 19/11, lo organizan la Escuela Argentina de Supermercadismo, Universidad CAECE y GS1 Argentina, y participan comisiones sectoriales como la CACE.",
+    "fixy_relevance": "Muestra hacia dónde va la innovación en supply chain y última milla para retail, y reúne a talento y empresas del sector. Puede servir para detectar soluciones o perfiles técnicos.",
     "justification_type": null,
-    "priority": "informativo",
+    "priority": "relevante",
     "beyond_90": false,
     "id": "ev-chain-hackathon-retail-2026",
     "source_kind": "auto",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "first_seen": "2026-09-28",
     "change_log": [
       {
@@ -2292,6 +2276,16 @@
           "city",
           "province",
           "format",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-11-14",
+        "fields": [
+          "organizer",
           "source_url",
           "description",
           "fixy_relevance",
@@ -2668,29 +2662,43 @@
   {
     "scope": "ar",
     "name": "Black Week Nacional Mayorista 2026",
-    "organizer": "CADAM (Cámara Argentina de Distribuidores y Autoservicios Mayoristas)",
+    "organizer": "Cámara Argentina de Distribuidores y Autoservicios Mayoristas (CADAM)",
     "date_start": "2026-11-16",
     "date_end": "2026-11-23",
     "date_confirmed": true,
-    "date_note": "Del lunes 16 al lunes 23 de noviembre de 2026.",
+    "date_note": "Del lunes 16 al lunes 23 de noviembre (ocho días), según Perfil e iProfesional.",
     "city": "Todo el país",
     "province": null,
     "country": "Argentina",
-    "venue": "Locales mayoristas adheridos y tiendas online",
+    "venue": "Unos 200 comercios mayoristas adheridos",
     "venue_confirmed": true,
-    "format": "híbrido",
+    "format": "presencial",
     "category": "Retail",
     "url": "https://www.iprofesional.com/economia/467444-black-week-mayorista-2026-cuando-empieza-y-que-productos-estaran-en-oferta",
-    "source_url": "https://www.iprofesional.com/economia/467444-black-week-mayorista-2026-cuando-empieza-y-que-productos-estaran-en-oferta",
-    "description": "Última semana de descuentos del año de los mayoristas, con unos 200 locales de todo el país y promociones en alimentos, bebidas, limpieza y perfumería, en locales físicos y tiendas online.",
-    "fixy_relevance": "Se superpone con la previa del Black Friday (27/11) y suma demanda en consumo masivo; anticipa picos de despacho para clientes del rubro y es dato útil para planificar capacidad y comunicar disponibilidad.",
+    "source_url": "https://www.perfil.com/noticias/economia/con-el-consumo-en-caida-los-mayoristas-lanzan-un-black-week-con-descuentos-en-200-locales.phtml",
+    "description": "Semana de descuentos de hasta 40% en alimentos, bebidas, limpieza y perfumería en unos 200 locales mayoristas de todo el país. Dato nuevo: se extiende hasta el lunes 23 y la impulsa CADAM.",
+    "fixy_relevance": "Anticipa el pico de consumo previo al Black Friday del 27/11. Ayuda a leer la demanda de consumo masivo y a planificar la capacidad de las semanas de fin de noviembre.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-black-mayorista-nacional-week-2026",
     "source_kind": "auto",
-    "last_updated": "2026-11-12",
-    "first_seen": "2026-11-12"
+    "last_updated": "2026-11-14",
+    "first_seen": "2026-11-12",
+    "change_log": [
+      {
+        "date": "2026-11-14",
+        "fields": [
+          "organizer",
+          "date_note",
+          "venue",
+          "format",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -2799,5 +2807,32 @@
     "source_kind": "auto",
     "last_updated": "2026-11-13",
     "first_seen": "2026-11-13"
+  },
+  {
+    "scope": "ar",
+    "name": "Patagonia Marketing Summit 2026",
+    "organizer": "Patagonia Marketing Summit (dir. Eugenia Mindurry)",
+    "date_start": "2026-11-13",
+    "date_end": "2026-11-14",
+    "date_confirmed": true,
+    "date_note": "Viernes 13 y sábado 14 de noviembre de 2026; declarado de interés municipal por el Concejo Deliberante de Bariloche. Hoy se desarrolla la segunda jornada.",
+    "city": "San Carlos de Bariloche",
+    "province": "Río Negro",
+    "country": "Argentina",
+    "venue": "Hotel Sheraton Bariloche",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Marketing",
+    "url": "https://www.rionegro.com.ar/sociedad/desde-bariloche-se-busca-generar-una-red-para-potenciar-las-empresas-de-la-patagonia-4613244/",
+    "source_url": "https://concejobariloche.gov.ar/files/2023-2027/Declaraciones/D-26-3213.pdf",
+    "description": "Encuentro regional de marketing, comunicación y negocios digitales con 22 expositores y más de 500 inscriptos, según la organización. Busca conectar a agencias y profesionales de la Patagonia con empresas de la región.",
+    "fixy_relevance": "Sirve para relevar marcas y agencias patagónicas que venden online y necesitan resolver envíos al sur, una zona cara y compleja para la última milla. Si no hay presencia, conviene seguir la cobertura y los contactos que salgan.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-marketing-patagonia-summit-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-11-14",
+    "first_seen": "2026-11-14"
   }
 ]

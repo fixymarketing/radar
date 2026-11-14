@@ -90,5 +90,22 @@
     "source_kind": "auto",
     "last_updated": "2026-09-28",
     "first_seen": "2026-09-28"
+  },
+  {
+    "title": "Preparar un plan de contingencia de rutas por si el conflicto de TCP Montevideo no se resuelve hoy",
+    "context": "El plazo para cerrar el acuerdo con 20 puntos ya consensuados vence hoy, mientras cámaras empresariales uruguayas ya contabilizan 44 días de paro en 2026 y el sindicato SUPRA tiene aprobado un paro nacional de hasta 48 horas si la negociación fracasa. Un nuevo quiebre volvería a golpear la carga de exportación e importación argentina que pasa por Montevideo.",
+    "action": "Relevar con los clientes que dependen de carga vía Montevideo qué volumen está en tránsito hoy y tener lista una ruta alternativa para activar si el paro se confirma en las próximas 24-48 horas.",
+    "type": "estratégica",
+    "priority": "alta",
+    "source_url": "https://www.prensa-latina.cu/2026/09/28/instancia-negociadora-para-conflicto-portuario-en-uruguay/",
+    "linked": [
+      "El plazo para resolver el conflicto portuario de TCP en Montevideo vence hoy, con 20 puntos ya acordados",
+      "Cámaras empresariales de Uruguay advierten que la crisis del Puerto de Montevideo ya lleva 44 días de paros en 2026",
+      "Uruguay propone subir a 21 los jornales garantizados para destrabar el paro en el puerto de Montevideo"
+    ],
+    "id": "op-c50d8648",
+    "source_kind": "auto",
+    "last_updated": "2026-09-28",
+    "first_seen": "2026-09-28"
   }
 ]

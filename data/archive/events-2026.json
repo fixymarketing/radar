@@ -4295,5 +4295,32 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "Startup Weekend Córdoba 2026",
+    "organizer": "Startup Weekend Córdoba (comunidad Techstars)",
+    "date_start": "2026-11-08",
+    "date_end": "2026-11-10",
+    "date_confirmed": true,
+    "date_note": null,
+    "city": "Córdoba",
+    "province": "Córdoba",
+    "country": "Argentina",
+    "venue": "Casa Naranja X",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Emprendimiento",
+    "url": "https://www.facebook.com/SWCordoba/",
+    "source_url": "https://viapais.com.ar/cordoba/662085-inscripciones-abiertas-a-startup-weekend-cordoba/",
+    "description": "Maratón de 54 horas donde equipos convierten una idea vinculada a inteligencia artificial en un prototipo de negocio con plan viable, evaluado por mentores y jurado.",
+    "fixy_relevance": "Es una cantera de emprendimientos digitales y de IA del interior que en poco tiempo pueden necesitar fulfillment y logística de eCommerce; vale la pena mapear proyectos ganadores como potenciales clientes.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-cordoba-startup-weekend-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-08-20",
+    "first_seen": "2026-08-20"
   }
 ]

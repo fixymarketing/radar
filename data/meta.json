@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-11-13T12:10:03.847Z",
-  "last_updated_ar": "13/11/2026, 09:10",
-  "date": "2026-11-13",
+  "generated_at": "2026-11-14T12:10:47.403Z",
+  "last_updated_ar": "14/11/2026, 09:10",
+  "date": "2026-11-14",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Viernes de costos en alza: la inflación de octubre saltó a 2,2% en la previa del Black Friday, Chile firmó un acuerdo con los camioneros pero siguen bloqueos, y el lunes arrancan la Black Week Mayorista y el Hackathon Retail Chain 4.0.",
+  "summary_line": "Sábado de previa: el lunes arranca la Black Week Mayorista, Chile destrabó el paro de camioneros con focos de bloqueo todavía activos, ARLOG puso a la IA en el centro de la agenda logística y Base.com suma otro integrador multicanal con equipo local.",
   "counters": {
-    "news_today": 1,
-    "news_total": 10,
-    "events_upcoming": 25,
-    "events_ar_upcoming": 15,
-    "events_intl_upcoming": 10,
+    "news_today": 2,
+    "news_total": 12,
+    "events_upcoming": 21,
+    "events_ar_upcoming": 13,
+    "events_intl_upcoming": 8,
     "events_later": 40,
     "opportunities_open": 8,
-    "opportunities_today": 2,
-    "ai_today": 2,
+    "opportunities_today": 1,
+    "ai_today": 0,
     "ai_to_try": 45,
-    "content_ideas": 5,
-    "added_news": 1,
+    "content_ideas": 6,
+    "added_news": 2,
     "updated_news": 1,
-    "added_events": 3,
+    "added_events": 1,
     "updated_events": 3,
-    "added_ai": 2,
+    "added_ai": 0,
     "archived": 2,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-cargas-do-fenatran-internacional-rodoviario-sala-2026",
-    "name": "FENATRAN 2026 (25º Salão Internacional do Transporte Rodoviário de Cargas)",
-    "date_start": "2026-11-09",
-    "city": "São Paulo",
+    "id": "ev-cargo-peru-week-2026",
+    "name": "Perú Cargo Week 2026",
+    "date_start": "2026-11-12",
+    "city": "Lima",
     "days_away": 0
   },
   "highlights": [
-    {
-      "id": "nw-e3b8caf0c0",
-      "kind": "news",
-      "title": "La inflación de octubre fue 2,2%, la más alta desde abril, y complica el consumo en la previa del Black Friday",
-      "priority": "relevante",
-      "one_liner": "Presiona costos y precios justo antes de la temporada alta: es el dato de base para revisar tarifas y la propuesta comercial de fin de año."
-    },
     {
       "id": "ev-black-mayorista-nacional-week-2026",
       "kind": "event",
       "title": "Black Week Nacional Mayorista 2026",
       "priority": "relevante",
-      "one_liner": "Arranca el lunes 16/11 y adelanta el pico de despachos de consumo masivo antes del Black Friday."
+      "one_liner": "Arranca el lunes 16/11 y dura hasta el 23/11: adelanta el pico de despachos de consumo masivo antes del Black Friday del 27/11."
     },
     {
       "id": "nw-17fd3ce48d",
       "kind": "news",
       "title": "Paro indefinido de camioneros en Chile por la suba del diésel: bloqueos de rutas y alertas por el abastecimiento",
       "priority": "relevante",
-      "one_liner": "Hubo acuerdo con las principales confederaciones, pero siguen bloqueos en Antofagasta y Temuco: la logística vía Chile todavía no se normaliza."
+      "one_liner": "Chile acordó con los camioneros congelar el diésel hasta 2027, pero quedan focos de bloqueo en el norte: todavía conviene seguir las cargas que cruzan por Chile."
+    },
+    {
+      "id": "nw-40d59090e9",
+      "kind": "news",
+      "title": "La plataforma Base.com opera con equipo propio en Argentina para integrar ventas, stock y logística",
+      "priority": "relevante",
+      "one_liner": "Otro integrador multicanal con equipo local: las marcas que lo usen van a pedir un operador logístico conectado al mismo sistema."
     },
     {
       "id": "ev-chain-hackathon-retail-2026",
       "kind": "event",
       "title": "Hackathon Retail Chain 4.0",
       "priority": "informativo",
-      "one_liner": "Del 16 al 19/11 en CABA, Bahía Blanca y Posadas, con GS1 y supermercadistas: vidriera para soluciones de supply chain en retail."
+      "one_liner": "Del 16 al 19/11 en CABA, Bahía Blanca y Posadas, con GS1, CAECE y la CACE: vidriera de soluciones de supply chain para retail."
     },
     {
-      "id": "ai-google-gemini-skills-reemplazan-a-los-gems",
-      "kind": "ai",
-      "title": "Gemini Skills (reemplazan a los Gems)",
-      "priority": "relevante",
-      "one_liner": "Ya se pueden compartir y usar con \"@\" en Gmail y Docs: sirve para estandarizar respuestas a reclamos de envío antes del pico."
+      "id": "nw-e8fbe2dc71",
+      "kind": "news",
+      "title": "El Encuentro Nacional de ARLOG puso el foco en IA, formación e infraestructura logística",
+      "priority": "informativo",
+      "one_liner": "Marca la agenda que discuten los grandes operadores y dadores de carga: automatizar para bajar costos y destrabar infraestructura."
     }
   ]
 }

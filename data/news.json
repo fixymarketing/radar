@@ -183,25 +183,24 @@
   },
   {
     "title": "Paro indefinido de camioneros en Chile por la suba del diésel: bloqueos de rutas y alertas por el abastecimiento",
-    "what_happened": "El jueves 12 de noviembre el gobierno chileno cerró un acuerdo con la Confederación de Transportistas Fuerza del Norte y la Confederación de Camioneros Centro-Sur, que contempla una rebaja total de $142 por litro de diésel y un techo para el precio de los combustibles hasta el 31 de marzo de 2027, sujeto a un proyecto de ley ya ingresado al Congreso. Sin embargo, camioneros independientes de Antofagasta y Temuco y el movimiento No+TAG rechazaron el entendimiento y mantuvieron bloqueos en distintas regiones, por lo que el gobierno no logró levantar todas las protestas y dejó abierta la vía de acciones legales.",
-    "why_it_matters": "El conflicto entra en fase de desescalada, pero sin normalización total: la logística chilena sigue expuesta a cortes puntuales en plena antesala del pico de fin de año.",
+    "what_happened": "El jueves 12 de noviembre el Gobierno chileno cerró un acuerdo con las principales confederaciones de camioneros (Fuerza Norte y Centro Sur) para levantar el paro, tras tres días de medida. El acuerdo revierte la última suba de combustibles, suma una rebaja adicional del diésel y congela nuevas alzas hasta 2027. Grupos de camioneros independientes, como los de Antofagasta y La Araucanía, consideraron insuficiente la rebaja y anunciaron que siguen movilizados.",
+    "why_it_matters": "El riesgo de desabastecimiento baja, pero no desaparece del todo: quedan focos de bloqueo en rutas clave del norte chileno, por donde pasan cargas que conectan con Argentina.",
     "fixy_impact": "Para clientes de Fixy que importan o exportan vía Chile, o que dependen de insumos que transitan por ese país, conviene sostener márgenes de stock y monitorear los cortes remanentes en los próximos días.",
     "category": "Logística",
     "geo": "LATAM",
-    "source_name": "El Mostrador",
-    "source_url": "https://www.elmostrador.cl/noticias/pais/2026/11/13/gobierno-anuncia-fin-del-paro-de-camioneros-con-rebaja-del-diesel-y-congelamiento-de-combustibles/",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/america/america-latina/2026/11/13/gobierno-chileno-logra-acuerdo-con-camioneros-tras-tres-dias-de-paro-congela-precios-hasta-2027/",
     "published_date": "2026-11-13",
-    "priority": "relevante",
+    "priority": "informativo",
     "tags": [
       "Chile",
-      "paro de camioneros",
+      "camioneros",
       "diésel",
-      "transporte de cargas",
-      "supply chain"
+      "transporte de cargas"
     ],
     "id": "nw-17fd3ce48d",
     "source_kind": "auto",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "first_seen": "2026-11-12",
     "updated_flag": true
   },
@@ -227,5 +226,49 @@
     "source_kind": "auto",
     "last_updated": "2026-11-13",
     "first_seen": "2026-11-13"
+  },
+  {
+    "title": "El Encuentro Nacional de ARLOG puso el foco en IA, formación e infraestructura logística",
+    "what_happened": "La Asociación Argentina de Logística Empresaria (ARLOG) realizó el 12 de noviembre su XXXIII Encuentro Nacional de Logística en el predio de FPT/FADEEAC en Escobar, bajo el lema \"Argentina Logística: la estrategia y los habilitadores necesarios para la nueva Supply Chain\". Los ejes fueron la automatización con inteligencia artificial, las competencias profesionales y la infraestructura, con paneles sobre la Vía Navegable Troncal (Hidrovía), los ferrocarriles y los bitrenes.",
+    "why_it_matters": "Marca la agenda que discuten los grandes operadores y dadores de carga del país: automatizar para bajar costos y resolver cuellos de infraestructura que encarecen el transporte.",
+    "fixy_impact": "Sirve como referencia de las prioridades del sector para el discurso comercial de Fixy sobre tecnología y eficiencia operativa.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Revista Mercado",
+    "source_url": "https://mercado.com.ar/eventos/arlog-puso-el-foco-en-la-ia-la-formacion-y-la-infraestructura-en-su-encuentro-nacional-de-logistica",
+    "published_date": "2026-11-14",
+    "priority": "informativo",
+    "tags": [
+      "ARLOG",
+      "IA",
+      "infraestructura",
+      "supply chain"
+    ],
+    "id": "nw-e8fbe2dc71",
+    "source_kind": "auto",
+    "last_updated": "2026-11-14",
+    "first_seen": "2026-11-14"
+  },
+  {
+    "title": "La plataforma Base.com opera con equipo propio en Argentina para integrar ventas, stock y logística",
+    "what_happened": "Base.com, una plataforma tecnológica nacida en Polonia y presente en más de 20 países, inició operaciones con equipo propio en Argentina. Funciona como un hub que conecta canales de venta como Mercado Libre, Tiendanube y Shopify, y centraliza pedidos, stock y envíos desde un único panel. Apunta a empresas desde pymes hasta grandes compañías.",
+    "why_it_matters": "Suma otra capa de software de integración multicanal en el mercado local, que facilita a las marcas vender en varios marketplaces y mover la logística desde un mismo sistema.",
+    "fixy_impact": "Si sus clientes de eCommerce adoptan este tipo de hubs, a Fixy le conviene evaluar la integración con Base.com para recibir pedidos sin fricción.",
+    "category": "Tecnología",
+    "geo": "Argentina",
+    "source_name": "La Nación",
+    "source_url": "https://www.lanacion.com.ar/economia/negocios/una-plataforma-global-de-e-commerce-llega-a-la-argentina-para-integrar-ventas-stock-y-logistica-nid11112026/",
+    "published_date": "2026-11-11",
+    "priority": "informativo",
+    "tags": [
+      "integraciones",
+      "multicanal",
+      "software",
+      "marketplaces"
+    ],
+    "id": "nw-40d59090e9",
+    "source_kind": "auto",
+    "last_updated": "2026-11-14",
+    "first_seen": "2026-11-14"
   }
 ]

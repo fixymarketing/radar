@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-11-14",
+    "at": "2026-11-14T12:10:47.403Z",
+    "status": "ok",
+    "added": {
+      "news": 2,
+      "events": 1,
+      "ai": 0,
+      "opportunities": 1,
+      "content": 1
+    },
+    "updated": {
+      "news": 1,
+      "events": 3,
+      "ai": 2
+    },
+    "archived": {
+      "events": 1,
+      "news": 0,
+      "ai": 0,
+      "opportunities": 1,
+      "content": 0
+    },
+    "discarded": 0,
+    "errors": []
+  },
+  {
     "date": "2026-11-13",
     "at": "2026-11-13T12:10:03.848Z",
     "status": "ok",
@@ -1009,32 +1035,6 @@
       "ai": 0,
       "opportunities": 0,
       "content": 1
-    },
-    "discarded": 0,
-    "errors": []
-  },
-  {
-    "date": "2026-10-04",
-    "at": "2026-10-04T12:15:18.139Z",
-    "status": "ok",
-    "added": {
-      "news": 0,
-      "events": 0,
-      "ai": 0,
-      "opportunities": 0,
-      "content": 0
-    },
-    "updated": {
-      "news": 0,
-      "events": 0,
-      "ai": 0
-    },
-    "archived": {
-      "events": 2,
-      "news": 1,
-      "ai": 0,
-      "opportunities": 0,
-      "content": 2
     },
     "discarded": 0,
     "errors": []

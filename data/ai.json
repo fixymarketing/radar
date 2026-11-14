@@ -292,6 +292,50 @@
     "first_seen": "2026-11-13"
   },
   {
+    "name": "Claude Dashboards y Claude Motion",
+    "vendor": "Anthropic",
+    "what_it_is": "Función de Claude para hacerle preguntas a los datos de la empresa y armar tableros a partir de una fuente conectada (data warehouse, CRM o herramientas de analítica).",
+    "what_changed": "El 10 de noviembre Claude Dashboards salió de beta y pasó a llamarse Claude Data, ahora disponible en todos los planes pagos. Suma historias de datos narradas, actualización programada por tablero, control de cambios con vuelta atrás y, en beta, consultas certificadas y tableros compartidos en vivo para gente sin acceso a los conectores.",
+    "fixy_use": "Si los datos de envíos y pedidos están en una base o un CRM conectable, operaciones puede armar un tablero de SLA, entregas fallidas y volumen por cliente que se actualice solo. Con el compartido en vivo, management y comercial ven los mismos números sin tener acceso a la base. Las historias de datos sirven para el resumen mensual que se le manda a cada cliente.",
+    "verdict": "seguir",
+    "verdict_reason": "Exige tener los datos en un conector compatible y las funciones de compartir y certificar siguen en beta, así que conviene ver primero si la fuente de datos de Fixy se puede conectar.",
+    "categories": [
+      "Análisis",
+      "Operaciones",
+      "Management"
+    ],
+    "pricing_note": "pago: incluido en los planes pagos de Claude; en Team viene activado por defecto y en Enterprise se activa el 20 de noviembre de 2026",
+    "source_url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "published_date": "2026-11-10",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-dashboards-y-claude-motion",
+    "source_kind": "auto",
+    "last_updated": "2026-11-14",
+    "first_seen": "2026-10-17"
+  },
+  {
+    "name": "Workspace Studio Flows: nuevos pasos de automatización",
+    "vendor": "Google Workspace",
+    "what_it_is": "Constructor de flujos automáticos de Google Workspace que conecta Gmail, Drive, Sheets, Chat y otras apps sin programar.",
+    "what_changed": "Google sumó el paso \"Wait until\", que pausa un flujo y lo retoma en una fecha y hora o después de un plazo, con un máximo de 14 días; también funciona dentro de condiciones y bucles. Empezó a desplegarse el 9 de noviembre.",
+    "fixy_use": "Comercial puede armar un flujo que, después de mandar una propuesta, espere 3 días y, si no hubo respuesta, le mande un recordatorio al vendedor por Chat. Atención al cliente puede programar un seguimiento automático a las 48 horas de un reclamo para confirmar que se resolvió. Antes esto había que hacerlo con Zapier o a mano.",
+    "verdict": "probar",
+    "verdict_reason": "Si Fixy ya usa Google Workspace, es una mejora gratuita que destraba seguimientos automáticos sin sumar otra herramienta.",
+    "categories": [
+      "Automatización",
+      "Comercial",
+      "Productividad"
+    ],
+    "pricing_note": "no confirmado: incluido en Workspace Studio; las ediciones habilitadas no figuran confirmadas en fuente oficial",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/11/pause-and-schedule-automated-workflows-with-the-new-Wait-until-step-in-Workspace-Studio.html",
+    "published_date": "2026-11-09",
+    "priority": "relevante",
+    "id": "ai-google-workspace-workspace-studio-flows-nuevos-pasos-de-auto",
+    "source_kind": "auto",
+    "last_updated": "2026-11-14",
+    "first_seen": "2026-09-12"
+  },
+  {
     "name": "Gemini: edición de archivos dentro del chat",
     "vendor": "Google",
     "what_it_is": "Los archivos que genera Gemini (Docs, Sheets, presentaciones, PDF, texto) ahora se ven y se editan dentro del mismo chat: los abrís en pantalla completa y escribís a mano, o marcás una parte y le pedís a Gemini que la cambie.",
@@ -1066,28 +1110,6 @@
     "first_seen": "2026-09-12"
   },
   {
-    "name": "Workspace Studio Flows: nuevos pasos de automatización",
-    "vendor": "Google Workspace",
-    "what_it_is": "Flows es el armador de automatizaciones sin código de Workspace Studio: encadena pasos disparados por eventos (un email nuevo, un archivo subido) para mover archivos, responder en Chat o contestar emails automáticamente.",
-    "what_changed": "La semana del 4 de septiembre de 2026 Google sumó cuatro pasos nuevos a Flows: mover archivo de Drive, copiar archivo de Drive, responder en Chat y responder email, ampliando lo que se puede automatizar sin escribir código.",
-    "fixy_use": "Operaciones podría armar un flujo que, cuando llega un remito o factura a una carpeta de Drive, lo copie a la carpeta del cliente correspondiente y avise por Chat al equipo, sin depender de un desarrollador ni de una herramienta externa de pago.",
-    "verdict": "probar",
-    "verdict_reason": "Es gratis dentro de Workspace y cubre automatizaciones simples que hoy se hacen a mano o que requerirían montar algo en n8n.",
-    "categories": [
-      "Automatización",
-      "Organización",
-      "Operaciones"
-    ],
-    "pricing_note": "incluido en Google Workspace, sin costo adicional",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-04-2026.html",
-    "published_date": "2026-09-04",
-    "priority": "relevante",
-    "id": "ai-google-workspace-workspace-studio-flows-nuevos-pasos-de-auto",
-    "source_kind": "auto",
-    "last_updated": "2026-09-12",
-    "first_seen": "2026-09-12"
-  },
-  {
     "name": "Canva AI 2.0",
     "vendor": "Canva",
     "what_it_is": "Es la suite visual de Canva (documentos, planillas, pizarras, presentaciones y sitios) potenciada por IA, que permite crear y editar contenido con instrucciones en lenguaje natural.",
@@ -1330,28 +1352,6 @@
     "source_kind": "auto",
     "last_updated": "2026-11-13",
     "first_seen": "2026-11-13"
-  },
-  {
-    "name": "Claude Dashboards y Claude Motion",
-    "vendor": "Anthropic",
-    "what_it_is": "Claude se conecta a los datos de la empresa (base de datos, CRM o herramientas de analítica) y responde preguntas o arma tableros a partir de ellos.",
-    "what_changed": "El 10 de noviembre de 2026 Claude Dashboards pasó a disponibilidad general con el nombre Claude Data. Suma consultas \"certificadas\", historias de datos y videos narrados, caché con frecuencia de actualización por tablero, control de cambios con vuelta atrás y links en vivo para que otros vean los resultados sin acceso al conector (estas dos últimas funciones siguen en beta).",
-    "fixy_use": "Si Fixy tiene sus pedidos y entregas en una base de datos o un CRM conectable, management podría preguntar directamente \"¿qué clientes tuvieron más entregas fallidas esta semana?\" y dejar un tablero que se actualiza solo. Con las consultas certificadas, todo el equipo usa la misma definición de \"entrega a tiempo\".",
-    "verdict": "seguir",
-    "verdict_reason": "Necesita un conector de datos (data warehouse, CRM o herramienta de analítica) que un equipo chico puede no tener armado todavía.",
-    "categories": [
-      "Análisis",
-      "Management",
-      "Operaciones"
-    ],
-    "pricing_note": "pago: incluido en los planes pagos de Claude; en Enterprise se activa por defecto el 19 de noviembre de 2026. Requiere un conector de datos.",
-    "source_url": "https://claude.com/blog/sheets-whiteboards-data",
-    "published_date": "2026-11-10",
-    "priority": "informativo",
-    "id": "ai-anthropic-claude-dashboards-y-claude-motion",
-    "source_kind": "auto",
-    "last_updated": "2026-11-13",
-    "first_seen": "2026-10-17"
   },
   {
     "name": "Gemini en Google Forms: análisis de respuestas con recomendaciones",
