@@ -1,5 +1,21 @@
 [
   {
+    "title": "Viaje comercial a Tucumán el 25/11 para captar tiendas online del NOA en el Entrenamiento Nube y T-Connect",
+    "context": "El 25/11 coinciden en San Miguel de Tucumán el Entrenamiento Nube de Tiendanube e IDEP Tucumán, gratuito y para pymes del NOA, con un bloque de logística a cargo de Andreani, y T-Connect 2026, el congreso tecnológico del Clúster Tecnológico Tucumán, con unas 2.000 personas. En una sola jornada se juntan tiendas online del norte que se están profesionalizando y que hoy ven a Andreani como la opción por defecto.",
+    "action": "Confirmar esta semana si alguien de comercial viaja el 25/11: inscribirse en el Entrenamiento Nube, llevar una propuesta de envíos y fulfillment pensada para el NOA y armar una lista de tiendas tucumanas para contactar después del evento.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.comunicaciontucuman.gob.ar/noticia/hospital%20de%20ni%C3%B1os/244173/idep-tiendanube-convocan-emprendedores-noa-capacitacion-gratuita-ecommerce-habilidades-digitales",
+    "linked": [
+      "Entrenamiento Nube Tucumán",
+      "T-Connect 2026"
+    ],
+    "id": "op-23b766d2",
+    "source_kind": "auto",
+    "last_updated": "2026-11-15",
+    "first_seen": "2026-11-15"
+  },
+  {
     "title": "Explorar una integración o alianza con Base.com ahora que opera con equipo propio en Argentina",
     "context": "Base.com empezó a operar con equipo local como hub que conecta ventas, stock y envíos de Mercado Libre, Tiendanube y Shopify. Las marcas que lo adopten van a buscar un operador logístico que se conecte con ese mismo sistema.",
     "action": "Contactar al equipo local de Base.com para saber si tienen integración con operadores de fulfillment y qué haría falta para que Fixy aparezca como opción logística dentro de su plataforma.",
@@ -105,21 +121,5 @@
     "source_kind": "auto",
     "last_updated": "2026-11-11",
     "first_seen": "2026-11-11"
-  },
-  {
-    "title": "Cerrar con los clientes la capacidad de fulfillment y última milla para el pico de CyberMonday y Black Friday",
-    "context": "CACE confirmó CyberMonday del 2 al 4 de noviembre y Black Friday el 27 de noviembre. Un relevamiento en Perú anticipa que la demanda de delivery puede crecer hasta 82% en el último trimestre, y en Argentina la logística ya mueve casi un millón de pedidos por día.",
-    "action": "Pedir esta semana a los clientes activos su proyección de volumen para noviembre y reservar capacidad de depósito, personal y rutas con esa base, ofreciendo un cupo garantizado a quienes confirmen primero.",
-    "type": "comercial",
-    "priority": "alta",
-    "source_url": "https://www.revistalogistec.com/index.php/2026/10/06/el-q4-acelera-el-comercio-electronico-la-demanda-de-delivery-podria-crecer-hasta-82-en-peru/",
-    "linked": [
-      "En Perú, la demanda de delivery podría crecer hasta 82% en el último trimestre por el pico de eCommerce",
-      "CyberMonday 2026"
-    ],
-    "id": "op-fdc880ae",
-    "source_kind": "auto",
-    "last_updated": "2026-10-08",
-    "first_seen": "2026-10-08"
   }
 ]

@@ -107,5 +107,21 @@
     "source_kind": "auto",
     "last_updated": "2026-09-28",
     "first_seen": "2026-09-28"
+  },
+  {
+    "title": "Cerrar con los clientes la capacidad de fulfillment y última milla para el pico de CyberMonday y Black Friday",
+    "context": "CACE confirmó CyberMonday del 2 al 4 de noviembre y Black Friday el 27 de noviembre. Un relevamiento en Perú anticipa que la demanda de delivery puede crecer hasta 82% en el último trimestre, y en Argentina la logística ya mueve casi un millón de pedidos por día.",
+    "action": "Pedir esta semana a los clientes activos su proyección de volumen para noviembre y reservar capacidad de depósito, personal y rutas con esa base, ofreciendo un cupo garantizado a quienes confirmen primero.",
+    "type": "comercial",
+    "priority": "alta",
+    "source_url": "https://www.revistalogistec.com/index.php/2026/10/06/el-q4-acelera-el-comercio-electronico-la-demanda-de-delivery-podria-crecer-hasta-82-en-peru/",
+    "linked": [
+      "En Perú, la demanda de delivery podría crecer hasta 82% en el último trimestre por el pico de eCommerce",
+      "CyberMonday 2026"
+    ],
+    "id": "op-fdc880ae",
+    "source_kind": "auto",
+    "last_updated": "2026-10-08",
+    "first_seen": "2026-10-08"
   }
 ]

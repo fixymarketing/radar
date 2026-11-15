@@ -183,24 +183,25 @@
   },
   {
     "title": "Paro indefinido de camioneros en Chile por la suba del diésel: bloqueos de rutas y alertas por el abastecimiento",
-    "what_happened": "El jueves 12 de noviembre el Gobierno chileno cerró un acuerdo con las principales confederaciones de camioneros (Fuerza Norte y Centro Sur) para levantar el paro, tras tres días de medida. El acuerdo revierte la última suba de combustibles, suma una rebaja adicional del diésel y congela nuevas alzas hasta 2027. Grupos de camioneros independientes, como los de Antofagasta y La Araucanía, consideraron insuficiente la rebaja y anunciaron que siguen movilizados.",
-    "why_it_matters": "El riesgo de desabastecimiento baja, pero no desaparece del todo: quedan focos de bloqueo en rutas clave del norte chileno, por donde pasan cargas que conectan con Argentina.",
+    "what_happened": "El jueves 12 de noviembre, el Gobierno chileno cerró un acuerdo con la Confederación de Transportistas Fuerza del Norte y la Confederación de Camioneros Centro Sur para levantar el paro nacional. El acuerdo incluye una baja total de $142 por litro de diésel (revierte el alza de $42 y suma una rebaja de $100), la suspensión de nuevas subas de combustibles hasta el 31 de marzo y cambios en la devolución del impuesto específico al diésel, con un costo fiscal estimado en unos US$500 millones. Grupos de camioneros independientes, como los de Antofagasta, y transportistas de La Araucanía rechazaron el acuerdo y anunciaron que siguen movilizados.",
+    "why_it_matters": "El grueso del conflicto se desactivó, pero quedan focos regionales que pueden seguir afectando el transporte de cargas en Chile en la previa de las fechas fuertes de fin de año.",
     "fixy_impact": "Para clientes de Fixy que importan o exportan vía Chile, o que dependen de insumos que transitan por ese país, conviene sostener márgenes de stock y monitorear los cortes remanentes en los próximos días.",
     "category": "Logística",
     "geo": "LATAM",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/america/america-latina/2026/11/13/gobierno-chileno-logra-acuerdo-con-camioneros-tras-tres-dias-de-paro-congela-precios-hasta-2027/",
-    "published_date": "2026-11-13",
+    "source_name": "CIPER Chile",
+    "source_url": "https://www.ciperchile.cl/2026/11/12/gobierno-y-camioneros-acuerdan-fin-del-paro-con-rebaja-de-142-en-el-diesel-41-mil-ninos-esperan-cupo-en-programas-de-proteccion-y-la-mitad-de-los-vertederos-del-pais-no-tiene-autorizacion-sanitaria/",
+    "published_date": "2026-11-12",
     "priority": "informativo",
     "tags": [
       "Chile",
       "camioneros",
       "diésel",
+      "paro",
       "transporte de cargas"
     ],
     "id": "nw-17fd3ce48d",
     "source_kind": "auto",
-    "last_updated": "2026-11-14",
+    "last_updated": "2026-11-15",
     "first_seen": "2026-11-12",
     "updated_flag": true
   },
@@ -270,5 +271,27 @@
     "source_kind": "auto",
     "last_updated": "2026-11-14",
     "first_seen": "2026-11-14"
+  },
+  {
+    "title": "El último Black Week Mayorista del año va del 16 al 23 de noviembre con unos 200 comercios",
+    "what_happened": "La Cámara Argentina de Distribuidores y Autoservicios Mayoristas (CADAM) organiza la última edición de 2026 del Black Week Nacional Mayorista, del lunes 16 al lunes 23 de noviembre, con alrededor de 200 locales adheridos en todo el país. Habrá descuentos en alimentos, bebidas, limpieza, perfumería e higiene, en sucursales físicas y, según cada local, también en sus canales de venta online. CADAM no fijó un porcentaje único de descuento: las promociones varían según local, marca y producto.",
+    "why_it_matters": "Es la primera acción de descuentos de la previa del Black Friday (27/11) y se lanza en un contexto de consumo masivo que todavía no se recupera, según datos de Scentia citados por la prensa.",
+    "fixy_impact": null,
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Canal 26",
+    "source_url": "https://www.canal26.com/economia/2026/11/14/black-week-mayorista-2026-cuando-es-y-que-productos-tendran-descuentos-en-200-comercios/",
+    "published_date": "2026-11-14",
+    "priority": "informativo",
+    "tags": [
+      "Black Week Mayorista",
+      "CADAM",
+      "consumo masivo",
+      "previa Black Friday"
+    ],
+    "id": "nw-c89c008cd4",
+    "source_kind": "auto",
+    "last_updated": "2026-11-15",
+    "first_seen": "2026-11-15"
   }
 ]

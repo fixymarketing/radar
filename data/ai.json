@@ -247,25 +247,24 @@
   {
     "name": "Gemini Skills (reemplazan a los Gems)",
     "vendor": "Google",
-    "what_it_is": "Instrucciones reutilizables para Gemini (por ejemplo, \"responder un reclamo de envío con nuestro tono y política\") que se guardan una vez y se usan siempre igual.",
-    "what_changed": "Las skills, que hasta ahora estaban en la app de Gemini, empezaron a llegar el 9 y 10 de noviembre a Gmail, Docs, Slides, Drive, Chat y Workspace Studio: se crean desde la misma app, se comparten con el equipo, se invocan con \"@\" y pueden disparar flujos de Workspace Studio programados o manuales.",
-    "fixy_use": "Atención al cliente puede tener una skill compartida para responder en Gmail reclamos de demoras o paquetes no entregados con el mismo tono y los mismos plazos de política. Comercial puede tener otra para armar en Docs propuestas de fulfillment con la estructura y tarifas estándar, y operaciones una que todos los viernes genere el resumen semanal a partir de notas de reunión y archivos de Drive.",
-    "verdict": "probar",
-    "verdict_reason": "Ayuda a que un equipo chico responda y documente siempre igual sin pagar otra herramienta, si Fixy ya trabaja en Google Workspace.",
+    "what_it_is": "Instrucciones reutilizables que le enseñan a Gemini las reglas, plantillas y archivos de referencia de un equipo, para que los aplique siempre igual; se escriben en formato SKILL.md.",
+    "what_changed": "Después de la demora anunciada en octubre, las skills empezaron a llegar a Workspace Studio, Gmail, Docs, Slides, Drive y Chat: Rapid Release desde el 9/11/2026 y Scheduled Release desde el 30/11/2026. Gemini puede aplicarlas solo cuando corresponde o invocarlas con @, y pueden disparar flujos de Workspace Studio; por ahora no funcionan en Sheets ni Meet y solo aceptan instrucciones en inglés.",
+    "fixy_use": "Se puede armar una skill con el tono y las políticas de Fixy (plazos de entrega, condiciones de devolución, tarifas vigentes) para que cualquier respuesta que se redacte con Gemini en Gmail las respete. Otra skill puede generar en Docs propuestas comerciales con la plantilla oficial. La limitación al inglés obliga a escribir las instrucciones en ese idioma, lo que hay que probar antes de adoptarla.",
+    "verdict": "seguir",
+    "verdict_reason": "Es útil para estandarizar respuestas y documentos, pero por ahora solo acepta instrucciones en inglés y todavía no llega a Sheets.",
     "categories": [
       "Productividad",
+      "Organización",
       "Automatización",
-      "Operaciones",
-      "Comercial",
-      "Organización"
+      "Comercial"
     ],
-    "pricing_note": "pago: incluido en Workspace Business Starter, Standard y Plus y en Enterprise Starter, Standard y Plus; activado por defecto en las ediciones elegibles, con despliegue gradual desde el 9 y el 30 de noviembre según el can",
+    "pricing_note": "pago: incluido y activado por defecto en ediciones elegibles de Google Workspace (Business y Enterprise)",
     "source_url": "https://workspaceupdates.googleblog.com/2026/11/skills-in-workspace.html",
     "published_date": "2026-11-10",
     "priority": "relevante",
     "id": "ai-google-gemini-skills-reemplazan-a-los-gems",
     "source_kind": "auto",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-15",
     "first_seen": "2026-10-07"
   },
   {
@@ -312,6 +311,29 @@
     "source_kind": "auto",
     "last_updated": "2026-11-14",
     "first_seen": "2026-10-17"
+  },
+  {
+    "name": "Gemini en Gmail para más usuarios de Workspace: resúmenes de hilos y redacción asistida",
+    "vendor": "Google Workspace",
+    "what_it_is": "Dos funciones de Gemini dentro de Gmail: un resumen automático (AI Overview) arriba de los hilos largos de correo y la opción \"Help me write\" para generar o reescribir borradores a partir de una instrucción corta.",
+    "what_changed": "Desde el 10/11/2026 Google extiende estas funciones a todos los clientes de Google Workspace, a Workspace Individual y a cuentas personales de mayores de 18 años con funciones inteligentes activadas. Vienen activadas por defecto; el administrador o cada usuario las puede apagar.",
+    "fixy_use": "Atención al cliente y comercial pueden leer en segundos el resumen de hilos largos con un seller (reclamos por demoras, diferencias de stock, negociaciones de tarifa) antes de responder. También sirve para armar borradores de respuestas repetitivas, como avisos de demora o pedidos de documentación, que después se revisan a mano. Conviene que el admin de Fixy revise si quiere dejarlas activas para todo el equipo.",
+    "verdict": "probar",
+    "verdict_reason": "Ya viene incluido y activado en Gmail, así que probarlo con el equipo de atención no cuesta nada.",
+    "categories": [
+      "Productividad",
+      "Gestión del tiempo",
+      "Comercial",
+      "Organización"
+    ],
+    "pricing_note": "gratis: incluido en Google Workspace y cuentas personales elegibles; soporte en español Por confirmar",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+    "published_date": "2026-11-10",
+    "priority": "relevante",
+    "id": "ai-google-workspace-gemini-en-gmail-para-mas-usuarios-de-worksp",
+    "source_kind": "auto",
+    "last_updated": "2026-11-15",
+    "first_seen": "2026-11-15"
   },
   {
     "name": "Workspace Studio Flows: nuevos pasos de automatización",
@@ -1352,6 +1374,28 @@
     "source_kind": "auto",
     "last_updated": "2026-11-13",
     "first_seen": "2026-11-13"
+  },
+  {
+    "name": "Claude Fable 5.2 y Mythos 5.2",
+    "vendor": "Anthropic",
+    "what_it_is": "Nueva versión de la línea de modelos más potente de Anthropic (sucede a Fable 5.1 y Mythos 5.1): Fable está disponible para todos los usuarios y Mythos queda reservado para organizaciones verificadas de ciberseguridad y ciencias de la vida.",
+    "what_changed": "El 9/11/2026 salieron Claude Fable 5.2 y Mythos 5.2: según Anthropic, responden hasta un 30% más rápido que la versión 5.1, bloquean alrededor de un 55% menos de pedidos legítimos y bajan de precio en la API (USD 8 por millón de tokens de entrada y USD 40 por millón de salida). En AutomationBench, una prueba de flujos de trabajo empresariales, Fable 5.2 pasó de 31,4% a 51,4%.",
+    "fixy_use": "Para análisis pesados y puntuales, como cruzar exportaciones de pedidos, costos de última milla y facturación por cliente para detectar dónde se pierde margen, Fable 5.2 es la opción más fuerte dentro de Claude. Para el día a día alcanza con modelos más baratos; Fable conviene reservarlo para tareas largas porque consume buena parte del límite semanal en planes Pro y Team.",
+    "verdict": "seguir",
+    "verdict_reason": "Mejora real de calidad y precio, pero para un equipo chico solo cambia algo en análisis complejos y ocasionales.",
+    "categories": [
+      "Análisis",
+      "Productividad",
+      "Automatización"
+    ],
+    "pricing_note": "pago: incluido con límites en planes pagos de Claude; API a USD 8 / USD 40 por millón de tokens (entrada/salida)",
+    "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "published_date": "2026-11-09",
+    "priority": "informativo",
+    "id": "ai-anthropic-claude-fable-5-2-y-mythos-5-2",
+    "source_kind": "auto",
+    "last_updated": "2026-11-15",
+    "first_seen": "2026-11-15"
   },
   {
     "name": "Gemini en Google Forms: análisis de respuestas con recomendaciones",
