@@ -123,5 +123,20 @@
     "source_kind": "auto",
     "last_updated": "2026-10-08",
     "first_seen": "2026-10-08"
+  },
+  {
+    "title": "Reclamar y completar el perfil de Fixy en Businesses in ChatGPT",
+    "context": "OpenAI habilitó que las empresas reclamen su perfil para que ChatGPT muestre datos correctos cuando alguien pregunta por un servicio, con un panel de visibilidad y clics. Cada vez más tiendas online buscan proveedores logísticos preguntándole a un asistente de IA.",
+    "action": "Que marketing reclame el perfil de Fixy, cargue servicios, zonas de cobertura y contacto, y revise en un mes en qué consultas aparece Fixy y cuántos clics llegan a la web.",
+    "type": "marketing",
+    "priority": "relevante",
+    "source_url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "linked": [
+      "Businesses in ChatGPT (Business Hub y Business Agents)"
+    ],
+    "id": "op-893f6b12",
+    "source_kind": "auto",
+    "last_updated": "2026-11-11",
+    "first_seen": "2026-11-11"
   }
 ]

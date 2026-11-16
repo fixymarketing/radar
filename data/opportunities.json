@@ -1,5 +1,20 @@
 [
   {
+    "title": "Revisar la necesidad de espacio de depósito para 2027 mientras las rentas premium del AMBA siguen por debajo de 2025",
+    "context": "El informe de CBRE del tercer trimestre muestra que la demanda de depósitos premium en el AMBA volvió a ser positiva y que la vacancia bajó del 10,15% al 8,92%. La renta promedio (US$ 7,42 por m²) sigue cerca de un 10% por debajo de hace un año, pero la tendencia apunta a que el margen para negociar se achique.",
+    "action": "Antes de fin de mes, cruzar el pronóstico de volumen de clientes para 2027 con la capacidad actual de depósito y, si hace falta sumar metros o renovar contratos, pedir cotizaciones ahora en lugar de esperar al primer trimestre.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/movant/2026/11/13/depositos-logisticos-en-buenos-aires-vuelve-la-demanda-y-la-vacancia-baja-al-89/",
+    "linked": [
+      "Depósitos logísticos premium en el AMBA: vuelve la demanda y la vacancia baja al 8,9%"
+    ],
+    "id": "op-6b2895df",
+    "source_kind": "auto",
+    "last_updated": "2026-11-16",
+    "first_seen": "2026-11-16"
+  },
+  {
     "title": "Viaje comercial a Tucumán el 25/11 para captar tiendas online del NOA en el Entrenamiento Nube y T-Connect",
     "context": "El 25/11 coinciden en San Miguel de Tucumán el Entrenamiento Nube de Tiendanube e IDEP Tucumán, gratuito y para pymes del NOA, con un bloque de logística a cargo de Andreani, y T-Connect 2026, el congreso tecnológico del Clúster Tecnológico Tucumán, con unas 2.000 personas. En una sola jornada se juntan tiendas online del norte que se están profesionalizando y que hoy ven a Andreani como la opción por defecto.",
     "action": "Confirmar esta semana si alguien de comercial viaja el 25/11: inscribirse en el Entrenamiento Nube, llevar una propuesta de envíos y fulfillment pensada para el NOA y armar una lista de tiendas tucumanas para contactar después del evento.",
@@ -103,21 +118,6 @@
       "Día del Emprendedor (Buenos Aires Ciudad) 2026"
     ],
     "id": "op-2fb142f4",
-    "source_kind": "auto",
-    "last_updated": "2026-11-11",
-    "first_seen": "2026-11-11"
-  },
-  {
-    "title": "Reclamar y completar el perfil de Fixy en Businesses in ChatGPT",
-    "context": "OpenAI habilitó que las empresas reclamen su perfil para que ChatGPT muestre datos correctos cuando alguien pregunta por un servicio, con un panel de visibilidad y clics. Cada vez más tiendas online buscan proveedores logísticos preguntándole a un asistente de IA.",
-    "action": "Que marketing reclame el perfil de Fixy, cargue servicios, zonas de cobertura y contacto, y revise en un mes en qué consultas aparece Fixy y cuántos clics llegan a la web.",
-    "type": "marketing",
-    "priority": "relevante",
-    "source_url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-    "linked": [
-      "Businesses in ChatGPT (Business Hub y Business Agents)"
-    ],
-    "id": "op-893f6b12",
     "source_kind": "auto",
     "last_updated": "2026-11-11",
     "first_seen": "2026-11-11"

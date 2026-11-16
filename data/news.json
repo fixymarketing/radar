@@ -293,5 +293,51 @@
     "source_kind": "auto",
     "last_updated": "2026-11-15",
     "first_seen": "2026-11-15"
+  },
+  {
+    "title": "Depósitos logísticos premium en el AMBA: vuelve la demanda y la vacancia baja al 8,9%",
+    "what_happened": "Según el informe de CBRE Argentina para el tercer trimestre de 2026, los centros logísticos premium del AMBA registraron una absorción neta positiva de 30.047 m², después de dos trimestres con demanda neta negativa (en el segundo trimestre había sido de -18.210 m²). La vacancia bajó del 10,15% al 8,92%, aunque sigue por encima del 6,2% de un año atrás. La renta promedio quedó en US$ 7,42 por m² mensual, apenas arriba de los US$ 7,33 del trimestre anterior y cerca de un 10% por debajo de los US$ 8,25 del tercer trimestre de 2025.",
+    "why_it_matters": "La demanda de depósitos de calidad se reactiva, empujada en parte por la expansión del eCommerce, pero con alquileres todavía por debajo de los de 2025: es una ventana para negociar espacio antes de que la vacancia siga cayendo y los precios se recuperen.",
+    "fixy_impact": "Si Fixy evalúa sumar metros o renegociar contratos de depósito, el contexto actual (rentas en dólares más bajas que hace un año y vacancia en baja) sugiere adelantar esas decisiones.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Infobae (Movant)",
+    "source_url": "https://www.infobae.com/movant/2026/11/13/depositos-logisticos-en-buenos-aires-vuelve-la-demanda-y-la-vacancia-baja-al-89/",
+    "published_date": "2026-11-13",
+    "priority": "relevante",
+    "tags": [
+      "depósitos",
+      "real estate logístico",
+      "CBRE",
+      "vacancia",
+      "AMBA"
+    ],
+    "id": "nw-6c8c40bc86",
+    "source_kind": "auto",
+    "last_updated": "2026-11-16",
+    "first_seen": "2026-11-16"
+  },
+  {
+    "title": "Rappi acelera su formato Turbo de entregas en menos de 15 minutos y ve espacio para quintuplicar el delivery en Argentina",
+    "what_happened": "En el Food Delivery Day realizado el jueves 12 de noviembre en Costa Salguero, Franco Lena, country manager de Rappi para Argentina y Uruguay, proyectó que el delivery puede crecer hasta cinco veces en la próxima década, a partir de una penetración actual de las apps de alrededor del 6%. La compañía pone el foco en Turbo, su modalidad de entregas en menos de 15 minutos, y planea para 2027 abrir más tiendas Turbo en nuevos barrios y ciudades, ampliar su surtido de más de 5.000 productos y sumar categorías.",
+    "why_it_matters": "El quick commerce con tiendas propias de cercanía sube la vara de velocidad de entrega en las grandes ciudades y empuja a más categorías (no solo comida) hacia la entrega en minutos.",
+    "fixy_impact": "Las marcas que venden por apps de entrega rápida necesitan reponer stock seguido y en lotes chicos a tiendas urbanas: es una oportunidad para ofrecer reposición y almacenamiento cercano además del fulfillment tradicional.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "MDZ Online",
+    "source_url": "https://www.mdzol.com/economia/2026/11/14/el-delivery-tiene-espacio-para-crecer-hasta-cinco-veces-en-argentina-1995120.html",
+    "published_date": "2026-11-14",
+    "priority": "informativo",
+    "tags": [
+      "Rappi",
+      "quick commerce",
+      "delivery",
+      "última milla",
+      "dark stores"
+    ],
+    "id": "nw-96b14dea00",
+    "source_kind": "auto",
+    "last_updated": "2026-11-16",
+    "first_seen": "2026-11-16"
   }
 ]

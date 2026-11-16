@@ -177,28 +177,6 @@
     "first_seen": "2026-09-01"
   },
   {
-    "name": "Google Ads: migración automática de campañas de Search a AI Max",
-    "vendor": "Google",
-    "what_it_is": "AI Max es un conjunto de funciones de IA (ampliación de coincidencias, generación de textos de anuncio y elección automática de la URL final) que se activa sobre campañas de Search ya existentes en Google Ads.",
-    "what_changed": "Entre el 1 y el 30 de septiembre de 2026, Google migra de forma automática y obligatoria las campañas de Search que usan concordancia amplia a nivel de campaña o 'Activos creados automáticamente' hacia AI Max; los IDs de campaña se mantienen, pero cambia el informe de términos de búsqueda.",
-    "fixy_use": "El equipo comercial o de marketing que gestiona campañas de Google Ads para captar clientes de logística debería revisar sus campañas de Search este mes, porque Google las migra solo. Los textos de anuncio y la página de destino que elige la IA pueden cambiar sin aviso, así que conviene fijar guías de marca y revisar el nuevo informe de términos de búsqueda para no perder control del mensaje ni del presupuesto.",
-    "verdict": "seguir",
-    "verdict_reason": "No es una herramienta para elegir adoptar: Google la activa de oficio, así que hay que auditarla igual.",
-    "categories": [
-      "Marketing",
-      "Comercial",
-      "Análisis"
-    ],
-    "pricing_note": "sin costo adicional, es parte de Google Ads",
-    "source_url": "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
-    "published_date": "2026-09-01",
-    "priority": "alta",
-    "id": "ai-google-google-ads-migracion-automatica-de-campanas-de-search",
-    "source_kind": "auto",
-    "last_updated": "2026-09-19",
-    "first_seen": "2026-09-19"
-  },
-  {
     "name": "Claude Meetings",
     "vendor": "Anthropic",
     "what_it_is": "Claude entra a las videollamadas de Google Meet como un participante visible: toma notas, contesta preguntas en el chat de la reunión, busca datos en las apps conectadas y arma planes o tareas mientras la gente habla.",
@@ -291,28 +269,6 @@
     "first_seen": "2026-11-13"
   },
   {
-    "name": "Claude Dashboards y Claude Motion",
-    "vendor": "Anthropic",
-    "what_it_is": "Función de Claude para hacerle preguntas a los datos de la empresa y armar tableros a partir de una fuente conectada (data warehouse, CRM o herramientas de analítica).",
-    "what_changed": "El 10 de noviembre Claude Dashboards salió de beta y pasó a llamarse Claude Data, ahora disponible en todos los planes pagos. Suma historias de datos narradas, actualización programada por tablero, control de cambios con vuelta atrás y, en beta, consultas certificadas y tableros compartidos en vivo para gente sin acceso a los conectores.",
-    "fixy_use": "Si los datos de envíos y pedidos están en una base o un CRM conectable, operaciones puede armar un tablero de SLA, entregas fallidas y volumen por cliente que se actualice solo. Con el compartido en vivo, management y comercial ven los mismos números sin tener acceso a la base. Las historias de datos sirven para el resumen mensual que se le manda a cada cliente.",
-    "verdict": "seguir",
-    "verdict_reason": "Exige tener los datos en un conector compatible y las funciones de compartir y certificar siguen en beta, así que conviene ver primero si la fuente de datos de Fixy se puede conectar.",
-    "categories": [
-      "Análisis",
-      "Operaciones",
-      "Management"
-    ],
-    "pricing_note": "pago: incluido en los planes pagos de Claude; en Team viene activado por defecto y en Enterprise se activa el 20 de noviembre de 2026",
-    "source_url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-    "published_date": "2026-11-10",
-    "priority": "relevante",
-    "id": "ai-anthropic-claude-dashboards-y-claude-motion",
-    "source_kind": "auto",
-    "last_updated": "2026-11-14",
-    "first_seen": "2026-10-17"
-  },
-  {
     "name": "Gemini en Gmail para más usuarios de Workspace: resúmenes de hilos y redacción asistida",
     "vendor": "Google Workspace",
     "what_it_is": "Dos funciones de Gemini dentro de Gmail: un resumen automático (AI Overview) arriba de los hilos largos de correo y la opción \"Help me write\" para generar o reescribir borradores a partir de una instrucción corta.",
@@ -338,23 +294,24 @@
   {
     "name": "Workspace Studio Flows: nuevos pasos de automatización",
     "vendor": "Google Workspace",
-    "what_it_is": "Constructor de flujos automáticos de Google Workspace que conecta Gmail, Drive, Sheets, Chat y otras apps sin programar.",
-    "what_changed": "Google sumó el paso \"Wait until\", que pausa un flujo y lo retoma en una fecha y hora o después de un plazo, con un máximo de 14 días; también funciona dentro de condiciones y bucles. Empezó a desplegarse el 9 de noviembre.",
-    "fixy_use": "Comercial puede armar un flujo que, después de mandar una propuesta, espere 3 días y, si no hubo respuesta, le mande un recordatorio al vendedor por Chat. Atención al cliente puede programar un seguimiento automático a las 48 horas de un reclamo para confirmar que se resolvió. Antes esto había que hacerlo con Zapier o a mano.",
+    "what_it_is": "Workspace Studio es el armador de flujos automáticos de Google Workspace (Gmail, Sheets, Drive, Chat) con pasos de IA de Gemini, sin programar.",
+    "what_changed": "Google sumó el paso \"Wait until\", que pausa un flujo y lo retoma en una fecha y hora fija o después de una demora de hasta 14 días, incluso dentro de condiciones y bucles. El despliegue completo arrancó el 9 de noviembre de 2026 para dominios Rapid y Scheduled Release.",
+    "fixy_use": "Armar en un solo flujo el seguimiento comercial: mail de propuesta a un prospecto, esperar 3 días y, si no respondió, mandar recordatorio y avisar al vendedor por Chat. También sirve para onboarding de clientes nuevos (pedido de catálogo, recordatorio de primer ingreso de mercadería a los 7 días) sin depender de que alguien se acuerde.",
     "verdict": "probar",
-    "verdict_reason": "Si Fixy ya usa Google Workspace, es una mejora gratuita que destraba seguimientos automáticos sin sumar otra herramienta.",
+    "verdict_reason": "Resuelve un hueco típico de los seguimientos manuales y no requiere herramientas nuevas si Fixy ya usa Workspace.",
     "categories": [
       "Automatización",
       "Comercial",
-      "Productividad"
+      "Productividad",
+      "Gestión del tiempo"
     ],
-    "pricing_note": "no confirmado: incluido en Workspace Studio; las ediciones habilitadas no figuran confirmadas en fuente oficial",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/11/pause-and-schedule-automated-workflows-with-the-new-Wait-until-step-in-Workspace-Studio.html",
-    "published_date": "2026-11-09",
+    "pricing_note": "pago: incluido en ediciones Business Starter, Standard y Plus, y Enterprise Standard y Plus de Workspace; sin control de admin específico.",
+    "source_url": "https://www.technobezz.com/news/google-workspace-studio-wait-until-pauses",
+    "published_date": "2026-11-10",
     "priority": "relevante",
     "id": "ai-google-workspace-workspace-studio-flows-nuevos-pasos-de-auto",
     "source_kind": "auto",
-    "last_updated": "2026-11-14",
+    "last_updated": "2026-11-16",
     "first_seen": "2026-09-12"
   },
   {
@@ -1244,116 +1201,6 @@
     "first_seen": "2026-09-04"
   },
   {
-    "name": "Claude Fable 5.1 y Mythos 5.1",
-    "vendor": "Anthropic",
-    "what_it_is": "Son los nuevos modelos insignia de Claude (sucesores de Fable 5 y Mythos 5), pensados para trabajo de conocimiento y tareas largas que se extienden por varias aplicaciones.",
-    "what_changed": "Anthropic los lanzó el 1 de septiembre de 2026: mejoran el razonamiento, bajan mucho el costo (lecturas de caché 75% más baratas, tareas típicas 25% más baratas y tareas de agente complejas hasta 45% más baratas) y ya son el modelo por defecto en Claude.ai y Cowork, sin que el usuario tenga que activar nada.",
-    "fixy_use": "Como Fixy ya usa Claude/Cowork para redactar contenido, resumir información y analizar datos, esta actualización mejora automáticamente la calidad de esas tareas a menor costo. También habilita mejor tareas largas y desatendidas en Cowork (por ejemplo, revisar un backlog de mails o navegar un sitio para juntar información) sin configuración extra.",
-    "verdict": "seguir",
-    "verdict_reason": "Es una mejora automática del modelo que ya usan, no requiere acción salvo aprovechar tareas de agente más largas si conviene.",
-    "categories": [
-      "Productividad",
-      "Análisis",
-      "Contenido",
-      "Automatización"
-    ],
-    "pricing_note": "pago (incluido en los planes existentes de Claude Pro/Team/Cowork, sin costo extra por el upgrade; el uso vía API sale más barato que el modelo anterior)",
-    "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-    "published_date": "2026-09-01",
-    "priority": "relevante",
-    "id": "ai-anthropic-claude-fable-5-1-y-mythos-5-1",
-    "source_kind": "auto",
-    "last_updated": "2026-09-03",
-    "first_seen": "2026-09-03"
-  },
-  {
-    "name": "Gemini: comprensión agéntica de video (Agentic Video Understanding)",
-    "vendor": "Google",
-    "what_it_is": "Un modo de análisis de video en la API de Gemini que, en vez de procesar el video cuadro por cuadro a velocidad fija, deja que el modelo busque, escanee e inspeccione de forma dinámica los segmentos de video, audio y transcripciones que necesita para responder una consulta.",
-    "what_changed": "Google lo lanzó el 1 de septiembre de 2026 para Gemini 3.7 Flash, 3.6 Flash y 3.5 Flash-Lite, disponible vía API en Google AI Studio y en Gemini Enterprise Agent Platform, con hasta 88% menos tokens consumidos y mejor precisión que el modo estático anterior.",
-    "fixy_use": "Sirve para analizar videos largos de cámaras de depósito o de última milla (por ejemplo, encontrar el momento exacto de un faltante o un daño en un pallet) sin mirar la grabación entera ni pagar el costo de procesar cada cuadro. También permite auditar videos de capacitación de repartidores o revisar pruebas de entrega en video de forma más barata y rápida.",
-    "verdict": "probar",
-    "verdict_reason": "Baja fricción, ya que es una opción dentro de la API de Gemini, y ataca un costo real: revisar horas de video de depósito o última milla.",
-    "categories": [
-      "Operaciones",
-      "Logística",
-      "Análisis"
-    ],
-    "pricing_note": "Freemium: es una función de la API de Gemini en preview, sin costo adicional propio más allá del uso normal de tokens.",
-    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
-    "published_date": "2026-09-01",
-    "priority": "relevante",
-    "id": "ai-google-gemini-comprension-agentica-de-video-agentic-video-un",
-    "source_kind": "auto",
-    "last_updated": "2026-09-06",
-    "first_seen": "2026-09-06"
-  },
-  {
-    "name": "Muse Voice Transcribe",
-    "vendor": "Meta",
-    "what_it_is": "Un modelo de reconocimiento de voz en tiempo real de Meta que transcribe audio y distingue automáticamente quién dice qué (diarización de hablantes), incluso con más de 20 personas hablando en una misma grabación.",
-    "what_changed": "Meta lo presentó el 1 de septiembre de 2026 como su primer modelo de percepción de audio en tiempo real, disponible vía Meta Model API, con soporte para más de 70 idiomas y un costo muy bajo (alrededor de USD 0,18 por hora de audio).",
-    "fixy_use": "Serviría para transcribir y separar por hablante las llamadas de atención al cliente o los audios de WhatsApp de reclamos por envíos, generando un registro escrito para control de calidad y para armar reportes de management sin depender de herramientas de terceros más caras. También podría alimentar resúmenes automáticos de reuniones internas de operaciones.",
-    "verdict": "probar",
-    "verdict_reason": "Es barato y tiene un caso de uso concreto en atención al cliente, aunque requiere que alguien lo integre vía API porque no es un producto con interfaz lista para usar.",
-    "categories": [
-      "Atención al cliente",
-      "Análisis",
-      "Operaciones"
-    ],
-    "pricing_note": "pago - unos USD 0,18 por hora de audio (aprox. USD 3 cada 1000 minutos) vía Meta Model API; no hay plan gratuito confirmado.",
-    "source_url": "https://research.meta.ai/blog/introducing-muse-voice-transcribe",
-    "published_date": "2026-09-01",
-    "priority": "relevante",
-    "id": "ai-meta-muse-voice-transcribe",
-    "source_kind": "auto",
-    "last_updated": "2026-09-07",
-    "first_seen": "2026-09-07"
-  },
-  {
-    "name": "Google Pics",
-    "vendor": "Google",
-    "what_it_is": "Una herramienta de generación y edición de imágenes con IA integrada en Google Workspace (Docs y Slides, con Drive en camino), basada en el modelo Nano Banana de Google.",
-    "what_changed": "Pasó a disponibilidad general el 1 de septiembre de 2026 para clientes de Workspace Business Standard/Plus y Enterprise, y para suscriptores de Google AI Pro/Ultra: permite crear y editar imágenes por objeto (cambiar un elemento puntual de una foto) directamente donde ya se arma el contenido, sin exportar a otra app.",
-    "fixy_use": "Marketing puede generar o retocar imágenes de producto, banners para redes o piezas para presentaciones comerciales directamente en Slides/Docs, sin depender de Canva ni de pedirle un diseño a un tercero para ajustes chicos (cambiar un color, sacar un fondo, reemplazar un objeto).",
-    "verdict": "probar",
-    "verdict_reason": "Ya viene incluido si la empresa paga Workspace Business Standard/Plus, así que el costo marginal de probarlo es bajo.",
-    "categories": [
-      "Marketing",
-      "Contenido"
-    ],
-    "pricing_note": "freemium - incluido en planes Business Standard, Business Plus, Enterprise Standard y Enterprise Plus de Workspace, y en Google AI Pro/Ultra",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/09/google-pics-brings-pro-level-ai-image-creation-and-editing-to-Google-Workspace.html",
-    "published_date": "2026-09-01",
-    "priority": "relevante",
-    "id": "ai-google-google-pics",
-    "source_kind": "auto",
-    "last_updated": "2026-09-11",
-    "first_seen": "2026-09-11"
-  },
-  {
-    "name": "Google Ads: migración automática a AI Max en campañas de Búsqueda",
-    "vendor": "Google",
-    "what_it_is": "AI Max es el sistema de campañas de Búsqueda de Google Ads potenciado por IA que amplía automáticamente los términos de búsqueda, genera variantes de texto para los anuncios y elige la URL final más relevante dentro del sitio.",
-    "what_changed": "Desde el 1° de septiembre de 2026 Google empezó a migrar automáticamente, sin que el anunciante lo active, las campañas de Búsqueda que usan concordancia amplia a nivel de campaña o activos creados automáticamente; el proceso sigue hasta fines de septiembre.",
-    "fixy_use": "Si Fixy pauta en Google Ads para captar clientes de eCommerce o retail, marketing tiene que revisar esas campañas de Búsqueda antes de fin de mes porque Google va a cambiar solo la segmentación por palabras clave, el texto de los avisos y la página de destino de cada clic, lo que puede alterar el mensaje o el costo por resultado sin aviso previo del equipo.",
-    "verdict": "probar",
-    "verdict_reason": "Es un cambio que ya está pasando de forma automática en las cuentas de Google Ads, conviene revisarlo antes de que termine septiembre.",
-    "categories": [
-      "Marketing",
-      "Comercial",
-      "Automatización"
-    ],
-    "pricing_note": "gratis — es una función incluida en Google Ads, sin costo adicional más allá de la inversión publicitaria habitual",
-    "source_url": "https://ppc.land/google-ads-broad-match-campaigns-face-ai-max-auto-upgrade-on-september-1/",
-    "published_date": "2026-09-01",
-    "priority": "relevante",
-    "id": "ai-google-google-ads-migracion-automatica-a-ai-max-en-campanas-",
-    "source_kind": "auto",
-    "last_updated": "2026-09-14",
-    "first_seen": "2026-09-14"
-  },
-  {
     "name": "Zendesk Outcome AI Platform",
     "vendor": "Zendesk",
     "what_it_is": "La nueva plataforma de Zendesk que agrupa sus agentes de IA especializados (empezando por comercio: pedidos, devoluciones y cambios) con un esquema en el que se paga por caso resuelto, no por uso de la IA.",
@@ -1374,6 +1221,28 @@
     "source_kind": "auto",
     "last_updated": "2026-11-13",
     "first_seen": "2026-11-13"
+  },
+  {
+    "name": "Claude Dashboards y Claude Motion",
+    "vendor": "Anthropic",
+    "what_it_is": "Claude Dashboards permite pedirle a Claude tableros con datos de la empresa conectando fuentes como planillas, bases de datos o CRM.",
+    "what_changed": "El 10 de noviembre de 2026 Anthropic pasó Dashboards a disponibilidad general con el nuevo nombre Claude Data, para todos los planes pagos; las consultas certificadas y el compartir en vivo siguen en beta. En planes Team viene activado por defecto y en Enterprise se activa por defecto el 20 de noviembre.",
+    "fixy_use": "Conectar las planillas o el CRM y pedir un tablero semanal de pedidos despachados, demoras por zona y volumen por cliente para la reunión de management. Al dejar de ser beta, es más razonable apoyar en él un reporte recurrente para clientes grandes.",
+    "verdict": "seguir",
+    "verdict_reason": "Ya es estable, pero su valor depende de tener los datos operativos accesibles por conectores; conviene probarlo si Fixy ya paga Claude.",
+    "categories": [
+      "Análisis",
+      "Management",
+      "Operaciones"
+    ],
+    "pricing_note": "pago: incluido en todos los planes pagos de Claude; requiere conectores a las fuentes de datos.",
+    "source_url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "published_date": "2026-11-10",
+    "priority": "informativo",
+    "id": "ai-anthropic-claude-dashboards-y-claude-motion",
+    "source_kind": "auto",
+    "last_updated": "2026-11-16",
+    "first_seen": "2026-10-17"
   },
   {
     "name": "Claude Fable 5.2 y Mythos 5.2",
@@ -2071,91 +1940,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-09",
     "first_seen": "2026-09-09"
-  },
-  {
-    "name": "Enterprise Frontier Safeguards (EFS)",
-    "vendor": "Anthropic",
-    "what_it_is": "Es un esquema de privacidad y seguridad para cuentas empresariales de Claude que combina la política de 'cero retención de datos' con controles automáticos para detectar uso indebido, guardando esa información de actividad en infraestructura controlada por el propio cliente y no por Anthropic.",
-    "what_changed": "Anthropic lo anunció el 1° de septiembre de 2026, tras trabajar más de un año con más de 100 clientes de sectores regulados (bancos, salud, telecom, retail); el despliegue es gradual y arranca este otoño boreal, es decir hacia fin de 2026.",
-    "fixy_use": "Si Fixy en algún momento procesa datos sensibles de clientes de eCommerce (direcciones, DNI, historial de compra) con Claude a nivel empresarial para atención al cliente o análisis interno, este esquema da más garantías de que esos datos no terminan en manos de Anthropic. Hoy es un anuncio pensado para cuentas grandes y todavía no está disponible de forma amplia, pero vale tenerlo en el radar para cuando Fixy escale el uso de IA con datos de clientes.",
-    "verdict": "seguir",
-    "verdict_reason": "Es relevante para el día en que Fixy maneje datos sensibles de clientes en Claude a nivel empresarial, pero el despliegue recién empieza y no es accionable hoy.",
-    "categories": [
-      "Management",
-      "Operaciones"
-    ],
-    "pricing_note": "no confirmado: es una función del plan Enterprise de Claude, sin precio público",
-    "source_url": "https://www.cnbc.com/2026/09/01/anthropic-data-retention.html",
-    "published_date": "2026-09-01",
-    "priority": "informativo",
-    "id": "ai-anthropic-enterprise-frontier-safeguards-efs",
-    "source_kind": "auto",
-    "last_updated": "2026-09-05",
-    "first_seen": "2026-09-05"
-  },
-  {
-    "name": "Copilot Notebooks: rediseño y sincronización con OneNote",
-    "vendor": "Microsoft",
-    "what_it_is": "Los 'Notebooks' de Microsoft 365 Copilot son espacios donde la IA organiza notas, resume reuniones y mails, y arma resúmenes de un proyecto o cliente. Ahora tienen una vista rediseñada con puntos clave más claros y accesos directos para generar documentos, tablas o presentaciones con un clic, y se sincronizan por primera vez con OneNote en Mac.",
-    "what_changed": "El despliegue mundial de esta actualización fue entre fines de agosto y principios de septiembre de 2026.",
-    "fixy_use": "Management u operaciones podrían armar un Notebook por cliente clave o por proceso recurrente (por ejemplo, incidencias de última milla con un marketplace puntual), donde Copilot vaya sumando resúmenes de reuniones y mails, y después generar con un clic un resumen para pasar a atención al cliente o al mismo cliente. Requiere licencia de Microsoft 365 Copilot, que hoy no está confirmado que Fixy tenga contratada.",
-    "verdict": "seguir",
-    "verdict_reason": "Es útil solo si Fixy paga licencias de Microsoft 365 Copilot; si no las tiene, todavía no aplica.",
-    "categories": [
-      "Organización",
-      "Productividad",
-      "Gestión del tiempo"
-    ],
-    "pricing_note": "pago: requiere licencia de Microsoft 365 Copilot",
-    "source_url": "https://windowsreport.com/microsoft-expands-copilot-notebooks-with-onenote-sync-and-ai-spreadsheets/",
-    "published_date": "2026-09-01",
-    "priority": "informativo",
-    "id": "ai-microsoft-copilot-notebooks-rediseno-y-sincronizacion-con-on",
-    "source_kind": "auto",
-    "last_updated": "2026-09-05",
-    "first_seen": "2026-09-05"
-  },
-  {
-    "name": "Copilot Notebooks: fuentes de datos ampliadas",
-    "vendor": "Microsoft",
-    "what_it_is": "Una actualización de Copilot Notebooks (Microsoft 365) que permite usar reportes de Power BI, archivos CSV/TSV e imágenes JPG/PNG como fuentes de referencia, además de los documentos que ya aceptaba.",
-    "what_changed": "Hasta ahora Copilot Notebooks solo tomaba documentos de Office como contexto; con este cambio, que llegó a disponibilidad general en septiembre de 2026, también puede leer tablas de datos crudos y reportes de Power BI para armar resúmenes y presentaciones.",
-    "fixy_use": "El equipo de operaciones o management podría subir un CSV con métricas de envíos (demoras, devoluciones por zona) a un notebook y pedirle a Copilot un resumen ejecutivo o una presentación con esos datos, sin tener que armar el análisis a mano en Excel primero.",
-    "verdict": "seguir",
-    "verdict_reason": "Es útil pero depende de que Fixy ya pague licencias de Microsoft 365 Copilot, algo por confirmar en el equipo.",
-    "categories": [
-      "Análisis",
-      "Productividad",
-      "Gestión del tiempo"
-    ],
-    "pricing_note": "pago - requiere licencia de Microsoft 365 Copilot",
-    "source_url": "https://mc.merill.net/message/RM569928",
-    "published_date": "2026-09-01",
-    "priority": "informativo",
-    "id": "ai-microsoft-copilot-notebooks-fuentes-de-datos-ampliadas",
-    "source_kind": "auto",
-    "last_updated": "2026-09-11",
-    "first_seen": "2026-09-11"
-  },
-  {
-    "name": "OmniSTAR",
-    "vendor": "OneRail (con NVIDIA)",
-    "what_it_is": "Una plataforma de decisión de entregas que, para cada pedido, evalúa en tiempo real todas las opciones de despacho disponibles (flota propia, courier, paquetería y otros modos) y elige la que cumple el nivel de servicio al menor costo.",
-    "what_changed": "Lanzada el 1 de septiembre de 2026, usa infraestructura de IA de NVIDIA (incluido el motor de optimización cuOpt) para resolver en minutos cálculos de ruteo y selección de transportista que antes tardaban horas o incluso una semana, apuntando a grandes retailers, mayoristas y distribuidores con flota propia.",
-    "fixy_use": "No es algo que Fixy pueda contratar mañana —está pensada para operaciones enterprise con flota propia—, pero marca hacia dónde va la última milla: elegir automáticamente, pedido por pedido, entre transportistas y modos de envío según costo y cumplimiento de SLA. Vale la pena seguirla como referencia de una futura función propia que compare Andreani, OCA, Correo Argentino y reparto propio por cada pedido.",
-    "verdict": "seguir",
-    "verdict_reason": "Es inteligencia de mercado sobre hacia dónde va la optimización de última milla, no algo implementable hoy con la escala de Fixy.",
-    "categories": [
-      "Logística",
-      "Operaciones"
-    ],
-    "pricing_note": "no confirmado — plataforma enterprise sin precio público",
-    "source_url": "https://www.streetinsider.com/Business+Wire/OneRail+Launches+OmniSTAR,+the+First+AI-Powered+Delivery+Decisioning+Platform+Built+with+NVIDIA+AI/27009758.html",
-    "published_date": "2026-09-01",
-    "priority": "informativo",
-    "id": "ai-onerail-con-nvidia-omnistar",
-    "source_kind": "auto",
-    "last_updated": "2026-09-15",
-    "first_seen": "2026-09-15"
   }
 ]

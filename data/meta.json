@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-11-15T12:09:48.032Z",
-  "last_updated_ar": "15/11/2026, 09:09",
-  "date": "2026-11-15",
+  "generated_at": "2026-11-16T12:10:52.494Z",
+  "last_updated_ar": "16/11/2026, 09:10",
+  "date": "2026-11-16",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Domingo de previa: mañana arranca el último Black Week Mayorista del año, Chile cerró el paro de camioneros aunque quedan focos regionales y Tucumán concentra el 25/11 dos eventos donde está el público de tiendas online del NOA.",
+  "summary_line": "Arranca la Black Week Mayorista y empieza la cuenta regresiva al Black Friday del 27/11; además, los depósitos premium del AMBA recuperan demanda con rentas todavía bajas y Rappi acelera la entrega en 15 minutos.",
   "counters": {
-    "news_today": 1,
-    "news_total": 13,
-    "events_upcoming": 21,
-    "events_ar_upcoming": 14,
+    "news_today": 2,
+    "news_total": 15,
+    "events_upcoming": 19,
+    "events_ar_upcoming": 12,
     "events_intl_upcoming": 7,
     "events_later": 40,
     "opportunities_open": 8,
     "opportunities_today": 1,
-    "ai_today": 2,
-    "ai_to_try": 45,
-    "content_ideas": 6,
-    "added_news": 1,
-    "updated_news": 1,
-    "added_events": 2,
+    "ai_today": 0,
+    "ai_to_try": 41,
+    "content_ideas": 7,
+    "added_news": 2,
+    "updated_news": 0,
+    "added_events": 0,
     "updated_events": 1,
-    "added_ai": 2,
-    "archived": 1,
+    "added_ai": 0,
+    "archived": 14,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-santex-week-2026",
-    "name": "Santex Week 2026",
-    "date_start": "2026-11-13",
-    "city": "Córdoba",
+    "id": "ev-chain-hackathon-retail-2026",
+    "name": "Hackathon Retail Chain 4.0",
+    "date_start": "2026-11-16",
+    "city": "Bahía Blanca, Ciudad de Buenos Aires y Posadas",
     "days_away": 0
   },
   "highlights": [
     {
-      "id": "nw-c89c008cd4",
-      "kind": "news",
-      "title": "El último Black Week Mayorista del año va del 16 al 23 de noviembre con unos 200 comercios",
-      "priority": "relevante",
-      "one_liner": "Mañana arranca la primera semana de descuentos de la previa del Black Friday del 27/11: conviene tener la capacidad de depósito y despacho ya cerrada con los clientes."
-    },
-    {
-      "id": "nw-17fd3ce48d",
-      "kind": "news",
-      "title": "Paro indefinido de camioneros en Chile por la suba del diésel: bloqueos de rutas y alertas por el abastecimiento",
-      "priority": "informativo",
-      "one_liner": "Chile cerró un acuerdo con baja del diésel y precios congelados hasta marzo, pero siguen movilizados transportistas de Antofagasta y La Araucanía."
-    },
-    {
-      "id": "ev-entrenamiento-nube-tucuman-2026",
+      "id": "ev-black-mayorista-nacional-week-2026",
       "kind": "event",
-      "title": "Entrenamiento Nube Tucumán",
+      "title": "Black Week Nacional Mayorista 2026",
       "priority": "relevante",
-      "one_liner": "El 25/11 Tiendanube junta a pymes del NOA que venden online, con Andreani presentando su oferta logística: es un público objetivo directo para Fixy."
+      "one_liner": "Arranca hoy y dura hasta el 23/11: es la primera semana de descuentos de la previa del Black Friday del 27/11 y marca cuánto tensionar la capacidad de despacho."
+    },
+    {
+      "id": "nw-6c8c40bc86",
+      "kind": "news",
+      "title": "Depósitos logísticos premium en el AMBA: vuelve la demanda y la vacancia baja al 8,9%",
+      "priority": "relevante",
+      "one_liner": "La vacancia baja y la demanda vuelve, pero las rentas siguen un 10% por debajo de hace un año: si Fixy necesita más metros, conviene negociar ahora."
+    },
+    {
+      "id": "nw-96b14dea00",
+      "kind": "news",
+      "title": "Rappi acelera su formato Turbo de entregas en menos de 15 minutos y ve espacio para quintuplicar el delivery en Argentina",
+      "priority": "informativo",
+      "one_liner": "El quick commerce sube la vara de velocidad en las ciudades y abre demanda de reposición frecuente en lotes chicos a tiendas urbanas."
     },
     {
       "id": "ev-chain-hackathon-retail-2026",
       "kind": "event",
       "title": "Hackathon Retail Chain 4.0",
       "priority": "informativo",
-      "one_liner": "Desde mañana y hasta el 19/11, con sedes en Bahía Blanca, Buenos Aires y Posadas, muestra qué problemas de cadena de suministro priorizan retailers y universidades."
+      "one_liner": "Empieza hoy y sigue hasta el 19/11 en Bahía Blanca, Buenos Aires y Posadas: sirve para ver qué problemas de cadena de suministro priorizan retailers y universidades."
     },
     {
-      "id": "op-23b766d2",
-      "kind": "opportunity",
-      "title": "Viaje comercial a Tucumán el 25/11 para captar tiendas online del NOA en el Entrenamiento Nube y T-Connect",
+      "id": "ev-entrenamiento-nube-tucuman-2026",
+      "kind": "event",
+      "title": "Entrenamiento Nube Tucumán",
       "priority": "relevante",
-      "one_liner": "Dos eventos en la misma ciudad y el mismo día justifican un solo viaje para generar contactos en el norte."
+      "one_liner": "Faltan nueve días para el 25/11 en Tucumán, junto con T-Connect: si se va a viajar, hay que cerrar agenda y contactos esta semana."
     }
   ]
 }

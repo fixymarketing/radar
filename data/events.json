@@ -1,84 +1,6 @@
 [
   {
     "scope": "ar",
-    "name": "ARLOG - XXXIII Encuentro Nacional de Logística Empresaria",
-    "organizer": "ARLOG - Asociación Argentina de Logística Empresaria",
-    "date_start": "2026-11-12",
-    "date_end": "2026-11-12",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Escobar",
-    "province": "Buenos Aires",
-    "country": "Argentina",
-    "venue": "Predio FPT/FADEEAC",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Logística",
-    "url": "https://arlog.org/",
-    "source_url": "https://aaaci.org.ar/arlog-confirmo-el-xxxiii-encuentro-nacional-de-logistica-empresaria/",
-    "description": "Encuentro anual de ARLOG bajo el lema \"Argentina Logística: la estrategia y los habilitadores necesarios para la nueva Supply Chain\".",
-    "fixy_relevance": "Evento central del sector logístico argentino: referentes de supply chain, transporte y operadores como Fixy pueden hacer networking directo y detectar tendencias del sector.",
-    "justification_type": null,
-    "priority": "alta",
-    "beyond_90": false,
-    "id": "ev-arlog-empresaria-encuentro-logistica-nacional-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-27",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-09-05",
-        "fields": [
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-09-06",
-        "fields": [
-          "venue",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-09-07",
-        "fields": [
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-09-10",
-        "fields": [
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-09-27",
-        "fields": [
-          "organizer",
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
     "name": "Somos Pymes Summit – El País que se Viene",
     "organizer": "Somos Pymes",
     "date_start": "2026-11-18",
@@ -242,56 +164,6 @@
           "description",
           "fixy_relevance",
           "priority"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "intl",
-    "name": "Web Summit Lisboa 2026",
-    "organizer": "Web Summit",
-    "date_start": "2026-11-09",
-    "date_end": "2026-11-12",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Lisboa",
-    "province": null,
-    "country": "Portugal",
-    "venue": "MEO Arena y FIL (Parque das Nações)",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Tecnología",
-    "url": "https://websummit.com",
-    "source_url": "https://hadea.ec.europa.eu/events/web-summit-2026-2026-11-09_en",
-    "description": "Conferencia global de tecnología y startups con foco en IA, fintech y retail.",
-    "fixy_relevance": "Networking con startups, inversores y proveedores tecnológicos; bajo foco logístico directo.",
-    "justification_type": "networking",
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-lisboa-summit-web-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-11-01",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-09-06",
-        "fields": [
-          "venue",
-          "url",
-          "description",
-          "fixy_relevance",
-          "justification_type"
-        ]
-      },
-      {
-        "date": "2026-11-01",
-        "fields": [
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "justification_type"
         ]
       }
     ]
@@ -561,38 +433,26 @@
     "date_start": "2027-05-31",
     "date_end": "2027-06-01",
     "date_confirmed": true,
-    "date_note": "Fechas publicadas en el sitio oficial de VTEX (lunes y martes); la página aclara que formato y agenda pueden cambiar. Un listado externo menciona abril, contradicho por la fuente oficial.",
+    "date_note": "El FAQ oficial confirma el lunes 31 de mayo y el martes 1 de junio de 2027 en São Paulo Expo. Resultados de búsqueda del sitio de VTEX DAY mencionan una agenda ampliada hasta el jueves 3 de junio con dos sedes en simultáneo, y la página \"Sobre el evento\" habla del 30 de mayo: no se pudo verificar en la fuente primaria. Revisar antes de cerrar pasajes.",
     "city": "São Paulo",
     "province": null,
     "country": "Brasil",
-    "venue": "São Paulo Expo (Rodovia dos Imigrantes, km 1,5)",
+    "venue": "São Paulo Expo (más una segunda sede Por confirmar)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "eCommerce",
     "url": "https://www.vtex.com/en-us/vtexday",
     "source_url": "https://www.vtex.com/en-us/vtexday/faq",
-    "description": "Es el mayor evento de comercio digital de Latinoamérica. Según el FAQ oficial, se hace el lunes 31 de mayo y el martes 1 de junio de 2027 en São Paulo Expo, de 9 a 20 h.",
-    "fixy_relevance": "Reúne a retailers enterprise, integradores y partners logísticos del ecosistema VTEX, que es clave para los clientes de fulfillment de Fixy en LATAM. Es una buena oportunidad para alianzas tecnológicas y para generar negocios con marcas regionales.",
-    "justification_type": "networking",
+    "description": "El mayor evento de comercio digital de la región, el 31 de mayo y el 1 de junio de 2027 en São Paulo Expo. VTEX anticipa una edición ampliada con una segunda sede, y la agenda podría extenderse hasta el 3 de junio.",
+    "fixy_relevance": "Si la agenda se extiende a cuatro días y dos sedes, cambia la planificación del viaje (hotel, pasajes, qué días ir). Sigue siendo el punto de encuentro clave con marcas, marketplaces e integradores VTEX de LATAM para generar negocios de fulfillment.",
+    "justification_type": "viaje",
     "priority": "alta",
     "beyond_90": true,
     "id": "ev-day-vtex-2027",
     "source_kind": "auto",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-16",
     "first_seen": "2026-08-19",
     "change_log": [
-      {
-        "date": "2026-08-30",
-        "fields": [
-          "city",
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "justification_type"
-        ]
-      },
       {
         "date": "2026-09-09",
         "fields": [
@@ -630,6 +490,16 @@
       {
         "date": "2026-11-13",
         "fields": [
+          "venue",
+          "description",
+          "fixy_relevance",
+          "justification_type"
+        ]
+      },
+      {
+        "date": "2026-11-16",
+        "fields": [
+          "date_note",
           "venue",
           "description",
           "fixy_relevance",
@@ -1101,33 +971,6 @@
         ]
       }
     ]
-  },
-  {
-    "scope": "ar",
-    "name": "Food Delivery Day 2026",
-    "organizer": "Atomic Kitchens",
-    "date_start": "2026-11-12",
-    "date_end": "2026-11-12",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Buenos Aires",
-    "province": "Ciudad Autónoma de Buenos Aires",
-    "country": "Argentina",
-    "venue": "Centro Costa Salguero",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Logística",
-    "url": "https://www.fooddeliveryday.com.ar/",
-    "source_url": "https://mercado.com.ar/agenda/food-delivery-day-2026-concentrara-en-buenos-aires-a-actores-de-la-gastronomia-digital/",
-    "description": "Segunda edición del evento sobre delivery y gastronomía digital, organizado por Atomic Kitchens con Mercado Libre Restaurantes y Rappi como sponsors principales. Convoca a dueños de restaurantes, dark kitchens, apps de delivery y responsables de logística de última milla para discutir rentabilidad y operación del reparto.",
-    "fixy_relevance": "Foco directo en última milla y logística de reparto urbano, el núcleo del negocio de Fixy; sirve para relevar benchmarks de tiempos de entrega, modelos de dark kitchens y expectativas de servicio que también se trasladan al eCommerce general.",
-    "justification_type": null,
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-day-delivery-food-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-08-25",
-    "first_seen": "2026-08-25"
   },
   {
     "scope": "intl",
