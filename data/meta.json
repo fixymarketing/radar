@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-16T12:10:52.494Z",
-  "last_updated_ar": "16/11/2026, 09:10",
-  "date": "2026-11-16",
+  "generated_at": "2026-11-17T12:10:36.315Z",
+  "last_updated_ar": "17/11/2026, 09:10",
+  "date": "2026-11-17",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Arranca la Black Week Mayorista y empieza la cuenta regresiva al Black Friday del 27/11; además, los depósitos premium del AMBA recuperan demanda con rentas todavía bajas y Rappi acelera la entrega en 15 minutos.",
+  "summary_line": "A diez días del Black Friday, el consumo masivo sigue migrando al canal online, Uruguay suma un hub de eCommerce regional en Carrasco y Google habilita guías interactivas en Gemini Notebook que sirven para el onboarding de tiendas antes del pico.",
   "counters": {
-    "news_today": 2,
-    "news_total": 15,
-    "events_upcoming": 19,
+    "news_today": 3,
+    "news_total": 17,
+    "events_upcoming": 20,
     "events_ar_upcoming": 12,
-    "events_intl_upcoming": 7,
-    "events_later": 40,
+    "events_intl_upcoming": 8,
+    "events_later": 41,
     "opportunities_open": 8,
     "opportunities_today": 1,
-    "ai_today": 0,
+    "ai_today": 1,
     "ai_to_try": 41,
-    "content_ideas": 7,
-    "added_news": 2,
+    "content_ideas": 8,
+    "added_news": 3,
     "updated_news": 0,
-    "added_events": 0,
+    "added_events": 2,
     "updated_events": 1,
-    "added_ai": 0,
-    "archived": 14,
+    "added_ai": 1,
+    "archived": 12,
     "discarded_quality": 0
   },
   "next_event": {
@@ -34,39 +34,39 @@
   },
   "highlights": [
     {
-      "id": "ev-black-mayorista-nacional-week-2026",
+      "id": "ev-argentina-black-friday-2026",
       "kind": "event",
-      "title": "Black Week Nacional Mayorista 2026",
-      "priority": "relevante",
-      "one_liner": "Arranca hoy y dura hasta el 23/11: es la primera semana de descuentos de la previa del Black Friday del 27/11 y marca cuánto tensionar la capacidad de despacho."
+      "title": "Black Friday Argentina 2026",
+      "priority": "alta",
+      "one_liner": "Faltan diez días para el segundo pico de demanda del trimestre: es la última semana para cerrar capacidad, stock de clientes y turnos."
     },
     {
-      "id": "nw-6c8c40bc86",
+      "id": "nw-86e74cd6c6",
       "kind": "news",
-      "title": "Depósitos logísticos premium en el AMBA: vuelve la demanda y la vacancia baja al 8,9%",
+      "title": "Las compras de alimentos online siguen creciendo mientras el canal tradicional cae: las apps empujan con promociones y 'markets'",
       "priority": "relevante",
-      "one_liner": "La vacancia baja y la demanda vuelve, pero las rentas siguen un 10% por debajo de hace un año: si Fixy necesita más metros, conviene negociar ahora."
+      "one_liner": "El consumo masivo se sigue corriendo al canal digital aun con consumo general débil, con más exigencia de velocidad y surtido."
     },
     {
-      "id": "nw-96b14dea00",
+      "id": "ai-google-gemini-notebook-sitios-interactivos-a-partir-de-las-f",
+      "kind": "ai",
+      "title": "Gemini Notebook: sitios interactivos a partir de las fuentes",
+      "priority": "relevante",
+      "one_liner": "Permite convertir manuales y planillas en guías o tableros interactivos sin programar, útil para el onboarding de tiendas antes del pico."
+    },
+    {
+      "id": "ev-pais-pymes-que-se-somos-summit-viene-2026",
+      "kind": "event",
+      "title": "Somos Pymes Summit – El País que se Viene",
+      "priority": "relevante",
+      "one_liner": "Es mañana en Buenos Aires y reúne pymes y emprendedores que venden online y necesitan resolver logística."
+    },
+    {
+      "id": "nw-c2fd225f19",
       "kind": "news",
-      "title": "Rappi acelera su formato Turbo de entregas en menos de 15 minutos y ve espacio para quintuplicar el delivery en Argentina",
+      "title": "Uruguay inauguró MOVA, un hub logístico de US$14 millones en el aeropuerto franco de Carrasco orientado al eCommerce regional",
       "priority": "informativo",
-      "one_liner": "El quick commerce sube la vara de velocidad en las ciudades y abre demanda de reposición frecuente en lotes chicos a tiendas urbanas."
-    },
-    {
-      "id": "ev-chain-hackathon-retail-2026",
-      "kind": "event",
-      "title": "Hackathon Retail Chain 4.0",
-      "priority": "informativo",
-      "one_liner": "Empieza hoy y sigue hasta el 19/11 en Bahía Blanca, Buenos Aires y Posadas: sirve para ver qué problemas de cadena de suministro priorizan retailers y universidades."
-    },
-    {
-      "id": "ev-entrenamiento-nube-tucuman-2026",
-      "kind": "event",
-      "title": "Entrenamiento Nube Tucumán",
-      "priority": "relevante",
-      "one_liner": "Faltan nueve días para el 25/11 en Tucumán, junto con T-Connect: si se va a viajar, hay que cerrar agenda y contactos esta semana."
+      "one_liner": "Suma otra pieza al cross-border del Cono Sur a pocos kilómetros de Buenos Aires, en paralelo a la nueva terminal courier de Ezeiza."
     }
   ]
 }

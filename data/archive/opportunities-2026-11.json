@@ -138,5 +138,21 @@
     "source_kind": "auto",
     "last_updated": "2026-11-11",
     "first_seen": "2026-11-11"
+  },
+  {
+    "title": "Ofrecer un paquete de fulfillment de fin de año a pymes con local que están creciendo en el canal online",
+    "context": "Según el índice de CAME de octubre, las ventas minoristas pyme cayeron 1,6% interanual, pero las ventas online de los comercios con local crecieron 17,7%. Son comercios que suman pedidos digitales sin tener resuelto el almacenamiento ni los envíos, justo antes de Black Friday y las fiestas.",
+    "action": "Armar esta semana una propuesta corta (almacenamiento + picking + última milla, sin mínimos altos) dirigida a comercios pyme con local que venden online, y moverla en las cámaras de comercio locales y en el Día del Emprendedor del 17/11.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://misionesonline.net/2026/11/08/ventas-minoristas-pyme-cayeron-octubre-2026/",
+    "linked": [
+      "Las ventas minoristas pyme cayeron 1,6% en octubre, pero las ventas online de los comercios crecieron 17,7%",
+      "Día del Emprendedor (Buenos Aires Ciudad) 2026"
+    ],
+    "id": "op-2fb142f4",
+    "source_kind": "auto",
+    "last_updated": "2026-11-11",
+    "first_seen": "2026-11-11"
   }
 ]

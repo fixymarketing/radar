@@ -23,29 +23,6 @@
     "first_seen": "2026-10-29"
   },
   {
-    "title": "Mercado Libre suma un centro de última milla en Luján de Cuyo y vuelos semanales con Aerolíneas",
-    "what_happened": "Mercado Libre inauguró en Luján de Cuyo, Mendoza, un centro de última milla con una inversión de US$8 millones y capacidad para clasificar y distribuir hasta 96.000 paquetes por día. Además incorporó un esquema de cinco vuelos semanales junto a Aerolíneas.",
-    "why_it_matters": "La expansión de la red de entregas hacia el interior, con envíos aéreos, acorta plazos fuera del AMBA y sube la vara de lo que esperan los compradores de provincias.",
-    "fixy_impact": null,
-    "category": "Última milla",
-    "geo": "Argentina",
-    "source_name": "Cadena 3",
-    "source_url": "https://www.cadena3.com/noticia/politica-y-economia/mercado-libre-fortalece-su-red-de-entregas-con-un-nuevo-centro-logistico-en-mendoza-y-envios-aereos_607145",
-    "published_date": "2026-10-26",
-    "priority": "relevante",
-    "tags": [
-      "Mercado Libre",
-      "última milla",
-      "Mendoza",
-      "interior",
-      "envíos aéreos"
-    ],
-    "id": "nw-0a32c5d31c",
-    "source_kind": "auto",
-    "last_updated": "2026-10-29",
-    "first_seen": "2026-10-29"
-  },
-  {
     "title": "CyberMonday 2026 arranca el 2/11 con casi 800 empresas y 15.000 ofertas",
     "what_happened": "La CACE confirmó que el CyberMonday se realiza del 2 al 4 de noviembre con casi 800 empresas, el 47% pymes, y unas 15.000 ofertas en diez categorías. Gustavo Sambucetti, director institucional de la CACE, sostuvo que en tres días se concentra el volumen de operaciones de unas tres semanas de ventas habituales.",
     "why_it_matters": "Es el primer gran pico de demanda del eCommerce argentino antes de las fiestas y condiciona la capacidad de las operaciones logísticas y de entrega.",
@@ -339,5 +316,74 @@
     "source_kind": "auto",
     "last_updated": "2026-11-16",
     "first_seen": "2026-11-16"
+  },
+  {
+    "title": "Las compras de alimentos online siguen creciendo mientras el canal tradicional cae: las apps empujan con promociones y 'markets'",
+    "what_happened": "Infobae analizó por qué crece la compra de alimentos por internet: según CAME, las ventas de alimentos y bebidas en comercios tradicionales cayeron 3,5% interanual real en octubre, mientras las apps de entrega rápida y los marketplaces ganan terreno. Según NielsenIQ, las promociones explican el 36% de las ventas de alimentos en plataformas digitales. Las apps sumaron 'markets' propios, integraron cadenas de supermercados y, con mejoras logísticas, incorporaron categorías como lácteos, congelados y bebidas.",
+    "why_it_matters": "El consumo masivo se está corriendo al canal digital aun con consumo general débil, y lo hace apoyado en logística de entrega rápida y surtido perecedero, que exige otra operación de depósito y última milla.",
+    "fixy_impact": "Abre una conversación comercial con marcas de consumo masivo y alimentos no perecederos que necesitan fulfillment para vender en marketplaces y apps; también obliga a evaluar si Fixy puede manejar categorías con requisitos de manipulación especiales.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/11/15/por-que-se-compran-cada-vez-mas-alimentos-por-internet-la-estrategia-de-las-apps/",
+    "published_date": "2026-11-15",
+    "priority": "relevante",
+    "tags": [
+      "consumo masivo",
+      "quick commerce",
+      "alimentos",
+      "apps de delivery",
+      "CAME"
+    ],
+    "id": "nw-86e74cd6c6",
+    "source_kind": "auto",
+    "last_updated": "2026-11-17",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "title": "Uruguay inauguró MOVA, un hub logístico de US$14 millones en el aeropuerto franco de Carrasco orientado al eCommerce regional",
+    "what_happened": "Latin America Cargo City, la unidad de cargas de Corporación América, inauguró el viernes 13 de noviembre MOVA, un centro logístico de unos 10.000 m² en tres niveles montado sobre la vieja terminal de pasajeros del Aeropuerto de Carrasco, con una inversión de US$14 millones. Opera bajo régimen de aeropuerto libre, lo que permite manipular mercadería bajo control aduanero sin importarla formalmente. El proyecto apunta a operaciones de eCommerce y distribución regional; la inauguración contó con el presidente Yamandú Orsi.",
+    "why_it_matters": "Se suma otra pieza regional para el eCommerce cross-border en el Cono Sur: un hub en régimen franco a pocos kilómetros de Buenos Aires puede reconfigurar desde dónde se abastecen las ventas internacionales hacia Argentina.",
+    "fixy_impact": null,
+    "category": "Logística",
+    "geo": "LATAM",
+    "source_name": "Cámara Uruguaya de Logística (CALOG)",
+    "source_url": "https://calog.com.uy/2026/11/16/lacc-mova-una-nueva-apuesta-por-el-desarrollo-logistico-regional/",
+    "published_date": "2026-11-16",
+    "priority": "informativo",
+    "tags": [
+      "Uruguay",
+      "hub logístico",
+      "cross-border",
+      "Corporación América",
+      "zona franca"
+    ],
+    "id": "nw-c2fd225f19",
+    "source_kind": "auto",
+    "last_updated": "2026-11-17",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "title": "El Gobierno sumó 27 rutas nacionales a la Red Federal de Concesiones por peaje",
+    "what_happened": "El Decreto 1358/2026, publicado el viernes 13 de noviembre en el Boletín Oficial, abre la Etapa IV de la Red Federal de Concesiones e incorpora 27 rutas y accesos nacionales que podrán concesionarse con peaje. Los tramos concretos todavía no están definidos: los fijará la Secretaría de Transporte con informe técnico de Vialidad Nacional, y hay 12 meses para llamar a licitación. Entre las rutas alcanzadas figuran la 3, 9, 14, 22, 33, 34 y 35, varias de ellas con tramos ya incluidos en etapas anteriores.",
+    "why_it_matters": "Más tramos con peaje implican, a mediano plazo, más costo por kilómetro para el transporte de cargas en corredores troncales, a cambio de una eventual mejora en el estado de las rutas.",
+    "fixy_impact": "Conviene seguir qué tramos se definen: si alcanzan corredores que Fixy o sus transportistas usan para envíos al interior, el costo de peajes debería entrar en la revisión de tarifas de 2027.",
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "Boletín Oficial de la República Argentina",
+    "source_url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350267/20261113",
+    "published_date": "2026-11-13",
+    "priority": "informativo",
+    "tags": [
+      "peajes",
+      "rutas nacionales",
+      "concesiones",
+      "transporte de cargas",
+      "costos logísticos"
+    ],
+    "id": "nw-09c0580034",
+    "source_kind": "auto",
+    "last_updated": "2026-11-17",
+    "first_seen": "2026-11-17"
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "title": "Armar con Gemini Notebook una guía interactiva de onboarding para tiendas que entran antes de Black Friday",
+    "context": "Google habilitó el 16/11 en Gemini Notebook la generación de sitios interactivos (explicadores, tableros, rastreadores de tareas) a partir de los documentos cargados en un cuaderno, también para cuentas de Workspace. A diez días del Black Friday (27/11), cada tienda que se suma al fulfillment necesita conocer horarios de corte, ingreso de mercadería y política de reclamos.",
+    "action": "Cargar en un cuaderno el manual de ingreso de mercadería, los horarios de corte y la política de reclamos de Fixy, generar la guía interactiva y probarla esta semana con una o dos tiendas que estén ingresando stock para la temporada alta.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+    "linked": [
+      "Gemini Notebook: sitios interactivos a partir de las fuentes",
+      "Black Friday Argentina 2026"
+    ],
+    "id": "op-30ceb792",
+    "source_kind": "auto",
+    "last_updated": "2026-11-17",
+    "first_seen": "2026-11-17"
+  },
+  {
     "title": "Revisar la necesidad de espacio de depósito para 2027 mientras las rentas premium del AMBA siguen por debajo de 2025",
     "context": "El informe de CBRE del tercer trimestre muestra que la demanda de depósitos premium en el AMBA volvió a ser positiva y que la vacancia bajó del 10,15% al 8,92%. La renta promedio (US$ 7,42 por m²) sigue cerca de un 10% por debajo de hace un año, pero la tendencia apunta a que el margen para negociar se achique.",
     "action": "Antes de fin de mes, cruzar el pronóstico de volumen de clientes para 2027 con la capacidad actual de depósito y, si hace falta sumar metros o renovar contratos, pedir cotizaciones ahora en lugar de esperar al primer trimestre.",
@@ -105,21 +121,5 @@
     "source_kind": "auto",
     "last_updated": "2026-11-12",
     "first_seen": "2026-11-12"
-  },
-  {
-    "title": "Ofrecer un paquete de fulfillment de fin de año a pymes con local que están creciendo en el canal online",
-    "context": "Según el índice de CAME de octubre, las ventas minoristas pyme cayeron 1,6% interanual, pero las ventas online de los comercios con local crecieron 17,7%. Son comercios que suman pedidos digitales sin tener resuelto el almacenamiento ni los envíos, justo antes de Black Friday y las fiestas.",
-    "action": "Armar esta semana una propuesta corta (almacenamiento + picking + última milla, sin mínimos altos) dirigida a comercios pyme con local que venden online, y moverla en las cámaras de comercio locales y en el Día del Emprendedor del 17/11.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://misionesonline.net/2026/11/08/ventas-minoristas-pyme-cayeron-octubre-2026/",
-    "linked": [
-      "Las ventas minoristas pyme cayeron 1,6% en octubre, pero las ventas online de los comercios crecieron 17,7%",
-      "Día del Emprendedor (Buenos Aires Ciudad) 2026"
-    ],
-    "id": "op-2fb142f4",
-    "source_kind": "auto",
-    "last_updated": "2026-11-11",
-    "first_seen": "2026-11-11"
   }
 ]

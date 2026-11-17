@@ -177,6 +177,30 @@
     "first_seen": "2026-09-01"
   },
   {
+    "name": "Gemini Notebook: sitios interactivos a partir de las fuentes",
+    "vendor": "Google",
+    "what_it_is": "Gemini Notebook (el ex NotebookLM) ahora arma una página web interactiva con los documentos que cargaste en un cuaderno: tableros, explicadores visuales o rastreadores de tareas que se abren en otra pestaña y se pueden compartir.",
+    "what_changed": "Google lo anunció el 16 de noviembre de 2026 y lo está habilitando en todo el mundo en la versión web, para mayores de 18 y también para cuentas de Google Workspace. La app móvil va a llegar más adelante. Se pide escribiendo en el chat del cuaderno algo como \"armame un sitio\".",
+    "fixy_use": "Cargar en un cuaderno el manual de ingreso de mercadería, los horarios de corte y la política de reclamos, y generar una guía interactiva para que cada tienda nueva haga el onboarding sola antes de Black Friday. También sirve para subir la planilla de envíos del mes de un cliente y armar un tablero de resultados para mostrar en la reunión comercial, o un rastreador de tareas del pico de fin de año para el equipo de depósito.",
+    "verdict": "probar",
+    "verdict_reason": "No cuesta nada probarlo con documentos que Fixy ya tiene y puede ahorrar horas de armado de material para clientes y para el equipo justo antes de la temporada alta.",
+    "categories": [
+      "Operaciones",
+      "Comercial",
+      "Contenido",
+      "Análisis",
+      "Organización"
+    ],
+    "pricing_note": "freemium: se incluye en Gemini Notebook para usuarios de la web y de Workspace; Google no detalló límites por plan",
+    "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+    "published_date": "2026-11-16",
+    "priority": "relevante",
+    "id": "ai-google-gemini-notebook-sitios-interactivos-a-partir-de-las-f",
+    "source_kind": "auto",
+    "last_updated": "2026-11-17",
+    "first_seen": "2026-11-17"
+  },
+  {
     "name": "Claude Meetings",
     "vendor": "Anthropic",
     "what_it_is": "Claude entra a las videollamadas de Google Meet como un participante visible: toma notas, contesta preguntas en el chat de la reunión, busca datos en las apps conectadas y arma planes o tareas mientras la gente habla.",
@@ -1156,51 +1180,6 @@
     "first_seen": "2026-09-11"
   },
   {
-    "name": "Instrucciones personalizadas de Gemini en Workspace",
-    "vendor": "Google",
-    "what_it_is": "Una configuración de Gemini en Google Workspace donde cada persona guarda instrucciones fijas (tono, idioma, formato, preferencias) para que se apliquen siempre, sin repetirlas en cada consulta.",
-    "what_changed": "Google ya lo tenía solo en Docs desde mayo; desde el 2 de septiembre de 2026 lo extendió (despliegue gradual, hasta 15 días) a Gemini en Drive, Chat, Gmail, Sheets y Slides, y las instrucciones quedan compartidas entre todas esas apps.",
-    "fixy_use": "El equipo de marketing y atención al cliente puede guardar una sola vez el tono de marca de Fixy y el estilo esperado (español rioplatense, formalidad, extensión) y que Gemini lo respete al redactar mails en Gmail, documentos en Docs o respuestas en Sheets/Slides, sin repetir instrucciones en cada prompt.",
-    "verdict": "probar",
-    "verdict_reason": "Es gratis dentro de las licencias de Workspace que ya tienen y reduce fricción diaria sin sumar una herramienta nueva.",
-    "categories": [
-      "Productividad",
-      "Contenido",
-      "Organización"
-    ],
-    "pricing_note": "gratis (incluido en licencias de Google Workspace existentes con acceso a Gemini)",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/09/custom-instructions-for-gemini-in-Workspace-now-available-in-more-apps.html",
-    "published_date": "2026-09-02",
-    "priority": "relevante",
-    "id": "ai-google-instrucciones-personalizadas-de-gemini-en-workspace",
-    "source_kind": "auto",
-    "last_updated": "2026-09-03",
-    "first_seen": "2026-09-03"
-  },
-  {
-    "name": "Claude Commerce Agents",
-    "vendor": "Anthropic",
-    "what_it_is": "Es un blueprint de código abierto de Anthropic para construir con Claude dos tipos de agentes: uno de compras, que busca en un catálogo, arma un carrito y lleva al cliente al checkout, y uno de comerciante, que analiza ventas, monitorea stock y sugiere precios o promociones.",
-    "what_changed": "Anthropic lo publicó el 2 de septiembre de 2026 bajo licencia Apache 2.0, con implementaciones de referencia para retail, viajes y telecomunicaciones, buscando que un equipo técnico tenga un agente de este tipo funcionando en días en vez de meses; ya lo están probando Shopify, Visa y Mastercard.",
-    "fixy_use": "Fixy podría usar el patrón de Merchant Agent como base para un agente interno que revise el stock en los depósitos de fulfillment de sus clientes eCommerce y avise automáticamente cuándo conviene reponer, en vez de que un operador chequee planillas a mano. También sirve como argumento comercial para ofrecerles a los clientes de Fixy un checkout asistido por IA sobre la integración que ya tienen.",
-    "verdict": "seguir",
-    "verdict_reason": "Es un patrón técnico pensado para equipos de desarrollo, así que conviene seguirlo y evaluarlo con un proveedor antes de invertir tiempo propio en implementarlo.",
-    "categories": [
-      "Logística",
-      "Operaciones",
-      "Comercial",
-      "Automatización"
-    ],
-    "pricing_note": "no confirmado + el blueprint en sí es gratuito (Apache 2.0), pero correrlo consume la API de Claude (Sonnet u Opus) con tarifa por token.",
-    "source_url": "https://claude.com/blog/claude-for-commerce-agents",
-    "published_date": "2026-09-02",
-    "priority": "relevante",
-    "id": "ai-anthropic-claude-commerce-agents",
-    "source_kind": "auto",
-    "last_updated": "2026-09-04",
-    "first_seen": "2026-09-04"
-  },
-  {
     "name": "Zendesk Outcome AI Platform",
     "vendor": "Zendesk",
     "what_it_is": "La nueva plataforma de Zendesk que agrupa sus agentes de IA especializados (empezando por comercio: pedidos, devoluciones y cambios) con un esquema en el que se paga por caso resuelto, no por uso de la IA.",
@@ -1874,71 +1853,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-07",
     "first_seen": "2026-09-07"
-  },
-  {
-    "name": "Gemini 3.8 Flash",
-    "vendor": "Google",
-    "what_it_is": "Es un modelo de IA de Google pensado para tareas de varios pasos y automatización (\"agéntico\"), más rápido y más barato que los modelos grandes de la misma familia.",
-    "what_changed": "Google lo lanzó el 2 de septiembre de 2026 -su tercer modelo Flash en seis semanas- con mejoras de razonamiento para tareas largas y un precio de entrada de USD 0,75 por millón de tokens, ya disponible en la app de Gemini, en AI Studio y en la API para desarrolladores.",
-    "fixy_use": "Al ser más barato para tareas de varios pasos, puede usarse como motor de bajo costo detrás de automatizaciones armadas en n8n o Make -por ejemplo, clasificar pedidos entrantes, leer remitos o redactar respuestas automáticas de seguimiento-, algo que un equipo chico puede evaluar sin comprometer un gasto grande en IA. Requiere a alguien que arme la integración técnica, no es una herramienta de uso directo para el equipo comercial o de atención.",
-    "verdict": "seguir",
-    "verdict_reason": "Es una mejora de costo y performance útil solo si Fixy ya construye o piensa construir automatizaciones propias con IA vía API.",
-    "categories": [
-      "Automatización",
-      "Análisis",
-      "Operaciones"
-    ],
-    "pricing_note": "pago: USD 0,75 por millón de tokens de entrada y USD 3,75 por millón de tokens de salida (precio introductorio vía API).",
-    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-    "published_date": "2026-09-02",
-    "priority": "informativo",
-    "id": "ai-google-gemini-3-8-flash",
-    "source_kind": "auto",
-    "last_updated": "2026-09-10",
-    "first_seen": "2026-09-04"
-  },
-  {
-    "name": "Gemini 3.8 Flash y Gemini 3.8 Flash Cyber",
-    "vendor": "Google",
-    "what_it_is": "Es la nueva versión del modelo liviano y rápido de Gemini, pensado para tareas de código, razonamiento y automatizaciones con agentes a bajo costo. La variante Cyber es una versión especializada en encontrar y parchear vulnerabilidades de seguridad en software.",
-    "what_changed": "Google lo lanzó el 2 de septiembre de 2026, apenas tres semanas después de la versión anterior (3.7 Flash), con mejor rendimiento al mismo precio por token; la variante Cyber por ahora solo se entrega a testers de confianza vía un programa nuevo llamado Fairwind.",
-    "fixy_use": "Si en Fixy se arman automatizaciones propias (por ejemplo con n8n, Make o Google AI Studio) que llaman a la API de Gemini para clasificar mails de clientes, extraer datos de remitos o redactar respuestas automáticas, este modelo baja el costo y la latencia de esos procesos sin que haya que tocar nada del lado de la integración. No es algo que use directo comercial o atención al cliente, sino el área que arma o mantiene esas automatizaciones internas.",
-    "verdict": "seguir",
-    "verdict_reason": "Es una mejora de motor real, pero solo aporta valor concreto si Fixy ya construye o piensa construir automatizaciones propias sobre la API de Gemini.",
-    "categories": [
-      "Automatización",
-      "Análisis",
-      "Operaciones"
-    ],
-    "pricing_note": "pago: uso por API, mismo precio por token que la versión anterior según Google (Cyber no tiene precio público, acceso restringido)",
-    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-    "published_date": "2026-09-02",
-    "priority": "informativo",
-    "id": "ai-google-gemini-3-8-flash-y-gemini-3-8-flash-cyber",
-    "source_kind": "auto",
-    "last_updated": "2026-09-05",
-    "first_seen": "2026-09-05"
-  },
-  {
-    "name": "Gemini Notebook: límite de uso basado en cómputo",
-    "vendor": "Google",
-    "what_it_is": "Herramienta de Google (antes NotebookLM, renombrada este año a 'Gemini Notebook') que arma resúmenes, audios tipo podcast y respuestas a partir de documentos propios que uno carga.",
-    "what_changed": "Desde el 2 de septiembre de 2026 Google reemplazó el límite de uso diario fijo por un límite basado en 'cómputo': cada acción gasta una porción distinta de un presupuesto que se renueva cada cinco horas en vez de una vez al día, y las tareas pesadas (armar un audio resumen o una presentación) consumen bastante más presupuesto que una pregunta simple de texto.",
-    "fixy_use": "Si el equipo usa Gemini Notebook para resumir manuales operativos, políticas de couriers o armar audios de onboarding para gente nueva, conviene revisar este nuevo esquema antes de apoyarse en tareas pesadas (audio o video overview) en el plan gratuito, porque el uso intensivo se puede agotar más rápido que antes.",
-    "verdict": "seguir",
-    "verdict_reason": "No suma capacidad nueva, pero cambia cuánto se puede usar gratis y puede frenar un uso intensivo que ya venía funcionando bien.",
-    "categories": [
-      "Análisis",
-      "Organización",
-      "Gestión del tiempo"
-    ],
-    "pricing_note": "freemium: el cambio de límites aplica a todos los planes, incluido el gratuito, según cuánto cómputo consuma cada acción",
-    "source_url": "https://9to5google.com/2026/08/28/gemini-notebook-usage-limits/",
-    "published_date": "2026-09-02",
-    "priority": "informativo",
-    "id": "ai-google-gemini-notebook-limite-de-uso-basado-en-computo",
-    "source_kind": "auto",
-    "last_updated": "2026-09-09",
-    "first_seen": "2026-09-09"
   }
 ]
