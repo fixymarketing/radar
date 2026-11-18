@@ -1,5 +1,27 @@
 [
   {
+    "name": "ChatGPT for Sales (plugin de ventas y más de 30 plugins de socios)",
+    "vendor": "OpenAI",
+    "what_it_is": "Un plugin de ChatGPT pensado para vendedores: investiga cuentas, prepara reuniones con clientes, redacta seguimientos y marca qué oportunidades necesitan atención. Se conecta con CRM como HubSpot, Salesforce y monday CRM.",
+    "what_changed": "OpenAI lo lanzó el 17 de noviembre de 2026 junto con más de 30 plugins de socios nuevos o ampliados (CRM, prospección, notas de llamadas y contratos). Propone cambios en el CRM para que la persona los revise antes de guardarlos.",
+    "fixy_use": "Antes de una reunión con una tienda online que evalúa tercerizar el fulfillment, el equipo comercial puede pedirle un resumen de la cuenta (rubro, volumen estimado, historial de contactos en el CRM) y un guion de preguntas. Después de la reunión, redacta el mail de seguimiento con la propuesta de almacenamiento y última milla, y deja lista la actualización de la oportunidad en el CRM para aprobar.",
+    "verdict": "probar",
+    "verdict_reason": "Ataca un trabajo repetitivo y concreto del área comercial, y se puede probar con una cuenta real sin cambiar de CRM.",
+    "categories": [
+      "Comercial",
+      "Productividad",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado: la disponibilidad de plugins varía según plan, región y configuración del workspace; en Business y Enterprise lo habilita el administrador.",
+    "source_url": "https://openai.com/index/introducing-chatgpt-for-sales/",
+    "published_date": "2026-11-17",
+    "priority": "alta",
+    "id": "ai-openai-chatgpt-for-sales-plugin-de-ventas-y-mas-de-30-plugin",
+    "source_kind": "auto",
+    "last_updated": "2026-11-18",
+    "first_seen": "2026-11-18"
+  },
+  {
     "name": "Gemini Sheets Canvas: hojas de cálculo a apps interactivas",
     "vendor": "Google",
     "what_it_is": "Función de Google Sheets que, con Gemini, convierte los datos de una planilla en una mini app o tablero interactivo dentro de la misma hoja.",
@@ -201,6 +223,28 @@
     "first_seen": "2026-11-17"
   },
   {
+    "name": "Gemini Skills (reemplazan a los Gems)",
+    "vendor": "Google",
+    "what_it_is": "Instrucciones reutilizables para Gemini que funcionan en Gmail, Docs, Slides, Drive, Chat y Workspace Studio.",
+    "what_changed": "Novedad: según 9to5Google (16 de noviembre de 2026), las skills ahora pueden usar archivos de Drive como contexto, y esos archivos se mantienen actualizados en tiempo real. También se pueden compartir con otras personas. La función se habilita de forma gradual en las próximas semanas, antes de que se den de baja los Gems.",
+    "fixy_use": "Atención al cliente puede crear una skill de \"respuesta a reclamos de envío\" que lea el Doc vivo de políticas (plazos, reintentos, devoluciones) y la planilla de tarifas vigente, y compartirla con todo el equipo. Así, cuando cambia una tarifa o una política, todas las respuestas en Gmail usan la versión nueva sin tener que reescribir instrucciones.",
+    "verdict": "probar",
+    "verdict_reason": "Con archivos vivos de Drive y la opción de compartir, ya sirve como herramienta de equipo y no solo personal; además los Gems se van a dar de baja.",
+    "categories": [
+      "Productividad",
+      "Organización",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado: viene incluido con Gemini en Workspace según el plan; la habilitación es gradual.",
+    "source_url": "https://9to5google.com/2026/11/16/gemini-skills-files-sharing/",
+    "published_date": "2026-11-16",
+    "priority": "relevante",
+    "id": "ai-google-gemini-skills-reemplazan-a-los-gems",
+    "source_kind": "auto",
+    "last_updated": "2026-11-18",
+    "first_seen": "2026-10-07"
+  },
+  {
     "name": "Claude Meetings",
     "vendor": "Anthropic",
     "what_it_is": "Claude entra a las videollamadas de Google Meet como un participante visible: toma notas, contesta preguntas en el chat de la reunión, busca datos en las apps conectadas y arma planes o tareas mientras la gente habla.",
@@ -245,29 +289,6 @@
     "source_kind": "auto",
     "last_updated": "2026-11-11",
     "first_seen": "2026-11-11"
-  },
-  {
-    "name": "Gemini Skills (reemplazan a los Gems)",
-    "vendor": "Google",
-    "what_it_is": "Instrucciones reutilizables que le enseñan a Gemini las reglas, plantillas y archivos de referencia de un equipo, para que los aplique siempre igual; se escriben en formato SKILL.md.",
-    "what_changed": "Después de la demora anunciada en octubre, las skills empezaron a llegar a Workspace Studio, Gmail, Docs, Slides, Drive y Chat: Rapid Release desde el 9/11/2026 y Scheduled Release desde el 30/11/2026. Gemini puede aplicarlas solo cuando corresponde o invocarlas con @, y pueden disparar flujos de Workspace Studio; por ahora no funcionan en Sheets ni Meet y solo aceptan instrucciones en inglés.",
-    "fixy_use": "Se puede armar una skill con el tono y las políticas de Fixy (plazos de entrega, condiciones de devolución, tarifas vigentes) para que cualquier respuesta que se redacte con Gemini en Gmail las respete. Otra skill puede generar en Docs propuestas comerciales con la plantilla oficial. La limitación al inglés obliga a escribir las instrucciones en ese idioma, lo que hay que probar antes de adoptarla.",
-    "verdict": "seguir",
-    "verdict_reason": "Es útil para estandarizar respuestas y documentos, pero por ahora solo acepta instrucciones en inglés y todavía no llega a Sheets.",
-    "categories": [
-      "Productividad",
-      "Organización",
-      "Automatización",
-      "Comercial"
-    ],
-    "pricing_note": "pago: incluido y activado por defecto en ediciones elegibles de Google Workspace (Business y Enterprise)",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/11/skills-in-workspace.html",
-    "published_date": "2026-11-10",
-    "priority": "relevante",
-    "id": "ai-google-gemini-skills-reemplazan-a-los-gems",
-    "source_kind": "auto",
-    "last_updated": "2026-11-15",
-    "first_seen": "2026-10-07"
   },
   {
     "name": "Claude Whiteboards",
@@ -337,6 +358,28 @@
     "source_kind": "auto",
     "last_updated": "2026-11-16",
     "first_seen": "2026-09-12"
+  },
+  {
+    "name": "Claude: apps interactivas dentro del chat (Asana, monday.com, Notion, HubSpot, Canva y más)",
+    "vendor": "Anthropic",
+    "what_it_is": "Las herramientas conectadas a Claude ahora se abren al costado de la conversación o en pantalla completa, y Claude puede hacer cambios directamente adentro de esa herramienta. Se pueden fijar las más usadas en la barra lateral.",
+    "what_changed": "Se anunció el 10 de noviembre de 2026 con 13 socios (Adobe, Asana, Atlassian, Box, Canva, Carta, Dropbox, HubSpot, monday.com, Notion, Smartsheet, Vercel y Webflow) y se está habilitando en todos los planes, en la web y en la app de escritorio.",
+    "fixy_use": "Si Fixy organiza proyectos en monday.com, Asana o Notion, operaciones puede pedirle a Claude que cargue las tareas de alta de un cliente nuevo (configuración de stock, etiquetas, retiro) y verlas creadas en el tablero sin cambiar de pestaña. Marketing puede ajustar una pieza en Canva y el comercial actualizar un negocio en HubSpot desde la misma conversación.",
+    "verdict": "seguir",
+    "verdict_reason": "Es útil solo si Fixy ya usa alguna de esas 13 herramientas; conviene confirmar cuáles se usan antes de probarlo.",
+    "categories": [
+      "Organización",
+      "Productividad",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado: se está habilitando en todos los planes de Claude; la nota no informa precio adicional.",
+    "source_url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+    "published_date": "2026-11-10",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-apps-interactivas-dentro-del-chat-asana-mon",
+    "source_kind": "auto",
+    "last_updated": "2026-11-18",
+    "first_seen": "2026-11-18"
   },
   {
     "name": "Gemini: edición de archivos dentro del chat",
@@ -1113,73 +1156,6 @@
     "first_seen": "2026-09-12"
   },
   {
-    "name": "Canva AI 2.0",
-    "vendor": "Canva",
-    "what_it_is": "Es la suite visual de Canva (documentos, planillas, pizarras, presentaciones y sitios) potenciada por IA, que permite crear y editar contenido con instrucciones en lenguaje natural.",
-    "what_changed": "Entre fines de agosto y el 3 de septiembre de 2026 Canva sumó más de 100 funciones nuevas a esta suite, entre ellas gráficos y tablas generados por IA a partir de datos crudos en Canva Sheets y maquetaciones de página completa con saltos automáticos en Canva Docs, consolidando el salto agéntico que había lanzado como Canva IA 2.0.",
-    "fixy_use": "El equipo de marketing podría pegar en Canva Sheets los números de un reporte de ventas o de envíos y pedirle que arme automáticamente un gráfico o tabla presentable, sin pasar por Excel, y después volcarlo directo a un documento o presentación para un cliente o para management, todo en la misma herramienta que ya usan para piezas gráficas.",
-    "verdict": "probar",
-    "verdict_reason": "Si el equipo ya usa Canva para piezas de marketing, probar Sheets y Docs no suma una herramienta nueva sino que aprovecha mejor la que ya pagan.",
-    "categories": [
-      "Marketing",
-      "Contenido",
-      "Análisis",
-      "Productividad"
-    ],
-    "pricing_note": "freemium + funciones incluidas en los planes pagos de Canva (Pro/Teams); Canva tiene un plan gratuito con funciones de IA limitadas.",
-    "source_url": "https://www.storyboard18.com/brand-makers/canva-rolls-out-100-visual-suite-upgrades-with-ai-charts-full-page-docs-and-auto-notes-109684.htm",
-    "published_date": "2026-09-03",
-    "priority": "relevante",
-    "id": "ai-canva-canva-ai-2-0",
-    "source_kind": "auto",
-    "last_updated": "2026-09-04",
-    "first_seen": "2026-08-20"
-  },
-  {
-    "name": "ChatGPT Sites: compartir un sitio en vivo con gente de afuera del workspace",
-    "vendor": "OpenAI",
-    "what_it_is": "Una opción para cuentas de ChatGPT Business y Enterprise que permite invitar a personas puntuales, ajenas al workspace, a ver un Site (una web o app armada dentro de ChatGPT) ya publicado, sin hacerlo público y sin darles acceso a editarlo ni a la cuenta de la empresa.",
-    "what_changed": "Se habilitó el 3 de septiembre de 2026 junto con el lanzamiento de GPT-6 Astra: antes, compartir un Site fuera del workspace implicaba hacerlo público o sumar a esa persona como miembro.",
-    "fixy_use": "Permite armar una mini-herramienta en ChatGPT (por ejemplo, un cotizador de envíos, un formulario de seguimiento o un tablero simple) y compartírsela solo a la cuenta de un cliente puntual por mail, sin exponerla al público ni pagarle un asiento del workspace.",
-    "verdict": "probar",
-    "verdict_reason": "No tiene costo adicional dentro del plan Business/Enterprise y resuelve un caso concreto: compartir una herramienta interna con un cliente sin exponerla.",
-    "categories": [
-      "Comercial",
-      "Productividad",
-      "Automatización"
-    ],
-    "pricing_note": "Incluido en los planes ChatGPT Business y Enterprise elegibles, sin costo adicional.",
-    "source_url": "https://openai.com/products/release-notes/",
-    "published_date": "2026-09-03",
-    "priority": "relevante",
-    "id": "ai-openai-chatgpt-sites-compartir-un-sitio-en-vivo-con-gente-de",
-    "source_kind": "auto",
-    "last_updated": "2026-09-06",
-    "first_seen": "2026-09-06"
-  },
-  {
-    "name": "ChatGPT: conector con Zendesk",
-    "vendor": "OpenAI",
-    "what_it_is": "Un plugin oficial de OpenAI que conecta ChatGPT y Codex con la cuenta de Zendesk de una empresa, para trabajar tickets de soporte sin salir del chat.",
-    "what_changed": "Se sumó en beta como parte del lanzamiento de GPT-6 Astra a principios de septiembre de 2026: antes había que ir a Zendesk para ver tickets, ahora ChatGPT puede leerlos y redactar respuestas directamente conectando la cuenta.",
-    "fixy_use": "El equipo de atención al cliente podría conectar Zendesk a ChatGPT para pedir un resumen del historial de un cliente antes de responder, o para que ChatGPT redacte una respuesta a un reclamo de envío citando los tickets anteriores. Sirve como atajo cuando hay pocas personas cubriendo soporte y no da el tiempo para revisar todo el hilo manualmente.",
-    "verdict": "probar",
-    "verdict_reason": "Es gratis de activar si ya se paga ChatGPT Business/Plus y Zendesk, y ataca un cuello de botella real de un equipo chico de soporte.",
-    "categories": [
-      "Operaciones",
-      "Productividad",
-      "Automatización"
-    ],
-    "pricing_note": "no confirmado - el plugin es parte del plan de ChatGPT (Plus/Business/Enterprise), requiere cuenta de Zendesk propia; no se confirmó costo adicional del plugin en sí",
-    "source_url": "https://help.openai.com/am-et/articles/20001512-using-zendesk-in-chatgpt-and-codex",
-    "published_date": "2026-09-03",
-    "priority": "relevante",
-    "id": "ai-openai-chatgpt-conector-con-zendesk",
-    "source_kind": "auto",
-    "last_updated": "2026-09-11",
-    "first_seen": "2026-09-11"
-  },
-  {
     "name": "Zendesk Outcome AI Platform",
     "vendor": "Zendesk",
     "what_it_is": "La nueva plataforma de Zendesk que agrupa sus agentes de IA especializados (empezando por comercio: pedidos, devoluciones y cambios) con un esquema en el que se paga por caso resuelto, no por uso de la IA.",
@@ -1830,28 +1806,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-06",
     "first_seen": "2026-09-06"
-  },
-  {
-    "name": "Gmail Live, Docs Live y Keep Live",
-    "vendor": "Google",
-    "what_it_is": "Tres funciones de voz de Gemini dentro de Gmail, Google Docs y Google Keep: permiten hablar con la casilla de correo para buscar información, dictar una idea para que Gemini arme un primer borrador de documento, o convertir pensamientos hablados en notas y listas organizadas.",
-    "what_changed": "Google las había mostrado en Google I/O y las empezó a lanzar de forma general el 3 de septiembre de 2026 para usuarios de los planes pagos Google AI Plus, Pro y Ultra en iOS y Android; para cuentas de Google Workspace todavía figuran como 'próximamente'.",
-    "fixy_use": "Un gerente o una persona de operaciones podría dictar por voz mientras camina el depósito o está en la calle, y pedirle a Gmail que busque un dato puntual en un mail viejo, o a Docs que arme un primer borrador de un informe o de un procedimiento a partir de una idea hablada, ahorrando tiempo de escritura entre tareas operativas.",
-    "verdict": "seguir",
-    "verdict_reason": "Todavía no llega a cuentas de Workspace business, que es probablemente lo que usa el equipo, así que conviene esperar esa etapa antes de evaluarlo en serio.",
-    "categories": [
-      "Productividad",
-      "Gestión del tiempo",
-      "Organización",
-      "Management"
-    ],
-    "pricing_note": "freemium - incluido en los planes pagos Google AI Plus, Pro y Ultra; la llegada a Google Workspace para empresas todavía no tiene fecha confirmada.",
-    "source_url": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/",
-    "published_date": "2026-09-03",
-    "priority": "informativo",
-    "id": "ai-google-gmail-live-docs-live-y-keep-live",
-    "source_kind": "auto",
-    "last_updated": "2026-09-07",
-    "first_seen": "2026-09-07"
   }
 ]

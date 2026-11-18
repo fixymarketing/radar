@@ -385,5 +385,50 @@
     "source_kind": "auto",
     "last_updated": "2026-11-17",
     "first_seen": "2026-11-17"
+  },
+  {
+    "title": "Manzano se suma al Grupo De Narváez en la compra de Día y nace una red de casi 1.000 supermercados",
+    "what_happened": "José Luis Manzano se incorporó al grupo inversor que encabeza Francisco de Narváez, dueño de ChangoMás, que compró la operación argentina de la cadena española Día. Con la operación, GDN Argentina pasa a manejar una red de cerca de 1.000 locales en 22 provincias, entre hipermercados, supermercados y comercios de proximidad.",
+    "why_it_matters": "Es la mayor reconfiguración del retail alimentario del año: un solo grupo combina grandes superficies, el canal online de ChangoMás y una red de proximidad con franquicias en todo el país. Puede cambiar cómo se abastecen y cómo se reparten las entregas a domicilio en consumo masivo.",
+    "fixy_impact": null,
+    "category": "Retail",
+    "geo": "Argentina",
+    "source_name": "La Nación",
+    "source_url": "https://www.lanacion.com.ar/economia/negocios/manzano-se-suma-al-grupo-inversor-que-compro-dia-nid14112026/",
+    "published_date": "2026-11-14",
+    "priority": "informativo",
+    "tags": [
+      "supermercados",
+      "fusiones",
+      "ChangoMás",
+      "Día",
+      "proximidad"
+    ],
+    "id": "nw-cf860876b8",
+    "source_kind": "auto",
+    "last_updated": "2026-11-18",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "title": "A diez días del Black Friday, crece el debate sobre si la economía argentina está en estanflación",
+    "what_happened": "Infobae analizó los últimos datos de actividad y precios tras la inflación de octubre. El ministro Luis Caputo atribuyó la aceleración de precios a los cambios en el régimen de Zona Fría y a la quita de subsidios al gas. Consultoras privadas describen un escenario de estancamiento con rasgos recesivos fuera de los sectores que crecen.",
+    "why_it_matters": "Confirma que el Black Friday del 27/11 llega con consumo interno débil, en línea con el CyberMonday, que vendió más unidades pero facturó 20% menos en términos reales.",
+    "fixy_impact": "Conviene planificar la capacidad para el Black Friday con un escenario de más pedidos de menor ticket, como en el CyberMonday, y cuidar el costo por envío más que apostar a un salto de facturación.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/11/17/la-economia-argentina-atraviesa-una-estanflacion-que-muestran-los-ultimos-datos-y-cuales-son-las-causas/",
+    "published_date": "2026-11-17",
+    "priority": "informativo",
+    "tags": [
+      "consumo",
+      "inflación",
+      "Black Friday",
+      "macroeconomía"
+    ],
+    "id": "nw-612f0e3210",
+    "source_kind": "auto",
+    "last_updated": "2026-11-18",
+    "first_seen": "2026-11-18"
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "title": "Ir al Foro Mediterráneo de Ecommerce en Córdoba el 26/11 para captar tiendas del interior antes del Black Friday",
+    "context": "El Foro Mediterráneo de Ecommerce reúne el 26/11 en Córdoba a tiendas online y proveedores del ecosistema, un día antes del Black Friday. Con el consumo débil, las tiendas del interior buscan bajar el costo por envío y no perder ventas en el pico de fin de año.",
+    "action": "Confirmar esta semana quién de comercial viaja a Córdoba el 26/11, llevar una propuesta de fulfillment para Fiestas con costo por pedido cerrado y armar una lista previa de tiendas cordobesas para pedir reuniones en el foro.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.eventbrite.com.ar/e/foro-mediterraneo-de-ecommerce-2026-tickets-2003773484432",
+    "linked": [
+      "Foro Mediterráneo de Ecommerce 2026",
+      "Black Friday Argentina 2026",
+      "A diez días del Black Friday, crece el debate sobre si la economía argentina está en estanflación"
+    ],
+    "id": "op-d188263d",
+    "source_kind": "auto",
+    "last_updated": "2026-11-18",
+    "first_seen": "2026-11-18"
+  },
+  {
     "title": "Armar con Gemini Notebook una guía interactiva de onboarding para tiendas que entran antes de Black Friday",
     "context": "Google habilitó el 16/11 en Gemini Notebook la generación de sitios interactivos (explicadores, tableros, rastreadores de tareas) a partir de los documentos cargados en un cuaderno, también para cuentas de Workspace. A diez días del Black Friday (27/11), cada tienda que se suma al fulfillment necesita conocer horarios de corte, ingreso de mercadería y política de reclamos.",
     "action": "Cargar en un cuaderno el manual de ingreso de mercadería, los horarios de corte y la política de reclamos de Fixy, generar la guía interactiva y probarla esta semana con una o dos tiendas que estén ingresando stock para la temporada alta.",
@@ -103,21 +120,6 @@
       "Ezeiza prepara una terminal única de courier de 15.000 m² ante el boom de compras en Shein, Temu y Amazon"
     ],
     "id": "op-d9b329f9",
-    "source_kind": "auto",
-    "last_updated": "2026-11-12",
-    "first_seen": "2026-11-12"
-  },
-  {
-    "title": "Probar un tablero de stock y envíos por cliente publicado con Gemini Sheets Canvas antes de Black Friday",
-    "context": "Google habilitó publicar un canvas de Sheets en un link propio de solo lectura, sin compartir la planilla de origen. Con el pico de Black Friday (27/11) en camino, los clientes van a pedir más visibilidad sobre su stock y sus despachos.",
-    "action": "Armar un piloto con uno o dos clientes: un canvas con stock disponible, pedidos del día y estado de envíos, publicado como link restringido al dominio del cliente, y medir si baja la cantidad de consultas a atención durante la temporada alta.",
-    "type": "producto",
-    "priority": "informativo",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/11/publish-sheets-canvas-as-standalone-link.html",
-    "linked": [
-      "Gemini Sheets Canvas: hojas de cálculo a apps interactivas"
-    ],
-    "id": "op-75b23088",
     "source_kind": "auto",
     "last_updated": "2026-11-12",
     "first_seen": "2026-11-12"

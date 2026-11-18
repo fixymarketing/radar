@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-17T12:10:36.315Z",
-  "last_updated_ar": "17/11/2026, 09:10",
-  "date": "2026-11-17",
+  "generated_at": "2026-11-18T12:13:02.416Z",
+  "last_updated_ar": "18/11/2026, 09:13",
+  "date": "2026-11-18",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "A diez días del Black Friday, el consumo masivo sigue migrando al canal online, Uruguay suma un hub de eCommerce regional en Carrasco y Google habilita guías interactivas en Gemini Notebook que sirven para el onboarding de tiendas antes del pico.",
+  "summary_line": "A nueve días del Black Friday, los datos confirman un consumo débil que empuja a pedidos de menor ticket, el retail alimentario se reconfigura con Día y ChangoMás bajo un mismo grupo y OpenAI suma ChatGPT for Sales para agilizar el trabajo comercial.",
   "counters": {
-    "news_today": 3,
-    "news_total": 17,
-    "events_upcoming": 20,
-    "events_ar_upcoming": 12,
+    "news_today": 2,
+    "news_total": 19,
+    "events_upcoming": 19,
+    "events_ar_upcoming": 11,
     "events_intl_upcoming": 8,
-    "events_later": 41,
+    "events_later": 42,
     "opportunities_open": 8,
     "opportunities_today": 1,
-    "ai_today": 1,
-    "ai_to_try": 41,
+    "ai_today": 2,
+    "ai_to_try": 40,
     "content_ideas": 8,
-    "added_news": 3,
+    "added_news": 2,
     "updated_news": 0,
-    "added_events": 2,
-    "updated_events": 1,
-    "added_ai": 1,
-    "archived": 12,
+    "added_events": 1,
+    "updated_events": 3,
+    "added_ai": 2,
+    "archived": 7,
     "discarded_quality": 0
   },
   "next_event": {
@@ -38,35 +38,35 @@
       "kind": "event",
       "title": "Black Friday Argentina 2026",
       "priority": "alta",
-      "one_liner": "Faltan diez días para el segundo pico de demanda del trimestre: es la última semana para cerrar capacidad, stock de clientes y turnos."
+      "one_liner": "Faltan nueve días para el segundo pico de demanda del trimestre: es el momento de cerrar capacidad, cortes y comunicación con los clientes."
     },
     {
-      "id": "nw-86e74cd6c6",
+      "id": "nw-612f0e3210",
       "kind": "news",
-      "title": "Las compras de alimentos online siguen creciendo mientras el canal tradicional cae: las apps empujan con promociones y 'markets'",
+      "title": "A diez días del Black Friday, crece el debate sobre si la economía argentina está en estanflación",
       "priority": "relevante",
-      "one_liner": "El consumo masivo se sigue corriendo al canal digital aun con consumo general débil, con más exigencia de velocidad y surtido."
+      "one_liner": "Refuerza que el Black Friday llega con consumo débil: conviene planificar más pedidos de ticket chico y cuidar el costo por envío."
     },
     {
-      "id": "ai-google-gemini-notebook-sitios-interactivos-a-partir-de-las-f",
-      "kind": "ai",
-      "title": "Gemini Notebook: sitios interactivos a partir de las fuentes",
-      "priority": "relevante",
-      "one_liner": "Permite convertir manuales y planillas en guías o tableros interactivos sin programar, útil para el onboarding de tiendas antes del pico."
-    },
-    {
-      "id": "ev-pais-pymes-que-se-somos-summit-viene-2026",
+      "id": "ev-ecommerce-foro-mediterraneo-2026",
       "kind": "event",
-      "title": "Somos Pymes Summit – El País que se Viene",
+      "title": "Foro Mediterráneo de Ecommerce 2026",
       "priority": "relevante",
-      "one_liner": "Es mañana en Buenos Aires y reúne pymes y emprendedores que venden online y necesitan resolver logística."
+      "one_liner": "El 26/11 en Córdoba concentra tiendas online del interior que pueden sumarse como clientes antes de Fiestas."
     },
     {
-      "id": "nw-c2fd225f19",
+      "id": "ai-openai-chatgpt-for-sales-plugin-de-ventas-y-mas-de-30-plugin",
+      "kind": "ai",
+      "title": "ChatGPT for Sales (plugin de ventas y más de 30 plugins de socios)",
+      "priority": "relevante",
+      "one_liner": "Puede ahorrarle tiempo a comercial en la preparación de reuniones y el seguimiento de propuestas durante la temporada alta."
+    },
+    {
+      "id": "nw-cf860876b8",
       "kind": "news",
-      "title": "Uruguay inauguró MOVA, un hub logístico de US$14 millones en el aeropuerto franco de Carrasco orientado al eCommerce regional",
+      "title": "Manzano se suma al Grupo De Narváez en la compra de Día y nace una red de casi 1.000 supermercados",
       "priority": "informativo",
-      "one_liner": "Suma otra pieza al cross-border del Cono Sur a pocos kilómetros de Buenos Aires, en paralelo a la nueva terminal courier de Ezeiza."
+      "one_liner": "La mayor reconfiguración del retail alimentario del año puede cambiar cómo se abastece y entrega el consumo masivo."
     }
   ]
 }

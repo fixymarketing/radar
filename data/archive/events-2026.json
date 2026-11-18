@@ -4612,5 +4612,87 @@
     "source_kind": "auto",
     "last_updated": "2026-11-12",
     "first_seen": "2026-11-12"
+  },
+  {
+    "scope": "intl",
+    "name": "Perú Cargo Week 2026",
+    "organizer": "Perú Ferias e Inversiones S.A.C.",
+    "date_start": "2026-11-12",
+    "date_end": "2026-11-14",
+    "date_confirmed": true,
+    "date_note": "Fechas coinciden en varios listados de ferias (12 al 14/11, jueves a sábado), pero no se accedió al sitio oficial; verificar. La edición 2025 fue del 29/10 al 1/11.",
+    "city": "Lima",
+    "province": null,
+    "country": "Perú",
+    "venue": "Centro de Convenciones Jockey Plaza",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Logística",
+    "url": "https://www.peru-cargo-week.com",
+    "source_url": "https://www.showsbee.com/fairs/52675-Peru-Cargo-Week-2026.html",
+    "description": "Feria internacional de transporte de carga, logística y comercio exterior en Lima.",
+    "fixy_relevance": "Contactos de comercio exterior y logística en Perú; posible expansión regional.",
+    "justification_type": "expansión regional",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-cargo-peru-week-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-11-01",
+    "first_seen": "2026-08-20",
+    "change_log": [
+      {
+        "date": "2026-09-14",
+        "fields": [
+          "organizer",
+          "city",
+          "venue",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "justification_type",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "fields": [
+          "organizer",
+          "date_note",
+          "city",
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "Patagonia Marketing Summit 2026",
+    "organizer": "Patagonia Marketing Summit (dir. Eugenia Mindurry)",
+    "date_start": "2026-11-13",
+    "date_end": "2026-11-14",
+    "date_confirmed": true,
+    "date_note": "Viernes 13 y sábado 14 de noviembre de 2026; declarado de interés municipal por el Concejo Deliberante de Bariloche. Hoy se desarrolla la segunda jornada.",
+    "city": "San Carlos de Bariloche",
+    "province": "Río Negro",
+    "country": "Argentina",
+    "venue": "Hotel Sheraton Bariloche",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Marketing",
+    "url": "https://www.rionegro.com.ar/sociedad/desde-bariloche-se-busca-generar-una-red-para-potenciar-las-empresas-de-la-patagonia-4613244/",
+    "source_url": "https://concejobariloche.gov.ar/files/2023-2027/Declaraciones/D-26-3213.pdf",
+    "description": "Encuentro regional de marketing, comunicación y negocios digitales con 22 expositores y más de 500 inscriptos, según la organización. Busca conectar a agencias y profesionales de la Patagonia con empresas de la región.",
+    "fixy_relevance": "Sirve para relevar marcas y agencias patagónicas que venden online y necesitan resolver envíos al sur, una zona cara y compleja para la última milla. Si no hay presencia, conviene seguir la cobertura y los contactos que salgan.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-marketing-patagonia-summit-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-11-14",
+    "first_seen": "2026-11-14"
   }
 ]

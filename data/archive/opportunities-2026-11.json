@@ -154,5 +154,20 @@
     "source_kind": "auto",
     "last_updated": "2026-11-11",
     "first_seen": "2026-11-11"
+  },
+  {
+    "title": "Probar un tablero de stock y envíos por cliente publicado con Gemini Sheets Canvas antes de Black Friday",
+    "context": "Google habilitó publicar un canvas de Sheets en un link propio de solo lectura, sin compartir la planilla de origen. Con el pico de Black Friday (27/11) en camino, los clientes van a pedir más visibilidad sobre su stock y sus despachos.",
+    "action": "Armar un piloto con uno o dos clientes: un canvas con stock disponible, pedidos del día y estado de envíos, publicado como link restringido al dominio del cliente, y medir si baja la cantidad de consultas a atención durante la temporada alta.",
+    "type": "producto",
+    "priority": "informativo",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/11/publish-sheets-canvas-as-standalone-link.html",
+    "linked": [
+      "Gemini Sheets Canvas: hojas de cálculo a apps interactivas"
+    ],
+    "id": "op-75b23088",
+    "source_kind": "auto",
+    "last_updated": "2026-11-12",
+    "first_seen": "2026-11-12"
   }
 ]
