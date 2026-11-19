@@ -199,6 +199,29 @@
     "first_seen": "2026-09-01"
   },
   {
+    "name": "Microsoft Copilot unificado (Home, Code, Autopilot)",
+    "vendor": "Microsoft",
+    "what_it_is": "La app de Copilot que junta en un mismo lugar el chat, el trabajo en documentos de Office y agentes que ejecutan tareas por su cuenta.",
+    "what_changed": "En Ignite 2026 (17 de noviembre) Microsoft pasó a disponibilidad general Home (chat y Cowork juntos) y Office in Copilot, que permite crear y editar archivos de Word, Excel y PowerPoint desde la conversación. Copilot Code llega a disponibilidad general «en las próximas semanas» y Autopilot y Workspaces siguen limitados al programa Frontier.",
+    "fixy_use": "Si Fixy trabaja con Microsoft 365, comercial puede pedirle a Copilot una propuesta en Word o una presentación en PowerPoint armada con datos de un Excel de tarifas, sin salir del chat. Operaciones puede pedir que arme un Excel de seguimiento de incidencias de entregas a partir de un mail o una exportación. Si Fixy está en Google Workspace, no cambia nada por ahora.",
+    "verdict": "seguir",
+    "verdict_reason": "Lo ya disponible sirve solo si Fixy usa Microsoft 365, y lo más agéntico (Autopilot, Code) todavía no está abierto a todos.",
+    "categories": [
+      "Productividad",
+      "Contenido",
+      "Comercial",
+      "Automatización"
+    ],
+    "pricing_note": "pago — Office in Copilot se incluye en la licencia de Copilot existente, sin cargos por uso para crear archivos; el anuncio no detalla precios de lista",
+    "source_url": "https://microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work",
+    "published_date": "2026-11-17",
+    "priority": "relevante",
+    "id": "ai-microsoft-microsoft-copilot-unificado-home-code-autopilot",
+    "source_kind": "auto",
+    "last_updated": "2026-11-19",
+    "first_seen": "2026-09-26"
+  },
+  {
     "name": "Gemini Notebook: sitios interactivos a partir de las fuentes",
     "vendor": "Google",
     "what_it_is": "Gemini Notebook (el ex NotebookLM) ahora arma una página web interactiva con los documentos que cargaste en un cuaderno: tableros, explicadores visuales o rastreadores de tareas que se abren en otra pestaña y se pueden compartir.",
@@ -535,29 +558,6 @@
     "source_kind": "auto",
     "last_updated": "2026-10-03",
     "first_seen": "2026-10-03"
-  },
-  {
-    "name": "Microsoft Copilot unificado (Home, Code, Autopilot)",
-    "vendor": "Microsoft",
-    "what_it_is": "Microsoft rediseñó Copilot como una sola app con tres partes: Home (chat y retomar tareas), Code (crear apps y paneles internos con lenguaje natural, sin programar) y Autopilot (un agente que sigue trabajando en segundo plano aunque el usuario se desconecte).",
-    "what_changed": "Se presentó el 25 de septiembre de 2026; Home y Code empiezan a desplegarse en el programa Frontier en las próximas semanas y Autopilot entra en vista previa privada a fin de mes.",
-    "fixy_use": "Code le permitiría a Fixy armar un panel interno (por ejemplo, seguimiento de pedidos en tránsito o reclamos abiertos) describiéndolo en lenguaje natural, sin depender de un programador. Autopilot podría quedar monitoreando entregas demoradas mientras el equipo sigue con otra tarea.",
-    "verdict": "seguir",
-    "verdict_reason": "Todavía está en despliegue gradual y vista previa privada, conviene esperar acceso general antes de invertir tiempo.",
-    "categories": [
-      "Organización",
-      "Productividad",
-      "Automatización",
-      "Management"
-    ],
-    "pricing_note": "no confirmado - se apoya en licencias de Microsoft 365 Copilot existentes; Code y Autopilot aún en preview",
-    "source_url": "https://news.microsoft.com/source/emea/features/microsoft-presenta-el-nuevo-copilot-con-home-code-y-autopilot/?lang=es",
-    "published_date": "2026-09-25",
-    "priority": "relevante",
-    "id": "ai-microsoft-microsoft-copilot-unificado-home-code-autopilot",
-    "source_kind": "auto",
-    "last_updated": "2026-09-26",
-    "first_seen": "2026-09-26"
   },
   {
     "name": "Gemini 3.8 Flash TTS y Flash-Lite TTS",
@@ -1200,6 +1200,28 @@
     "first_seen": "2026-10-17"
   },
   {
+    "name": "Nod (agente personal de n8n Labs)",
+    "vendor": "n8n",
+    "what_it_is": "Una app gratuita y de código abierto para Mac y Windows que funciona como asistente personal: usa su propio navegador aislado en la computadora para hacer tareas en sitios web y aplicaciones, y pide permiso cuando una acción no está clara.",
+    "what_changed": "n8n Labs la lanzó el 10 de noviembre como versión preliminar de investigación (research preview). Es una app aparte de la plataforma de automatización n8n. La versión alojada en la nube y el funcionamiento permanente todavía están en la hoja de ruta.",
+    "fixy_use": "Puede encargarse de trámites web repetitivos que no tienen API, como entrar a portales de transportistas o marketplaces para bajar reportes, consultar estados de envíos o completar formularios. Sirve para probar con un caso acotado en una sola computadora antes de invertir en una automatización formal con n8n o Zapier.",
+    "verdict": "seguir",
+    "verdict_reason": "La idea es útil para tareas en portales sin integración, pero es una versión preliminar y no conviene darle credenciales sensibles todavía.",
+    "categories": [
+      "Automatización",
+      "Operaciones",
+      "Productividad"
+    ],
+    "pricing_note": "gratis — código abierto (Apache 2.0); se paga el uso del modelo de IA elegido o se puede usar un modelo local",
+    "source_url": "https://blog.n8n.io/meet-nod",
+    "published_date": "2026-11-10",
+    "priority": "informativo",
+    "id": "ai-n8n-nod-agente-personal-de-n8n-labs",
+    "source_kind": "auto",
+    "last_updated": "2026-11-19",
+    "first_seen": "2026-11-19"
+  },
+  {
     "name": "Claude Fable 5.2 y Mythos 5.2",
     "vendor": "Anthropic",
     "what_it_is": "Nueva versión de la línea de modelos más potente de Anthropic (sucede a Fable 5.1 y Mythos 5.1): Fable está disponible para todos los usuarios y Mythos queda reservado para organizaciones verificadas de ciberseguridad y ciencias de la vida.",
@@ -1782,27 +1804,6 @@
     "published_date": "2026-09-05",
     "priority": "informativo",
     "id": "ai-meta-whatsapp-whatsapp-agentes-de-ia-de-terceros-como-contac",
-    "source_kind": "auto",
-    "last_updated": "2026-09-06",
-    "first_seen": "2026-09-06"
-  },
-  {
-    "name": "ChatGPT: plugin de Zendesk (beta)",
-    "vendor": "OpenAI",
-    "what_it_is": "Un plugin que conecta ChatGPT y Codex con Zendesk para revisar tickets de soporte y el historial de un cliente, buscar en la base de conocimiento y redactar respuestas sin salir del chat.",
-    "what_changed": "Se sumó al directorio de plugins junto con el lanzamiento de GPT-6 Astra, a comienzos de septiembre de 2026, todavía en beta.",
-    "fixy_use": "Si atención al cliente de Fixy usa o llega a usar Zendesk, el equipo podría pedirle a ChatGPT que resuma el historial de un reclamo de envío y redacte la respuesta, en vez de revisar ticket por ticket a mano.",
-    "verdict": "seguir",
-    "verdict_reason": "Está en beta y su utilidad depende de si Fixy efectivamente usa Zendesk como mesa de ayuda.",
-    "categories": [
-      "Productividad",
-      "Organización"
-    ],
-    "pricing_note": "No confirmado: en beta, dentro de los planes de ChatGPT que dan acceso a plugins.",
-    "source_url": "https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
-    "published_date": "2026-09-04",
-    "priority": "informativo",
-    "id": "ai-openai-chatgpt-plugin-de-zendesk-beta",
     "source_kind": "auto",
     "last_updated": "2026-09-06",
     "first_seen": "2026-09-06"

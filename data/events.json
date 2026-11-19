@@ -887,47 +887,6 @@
     ]
   },
   {
-    "scope": "ar",
-    "name": "Santex Week 2026",
-    "organizer": "Santex",
-    "date_start": "2026-11-13",
-    "date_end": "2026-11-15",
-    "date_confirmed": false,
-    "date_note": "Las fuentes citan 13 al 15 de noviembre con el 13 como miércoles, lo que coincide con 2024; en 2026 el 13/11 es viernes. No hay anuncio verificable de la edición 2026: no se confirma fecha.",
-    "city": "Córdoba",
-    "province": "Córdoba",
-    "country": "Argentina",
-    "venue": "Hotel Quinto Centenario",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Tecnología",
-    "url": "https://puntoapunto.com.ar/para-agendar-se-viene-la-santex-week-el-evento-internacional-de-tecnologia-en-cordoba/",
-    "source_url": "https://www.cadena3.com/noticia/informados-al-regreso/cordoba-recibe-el-santex-week-un-evento-internacional-de-tecnologia-y-negocios_400701",
-    "description": "Evento de tecnología y negocios organizado por Santex en Córdoba. La cobertura encontrada describe la edición con miércoles 13, jueves 14 y viernes 15 de noviembre, combinación que corresponde a 2024.",
-    "fixy_relevance": "Networking tecnológico en el interior; sirve para contactos con proveedores de software y empresas cordobesas.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-santex-week-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-10-03",
-    "first_seen": "2026-08-23",
-    "change_log": [
-      {
-        "date": "2026-10-03",
-        "fields": [
-          "organizer",
-          "date_note",
-          "format",
-          "category",
-          "url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
     "scope": "intl",
     "name": "The Logistics World Summit & Expo 2027",
     "organizer": "T21 / The Logistics World",
@@ -1616,47 +1575,6 @@
     "source_kind": "auto",
     "last_updated": "2026-09-21",
     "first_seen": "2026-09-21"
-  },
-  {
-    "scope": "ar",
-    "name": "INNOVA SALTA 2026",
-    "organizer": "Gobierno de la Provincia de Salta",
-    "date_start": "2026-11-15",
-    "date_end": "2026-11-15",
-    "date_confirmed": false,
-    "date_note": "La fuente citaba 'jueves 15 de noviembre', pero el 15/11/2026 es domingo (el 15/11 fue jueves en 2018). Fecha 2026 no verificada; no se confirma.",
-    "city": "Salta",
-    "province": "Salta",
-    "country": "Argentina",
-    "venue": "Centro de Convenciones de Limache",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Tecnología",
-    "url": "https://www.salta.gob.ar/prensa/noticias/salta-se-prepara-para-ser-sede-de-un-importante-evento-sobre-tecnologia-98606",
-    "source_url": "https://www.salta.gob.ar/prensa/noticias/salta-se-prepara-para-ser-sede-de-un-importante-evento-sobre-tecnologia-98606",
-    "description": "Showroom de innovación y tecnología del Gobierno de Salta, con ediciones anuales previas. No se halló anuncio verificable de la edición 2026.",
-    "fixy_relevance": "Evento del NOA para conocer el ecosistema tecnológico y emprendedor salteño.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-innova-salta-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-10-03",
-    "first_seen": "2026-09-22",
-    "change_log": [
-      {
-        "date": "2026-10-03",
-        "fields": [
-          "organizer",
-          "date_note",
-          "category",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
   },
   {
     "scope": "intl",
@@ -2611,5 +2529,32 @@
     "source_kind": "auto",
     "last_updated": "2026-11-18",
     "first_seen": "2026-11-18"
+  },
+  {
+    "scope": "ar",
+    "name": "Foro Argentino de Inversiones 2026",
+    "organizer": "ARCAP (Asociación Argentina de Capital Privado, Emprendedor y Semilla)",
+    "date_start": "2026-12-01",
+    "date_end": "2026-12-01",
+    "date_confirmed": true,
+    "date_note": "Martes 1 de diciembre de 2026 según el save the date oficial en Luma y el calendario de Uruguay XXI. La venta de entradas todavía no estaba abierta y no hay agenda publicada.",
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "country": "Argentina",
+    "venue": "Palacio Libertad",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Emprendimiento",
+    "url": "https://luma.com/ye685een",
+    "source_url": "https://www.uruguayxxi.gub.uy/en/events/article/argentine-investment-forum-2026/",
+    "description": "Encuentro anual de venture capital, private equity e inversión estratégica que organiza ARCAP. La edición 2025 reunió a más de 1.300 inversores y empresarios en la misma sede, con foco en energía, agroalimentos y tecnología.",
+    "fixy_relevance": "Sirve para leer hacia dónde va el capital de riesgo en Argentina y detectar qué startups de eCommerce, logística o tecnología aplicada se financian, que pueden ser clientes, socios o competidores. Es de interés para management, no para operación.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-argentino-foro-inversiones-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-11-19",
+    "first_seen": "2026-11-19"
   }
 ]

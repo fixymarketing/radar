@@ -1,28 +1,5 @@
 [
   {
-    "title": "Mercado Libre inauguró en Escobar su mayor centro logístico del país, con inversión de US$115 millones",
-    "what_happened": "Mercado Libre abrió en Escobar su centro de almacenamiento más grande de Argentina, con más de 100.000 m² y capacidad para dos millones de productos. Según la compañía, generará más de 1.300 empleos directos y se desarrolló junto a Plaza Logística. La inversión informada es de US$115 millones.",
-    "why_it_matters": "La apertura llega días antes del CyberMonday y de las fiestas, y refuerza la capacidad de fulfillment del principal marketplace del país, que además compite con los operadores logísticos independientes.",
-    "fixy_impact": "Mercado Libre amplía su propia capacidad de fulfillment justo antes del pico de ventas. Fixy puede reforzar ante vendedores multicanal su propuesta de fulfillment y envíos propios, con flexibilidad y atención cercana.",
-    "category": "Fulfillment",
-    "geo": "Argentina",
-    "source_name": "DolarHoy",
-    "source_url": "https://dolarhoy.com/empresas/mercado-libre-abre-su-mayor-centro-logistico-en-argentina-con-una-inversion-de-usd-115-millones-202610281163",
-    "published_date": "2026-10-28",
-    "priority": "alta",
-    "tags": [
-      "Mercado Libre",
-      "fulfillment",
-      "Escobar",
-      "CyberMonday",
-      "infraestructura"
-    ],
-    "id": "nw-66c1f6c085",
-    "source_kind": "auto",
-    "last_updated": "2026-10-29",
-    "first_seen": "2026-10-29"
-  },
-  {
     "title": "CyberMonday 2026 arranca el 2/11 con casi 800 empresas y 15.000 ofertas",
     "what_happened": "La CACE confirmó que el CyberMonday se realiza del 2 al 4 de noviembre con casi 800 empresas, el 47% pymes, y unas 15.000 ofertas en diez categorías. Gustavo Sambucetti, director institucional de la CACE, sostuvo que en tres días se concentra el volumen de operaciones de unas tres semanas de ventas habituales.",
     "why_it_matters": "Es el primer gran pico de demanda del eCommerce argentino antes de las fiestas y condiciona la capacidad de las operaciones logísticas y de entrega.",
@@ -430,5 +407,74 @@
     "source_kind": "auto",
     "last_updated": "2026-11-18",
     "first_seen": "2026-11-18"
+  },
+  {
+    "title": "Mercado Libre suma entregas de supermercado en hasta 45 minutos con Carrefour en el AMBA",
+    "what_happened": "Mercado Libre cerró un acuerdo con Carrefour para ofrecer entregas de supermercado en hasta 45 minutos, ya disponibles en algunas zonas de la Ciudad de Buenos Aires y el Gran Buenos Aires. Mercado Libre se encarga de preparar los pedidos dentro de las tiendas de Carrefour y de llevarlos al domicilio; el usuario elige la sucursal más cercana desde la categoría Supermercado. Es una ampliación de la alianza lanzada en diciembre de 2025, que hasta ahora entregaba en franjas de hasta cuatro horas, y el plan es sumar más sucursales del AMBA de forma progresiva.",
+    "why_it_matters": "El quick commerce deja de ser terreno exclusivo de las apps de delivery: el marketplace más grande del país ahora hace picking en tienda y última milla en minutos para un supermercado, y sube la vara de lo que el consumidor espera en velocidad de entrega.",
+    "fixy_impact": "Refuerza que las entregas en el día y en minutos se vuelven el estándar de referencia en el AMBA; conviene tener claro el argumento de Fixy frente a marcas que comparen plazos con los de Mercado Libre y evaluar si hay demanda de clientes con productos de consumo frecuente para entregas same day.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "La Nación",
+    "source_url": "https://www.lanacion.com.ar/economia/negocios/mercado-libre-cierra-un-acuerdo-con-carrefour-y-suma-entregas-de-supermercado-en-45-minutos-nid18112026/",
+    "published_date": "2026-11-18",
+    "priority": "alta",
+    "tags": [
+      "Mercado Libre",
+      "Carrefour",
+      "quick commerce",
+      "última milla",
+      "AMBA"
+    ],
+    "id": "nw-92f312b45c",
+    "source_kind": "auto",
+    "last_updated": "2026-11-19",
+    "first_seen": "2026-11-19"
+  },
+  {
+    "title": "Transporte y almacenamiento perdió 2.602 empresas empleadoras en un año, la mayor caída porcentual entre los sectores",
+    "what_happened": "Según datos de la Superintendencia de Riesgos del Trabajo procesados por Politikon Chaco, en agosto de 2026 había 14.241 empleadores privados menos que un año antes (-2,9% interanual) y 32.163 menos que en noviembre de 2023. El comercio lideró en términos absolutos, con 5.987 empleadores menos (-4,1%), y transporte y almacenamiento fue segundo, con 2.602 firmas menos (-7,5%), la mayor caída porcentual entre los sectores destacados. Buenos Aires (-4.651), Córdoba (-2.084) y CABA (-1.436) fueron los distritos con más bajas.",
+    "why_it_matters": "La contracción golpea de lleno a la cadena del eCommerce: menos comercios que venden y menos transportistas y depósitos que los abastecen, con un proceso de concentración en los operadores con más escala.",
+    "fixy_impact": "Hay que monitorear la salud de transportistas y fleteros subcontratados, porque una baja puede afectar la capacidad en el pico de fin de año; también puede abrir la puerta a captar clientes de operadores logísticos que cierran.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/11/16/el-cierre-de-empresas-no-da-tregua-las-provincias-mas-afectadas-y-los-sectores-que-lideran-las-perdidas/",
+    "published_date": "2026-11-16",
+    "priority": "relevante",
+    "tags": [
+      "empresas",
+      "transporte",
+      "almacenamiento",
+      "comercio",
+      "SRT"
+    ],
+    "id": "nw-bf6d811f7c",
+    "source_kind": "auto",
+    "last_updated": "2026-11-19",
+    "first_seen": "2026-11-19"
+  },
+  {
+    "title": "Rige el control previo de fusiones y adquisiciones: las operaciones grandes necesitan aprobación antes de cerrarse",
+    "what_happened": "Desde el 17 de noviembre de 2026, las concentraciones económicas que superen los umbrales de facturación de la Ley 27.442 necesitan la autorización de la Autoridad Nacional de la Competencia antes de cerrarse, en lugar de notificarse después. En la previa hubo una ola de operaciones apuradas para quedar bajo el régimen anterior, como la venta de Supermercados Día, la de los 107 locales de Burger King (todavía con autorizaciones pendientes) y la compra de la marca Tía Maruca por Molinos Río de la Plata.",
+    "why_it_matters": "Las compras y fusiones grandes en retail, consumo masivo y logística van a tardar más y tener más costos regulatorios, lo que puede frenar o rediseñar la consolidación que viene mostrando el sector.",
+    "fixy_impact": null,
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/11/16/dia-burger-king-tia-maruca-ola-de-fusiones-de-ultimo-momento-antes-de-que-entre-en-vigor-un-cambio-regulatorio-en-materia-de-competencia/",
+    "published_date": "2026-11-16",
+    "priority": "informativo",
+    "tags": [
+      "defensa de la competencia",
+      "fusiones",
+      "M&A",
+      "retail",
+      "regulación"
+    ],
+    "id": "nw-e272d7b48f",
+    "source_kind": "auto",
+    "last_updated": "2026-11-19",
+    "first_seen": "2026-11-19"
   }
 ]

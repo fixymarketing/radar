@@ -1,5 +1,37 @@
 [
   {
+    "title": "Confirmar la capacidad de los transportistas tercerizados antes del pico de Black Friday",
+    "context": "Transporte y almacenamiento fue el sector que más empresas empleadoras perdió en el último año en términos porcentuales (2.602 menos). A ocho días del Black Friday del 27/11, cualquier transportista o flete chico que cierre o achique flota en plena temporada alta se traduce en demoras de entrega para los clientes de Fixy.",
+    "action": "Esta semana, llamar a cada transportista y flete tercerizado para confirmar por escrito vehículos y choferes disponibles del 27/11 al 31/12, y dejar identificado un reemplazo para cada zona crítica.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/11/16/el-cierre-de-empresas-no-da-tregua-las-provincias-mas-afectadas-y-los-sectores-que-lideran-las-perdidas/",
+    "linked": [
+      "Transporte y almacenamiento perdió 2.602 empresas empleadoras en un año, la mayor caída porcentual entre los sectores",
+      "Black Friday Argentina 2026"
+    ],
+    "id": "op-846be9ee",
+    "source_kind": "auto",
+    "last_updated": "2026-11-19",
+    "first_seen": "2026-11-19"
+  },
+  {
+    "title": "Ofrecer preparación en tienda y entrega en el día a supermercados y almacenes que quedan fuera del acuerdo de Mercado Libre con Carrefour",
+    "context": "Mercado Libre empezó a preparar pedidos en sucursales de Carrefour y a entregarlos en hasta 45 minutos en zonas del AMBA. Las cadenas regionales, autoservicios y dietéticas que venden online ahora compiten contra esa promesa de velocidad sin tener logística propia para igualarla.",
+    "action": "Armar una lista corta de cadenas y autoservicios del AMBA con tienda online y proponerles una prueba piloto de entrega en el día desde su propia sucursal, con tarifa por pedido.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.lanacion.com.ar/economia/negocios/mercado-libre-cierra-un-acuerdo-con-carrefour-y-suma-entregas-de-supermercado-en-45-minutos-nid18112026/",
+    "linked": [
+      "Mercado Libre suma entregas de supermercado en hasta 45 minutos con Carrefour en el AMBA",
+      "Las compras de alimentos online siguen creciendo mientras el canal tradicional cae: las apps empujan con promociones y 'markets'"
+    ],
+    "id": "op-ce37c049",
+    "source_kind": "auto",
+    "last_updated": "2026-11-19",
+    "first_seen": "2026-11-19"
+  },
+  {
     "title": "Ir al Foro Mediterráneo de Ecommerce en Córdoba el 26/11 para captar tiendas del interior antes del Black Friday",
     "context": "El Foro Mediterráneo de Ecommerce reúne el 26/11 en Córdoba a tiendas online y proveedores del ecosistema, un día antes del Black Friday. Con el consumo débil, las tiendas del interior buscan bajar el costo por envío y no perder ventas en el pico de fin de año.",
     "action": "Confirmar esta semana quién de comercial viaja a Córdoba el 26/11, llevar una propuesta de fulfillment para Fiestas con costo por pedido cerrado y armar una lista previa de tiendas cordobesas para pedir reuniones en el foro.",
@@ -92,36 +124,5 @@
     "source_kind": "auto",
     "last_updated": "2026-11-13",
     "first_seen": "2026-11-13"
-  },
-  {
-    "title": "Crear una skill de Gemini con respuestas estándar a reclamos de envío para el pico de fin de año",
-    "context": "Google lanzó las Gemini Skills en Workspace: se crean una vez, se comparten con el equipo y se invocan con \"@\" dentro de Gmail, Docs y Chat. Con la Black Week Mayorista y el Black Friday en puerta, atención al cliente va a recibir más consultas de \"dónde está mi pedido\" y demoras.",
-    "action": "Que atención al cliente arme una skill compartida con las respuestas aprobadas para demoras, direcciones erróneas y reprogramaciones, y la pruebe en Gmail antes del 27/11.",
-    "type": "producto",
-    "priority": "relevante",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/11/skills-in-workspace.html",
-    "linked": [
-      "Gemini Skills (reemplazan a los Gems)",
-      "Black Week Nacional Mayorista 2026"
-    ],
-    "id": "op-a44e5ad2",
-    "source_kind": "auto",
-    "last_updated": "2026-11-13",
-    "first_seen": "2026-11-13"
-  },
-  {
-    "title": "Diferenciar a las tiendas locales frente al cross-border con entrega rápida desde stock en Argentina",
-    "context": "Aeropuertos Argentina prepara en Ezeiza una terminal única de courier de 15.000 m² porque el volumen de compras en Shein, Temu y Amazon casi se triplicó en un año. Con el cross-border ganando infraestructura propia, las marcas locales necesitan competir por plazo y previsibilidad de entrega, no solo por precio.",
-    "action": "Armar una propuesta comercial para tiendas que compiten con productos importados: fulfillment con stock en Argentina, despacho en el día y entrega en 24-48 h, con un comparativo de plazos frente al courier internacional para usar en la venta.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.mdzol.com/sociedad/2026/11/11/boom-de-shein-y-temu-ezeiza-inaugura-una-nueva-terminal-para-recibir-las-compras-1994691.html",
-    "linked": [
-      "Ezeiza prepara una terminal única de courier de 15.000 m² ante el boom de compras en Shein, Temu y Amazon"
-    ],
-    "id": "op-d9b329f9",
-    "source_kind": "auto",
-    "last_updated": "2026-11-12",
-    "first_seen": "2026-11-12"
   }
 ]

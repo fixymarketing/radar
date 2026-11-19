@@ -1,20 +1,5 @@
 [
   {
-    "topic": "Qué dejó el Día de la Madre para la temporada alta de eCommerce",
-    "why_now": "CAME informó el 18/10 la quinta caída consecutiva de ventas pyme por el Día de la Madre, a dos semanas de CyberMonday.",
-    "fixy_angle": "Cómo planificar capacidad de fulfillment y última milla con un consumo selectivo: menos volumen por pedido, más foco en costo y cumplimiento.",
-    "formats": [
-      "LinkedIn",
-      "carrusel"
-    ],
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/economia/2026/10/18/dia-de-la-madre-las-ventas-cayeron-por-quinto-ano-consecutivo-pese-a-que-9-de-cada-10-comercios-ofrecieron-descuentos/",
-    "id": "ct-fb2ab81f",
-    "source_kind": "auto",
-    "last_updated": "2026-10-19",
-    "first_seen": "2026-10-19"
-  },
-  {
     "topic": "CyberMonday 2026: más unidades por pedido, menos órdenes y qué significa para la logística",
     "why_now": "CACE publicó el balance el 6/11 y el Black Friday es el 27/11: el tema está fresco y todavía no se saturó el ángulo operativo.",
     "fixy_angle": "Con menos órdenes pero más unidades y ticket más alto ($105.039), cada paquete vale más: mostrar cómo Fixy cuida la preparación, el embalaje y la entrega de pedidos de mayor valor.",
@@ -118,5 +103,21 @@
     "source_kind": "auto",
     "last_updated": "2026-11-17",
     "first_seen": "2026-11-17"
+  },
+  {
+    "topic": "Menos empresas de transporte y más concentración: qué mirar al elegir un operador logístico para 2027",
+    "why_now": "Los datos oficiales muestran que transporte y almacenamiento es el sector que más empresas perdió en un año, justo cuando las tiendas online definen con quién van a operar la temporada alta y el año próximo.",
+    "fixy_angle": "Fixy puede explicar, desde la operación diaria, qué señales indican que un operador tiene espalda para sostener el servicio (flota, depósito propio, continuidad en picos) sin caer en golpes bajos contra la competencia.",
+    "formats": [
+      "LinkedIn",
+      "carrusel",
+      "artículo"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/11/16/el-cierre-de-empresas-no-da-tregua-las-provincias-mas-afectadas-y-los-sectores-que-lideran-las-perdidas/",
+    "id": "ct-892aeff6",
+    "source_kind": "auto",
+    "last_updated": "2026-11-19",
+    "first_seen": "2026-11-19"
   }
 ]

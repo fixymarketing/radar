@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-18T12:13:02.416Z",
-  "last_updated_ar": "18/11/2026, 09:13",
-  "date": "2026-11-18",
+  "generated_at": "2026-11-19T12:11:55.891Z",
+  "last_updated_ar": "19/11/2026, 09:11",
+  "date": "2026-11-19",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "A nueve días del Black Friday, los datos confirman un consumo débil que empuja a pedidos de menor ticket, el retail alimentario se reconfigura con Día y ChangoMás bajo un mismo grupo y OpenAI suma ChatGPT for Sales para agilizar el trabajo comercial.",
+  "summary_line": "Mercado Libre lleva la entrega en 45 minutos al supermercado con Carrefour, el transporte es el sector que más empresas perdió en un año y, a ocho días del Black Friday, conviene asegurar la capacidad de entrega.",
   "counters": {
-    "news_today": 2,
-    "news_total": 19,
+    "news_today": 3,
+    "news_total": 21,
     "events_upcoming": 19,
     "events_ar_upcoming": 11,
     "events_intl_upcoming": 8,
     "events_later": 42,
     "opportunities_open": 8,
-    "opportunities_today": 1,
-    "ai_today": 2,
+    "opportunities_today": 2,
+    "ai_today": 1,
     "ai_to_try": 40,
     "content_ideas": 8,
-    "added_news": 2,
+    "added_news": 3,
     "updated_news": 0,
     "added_events": 1,
-    "updated_events": 3,
-    "added_ai": 2,
+    "updated_events": 0,
+    "added_ai": 1,
     "archived": 7,
     "discarded_quality": 0
   },
@@ -34,39 +34,39 @@
   },
   "highlights": [
     {
+      "id": "nw-92f312b45c",
+      "kind": "news",
+      "title": "Mercado Libre suma entregas de supermercado en hasta 45 minutos con Carrefour en el AMBA",
+      "priority": "alta",
+      "one_liner": "El marketplace más grande del país ya hace picking en tienda y última milla en minutos, y eso redefine la velocidad que esperan los compradores online."
+    },
+    {
       "id": "ev-argentina-black-friday-2026",
       "kind": "event",
       "title": "Black Friday Argentina 2026",
       "priority": "alta",
-      "one_liner": "Faltan nueve días para el segundo pico de demanda del trimestre: es el momento de cerrar capacidad, cortes y comunicación con los clientes."
+      "one_liner": "Falta poco más de una semana para el segundo pico de demanda del trimestre: es el momento de cerrar capacidad de depósito y de entrega."
     },
     {
-      "id": "nw-612f0e3210",
+      "id": "nw-bf6d811f7c",
       "kind": "news",
-      "title": "A diez días del Black Friday, crece el debate sobre si la economía argentina está en estanflación",
+      "title": "Transporte y almacenamiento perdió 2.602 empresas empleadoras en un año, la mayor caída porcentual entre los sectores",
       "priority": "relevante",
-      "one_liner": "Refuerza que el Black Friday llega con consumo débil: conviene planificar más pedidos de ticket chico y cuidar el costo por envío."
+      "one_liner": "La contracción del sector pone en riesgo a transportistas tercerizados justo antes de la temporada alta."
+    },
+    {
+      "id": "op-846be9ee",
+      "kind": "opportunity",
+      "title": "Confirmar la capacidad de los transportistas tercerizados antes del pico de Black Friday",
+      "priority": "relevante",
+      "one_liner": "Una llamada esta semana a cada flete evita quedarse sin vehículos en plena temporada alta."
     },
     {
       "id": "ev-ecommerce-foro-mediterraneo-2026",
       "kind": "event",
       "title": "Foro Mediterráneo de Ecommerce 2026",
       "priority": "relevante",
-      "one_liner": "El 26/11 en Córdoba concentra tiendas online del interior que pueden sumarse como clientes antes de Fiestas."
-    },
-    {
-      "id": "ai-openai-chatgpt-for-sales-plugin-de-ventas-y-mas-de-30-plugin",
-      "kind": "ai",
-      "title": "ChatGPT for Sales (plugin de ventas y más de 30 plugins de socios)",
-      "priority": "relevante",
-      "one_liner": "Puede ahorrarle tiempo a comercial en la preparación de reuniones y el seguimiento de propuestas durante la temporada alta."
-    },
-    {
-      "id": "nw-cf860876b8",
-      "kind": "news",
-      "title": "Manzano se suma al Grupo De Narváez en la compra de Día y nace una red de casi 1.000 supermercados",
-      "priority": "informativo",
-      "one_liner": "La mayor reconfiguración del retail alimentario del año puede cambiar cómo se abastece y entrega el consumo masivo."
+      "one_liner": "El 26/11 en Córdoba es la última oportunidad del año para captar tiendas del interior antes del Black Friday."
     }
   ]
 }

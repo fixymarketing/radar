@@ -181,5 +181,28 @@
     "source_kind": "auto",
     "last_updated": "2026-10-29",
     "first_seen": "2026-10-29"
+  },
+  {
+    "title": "Mercado Libre inauguró en Escobar su mayor centro logístico del país, con inversión de US$115 millones",
+    "what_happened": "Mercado Libre abrió en Escobar su centro de almacenamiento más grande de Argentina, con más de 100.000 m² y capacidad para dos millones de productos. Según la compañía, generará más de 1.300 empleos directos y se desarrolló junto a Plaza Logística. La inversión informada es de US$115 millones.",
+    "why_it_matters": "La apertura llega días antes del CyberMonday y de las fiestas, y refuerza la capacidad de fulfillment del principal marketplace del país, que además compite con los operadores logísticos independientes.",
+    "fixy_impact": "Mercado Libre amplía su propia capacidad de fulfillment justo antes del pico de ventas. Fixy puede reforzar ante vendedores multicanal su propuesta de fulfillment y envíos propios, con flexibilidad y atención cercana.",
+    "category": "Fulfillment",
+    "geo": "Argentina",
+    "source_name": "DolarHoy",
+    "source_url": "https://dolarhoy.com/empresas/mercado-libre-abre-su-mayor-centro-logistico-en-argentina-con-una-inversion-de-usd-115-millones-202610281163",
+    "published_date": "2026-10-28",
+    "priority": "alta",
+    "tags": [
+      "Mercado Libre",
+      "fulfillment",
+      "Escobar",
+      "CyberMonday",
+      "infraestructura"
+    ],
+    "id": "nw-66c1f6c085",
+    "source_kind": "auto",
+    "last_updated": "2026-10-29",
+    "first_seen": "2026-10-29"
   }
 ]
