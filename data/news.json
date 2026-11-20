@@ -1,27 +1,5 @@
 [
   {
-    "title": "CyberMonday 2026 arranca el 2/11 con casi 800 empresas y 15.000 ofertas",
-    "what_happened": "La CACE confirmó que el CyberMonday se realiza del 2 al 4 de noviembre con casi 800 empresas, el 47% pymes, y unas 15.000 ofertas en diez categorías. Gustavo Sambucetti, director institucional de la CACE, sostuvo que en tres días se concentra el volumen de operaciones de unas tres semanas de ventas habituales.",
-    "why_it_matters": "Es el primer gran pico de demanda del eCommerce argentino antes de las fiestas y condiciona la capacidad de las operaciones logísticas y de entrega.",
-    "fixy_impact": "Se espera un pico de pedidos a despachar en pocas horas: conviene reforzar picking, packing y coordinación con los operadores de última milla.",
-    "category": "eCommerce",
-    "geo": "Argentina",
-    "source_name": "El Argentino Diario",
-    "source_url": "https://elargentinodiario.com.ar/zona-destacada/29/10/2026/cybermonday-2026-fechas-empresas/",
-    "published_date": "2026-10-29",
-    "priority": "alta",
-    "tags": [
-      "CyberMonday",
-      "CACE",
-      "pymes",
-      "picos de demanda"
-    ],
-    "id": "nw-adadbdebe2",
-    "source_kind": "auto",
-    "last_updated": "2026-11-01",
-    "first_seen": "2026-11-01"
-  },
-  {
     "title": "CyberMonday arrancó con $25.000 millones en un día en Tiendanube y 2,1 millones de visitas al sitio oficial",
     "what_happened": "Según Tiendanube, las tiendas de su plataforma facturaron $25.000 millones en la primera jornada del CyberMonday (2/11), un 42,5% más que en 2025, aunque la conversión bajó de 1,28% a 1,10% pese al aumento de sesiones. La CACE informó más de 2,1 millones de visitas acumuladas en el sitio oficial. Todavía no hay balance consolidado de la CACE.",
     "why_it_matters": "El tráfico crece más que la conversión: hay más curiosidad que compra, y con inflación del 33,4% interanual el crecimiento real es bastante menor que el nominal. Las cifras son preliminares y dependen del deflactor.",
@@ -114,26 +92,27 @@
   },
   {
     "title": "Ezeiza prepara una terminal única de courier de 15.000 m² ante el boom de compras en Shein, Temu y Amazon",
-    "what_happened": "Aeropuertos Argentina prevé inaugurar esta semana en Ezeiza la Terminal Única de Courier, un espacio de 15.000 metros cuadrados para centralizar el procesamiento de los envíos internacionales. El aeropuerto recibe hoy unas 2.500 toneladas mensuales de compras por courier, casi el triple que hace un año. Según el INDEC, las importaciones por courier sumaron unos US$960 millones entre enero y septiembre de 2026, un 59,5% más que en el mismo período de 2025.",
-    "why_it_matters": "El cross-border de plataformas como Shein, Temu y Amazon gana escala con infraestructura propia y entregas más rápidas, lo que aumenta la presión competitiva sobre las marcas y tiendas locales en precio y en plazos de entrega.",
-    "fixy_impact": "Más velocidad en el ingreso de paquetes del exterior sube la vara de plazos que esperan los compradores; conviene reforzar en la comunicación comercial la ventaja del stock local con entrega en el día o al día siguiente.",
+    "what_happened": "Aeropuertos Argentina Cargas inauguró el jueves 19 de noviembre la Terminal Única de Courier (TUC) de Ezeiza, con una inversión de unos US$21 millones. El edificio tiene 10.000 m² cubiertos en un predio de 20.000 m², 44 oficinas para operadores courier de gran volumen y un espacio de coworking para empresas con demanda estacional. La obra forma parte de un plan de unos US$100 millones que Aeropuertos Argentina desarrolla con el ORSNA para Ezeiza.",
+    "why_it_matters": "Concentrar la recepción, el procesamiento y el despacho del courier en un solo edificio apunta a destrabar el cuello de botella que generó el boom de compras en Shein, Temu y Amazon, con un volumen que casi se triplicó en un año. Si los tiempos de liberación bajan, el cross-border le va a competir todavía más fuerte a la tienda local en precio y plazo.",
+    "fixy_impact": "Más velocidad en Ezeiza implica más paquetes internacionales que entran a la red de última milla del AMBA: es una oportunidad para ofrecer distribución doméstica a couriers y plataformas cross-border, y un argumento para que las marcas locales mejoren su promesa de entrega frente a la competencia importada.",
     "category": "Logística",
     "geo": "Argentina",
-    "source_name": "MDZ Online",
-    "source_url": "https://www.mdzol.com/sociedad/2026/11/11/boom-de-shein-y-temu-ezeiza-inaugura-una-nueva-terminal-para-recibir-las-compras-1994691.html",
-    "published_date": "2026-11-11",
-    "priority": "relevante",
+    "source_name": "La Nación",
+    "source_url": "https://www.lanacion.com.ar/economia/por-una-nueva-obra-llegaran-antes-los-paquetes-de-shein-y-temu-nid19112026/",
+    "published_date": "2026-11-19",
+    "priority": "alta",
     "tags": [
       "courier",
-      "cross-border",
       "Ezeiza",
-      "Shein y Temu",
-      "importaciones"
+      "cross-border",
+      "Shein",
+      "Temu"
     ],
     "id": "nw-89c3f3004e",
     "source_kind": "auto",
-    "last_updated": "2026-11-12",
-    "first_seen": "2026-11-12"
+    "last_updated": "2026-11-20",
+    "first_seen": "2026-11-12",
+    "updated_flag": true
   },
   {
     "title": "Paro indefinido de camioneros en Chile por la suba del diésel: bloqueos de rutas y alertas por el abastecimiento",
@@ -476,5 +455,71 @@
     "source_kind": "auto",
     "last_updated": "2026-11-19",
     "first_seen": "2026-11-19"
+  },
+  {
+    "title": "Las compras por courier superaron los US$1.000 millones entre enero y octubre y crecieron 53%",
+    "what_happened": "Según datos del INDEC, las importaciones por servicios postales y courier sumaron US$1.064 millones entre enero y octubre de 2026, un 53,2% más que en el mismo período de 2025, y ya superan en unos US$170 millones el total de todo 2025. En octubre fueron US$104 millones (+12,2% interanual), el octavo mes seguido por encima de los US$100 millones. En el mismo mes, las importaciones tradicionales de bienes de consumo durables y semidurables cayeron 19,4% interanual.",
+    "why_it_matters": "El courier ya es un canal de consumo masivo y le saca participación a la importación tradicional de bienes de consumo. Sin embargo, el crecimiento interanual de octubre (12%) es mucho menor que el acumulado del año, una señal de que el boom empieza a desacelerarse sobre una base alta.",
+    "fixy_impact": "Las marcas que venden online compiten cada vez más contra el producto importado puerta a puerta; la velocidad de entrega y la logística local son su principal diferencial, y ese es el argumento comercial de Fixy.",
+    "category": "eCommerce",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/11/20/las-compras-via-courier-ya-superaron-los-usd-1000-millones-en-2026-y-aumentaron-53-en-los-primeros-diez-meses-del-ano/",
+    "published_date": "2026-11-20",
+    "priority": "relevante",
+    "tags": [
+      "courier",
+      "importaciones",
+      "INDEC",
+      "cross-border"
+    ],
+    "id": "nw-0d2d83a463",
+    "source_kind": "auto",
+    "last_updated": "2026-11-20",
+    "first_seen": "2026-11-20"
+  },
+  {
+    "title": "Mercado Libre construye un centro logístico en Garupá para abastecer Misiones y el norte de Corrientes",
+    "what_happened": "Mercado Libre construye un centro logístico en Garupá, Misiones, con una nave de unos 6.000 m² y un 90% de avance de obra, según el intendente Luis Ripoll. Lo va a operar MELI LOG S.R.L. y va a distribuir paquetes en Misiones y el norte de Corrientes. El municipio aprobó una reducción de la tasa de comercio para el proyecto, y la fecha de apertura está por confirmar.",
+    "why_it_matters": "Mercado Libre sigue llevando su red propia a provincias del interior. Eso acorta los plazos de entrega en el NEA y sube la vara de lo que el comprador del interior espera de cualquier tienda online.",
+    "fixy_impact": "Si Fixy vende envíos al interior, conviene seguir de cerca la nueva promesa de entrega de Mercado Libre en el NEA: los clientes van a comparar plazos y costos con esa referencia.",
+    "category": "Marketplaces",
+    "geo": "Argentina",
+    "source_name": "Misiones Online",
+    "source_url": "https://misionesonline.net/2026/11/16/mercado-libre-construye-un-centro-logistico-en-garupa/",
+    "published_date": "2026-11-16",
+    "priority": "relevante",
+    "tags": [
+      "Mercado Libre",
+      "interior",
+      "centro logístico",
+      "NEA"
+    ],
+    "id": "nw-d8a6a65101",
+    "source_kind": "auto",
+    "last_updated": "2026-11-20",
+    "first_seen": "2026-11-20"
+  },
+  {
+    "title": "La industria profundiza su pesimismo, pero los supermercados mejoran sus expectativas de cara a 2027",
+    "what_happened": "Según la Encuesta de Tendencia de Negocios del INDEC, el indicador de confianza empresarial de la industria manufacturera bajó a -20% en octubre, desde -18,9% en septiembre, y las fábricas anticipan menos producción y empleo. En supermercados y autoservicios mayoristas, las empresas todavía evalúan mal su situación actual, pero mejoraron sus expectativas para los próximos meses. Esa mejora todavía no se traduce en más empleo.",
+    "why_it_matters": "El retail masivo empieza a ver una salida que la industria todavía no ve. Si la recuperación del consumo se confirma en los primeros meses de 2027, el canal supermercadista podría volver a invertir en surtido y en logística.",
+    "fixy_impact": null,
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "La Nación",
+    "source_url": "https://www.lanacion.com.ar/economia/de-cara-a-2027-las-expectativas-de-la-industria-siguen-en-rojo-pero-mejoran-las-de-los-supermercados-nid19112026/",
+    "published_date": "2026-11-19",
+    "priority": "informativo",
+    "tags": [
+      "INDEC",
+      "expectativas",
+      "supermercados",
+      "industria"
+    ],
+    "id": "nw-6bf91a5fd7",
+    "source_kind": "auto",
+    "last_updated": "2026-11-20",
+    "first_seen": "2026-11-20"
   }
 ]

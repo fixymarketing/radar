@@ -1,5 +1,36 @@
 [
   {
+    "title": "Ofrecer fulfillment local a marcas que importan para vender online y quieren competir en plazo con Shein y Temu",
+    "context": "Las compras por courier superaron los US$1.000 millones entre enero y octubre (+53%) y Ezeiza inauguró una terminal única de courier para destrabar el cuello de botella. El cross-border va a ganar velocidad, pero el stock en un depósito local sigue entregando en 24-48 horas.",
+    "action": "Armar una comparación simple de plazos y costos (envío desde depósito Fixy vs. compra por courier) y mandársela a 10 marcas que importan y venden online, ofreciendo almacenar su stock antes de las Fiestas.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/11/20/las-compras-via-courier-ya-superaron-los-usd-1000-millones-en-2026-y-aumentaron-53-en-los-primeros-diez-meses-del-ano/",
+    "linked": [
+      "Las compras por courier superaron los US$1.000 millones entre enero y octubre y crecieron 53%",
+      "Ezeiza prepara una terminal única de courier de 15.000 m² ante el boom de compras en Shein, Temu y Amazon"
+    ],
+    "id": "op-8b611bdf",
+    "source_kind": "auto",
+    "last_updated": "2026-11-20",
+    "first_seen": "2026-11-20"
+  },
+  {
+    "title": "Contactar tiendas online de Misiones y Corrientes antes de que abra el centro logístico de Mercado Libre en Garupá",
+    "context": "Mercado Libre tiene al 90% la obra de un centro de unos 6.000 m² en Garupá para abastecer Misiones y el norte de Corrientes. Cuando abra, los compradores del NEA van a esperar plazos más cortos también de las tiendas que venden fuera del marketplace.",
+    "action": "Relevar las tiendas online más activas del NEA que venden por canal propio y ofrecerles una cotización de envíos con plazos comparables, antes de que el nuevo centro cambie la expectativa del comprador de la región.",
+    "type": "comercial",
+    "priority": "informativo",
+    "source_url": "https://misionesonline.net/2026/11/16/mercado-libre-construye-un-centro-logistico-en-garupa/",
+    "linked": [
+      "Mercado Libre construye un centro logístico en Garupá para abastecer Misiones y el norte de Corrientes"
+    ],
+    "id": "op-ad8e2012",
+    "source_kind": "auto",
+    "last_updated": "2026-11-20",
+    "first_seen": "2026-11-20"
+  },
+  {
     "title": "Confirmar la capacidad de los transportistas tercerizados antes del pico de Black Friday",
     "context": "Transporte y almacenamiento fue el sector que más empresas empleadoras perdió en el último año en términos porcentuales (2.602 menos). A ocho días del Black Friday del 27/11, cualquier transportista o flete chico que cierre o achique flota en plena temporada alta se traduce en demoras de entrega para los clientes de Fixy.",
     "action": "Esta semana, llamar a cada transportista y flete tercerizado para confirmar por escrito vehículos y choferes disponibles del 27/11 al 31/12, y dejar identificado un reemplazo para cada zona crítica.",
@@ -94,35 +125,5 @@
     "source_kind": "auto",
     "last_updated": "2026-11-15",
     "first_seen": "2026-11-15"
-  },
-  {
-    "title": "Explorar una integración o alianza con Base.com ahora que opera con equipo propio en Argentina",
-    "context": "Base.com empezó a operar con equipo local como hub que conecta ventas, stock y envíos de Mercado Libre, Tiendanube y Shopify. Las marcas que lo adopten van a buscar un operador logístico que se conecte con ese mismo sistema.",
-    "action": "Contactar al equipo local de Base.com para saber si tienen integración con operadores de fulfillment y qué haría falta para que Fixy aparezca como opción logística dentro de su plataforma.",
-    "type": "alianza",
-    "priority": "relevante",
-    "source_url": "https://www.lanacion.com.ar/economia/negocios/una-plataforma-global-de-e-commerce-llega-a-la-argentina-para-integrar-ventas-stock-y-logistica-nid11112026/",
-    "linked": [
-      "La plataforma Base.com opera con equipo propio en Argentina para integrar ventas, stock y logística"
-    ],
-    "id": "op-526dba46",
-    "source_kind": "auto",
-    "last_updated": "2026-11-14",
-    "first_seen": "2026-11-14"
-  },
-  {
-    "title": "Ofrecer a los clientes una tarifa por pedido cerrada hasta fin de año para Black Friday y Fiestas",
-    "context": "El INDEC informó que la inflación de octubre fue 2,2%, la más alta desde abril y por encima de lo que esperaba el mercado. El consumo ya venía débil (el CyberMonday cayó 20% real) y las tiendas llegan a la temporada alta muy sensibles a costos que cambian mes a mes.",
-    "action": "Armar esta semana una propuesta comercial de fulfillment + envío con precio por pedido fijo entre el 16/11 y el 31/12 para clientes con volumen comprometido, y presentarla antes del Black Friday del 27/11.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/economia/2026/11/12/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses/",
-    "linked": [
-      "La inflación de octubre fue 2,2%, la más alta desde abril, y complica el consumo en la previa del Black Friday"
-    ],
-    "id": "op-844fe88d",
-    "source_kind": "auto",
-    "last_updated": "2026-11-13",
-    "first_seen": "2026-11-13"
   }
 ]

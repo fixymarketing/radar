@@ -200,5 +200,35 @@
     "source_kind": "auto",
     "last_updated": "2026-11-12",
     "first_seen": "2026-11-12"
+  },
+  {
+    "title": "Explorar una integración o alianza con Base.com ahora que opera con equipo propio en Argentina",
+    "context": "Base.com empezó a operar con equipo local como hub que conecta ventas, stock y envíos de Mercado Libre, Tiendanube y Shopify. Las marcas que lo adopten van a buscar un operador logístico que se conecte con ese mismo sistema.",
+    "action": "Contactar al equipo local de Base.com para saber si tienen integración con operadores de fulfillment y qué haría falta para que Fixy aparezca como opción logística dentro de su plataforma.",
+    "type": "alianza",
+    "priority": "relevante",
+    "source_url": "https://www.lanacion.com.ar/economia/negocios/una-plataforma-global-de-e-commerce-llega-a-la-argentina-para-integrar-ventas-stock-y-logistica-nid11112026/",
+    "linked": [
+      "La plataforma Base.com opera con equipo propio en Argentina para integrar ventas, stock y logística"
+    ],
+    "id": "op-526dba46",
+    "source_kind": "auto",
+    "last_updated": "2026-11-14",
+    "first_seen": "2026-11-14"
+  },
+  {
+    "title": "Ofrecer a los clientes una tarifa por pedido cerrada hasta fin de año para Black Friday y Fiestas",
+    "context": "El INDEC informó que la inflación de octubre fue 2,2%, la más alta desde abril y por encima de lo que esperaba el mercado. El consumo ya venía débil (el CyberMonday cayó 20% real) y las tiendas llegan a la temporada alta muy sensibles a costos que cambian mes a mes.",
+    "action": "Armar esta semana una propuesta comercial de fulfillment + envío con precio por pedido fijo entre el 16/11 y el 31/12 para clientes con volumen comprometido, y presentarla antes del Black Friday del 27/11.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/11/12/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses/",
+    "linked": [
+      "La inflación de octubre fue 2,2%, la más alta desde abril, y complica el consumo en la previa del Black Friday"
+    ],
+    "id": "op-844fe88d",
+    "source_kind": "auto",
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-11-13"
   }
 ]

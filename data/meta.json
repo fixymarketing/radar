@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-11-19T12:11:55.891Z",
-  "last_updated_ar": "19/11/2026, 09:11",
-  "date": "2026-11-19",
+  "generated_at": "2026-11-20T12:11:48.815Z",
+  "last_updated_ar": "20/11/2026, 09:11",
+  "date": "2026-11-20",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Mercado Libre lleva la entrega en 45 minutos al supermercado con Carrefour, el transporte es el sector que más empresas perdió en un año y, a ocho días del Black Friday, conviene asegurar la capacidad de entrega.",
+  "summary_line": "Las compras por courier pasaron los US$1.000 millones y Ezeiza ya tiene terminal propia para acelerarlas: a una semana del Black Friday, el plazo de entrega desde stock local es el argumento comercial más fuerte de Fixy.",
   "counters": {
     "news_today": 3,
-    "news_total": 21,
+    "news_total": 23,
     "events_upcoming": 19,
     "events_ar_upcoming": 11,
     "events_intl_upcoming": 8,
     "events_later": 42,
     "opportunities_open": 8,
     "opportunities_today": 2,
-    "ai_today": 1,
-    "ai_to_try": 40,
-    "content_ideas": 8,
+    "ai_today": 3,
+    "ai_to_try": 39,
+    "content_ideas": 9,
     "added_news": 3,
-    "updated_news": 0,
+    "updated_news": 1,
     "added_events": 1,
-    "updated_events": 0,
-    "added_ai": 1,
-    "archived": 7,
+    "updated_events": 2,
+    "added_ai": 3,
+    "archived": 5,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-chain-hackathon-retail-2026",
-    "name": "Hackathon Retail Chain 4.0",
+    "id": "ev-black-mayorista-nacional-week-2026",
+    "name": "Black Week Nacional Mayorista 2026",
     "date_start": "2026-11-16",
-    "city": "Bahía Blanca, Ciudad de Buenos Aires y Posadas",
+    "city": "Todo el país",
     "days_away": 0
   },
   "highlights": [
-    {
-      "id": "nw-92f312b45c",
-      "kind": "news",
-      "title": "Mercado Libre suma entregas de supermercado en hasta 45 minutos con Carrefour en el AMBA",
-      "priority": "alta",
-      "one_liner": "El marketplace más grande del país ya hace picking en tienda y última milla en minutos, y eso redefine la velocidad que esperan los compradores online."
-    },
     {
       "id": "ev-argentina-black-friday-2026",
       "kind": "event",
       "title": "Black Friday Argentina 2026",
       "priority": "alta",
-      "one_liner": "Falta poco más de una semana para el segundo pico de demanda del trimestre: es el momento de cerrar capacidad de depósito y de entrega."
+      "one_liner": "Falta una semana para el 27/11: es el último momento para confirmar capacidad de depósito, transportistas y comunicación con los clientes."
     },
     {
-      "id": "nw-bf6d811f7c",
+      "id": "nw-89c3f3004e",
       "kind": "news",
-      "title": "Transporte y almacenamiento perdió 2.602 empresas empleadoras en un año, la mayor caída porcentual entre los sectores",
-      "priority": "relevante",
-      "one_liner": "La contracción del sector pone en riesgo a transportistas tercerizados justo antes de la temporada alta."
+      "title": "Ezeiza prepara una terminal única de courier de 15.000 m² ante el boom de compras en Shein, Temu y Amazon",
+      "priority": "alta",
+      "one_liner": "La terminal ya se inauguró y apunta a acelerar la liberación de paquetes del exterior, lo que endurece la competencia en plazo para las tiendas locales."
     },
     {
-      "id": "op-846be9ee",
-      "kind": "opportunity",
-      "title": "Confirmar la capacidad de los transportistas tercerizados antes del pico de Black Friday",
+      "id": "nw-0d2d83a463",
+      "kind": "news",
+      "title": "Las compras por courier superaron los US$1.000 millones entre enero y octubre y crecieron 53%",
       "priority": "relevante",
-      "one_liner": "Una llamada esta semana a cada flete evita quedarse sin vehículos en plena temporada alta."
+      "one_liner": "El cross-border ya es consumo masivo, aunque el crecimiento de octubre (12%) muestra que empieza a desacelerarse."
     },
     {
       "id": "ev-ecommerce-foro-mediterraneo-2026",
       "kind": "event",
       "title": "Foro Mediterráneo de Ecommerce 2026",
       "priority": "relevante",
-      "one_liner": "El 26/11 en Córdoba es la última oportunidad del año para captar tiendas del interior antes del Black Friday."
+      "one_liner": "El jueves 26/11 en Córdoba es la última vidriera del año con tiendas del interior antes del Black Friday."
+    },
+    {
+      "id": "nw-d8a6a65101",
+      "kind": "news",
+      "title": "Mercado Libre construye un centro logístico en Garupá para abastecer Misiones y el norte de Corrientes",
+      "priority": "relevante",
+      "one_liner": "Mercado Libre sigue llevando su red propia al interior y sube la vara de plazos que espera el comprador del NEA."
     }
   ]
 }

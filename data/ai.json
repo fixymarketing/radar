@@ -1134,26 +1134,70 @@
     "first_seen": "2026-09-04"
   },
   {
-    "name": "Google Vids: documentos a video",
-    "vendor": "Google Workspace",
-    "what_it_is": "Función de Google Vids que convierte automáticamente un Google Doc, PDF o archivo Word en un video corto, con guion, narración y elementos visuales generados por IA.",
-    "what_changed": "Google empezó a lanzarla el 5 de septiembre de 2026 en cuentas pagas de Workspace y Google AI, permitiendo pasar de texto a video sin editar nada a mano.",
-    "fixy_use": "Marketing podría convertir instructivos de packaging, la política de devoluciones o la guía de uso del portal de tracking en videos cortos para clientes y vendedores, sin pagar edición de video. También sirve para transformar posteos de blog en piezas para redes.",
-    "verdict": "probar",
-    "verdict_reason": "Viene incluido en lo que ya se paga de Workspace/Google AI y resuelve no tener tiempo ni presupuesto para producir video.",
+    "name": "GPT-6.2 Astra y GPT-6.2 Sol",
+    "vendor": "OpenAI",
+    "what_it_is": "Nueva versión de los modelos de OpenAI: Astra para trabajo profesional exigente y Sol, más barato, para tareas cotidianas de redacción y análisis.",
+    "what_changed": "OpenAI los lanzó el 17 de noviembre en ChatGPT Work, Codex y la API, casi dos meses después de cancelar GPT-6.1 Astra. Astra baja su precio en la API a USD 8 por millón de tokens de entrada y USD 40 de salida (antes 10 y 50).",
+    "fixy_use": "Si el equipo ya usa ChatGPT Work, conviene repetir con Astra los análisis que hoy cuestan (por ejemplo, cruzar planillas de envíos con reclamos para detectar zonas o transportes problemáticos) y comparar el resultado. Sol puede quedar para el día a día: respuestas tipo a clientes, resúmenes y borradores comerciales. Si hay automatizaciones conectadas a la API, el recorte de precio de Astra baja el costo de usarlo en tareas puntuales.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora incremental sobre modelos que ya están en el radar; vale probarla en tareas reales antes de cambiar flujos.",
     "categories": [
-      "Marketing",
-      "Contenido",
-      "Productividad"
+      "Productividad",
+      "Análisis",
+      "Automatización"
     ],
-    "pricing_note": "incluido en planes pagos de Google Workspace y Google AI, no es un producto aparte",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/09/turn-google-docs-pdfs-and-word-files-into-video-summaries-in-Google-Vids.html",
-    "published_date": "2026-09-05",
-    "priority": "relevante",
-    "id": "ai-google-workspace-google-vids-documentos-a-video",
+    "pricing_note": "pago: disponible para planes Plus, Pro, Enterprise y Edu en ChatGPT Work; API de Astra a USD 8/40 por millón de tokens (entrada/salida).",
+    "source_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "published_date": "2026-11-17",
+    "priority": "informativo",
+    "id": "ai-openai-gpt-6-2-astra-y-gpt-6-2-sol",
     "source_kind": "auto",
-    "last_updated": "2026-09-12",
-    "first_seen": "2026-09-12"
+    "last_updated": "2026-11-20",
+    "first_seen": "2026-11-20"
+  },
+  {
+    "name": "ChatGPT Wallet",
+    "vendor": "OpenAI",
+    "what_it_is": "Billetera dentro de ChatGPT que permite que los agentes de OpenAI (llamados \"dots\") elijan un producto y completen la compra en tiendas online en nombre del usuario.",
+    "what_changed": "OpenAI la lanzó el 13 de noviembre, por ahora solo para suscriptores Pro mayores de 18 años en Estados Unidos, con tarjetas Visa, Mastercard o American Express. No funciona en sitios que bloquean agentes.",
+    "fixy_use": "No es algo para usar hoy en Argentina, pero anticipa que parte de las compras en las tiendas de los clientes de Fixy las va a hacer un agente y no una persona. Sirve como tema de conversación comercial: los agentes comparan plazos y costos de envío, así que la información logística clara y confiable en el checkout pasa a ser una ventaja de venta.",
+    "verdict": "seguir",
+    "verdict_reason": "Señal concreta de compra agéntica que puede llegar a los clientes de Fixy, aunque todavía no está disponible en Argentina.",
+    "categories": [
+      "Comercial",
+      "Marketing",
+      "Management"
+    ],
+    "pricing_note": "pago: requiere ChatGPT Pro, solo en Estados Unidos.",
+    "source_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "published_date": "2026-11-13",
+    "priority": "informativo",
+    "id": "ai-openai-chatgpt-wallet",
+    "source_kind": "auto",
+    "last_updated": "2026-11-20",
+    "first_seen": "2026-11-20"
+  },
+  {
+    "name": "Gemini 4 Hydrogen",
+    "vendor": "Google",
+    "what_it_is": "El modelo rápido y más económico de la familia Gemini 4, pensado para ejecutar tareas con poca demora; reemplaza a Gemini 3.8 Flash.",
+    "what_changed": "Google lo lanzó el 12 de noviembre en la app de Gemini, Gemini para empresas, AI Studio y la API, y además pasa a ser el modelo por defecto de Tasks en Gemini. Google reporta mejoras grandes frente a 3.8 Flash, aunque son cifras propias sin verificación independiente.",
+    "fixy_use": "Si el equipo trabaja con Google Workspace, Hydrogen es el modelo que va a responder más rápido en el uso diario de Gemini (resúmenes de mails, borradores, consultas sobre planillas). Para automatizaciones vía API (por ejemplo, clasificar automáticamente consultas de atención por tipo: demora, dirección errónea, devolución), es la opción a evaluar por costo y velocidad.",
+    "verdict": "seguir",
+    "verdict_reason": "Cambia el modelo base de herramientas que Fixy probablemente ya usa, pero el precio de API todavía no está claro en las fuentes.",
+    "categories": [
+      "Productividad",
+      "Automatización",
+      "Operaciones"
+    ],
+    "pricing_note": "no confirmado: incluido en la app de Gemini; las fuentes difieren sobre el precio de la API.",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "published_date": "2026-11-12",
+    "priority": "informativo",
+    "id": "ai-google-gemini-4-hydrogen",
+    "source_kind": "auto",
+    "last_updated": "2026-11-20",
+    "first_seen": "2026-11-20"
   },
   {
     "name": "Zendesk Outcome AI Platform",
@@ -1786,26 +1830,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-11",
     "first_seen": "2026-09-11"
-  },
-  {
-    "name": "WhatsApp: agentes de IA de terceros como contacto (beta)",
-    "vendor": "Meta / WhatsApp",
-    "what_it_is": "Una sección nueva en la configuración de WhatsApp donde cada usuario puede conectar hasta 5 agentes de IA externos (de OpenAI, Google, Anthropic u otros proveedores) que aparecen en la lista de chats como un contacto más, con nombre y foto propios.",
-    "what_changed": "Empezó a probarse el 5 de septiembre de 2026 en la beta de Android (2.26.35.3), para un grupo chico de usuarios en algunos países. Aparece como respuesta técnica de Meta a una orden de la Comisión Europea de junio de 2026 que la obligó a abrir el acceso a agentes de IA de terceros.",
-    "fixy_use": "Todavía es una beta muy acotada y no reemplaza la API de WhatsApp Business que ya usa Fixy para atención al cliente, pero conviene seguirlo: si se abre a cuentas de empresa, sería una vía para que un cliente sume el agente de soporte de Fixy como contacto fijo en su WhatsApp, en vez de un bot dentro del chat comercial.",
-    "verdict": "seguir",
-    "verdict_reason": "Está en beta muy limitada (solo Android, pocos usuarios) y todavía no está claro cómo aplicaría a cuentas de empresa.",
-    "categories": [
-      "Automatización",
-      "Comercial"
-    ],
-    "pricing_note": "No confirmado: es una beta cerrada, sin información de precio ni de disponibilidad para cuentas de empresa.",
-    "source_url": "https://www.androidsis.com/whatsapp-da-el-salto-a-los-agentes-de-ia-de-terceros-asi-funcionara-la-nueva-integracion/",
-    "published_date": "2026-09-05",
-    "priority": "informativo",
-    "id": "ai-meta-whatsapp-whatsapp-agentes-de-ia-de-terceros-como-contac",
-    "source_kind": "auto",
-    "last_updated": "2026-09-06",
-    "first_seen": "2026-09-06"
   }
 ]

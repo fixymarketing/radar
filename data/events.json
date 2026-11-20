@@ -2165,21 +2165,33 @@
     "city": "Córdoba",
     "province": "Córdoba",
     "country": "Argentina",
-    "venue": "Centro de Convenciones Córdoba",
+    "venue": "Centro de Convenciones Córdoba (Complejo Ferial Córdoba)",
     "venue_confirmed": true,
     "format": "presencial",
     "category": "Emprendimiento",
-    "url": "https://www.perfil.com/cordoba/vuelve-emprende-cordoba-reune-a-su-comunidad-emprendedora-con-rondas-de-negocios-y-networking-assX10l6huQw",
-    "source_url": "https://www.perfil.com/cordoba/vuelve-emprende-cordoba-reune-a-su-comunidad-emprendedora-con-rondas-de-negocios-y-networking-assX10l6huQw",
-    "description": "Nueva edición del encuentro provincial de emprendedores (spin-off del Emprende Day) con rondas de negocios con empresas invitadas y conversatorios con especialistas. La edición de septiembre reunió unos 2.500 participantes.",
-    "fixy_relevance": "Concentra emprendedores cordobeses que venden online y necesitan resolver envíos y stock; las rondas de negocios permiten a Fixy presentarse como proveedor logístico ante pymes del interior.",
+    "url": "https://www.eventbrite.com.ar/e/emprende-tickets-2003716851040",
+    "source_url": "https://www.eventbrite.com.ar/e/emprende-tickets-2003716851040",
+    "description": "Jornada gratuita para emprendedores cordobeses el miércoles 2 de diciembre de 15:00 a 19:30, con charlas, conversatorios con especialistas, rondas de negocios y networking. La inscripción se gestiona por Eventbrite.",
+    "fixy_relevance": "Concentra emprendedores y pymes de Córdoba que venden o empiezan a vender online: público directo para ofrecer envíos y fulfillment en una plaza del interior.",
     "justification_type": null,
     "priority": "relevante",
     "beyond_90": false,
     "id": "ev-cordoba-diciembre-emprende-2026",
     "source_kind": "auto",
-    "last_updated": "2026-11-11",
-    "first_seen": "2026-11-11"
+    "last_updated": "2026-11-20",
+    "first_seen": "2026-11-11",
+    "change_log": [
+      {
+        "date": "2026-11-20",
+        "fields": [
+          "venue",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   },
   {
     "scope": "intl",
@@ -2546,15 +2558,52 @@
     "format": "presencial",
     "category": "Emprendimiento",
     "url": "https://luma.com/ye685een",
-    "source_url": "https://www.uruguayxxi.gub.uy/en/events/article/argentine-investment-forum-2026/",
-    "description": "Encuentro anual de venture capital, private equity e inversión estratégica que organiza ARCAP. La edición 2025 reunió a más de 1.300 inversores y empresarios en la misma sede, con foco en energía, agroalimentos y tecnología.",
-    "fixy_relevance": "Sirve para leer hacia dónde va el capital de riesgo en Argentina y detectar qué startups de eCommerce, logística o tecnología aplicada se financian, que pueden ser clientes, socios o competidores. Es de interés para management, no para operación.",
+    "source_url": "https://www.uruguayxxi.gub.uy/es/eventos/articulo/foro-argentino-de-inversiones-2026/",
+    "description": "Encuentro anual de ARCAP que reúne a fondos de venture capital, private equity, corporativos y startups, con paneles, entrevistas y reuniones uno a uno con inversores. La edición anterior convocó a más de 1.300 participantes en la misma sede.",
+    "fixy_relevance": "Permite leer hacia dónde va el capital en eCommerce, logística y fintech, y detectar startups con fondos frescos que pueden convertirse en clientes de fulfillment.",
     "justification_type": null,
     "priority": "informativo",
     "beyond_90": false,
     "id": "ev-argentino-foro-inversiones-2026",
     "source_kind": "auto",
-    "last_updated": "2026-11-19",
-    "first_seen": "2026-11-19"
+    "last_updated": "2026-11-20",
+    "first_seen": "2026-11-19",
+    "change_log": [
+      {
+        "date": "2026-11-20",
+        "fields": [
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "Foro de Inversiones y Negocios de la UE en Argentina 2026",
+    "organizer": "Unión Europea, con el apoyo de las Cámaras de Comercio de la UE en Argentina (implementado por la Cámara de Industria y Comercio Argentino-Alemana, AHK Argentina)",
+    "date_start": "2026-11-30",
+    "date_end": "2026-12-01",
+    "date_confirmed": true,
+    "date_note": "Un agregador (Model Diplomat) lista otra fecha (1 y 2 de junio de 2026); la Delegación de la UE y las cámaras europeas coinciden en 30/11 y 1/12/2026.",
+    "city": "Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "country": "Argentina",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Innovación",
+    "url": "https://www.eeas.europa.eu/delegations/argentina/foro-de-inversiones-y-negocios-de-la-ue-en-argentina-2026_und_es",
+    "source_url": "https://www.ahkargentina.com.ar/es/veranstaltungen/foro-de-inversiones-y-negocios-de-la-ue-en-argentina-2026",
+    "description": "Foro de dos días con paneles sectoriales y rondas de negocios para mostrar oportunidades de inversión en el marco del acuerdo UE–Mercosur y la agenda Global Gateway. La sede exacta y la inscripción todavía no estaban publicadas; las invitaciones se canalizan por las cámaras europeas.",
+    "fixy_relevance": "El acuerdo UE–Mercosur puede traer marcas europeas que necesiten operación logística local y cambiar flujos de importación; sirve para anticipar demanda y generar contactos vía cámaras binacionales.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-argentina-foro-inversiones-negocios-ue-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-11-20",
+    "first_seen": "2026-11-20"
   }
 ]

@@ -119,5 +119,20 @@
     "source_kind": "auto",
     "last_updated": "2026-11-19",
     "first_seen": "2026-11-19"
+  },
+  {
+    "topic": "Courier récord y terminal nueva en Ezeiza: por qué el stock local sigue ganando en plazo",
+    "why_now": "Salieron juntos el dato de US$1.064 millones en compras por courier (INDEC) y la inauguración de la terminal única de Ezeiza, a una semana del Black Friday.",
+    "fixy_angle": "Fixy puede mostrar con números propios cuánto tarda una entrega desde depósito local frente a una compra al exterior, y por qué eso pesa en la conversión durante la temporada alta.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.lanacion.com.ar/economia/por-una-nueva-obra-llegaran-antes-los-paquetes-de-shein-y-temu-nid19112026/",
+    "id": "ct-3147a01c",
+    "source_kind": "auto",
+    "last_updated": "2026-11-20",
+    "first_seen": "2026-11-20"
   }
 ]
