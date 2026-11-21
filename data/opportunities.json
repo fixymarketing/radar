@@ -1,5 +1,37 @@
 [
   {
+    "title": "Revisar cómo aparece Fixy en ChatGPT, Gemini y Google AI Overviews y usar el estudio como argumento con tiendas propias",
+    "context": "El estudio Radar IA eCommerce Argentina 2026 encontró que el 38,7% de 1.017 tiendas online argentinas no aparece en ninguna respuesta de ChatGPT, Gemini ni Google AI Overviews, mientras Mercado Libre domina las menciones. La búsqueda de proveedores también empieza a pasar por asistentes de IA, incluida la de operadores de fulfillment.",
+    "action": "Esta semana, hacer 10 consultas tipo \"operador de fulfillment para mi tienda online en Argentina\" en los tres asistentes, registrar si Fixy aparece y con qué datos, y corregir la información pública (web, perfil de ChatGPT para negocios, Google Business) donde falte o esté mal.",
+    "type": "marketing",
+    "priority": "relevante",
+    "source_url": "https://www.iproup.com/finanzas/73299-la-ia-cambia-las-reglas-del-ecommerce-y-pone-a-prueba-a-las-tiendas-argentinas",
+    "linked": [
+      "Un estudio muestra que 4 de cada 10 tiendas online argentinas no aparecen en las respuestas de ChatGPT, Gemini y Google",
+      "Businesses in ChatGPT (Business Hub y Business Agents)"
+    ],
+    "id": "op-bf5df1dd",
+    "source_kind": "auto",
+    "last_updated": "2026-11-21",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "title": "Probar gratis un agente de Zendesk para \"¿dónde está mi pedido?\" durante Black Friday y fiestas",
+    "context": "Zendesk habilitó sin costo hasta el 31/01/2027 sus agentes de IA personalizados, analítica agéntica y action flows avanzados para clientes de Support y Support Suite. La ventana gratuita cubre exactamente el pico de consultas de Black Friday (27/11) y fin de año.",
+    "action": "Si atención al cliente usa Zendesk, activar la prueba antes del 27/11 con un único caso: responder el estado del envío y derivar a una persona los reclamos por rotura o faltante; medir en enero cuántos tickets resolvió solo antes de decidir si se paga.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://support.zendesk.com/hc/en-us/articles/11374506224410-Announcement-Try-new-AI-features-free-for-a-limited-time",
+    "linked": [
+      "Zendesk: agentes personalizados, analítica agéntica y action flows avanzados gratis hasta enero de 2027",
+      "Black Friday Argentina 2026"
+    ],
+    "id": "op-08042b57",
+    "source_kind": "auto",
+    "last_updated": "2026-11-21",
+    "first_seen": "2026-11-21"
+  },
+  {
     "title": "Ofrecer fulfillment local a marcas que importan para vender online y quieren competir en plazo con Shein y Temu",
     "context": "Las compras por courier superaron los US$1.000 millones entre enero y octubre (+53%) y Ezeiza inauguró una terminal única de courier para destrabar el cuello de botella. El cross-border va a ganar velocidad, pero el stock en un depósito local sigue entregando en 24-48 horas.",
     "action": "Armar una comparación simple de plazos y costos (envío desde depósito Fixy vs. compra por courier) y mandársela a 10 marcas que importan y venden online, ofreciendo almacenar su stock antes de las Fiestas.",
@@ -94,36 +126,5 @@
     "source_kind": "auto",
     "last_updated": "2026-11-17",
     "first_seen": "2026-11-17"
-  },
-  {
-    "title": "Revisar la necesidad de espacio de depósito para 2027 mientras las rentas premium del AMBA siguen por debajo de 2025",
-    "context": "El informe de CBRE del tercer trimestre muestra que la demanda de depósitos premium en el AMBA volvió a ser positiva y que la vacancia bajó del 10,15% al 8,92%. La renta promedio (US$ 7,42 por m²) sigue cerca de un 10% por debajo de hace un año, pero la tendencia apunta a que el margen para negociar se achique.",
-    "action": "Antes de fin de mes, cruzar el pronóstico de volumen de clientes para 2027 con la capacidad actual de depósito y, si hace falta sumar metros o renovar contratos, pedir cotizaciones ahora en lugar de esperar al primer trimestre.",
-    "type": "estratégica",
-    "priority": "relevante",
-    "source_url": "https://www.infobae.com/movant/2026/11/13/depositos-logisticos-en-buenos-aires-vuelve-la-demanda-y-la-vacancia-baja-al-89/",
-    "linked": [
-      "Depósitos logísticos premium en el AMBA: vuelve la demanda y la vacancia baja al 8,9%"
-    ],
-    "id": "op-6b2895df",
-    "source_kind": "auto",
-    "last_updated": "2026-11-16",
-    "first_seen": "2026-11-16"
-  },
-  {
-    "title": "Viaje comercial a Tucumán el 25/11 para captar tiendas online del NOA en el Entrenamiento Nube y T-Connect",
-    "context": "El 25/11 coinciden en San Miguel de Tucumán el Entrenamiento Nube de Tiendanube e IDEP Tucumán, gratuito y para pymes del NOA, con un bloque de logística a cargo de Andreani, y T-Connect 2026, el congreso tecnológico del Clúster Tecnológico Tucumán, con unas 2.000 personas. En una sola jornada se juntan tiendas online del norte que se están profesionalizando y que hoy ven a Andreani como la opción por defecto.",
-    "action": "Confirmar esta semana si alguien de comercial viaja el 25/11: inscribirse en el Entrenamiento Nube, llevar una propuesta de envíos y fulfillment pensada para el NOA y armar una lista de tiendas tucumanas para contactar después del evento.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.comunicaciontucuman.gob.ar/noticia/hospital%20de%20ni%C3%B1os/244173/idep-tiendanube-convocan-emprendedores-noa-capacitacion-gratuita-ecommerce-habilidades-digitales",
-    "linked": [
-      "Entrenamiento Nube Tucumán",
-      "T-Connect 2026"
-    ],
-    "id": "op-23b766d2",
-    "source_kind": "auto",
-    "last_updated": "2026-11-15",
-    "first_seen": "2026-11-15"
   }
 ]

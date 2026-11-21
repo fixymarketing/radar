@@ -481,5 +481,50 @@
     "source_kind": "auto",
     "last_updated": "2026-09-06",
     "first_seen": "2026-09-06"
+  },
+  {
+    "name": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
+    "vendor": "Meta",
+    "what_it_is": "Es el esquema de cobro que Meta va a aplicar a las empresas por los mensajes de servicio que responden dentro de la ventana de 24 horas de atención al cliente en WhatsApp Business.",
+    "what_changed": "Meta confirmó los valores definitivos justo antes del plazo que se había puesto (1° de septiembre): desde el 1° de octubre cada número de WhatsApp Business tiene 1.000 mensajes de servicio gratis por mes, y a partir del mensaje 1.001 se cobra el mismo valor por mensaje que las plantillas de utilidad y autenticación de cada país.",
+    "fixy_use": "Fixy tiene que medir cuántos mensajes de servicio manda hoy por WhatsApp (seguimiento de pedidos, reclamos, coordinación de entregas con clientes finales) para saber si va a superar los 1.000 gratis por número a partir de octubre y estimar el costo mensual extra. Conviene evaluar si conviene repartir el volumen en más de un número de WhatsApp Business, o derivar las consultas repetitivas (¿dónde está mi pedido?) a un bot o a las FAQ para no pagar de más por mensajes que se pueden resolver sin un agente humano.",
+    "verdict": "seguir",
+    "verdict_reason": "Es un cambio de costo ya confirmado con fecha cierta que impacta el presupuesto de atención por WhatsApp desde octubre, hay que medir el volumen propio antes de esa fecha.",
+    "categories": [
+      "Comercial",
+      "Operaciones",
+      "Management"
+    ],
+    "pricing_note": "pago: 1.000 mensajes de servicio gratis por número y por mes, luego se cobra al mismo valor que las plantillas de utilidad/autenticación de cada país; monto exacto en pesos para Argentina, por confirmar.",
+    "source_url": "https://www.infobae.com/tecno/2026/09/06/whatsapp-business-cobrara-por-responder-mensajes-en-2026-a-quienes-afecta-y-a-quienes-no/",
+    "published_date": "2026-09-06",
+    "priority": "alta",
+    "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "name": "GPT-6 Astra",
+    "vendor": "OpenAI",
+    "what_it_is": "Modelo insignia de OpenAI pensado para uso de computadora, investigación profunda, programación y trabajo de varios pasos, incluyendo la creación de documentos, hojas de cálculo y presentaciones directamente desde el chat.",
+    "what_changed": "OpenAI empezó a implementarlo el 6 de septiembre de 2026 para un grupo limitado de organizaciones, y en los próximos días llegará a los planes Plus, Pro, Business y Enterprise; en los espacios Enterprise viene desactivado por defecto y un administrador tiene que habilitarlo manualmente.",
+    "fixy_use": "Si Fixy usa ChatGPT Business, el administrador del workspace va a tener que activar Astra a mano cuando llegue, porque no se enciende solo. Una vez habilitado, conviene probarlo para armar reportes operativos, planillas de seguimiento de envíos y presentaciones para management con menos idas y vueltas de prompts.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora real pero el despliegue es gradual y conviene esperar a que llegue al plan que usa Fixy antes de evaluarla a fondo.",
+    "categories": [
+      "Productividad",
+      "Gestión del tiempo",
+      "Management",
+      "Análisis"
+    ],
+    "pricing_note": "no confirmado — se incluiría dentro de los planes ChatGPT Plus/Pro/Business/Enterprise existentes, sin costo adicional conocido por ahora",
+    "source_url": "https://www.infobae.com/tecno/2026/09/06/fecha-de-lanzamiento-de-gpt-6-astra-cuando-estara-disponible-la-novedad-de-openai/",
+    "published_date": "2026-09-06",
+    "priority": "relevante",
+    "id": "ai-openai-gpt-6-astra",
+    "source_kind": "auto",
+    "last_updated": "2026-09-08",
+    "first_seen": "2026-09-04"
   }
 ]

@@ -177,26 +177,27 @@
     "first_seen": "2026-09-12"
   },
   {
-    "name": "WhatsApp Business: cobro de mensajes de servicio desde octubre",
-    "vendor": "Meta",
-    "what_it_is": "Es el esquema de cobro que Meta va a aplicar a las empresas por los mensajes de servicio que responden dentro de la ventana de 24 horas de atención al cliente en WhatsApp Business.",
-    "what_changed": "Meta confirmó los valores definitivos justo antes del plazo que se había puesto (1° de septiembre): desde el 1° de octubre cada número de WhatsApp Business tiene 1.000 mensajes de servicio gratis por mes, y a partir del mensaje 1.001 se cobra el mismo valor por mensaje que las plantillas de utilidad y autenticación de cada país.",
-    "fixy_use": "Fixy tiene que medir cuántos mensajes de servicio manda hoy por WhatsApp (seguimiento de pedidos, reclamos, coordinación de entregas con clientes finales) para saber si va a superar los 1.000 gratis por número a partir de octubre y estimar el costo mensual extra. Conviene evaluar si conviene repartir el volumen en más de un número de WhatsApp Business, o derivar las consultas repetitivas (¿dónde está mi pedido?) a un bot o a las FAQ para no pagar de más por mensajes que se pueden resolver sin un agente humano.",
-    "verdict": "seguir",
-    "verdict_reason": "Es un cambio de costo ya confirmado con fecha cierta que impacta el presupuesto de atención por WhatsApp desde octubre, hay que medir el volumen propio antes de esa fecha.",
+    "name": "ChatGPT Space (páginas que se actualizan solas)",
+    "vendor": "OpenAI",
+    "what_it_is": "Un espacio de trabajo dentro de ChatGPT para armar y compartir páginas, presentaciones y archivos con el equipo, con la IA trabajando sobre esos documentos.",
+    "what_changed": "OpenAI lo lanzó el 29 de septiembre solo para Pro, Business y Enterprise, y desde el 20 de noviembre empezó a habilitarlo en el plan Plus, con páginas que se pueden configurar para actualizarse solas a partir de las apps conectadas (como Gmail o Slack). Las planillas y los agentes Dots todavía no están incluidos en Plus.",
+    "fixy_use": "Armar una página de estado semanal por cliente (pedidos despachados, incidencias, reclamos abiertos) que se refresque sola desde el mail y el Slack del equipo, y compartirla con comercial sin copiar y pegar. Mantener una página viva de procedimientos de operaciones y de respuestas frecuentes para atención al cliente durante la temporada alta de Black Friday y fin de año.",
+    "verdict": "probar",
+    "verdict_reason": "Llega al plan de USD 20 por mes y resuelve un dolor concreto de reportes repetitivos, aunque la actualización automática exige conectar apps y configurar la frecuencia.",
     "categories": [
+      "Productividad",
+      "Organización",
       "Comercial",
-      "Operaciones",
-      "Management"
+      "Operaciones"
     ],
-    "pricing_note": "pago: 1.000 mensajes de servicio gratis por número y por mes, luego se cobra al mismo valor que las plantillas de utilidad/autenticación de cada país; monto exacto en pesos para Argentina, por confirmar.",
-    "source_url": "https://www.infobae.com/tecno/2026/09/06/whatsapp-business-cobrara-por-responder-mensajes-en-2026-a-quienes-afecta-y-a-quienes-no/",
-    "published_date": "2026-09-06",
-    "priority": "alta",
-    "id": "ai-meta-whatsapp-business-cobro-de-mensajes-de-servicio-desde-o",
+    "pricing_note": "pago: incluido en ChatGPT Plus (USD 20/mes), Pro, Business y Enterprise; no está en el plan gratuito",
+    "source_url": "https://www.engadget.com/2323016/openai-brings-its-collaborative-space-hubs-to-plus-users/",
+    "published_date": "2026-11-20",
+    "priority": "relevante",
+    "id": "ai-openai-chatgpt-space-paginas-que-se-actualizan-solas",
     "source_kind": "auto",
-    "last_updated": "2026-09-10",
-    "first_seen": "2026-09-01"
+    "last_updated": "2026-11-21",
+    "first_seen": "2026-11-21"
   },
   {
     "name": "Microsoft Copilot unificado (Home, Code, Autopilot)",
@@ -266,6 +267,29 @@
     "source_kind": "auto",
     "last_updated": "2026-11-18",
     "first_seen": "2026-10-07"
+  },
+  {
+    "name": "Gemini en Apps Script",
+    "vendor": "Google Workspace",
+    "what_it_is": "Un panel lateral de Gemini dentro del editor de Apps Script que escribe, explica y corrige automatizaciones de Gmail, Sheets, Drive y Calendar a partir de pedidos en lenguaje natural.",
+    "what_changed": "Google lo declaró disponible en general para clientes de Workspace y el despliegue arrancó el 12 de noviembre de 2026 (hasta 15 días para verse en todas las cuentas). Incluye la opción \"Fix errors\" en el registro de ejecución para diagnosticar y arreglar fallas.",
+    "fixy_use": "Pedirle a Gemini un script que todas las mañanas tome la planilla de pedidos pendientes y le mande a cada cliente un mail con el estado de sus envíos. Automatizar alertas cuando el stock de un SKU en Sheets baja de un mínimo o cuando un pedido lleva más de 48 horas sin despacharse, sin depender de un programador.",
+    "verdict": "probar",
+    "verdict_reason": "Si Fixy ya usa Google Workspace, viene incluido y permite automatizar planillas y mails operativos sin saber programar.",
+    "categories": [
+      "Automatización",
+      "Operaciones",
+      "Productividad",
+      "Logística"
+    ],
+    "pricing_note": "pago: incluido en Workspace Business Standard y Plus, y Enterprise Standard y Plus, sin costo adicional",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/11/customize-and-extend-workspace-with-apps-script.html",
+    "published_date": "2026-11-12",
+    "priority": "relevante",
+    "id": "ai-google-workspace-gemini-en-apps-script",
+    "source_kind": "auto",
+    "last_updated": "2026-11-21",
+    "first_seen": "2026-11-21"
   },
   {
     "name": "Claude Meetings",
@@ -403,6 +427,28 @@
     "source_kind": "auto",
     "last_updated": "2026-11-18",
     "first_seen": "2026-11-18"
+  },
+  {
+    "name": "Zendesk: agentes personalizados, analítica agéntica y action flows avanzados gratis hasta enero de 2027",
+    "vendor": "Zendesk",
+    "what_it_is": "Una promoción para probar sin costo tres funciones nuevas de IA de Zendesk: agentes de IA personalizados, analítica agéntica y flujos de acción avanzados.",
+    "what_changed": "El 10 de noviembre de 2026 Zendesk anunció que los clientes elegibles de los planes Support Suite y Support pueden usarlas gratis hasta el 31 de enero de 2027; después se cobran por resultado exitoso y no por agente.",
+    "fixy_use": "Si atención al cliente trabaja en Zendesk, montar un agente que responda solo el clásico \"¿dónde está mi pedido?\" y derive a una persona los reclamos por roturas o faltantes, justo en el pico de Black Friday y fiestas. Usar la analítica agéntica para ver qué motivos de contacto crecen por cliente y llevar esos datos a las reuniones comerciales.",
+    "verdict": "probar",
+    "verdict_reason": "La ventana gratuita cae exactamente en la temporada alta y permite medir el ahorro real antes de pagar por resultado.",
+    "categories": [
+      "Operaciones",
+      "Automatización",
+      "Análisis"
+    ],
+    "pricing_note": "gratis hasta el 31/01/2027 para clientes elegibles de Support Suite y Support; luego pago por resultado (condiciones posteriores: Por confirmar)",
+    "source_url": "https://support.zendesk.com/hc/en-us/articles/11374506224410-Announcement-Try-new-AI-features-free-for-a-limited-time",
+    "published_date": "2026-11-10",
+    "priority": "relevante",
+    "id": "ai-zendesk-zendesk-agentes-personalizados-analitica-agentica-y-",
+    "source_kind": "auto",
+    "last_updated": "2026-11-21",
+    "first_seen": "2026-11-21"
   },
   {
     "name": "Gemini: edición de archivos dentro del chat",
@@ -1109,29 +1155,6 @@
     "source_kind": "auto",
     "last_updated": "2026-09-10",
     "first_seen": "2026-09-10"
-  },
-  {
-    "name": "GPT-6 Astra",
-    "vendor": "OpenAI",
-    "what_it_is": "Modelo insignia de OpenAI pensado para uso de computadora, investigación profunda, programación y trabajo de varios pasos, incluyendo la creación de documentos, hojas de cálculo y presentaciones directamente desde el chat.",
-    "what_changed": "OpenAI empezó a implementarlo el 6 de septiembre de 2026 para un grupo limitado de organizaciones, y en los próximos días llegará a los planes Plus, Pro, Business y Enterprise; en los espacios Enterprise viene desactivado por defecto y un administrador tiene que habilitarlo manualmente.",
-    "fixy_use": "Si Fixy usa ChatGPT Business, el administrador del workspace va a tener que activar Astra a mano cuando llegue, porque no se enciende solo. Una vez habilitado, conviene probarlo para armar reportes operativos, planillas de seguimiento de envíos y presentaciones para management con menos idas y vueltas de prompts.",
-    "verdict": "seguir",
-    "verdict_reason": "Es una mejora real pero el despliegue es gradual y conviene esperar a que llegue al plan que usa Fixy antes de evaluarla a fondo.",
-    "categories": [
-      "Productividad",
-      "Gestión del tiempo",
-      "Management",
-      "Análisis"
-    ],
-    "pricing_note": "no confirmado — se incluiría dentro de los planes ChatGPT Plus/Pro/Business/Enterprise existentes, sin costo adicional conocido por ahora",
-    "source_url": "https://www.infobae.com/tecno/2026/09/06/fecha-de-lanzamiento-de-gpt-6-astra-cuando-estara-disponible-la-novedad-de-openai/",
-    "published_date": "2026-09-06",
-    "priority": "relevante",
-    "id": "ai-openai-gpt-6-astra",
-    "source_kind": "auto",
-    "last_updated": "2026-09-08",
-    "first_seen": "2026-09-04"
   },
   {
     "name": "GPT-6.2 Astra y GPT-6.2 Sol",

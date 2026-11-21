@@ -521,5 +521,50 @@
     "source_kind": "auto",
     "last_updated": "2026-11-20",
     "first_seen": "2026-11-20"
+  },
+  {
+    "title": "Un estudio muestra que 4 de cada 10 tiendas online argentinas no aparecen en las respuestas de ChatGPT, Gemini y Google",
+    "what_happened": "El estudio Radar IA eCommerce Argentina 2026, de la consultora Eleven con la plataforma LLM Pulse, analizó casi 60.000 respuestas de ChatGPT, Gemini y Google AI Overviews a consultas de compra en 13 categorías. De los 1.017 comercios que participaron del Hot Sale 2026 o del CyberMonday 2025, 394 (38,7%) no fueron mencionados ni enlazados por ningún asistente. Mercado Libre es la tienda más enlazada por los tres y aparece en el 24,2% de las respuestas de ChatGPT, el 12,5% de Google AI Overviews y el 10,5% de Gemini.",
+    "why_it_matters": "La búsqueda de productos empieza a pasar por asistentes de IA, y cada asistente usa criterios distintos para recomendar. Las marcas que no son visibles ahí pierden tráfico frente a los marketplaces, lo que puede mover más volumen hacia Mercado Libre.",
+    "fixy_impact": "Es un argumento comercial para tiendas propias que quieren depender menos del marketplace. También sirve como alerta para revisar cómo aparece Fixy cuando alguien le pide a una IA un operador de fulfillment en Argentina.",
+    "category": "IA aplicada",
+    "geo": "Argentina",
+    "source_name": "iProUP",
+    "source_url": "https://www.iproup.com/finanzas/73299-la-ia-cambia-las-reglas-del-ecommerce-y-pone-a-prueba-a-las-tiendas-argentinas",
+    "published_date": "2026-11-20",
+    "priority": "relevante",
+    "tags": [
+      "IA",
+      "visibilidad",
+      "Mercado Libre",
+      "tiendas online",
+      "marketing digital"
+    ],
+    "id": "nw-dd2807340e",
+    "source_kind": "auto",
+    "last_updated": "2026-11-21",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "title": "Los pagos con transferencia vía QR llegaron a 122,8 millones en septiembre y crecieron 71,5% interanual",
+    "what_happened": "Según el informe de pagos minoristas del BCRA de septiembre de 2026, los pagos con transferencia vía QR interoperable sumaron 122,8 millones de operaciones en pesos, 71,5% más que un año antes. Movieron unos $3,1 billones, con una suba real de 66,5% interanual. El 52,8% salió de cuentas bancarias y el 47,2% de cuentas de pago (billeteras).",
+    "why_it_matters": "La interoperabilidad de Transferencias 3.0 consolida la transferencia como medio de pago masivo frente a las tarjetas. Esto baja costos de cobro y cambia cómo cobran comercios y tiendas online.",
+    "fixy_impact": null,
+    "category": "Pagos",
+    "geo": "Argentina",
+    "source_name": "Revista Mercado (con datos del BCRA)",
+    "source_url": "https://mercado.com.ar/ruta-digital/transferencias-via-qr-1228-millones-de-pagos-en-septiembre-reconfiguran-la-operatoria-en-caja",
+    "published_date": "2026-11-17",
+    "priority": "informativo",
+    "tags": [
+      "QR",
+      "transferencias",
+      "BCRA",
+      "medios de pago"
+    ],
+    "id": "nw-abde9ea2ef",
+    "source_kind": "auto",
+    "last_updated": "2026-11-21",
+    "first_seen": "2026-11-21"
   }
 ]
