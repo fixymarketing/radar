@@ -261,5 +261,21 @@
     "source_kind": "auto",
     "last_updated": "2026-11-15",
     "first_seen": "2026-11-15"
+  },
+  {
+    "title": "Armar con Gemini Notebook una guía interactiva de onboarding para tiendas que entran antes de Black Friday",
+    "context": "Google habilitó el 16/11 en Gemini Notebook la generación de sitios interactivos (explicadores, tableros, rastreadores de tareas) a partir de los documentos cargados en un cuaderno, también para cuentas de Workspace. A diez días del Black Friday (27/11), cada tienda que se suma al fulfillment necesita conocer horarios de corte, ingreso de mercadería y política de reclamos.",
+    "action": "Cargar en un cuaderno el manual de ingreso de mercadería, los horarios de corte y la política de reclamos de Fixy, generar la guía interactiva y probarla esta semana con una o dos tiendas que estén ingresando stock para la temporada alta.",
+    "type": "producto",
+    "priority": "relevante",
+    "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+    "linked": [
+      "Gemini Notebook: sitios interactivos a partir de las fuentes",
+      "Black Friday Argentina 2026"
+    ],
+    "id": "op-30ceb792",
+    "source_kind": "auto",
+    "last_updated": "2026-11-17",
+    "first_seen": "2026-11-17"
   }
 ]

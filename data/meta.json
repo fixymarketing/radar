@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-21T12:11:38.641Z",
-  "last_updated_ar": "21/11/2026, 09:11",
-  "date": "2026-11-21",
+  "generated_at": "2026-11-22T12:10:32.498Z",
+  "last_updated_ar": "22/11/2026, 09:10",
+  "date": "2026-11-22",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "A seis días del Black Friday, un estudio muestra que 4 de cada 10 tiendas online argentinas son invisibles para ChatGPT y Gemini, y Zendesk abre gratis hasta enero sus agentes de IA: la semana pide capacidad operativa cerrada y atención al cliente preparada para el pico.",
+  "summary_line": "A cinco días del Black Friday, Scentia confirma que el eCommerce fue el canal que más creció en consumo masivo en octubre (+33%) en un mercado que recién empieza a repuntar: buena semana para cerrar capacidad y salir a buscar marcas de consumo que venden directo.",
   "counters": {
-    "news_today": 2,
-    "news_total": 25,
-    "events_upcoming": 17,
+    "news_today": 1,
+    "news_total": 26,
+    "events_upcoming": 16,
     "events_ar_upcoming": 9,
-    "events_intl_upcoming": 8,
-    "events_later": 42,
+    "events_intl_upcoming": 7,
+    "events_later": 43,
     "opportunities_open": 8,
-    "opportunities_today": 2,
-    "ai_today": 3,
-    "ai_to_try": 42,
-    "content_ideas": 10,
-    "added_news": 2,
+    "opportunities_today": 1,
+    "ai_today": 1,
+    "ai_to_try": 41,
+    "content_ideas": 11,
+    "added_news": 1,
     "updated_news": 0,
     "added_events": 1,
-    "updated_events": 0,
-    "added_ai": 3,
-    "archived": 5,
+    "updated_events": 1,
+    "added_ai": 1,
+    "archived": 4,
     "discarded_quality": 0
   },
   "next_event": {
@@ -38,35 +38,28 @@
       "kind": "event",
       "title": "Black Friday Argentina 2026",
       "priority": "alta",
-      "one_liner": "Falta menos de una semana para el segundo pico de demanda del trimestre: es el momento de cerrar capacidad de depósito y transportistas."
+      "one_liner": "Falta una semana hábil para el viernes 27: es el momento de cerrar capacidad de depósito y transporte y comunicar horarios de corte a las tiendas."
     },
     {
-      "id": "ev-entrenamiento-nube-tucuman-2026",
-      "kind": "event",
-      "title": "Entrenamiento Nube Tucumán",
-      "priority": "alta",
-      "one_liner": "El 25/11 concentra a tiendas online del NOA junto con T-Connect: si se viaja, hay que resolverlo este fin de semana."
-    },
-    {
-      "id": "nw-dd2807340e",
+      "id": "nw-7cac39585f",
       "kind": "news",
-      "title": "Un estudio muestra que 4 de cada 10 tiendas online argentinas no aparecen en las respuestas de ChatGPT, Gemini y Google",
+      "title": "El consumo masivo creció 0,9% en octubre, primera suba del año, y el e-commerce fue el canal que más empujó",
       "priority": "relevante",
-      "one_liner": "La búsqueda pasa por la IA y empuja volumen hacia Mercado Libre: argumento para tiendas propias y alerta para la visibilidad de Fixy."
+      "one_liner": "El eCommerce creció 33% en consumo masivo mientras el resto de los canales quedó planchado: un dato concreto para vender fulfillment a marcas de consumo."
+    },
+    {
+      "id": "op-cddaa732",
+      "kind": "opportunity",
+      "title": "Usar el dato de Scentia (eCommerce +33% en consumo masivo) para ofrecer fulfillment a marcas de consumo masivo que venden directo",
+      "priority": "relevante",
+      "one_liner": "Una acción comercial concreta para la semana, antes de que el pico de diciembre ocupe la capacidad."
     },
     {
       "id": "ev-ecommerce-foro-mediterraneo-2026",
       "kind": "event",
       "title": "Foro Mediterráneo de Ecommerce 2026",
       "priority": "relevante",
-      "one_liner": "El 26/11 en Córdoba reúne a tiendas del interior justo antes del Black Friday."
-    },
-    {
-      "id": "ai-zendesk-zendesk-agentes-personalizados-analitica-agentica-y-",
-      "kind": "ai",
-      "title": "Zendesk: agentes personalizados, analítica agéntica y action flows avanzados gratis hasta enero de 2027",
-      "priority": "relevante",
-      "one_liner": "La prueba gratuita cubre la temporada alta completa y permite medir el ahorro en atención antes de pagar."
+      "one_liner": "El jueves 26 en Córdoba reúne a tiendas del interior justo antes del Black Friday."
     }
   ]
 }

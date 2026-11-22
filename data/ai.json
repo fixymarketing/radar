@@ -22,29 +22,6 @@
     "first_seen": "2026-11-18"
   },
   {
-    "name": "Gemini Sheets Canvas: hojas de cálculo a apps interactivas",
-    "vendor": "Google",
-    "what_it_is": "Función de Google Sheets que, con Gemini, convierte los datos de una planilla en una mini app o tablero interactivo dentro de la misma hoja.",
-    "what_changed": "Desde el 11 de noviembre (dominios Rapid Release; Scheduled Release desde el 2 de diciembre) se puede publicar el canvas en un link propio de solo lectura, separado de la planilla y con su propia audiencia. Se puede elegir que se actualice solo con cada cambio de la hoja o publicar una foto fija.",
-    "fixy_use": "Armar un canvas por cliente con pedidos despachados, en tránsito, entregados y stock disponible, y mandarle el link de solo lectura sin darle acceso a la planilla interna ni a los datos de otros clientes. Con la republicación automática, el tablero queda al día durante Black Friday sin que nadie tenga que exportar ni mandar reportes a mano.",
-    "verdict": "probar",
-    "verdict_reason": "Resuelve justo el problema de compartir tableros con clientes sin exponer la hoja y cae a tiempo para el pico de fin de año.",
-    "categories": [
-      "Operaciones",
-      "Logística",
-      "Análisis",
-      "Comercial"
-    ],
-    "pricing_note": "pago: incluido en planes Google Workspace Business y Enterprise y en Google AI Pro/Ultra; requiere que el admin tenga habilitado \"Publicar en la web\" en Drive. Por ahora solo en la versión web.",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/11/publish-sheets-canvas-as-standalone-link.html",
-    "published_date": "2026-11-11",
-    "priority": "alta",
-    "id": "ai-google-gemini-sheets-canvas-hojas-de-calculo-a-apps-interact",
-    "source_kind": "auto",
-    "last_updated": "2026-11-13",
-    "first_seen": "2026-09-08"
-  },
-  {
     "name": "Businesses in ChatGPT (Business Hub y Business Agents)",
     "vendor": "OpenAI",
     "what_it_is": "Un perfil verificado de empresa dentro de ChatGPT, parecido a la ficha de Google: la empresa reclama su perfil, corrige sus datos y ve métricas de cuántas veces ChatGPT la menciona y cuántos clics manda a su web.",
@@ -177,29 +154,6 @@
     "first_seen": "2026-09-12"
   },
   {
-    "name": "ChatGPT Space (páginas que se actualizan solas)",
-    "vendor": "OpenAI",
-    "what_it_is": "Un espacio de trabajo dentro de ChatGPT para armar y compartir páginas, presentaciones y archivos con el equipo, con la IA trabajando sobre esos documentos.",
-    "what_changed": "OpenAI lo lanzó el 29 de septiembre solo para Pro, Business y Enterprise, y desde el 20 de noviembre empezó a habilitarlo en el plan Plus, con páginas que se pueden configurar para actualizarse solas a partir de las apps conectadas (como Gmail o Slack). Las planillas y los agentes Dots todavía no están incluidos en Plus.",
-    "fixy_use": "Armar una página de estado semanal por cliente (pedidos despachados, incidencias, reclamos abiertos) que se refresque sola desde el mail y el Slack del equipo, y compartirla con comercial sin copiar y pegar. Mantener una página viva de procedimientos de operaciones y de respuestas frecuentes para atención al cliente durante la temporada alta de Black Friday y fin de año.",
-    "verdict": "probar",
-    "verdict_reason": "Llega al plan de USD 20 por mes y resuelve un dolor concreto de reportes repetitivos, aunque la actualización automática exige conectar apps y configurar la frecuencia.",
-    "categories": [
-      "Productividad",
-      "Organización",
-      "Comercial",
-      "Operaciones"
-    ],
-    "pricing_note": "pago: incluido en ChatGPT Plus (USD 20/mes), Pro, Business y Enterprise; no está en el plan gratuito",
-    "source_url": "https://www.engadget.com/2323016/openai-brings-its-collaborative-space-hubs-to-plus-users/",
-    "published_date": "2026-11-20",
-    "priority": "relevante",
-    "id": "ai-openai-chatgpt-space-paginas-que-se-actualizan-solas",
-    "source_kind": "auto",
-    "last_updated": "2026-11-21",
-    "first_seen": "2026-11-21"
-  },
-  {
     "name": "Microsoft Copilot unificado (Home, Code, Autopilot)",
     "vendor": "Microsoft",
     "what_it_is": "La app de Copilot que junta en un mismo lugar el chat, el trabajo en documentos de Office y agentes que ejecutan tareas por su cuenta.",
@@ -290,6 +244,28 @@
     "source_kind": "auto",
     "last_updated": "2026-11-21",
     "first_seen": "2026-11-21"
+  },
+  {
+    "name": "Gemini Sheets Canvas: hojas de cálculo a apps interactivas",
+    "vendor": "Google",
+    "what_it_is": "Función de Google Sheets que, con instrucciones en lenguaje natural, convierte los datos de una planilla en un mini tablero o app interactiva (canvas).",
+    "what_changed": "Desde el 11/11/2026 se puede publicar un canvas en un link propio, de solo lectura, separado de la planilla de origen y con su propia audiencia; se puede elegir que se actualice solo cuando cambian los datos o dejarlo fijo como una foto. Llega primero a dominios Rapid Release y desde el 2/12 a Scheduled Release.",
+    "fixy_use": "Armar en Sheets un tablero por cliente (pedidos despachados, demoras, stock en depósito, devoluciones) y mandarle solo el link del canvas, sin darle acceso a la planilla interna con datos de otros clientes. También sirve para un tablero de KPIs de operaciones que el equipo consulta desde el celular sin tocar la fuente.",
+    "verdict": "probar",
+    "verdict_reason": "Resuelve un problema real de reporting a clientes con una herramienta que el equipo ya usa y sin desarrollo.",
+    "categories": [
+      "Análisis",
+      "Operaciones",
+      "Comercial"
+    ],
+    "pricing_note": "no confirmado: incluido en ediciones de Google Workspace con Gemini; usa el permiso existente de \"Publicar en la web\" de Drive",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/11/publish-sheets-canvas-as-standalone-link.html",
+    "published_date": "2026-11-11",
+    "priority": "relevante",
+    "id": "ai-google-gemini-sheets-canvas-hojas-de-calculo-a-apps-interact",
+    "source_kind": "auto",
+    "last_updated": "2026-11-22",
+    "first_seen": "2026-09-08"
   },
   {
     "name": "Claude Meetings",
@@ -1157,6 +1133,50 @@
     "first_seen": "2026-09-10"
   },
   {
+    "name": "ChatGPT Space (páginas que se actualizan solas)",
+    "vendor": "OpenAI",
+    "what_it_is": "Espacio de trabajo de ChatGPT para armar páginas compartibles que se pueden actualizar solas consultando apps conectadas con la frecuencia que uno define.",
+    "what_changed": "Según las notas de versión del 20/11/2026, Space empieza a llegar de forma gradual a usuarios del plan Plus (antes era solo Pro, Business y Enterprise) y reemplaza a Library. Las páginas compartidas no las pueden abrir cuentas Free y no hay links públicos.",
+    "fixy_use": "Con una cuenta Plus, sin pasar a Business, se puede armar una página de seguimiento semanal (novedades de competidores, tarifas de correos, resumen de reclamos) que se refresca sola y que el equipo consulta en un solo lugar. No sirve para compartir con clientes que no paguen ChatGPT.",
+    "verdict": "seguir",
+    "verdict_reason": "Baja la barrera de precio, pero el despliegue es gradual y compartir requiere que el otro tenga plan pago.",
+    "categories": [
+      "Productividad",
+      "Organización",
+      "Análisis"
+    ],
+    "pricing_note": "pago: incluido en ChatGPT Plus (despliegue gradual); también en Pro, Business y Enterprise",
+    "source_url": "https://www.notebookcheck.net/ChatGPT-Space-comes-to-Plus-What-others-see-on-your-shared-pages.1456735.0.html",
+    "published_date": "2026-11-20",
+    "priority": "informativo",
+    "id": "ai-openai-chatgpt-space-paginas-que-se-actualizan-solas",
+    "source_kind": "auto",
+    "last_updated": "2026-11-22",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "name": "InMobi Accelerate",
+    "vendor": "InMobi",
+    "what_it_is": "Plataforma de publicidad para pymes y agencias donde siete agentes de IA (analista, estratega de audiencias, planificador de medios, redactor, diseñador, lanzador y optimizador) planifican, crean, lanzan y miden campañas.",
+    "what_changed": "Se lanzó el 18/11/2026 y gestiona desde un solo panel campañas en Google Ads, Meta Ads, Microsoft Advertising, TikTok Ads y ChatGPT Ads; cada plan, pieza y presupuesto pasa por aprobación humana antes de publicarse.",
+    "fixy_use": "Marketing podría usarla para armar y optimizar campañas de captación de tiendas online (por ejemplo, \"fulfillment para tu tienda en Tiendanube\") en Google y Meta sin contratar agencia, revisando y aprobando cada pieza. Antes hay que confirmar que funcione con cuentas y facturación de Argentina.",
+    "verdict": "seguir",
+    "verdict_reason": "Promete justo lo que le falta a un equipo chico de marketing, pero la disponibilidad por país y el precio real están por confirmar.",
+    "categories": [
+      "Marketing",
+      "Comercial",
+      "Automatización"
+    ],
+    "pricing_note": "freemium: gratis para empezar según el anuncio; planes pagos Por confirmar",
+    "source_url": "https://www.businesswire.com/news/home/20261118726828/en/InMobi-Launches-InMobi-Accelerate-an-Agentic-AI-Advertising-Platform-for-Growing-Businesses-and-Agencies",
+    "published_date": "2026-11-18",
+    "priority": "informativo",
+    "id": "ai-inmobi-inmobi-accelerate",
+    "source_kind": "auto",
+    "last_updated": "2026-11-22",
+    "first_seen": "2026-11-22"
+  },
+  {
     "name": "GPT-6.2 Astra y GPT-6.2 Sol",
     "vendor": "OpenAI",
     "what_it_is": "Nueva versión de los modelos de OpenAI: Astra para trabajo profesional exigente y Sol, más barato, para tareas cotidianas de redacción y análisis.",
@@ -1811,47 +1831,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-13",
     "first_seen": "2026-09-13"
-  },
-  {
-    "name": "WhatsApp: chats directos con agentes de IA de terceros",
-    "vendor": "Meta",
-    "what_it_is": "Es una función en pruebas que deja agregar hasta cinco agentes de IA de terceros como contactos de chat separados dentro de WhatsApp, generando una clave de API para conectar cada uno.",
-    "what_changed": "WhatsApp empezó a testearla en la beta de Android a principios de septiembre de 2026: a diferencia de un bot de atención vía WhatsApp Business API, acá el agente aparece como un chat independiente en la app, aunque Meta aclara que esas conversaciones no están cifradas de punta a punta porque las administra un servicio de Meta.",
-    "fixy_use": "Todavía es una beta chica y sin fecha para negocios, pero conviene seguirla de cerca: si en algún momento se habilita para empresas, Fixy podría ofrecer un asistente propio (por ejemplo para consultar el estado de un envío o coordinar una entrega) como un chat aparte dentro de WhatsApp, sin mezclarlo con el número de atención humana ni depender únicamente del flujo de la Business API.",
-    "verdict": "seguir",
-    "verdict_reason": "Es una beta limitada a algunos usuarios de Android sin apertura confirmada para negocios, todavía no hay nada concreto para implementar.",
-    "categories": [
-      "Comercial",
-      "Automatización"
-    ],
-    "pricing_note": "no confirmado: función en beta cerrada, sin modelo de precios anunciado para negocios.",
-    "source_url": "https://www.business-standard.com/technology/tech-news/whatsapp-explores-third-party-ai-agent-chats-on-android-app-details-here-126090700345_1.html",
-    "published_date": "2026-09-07",
-    "priority": "informativo",
-    "id": "ai-meta-whatsapp-chats-directos-con-agentes-de-ia-de-terceros",
-    "source_kind": "auto",
-    "last_updated": "2026-09-10",
-    "first_seen": "2026-09-10"
-  },
-  {
-    "name": "WhatsApp: chats con agentes de IA de terceros",
-    "vendor": "Meta",
-    "what_it_is": "Una función en pruebas que permite vincular hasta cinco agentes de IA de terceros a chats individuales dentro de WhatsApp, cada uno con su propio nombre y foto, usando una clave de API generada por la app.",
-    "what_changed": "Detectada por WABetaInfo en la versión beta de WhatsApp para Android a comienzos de septiembre de 2026; todavía no está confirmada oficialmente por Meta ni disponible para el público general, y estos chats no tienen cifrado de extremo a extremo.",
-    "fixy_use": "Por confirmar: si esto avanza a una versión estable y se abre a cuentas de negocio, Fixy podría eventualmente vincular su propio agente (por ejemplo uno armado con Claude o ChatGPT) a un chat de WhatsApp para consultas de seguimiento de pedidos, pero hoy es una prueba limitada a usuarios de Android y sin confirmación de uso comercial.",
-    "verdict": "seguir",
-    "verdict_reason": "Todavía es una beta no confirmada por Meta y sin cifrado, así que conviene monitorear antes de planear algo sobre esto.",
-    "categories": [
-      "Operaciones",
-      "Automatización"
-    ],
-    "pricing_note": "no confirmado - función en prueba, sin detalles de costo ni disponibilidad para cuentas de negocio",
-    "source_url": "https://wabetainfo.com/whatsapp-is-rolling-out-chats-with-third-party-agents/",
-    "published_date": "2026-09-07",
-    "priority": "informativo",
-    "id": "ai-meta-whatsapp-chats-con-agentes-de-ia-de-terceros",
-    "source_kind": "auto",
-    "last_updated": "2026-09-11",
-    "first_seen": "2026-09-11"
   }
 ]

@@ -566,5 +566,27 @@
     "source_kind": "auto",
     "last_updated": "2026-11-21",
     "first_seen": "2026-11-21"
+  },
+  {
+    "title": "El consumo masivo creció 0,9% en octubre, primera suba del año, y el e-commerce fue el canal que más empujó",
+    "what_happened": "Según la consultora Scentia, el consumo masivo subió 0,9% interanual en octubre, la primera variación positiva de 2026, aunque acumula una caída de 2,3% entre enero y octubre. El comercio electrónico fue el canal de mayor crecimiento, con una suba de 33,2% interanual en octubre y de 35% en el acumulado del año. Las farmacias y el e-commerce son los únicos canales con saldo positivo en el acumulado; supermercados y autoservicios independientes quedaron prácticamente sin cambios interanuales.",
+    "why_it_matters": "Confirma que el canal online sigue ganando participación en productos de consumo masivo aun con el consumo general en baja, justo antes del Black Friday y del pico de fin de año.",
+    "fixy_impact": "Es un dato concreto para la propuesta comercial a marcas de consumo masivo y alimentos que todavía no venden online o que tercerizan poco su logística; también anticipa más volumen de pedidos de bajo ticket y alta frecuencia en fulfillment y última milla.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Infobae (datos de Scentia)",
+    "source_url": "https://www.infobae.com/economia/2026/11/21/el-consumo-masivo-repunto-fuerte-en-octubre-pero-acumula-una-caida-de-23-en-el-ano/",
+    "published_date": "2026-11-21",
+    "priority": "relevante",
+    "tags": [
+      "consumo masivo",
+      "Scentia",
+      "ecommerce",
+      "canales de venta"
+    ],
+    "id": "nw-7cac39585f",
+    "source_kind": "auto",
+    "last_updated": "2026-11-22",
+    "first_seen": "2026-11-22"
   }
 ]

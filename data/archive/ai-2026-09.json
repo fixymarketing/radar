@@ -526,5 +526,47 @@
     "source_kind": "auto",
     "last_updated": "2026-09-08",
     "first_seen": "2026-09-04"
+  },
+  {
+    "name": "WhatsApp: chats directos con agentes de IA de terceros",
+    "vendor": "Meta",
+    "what_it_is": "Es una función en pruebas que deja agregar hasta cinco agentes de IA de terceros como contactos de chat separados dentro de WhatsApp, generando una clave de API para conectar cada uno.",
+    "what_changed": "WhatsApp empezó a testearla en la beta de Android a principios de septiembre de 2026: a diferencia de un bot de atención vía WhatsApp Business API, acá el agente aparece como un chat independiente en la app, aunque Meta aclara que esas conversaciones no están cifradas de punta a punta porque las administra un servicio de Meta.",
+    "fixy_use": "Todavía es una beta chica y sin fecha para negocios, pero conviene seguirla de cerca: si en algún momento se habilita para empresas, Fixy podría ofrecer un asistente propio (por ejemplo para consultar el estado de un envío o coordinar una entrega) como un chat aparte dentro de WhatsApp, sin mezclarlo con el número de atención humana ni depender únicamente del flujo de la Business API.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una beta limitada a algunos usuarios de Android sin apertura confirmada para negocios, todavía no hay nada concreto para implementar.",
+    "categories": [
+      "Comercial",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado: función en beta cerrada, sin modelo de precios anunciado para negocios.",
+    "source_url": "https://www.business-standard.com/technology/tech-news/whatsapp-explores-third-party-ai-agent-chats-on-android-app-details-here-126090700345_1.html",
+    "published_date": "2026-09-07",
+    "priority": "informativo",
+    "id": "ai-meta-whatsapp-chats-directos-con-agentes-de-ia-de-terceros",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "name": "WhatsApp: chats con agentes de IA de terceros",
+    "vendor": "Meta",
+    "what_it_is": "Una función en pruebas que permite vincular hasta cinco agentes de IA de terceros a chats individuales dentro de WhatsApp, cada uno con su propio nombre y foto, usando una clave de API generada por la app.",
+    "what_changed": "Detectada por WABetaInfo en la versión beta de WhatsApp para Android a comienzos de septiembre de 2026; todavía no está confirmada oficialmente por Meta ni disponible para el público general, y estos chats no tienen cifrado de extremo a extremo.",
+    "fixy_use": "Por confirmar: si esto avanza a una versión estable y se abre a cuentas de negocio, Fixy podría eventualmente vincular su propio agente (por ejemplo uno armado con Claude o ChatGPT) a un chat de WhatsApp para consultas de seguimiento de pedidos, pero hoy es una prueba limitada a usuarios de Android y sin confirmación de uso comercial.",
+    "verdict": "seguir",
+    "verdict_reason": "Todavía es una beta no confirmada por Meta y sin cifrado, así que conviene monitorear antes de planear algo sobre esto.",
+    "categories": [
+      "Operaciones",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado - función en prueba, sin detalles de costo ni disponibilidad para cuentas de negocio",
+    "source_url": "https://wabetainfo.com/whatsapp-is-rolling-out-chats-with-third-party-agents/",
+    "published_date": "2026-09-07",
+    "priority": "informativo",
+    "id": "ai-meta-whatsapp-chats-con-agentes-de-ia-de-terceros",
+    "source_kind": "auto",
+    "last_updated": "2026-09-11",
+    "first_seen": "2026-09-11"
   }
 ]

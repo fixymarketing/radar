@@ -1,80 +1,6 @@
 [
   {
     "scope": "ar",
-    "name": "Somos Pymes Summit – El País que se Viene",
-    "organizer": "Somos Pymes",
-    "date_start": "2026-11-18",
-    "date_end": "2026-11-18",
-    "date_confirmed": true,
-    "date_note": "El listado de Eventbrite indica miércoles 18 de noviembre sin año; coincide con 2026 pero falta confirmación oficial.",
-    "city": "Buenos Aires",
-    "province": "Buenos Aires",
-    "country": "Argentina",
-    "venue": "La Rural (ingreso proveedores, calle Juncal)",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Emprendimiento",
-    "url": "https://www.eventbrite.com.ar/e/somos-pymes-summit-el-pais-que-se-viene-tickets-1983204381692",
-    "source_url": "https://www.eventbrite.com.ar/e/somos-pymes-summit-el-pais-que-se-viene-tickets-1983204381692",
-    "description": "Cumbre de pymes con jornada completa (08:00 a 18:00) el miércoles 18 de noviembre de 2026.",
-    "fixy_relevance": "Concentra pymes y emprendedores que venden online y necesitan resolver logística y fulfillment.",
-    "justification_type": null,
-    "priority": "relevante",
-    "beyond_90": false,
-    "id": "ev-pais-pymes-que-se-somos-summit-viene-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-11-06",
-    "first_seen": "2026-08-19",
-    "change_log": [
-      {
-        "date": "2026-08-21",
-        "fields": [
-          "province",
-          "venue",
-          "description",
-          "fixy_relevance",
-          "priority",
-          "beyond_90"
-        ]
-      },
-      {
-        "date": "2026-09-04",
-        "fields": [
-          "city",
-          "province",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-10-13",
-        "fields": [
-          "organizer",
-          "date_note",
-          "city",
-          "venue",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      },
-      {
-        "date": "2026-11-06",
-        "fields": [
-          "city",
-          "province",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance"
-        ]
-      }
-    ]
-  },
-  {
-    "scope": "ar",
     "name": "Black Friday Argentina 2026",
     "organizer": "Marcas y retailers (no lo organiza la CACE)",
     "date_start": "2026-11-27",
@@ -2318,11 +2244,11 @@
   {
     "scope": "intl",
     "name": "Feria Effix 2027",
-    "organizer": "Feria Effix",
+    "organizer": "Grupo Effi",
     "date_start": null,
     "date_end": null,
     "date_confirmed": false,
-    "date_note": "El sitio oficial indica agosto de 2027 en Plaza Mayor (Medellín), sin días precisos. Un calendario de terceros (cantonfair.net) lista del 1 al 31 de agosto de 2027 como marcador de posición, no como fecha real. Días por confirmar.",
+    "date_note": "El sitio oficial anuncia la edición 2027 para agosto de 2027 en Plaza Mayor; los días exactos todavía no están publicados. Ojo: la edición 2026 se movió a octubre (15 al 19/10/2026), así que el mes puede cambiar.",
     "city": "Medellín",
     "province": null,
     "country": "Colombia",
@@ -2332,14 +2258,14 @@
     "category": "eCommerce",
     "url": "https://feriaeffix.com/",
     "source_url": "https://feriaeffix.com/",
-    "description": "Feria de emprendimiento, eCommerce y marketing digital, de las más masivas de Colombia; la edición 2026 se hizo en octubre.",
-    "fixy_relevance": "Es una vitrina masiva de vendedores online y pymes digitales de la región andina. Tiene sentido como aprendizaje o para relevar el mercado colombiano si se evalúa una expansión, aunque el público es más emprendedor que corporativo.",
+    "description": "Feria de emprendimiento, eCommerce y marketing digital que se presenta como la más grande de Latinoamérica, con miles de vendedores online y pymes digitales.",
+    "fixy_relevance": "Concentra a miles de tiendas online y emprendedores digitales de la región: sirve para entender cómo opera el seller latinoamericano y explorar alianzas si Fixy piensa en expansión regional.",
     "justification_type": "expansión regional",
     "priority": "informativo",
     "beyond_90": true,
     "id": "ev-effix-feria-El s",
     "source_kind": "auto",
-    "last_updated": "2026-11-18",
+    "last_updated": "2026-11-22",
     "first_seen": "2026-11-13",
     "change_log": [
       {
@@ -2349,6 +2275,15 @@
           "description",
           "fixy_relevance",
           "priority"
+        ]
+      },
+      {
+        "date": "2026-11-22",
+        "fields": [
+          "organizer",
+          "date_note",
+          "description",
+          "fixy_relevance"
         ]
       }
     ]
@@ -2605,5 +2540,32 @@
     "source_kind": "auto",
     "last_updated": "2026-11-21",
     "first_seen": "2026-11-21"
+  },
+  {
+    "scope": "ar",
+    "name": "eCommerce Day Argentina 2027",
+    "organizer": "eCommerce Institute",
+    "date_start": "2027-08-19",
+    "date_end": "2027-08-19",
+    "date_confirmed": true,
+    "date_note": "El sitio oficial indica jueves 19 de agosto de 2027, de 9 a 18 h (el 19/08/2027 cae jueves). Sede todavía sin anunciar.",
+    "city": "Ciudad Autónoma de Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "country": "Argentina",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "eCommerce",
+    "url": "https://ecommerce.institute/ecommerce-day-tour-2027-11-paises-nuevas-experiencias-y-una-agenda-para-impulsar-el-futuro-del-comercio-digital-en-iberoamerica/",
+    "source_url": "https://ecommerce.institute/ecommerce-day-tour-2027-11-paises-nuevas-experiencias-y-una-agenda-para-impulsar-el-futuro-del-comercio-digital-en-iberoamerica/",
+    "description": "21.ª edición del eCommerce Day Argentina, la parada local del eCommerce Day Tour 2027 que recorre 11 países de Iberoamérica. Es el encuentro anual más grande del comercio digital en el país; la edición 2026 reunió a retailers, plataformas, medios de pago y operadores logísticos.",
+    "fixy_relevance": "Es donde se juntan los decisores de eCommerce de marcas y retailers que tercerizan fulfillment y última milla: conviene reservar la fecha ya para planificar presencia comercial, sponsoreo o reuniones.",
+    "justification_type": null,
+    "priority": "alta",
+    "beyond_90": true,
+    "id": "ev-argentina-day-ecommerce-2027",
+    "source_kind": "auto",
+    "last_updated": "2026-11-22",
+    "first_seen": "2026-11-22"
   }
 ]

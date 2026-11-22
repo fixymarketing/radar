@@ -1,5 +1,21 @@
 [
   {
+    "title": "Usar el dato de Scentia (eCommerce +33% en consumo masivo) para ofrecer fulfillment a marcas de consumo masivo que venden directo",
+    "context": "Según Scentia, el consumo masivo subió 0,9% interanual en octubre, la primera suba del año, y el eCommerce fue el canal que más creció: +33,2% en octubre y +35% en el acumulado. Junto con farmacias, es el único canal con saldo positivo en el año, mientras supermercados y autoservicios quedaron planchados.",
+    "action": "Armar esta semana una pieza comercial de una página con el dato de Scentia y enviarla a 10 marcas de alimentos, bebidas, limpieza o cuidado personal que tengan tienda propia o vendan en Mercado Libre, ofreciendo fulfillment para pedidos de bajo ticket y alta frecuencia de cara a diciembre.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/11/21/el-consumo-masivo-repunto-fuerte-en-octubre-pero-acumula-una-caida-de-23-en-el-ano/",
+    "linked": [
+      "El consumo masivo creció 0,9% en octubre, primera suba del año, y el e-commerce fue el canal que más empujó",
+      "Las compras de alimentos online siguen creciendo mientras el canal tradicional cae: las apps empujan con promociones y 'markets'"
+    ],
+    "id": "op-cddaa732",
+    "source_kind": "auto",
+    "last_updated": "2026-11-22",
+    "first_seen": "2026-11-22"
+  },
+  {
     "title": "Revisar cómo aparece Fixy en ChatGPT, Gemini y Google AI Overviews y usar el estudio como argumento con tiendas propias",
     "context": "El estudio Radar IA eCommerce Argentina 2026 encontró que el 38,7% de 1.017 tiendas online argentinas no aparece en ninguna respuesta de ChatGPT, Gemini ni Google AI Overviews, mientras Mercado Libre domina las menciones. La búsqueda de proveedores también empieza a pasar por asistentes de IA, incluida la de operadores de fulfillment.",
     "action": "Esta semana, hacer 10 consultas tipo \"operador de fulfillment para mi tienda online en Argentina\" en los tres asistentes, registrar si Fixy aparece y con qué datos, y corregir la información pública (web, perfil de ChatGPT para negocios, Google Business) donde falte o esté mal.",
@@ -110,21 +126,5 @@
     "source_kind": "auto",
     "last_updated": "2026-11-18",
     "first_seen": "2026-11-18"
-  },
-  {
-    "title": "Armar con Gemini Notebook una guía interactiva de onboarding para tiendas que entran antes de Black Friday",
-    "context": "Google habilitó el 16/11 en Gemini Notebook la generación de sitios interactivos (explicadores, tableros, rastreadores de tareas) a partir de los documentos cargados en un cuaderno, también para cuentas de Workspace. A diez días del Black Friday (27/11), cada tienda que se suma al fulfillment necesita conocer horarios de corte, ingreso de mercadería y política de reclamos.",
-    "action": "Cargar en un cuaderno el manual de ingreso de mercadería, los horarios de corte y la política de reclamos de Fixy, generar la guía interactiva y probarla esta semana con una o dos tiendas que estén ingresando stock para la temporada alta.",
-    "type": "producto",
-    "priority": "relevante",
-    "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
-    "linked": [
-      "Gemini Notebook: sitios interactivos a partir de las fuentes",
-      "Black Friday Argentina 2026"
-    ],
-    "id": "op-30ceb792",
-    "source_kind": "auto",
-    "last_updated": "2026-11-17",
-    "first_seen": "2026-11-17"
   }
 ]
