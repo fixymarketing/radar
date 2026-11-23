@@ -4877,5 +4877,71 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "Hackathon Retail Chain 4.0",
+    "organizer": "Comunidad Retail Chain 4.0 (auspician Universidad Nacional del Sur, Universidad CAECE y Silicon Misiones)",
+    "date_start": "2026-11-16",
+    "date_end": "2026-11-19",
+    "date_confirmed": true,
+    "date_note": "Según Enfoque U (UNS), las sedes van escalonadas: Bahía Blanca el lunes 16/11, Buenos Aires el miércoles 18/11 y Posadas el jueves 19/11. Otra cobertura lo describe como simultáneo en las tres ciudades del 16 al 19/11.",
+    "city": "Bahía Blanca, Ciudad de Buenos Aires y Posadas",
+    "province": "CABA / Buenos Aires / Misiones",
+    "country": "Argentina",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "híbrido",
+    "category": "Logística",
+    "url": "https://funs.uns.edu.ar/novedades/noticias/c75b47cd-9079-4855-9e22-308ea4227171",
+    "source_url": "https://www.enfoqueu.uns.edu.ar/bahia-blanca-sera-sede-de-un-hackathon-para-impulsar-la-innovacion-en-logistica/",
+    "description": "Hackathon federal sobre cadena de suministro y retail: equipos interdisciplinarios trabajan sobre problemas reales que plantean empresas del sector. En el jurado participan, entre otros, GS1 Argentina, CACE y UTN-FRBB.",
+    "fixy_relevance": "Muestra qué problemas logísticos priorizan retailers y pymes, y permite vincularse con universidades y talento técnico en logística de Bahía Blanca, Buenos Aires y Misiones.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-chain-hackathon-retail-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-11-15",
+    "first_seen": "2026-09-28",
+    "change_log": [
+      {
+        "date": "2026-11-13",
+        "fields": [
+          "organizer",
+          "date_note",
+          "city",
+          "province",
+          "format",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-11-14",
+        "fields": [
+          "organizer",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      },
+      {
+        "date": "2026-11-15",
+        "fields": [
+          "organizer",
+          "date_note",
+          "city",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
   }
 ]

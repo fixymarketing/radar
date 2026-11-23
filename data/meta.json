@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-22T12:10:32.498Z",
-  "last_updated_ar": "22/11/2026, 09:10",
-  "date": "2026-11-22",
+  "generated_at": "2026-11-23T12:09:30.602Z",
+  "last_updated_ar": "23/11/2026, 09:09",
+  "date": "2026-11-23",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "A cinco días del Black Friday, Scentia confirma que el eCommerce fue el canal que más creció en consumo masivo en octubre (+33%) en un mercado que recién empieza a repuntar: buena semana para cerrar capacidad y salir a buscar marcas de consumo que venden directo.",
+  "summary_line": "Semana de Black Friday: más de 70 shoppings estiran las ofertas del 27 al 29 y PedidosYa ya tiene dark stores en 43 ciudades, así que el pico llega con más días de demanda y un comprador del interior que espera entregas cada vez más rápidas.",
   "counters": {
-    "news_today": 1,
-    "news_total": 26,
+    "news_today": 2,
+    "news_total": 28,
     "events_upcoming": 16,
     "events_ar_upcoming": 9,
     "events_intl_upcoming": 7,
     "events_later": 43,
     "opportunities_open": 8,
-    "opportunities_today": 1,
+    "opportunities_today": 0,
     "ai_today": 1,
-    "ai_to_try": 41,
-    "content_ideas": 11,
-    "added_news": 1,
+    "ai_to_try": 40,
+    "content_ideas": 12,
+    "added_news": 2,
     "updated_news": 0,
-    "added_events": 1,
-    "updated_events": 1,
+    "added_events": 0,
+    "updated_events": 0,
     "added_ai": 1,
-    "archived": 4,
+    "archived": 3,
     "discarded_quality": 0
   },
   "next_event": {
@@ -38,28 +38,35 @@
       "kind": "event",
       "title": "Black Friday Argentina 2026",
       "priority": "alta",
-      "one_liner": "Falta una semana hábil para el viernes 27: es el momento de cerrar capacidad de depósito y transporte y comunicar horarios de corte a las tiendas."
+      "one_liner": "Faltan cuatro días para el viernes 27: es la última semana para cerrar capacidad de preparación, cortes de despacho y transportistas."
     },
     {
-      "id": "nw-7cac39585f",
+      "id": "nw-ec5fbbb5ec",
       "kind": "news",
-      "title": "El consumo masivo creció 0,9% en octubre, primera suba del año, y el e-commerce fue el canal que más empujó",
+      "title": "Más de 70 shoppings se suman a los Black Shopping Days del 27 al 29 de noviembre, en paralelo al Black Friday",
       "priority": "relevante",
-      "one_liner": "El eCommerce creció 33% en consumo masivo mientras el resto de los canales quedó planchado: un dato concreto para vender fulfillment a marcas de consumo."
+      "one_liner": "El retail físico estira el Black Friday a todo el fin de semana, así que conviene planificar el pico de pedidos online de indumentaria y calzado hasta el lunes 30."
     },
     {
-      "id": "op-cddaa732",
-      "kind": "opportunity",
-      "title": "Usar el dato de Scentia (eCommerce +33% en consumo masivo) para ofrecer fulfillment a marcas de consumo masivo que venden directo",
+      "id": "nw-8768ec79da",
+      "kind": "news",
+      "title": "PedidosYa Market ya opera más de 70 dark stores en 43 ciudades y pelea el gasto cotidiano con los supermercados",
       "priority": "relevante",
-      "one_liner": "Una acción comercial concreta para la semana, antes de que el pico de diciembre ocupe la capacidad."
+      "one_liner": "El quick commerce ya llegó a 12 provincias y sube la vara de velocidad que espera el comprador del interior."
     },
     {
       "id": "ev-ecommerce-foro-mediterraneo-2026",
       "kind": "event",
       "title": "Foro Mediterráneo de Ecommerce 2026",
       "priority": "relevante",
-      "one_liner": "El jueves 26 en Córdoba reúne a tiendas del interior justo antes del Black Friday."
+      "one_liner": "El jueves 26 en Córdoba es la última oportunidad de la semana para captar tiendas del interior antes del Black Friday."
+    },
+    {
+      "id": "ai-openai-chatgpt-live-dictation-dictado-en-vivo-sin-limite-de-",
+      "kind": "ai",
+      "title": "ChatGPT Live Dictation (dictado en vivo sin límite de 10 minutos)",
+      "priority": "informativo",
+      "one_liner": "Dictado gratis y sin límite de 10 minutos en todos los planes: sirve para cargar incidencias del turno o resúmenes de visitas sin teclear."
     }
   ]
 }

@@ -588,5 +588,51 @@
     "source_kind": "auto",
     "last_updated": "2026-11-22",
     "first_seen": "2026-11-22"
+  },
+  {
+    "title": "PedidosYa Market ya opera más de 70 dark stores en 43 ciudades y pelea el gasto cotidiano con los supermercados",
+    "what_happened": "Según La Nación, la división PedidosYa Market opera una red de más de 70 dark stores distribuidas en 43 ciudades de 12 provincias. Son locales a puerta cerrada, con costos más bajos que una sucursal tradicional, pensados para resolver compras chicas en minutos. Alrededor del 35% de los pedidos incluye más de 10 productos y el ticket promedio de supermercado duplica al de otros comercios de la app.",
+    "why_it_matters": "El quick commerce dejó de ser un fenómeno del AMBA: las plataformas de delivery montan redes de microdepósitos en el interior y compiten con supermercados, Rappi y Mercado Libre por el consumo masivo, con canastas cada vez más grandes.",
+    "fixy_impact": "Las redes de microfulfillment urbano suben la vara de velocidad de entrega que esperan los consumidores en ciudades del interior; Fixy puede usar el dato para posicionar envíos en el día y stock distribuido ante marcas de consumo masivo.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "La Nación",
+    "source_url": "https://www.lanacion.com.ar/economia/negocios/consumo-estancado-compras-y-mas-competencia-nid21112026/",
+    "published_date": "2026-11-21",
+    "priority": "relevante",
+    "tags": [
+      "quick commerce",
+      "dark stores",
+      "PedidosYa",
+      "consumo masivo",
+      "interior"
+    ],
+    "id": "nw-8768ec79da",
+    "source_kind": "auto",
+    "last_updated": "2026-11-23",
+    "first_seen": "2026-11-23"
+  },
+  {
+    "title": "Más de 70 shoppings se suman a los Black Shopping Days del 27 al 29 de noviembre, en paralelo al Black Friday",
+    "what_happened": "La Cámara Argentina de Shopping Centers impulsa los Black Shopping Days del viernes 27 al domingo 29 de noviembre, con más de 70 centros comerciales adheridos y descuentos de hasta 50% en locales participantes. Cencosud sumó sus 17 shoppings e IRSA sus centros; en San Juan, Patio Alvear anunció rebajas de hasta 60%.",
+    "why_it_matters": "El Black Friday, que en la Argentina no tiene organizador oficial, suma esta vez una campaña coordinada del retail físico: el fin de semana del 27 al 29 va a concentrar la competencia entre canales online y presencial.",
+    "fixy_impact": "Conviene anticipar picos de pedidos online de marcas de indumentaria y calzado presentes en shoppings para el 27 al 30 de noviembre, y planificar capacidad de preparación y despacho.",
+    "category": "Retail",
+    "geo": "Argentina",
+    "source_name": "Diario Huarpe",
+    "source_url": "https://www.diariohuarpe.com/nota/patio-alvear-tendra-descuentos-de-hasta-el-60-durante-el-black-shopping-days-202611191400",
+    "published_date": "2026-11-19",
+    "priority": "informativo",
+    "tags": [
+      "Black Friday",
+      "shoppings",
+      "CASC",
+      "retail físico",
+      "descuentos"
+    ],
+    "id": "nw-ec5fbbb5ec",
+    "source_kind": "auto",
+    "last_updated": "2026-11-23",
+    "first_seen": "2026-11-23"
   }
 ]

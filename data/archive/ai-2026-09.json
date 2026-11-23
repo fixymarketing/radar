@@ -568,5 +568,47 @@
     "source_kind": "auto",
     "last_updated": "2026-09-11",
     "first_seen": "2026-09-11"
+  },
+  {
+    "name": "ChatGPT Images 2.5",
+    "vendor": "OpenAI",
+    "what_it_is": "Es la nueva versión del generador y editor de imágenes de ChatGPT, con más calidad de detalle y una función nueva llamada Sketch para dibujar un boceto simple como referencia de la imagen final.",
+    "what_changed": "OpenAI lo lanzó el 8 de septiembre de 2026 para todos los usuarios de ChatGPT (incluido ChatGPT Work) en escritorio, celular y web, con plantillas listas para volantes, posters y fotos de producto, y hasta un 50% menos de tiempo de espera para generar cada imagen frente a la versión anterior.",
+    "fixy_use": "Fixy puede usarlo para armar piezas de marketing y contenido para redes (posteos, flyers de promociones, banners para WhatsApp o Instagram) sin depender de un diseñador, partiendo de una foto de producto real o un boceto simple. También sirve para generar infografías tipo \"así embalamos tu pedido\" o piezas para propuestas comerciales, manteniendo consistencia visual entre varias imágenes de una misma campaña.",
+    "verdict": "probar",
+    "verdict_reason": "Ya está incluido en los planes de ChatGPT que el equipo puede tener contratados y acorta bastante el tiempo de producción de piezas gráficas simples.",
+    "categories": [
+      "Marketing",
+      "Contenido"
+    ],
+    "pricing_note": "freemium: incluido en los planes de ChatGPT (Plus/Pro/Business/Work); costo adicional por uso vía API no confirmado.",
+    "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "published_date": "2026-09-08",
+    "priority": "relevante",
+    "id": "ai-openai-chatgpt-images-2-5",
+    "source_kind": "auto",
+    "last_updated": "2026-09-10",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "name": "Agentes de IA de terceros en chats de WhatsApp",
+    "vendor": "Meta / WhatsApp",
+    "what_it_is": "Una función en prueba que deja agregar un agente de IA externo como contacto dentro de WhatsApp y chatear con él en una conversación individual, vinculándolo con una clave de API.",
+    "what_changed": "Empezó a probarse el 8 de septiembre de 2026 en la beta de WhatsApp para Android (versión 2.26.35.3): hasta 5 agentes por cuenta, cada uno sin acceso a otros chats, contactos ni multimedia, y sin el cifrado de extremo a extremo habitual de WhatsApp en esas conversaciones puntuales.",
+    "fixy_use": "Todavía es una prueba acotada a Android, sin fecha de lanzamiento general ni versión confirmada para cuentas de negocio, así que hoy no hay nada para implementar. Vale la pena seguirlo porque WhatsApp es el canal de atención número uno en Argentina, y si esta función se abre en el futuro a cuentas comerciales podría cambiar cómo Fixy o sus clientes de eCommerce ofrecen un asistente propio dentro del mismo chat que ya usan los compradores.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una prueba beta sin versión de negocio confirmada, pero anticipa hacia dónde puede ir WhatsApp como canal de atención con IA.",
+    "categories": [
+      "Operaciones",
+      "Automatización"
+    ],
+    "pricing_note": "no confirmado — función en prueba, sin fecha de lanzamiento general ni esquema de precios",
+    "source_url": "https://wabetainfo.com/whatsapp-is-rolling-out-chats-with-third-party-agents/",
+    "published_date": "2026-09-08",
+    "priority": "informativo",
+    "id": "ai-meta-whatsapp-agentes-de-ia-de-terceros-en-chats-de-whatsapp",
+    "source_kind": "auto",
+    "last_updated": "2026-09-13",
+    "first_seen": "2026-09-13"
   }
 ]
