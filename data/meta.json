@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-11-23T12:09:30.602Z",
-  "last_updated_ar": "23/11/2026, 09:09",
-  "date": "2026-11-23",
+  "generated_at": "2026-11-24T12:08:14.066Z",
+  "last_updated_ar": "24/11/2026, 09:08",
+  "date": "2026-11-24",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "Semana de Black Friday: más de 70 shoppings estiran las ofertas del 27 al 29 y PedidosYa ya tiene dark stores en 43 ciudades, así que el pico llega con más días de demanda y un comprador del interior que espera entregas cada vez más rápidas.",
+  "summary_line": "A tres días del Black Friday, la crecida del Paraná complica los accesos en el Litoral y suma una razón más para avisar plazos realistas a las tiendas que despachan a Chaco, Corrientes, Santa Fe y Entre Ríos.",
   "counters": {
-    "news_today": 2,
-    "news_total": 28,
-    "events_upcoming": 16,
-    "events_ar_upcoming": 9,
+    "news_today": 1,
+    "news_total": 29,
+    "events_upcoming": 15,
+    "events_ar_upcoming": 8,
     "events_intl_upcoming": 7,
     "events_later": 43,
     "opportunities_open": 8,
-    "opportunities_today": 0,
+    "opportunities_today": 1,
     "ai_today": 1,
-    "ai_to_try": 40,
-    "content_ideas": 12,
-    "added_news": 2,
+    "ai_to_try": 38,
+    "content_ideas": 13,
+    "added_news": 1,
     "updated_news": 0,
     "added_events": 0,
     "updated_events": 0,
     "added_ai": 1,
-    "archived": 3,
+    "archived": 7,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-black-mayorista-nacional-week-2026",
-    "name": "Black Week Nacional Mayorista 2026",
-    "date_start": "2026-11-16",
-    "city": "Todo el país",
+    "id": "ev-expolog-feira-internacional-logistica-2026",
+    "name": "EXPOLOG 2026 (Feira Internacional de Logística)",
+    "date_start": "2026-11-23",
+    "city": "Fortaleza",
     "days_away": 0
   },
   "highlights": [
@@ -38,35 +38,35 @@
       "kind": "event",
       "title": "Black Friday Argentina 2026",
       "priority": "alta",
-      "one_liner": "Faltan cuatro días para el viernes 27: es la última semana para cerrar capacidad de preparación, cortes de despacho y transportistas."
+      "one_liner": "Faltan tres días para el pico del 27 al 29: es el momento de cerrar capacidad de depósito, cortes horarios y transportistas."
     },
     {
-      "id": "nw-ec5fbbb5ec",
+      "id": "nw-fa1bff98a2",
       "kind": "news",
-      "title": "Más de 70 shoppings se suman a los Black Shopping Days del 27 al 29 de noviembre, en paralelo al Black Friday",
+      "title": "La crecida del Paraná deja más de 4.500 evacuados en el Litoral y obliga a abastecer zonas aisladas con buques y anfibios",
       "priority": "relevante",
-      "one_liner": "El retail físico estira el Black Friday a todo el fin de semana, así que conviene planificar el pico de pedidos online de indumentaria y calzado hasta el lunes 30."
+      "one_liner": "Los envíos a Chaco, Corrientes, Santa Fe y Entre Ríos pueden demorarse en plena semana de Black Friday, y conviene avisarlo antes que explicarlo después."
     },
     {
-      "id": "nw-8768ec79da",
-      "kind": "news",
-      "title": "PedidosYa Market ya opera más de 70 dark stores en 43 ciudades y pelea el gasto cotidiano con los supermercados",
+      "id": "op-06dcd55c",
+      "kind": "opportunity",
+      "title": "Avisar a las tiendas que despachan al Litoral cómo se van a manejar los envíos durante la crecida del Paraná",
       "priority": "relevante",
-      "one_liner": "El quick commerce ya llegó a 12 provincias y sube la vara de velocidad que espera el comprador del interior."
+      "one_liner": "Un aviso proactivo con plazos realistas le ahorra reclamos al cliente y muestra a Fixy como un operador que anticipa."
     },
     {
       "id": "ev-ecommerce-foro-mediterraneo-2026",
       "kind": "event",
       "title": "Foro Mediterráneo de Ecommerce 2026",
       "priority": "relevante",
-      "one_liner": "El jueves 26 en Córdoba es la última oportunidad de la semana para captar tiendas del interior antes del Black Friday."
+      "one_liner": "El jueves 26 en Córdoba se juntan tiendas online del interior justo antes del Black Friday."
     },
     {
-      "id": "ai-openai-chatgpt-live-dictation-dictado-en-vivo-sin-limite-de-",
-      "kind": "ai",
-      "title": "ChatGPT Live Dictation (dictado en vivo sin límite de 10 minutos)",
-      "priority": "informativo",
-      "one_liner": "Dictado gratis y sin límite de 10 minutos en todos los planes: sirve para cargar incidencias del turno o resúmenes de visitas sin teclear."
+      "id": "nw-92f312b45c",
+      "kind": "news",
+      "title": "Mercado Libre suma entregas de supermercado en hasta 45 minutos con Carrefour en el AMBA",
+      "priority": "relevante",
+      "one_liner": "La vara de velocidad de entrega sigue subiendo y llega al consumo masivo."
     }
   ]
 }

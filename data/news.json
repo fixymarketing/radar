@@ -634,5 +634,28 @@
     "source_kind": "auto",
     "last_updated": "2026-11-23",
     "first_seen": "2026-11-23"
+  },
+  {
+    "title": "La crecida del Paraná deja más de 4.500 evacuados en el Litoral y obliga a abastecer zonas aisladas con buques y anfibios",
+    "what_happened": "La crecida del río Paraná afecta 25 localidades de Chaco, Corrientes, Santa Fe y Entre Ríos, con unas 4.547 personas evacuadas o autoevacuadas. Hay caminos rurales cortados y en varias zonas el abastecimiento se sostiene con embarcaciones, vehículos anfibios y puentes Bailey. Los pronósticos prevén nuevos pulsos de crecida desde fines de noviembre y posibles subas del río Uruguay hasta el 2 de diciembre.",
+    "why_it_matters": "La emergencia coincide con la semana de Black Friday: cuando el agua corta accesos, las entregas al Litoral se demoran o directamente no llegan por camión, y los transportistas regionales reprograman rutas.",
+    "fixy_impact": "Conviene revisar con los transportistas los envíos a Chaco, Corrientes, Santa Fe y Entre Ríos y avisar a los clientes que los plazos de entrega en esas zonas pueden estirarse durante el pico.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Infobae (Movant)",
+    "source_url": "https://www.infobae.com/movant/2026/11/22/inundaciones-en-el-litoral-buques-anfibios-y-puentes-bailey-para-llegar-donde-no-entran-camiones/",
+    "published_date": "2026-11-22",
+    "priority": "relevante",
+    "tags": [
+      "inundaciones",
+      "Litoral",
+      "rutas",
+      "Black Friday",
+      "transporte"
+    ],
+    "id": "nw-fa1bff98a2",
+    "source_kind": "auto",
+    "last_updated": "2026-11-24",
+    "first_seen": "2026-11-24"
   }
 ]

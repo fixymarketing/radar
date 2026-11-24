@@ -1,5 +1,21 @@
 [
   {
+    "title": "Avisar a las tiendas que despachan al Litoral cómo se van a manejar los envíos durante la crecida del Paraná",
+    "context": "La crecida del Paraná tiene más de 4.500 evacuados en Chaco, Corrientes, Santa Fe y Entre Ríos, con caminos cortados y nuevos pulsos de crecida previstos hasta principios de diciembre. Coincide con el Black Friday del 27 al 29 de noviembre, cuando más pedidos salen hacia todo el país.",
+    "action": "Esta semana, identificar los clientes con más envíos a esas cuatro provincias, confirmar con los transportistas qué localidades tienen demoras y mandarles un aviso con plazos realistas y un texto listo para que lo publiquen en su tienda.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/movant/2026/11/22/inundaciones-en-el-litoral-buques-anfibios-y-puentes-bailey-para-llegar-donde-no-entran-camiones/",
+    "linked": [
+      "La crecida del Paraná deja más de 4.500 evacuados en el Litoral y obliga a abastecer zonas aisladas con buques y anfibios",
+      "Black Friday Argentina 2026"
+    ],
+    "id": "op-06dcd55c",
+    "source_kind": "auto",
+    "last_updated": "2026-11-24",
+    "first_seen": "2026-11-24"
+  },
+  {
     "title": "Usar el dato de Scentia (eCommerce +33% en consumo masivo) para ofrecer fulfillment a marcas de consumo masivo que venden directo",
     "context": "Según Scentia, el consumo masivo subió 0,9% interanual en octubre, la primera suba del año, y el eCommerce fue el canal que más creció: +33,2% en octubre y +35% en el acumulado. Junto con farmacias, es el único canal con saldo positivo en el año, mientras supermercados y autoservicios quedaron planchados.",
     "action": "Armar esta semana una pieza comercial de una página con el dato de Scentia y enviarla a 10 marcas de alimentos, bebidas, limpieza o cuidado personal que tengan tienda propia o vendan en Mercado Libre, ofreciendo fulfillment para pedidos de bajo ticket y alta frecuencia de cara a diciembre.",
@@ -109,22 +125,5 @@
     "source_kind": "auto",
     "last_updated": "2026-11-19",
     "first_seen": "2026-11-19"
-  },
-  {
-    "title": "Ir al Foro Mediterráneo de Ecommerce en Córdoba el 26/11 para captar tiendas del interior antes del Black Friday",
-    "context": "El Foro Mediterráneo de Ecommerce reúne el 26/11 en Córdoba a tiendas online y proveedores del ecosistema, un día antes del Black Friday. Con el consumo débil, las tiendas del interior buscan bajar el costo por envío y no perder ventas en el pico de fin de año.",
-    "action": "Confirmar esta semana quién de comercial viaja a Córdoba el 26/11, llevar una propuesta de fulfillment para Fiestas con costo por pedido cerrado y armar una lista previa de tiendas cordobesas para pedir reuniones en el foro.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.eventbrite.com.ar/e/foro-mediterraneo-de-ecommerce-2026-tickets-2003773484432",
-    "linked": [
-      "Foro Mediterráneo de Ecommerce 2026",
-      "Black Friday Argentina 2026",
-      "A diez días del Black Friday, crece el debate sobre si la economía argentina está en estanflación"
-    ],
-    "id": "op-d188263d",
-    "source_kind": "auto",
-    "last_updated": "2026-11-18",
-    "first_seen": "2026-11-18"
   }
 ]

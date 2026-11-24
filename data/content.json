@@ -180,5 +180,20 @@
     "source_kind": "auto",
     "last_updated": "2026-11-23",
     "first_seen": "2026-11-23"
+  },
+  {
+    "topic": "Cuando el clima corta la ruta: cómo comunicar una demora de entrega sin perder al cliente",
+    "why_now": "La crecida del Paraná complica los accesos en el Litoral justo en la semana de Black Friday, y muchas tiendas van a tener que explicar demoras que no dependen de ellas.",
+    "fixy_angle": "Fixy puede mostrar desde la operación qué información le sirve al comprador (zona afectada, nuevo plazo estimado, canal de seguimiento) y por qué avisar antes reduce reclamos y cancelaciones.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/movant/2026/11/22/inundaciones-en-el-litoral-buques-anfibios-y-puentes-bailey-para-llegar-donde-no-entran-camiones/",
+    "id": "ct-100ccf69",
+    "source_kind": "auto",
+    "last_updated": "2026-11-24",
+    "first_seen": "2026-11-24"
   }
 ]

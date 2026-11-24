@@ -4943,5 +4943,86 @@
         ]
       }
     ]
+  },
+  {
+    "scope": "ar",
+    "name": "Emprendimiento Argentino 2026 (Final Nacional)",
+    "organizer": "Gobierno nacional – Ministerio de Economía (Concurso Emprendimiento Argentino)",
+    "date_start": "2026-11-19",
+    "date_end": "2026-11-20",
+    "date_confirmed": true,
+    "date_note": "Hay dos versiones: un medio de Mar del Plata ubica la final nacional el 19 y 20/11; el calendario oficial de Nación solo dice segunda quincena de noviembre. Mar del Plata fue sede de la final provincial de Buenos Aires (octubre), no hay confirmación oficial de la sede de la final nacional.",
+    "city": "Mar del Plata",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "presencial",
+    "category": "Emprendimiento",
+    "url": "https://www.argentina.gob.ar/economia/pymes-emprendedores-y-economia-del-conocimiento/ecosistema-emprendedor/concurso-emprendimiento",
+    "source_url": "https://www.lacapitalmdp.com/mar-del-plata-sera-sede-de-la-final-provincial-del-concurso-emprendimiento-argentino-2026/",
+    "description": "Final nacional del concurso federal de emprendimientos, donde compiten los ganadores de las instancias provinciales (31/8 al 30/10). Corrección: la sede de Mar del Plata corresponde a la final provincial, no a la nacional.",
+    "fixy_relevance": "Concentra a emprendimientos de todo el país con potencial de escalar sus ventas online, que podrían ser clientes de fulfillment. Conviene no agendar Mar del Plata hasta que se confirme la sede.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-argentino-emprendimiento-final-nacional-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-11-14",
+    "first_seen": "2026-08-19",
+    "change_log": [
+      {
+        "date": "2026-08-24",
+        "fields": [
+          "organizer",
+          "city",
+          "province",
+          "url",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority",
+          "beyond_90"
+        ]
+      },
+      {
+        "date": "2026-11-14",
+        "fields": [
+          "organizer",
+          "date_note",
+          "source_url",
+          "description",
+          "fixy_relevance",
+          "priority"
+        ]
+      }
+    ]
+  },
+  {
+    "scope": "ar",
+    "name": "12° Congreso de Logística, Puertos y Comercio Exterior (UNICEN Quequén)",
+    "organizer": "Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN) – Sede Quequén",
+    "date_start": "2026-11-19",
+    "date_end": "2026-11-20",
+    "date_confirmed": false,
+    "date_note": "Fecha 19-20/11 tomada de la convocatoria de UNICEN vista solo en resúmenes de búsqueda; verificar con el organizador.",
+    "city": "Quequén (Necochea)",
+    "province": "Buenos Aires",
+    "country": "Argentina",
+    "venue": "Por confirmar",
+    "venue_confirmed": false,
+    "format": "Por confirmar",
+    "category": "Logística",
+    "url": "https://www.quequen.unicen.edu.ar/wp-content/uploads/2026/07/Llamado-a-presentacion-de-Trabajos-1.pdf",
+    "source_url": "https://www.quequen.unicen.edu.ar/wp-content/uploads/2026/07/Llamado-a-presentacion-de-Trabajos-1.pdf",
+    "description": "Congreso universitario anual con ejes en logística territorial, infraestructura y gestión portuaria, geopolítica comercial (acuerdo Mercosur-UE) e internacionalización de pymes. La edición 2025 incluyó visitas a terminales y paneles con el sector portuario.",
+    "fixy_relevance": "Espacio académico-empresario del interior bonaerense para relevar tendencias de logística territorial y comercio exterior; útil como contexto y networking regional, no como canal directo de ventas.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-comercio-congreso-exterior-logistica-puertos-que-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-11-11",
+    "first_seen": "2026-11-11"
   }
 ]

@@ -133,27 +133,6 @@
     "first_seen": "2026-09-15"
   },
   {
-    "name": "ChatGPT Work: Deep Research",
-    "vendor": "OpenAI",
-    "what_it_is": "Modo de investigación profunda de ChatGPT que ahora corre dentro de Work (el entorno conectado a archivos y apps de la empresa): busca en la web, en documentos internos y en apps conectadas, y arma un informe editable con citas.",
-    "what_changed": "Desde el 9 de septiembre de 2026 está disponible en ChatGPT Work y Codex para usuarios Plus, Pro, Business, Enterprise y Edu, usando el cupo de Work ya existente, sin límite aparte.",
-    "fixy_use": "Comercial podría pedirle que investigue precios de la competencia en fulfillment, políticas de un marketplace nuevo o proveedores de última milla, cruzando información pública con archivos internos de Fixy, y que entregue un informe con fuentes citadas listo para una reunión.",
-    "verdict": "probar",
-    "verdict_reason": "Aprovecha una suscripción que Fixy probablemente ya paga y ahorra horas de investigación manual con fuentes verificables.",
-    "categories": [
-      "Comercial",
-      "Análisis"
-    ],
-    "pricing_note": "pago — incluido en el plan ChatGPT Business/Enterprise/Plus con acceso a Work, sin cargo extra",
-    "source_url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes",
-    "published_date": "2026-09-09",
-    "priority": "alta",
-    "id": "ai-openai-chatgpt-work-deep-research",
-    "source_kind": "auto",
-    "last_updated": "2026-09-12",
-    "first_seen": "2026-09-12"
-  },
-  {
     "name": "Microsoft Copilot unificado (Home, Code, Autopilot)",
     "vendor": "Microsoft",
     "what_it_is": "La app de Copilot que junta en un mismo lugar el chat, el trabajo en documentos de Office y agentes que ejecutan tareas por su cuenta.",
@@ -1091,27 +1070,6 @@
     "first_seen": "2026-09-21"
   },
   {
-    "name": "ChatGPT: Library Sharing (carpetas compartidas)",
-    "vendor": "OpenAI",
-    "what_it_is": "Es una función de ChatGPT que permite compartir carpetas y archivos completos con otras personas del equipo, asignando permisos de lector o editor, para usarlos directamente dentro de las conversaciones sin tener que volver a subirlos.",
-    "what_changed": "OpenAI la lanzó el 9 de septiembre de 2026, por ahora para cuentas Enterprise y Edu, como forma de centralizar el conocimiento del equipo en ChatGPT en vez de reenviar archivos sueltos por chat o mail.",
-    "fixy_use": "Fixy podría armar una carpeta compartida con manuales de depósito, guiones de atención al cliente y plantillas comerciales, y que todo el equipo la use directamente en sus conversaciones con ChatGPT sin duplicar versiones. También sirve para que comercial y atención al cliente trabajen sobre la misma base de información de clientes o proveedores.",
-    "verdict": "seguir",
-    "verdict_reason": "Por ahora está limitado a los planes Enterprise y Edu, conviene esperar a que llegue a ChatGPT Work para probarlo con el equipo.",
-    "categories": [
-      "Organización",
-      "Productividad"
-    ],
-    "pricing_note": "no confirmado — incluida en los planes ChatGPT Enterprise y Edu, no está confirmado si ya llegó a ChatGPT Work/Business",
-    "source_url": "https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt",
-    "published_date": "2026-09-09",
-    "priority": "relevante",
-    "id": "ai-openai-chatgpt-library-sharing-carpetas-compartidas",
-    "source_kind": "auto",
-    "last_updated": "2026-09-14",
-    "first_seen": "2026-09-14"
-  },
-  {
     "name": "ChatGPT Space (páginas que se actualizan solas)",
     "vendor": "OpenAI",
     "what_it_is": "Espacio de trabajo de ChatGPT para armar páginas compartibles que se pueden actualizar solas consultando apps conectadas con la frecuencia que uno define.",
@@ -1176,6 +1134,28 @@
     "source_kind": "auto",
     "last_updated": "2026-11-23",
     "first_seen": "2026-11-23"
+  },
+  {
+    "name": "Gemini 4 Neon",
+    "vendor": "Google",
+    "what_it_is": "Modelo intermedio de la familia Gemini 4: se ubica entre Gemini 4 Hydrogen (el rápido para el día a día) y Gemini 4 Carbon (el de razonamiento más profundo).",
+    "what_changed": "Google lo lanzó el 18 de noviembre en la app de Gemini para planes AI Pro y Ultra, en Gemini para empresas, en AI Studio y en la API. Promete resolver tareas largas mucho más rápido que Carbon con calidad comparable.",
+    "fixy_use": "Puede ser el modelo por defecto para tareas de trabajo intelectual de todos los días en Gemini para empresas: armar reportes comerciales a partir de planillas de envíos, resumir incidencias de la semana o preparar propuestas, sin la espera de Carbon. Vale compararlo con lo que el equipo ya usa antes de cambiar.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora de velocidad y costo, no una capacidad nueva: sirve si Fixy ya trabaja con Gemini.",
+    "categories": [
+      "Productividad",
+      "Análisis",
+      "Comercial"
+    ],
+    "pricing_note": "pago: incluido en Google AI Pro/Ultra y Gemini para empresas; API con precio por uso",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "published_date": "2026-11-18",
+    "priority": "informativo",
+    "id": "ai-google-gemini-4-neon",
+    "source_kind": "auto",
+    "last_updated": "2026-11-24",
+    "first_seen": "2026-11-24"
   },
   {
     "name": "GPT-6.2 Astra y GPT-6.2 Sol",
@@ -1767,49 +1747,5 @@
     "source_kind": "auto",
     "last_updated": "2026-09-15",
     "first_seen": "2026-09-15"
-  },
-  {
-    "name": "Gemini en Workspace: paneles laterales unificados y acciones entre apps",
-    "vendor": "Google Workspace",
-    "what_it_is": "Es la actualización que iguala las funciones de Gemini en los paneles laterales de Gmail, Drive, Docs, Slides y Chat, para poder pedir una acción de una app estando parado en otra.",
-    "what_changed": "Google lo anunció el 9 de septiembre de 2026: antes cada panel de Gemini tenía funciones distintas según la app (armar un documento solo se podía desde Docs, por ejemplo); ahora, gracias a lo que Google llama Workspace Intelligence, se puede pedir desde Docs que Gemini mande un mail al equipo o desde Chat que agende una reunión, sin cambiar de pestaña.",
-    "fixy_use": "El equipo de Fixy podría, por ejemplo, armar en un Doc el resumen de un reclamo de un cliente y pedirle ahí mismo a Gemini que lo mande por mail a operaciones o que agende una reunión de seguimiento, sin saltar entre Gmail, Calendar y Docs. Ahorra pasos sueltos en la coordinación diaria entre áreas si ya pagan Google Workspace con Gemini incluido.",
-    "verdict": "seguir",
-    "verdict_reason": "Es una mejora de productividad real pero incremental sobre algo que Fixy ya podría estar usando, vale la pena probarla sin urgencia.",
-    "categories": [
-      "Productividad",
-      "Organización",
-      "Gestión del tiempo"
-    ],
-    "pricing_note": "pago — incluido en los planes de Google Workspace con complemento Gemini, el despliegue es gradual y puede tardar hasta 15 días en aparecer",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/09/create-content-schedule-events-and-coordinate-tasks-across-Workspace-regardless-of-what-app-you-are-in.html",
-    "published_date": "2026-09-09",
-    "priority": "informativo",
-    "id": "ai-google-workspace-gemini-en-workspace-paneles-laterales-unifi",
-    "source_kind": "auto",
-    "last_updated": "2026-09-16",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "name": "Gemini en Google Sheets: ahora en Android",
-    "vendor": "Google Workspace",
-    "what_it_is": "Es la función de Gemini dentro de Google Sheets que responde preguntas sobre los datos de una planilla y arma gráficos o resúmenes usando lenguaje natural.",
-    "what_changed": "Desde el 9 de septiembre de 2026 esta función, que ya existía en la versión web, también se puede usar desde el celular con Android tocando el ícono de Gemini dentro de la app de Sheets.",
-    "fixy_use": "Alguien de operaciones o comercial puede, desde el depósito o en la calle y sin abrir una compu, pedirle a Gemini que resuma una planilla de pedidos pendientes o de stock y arme un gráfico rápido antes de una reunión. Para editar fórmulas, dar formato o hacer cambios más complejos todavía hace falta la versión web.",
-    "verdict": "probar",
-    "verdict_reason": "Es una mejora chica pero gratuita y sin configuración para quienes ya usan Google Workspace.",
-    "categories": [
-      "Análisis",
-      "Productividad",
-      "Operaciones"
-    ],
-    "pricing_note": "freemium - incluido en Business Standard/Plus, Enterprise Standard/Plus y Google AI Pro/Ultra; no confirmado si el plan gratuito de Sheets lo incluye",
-    "source_url": "https://workspaceupdates.googleblog.com/2026/08/gemini-in-google-sheets-is-now-available-on-Android-devices.html",
-    "published_date": "2026-09-09",
-    "priority": "informativo",
-    "id": "ai-google-workspace-gemini-en-google-sheets-ahora-en-android",
-    "source_kind": "auto",
-    "last_updated": "2026-09-23",
-    "first_seen": "2026-09-23"
   }
 ]
