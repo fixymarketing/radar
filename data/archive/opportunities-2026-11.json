@@ -294,5 +294,21 @@
     "source_kind": "auto",
     "last_updated": "2026-11-18",
     "first_seen": "2026-11-18"
+  },
+  {
+    "title": "Ofrecer preparación en tienda y entrega en el día a supermercados y almacenes que quedan fuera del acuerdo de Mercado Libre con Carrefour",
+    "context": "Mercado Libre empezó a preparar pedidos en sucursales de Carrefour y a entregarlos en hasta 45 minutos en zonas del AMBA. Las cadenas regionales, autoservicios y dietéticas que venden online ahora compiten contra esa promesa de velocidad sin tener logística propia para igualarla.",
+    "action": "Armar una lista corta de cadenas y autoservicios del AMBA con tienda online y proponerles una prueba piloto de entrega en el día desde su propia sucursal, con tarifa por pedido.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.lanacion.com.ar/economia/negocios/mercado-libre-cierra-un-acuerdo-con-carrefour-y-suma-entregas-de-supermercado-en-45-minutos-nid18112026/",
+    "linked": [
+      "Mercado Libre suma entregas de supermercado en hasta 45 minutos con Carrefour en el AMBA",
+      "Las compras de alimentos online siguen creciendo mientras el canal tradicional cae: las apps empujan con promociones y 'markets'"
+    ],
+    "id": "op-ce37c049",
+    "source_kind": "auto",
+    "last_updated": "2026-11-19",
+    "first_seen": "2026-11-19"
   }
 ]

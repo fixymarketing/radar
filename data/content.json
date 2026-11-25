@@ -195,5 +195,20 @@
     "source_kind": "auto",
     "last_updated": "2026-11-24",
     "first_seen": "2026-11-24"
+  },
+  {
+    "topic": "Black Friday en recesión técnica: por qué esta vez conviene medir margen por envío y no solo cantidad de pedidos",
+    "why_now": "El INDEC confirmó que la actividad cayó 1,2% interanual en septiembre y el comercio 3,5%, con dos trimestres seguidos de baja, justo dos días antes del Black Friday del viernes 27.",
+    "fixy_angle": "Fixy ve los pedidos reales del pico: puede mostrar cómo una tienda protege margen con envío gratis condicionado a un monto mínimo, cortes de despacho claros y menos devoluciones, en vez de perseguir volumen a cualquier costo.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.rionegro.com.ar/economia/argentina-entro-en-recesion-tecnica-el-indec-informo-que-la-actividad-economica-acumulo-dos-trimestres-en-caida-4811740/",
+    "id": "ct-8b508dae",
+    "source_kind": "auto",
+    "last_updated": "2026-11-25",
+    "first_seen": "2026-11-25"
   }
 ]

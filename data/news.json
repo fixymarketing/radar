@@ -1,28 +1,5 @@
 [
   {
-    "title": "CyberMonday arrancó con $25.000 millones en un día en Tiendanube y 2,1 millones de visitas al sitio oficial",
-    "what_happened": "Según Tiendanube, las tiendas de su plataforma facturaron $25.000 millones en la primera jornada del CyberMonday (2/11), un 42,5% más que en 2025, aunque la conversión bajó de 1,28% a 1,10% pese al aumento de sesiones. La CACE informó más de 2,1 millones de visitas acumuladas en el sitio oficial. Todavía no hay balance consolidado de la CACE.",
-    "why_it_matters": "El tráfico crece más que la conversión: hay más curiosidad que compra, y con inflación del 33,4% interanual el crecimiento real es bastante menor que el nominal. Las cifras son preliminares y dependen del deflactor.",
-    "fixy_impact": "El pico de pedidos de las tiendas chicas llega concentrado a la operación de fulfillment y última milla en estos días y en la semana siguiente.",
-    "category": "eCommerce",
-    "geo": "Argentina",
-    "source_name": "Diario de Cuyo",
-    "source_url": "https://www.diariodecuyo.com.ar/economia/el-cybermonday-2026-arranco-ventas-record-25000-millones-la-primera-jornada-n6587573",
-    "published_date": "2026-11-03",
-    "priority": "relevante",
-    "tags": [
-      "CyberMonday",
-      "Tiendanube",
-      "conversión",
-      "ventas",
-      "pico de demanda"
-    ],
-    "id": "nw-21732ecc66",
-    "source_kind": "auto",
-    "last_updated": "2026-11-04",
-    "first_seen": "2026-11-04"
-  },
-  {
     "title": "CyberMonday 2026 cerró con $682.185 millones: más unidades vendidas, pero la facturación cayó 20% real",
     "what_happened": "CACE informó que la edición del 2 al 4 de noviembre facturó $682.185 millones, 6,8% más que los $639.000 millones de 2025 en términos nominales. Las órdenes de compra bajaron a casi 6,5 millones (desde 6,9 millones), mientras que las unidades vendidas subieron a más de 14,6 millones (12,1 millones en 2025) y el ticket promedio pasó de $92.000 a $105.039.",
     "why_it_matters": "Con inflación interanual cercana al 34%, la facturación real cayó alrededor de 20%. El comprador consolida más productos por pedido y compra de forma más planificada y selectiva.",
@@ -657,5 +634,51 @@
     "source_kind": "auto",
     "last_updated": "2026-11-24",
     "first_seen": "2026-11-24"
+  },
+  {
+    "title": "La actividad cayó 1,2% interanual en septiembre y la economía quedó en recesión técnica a días del Black Friday",
+    "what_happened": "El INDEC publicó el martes 24 de noviembre el EMAE de septiembre: la actividad cayó 1,2% interanual, aunque subió 1,1% frente a agosto en la serie desestacionalizada. El rebote no alcanzó para compensar la caída del tercer trimestre, que se suma al retroceso de 0,6% del segundo, por lo que la economía acumula dos trimestres en baja. El comercio mayorista y minorista cayó 3,5% interanual y fue uno de los rubros que más restó; el dato oficial del PBI del tercer trimestre se conocerá el 16 de diciembre.",
+    "why_it_matters": "El Black Friday y la temporada de fin de año arrancan con el consumo debilitado y el comercio en caída. Lo esperable es que las tiendas cuiden margen y stock y que los compradores sigan priorizando cuotas, envío gratis y precio por sobre volumen.",
+    "fixy_impact": "Conviene planificar la dotación del pico de Black Friday y Navidad con escenarios de volumen moderado y reforzar la propuesta de valor por costo total del envío frente a clientes que van a apretar presupuesto.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "Diario Río Negro",
+    "source_url": "https://www.rionegro.com.ar/economia/argentina-entro-en-recesion-tecnica-el-indec-informo-que-la-actividad-economica-acumulo-dos-trimestres-en-caida-4811740/",
+    "published_date": "2026-11-24",
+    "priority": "relevante",
+    "tags": [
+      "INDEC",
+      "EMAE",
+      "recesión",
+      "consumo",
+      "Black Friday"
+    ],
+    "id": "nw-ff397c506a",
+    "source_kind": "auto",
+    "last_updated": "2026-11-25",
+    "first_seen": "2026-11-25"
+  },
+  {
+    "title": "Provincia de Buenos Aires obligará a las empresas a informar todos los meses salarios y jornadas desde enero de 2027",
+    "what_happened": "La Resolución 260/2026 del Ministerio de Trabajo bonaerense crea el formulario F.U.T.U.R.O., por el que los empleadores de la provincia deberán informar cada mes datos salariales y de jornada, con recibos de haberes y comprobantes bancarios de acreditación. El sistema será optativo en diciembre y obligatorio desde enero de 2027; al presentarse a mes vencido, la primera declaración obligatoria vence el último día hábil de febrero de 2027. La Cámara Argentina de Comercio y la Sociedad Rural pidieron reconsiderar la norma porque, sostienen, duplica información que ya se presenta ante ARCA y suma costos administrativos para las pymes.",
+    "why_it_matters": "Suma una carga administrativa nueva para todas las empresas con personal en la provincia, en un sector logístico con turnos rotativos, horas extra y picos estacionales donde el control de jornada es sensible. También anticipa más fiscalización provincial sobre pagos fuera de término y descansos.",
+    "fixy_impact": "Si Fixy tiene personal en depósitos o en operaciones de la provincia, RR.HH. y el estudio contable deberían preparar la carga mensual de sueldos y control horario antes de febrero de 2027 y revisar que los registros de turnos y horas extra estén ordenados.",
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "Infobae",
+    "source_url": "https://www.infobae.com/economia/2026/11/23/polemica-por-una-nueva-obligacion-que-kicillof-impone-a-las-empresas-de-que-se-trata-y-por-que-la-rechazan/",
+    "published_date": "2026-11-23",
+    "priority": "relevante",
+    "tags": [
+      "provincia de Buenos Aires",
+      "laboral",
+      "Resolución 260/2026",
+      "pymes",
+      "RR.HH."
+    ],
+    "id": "nw-d539311265",
+    "source_kind": "auto",
+    "last_updated": "2026-11-25",
+    "first_seen": "2026-11-25"
   }
 ]

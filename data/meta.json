@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-11-24T12:08:14.066Z",
-  "last_updated_ar": "24/11/2026, 09:08",
-  "date": "2026-11-24",
+  "generated_at": "2026-11-25T12:10:20.531Z",
+  "last_updated_ar": "25/11/2026, 09:10",
+  "date": "2026-11-25",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "A tres días del Black Friday, la crecida del Paraná complica los accesos en el Litoral y suma una razón más para avisar plazos realistas a las tiendas que despachan a Chaco, Corrientes, Santa Fe y Entre Ríos.",
+  "summary_line": "Con la economía en recesión técnica a dos días del Black Friday, el pico de fin de año llega con tiendas que van a cuidar cada peso del envío, y la Provincia de Buenos Aires suma desde enero un informe mensual de salarios y jornadas.",
   "counters": {
-    "news_today": 1,
-    "news_total": 29,
-    "events_upcoming": 15,
+    "news_today": 2,
+    "news_total": 30,
+    "events_upcoming": 14,
     "events_ar_upcoming": 8,
-    "events_intl_upcoming": 7,
+    "events_intl_upcoming": 6,
     "events_later": 43,
     "opportunities_open": 8,
     "opportunities_today": 1,
     "ai_today": 1,
-    "ai_to_try": 38,
-    "content_ideas": 13,
-    "added_news": 1,
+    "ai_to_try": 35,
+    "content_ideas": 14,
+    "added_news": 2,
     "updated_news": 0,
-    "added_events": 0,
+    "added_events": 1,
     "updated_events": 0,
     "added_ai": 1,
-    "archived": 7,
+    "archived": 9,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-expolog-feira-internacional-logistica-2026",
-    "name": "EXPOLOG 2026 (Feira Internacional de Logística)",
-    "date_start": "2026-11-23",
-    "city": "Fortaleza",
+    "id": "ev-congreso-fitac-internacional-2026",
+    "name": "Congreso Internacional FITAC 2026",
+    "date_start": "2026-11-25",
+    "city": "Cartagena de Indias",
     "days_away": 0
   },
   "highlights": [
@@ -38,35 +38,28 @@
       "kind": "event",
       "title": "Black Friday Argentina 2026",
       "priority": "alta",
-      "one_liner": "Faltan tres días para el pico del 27 al 29: es el momento de cerrar capacidad de depósito, cortes horarios y transportistas."
+      "one_liner": "Faltan dos días para el pico de pedidos del viernes 27: hoy es el último día cómodo para confirmar capacidad, cortes de despacho y comunicación de plazos con cada tienda."
     },
     {
-      "id": "nw-fa1bff98a2",
+      "id": "nw-ff397c506a",
       "kind": "news",
-      "title": "La crecida del Paraná deja más de 4.500 evacuados en el Litoral y obliga a abastecer zonas aisladas con buques y anfibios",
+      "title": "La actividad cayó 1,2% interanual en septiembre y la economía quedó en recesión técnica a días del Black Friday",
       "priority": "relevante",
-      "one_liner": "Los envíos a Chaco, Corrientes, Santa Fe y Entre Ríos pueden demorarse en plena semana de Black Friday, y conviene avisarlo antes que explicarlo después."
+      "one_liner": "El pico de fin de año arranca con el comercio en baja: hay que esperar tiendas cuidando margen y stock, y compradores más sensibles al costo de envío."
     },
     {
-      "id": "op-06dcd55c",
-      "kind": "opportunity",
-      "title": "Avisar a las tiendas que despachan al Litoral cómo se van a manejar los envíos durante la crecida del Paraná",
+      "id": "nw-d539311265",
+      "kind": "news",
+      "title": "Provincia de Buenos Aires obligará a las empresas a informar todos los meses salarios y jornadas desde enero de 2027",
       "priority": "relevante",
-      "one_liner": "Un aviso proactivo con plazos realistas le ahorra reclamos al cliente y muestra a Fixy como un operador que anticipa."
+      "one_liner": "Suma una obligación mensual para cualquier empresa con personal bonaerense, incluido el equipo de depósito de Fixy, y conviene prepararla antes de enero."
     },
     {
       "id": "ev-ecommerce-foro-mediterraneo-2026",
       "kind": "event",
       "title": "Foro Mediterráneo de Ecommerce 2026",
       "priority": "relevante",
-      "one_liner": "El jueves 26 en Córdoba se juntan tiendas online del interior justo antes del Black Friday."
-    },
-    {
-      "id": "nw-92f312b45c",
-      "kind": "news",
-      "title": "Mercado Libre suma entregas de supermercado en hasta 45 minutos con Carrefour en el AMBA",
-      "priority": "relevante",
-      "one_liner": "La vara de velocidad de entrega sigue subiendo y llega al consumo masivo."
+      "one_liner": "Es mañana en Córdoba: la última oportunidad del año para encontrarse en persona con tiendas online del interior antes del pico."
     }
   ]
 }

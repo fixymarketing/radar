@@ -5024,5 +5024,32 @@
     "source_kind": "auto",
     "last_updated": "2026-11-11",
     "first_seen": "2026-11-11"
+  },
+  {
+    "scope": "intl",
+    "name": "XXVII Congreso de Logística: Supply Chain 2027, del reto global a la ventaja competitiva",
+    "organizer": "WE Educación Ejecutiva / Fundación WE",
+    "date_start": "2026-11-20",
+    "date_end": "2026-11-21",
+    "date_confirmed": true,
+    "date_note": "El viernes 20/11 es la jornada virtual y el sábado 21/11 la presencial. Solo lo confirma una fuente (The Logistics World). La edición XXVI se hizo en junio de 2026 en el Hotel Marriott, así que conviene verificar en el sitio del organizador.",
+    "city": "Lima",
+    "province": null,
+    "country": "Perú",
+    "venue": "The Westin Lima Hotel & Convention Center",
+    "venue_confirmed": true,
+    "format": "híbrido",
+    "category": "Logística",
+    "url": "https://we-educacion.com/congreso-logistica",
+    "source_url": "https://thelogisticsworld.com/eventos-de-la-industria/congreso-logistica-peru-agenda-inteligencia-artificial-resiliencia-supply-chain-2027/",
+    "description": "Es el congreso anual de supply chain de referencia en Perú. Su agenda gira en torno a la IA, la automatización logística, la resiliencia y la gestión de operaciones y carga, y en ediciones anteriores participaron ejecutivos de DHL, Ransa y Softys.",
+    "fixy_relevance": "Sirve para tomarle el pulso al mercado logístico peruano y a los operadores regionales. La jornada virtual permite seguir los contenidos sin viajar; el viaje solo se justificaría si Perú entra en la agenda de expansión.",
+    "justification_type": "aprendizaje",
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-chain-competitiva-congreso-global-logistica-reto-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-11-13",
+    "first_seen": "2026-11-13"
   }
 ]

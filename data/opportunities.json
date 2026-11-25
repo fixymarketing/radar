@@ -1,5 +1,20 @@
 [
   {
+    "title": "Preparar a los clientes con personal en la provincia de Buenos Aires para el nuevo informe mensual de salarios y jornadas",
+    "context": "La Provincia de Buenos Aires creó el formulario F.U.T.U.R.O. (Resolución 260/2026): es optativo en diciembre y obligatorio desde enero de 2027, con primera presentación en febrero. Las tiendas online que tercerizan con Fixy suelen ser pymes con poca estructura administrativa, y cada carga nueva refuerza el argumento de no sumar personal propio de depósito.",
+    "action": "Revisar con RR. HH. y el estudio contable qué datos de turnos, horas extra y jornadas tiene que informar Fixy desde enero, y armar una nota corta para clientes y prospectos bonaerenses que explique que con el fulfillment tercerizado el personal de depósito y su registración quedan del lado del operador.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/11/23/polemica-por-una-nueva-obligacion-que-kicillof-impone-a-las-empresas-de-que-se-trata-y-por-que-la-rechazan/",
+    "linked": [
+      "Provincia de Buenos Aires obligará a las empresas a informar todos los meses salarios y jornadas desde enero de 2027"
+    ],
+    "id": "op-8e42bd6b",
+    "source_kind": "auto",
+    "last_updated": "2026-11-25",
+    "first_seen": "2026-11-25"
+  },
+  {
     "title": "Avisar a las tiendas que despachan al Litoral cómo se van a manejar los envíos durante la crecida del Paraná",
     "context": "La crecida del Paraná tiene más de 4.500 evacuados en Chaco, Corrientes, Santa Fe y Entre Ríos, con caminos cortados y nuevos pulsos de crecida previstos hasta principios de diciembre. Coincide con el Black Friday del 27 al 29 de noviembre, cuando más pedidos salen hacia todo el país.",
     "action": "Esta semana, identificar los clientes con más envíos a esas cuatro provincias, confirmar con los transportistas qué localidades tienen demoras y mandarles un aviso con plazos realistas y un texto listo para que lo publiquen en su tienda.",
@@ -106,22 +121,6 @@
       "Black Friday Argentina 2026"
     ],
     "id": "op-846be9ee",
-    "source_kind": "auto",
-    "last_updated": "2026-11-19",
-    "first_seen": "2026-11-19"
-  },
-  {
-    "title": "Ofrecer preparación en tienda y entrega en el día a supermercados y almacenes que quedan fuera del acuerdo de Mercado Libre con Carrefour",
-    "context": "Mercado Libre empezó a preparar pedidos en sucursales de Carrefour y a entregarlos en hasta 45 minutos en zonas del AMBA. Las cadenas regionales, autoservicios y dietéticas que venden online ahora compiten contra esa promesa de velocidad sin tener logística propia para igualarla.",
-    "action": "Armar una lista corta de cadenas y autoservicios del AMBA con tienda online y proponerles una prueba piloto de entrega en el día desde su propia sucursal, con tarifa por pedido.",
-    "type": "comercial",
-    "priority": "relevante",
-    "source_url": "https://www.lanacion.com.ar/economia/negocios/mercado-libre-cierra-un-acuerdo-con-carrefour-y-suma-entregas-de-supermercado-en-45-minutos-nid18112026/",
-    "linked": [
-      "Mercado Libre suma entregas de supermercado en hasta 45 minutos con Carrefour en el AMBA",
-      "Las compras de alimentos online siguen creciendo mientras el canal tradicional cae: las apps empujan con promociones y 'markets'"
-    ],
-    "id": "op-ce37c049",
     "source_kind": "auto",
     "last_updated": "2026-11-19",
     "first_seen": "2026-11-19"
