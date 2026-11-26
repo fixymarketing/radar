@@ -111,29 +111,6 @@
     "first_seen": "2026-09-20"
   },
   {
-    "name": "Microsoft Copilot unificado (Home, Code, Autopilot)",
-    "vendor": "Microsoft",
-    "what_it_is": "La app de Copilot que junta en un mismo lugar el chat, el trabajo en documentos de Office y agentes que ejecutan tareas por su cuenta.",
-    "what_changed": "En Ignite 2026 (17 de noviembre) Microsoft pasó a disponibilidad general Home (chat y Cowork juntos) y Office in Copilot, que permite crear y editar archivos de Word, Excel y PowerPoint desde la conversación. Copilot Code llega a disponibilidad general «en las próximas semanas» y Autopilot y Workspaces siguen limitados al programa Frontier.",
-    "fixy_use": "Si Fixy trabaja con Microsoft 365, comercial puede pedirle a Copilot una propuesta en Word o una presentación en PowerPoint armada con datos de un Excel de tarifas, sin salir del chat. Operaciones puede pedir que arme un Excel de seguimiento de incidencias de entregas a partir de un mail o una exportación. Si Fixy está en Google Workspace, no cambia nada por ahora.",
-    "verdict": "seguir",
-    "verdict_reason": "Lo ya disponible sirve solo si Fixy usa Microsoft 365, y lo más agéntico (Autopilot, Code) todavía no está abierto a todos.",
-    "categories": [
-      "Productividad",
-      "Contenido",
-      "Comercial",
-      "Automatización"
-    ],
-    "pricing_note": "pago — Office in Copilot se incluye en la licencia de Copilot existente, sin cargos por uso para crear archivos; el anuncio no detalla precios de lista",
-    "source_url": "https://microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work",
-    "published_date": "2026-11-17",
-    "priority": "relevante",
-    "id": "ai-microsoft-microsoft-copilot-unificado-home-code-autopilot",
-    "source_kind": "auto",
-    "last_updated": "2026-11-19",
-    "first_seen": "2026-09-26"
-  },
-  {
     "name": "Gemini Notebook: sitios interactivos a partir de las fuentes",
     "vendor": "Google",
     "what_it_is": "Gemini Notebook (el ex NotebookLM) ahora arma una página web interactiva con los documentos que cargaste en un cuaderno: tableros, explicadores visuales o rastreadores de tareas que se abren en otra pestaña y se pueden compartir.",
@@ -160,23 +137,24 @@
   {
     "name": "Gemini Skills (reemplazan a los Gems)",
     "vendor": "Google",
-    "what_it_is": "Instrucciones reutilizables para Gemini que funcionan en Gmail, Docs, Slides, Drive, Chat y Workspace Studio.",
-    "what_changed": "Novedad: según 9to5Google (16 de noviembre de 2026), las skills ahora pueden usar archivos de Drive como contexto, y esos archivos se mantienen actualizados en tiempo real. También se pueden compartir con otras personas. La función se habilita de forma gradual en las próximas semanas, antes de que se den de baja los Gems.",
-    "fixy_use": "Atención al cliente puede crear una skill de \"respuesta a reclamos de envío\" que lea el Doc vivo de políticas (plazos, reintentos, devoluciones) y la planilla de tarifas vigente, y compartirla con todo el equipo. Así, cuando cambia una tarifa o una política, todas las respuestas en Gmail usan la versión nueva sin tener que reescribir instrucciones.",
+    "what_it_is": "Las skills son instrucciones reutilizables que le enseñan a Gemini cómo hacer una tarea a la manera del equipo (reglas, plantillas, pasos), y se pueden usar desde la app de Gemini y las apps de Workspace.",
+    "what_changed": "Desde el 16 de noviembre de 2026 las skills se pueden compartir con otras personas desde la web de Gemini y pueden incluir archivos de Google Drive, Gemini Notebook y Google Photos, que se mantienen actualizados con la última versión del archivo.",
+    "fixy_use": "Armar una skill de \"respuesta a reclamos de envío\" que tome la planilla de tarifas y la política de devoluciones desde Drive, y compartirla con todo el equipo de atención para que todos respondan con el mismo criterio. Lo mismo para comercial: una skill de cotización que lea el tarifario vigente en Drive, así nadie trabaja con una versión vieja.",
     "verdict": "probar",
-    "verdict_reason": "Con archivos vivos de Drive y la opción de compartir, ya sirve como herramienta de equipo y no solo personal; además los Gems se van a dar de baja.",
+    "verdict_reason": "Convierte el conocimiento operativo de Fixy en una herramienta compartida sin programar y sin costo extra si ya usan Workspace con Gemini.",
     "categories": [
-      "Productividad",
       "Organización",
-      "Automatización"
+      "Productividad",
+      "Comercial",
+      "Operaciones"
     ],
-    "pricing_note": "no confirmado: viene incluido con Gemini en Workspace según el plan; la habilitación es gradual.",
-    "source_url": "https://9to5google.com/2026/11/16/gemini-skills-files-sharing/",
+    "pricing_note": "freemium: incluido en las ediciones de Google Workspace con Gemini; compartir solo funciona en la web por ahora y respeta las reglas de uso compartido de Drive de la organización",
+    "source_url": "https://workspaceupdates.googleblog.com/2026/11/share-skills-add-files-from-Drive-Notebook-Photos-to-skills-Gemini-app.html",
     "published_date": "2026-11-16",
     "priority": "relevante",
     "id": "ai-google-gemini-skills-reemplazan-a-los-gems",
     "source_kind": "auto",
-    "last_updated": "2026-11-18",
+    "last_updated": "2026-11-26",
     "first_seen": "2026-10-07"
   },
   {
@@ -960,26 +938,26 @@
     "first_seen": "2026-09-26"
   },
   {
-    "name": "Luna de Gurú",
-    "vendor": "Gurú",
-    "what_it_is": "Es una asistente virtual de IA gratuita pensada específicamente para pymes argentinas, que responde mensajes de WhatsApp las 24 horas, arma y publica contenido para redes sociales, gestiona una agenda online y envía campañas de email marketing desde un mismo lugar.",
-    "what_changed": "La empresa argentina Gurú la presentó el 11 de septiembre de 2026, con desarrollo apoyado por una beca de Google (12 ingenieros de la compañía colaboraron); ya la usan más de 550 empresas argentinas y ofrece un acceso de prueba gratuito pensado para pymes que recién empiezan a usar IA.",
-    "fixy_use": "Marketing podría probarla para automatizar la primera respuesta de WhatsApp a leads comerciales (consultas de fulfillment o cotizaciones) fuera de horario, y para armar publicaciones de redes sin depender de un diseñador. También sirve como referencia de precio y alcance a la hora de comparar contra la atención por WhatsApp que Fixy ya tiene armada con Zendesk.",
-    "verdict": "probar",
-    "verdict_reason": "Es gratis, está pensada específicamente para pymes argentinas como Fixy y ataca tareas concretas de marketing y primer contacto comercial sin curva de aprendizaje.",
+    "name": "GPT-6.2 Astra y GPT-6.2 Sol",
+    "vendor": "OpenAI",
+    "what_it_is": "La generación más reciente de modelos de OpenAI; Sol es la versión que ahora responde por defecto en el chat de ChatGPT para planes pagos.",
+    "what_changed": "El 23 de noviembre de 2026 GPT-6.2 empezó a llegar a la pestaña Chat de ChatGPT para Plus, Pro, Business y Enterprise (antes estaba solo en ChatGPT Work y Codex), con mejoras en comprensión de imágenes, seguimiento de instrucciones y búsqueda web; los planes Free y Go todavía no lo tienen.",
+    "fixy_use": "Quienes usan ChatGPT pago en Fixy pueden subir fotos de etiquetas, remitos o paquetes dañados y pedir que extraiga datos o arme el reporte del reclamo con más precisión que antes. También sirve para investigar tarifas o novedades de competidores con búsqueda web más confiable.",
+    "verdict": "seguir",
+    "verdict_reason": "Es una mejora automática para quienes ya pagan ChatGPT, no requiere acción más que revisar si mejoran las tareas con imágenes.",
     "categories": [
-      "Marketing",
-      "Comercial",
-      "Automatización"
+      "Productividad",
+      "Análisis",
+      "Operaciones"
     ],
-    "pricing_note": "freemium — acceso de prueba gratuito; no está confirmado si en el futuro suma un plan pago",
-    "source_url": "https://www.lanacion.com.ar/economia/IA/la-principal-barrera-es-el-entendimiento-una-herramienta-con-ia-busca-simplificar-el-dia-a-dia-de-nid11092026/",
-    "published_date": "2026-09-11",
-    "priority": "relevante",
-    "id": "ai-guru-luna-de-guru",
+    "pricing_note": "pago: incluido en ChatGPT Plus, Pro, Business y Enterprise; no disponible por ahora en Free ni Go",
+    "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "published_date": "2026-11-23",
+    "priority": "informativo",
+    "id": "ai-openai-gpt-6-2-astra-y-gpt-6-2-sol",
     "source_kind": "auto",
-    "last_updated": "2026-09-22",
-    "first_seen": "2026-09-22"
+    "last_updated": "2026-11-26",
+    "first_seen": "2026-11-20"
   },
   {
     "name": "ChatGPT Space (páginas que se actualizan solas)",
@@ -1070,26 +1048,27 @@
     "first_seen": "2026-11-24"
   },
   {
-    "name": "GPT-6.2 Astra y GPT-6.2 Sol",
-    "vendor": "OpenAI",
-    "what_it_is": "Nueva versión de los modelos de OpenAI: Astra para trabajo profesional exigente y Sol, más barato, para tareas cotidianas de redacción y análisis.",
-    "what_changed": "OpenAI los lanzó el 17 de noviembre en ChatGPT Work, Codex y la API, casi dos meses después de cancelar GPT-6.1 Astra. Astra baja su precio en la API a USD 8 por millón de tokens de entrada y USD 40 de salida (antes 10 y 50).",
-    "fixy_use": "Si el equipo ya usa ChatGPT Work, conviene repetir con Astra los análisis que hoy cuestan (por ejemplo, cruzar planillas de envíos con reclamos para detectar zonas o transportes problemáticos) y comparar el resultado. Sol puede quedar para el día a día: respuestas tipo a clientes, resúmenes y borradores comerciales. Si hay automatizaciones conectadas a la API, el recorte de precio de Astra baja el costo de usarlo en tareas puntuales.",
+    "name": "Microsoft Copilot unificado (Home, Code, Autopilot)",
+    "vendor": "Microsoft",
+    "what_it_is": "La app de Microsoft Copilot que junta chat y agente (Home) con herramientas para crear documentos, apps y agentes autónomos dentro del ecosistema Microsoft 365.",
+    "what_changed": "En Ignite (17 de noviembre de 2026) Microsoft pasó a disponibilidad general Home (Chat + Cowork) y Office in Copilot, que permite crear y coeditar Word, Excel y PowerPoint dentro de la app sin cargos medidos; además sumó plugins de Dynamics 365 y Salesforce con skills de ventas prearmadas, mientras Autopilot y Workspaces quedan solo para el programa Frontier.",
+    "fixy_use": "Si alguna área de Fixy trabaja en Microsoft 365, puede pedirle a Copilot que arme el Excel de liquidación mensual de un cliente o la presentación de resultados del Black Friday directamente desde el chat y terminarla en conjunto. Si el CRM es Salesforce o Dynamics, el equipo comercial podría preparar seguimientos y propuestas desde Copilot sin salir del flujo.",
     "verdict": "seguir",
-    "verdict_reason": "Es una mejora incremental sobre modelos que ya están en el radar; vale probarla en tareas reales antes de cambiar flujos.",
+    "verdict_reason": "Solo aplica si Fixy usa Microsoft 365 con licencia de Copilot, y lo más potente (Autopilot, Workspaces) todavía no está disponible para todos.",
     "categories": [
       "Productividad",
-      "Análisis",
+      "Contenido",
+      "Comercial",
       "Automatización"
     ],
-    "pricing_note": "pago: disponible para planes Plus, Pro, Enterprise y Edu en ChatGPT Work; API de Astra a USD 8/40 por millón de tokens (entrada/salida).",
-    "source_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "pricing_note": "pago: requiere licencia de Microsoft 365 Copilot por usuario más consumo para tareas exigentes; Office in Copilot está incluido sin cargos extra",
+    "source_url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/",
     "published_date": "2026-11-17",
     "priority": "informativo",
-    "id": "ai-openai-gpt-6-2-astra-y-gpt-6-2-sol",
+    "id": "ai-microsoft-microsoft-copilot-unificado-home-code-autopilot",
     "source_kind": "auto",
-    "last_updated": "2026-11-20",
-    "first_seen": "2026-11-20"
+    "last_updated": "2026-11-26",
+    "first_seen": "2026-09-26"
   },
   {
     "name": "Pedestal AI (agentes de IA para operaciones logísticas)",

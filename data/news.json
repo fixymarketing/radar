@@ -680,5 +680,27 @@
     "source_kind": "auto",
     "last_updated": "2026-11-25",
     "first_seen": "2026-11-25"
+  },
+  {
+    "title": "Supermercados: las ventas cayeron 3% real en septiembre y el canal online quedó en 3,3% de la facturación",
+    "what_happened": "El INDEC publicó la Encuesta de Supermercados de septiembre de 2026: las ventas a precios constantes cayeron 3% interanual y 0,9% mensual desestacionalizado, y acumulan una baja de 2,9% en los primeros nueve meses. Las ventas online sumaron $81.303,5 millones a precios corrientes, 3,3% del total, con una suba nominal de 19% interanual, mientras el salón de ventas concentró el 96,7%.",
+    "why_it_matters": "Con una suba nominal de 19%, muy por debajo de la inflación interanual (33,1% a octubre), se deduce que el canal online de los supermercados retrocedió en términos reales y perdió peso. El consumo masivo sigue débil justo antes del Black Friday.",
+    "fixy_impact": "El dato sirve para calibrar expectativas de volumen en la temporada alta y para no sobredimensionar capacidad sobre el canal online de consumo masivo, que en supermercados no está creciendo en términos reales.",
+    "category": "Consumo",
+    "geo": "Argentina",
+    "source_name": "INDEC",
+    "source_url": "https://www.indec.gob.ar/uploads/informesdeprensa/super_11_261C1C518934.pdf",
+    "published_date": "2026-11-25",
+    "priority": "relevante",
+    "tags": [
+      "INDEC",
+      "supermercados",
+      "canal online",
+      "consumo"
+    ],
+    "id": "nw-8da5e95953",
+    "source_kind": "auto",
+    "last_updated": "2026-11-26",
+    "first_seen": "2026-11-26"
   }
 ]

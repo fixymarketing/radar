@@ -210,5 +210,20 @@
     "source_kind": "auto",
     "last_updated": "2026-11-25",
     "first_seen": "2026-11-25"
+  },
+  {
+    "topic": "¿El súper online crece o cae? Qué dicen el INDEC y Scentia, y por qué no se contradicen",
+    "why_now": "El INDEC publicó el 25/11 que el canal online de los supermercados subió solo 19% nominal en septiembre, muy por debajo de la inflación, mientras Scentia había marcado al eCommerce como el canal que más empujó el consumo masivo en octubre. Los dos datos circulan la misma semana del Black Friday y generan confusión.",
+    "fixy_angle": "Explicar desde la operación que no es lo mismo el online de las cadenas de supermercados que la venta directa de las marcas por su propia tienda: lo que crece es el canal digital de marca, y ese es el que necesita fulfillment y última milla tercerizados.",
+    "formats": [
+      "LinkedIn",
+      "carrusel"
+    ],
+    "priority": "relevante",
+    "source_url": "https://www.indec.gob.ar/uploads/informesdeprensa/super_11_261C1C518934.pdf",
+    "id": "ct-9e039be8",
+    "source_kind": "auto",
+    "last_updated": "2026-11-26",
+    "first_seen": "2026-11-26"
   }
 ]

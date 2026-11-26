@@ -827,5 +827,27 @@
     "source_kind": "auto",
     "last_updated": "2026-09-15",
     "first_seen": "2026-09-15"
+  },
+  {
+    "name": "Luna de Gurú",
+    "vendor": "Gurú",
+    "what_it_is": "Es una asistente virtual de IA gratuita pensada específicamente para pymes argentinas, que responde mensajes de WhatsApp las 24 horas, arma y publica contenido para redes sociales, gestiona una agenda online y envía campañas de email marketing desde un mismo lugar.",
+    "what_changed": "La empresa argentina Gurú la presentó el 11 de septiembre de 2026, con desarrollo apoyado por una beca de Google (12 ingenieros de la compañía colaboraron); ya la usan más de 550 empresas argentinas y ofrece un acceso de prueba gratuito pensado para pymes que recién empiezan a usar IA.",
+    "fixy_use": "Marketing podría probarla para automatizar la primera respuesta de WhatsApp a leads comerciales (consultas de fulfillment o cotizaciones) fuera de horario, y para armar publicaciones de redes sin depender de un diseñador. También sirve como referencia de precio y alcance a la hora de comparar contra la atención por WhatsApp que Fixy ya tiene armada con Zendesk.",
+    "verdict": "probar",
+    "verdict_reason": "Es gratis, está pensada específicamente para pymes argentinas como Fixy y ataca tareas concretas de marketing y primer contacto comercial sin curva de aprendizaje.",
+    "categories": [
+      "Marketing",
+      "Comercial",
+      "Automatización"
+    ],
+    "pricing_note": "freemium — acceso de prueba gratuito; no está confirmado si en el futuro suma un plan pago",
+    "source_url": "https://www.lanacion.com.ar/economia/IA/la-principal-barrera-es-el-entendimiento-una-herramienta-con-ia-busca-simplificar-el-dia-a-dia-de-nid11092026/",
+    "published_date": "2026-09-11",
+    "priority": "relevante",
+    "id": "ai-guru-luna-de-guru",
+    "source_kind": "auto",
+    "last_updated": "2026-09-22",
+    "first_seen": "2026-09-22"
   }
 ]
