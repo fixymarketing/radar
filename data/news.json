@@ -702,5 +702,71 @@
     "source_kind": "auto",
     "last_updated": "2026-11-26",
     "first_seen": "2026-11-26"
+  },
+  {
+    "title": "Mercado Libre abrió un centro de última milla en Gualeguaychú con capacidad para 26.000 paquetes diarios",
+    "what_happened": "Mercado Libre inauguró el 26 de noviembre un centro de distribución de última milla en Gualeguaychú, Entre Ríos, con una inversión informada de más de US$4,1 millones y 4.400 m². Según la empresa, puede procesar hasta 26.000 paquetes por día y generará más de 300 puestos (80 directos y unos 260 indirectos). Es su tercer centro en la provincia, después de Paraná y Concordia.",
+    "why_it_matters": "Mercado Libre sigue sumando nodos de última milla fuera del AMBA, lo que acorta los plazos de entrega en el interior y sube la vara de velocidad que esperan los compradores en el Litoral.",
+    "fixy_impact": "Las tiendas con clientes en Entre Ríos van a comparar los plazos de Fixy con los de Mercado Envíos en la región; conviene revisar la cobertura y los tiempos de entrega que ofrecemos en el Litoral.",
+    "category": "Última milla",
+    "geo": "Argentina",
+    "source_name": "Análisis Digital",
+    "source_url": "https://www.analisisdigital.com.ar/locales/2026/11/26/en-gualeguaychu-mercado-libre-inauguro-un-centro-logistico-y-sumara-mas-de-300-puestos-de-trabajo",
+    "published_date": "2026-11-26",
+    "priority": "alta",
+    "tags": [
+      "Mercado Libre",
+      "última milla",
+      "Entre Ríos",
+      "centros logísticos"
+    ],
+    "id": "nw-55ba870ae5",
+    "source_kind": "auto",
+    "last_updated": "2026-11-27",
+    "first_seen": "2026-11-27"
+  },
+  {
+    "title": "Black Friday en Mercado Libre: 3 de cada 4 productos muy vendidos no bajaron frente a la semana previa",
+    "what_happened": "Un relevamiento parcial de EligiBien sobre 35.916 productos muy vendidos de Mercado Libre Argentina comparó los precios de las primeras horas del Black Friday, el miércoles 25/11, con el mínimo de cada producto entre el 20 y el 23/11. El 76,1% costaba lo mismo o más que ese mínimo y solo el 13,5% bajó 5% o más. La empresa aclaró que es un corte parcial y que actualizará los datos al cierre del evento.",
+    "why_it_matters": "Se suma a otras mediciones privadas que cuestionan la profundidad real de los descuentos, en un momento en que el consumidor compara más antes de comprar. Eso pone en duda cuánta demanda nueva puede generar la fecha.",
+    "fixy_impact": null,
+    "category": "eCommerce",
+    "geo": "Argentina",
+    "source_name": "Revista Mercado",
+    "source_url": "https://mercado.com.ar/marketing/black-friday-en-mercado-libre-761-de-productos-sin-baja-frente-a-la-semana-previa",
+    "published_date": null,
+    "priority": "relevante",
+    "tags": [
+      "Black Friday",
+      "Mercado Libre",
+      "precios",
+      "consumidor"
+    ],
+    "id": "nw-9566513831",
+    "source_kind": "auto",
+    "last_updated": "2026-11-27",
+    "first_seen": "2026-11-27"
+  },
+  {
+    "title": "Chile proyecta ventas por US$570 millones en su Black Friday, con 362 marcas y apenas 1,8% de crecimiento",
+    "what_happened": "La Cámara de Comercio de Santiago proyecta que el Black Friday chileno, del 27 al 30 de noviembre, movilizará unos US$570 millones, 1,8% más que en 2025. Participan 362 marcas, y esta edición suma herramientas de IA para buscar productos y ofertas.",
+    "why_it_matters": "El mercado vecino también muestra un crecimiento acotado en su evento principal, en un contexto de costos de transporte presionados por el diésel. Los grandes eventos de descuento en la región están más maduros y ya no garantizan saltos de volumen.",
+    "fixy_impact": null,
+    "category": "eCommerce",
+    "geo": "LATAM",
+    "source_name": "BioBioChile",
+    "source_url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/11/23/black-friday-2026-proyectan-ventas-por-us570-millones-y-suma-ia-para-buscar-productos-y-ofertas.shtml",
+    "published_date": "2026-11-23",
+    "priority": "informativo",
+    "tags": [
+      "Black Friday",
+      "Chile",
+      "CCS",
+      "IA aplicada"
+    ],
+    "id": "nw-ac65384b05",
+    "source_kind": "auto",
+    "last_updated": "2026-11-27",
+    "first_seen": "2026-11-27"
   }
 ]

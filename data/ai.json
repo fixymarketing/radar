@@ -111,6 +111,28 @@
     "first_seen": "2026-09-20"
   },
   {
+    "name": "Claude: uso de la computadora (beta) para planes Team y Enterprise",
+    "vendor": "Anthropic",
+    "what_it_is": "Claude puede ver la pantalla del usuario y trabajar dentro de las aplicaciones de escritorio que ese usuario le habilite, haciendo clics y completando pasos como lo haría una persona.",
+    "what_changed": "El 20 de noviembre de 2026 Anthropic habilitó el uso de la computadora en beta para los planes Team y Enterprise (antes estaba limitado a planes individuales). Funciona en la nueva experiencia de Claude Desktop y en web y móvil donde esté activado el acceso a la computadora, y se despliega de forma gradual.",
+    "fixy_use": "Operaciones podría delegarle tareas repetitivas en portales de transportistas o sistemas sin API, como cargar envíos, bajar reportes de entregas o actualizar estados en planillas. Atención al cliente podría usarlo para consultar el seguimiento en varios sistemas y armar la respuesta al cliente sin copiar y pegar a mano.",
+    "verdict": "seguir",
+    "verdict_reason": "Tiene potencial real para tareas manuales, pero está en beta, con despliegue gradual y requiere plan Team o Enterprise y controles de acceso cuidadosos.",
+    "categories": [
+      "Operaciones",
+      "Automatización",
+      "Productividad"
+    ],
+    "pricing_note": "pago: incluido en planes Team y Enterprise de Claude (beta); el owner de la organización tiene que activarlo",
+    "source_url": "https://support.claude.com/en/articles/12138966-release-notes",
+    "published_date": "2026-11-20",
+    "priority": "relevante",
+    "id": "ai-anthropic-claude-uso-de-la-computadora-beta-para-planes-team",
+    "source_kind": "auto",
+    "last_updated": "2026-11-27",
+    "first_seen": "2026-11-27"
+  },
+  {
     "name": "Gemini Notebook: sitios interactivos a partir de las fuentes",
     "vendor": "Google",
     "what_it_is": "Gemini Notebook (el ex NotebookLM) ahora arma una página web interactiva con los documentos que cargaste en un cuaderno: tableros, explicadores visuales o rastreadores de tareas que se abren en otra pestaña y se pueden compartir.",
@@ -936,6 +958,29 @@
     "source_kind": "auto",
     "last_updated": "2026-09-26",
     "first_seen": "2026-09-26"
+  },
+  {
+    "name": "Claude: instalar artifacts como apps de escritorio y enviar archivos a apps conectadas",
+    "vendor": "Anthropic",
+    "what_it_is": "Las mini herramientas que Claude genera (artifacts, por ejemplo un cotizador o un tablero) se pueden instalar como una app en Mac o Windows, con ventana e ícono propios. Además, Claude puede mandar archivos a una app conectada o guardar archivos que esa app ofrece.",
+    "what_changed": "Ambas funciones salieron en beta el 24 de noviembre de 2026. La instalación de artifacts como apps está en Claude Desktop; el envío y guardado de archivos en apps conectadas se despliega de a poco en Pro, Max y Ultra, y en Team y Enterprise cuando el owner lo habilita.",
+    "fixy_use": "Comercial podría pedirle a Claude un cotizador simple de tarifas de fulfillment y última milla e instalarlo como app en las computadoras del equipo, sin depender de un desarrollador. Operaciones o administración podrían hacer que Claude guarde directamente en Drive u otra app conectada los reportes o planillas que arma, en lugar de descargarlos y subirlos a mano.",
+    "verdict": "probar",
+    "verdict_reason": "Es de bajo costo para probar con herramientas internas chicas y saca fricción del día a día, aunque sigue en beta.",
+    "categories": [
+      "Productividad",
+      "Comercial",
+      "Organización",
+      "Automatización"
+    ],
+    "pricing_note": "freemium: la instalación de artifacts está en beta en Claude Desktop; el envío de archivos a apps conectadas es para planes pagos (Pro, Max, Ultra, Team y Enterprise)",
+    "source_url": "https://support.claude.com/en/articles/12138966-release-notes",
+    "published_date": "2026-11-24",
+    "priority": "informativo",
+    "id": "ai-anthropic-claude-instalar-artifacts-como-apps-de-escritorio-",
+    "source_kind": "auto",
+    "last_updated": "2026-11-27",
+    "first_seen": "2026-11-27"
   },
   {
     "name": "GPT-6.2 Astra y GPT-6.2 Sol",

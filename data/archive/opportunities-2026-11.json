@@ -310,5 +310,21 @@
     "source_kind": "auto",
     "last_updated": "2026-11-19",
     "first_seen": "2026-11-19"
+  },
+  {
+    "title": "Confirmar la capacidad de los transportistas tercerizados antes del pico de Black Friday",
+    "context": "Transporte y almacenamiento fue el sector que más empresas empleadoras perdió en el último año en términos porcentuales (2.602 menos). A ocho días del Black Friday del 27/11, cualquier transportista o flete chico que cierre o achique flota en plena temporada alta se traduce en demoras de entrega para los clientes de Fixy.",
+    "action": "Esta semana, llamar a cada transportista y flete tercerizado para confirmar por escrito vehículos y choferes disponibles del 27/11 al 31/12, y dejar identificado un reemplazo para cada zona crítica.",
+    "type": "estratégica",
+    "priority": "relevante",
+    "source_url": "https://www.infobae.com/economia/2026/11/16/el-cierre-de-empresas-no-da-tregua-las-provincias-mas-afectadas-y-los-sectores-que-lideran-las-perdidas/",
+    "linked": [
+      "Transporte y almacenamiento perdió 2.602 empresas empleadoras en un año, la mayor caída porcentual entre los sectores",
+      "Black Friday Argentina 2026"
+    ],
+    "id": "op-846be9ee",
+    "source_kind": "auto",
+    "last_updated": "2026-11-19",
+    "first_seen": "2026-11-19"
   }
 ]

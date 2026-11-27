@@ -5051,5 +5051,46 @@
     "source_kind": "auto",
     "last_updated": "2026-11-13",
     "first_seen": "2026-11-13"
+  },
+  {
+    "scope": "ar",
+    "name": "Black Week Nacional Mayorista 2026",
+    "organizer": "Cámara Argentina de Distribuidores y Autoservicios Mayoristas (CADAM)",
+    "date_start": "2026-11-16",
+    "date_end": "2026-11-23",
+    "date_confirmed": true,
+    "date_note": "Del lunes 16 al lunes 23 de noviembre (ocho días), según Perfil e iProfesional.",
+    "city": "Todo el país",
+    "province": null,
+    "country": "Argentina",
+    "venue": "Unos 200 comercios mayoristas adheridos",
+    "venue_confirmed": true,
+    "format": "presencial",
+    "category": "Retail",
+    "url": "https://www.iprofesional.com/economia/467444-black-week-mayorista-2026-cuando-empieza-y-que-productos-estaran-en-oferta",
+    "source_url": "https://www.perfil.com/noticias/economia/con-el-consumo-en-caida-los-mayoristas-lanzan-un-black-week-con-descuentos-en-200-locales.phtml",
+    "description": "Semana de descuentos de hasta 40% en alimentos, bebidas, limpieza y perfumería en unos 200 locales mayoristas de todo el país. Dato nuevo: se extiende hasta el lunes 23 y la impulsa CADAM.",
+    "fixy_relevance": "Anticipa el pico de consumo previo al Black Friday del 27/11. Ayuda a leer la demanda de consumo masivo y a planificar la capacidad de las semanas de fin de noviembre.",
+    "justification_type": null,
+    "priority": "informativo",
+    "beyond_90": false,
+    "id": "ev-black-mayorista-nacional-week-2026",
+    "source_kind": "auto",
+    "last_updated": "2026-11-14",
+    "first_seen": "2026-11-12",
+    "change_log": [
+      {
+        "date": "2026-11-14",
+        "fields": [
+          "organizer",
+          "date_note",
+          "venue",
+          "format",
+          "source_url",
+          "description",
+          "fixy_relevance"
+        ]
+      }
+    ]
   }
 ]
