@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-11-27T12:10:19.343Z",
-  "last_updated_ar": "27/11/2026, 09:10",
-  "date": "2026-11-27",
+  "generated_at": "2026-11-28T12:11:50.849Z",
+  "last_updated_ar": "28/11/2026, 09:11",
+  "date": "2026-11-28",
   "run_status": "ok",
   "run_errors": [],
-  "summary_line": "En pleno Black Friday, Mercado Libre suma un centro de última milla en Gualeguaychú y un relevamiento muestra que la mayoría de los productos más vendidos casi no bajó de precio: el envío y el plazo pesan más que el descuento.",
+  "summary_line": "Día después del Black Friday, todavía sin balance oficial: Uber queda a un paso de controlar PedidosYa, abre en Tigre un centro logístico para pymes y el miércoles 2 hay rondas de negocios con emprendedores en Córdoba.",
   "counters": {
     "news_today": 3,
-    "news_total": 34,
-    "events_upcoming": 11,
-    "events_ar_upcoming": 5,
-    "events_intl_upcoming": 6,
+    "news_total": 36,
+    "events_upcoming": 9,
+    "events_ar_upcoming": 4,
+    "events_intl_upcoming": 5,
     "events_later": 45,
     "opportunities_open": 8,
     "opportunities_today": 1,
-    "ai_today": 2,
+    "ai_today": 0,
     "ai_to_try": 35,
-    "content_ideas": 16,
+    "content_ideas": 17,
     "added_news": 3,
     "updated_news": 0,
-    "added_events": 3,
-    "updated_events": 3,
-    "added_ai": 2,
-    "archived": 2,
+    "added_events": 0,
+    "updated_events": 0,
+    "added_ai": 0,
+    "archived": 4,
     "discarded_quality": 0
   },
   "next_event": {
-    "id": "ev-congreso-fitac-internacional-2026",
-    "name": "Congreso Internacional FITAC 2026",
-    "date_start": "2026-11-25",
-    "city": "Cartagena de Indias",
+    "id": "ev-black-days-shopping-2026",
+    "name": "Black Shopping Days 2026",
+    "date_start": "2026-11-27",
+    "city": "Todo el país",
     "days_away": 0
   },
   "highlights": [
     {
-      "id": "ev-argentina-black-friday-2026",
+      "id": "nw-4b9fad9bd4",
+      "kind": "news",
+      "title": "Uber se aseguró el 87,13% de Delivery Hero y quedó a un paso de controlar PedidosYa en la Argentina",
+      "priority": "relevante",
+      "one_liner": "Un jugador global con espalda para invertir pasa a controlar la mayor red de dark stores del país y reordena la competencia en la última milla de cercanía."
+    },
+    {
+      "id": "ev-cordoba-diciembre-emprende-2026",
       "kind": "event",
-      "title": "Black Friday Argentina 2026",
-      "priority": "alta",
-      "one_liner": "Hoy es el día de mayor demanda del cierre de noviembre: conviene monitorear volumen, cortes de despacho y capacidad de los transportistas en tiempo real."
-    },
-    {
-      "id": "nw-55ba870ae5",
-      "kind": "news",
-      "title": "Mercado Libre abrió un centro de última milla en Gualeguaychú con capacidad para 26.000 paquetes diarios",
-      "priority": "alta",
-      "one_liner": "Mercado Libre sigue acortando plazos en el interior y sube la vara de velocidad que el comprador del Litoral le va a exigir a cualquier tienda."
-    },
-    {
-      "id": "nw-9566513831",
-      "kind": "news",
-      "title": "Black Friday en Mercado Libre: 3 de cada 4 productos muy vendidos no bajaron frente a la semana previa",
+      "title": "Emprende+ Córdoba (edición diciembre 2026)",
       "priority": "relevante",
-      "one_liner": "Con descuentos poco profundos, la decisión de compra se juega más en envío y plazo que en precio."
+      "one_liner": "Es el miércoles 2 de diciembre: la oportunidad más cercana para conseguir clientes del interior antes del pico de fin de año."
     },
     {
-      "id": "nw-ac65384b05",
-      "kind": "news",
-      "title": "Chile proyecta ventas por US$570 millones en su Black Friday, con 362 marcas y apenas 1,8% de crecimiento",
-      "priority": "informativo",
-      "one_liner": "Los grandes eventos de descuento de la región ya están maduros y no garantizan saltos de volumen."
-    },
-    {
-      "id": "ai-anthropic-claude-uso-de-la-computadora-beta-para-planes-team",
+      "id": "ai-google-gemini-skills-reemplazan-a-los-gems",
       "kind": "ai",
-      "title": "Claude: uso de la computadora (beta) para planes Team y Enterprise",
+      "title": "Gemini Skills (reemplazan a los Gems)",
       "priority": "relevante",
-      "one_liner": "Abre la puerta a automatizar tareas repetitivas en portales de transportistas y sistemas sin API."
+      "one_liner": "Las Skills ya admiten archivos de Drive que se actualizan solos y se pueden compartir, y los Gems personales se apagan en diciembre: conviene migrarlos ahora."
+    },
+    {
+      "id": "nw-cac31b5383",
+      "kind": "news",
+      "title": "Abrió en Tigre un centro logístico con naves de 300 a 1.000 m² pensado para pymes",
+      "priority": "informativo",
+      "one_liner": "Crece en zona norte la oferta de depósitos chicos y modulares, un dato para evaluar nodos cercanos al consumo y para detectar pymes que pueden tercerizar."
+    },
+    {
+      "id": "nw-03cb44b950",
+      "kind": "news",
+      "title": "La \"ley Rappi\" bonaerense consiguió dictamen en el Senado, pero su votación quedaría para 2027",
+      "priority": "informativo",
+      "one_liner": "La regulación del reparto por plataformas en Provincia avanza, aunque no se votaría antes de marzo de 2027."
     }
   ]
 }

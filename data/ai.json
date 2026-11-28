@@ -159,24 +159,24 @@
   {
     "name": "Gemini Skills (reemplazan a los Gems)",
     "vendor": "Google",
-    "what_it_is": "Las skills son instrucciones reutilizables que le enseñan a Gemini cómo hacer una tarea a la manera del equipo (reglas, plantillas, pasos), y se pueden usar desde la app de Gemini y las apps de Workspace.",
-    "what_changed": "Desde el 16 de noviembre de 2026 las skills se pueden compartir con otras personas desde la web de Gemini y pueden incluir archivos de Google Drive, Gemini Notebook y Google Photos, que se mantienen actualizados con la última versión del archivo.",
-    "fixy_use": "Armar una skill de \"respuesta a reclamos de envío\" que tome la planilla de tarifas y la política de devoluciones desde Drive, y compartirla con todo el equipo de atención para que todos respondan con el mismo criterio. Lo mismo para comercial: una skill de cotización que lea el tarifario vigente en Drive, así nadie trabaja con una versión vieja.",
+    "what_it_is": "Las Skills son instrucciones reutilizables de Gemini (reglas, plantillas, criterios del equipo) que se activan en chats y tareas sin tener que reescribir el prompt cada vez.",
+    "what_changed": "Desde el 16 de noviembre de 2026 una Skill puede llevar archivos adjuntos de Drive, Gemini Notebook, Google Photos o la computadora (hasta 100 MB), y se puede compartir con permisos de lectura o edición. Los archivos de Drive y los Notebooks conectados se actualizan en tiempo real. En paralelo, los Gems de cuentas personales quedaron en solo lectura y Google prevé darlos de baja en diciembre.",
+    "fixy_use": "Armar una Skill de atención al cliente con el tarifario, las políticas de devoluciones y los SLA de entrega guardados en Drive, compartida con todo el equipo: cuando cambia el documento, la Skill responde con la versión nueva. Lo mismo sirve para una Skill comercial que arme propuestas con la plantilla y los precios vigentes. Si el equipo usaba Gems, conviene migrarlos y bajar los archivos de conocimiento antes de que se apaguen.",
     "verdict": "probar",
-    "verdict_reason": "Convierte el conocimiento operativo de Fixy en una herramienta compartida sin programar y sin costo extra si ya usan Workspace con Gemini.",
+    "verdict_reason": "Resuelve el problema de tener que actualizar a mano el contexto que usa la IA y permite estandarizar respuestas en todo el equipo.",
     "categories": [
-      "Organización",
       "Productividad",
+      "Organización",
       "Comercial",
-      "Operaciones"
+      "Automatización"
     ],
-    "pricing_note": "freemium: incluido en las ediciones de Google Workspace con Gemini; compartir solo funciona en la web por ahora y respeta las reglas de uso compartido de Drive de la organización",
+    "pricing_note": "no confirmado: viene incluido en la app de Gemini y en Google Workspace; en Workspace el compartir viene activado por defecto y el admin lo puede desactivar",
     "source_url": "https://workspaceupdates.googleblog.com/2026/11/share-skills-add-files-from-Drive-Notebook-Photos-to-skills-Gemini-app.html",
     "published_date": "2026-11-16",
     "priority": "relevante",
     "id": "ai-google-gemini-skills-reemplazan-a-los-gems",
     "source_kind": "auto",
-    "last_updated": "2026-11-26",
+    "last_updated": "2026-11-28",
     "first_seen": "2026-10-07"
   },
   {

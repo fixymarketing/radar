@@ -548,44 +548,6 @@
     ]
   },
   {
-    "scope": "ar",
-    "name": "Effie Awards Argentina 2026",
-    "organizer": "Effie Argentina / Adlatina Group",
-    "date_start": "2026-11-24",
-    "date_end": "2026-11-24",
-    "date_confirmed": true,
-    "date_note": null,
-    "city": "Por confirmar",
-    "province": null,
-    "country": "Argentina",
-    "venue": "Por confirmar",
-    "venue_confirmed": false,
-    "format": "presencial",
-    "category": "Marketing",
-    "url": "https://www.effieargentina.com.ar/",
-    "source_url": "https://effie.org/events/2026-effie-argentina-gala/",
-    "description": "Gala de la 21ª edición de los Effie Awards Argentina, que premia la efectividad en marketing y estrena categorías como Deportes y Entretenimiento y Marketing Disruptivo.",
-    "fixy_relevance": "Útil para relevar casos de marketing efectivo de marcas de retail y eCommerce que trabajan con logística de última milla, y detectar tendencias de comunicación del sector.",
-    "justification_type": null,
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-argentina-awards-effie-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-09-06",
-    "first_seen": "2026-08-20",
-    "change_log": [
-      {
-        "date": "2026-09-06",
-        "fields": [
-          "organizer",
-          "description",
-          "fixy_relevance",
-          "beyond_90"
-        ]
-      }
-    ]
-  },
-  {
     "scope": "intl",
     "name": "WMX Americas 2027",
     "organizer": "Triangle Management Services Ltd.",
@@ -1702,47 +1664,6 @@
     "source_kind": "auto",
     "last_updated": "2026-09-27",
     "first_seen": "2026-09-27"
-  },
-  {
-    "scope": "intl",
-    "name": "EXPOLOG 2026 (Feira Internacional de Logística)",
-    "organizer": "Diário do Nordeste, Instituto Future y Setcarce (producción: Prática Eventos), con coorganización de la Câmara Brasil-Portugal en Ceará",
-    "date_start": "2026-11-23",
-    "date_end": "2026-11-24",
-    "date_confirmed": true,
-    "date_note": "Una sola fuente (Globy, listado de eventos) indica 23 y 24/11/2026 (lunes y martes); sin confirmación del organizador.",
-    "city": "Fortaleza",
-    "province": null,
-    "country": "Brasil",
-    "venue": "Centro de Eventos do Ceará",
-    "venue_confirmed": true,
-    "format": "presencial",
-    "category": "Logística",
-    "url": "https://globy.com/events-calendar/expolog-320a76",
-    "source_url": "https://globy.com/events-calendar/expolog-320a76",
-    "description": "Feria y congreso de logística brasileña con 21 ediciones; plataforma de coordinación estratégica del sector.",
-    "fixy_relevance": "Relevancia media: foco en logística brasileña, sin confirmación de fecha por el organizador.",
-    "justification_type": "aprendizaje",
-    "priority": "informativo",
-    "beyond_90": false,
-    "id": "ev-expolog-feira-internacional-logistica-2026",
-    "source_kind": "auto",
-    "last_updated": "2026-11-01",
-    "first_seen": "2026-09-28",
-    "change_log": [
-      {
-        "date": "2026-11-01",
-        "fields": [
-          "date_note",
-          "url",
-          "source_url",
-          "description",
-          "fixy_relevance",
-          "justification_type",
-          "priority"
-        ]
-      }
-    ]
   },
   {
     "scope": "intl",

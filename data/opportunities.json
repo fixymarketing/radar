@@ -1,5 +1,20 @@
 [
   {
+    "title": "Ir a Emprende+ Córdoba el 2 de diciembre a buscar emprendedores que venden online y necesitan resolver envíos para las fiestas",
+    "context": "Córdoba Emprendedora hace una nueva edición de Emprende+ el miércoles 2 de diciembre en el Centro de Convenciones Córdoba, con rondas de negocios y networking. La edición de septiembre reunió a unas 2.500 personas, en su mayoría emprendedores de la provincia. Llega justo después del Black Friday y antes del pico de fin de año, cuando muchas tiendas chicas se dan cuenta de que no dan abasto con los despachos.",
+    "action": "Anotar a una persona de comercial en las rondas de negocios del 2/12 con una oferta simple de fulfillment y envíos para diciembre (tarifa de prueba por volumen chico) y cargar los contactos en el CRM esa misma semana.",
+    "type": "comercial",
+    "priority": "relevante",
+    "source_url": "https://perfil.com/cordoba/vuelve-emprende-cordoba-reune-a-su-comunidad-emprendedora-con-rondas-de-negocios-y-networking-assX10l6huQw",
+    "linked": [
+      "Emprende+ Córdoba (edición diciembre 2026)"
+    ],
+    "id": "op-1ca61e8c",
+    "source_kind": "auto",
+    "last_updated": "2026-11-28",
+    "first_seen": "2026-11-28"
+  },
+  {
     "title": "Ofrecer a tiendas online de Entre Ríos un plazo de entrega competitivo frente al nuevo centro de Mercado Libre en Gualeguaychú",
     "context": "Mercado Libre inauguró en Gualeguaychú un centro de última milla con capacidad para 26.000 paquetes diarios, el tercero en Entre Ríos. Los compradores de la provincia van a acostumbrarse a plazos más cortos dentro del marketplace, y las tiendas con canal propio van a quedar comparadas con esa velocidad.",
     "action": "Armar un listado de tiendas online con base en Entre Ríos que venden por canal propio y ofrecerles una propuesta de fulfillment con plazos y cobertura al Litoral, antes de que el nuevo centro cambie las expectativas de entrega en la zona.",
@@ -105,21 +120,6 @@
       "Ezeiza prepara una terminal única de courier de 15.000 m² ante el boom de compras en Shein, Temu y Amazon"
     ],
     "id": "op-8b611bdf",
-    "source_kind": "auto",
-    "last_updated": "2026-11-20",
-    "first_seen": "2026-11-20"
-  },
-  {
-    "title": "Contactar tiendas online de Misiones y Corrientes antes de que abra el centro logístico de Mercado Libre en Garupá",
-    "context": "Mercado Libre tiene al 90% la obra de un centro de unos 6.000 m² en Garupá para abastecer Misiones y el norte de Corrientes. Cuando abra, los compradores del NEA van a esperar plazos más cortos también de las tiendas que venden fuera del marketplace.",
-    "action": "Relevar las tiendas online más activas del NEA que venden por canal propio y ofrecerles una cotización de envíos con plazos comparables, antes de que el nuevo centro cambie la expectativa del comprador de la región.",
-    "type": "comercial",
-    "priority": "informativo",
-    "source_url": "https://misionesonline.net/2026/11/16/mercado-libre-construye-un-centro-logistico-en-garupa/",
-    "linked": [
-      "Mercado Libre construye un centro logístico en Garupá para abastecer Misiones y el norte de Corrientes"
-    ],
-    "id": "op-ad8e2012",
     "source_kind": "auto",
     "last_updated": "2026-11-20",
     "first_seen": "2026-11-20"

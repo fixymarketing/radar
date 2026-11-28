@@ -1,28 +1,5 @@
 [
   {
-    "title": "CyberMonday 2026 cerró con $682.185 millones: más unidades vendidas, pero la facturación cayó 20% real",
-    "what_happened": "CACE informó que la edición del 2 al 4 de noviembre facturó $682.185 millones, 6,8% más que los $639.000 millones de 2025 en términos nominales. Las órdenes de compra bajaron a casi 6,5 millones (desde 6,9 millones), mientras que las unidades vendidas subieron a más de 14,6 millones (12,1 millones en 2025) y el ticket promedio pasó de $92.000 a $105.039.",
-    "why_it_matters": "Con inflación interanual cercana al 34%, la facturación real cayó alrededor de 20%. El comprador consolida más productos por pedido y compra de forma más planificada y selectiva.",
-    "fixy_impact": "Menos pedidos pero más unidades por orden implica paquetes más grandes y de mayor valor: conviene reforzar el mensaje de calidad de preparación y seguro ante el Black Friday del 27/11.",
-    "category": "eCommerce",
-    "geo": "Argentina",
-    "source_name": "Infobae",
-    "source_url": "https://www.infobae.com/economia/2026/11/06/malas-noticias-para-el-consumo-online-el-cybermonday-vendio-un-20-menos-que-el-ano-anterior/",
-    "published_date": "2026-11-06",
-    "priority": "alta",
-    "tags": [
-      "CyberMonday",
-      "CACE",
-      "consumo",
-      "ticket promedio",
-      "facturación"
-    ],
-    "id": "nw-b5333cd4e2",
-    "source_kind": "auto",
-    "last_updated": "2026-11-07",
-    "first_seen": "2026-11-07"
-  },
-  {
     "title": "Las ventas minoristas pyme cayeron 1,6% en octubre, pero las ventas online de los comercios crecieron 17,7%",
     "what_happened": "Según el Índice de Ventas Minoristas Pymes de CAME, las ventas de octubre cayeron 1,6% interanual a precios constantes y subieron 0,3% frente a septiembre, con un acumulado de -2% en el año. Las ventas online de los comercios con local a la calle crecieron 17,7% interanual. El relevamiento abarcó 1.161 comercios entre el 30 de octubre y el 5 de noviembre.",
     "why_it_matters": "El canal online sigue siendo el único que crece con firmeza en el comercio pyme, aun con el consumo general en baja y compras de ticket chico. Confirma que el comercio con local físico sigue migrando ventas al canal digital.",
@@ -768,5 +745,74 @@
     "source_kind": "auto",
     "last_updated": "2026-11-27",
     "first_seen": "2026-11-27"
+  },
+  {
+    "title": "Uber se aseguró el 87,13% de Delivery Hero y quedó a un paso de controlar PedidosYa en la Argentina",
+    "what_happened": "Uber informó que, al cerrar el 24 de noviembre el período adicional de aceptación de su oferta pública por Delivery Hero (dueña de PedidosYa), consiguió el 87,13% del capital, muy por encima del mínimo de 50% más una acción que necesitaba. La oferta, anunciada el 16 de julio, paga 41,50 euros en efectivo por acción, lo que valúa a la compañía en unos US$14.800 millones. La operación todavía necesita autorizaciones de control de concentraciones y otras aprobaciones regulatorias, y el cierre está previsto para el segundo semestre de 2027.",
+    "why_it_matters": "PedidosYa, que viene empujando el quick commerce con dark stores y su vertical Market, pasaría a manos de un jugador global con espalda para invertir en delivery y logística urbana. Se reconfigura la competencia en la última milla de cercanía frente a Rappi y Mercado Libre.",
+    "fixy_impact": "Conviene seguir cómo cambia la estrategia de entregas rápidas de PedidosYa bajo Uber: puede subir la vara de velocidad que esperan los compradores y abrir o cerrar espacio para operadores tercerizados de última milla en el AMBA.",
+    "category": "Marketplaces",
+    "geo": "Argentina",
+    "source_name": "La Nación",
+    "source_url": "https://www.lanacion.com.ar/economia/negocios/uber-quedo-a-un-paso-de-tomar-el-control-de-pedidosya-en-la-argentina-nid27112026/",
+    "published_date": "2026-11-27",
+    "priority": "relevante",
+    "tags": [
+      "Uber",
+      "PedidosYa",
+      "Delivery Hero",
+      "adquisiciones",
+      "quick commerce"
+    ],
+    "id": "nw-4b9fad9bd4",
+    "source_kind": "auto",
+    "last_updated": "2026-11-28",
+    "first_seen": "2026-11-28"
+  },
+  {
+    "title": "La \"ley Rappi\" bonaerense consiguió dictamen en el Senado, pero su votación quedaría para 2027",
+    "what_happened": "El proyecto del gobierno bonaerense para regular el trabajo en plataformas como Uber, Cabify, DiDi, Rappi y PedidosYa obtuvo dictamen favorable en la comisión de Legislación General del Senado provincial, con los seis votos del peronismo y el rechazo de la oposición. Crea un Plan Integral para el Trabajo mediante Plataformas Digitales con un registro obligatorio para las empresas (voluntario para repartidores y choferes), seguros a cargo de las plataformas, paradores para los trabajadores y un capítulo de sanciones. Sin los dos tercios necesarios para llevarlo al recinto, su tratamiento quedaría postergado, al menos, hasta marzo de 2027.",
+    "why_it_matters": "Es el intento más concreto de regular a nivel provincial el reparto por aplicaciones en el principal mercado de eCommerce del país; si avanza, suma costos y obligaciones (seguros, registro) al modelo de repartidores independientes.",
+    "fixy_impact": null,
+    "category": "Regulación",
+    "geo": "Argentina",
+    "source_name": "CD Noticias",
+    "source_url": "https://cdnoticias.com/index.php/2026/11/27/la-ley-rappi-dio-un-paso-clave-pero-debera-esperar-para-llegar-al-recinto/",
+    "published_date": "2026-11-27",
+    "priority": "informativo",
+    "tags": [
+      "ley Rappi",
+      "plataformas",
+      "repartidores",
+      "Provincia de Buenos Aires",
+      "regulación laboral"
+    ],
+    "id": "nw-03cb44b950",
+    "source_kind": "auto",
+    "last_updated": "2026-11-28",
+    "first_seen": "2026-11-28"
+  },
+  {
+    "title": "Abrió en Tigre un centro logístico con naves de 300 a 1.000 m² pensado para pymes",
+    "what_happened": "El Grupo Panamericana inauguró el Centro Logístico Panamericana Tigre, en Troncos del Talar, con galpones de entre 300 y 1.000 metros cuadrados orientados a pequeñas y medianas empresas, que albergará a 26 compañías. Es el tercer centro logístico del grupo en el partido de Tigre y ya proyecta un cuarto complejo en Don Torcuato.",
+    "why_it_matters": "Muestra que en el corredor norte del AMBA crece la oferta de depósitos chicos y modulares, un segmento distinto del de las naves premium de gran escala, pensado para empresas que necesitan poca superficie cerca de los centros de consumo.",
+    "fixy_impact": "Es una alternativa de superficie chica y escalable en zona norte, útil para evaluar un nodo de cross-docking o almacenamiento cerca de Panamericana, y también para entender dónde se instalan pymes que pueden demandar fulfillment.",
+    "category": "Logística",
+    "geo": "Argentina",
+    "source_name": "Zona Norte Diario",
+    "source_url": "https://www.zonanortediario.com.ar/26/11/2026/julio-zamora-participo-de-la-inauguracion-de-un-centro-logistico-que-albergara-a-26-empresas-en-tigre/",
+    "published_date": "2026-11-26",
+    "priority": "informativo",
+    "tags": [
+      "centros logísticos",
+      "Tigre",
+      "pymes",
+      "AMBA",
+      "real estate logístico"
+    ],
+    "id": "nw-cac31b5383",
+    "source_kind": "auto",
+    "last_updated": "2026-11-28",
+    "first_seen": "2026-11-28"
   }
 ]

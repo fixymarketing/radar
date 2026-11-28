@@ -326,5 +326,20 @@
     "source_kind": "auto",
     "last_updated": "2026-11-19",
     "first_seen": "2026-11-19"
+  },
+  {
+    "title": "Contactar tiendas online de Misiones y Corrientes antes de que abra el centro logístico de Mercado Libre en Garupá",
+    "context": "Mercado Libre tiene al 90% la obra de un centro de unos 6.000 m² en Garupá para abastecer Misiones y el norte de Corrientes. Cuando abra, los compradores del NEA van a esperar plazos más cortos también de las tiendas que venden fuera del marketplace.",
+    "action": "Relevar las tiendas online más activas del NEA que venden por canal propio y ofrecerles una cotización de envíos con plazos comparables, antes de que el nuevo centro cambie la expectativa del comprador de la región.",
+    "type": "comercial",
+    "priority": "informativo",
+    "source_url": "https://misionesonline.net/2026/11/16/mercado-libre-construye-un-centro-logistico-en-garupa/",
+    "linked": [
+      "Mercado Libre construye un centro logístico en Garupá para abastecer Misiones y el norte de Corrientes"
+    ],
+    "id": "op-ad8e2012",
+    "source_kind": "auto",
+    "last_updated": "2026-11-20",
+    "first_seen": "2026-11-20"
   }
 ]
